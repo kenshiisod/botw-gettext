@@ -1,0 +1,103 @@
+msgid "TerrorEnemy"
+msgstr "Huch!"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ich bin gespannt, was deine Schatzsuche\n"
+"so ans Tageslicht bringt!"
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Ho ho ho...[PauseMid]\n"
+"Wenn du das [Color name=\"blue\"]Parasegel[Color name=\"unset\"] haben möchtest,\n"
+"solltest du dich ins Zeug legen."
+
+msgid "GoodBye04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ich muss schon sagen...[PauseMid] Es ist\n"
+"beeindruckend, dass du es ohne\n"
+"[C9:00 bytes=\"03020200\"]Winterwams bis hierhin geschafft hast.\n"
+"[Sound2 id=\"7\"]Hier.[PauseMid] Als Lohn für deine Tollkühnheit\n"
+"schenke ich dir das [C9:00 bytes=\"03020200\"]Winterwams."
+
+msgid "TerrorExplosion"
+msgstr "Guaah!"
+
+msgid "ClearTerrorEnemy"
+msgstr "Puh..."
+
+msgid "TerrorSword"
+msgstr "He! Hör auf!"
+
+msgid "NakedPlayer"
+msgstr "Warum bist du nackt?"
+
+msgid "TerrorImpulse"
+msgstr "Huch!"
+
+msgid "TerrorFire"
+msgstr "Heiß!"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Ho ho ho...[PauseMid]\n"
+"Schöner Ausblick, was?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "Schöne Aussicht!"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1003"
+msgstr "Wiedersehen."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Die Sonne geht auf."
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Nachts ist es sehr kalt in den Bergen."
+
+msgid "Nagameru00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ja... Hier versperrt einem nichts die\n"
+"Sicht.[PauseMid] Man kann fast das gesamte\n"
+"Plateau überblicken."
+
+msgid "Nagameru01"
+msgstr ""
+"Verwende dein [Color name=\"blue\"]Fernglas[Color name=\"unset\"], um die Schreine\n"
+"zu suchen.[PauseMid] Wenn du einen erspähst,\n"
+"setze eine Markierung!"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Und, was ist mit dem Schatz des\n"
+"Schreins?[PauseMid] So langsam werde ich\n"
+"ungeduldig."
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Und, hast du die übrigen Schreine\n"
+"entdeckt?"
+
+msgid "TerrorArrow"
+msgstr "Was machst du da?!"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho ho!"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Ho ho ho..."
+
+msgid "Near01"
+msgstr "[Animation name=\"CustomLaugh\"]Prächtige Aussicht!"
+
+msgid "TerrorBomb"
+msgstr "Was ist?"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAGyAgAAAAAAABkAAAAEAAAAbAAAAJQAAAC8AAAA5AAAAAwBAAA0AQAAXAEAAIQBAACGAQAAiAEAALABAADYAQAAAAIAACgCAABQAgAAeAIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

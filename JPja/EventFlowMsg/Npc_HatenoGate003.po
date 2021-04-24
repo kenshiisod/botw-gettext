@@ -1,0 +1,193 @@
+#, ruby
+msgid "Talk21"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]剣士様や[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]の兵士達が\n"
+"命を懸けて この世界を守ってくれたって事\n"
+"今を生きている俺らが\n"
+"後世の人達に 伝えていかないと！ だぜ！"
+
+#, ruby
+msgid "Talk22"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]俺も 100年前に生まれてたら\n"
+"\n"
+"ここで剣士様と一緒に \n"
+"ガーディアンと戦ったのになぁ"
+
+msgid "near00"
+msgstr "すっげぇ！"
+
+#, ruby
+msgid "near01"
+msgstr "このアングルも良い！"
+
+msgid "near02"
+msgstr "Zzz…"
+
+#, ruby
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]おっ チィッス！\n"
+"\n"
+"俺の名はプリトスってんだ\n"
+"アンタも[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]を見に来たくち？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk13"
+msgstr ""
+"寝てない…[PauseLong]\n"
+"\n"
+"寝てないぜ！\n"
+"\n"
+"俺はこの[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]で亡くなった\n"
+"剣士様や兵士達の魂に祈りを捧げてんだ…\n"
+"絶対寝てないぜ！\n"
+"\n"
+"なんならアンタも一緒にどうだい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"unset\"]見れば見るほど\n"
+"[Color name=\"red\"]大厄災[Color name=\"unset\"]の凄まじさが伝わってくるよな\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]それにしても\n"
+"このガーディアンの数 すごくないか？\n"
+"それだけその剣士様が\n"
+"[Color name=\"red\"]大厄災[Color name=\"unset\"]にとって脅威だったって事なんだろうな"
+
+#, ruby
+msgid "Talk14"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]そうだよな！\n"
+"だと思ったぜ！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]は[Color name=\"red\"]大厄災[Color name=\"unset\"]から\n"
+"ハテノ村を守った最後の砦！\n"
+"男なら一度は見ておかないと！ [PauseShort]だよな！"
+
+#, ruby
+msgid "Talk15"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]えっ？\n"
+"話しかけといてスルーとか あり得ないだろ？\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]は[Color name=\"red\"]大厄災[Color name=\"unset\"]から\n"
+"ハテノ村を守った最後の砦なんだ\n"
+"アンタもハイリア人なら\n"
+"しっかり勉強しないと！[PauseShort] だぜ！"
+
+#, ruby
+msgid "Talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁ 無理強いはしないけどさ\n"
+"\n"
+"この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]は[Color name=\"red\"]大厄災[Color name=\"unset\"]から\n"
+"ハテノ村を守った最後の砦\n"
+"ここがなかったら\n"
+"今のハテノ村は ないかもしれないんだぜ？\n"
+"亡くなった人達の冥福を祈り\n"
+"その勇姿を語り継いでいくのが\n"
+"今を生きる俺達のなすべきこと！ [PauseShort]だと思うぜ！"
+
+#, ruby
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]こんなガーディアンの大群を\n"
+"よくここで せき止められたよな\n"
+"この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]と剣士様がいなかったら\n"
+"少なくとも[Color name=\"blue\"]ハテノ村[Color name=\"unset\"]は 壊滅してたって話だぜ"
+
+msgid "0000"
+msgstr "そうです"
+
+#, ruby
+msgid "Talk17"
+msgstr ""
+"へぇ まだ若いってのに\n"
+"殊勝な事を言うじゃないか！\n"
+"この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]は[Color name=\"red\"]大厄災[Color name=\"unset\"]から\n"
+"ハテノ村を守った最後の砦\n"
+"ここがなかったら\n"
+"今のハテノ村はないかもしれないからな\n"
+"俺達は 亡くなった人達の冥福を祈り\n"
+"その勇姿を語り継いでいかないとな"
+
+msgid "0001"
+msgstr "さようなら"
+
+#, ruby
+msgid "Talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]知ってる？\n"
+"この[Color name=\"blue\"]ハテノ砦[Color name=\"unset\"]で戦った 剣士様の話？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]……\n"
+"\n"
+"[Sound2 id=\"14\"]ハテノ砦や剣士様について\n"
+"もっと語り合いたいところだが…\n"
+"俺はガーディアンとの戦いで命を落とした\n"
+"剣士様や兵士達のための黙とうに集中したいんだ\n"
+"夜が明けたら 語り合おうぜ"
+
+msgid "0002"
+msgstr "はい"
+
+#, ruby
+msgid "Talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]100年前は 英傑って呼ばれる\n"
+"特別な人達がいたらしくてさ\n"
+"ここで戦った剣士様も\n"
+"その英傑の一人だったそうだぜ\n"
+"他の英傑達はみんな[Color name=\"red\"]大厄災[Color name=\"unset\"]で\n"
+"命を落としたって聞いてるけどさ\n"
+"剣士様だけは\n"
+"ここで命を落としたって説もあれば\n"
+"来たるべき時に備え\n"
+"眠りについたって説もあるんだってよ\n"
+"もし眠りについたってなら\n"
+"まだ生きてるってことだよな？\n"
+"この時代に目が覚めてくんね～かなぁ\n"
+"そしたら絶対 会いに行くんだけどな"
+
+msgid "0003"
+msgstr "やめておきます"
+
+#, ruby
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"red\"]大厄災[Color name=\"unset\"]ってさ… 自分には\n"
+"関係ないことだって思ってたけどさ\n"
+"命を懸けて戦ってくれた人達がいるから\n"
+"自分たちは平和に過ごせてるんだよな…[PauseLong]\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]って… 雨のせいかな\n"
+"ちょっと しんみりしちゃったぜ"
+
+#, ruby
+msgid "0004"
+msgstr "知らないです"
+
+#, ruby
+msgid "0005"
+msgstr "知っています"
+
+#, ruby
+msgid "Talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]おっ やるじゃん！\n"
+"\n"
+"じゃあさ 剣士様は\n"
+"ここで命を落としたって説もあれば\n"
+"来たるべき時に備え\n"
+"眠りについたって説があるのも知ってる？\n"
+"もし眠りについたってなら\n"
+"まだ生きてるってことだよな？\n"
+"この時代に目が覚めてくんね～かなぁ\n"
+"そしたら絶対 会いに行くんだけどな"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAH8AgAAAAAAABgAAAAEAAAAaAAAAIwAAACwAAAA1AAAAPgAAAAcAQAAQAEAAGQBAABmAQAAaAEAAIwBAACwAQAA1AEAANYBAADYAQAA/AEAACACAABEAgAARgIAAEgCAABsAgAAkAIAALQCAADYAgAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8ARwBhAHQAZQAwADAAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8ARwBhAHQAZQAwADAAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8ARwBhAHQAZQAwADAAMwAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAEcAYQB0AGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAEcAYQB0AGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAEcAYQB0AGUAMAAwADMAAAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAATgBwAGMAXwBIAGEAdABlAG4AbwBHAGEAdABlADAAMAAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

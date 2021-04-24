@@ -1,0 +1,269 @@
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Aún no has encontrado el tesoro?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NakedPlayer"
+msgstr "¿No te da frío?"
+
+msgid "TerrorBomb"
+msgstr "¿Qué es eso?"
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Cómo progresa la búsqueda?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Cociné esto"
+
+msgid "0002"
+msgstr "¿Me enseñas?"
+
+msgid "TerrorExplosion"
+msgstr "¡Uaaah!"
+
+msgid "0003"
+msgstr "Adiós"
+
+msgid "0004"
+msgstr "¿Me enseñas?"
+
+msgid "0005"
+msgstr "Adiós"
+
+msgid "Takibi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Me senté para descansar, ¿no lo ves?[PauseMid]\n"
+"Ya no tengo tanta energía como antes."
+
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Oye, ¿tienes hambre, joven?[PauseMid] Puedes\n"
+"emplear mi cacerola para cocinar si\n"
+"lo requieres."
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Jo, jo, jo."
+
+msgid "TerrorImpulse"
+msgstr "¡Aaagh!"
+
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Si quieres cocinar algo, puedes utilizar\n"
+"mi cacerola.[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near01"
+msgstr "¿Dónde estará?"
+
+msgid "TerrorFire"
+msgstr "¡Quema!"
+
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Usa mi cacerola cuando quieras preparar\n"
+"algo.[PauseMid] Solo espero que cocines con buen\n"
+"gusto."
+
+msgid "Sleep00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Mañana me levanto temprano, déjame\n"
+"dormir...[PauseMid] Descansa un poco tú también,\n"
+"joven."
+
+msgid "Near02"
+msgstr "Despacito..."
+
+msgid "Sleep01"
+msgstr ""
+"No hay nada mejor para pasar el tiempo\n"
+"que sentarse junto al fuego."
+
+msgid "Near03"
+msgstr "Zzz..."
+
+msgid "Takibi05"
+msgstr ""
+"Aprovecha esa hoguera para encender\n"
+"el fuego bajo la cacerola.[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near04"
+msgstr "Mmm..."
+
+msgid "TerrorSword"
+msgstr "¡Oye, cuidado!"
+
+msgid "ClearTerrorEnemy"
+msgstr "Uf..."
+
+msgid "Sleep03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Cuando no consigues cazar nada,\n"
+"lo mejor es irse a dormir. Mañana\n"
+"será otro día."
+
+msgid "TerrorArrow"
+msgstr "¡¿Qué haces?!"
+
+msgid "Kari00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]¿No se nota?\n"
+"Estoy cazando, obviamente.[PageBreak]Haz el favor de agacharte antes\n"
+"de que alertes a todos los animales."
+
+msgid "KariKotsu00"
+msgstr ""
+"Puedes intentar cazar con una espada,\n"
+"pero los animales son demasiado rápidos\n"
+"y no dejarán que te acerques.\n"
+"[Sound2 id=\"2\"]Será mejor que consigas un arco.\n"
+"Así podrás disparar desde lejos sin\n"
+"que se percaten de tu presencia.\n"
+"Cuando tengas uno, te daré algunos\n"
+"consejos."
+
+msgid "TalkBokangi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]¿Qué quieres?[PauseMid]\n"
+"Estaba durmiendo muy a gusto...[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari02"
+msgstr ""
+"Oye, tampoco te pido mucho, solo\n"
+"que te agaches."
+
+msgid "KariKotsu01"
+msgstr ""
+"Primero debes localizar a tu presa.\n"
+"Luego, agáchate y acércate a ella\n"
+"despacio para que no te oiga.\n"
+"[Sound2 id=\"18\"]Cuando estés lo suficientemente\n"
+"cerca... Lánzale una flecha antes\n"
+"de que pueda huir.\n"
+"Con la práctica, aprenderás a dónde\n"
+"apuntar para derribar al animal de\n"
+"un solo disparo."
+
+msgid "TerrorEnemy"
+msgstr "¡Aaaay!"
+
+msgid "TalkBokangi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]No vuelvas a despertarme si no\n"
+"es por una buena razón.[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Concentrarse es fundamental para cazar.[PauseMid]\n"
+"Así te olvidas de lo mucho que te duele\n"
+"la espalda. Uf...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu02"
+msgstr ""
+"[Sound2 id=\"17\"]Por cierto, me percaté de que tomaste\n"
+"mi arco.[PauseMid] Veamos si sabes manejarlo."
+
+msgid "Kari04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Silencio...[PauseMid]\n"
+"Estoy cazando, ¿no lo ves?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Estoy un poco cansado y me gustaría\n"
+"tomarme un pequeño respiro."
+
+msgid "KariKotsu04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Voy a dejarlo por hoy.[PauseMid] La espalda\n"
+"me está doliendo demasiado."
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Tengo unas ganas enormes de ver qué\n"
+"clase de tesoro me vas a traer..."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Jo, jo, jo.[PauseMid] Si quieres mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"],\n"
+"tendrás que ganártela."
+
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]Mmm...[PauseMid]\n"
+"¿Y para qué me despiertas entonces?"
+
+msgid "1002"
+msgstr "¿Qué haces?"
+
+msgid "Hadaka00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Yo diría que lo que hago se ve con\n"
+"mucha claridad.[PauseMid] Como tu figura."
+
+msgid "1003"
+msgstr "Adiós"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]¿Mmm? ¿Qué pasa?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo.[PauseMid]\n"
+"Volvemos a vernos.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]¿Cuánto tiempo piensas seguir sin\n"
+"abrigarte?[PauseMid] Lo digo por tu bien, pues\n"
+"yo no acostumbro juzgar a la gente...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]¡Con permiso![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo.[PauseMid]\n"
+"La presa se me volvió a escapar.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Gracias por espantarme la presa, joven.\n"
+"Así no hay quien cace nada...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorInsect"
+msgstr "¡Vete, vete!"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Silencio...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]¿Qué quieres?[PauseMid]\n"
+"Con lo a gusto que dormía...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"15\"]No hagas ruido.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Discúlpame por interrumpir tu destrozo\n"
+"forestal, pero[PauseMid] ¿podrías seguir un poco\n"
+"más lejos, por favor?\n"
+"Estoy intentando cazar y ahuyentarás\n"
+"a mis presas.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]¿Podrías hacer menos ruido?[PauseMid] Creo\n"
+"que te oyen todos los animales\n"
+"de la meseta.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Los monstruos están más activos\n"
+"durante la noche. [PauseMid]Yo que tú esperaría\n"
+"aquí hasta el amanecer.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KwAAAAGmBwAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAAJgMAACgDAABQAwAAeAMAAKADAADIAwAA8AMAABgEAABABAAAQgQAAEQEAABsBAAAlAQAALwEAADkBAAADAUAADQFAABcBQAAhAUAAKwFAACuBQAAsAUAALIFAADaBQAAAgYAACoGAABSBgAAegYAAKIGAADKBgAA8gYAABoHAABCBwAAagcAAJIHAACUBwAAlgcAAJgHAACaBwAAnAcAAJ4HAACgBwAAogcAAKQHAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

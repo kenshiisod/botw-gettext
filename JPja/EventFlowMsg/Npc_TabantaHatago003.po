@@ -1,0 +1,106 @@
+#, ruby
+msgid "talk_0002"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]だよなー！\n"
+"男のロマンだよな！\n"
+"剣から出る光が どんな魔物でも\n"
+"なぎはらうって いうんだからな！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]退魔の剣[Color name=\"unset\"]なんて たいそうな名前が\n"
+"ついてるだけあるぜ"
+
+msgid "0003"
+msgstr "そうですね"
+
+#, ruby
+msgid "talk_0054"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]伝説通りなら[Color name=\"red\"] 退魔の剣[Color name=\"unset\"]は\n"
+"選ばれし勇者の剣… [PauseShort]もしや 君が…\n"
+"辛いことも多いと思うが くじけるなよ！"
+
+#, ruby
+msgid "talk_0003"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"9\"][Color name=\"red\"]退魔の剣[Color name=\"unset\"]だよ！\n"
+"ハイラルのどこかにあるっていう 伝説の！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]その剣 ひと振りすれば…[PauseMid]\n"
+"切先から 聖なる光があふれだし…\n"
+"どんな魔物も なぎはらい\n"
+"平穏をもたらすという… [PauseMid]ハァ… ロマンだ！"
+
+#, ruby
+msgid "talk_0004"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]俺が[Color name=\"red\"]退魔の剣[Color name=\"unset\"]を手に入れたら…？[PauseLong]\n"
+"そうだな…\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]剣の聖なる光で [Color name=\"blue\"]ヘブラ山脈[Color name=\"unset\"]にいる魔物を\n"
+"ぜーんぶぶちのめしてやるぜ！"
+
+#, ruby
+msgid "talk_0100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ヘブラ山脈[Color name=\"unset\"]を散策するなら\n"
+"外の鍋で 寒さをしのげる料理を作るといいぞ\n"
+"何の対策もなしに 雪山へ行くのは\n"
+"冒険者として 失格だ！"
+
+#, ruby
+msgid "talk_0050"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]だよなー！\n"
+"男のロマンだよな！\n"
+"剣から出る光が どんな魔物でも\n"
+"なぎはらうって いうんだからな！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]退魔の剣[Color name=\"unset\"]なんて たいそうな名前が\n"
+"ついてるだけあるぜ[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_1000"
+msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]たいまの… ンゴゴ…[Size percent=\"100\"]"
+
+msgid "near_0001"
+msgstr "おぉ… さみぃ…"
+
+msgid "0000"
+msgstr "わかる！"
+
+#, ruby
+msgid "talk_0051"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"9\"][Color name=\"red\"]退魔の剣[Color name=\"unset\"]だよ！\n"
+"ハイラルのどこかにあるっていう 伝説の！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]その剣 ひと振りすれば…\n"
+"切先から 聖なる光があふれだし…\n"
+"どんな魔物も なぎはらい\n"
+"平穏をもたらすという… [PauseMid]ハァ…ロマンだ！[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "なんのこと？"
+
+#, ruby
+msgid "talk_0052"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"19\"]えっ？ それが [Color name=\"red\"]退魔の剣[Color name=\"unset\"]だって？[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]ふんふん… [PauseShort]ハァ～…[PauseShort]\n"
+"なるほど [PauseShort]なるほど…\n"
+"[Sound1 unk1=\"0\" unk2=\"25\"]想像してたより ずいぶんと細身の剣なんだな[PageBreak]伝説の剣っていうくらいだから もっとゴツくて\n"
+"俺の背丈くらいあるかと 思っていたぜ\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]いやぁ [PauseShort]いいものを見せてもらったよ！\n"
+"一生の思い出になりそうだ"
+
+#, ruby
+msgid "talk_0001"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]絶対カッコイイに決まってるさ！\n"
+"…なあ 君ならわかってくれるだろ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "これです"
+
+#, ruby
+msgid "talk_0053"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]生きてるうちに 実物を見てみたいぜ…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAGYAgAAAAAAABAAAAAEAAAASAAAAHIAAACcAAAAxgAAAPAAAAAaAQAARAEAAG4BAACYAQAAmgEAAJwBAADGAQAA8AEAABoCAABEAgAAbgIAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBIAGEAdABhAGcAbwAwADAAMwAAAAAAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEASABhAHQAYQBnAG8AMAAwADMAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

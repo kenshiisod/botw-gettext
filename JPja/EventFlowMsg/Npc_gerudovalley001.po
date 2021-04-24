@@ -1,0 +1,69 @@
+msgid "Talk_02"
+msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]ゴー…… ゴー……[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]へへっ いつも助かるよ…\n"
+"\n"
+"でも もういいのかい？\n"
+"\n"
+"あんちゃん…[PauseLong]\n"
+"あんた まだブツ持ってんじゃないのかい？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0009"
+msgstr "やめておきます"
+
+#, ruby
+msgid "Talk_21"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]へへつ\n"
+"\n"
+"長年馬宿やって 色んな客を見て来たからな\n"
+"\n"
+"俺に隠し事しようたって\n"
+"そうはいかないぜ\n"
+"さぁ 見せてみな[PauseLong]\n"
+""
+
+#, ruby
+msgid "Talk_22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]俺の取引単位は[Color name=\"blue\"]55[Color name=\"unset\"]からだ…\n"
+"少ない数じゃないし まぁ仕方ないな\n"
+"取引は 相場のおよそ倍…\n"
+"\n"
+"へへっ \n"
+"俺はいつでもここで 待ってるぜ"
+
+#, ruby
+msgid "Talk_0001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]やっぱり また来たな…[PauseLong]\n"
+"\n"
+"馬宿をやってると\n"
+"色んな客がくるんでな\n"
+"取引してくれそうな客かどうかは\n"
+"見ただけでわかるんだよ\n"
+"…で 例のブツは\n"
+"持ってきてくれたのかい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]よぉ…"
+
+#, ruby
+msgid "0000"
+msgstr "ブツ持ってきました"
+
+msgid "0001"
+msgstr "ブツはないです"
+
+#, ruby
+msgid "0008"
+msgstr "取引します"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BwAAAAEoAQAAAAAAAAoAAAAEAAAAMAAAAFgAAABaAAAAXAAAAIQAAACsAAAA1AAAANYAAADYAAAAAAEAAE4AcABjAF8AZwBlAHIAdQBkAG8AdgBhAGwAbABlAHkAMAAwADEAAAAAAAAATgBwAGMAXwBnAGUAcgB1AGQAbwB2AGEAbABsAGUAeQAwADAAMQAAAE4AcABjAF8AZwBlAHIAdQBkAG8AdgBhAGwAbABlAHkAMAAwADEAAABOAHAAYwBfAGcAZQByAHUAZABvAHYAYQBsAGwAZQB5ADAAMAAxAAAAAAAAAE4AcABjAF8AZwBlAHIAdQBkAG8AdgBhAGwAbABlAHkAMAAwADEAAABOAHAAYwBfAGcAZQByAHUAZABvAHYAYQBsAGwAZQB5ADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

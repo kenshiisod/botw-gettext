@@ -1,0 +1,96 @@
+msgid "0001"
+msgstr "不需要"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]不過……[PauseShort][Color name=\"blue\"]東阿卡萊饅頭[Color name=\"unset\"]畢竟是生鮮物，[PauseShort]\n"
+"非常容易腐壞，\n"
+"所以要當場食用。[PauseShort]\n"
+"可以嗎～[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "好啊"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]那麼跟你收[Color name=\"red\"]10盧比[Color name=\"unset\"]啊～[Choice2 label1=\"4\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0003"
+msgstr "還是算了"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"35\"]嘿嘿，謝謝惠顧～[PauseShort]\n"
+"那麼請閉上眼睛張開嘴巴，\n"
+"[Size percent=\"125\"]啊～～～～[Size percent=\"100\"]"
+
+msgid "0004"
+msgstr "來，給你"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]期待你[PauseShort]再次光顧～"
+
+msgid "talk00"
+msgstr ""
+"[Sound2 id=\"1\"][Sound1 unk1=\"6\" unk2=\"1\"]嘿～～\n"
+"\n"
+"歡迎來到世界最東邊的驛站，[PauseShort]\n"
+"[Color name=\"blue\"]東阿卡萊驛站[Color name=\"unset\"]～"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"17\"]啊～～～[PauseShort]客人啊，[PauseLong]\n"
+"你的盧比不夠啦～！"
+
+msgid "near00"
+msgstr "歡迎光臨～"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"6\" unk2=\"15\"]歡迎再來啊～"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]好了，[PauseShort]嚼……嚼……\n"
+"\n"
+"[Size percent=\"125\"]吞下……[Size percent=\"100\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]話說回來啊，客人。"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]如何啊客人，[PauseLong]\n"
+"很美味吧～？"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]外頭酥酥脆脆，裡頭軟軟ＱＱ，[PauseShort]\n"
+"只要吃一口，[Color name=\"red\"]精神就會滾滾來。[Color name=\"unset\"]\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]要不要來點[Color name=\"blue\"]東阿卡萊驛站[Color name=\"unset\"]的名產，[PauseShort]\n"
+"[Color name=\"blue\"]東阿卡萊饅頭[Color name=\"unset\"]啊～[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]是否需要[PauseShort]\n"
+"[Color name=\"blue\"]東阿卡萊饅頭[Color name=\"unset\"]啊～？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"35\"]太～感謝～你啦～"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]咦？[PauseShort]奇怪了～？\n"
+"\n"
+"你沒有變得[PauseShort]\n"
+"[Color name=\"red\"]精神滾滾來[Color name=\"unset\"]嗎～？"
+
+msgid "0000"
+msgstr "請給我"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]歡迎～光臨～"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAHmAgAAAAAAABUAAAAEAAAAXAAAAIQAAACGAAAAiAAAAIoAAACMAAAAjgAAALYAAADeAAAABgEAAC4BAABWAQAAfgEAAKYBAADOAQAA9gEAAB4CAABGAgAAbgIAAJYCAAC+AgAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAAAAAAAAAAAAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

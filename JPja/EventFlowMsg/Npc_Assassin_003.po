@@ -1,0 +1,86 @@
+msgid "0001"
+msgstr "……"
+
+msgid "0002"
+msgstr "それって…"
+
+msgid "0003"
+msgstr "……"
+
+msgid "0004"
+msgstr "そうだね"
+
+#, ruby
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]1年ほど前の事だ……[PauseLong]\n"
+"私は この辺りの街道を 夜中に歩いていた\n"
+"ふと光が目に入り 空を見てみると……[PauseLong]\n"
+"そこには 怪しく光る物体が浮いていた\n"
+"あまりのことに 動くことができずにいると……[PauseLong]\n"
+"次の瞬間…… 強烈な光に包まれ\n"
+"気が付くと 私はベッドの上にいた……"
+
+msgid "0005"
+msgstr "……"
+
+#, ruby
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]どう思う？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"13\"]そうか……[PauseLong]\n"
+"では 最近のことだ……\n"
+"誰かが呼ぶような声がして 目を開けると……[PauseLong]\n"
+"見知らぬベッドの上にいた\n"
+"何もない部屋の片隅に目をやると……[PauseLong]\n"
+"怪しく光る機械が置いてあった\n"
+"[Sound2 id=\"14\"]その機械に触れると……[PauseLong]\n"
+"何やら 懐かしい感じがして\n"
+"気が付くと ここにいた……"
+
+#, ruby
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]どう思う？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]そう…… キミのことだ……[PauseLong]\n"
+"ハイリアの英傑さん"
+
+#, ruby
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]お命 ちょうだい する！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+#, ruby
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それじゃ…… ハイリアの英傑さん"
+
+#, ruby
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇だ！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"14\"]ぶつぶつ……"
+
+#, ruby
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]いい景色だな……[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]目に焼き付けておくがいい……[PauseMid]\n"
+"これが…… キミが最期に見る景色だ"
+
+msgid "0000"
+msgstr "どうって？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAHOAQAAAAAAABEAAAAEAAAATAAAAG4AAACQAAAAkgAAAJQAAAC2AAAA2AAAANoAAADcAAAA/gAAACABAABCAQAARAEAAEYBAABoAQAAigEAAKwBAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAAzAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAAMwAAAAAAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAAzAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAAMwAAAAAAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAAzAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAAMwAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADMAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAAMwAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADMAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAAzAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAAMwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

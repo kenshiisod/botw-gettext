@@ -1,0 +1,151 @@
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]おはよう"
+
+#, ruby
+msgid "near00"
+msgstr "聖なる神具…"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]こんにちは"
+
+#, ruby
+msgid "talk16"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]ごめんなさい [PauseShort]まだ名乗ってなかったね"
+
+#, ruby
+msgid "near01"
+msgstr "力の泉に…"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]こんばんは"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]はいはい…"
+
+#, ruby
+msgid "near02"
+msgstr "姫様の…"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]全国を旅行したけど[PauseShort]\n"
+"なんだかんだで [Color name=\"blue\"]アッカレ地方[Color name=\"unset\"]が一番好き"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ここから[Color name=\"red\"]北[Color name=\"unset\"]に行けば[PauseShort]\n"
+"灯台の様なお家があったわ\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]私が行った時は 留守だったけど…"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"34\"]目が覚めちゃったじゃない…[PauseLong]\n"
+"まぁ いいけどサ"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]よく分からないけど…\n"
+"\n"
+"でも 少し前から[PauseShort]\n"
+"[Color name=\"blue\"]アッカレ湖[Color name=\"unset\"]の方が トンカン騒がしいわ\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]アッカレ湖[Color name=\"unset\"]なら ここから[Color name=\"red\"]南[Color name=\"unset\"]よ[PauseShort]\n"
+"気になるなら 行ってみたら？"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]だから この辺の事なら[PauseShort]\n"
+"一通り知ってるつもりだけど…"
+
+#, ruby
+msgid "talk08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]何か聞きたい事ある？[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"25\"]そうね… [PauseShort]ここの馬宿から[Color name=\"red\"]西[Color name=\"unset\"]に行くと[PauseShort]\n"
+"[Color name=\"red\"]力の泉[Color name=\"unset\"]と呼ばれる 聖なる泉があるわ\n"
+"「力の泉に聖なる[Color name=\"red\"]神具[Color name=\"unset\"]を捧げよ」[PauseLong]\n"
+"っていう 言い伝えがあるけど…\n"
+"[Animation name=\"Think_00\"][Color name=\"blue\"]ハイラル城[Color name=\"unset\"]のお姫様が[PauseShort]\n"
+"執り行ってた 儀式か何かかしらね？"
+
+#, ruby
+msgid "0000"
+msgstr "エノキダ知ってる？"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"25\"]この馬宿の[Color name=\"red\"]西[Color name=\"unset\"]にある[Color name=\"red\"]力の泉[Color name=\"unset\"]は[PauseShort]\n"
+"歴代の姫様が 禊に来てた事で 有名よ\n"
+"「力の泉に聖なる[Color name=\"red\"]神具[Color name=\"unset\"]を捧げよ」っていう[PauseShort]\n"
+"言い伝えも あるくらいだし…\n"
+"聖なる[Color name=\"red\"]神具[Color name=\"unset\"]って呼ばれる物を[PauseShort]\n"
+"その禊で 使ってたのかしらね？"
+
+#, ruby
+msgid "0001"
+msgstr "この辺りについて"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]この馬宿の西…\n"
+"\n"
+"[Sound1 unk1=\"10\" unk2=\"20\"]え？ [PauseMid]もう[Color name=\"blue\"]力の泉[Color name=\"unset\"]に 行ってきたって？\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]実は私 行った事が無いの…[PauseLong]\n"
+"近いと いつでもいいかって [PauseShort]思っちゃうのよね"
+
+msgid "0002"
+msgstr "あなたって？"
+
+msgid "0003"
+msgstr "さようなら"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]またね"
+
+#, ruby
+msgid "0004"
+msgstr "ちょっと遠くについて"
+
+#, ruby
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]私はノボタン"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]なぁに？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"6\" unk2=\"19\"]あら…"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"6\"]エノキダ？[PauseLong]\n"
+"誰それ… [PauseShort]大工さんなの？"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]ん？ [PauseShort]この辺じゃ見ない顔ね\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]こんな世界の果てに旅行なんて[PauseShort]\n"
+"あなたも物好きね[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk14"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]他に聞きたい事 ある？[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFGBAAAAAAAAB0AAAAEAAAAfAAAAKQAAADMAAAA9AAAAPYAAAD4AAAA+gAAAPwAAAD+AAAAJgEAAE4BAAB2AQAAngEAAMYBAADuAQAAFgIAAD4CAABmAgAAjgIAALYCAADeAgAABgMAAC4DAABWAwAAfgMAAKYDAADOAwAA9gMAAB4EAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

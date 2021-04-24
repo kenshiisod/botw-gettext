@@ -1,0 +1,372 @@
+#, ruby
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"まずは 相手の装備品をチェックします！"
+
+msgid "TerrorExplosion"
+msgstr "きゃぁ！"
+
+#, ruby
+msgid "talk36"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]まぁ そこに気が付くなんて\n"
+"ディショーナちゃん なかなかやるわね\n"
+"わかりやすいのは 装備の中でも装飾品よ\n"
+"さりげなくチェックするようにね"
+
+#, ruby
+msgid "talk37"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"すぐに婚姻の契りをかわします！"
+
+msgid "talk20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！"
+
+#, ruby
+msgid "talk38"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]リッスンちゃん…[PauseLong]\n"
+"\n"
+"あとで先生とゆっくり話しましょうか…"
+
+msgid "talk21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！"
+
+#, ruby
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あら…[PauseLong]\n"
+"アナタも 私の恋のレッスンを受けたいの？\n"
+"私はワーシャよ[PauseShort]\n"
+"\n"
+"昼は 恋愛教室\n"
+"夜は 料理教室を開いて\n"
+"ゲルドのヴァーイ達に\n"
+"恋のABCを教えてるの[PauseShort]\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]よかったら[PauseShort] アナタも一緒にいかが？"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら… アナタ…\n"
+"また恋のレッスンを 受けたいのかしら？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]みなさ～ん\n"
+"\n"
+"どんなリクエストにも笑顔で応えるのが\n"
+"ステキヴァーイになる一歩！\n"
+"また この可愛いヴァーイに\n"
+"皆さんの日頃の成果を見せて差し上げましょう\n"
+"では…[PauseLong]\n"
+"\n"
+"ステキヴォーイが 倒れています\n"
+"アナタ達なら どうする？"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"すぐに 病院に運びます！"
+
+#, ruby
+msgid "TerrorBomb"
+msgstr "何をする気？"
+
+#, ruby
+msgid "0000"
+msgstr "見学する"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]さすがプシャンちゃん\n"
+"的確な行動ね\n"
+"ただ… アナタが担いで運んじゃダメよ\n"
+"ヴォーイはか弱いヴァーイに 弱いんだから"
+
+msgid "0001"
+msgstr "やめておく"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"その場で薬を作り\n"
+"手当します！"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]この子達は まだヴォーイと\n"
+"触れ合ったこともないの…\n"
+"運命の人に巡り合った時に\n"
+"射止められるよう後押しするのが 私の役目なの"
+
+msgid "0002"
+msgstr "ハートミルクスープ？"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]ヴォーイは手作りのものに弱い…\n"
+"\n"
+"さすが ディショーナちゃん\n"
+"ヴォーイ心をおさえてるわね！"
+
+msgid "TerrorSword"
+msgstr "な なんなの？！"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら アナタもヴォーイハントのレッスン\n"
+"受けたいのかしら？\n"
+"夜は私のお家で お料理教室をやってるの\n"
+"良かったらおいでなさいな"
+
+msgid "0003"
+msgstr "さよなら"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"誰にも見つからないように\n"
+"家に連れて帰ります！"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら… 私の恋のお料理レッスンを\n"
+"受けたいのかしら？\n"
+"ヴォーイを射止めたいなら\n"
+"一緒にどうかしら…？[PauseLong]\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]と言いたいところなんだけど\n"
+"今日レッスンしようと思ってた\n"
+"[Color name=\"red\"]ハートミルクスープ[Color name=\"unset\"]のレシピが\n"
+"ちょっと思い出せないのよね…[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0004"
+msgstr "そうですね！"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]ハートミルクスープ[Color name=\"unset\"]をマスターすれば\n"
+"ヴォーイも マスターできるといわれていてね\n"
+"[Color name=\"blue\"]フレッシュミルク[Color name=\"unset\"]と[Color name=\"blue\"]ビリビリフルーツ[Color name=\"unset\"]と\n"
+"[Color name=\"blue\"]ヒンヤリメロン[Color name=\"unset\"]が1つずつ\n"
+"あとは[Color name=\"blue\"]ハート型の野菜[Color name=\"unset\"]が2つ 必要なんだけど…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]そのハート形の野菜がなんだったのか…[PauseShort]\n"
+"どうしても思い出せないのよね…[PauseLong]"
+
+msgid "0005"
+msgstr "それはどうかと…"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら 私のヴォーイハントのレッスン\n"
+"受けたいのかしら？\n"
+"恋のABC教室なら 兵舎の中よ\n"
+"良かったらおいでなさいな"
+
+msgid "TerrorFire"
+msgstr "や やめなさい！"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]う～ん\n"
+"\n"
+"今日のレッスンは\n"
+"[Color name=\"red\"]ハートミルクスープ[Color name=\"unset\"]にしようと思ってたのに\n"
+"肝心のレシピが\n"
+"ちょっと思い出せないのよね…\n"
+"[Color name=\"blue\"]フレッシュミルク[Color name=\"unset\"]と[Color name=\"blue\"]ビリビリフルーツ[Color name=\"unset\"]と\n"
+"[Color name=\"blue\"]ヒンヤリメロン[Color name=\"unset\"]が1つずつ\n"
+"あとは[Color name=\"blue\"]ハート型の野菜[Color name=\"unset\"]が２つあれば\n"
+"[Color name=\"red\"]ハートミルクスープ[Color name=\"unset\"]が作れるんだけど…[PauseLong]\n"
+"ハート形の野菜って\n"
+"なんだったかしら…[PauseLong]\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]でも まぁいつか思い出せるでしょう…\n"
+"良いヴァーイは 立ち止まったりはしないの"
+
+#, ruby
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]ふふ…[PauseLong]\n"
+"アナタ ウブな顔してわかってるじゃない"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら… 私の恋のＡＢＣレッスンを\n"
+"受けたいのかしら？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]まぁ いつか思い出せるでしょう…\n"
+"いいヴァーイは立ち止まらないものなの"
+
+#, ruby
+msgid "talk41"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]あら…[PauseLong]\n"
+"アナタ まだヴォーイ心がわかってないのね\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]私のレッスン\n"
+"受けたほうがいいんじゃないかしら？"
+
+msgid "talk42"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]みなさ～ん\n"
+"\n"
+"この可愛いヴァーイに 日頃のお勉強の成果を\n"
+"見せて差し上げましょう\n"
+"では…[PauseLong]\n"
+"\n"
+"ステキヴォーイが 歩いてきます\n"
+"アナタ達なら どうする？"
+
+msgid "talk19"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！"
+
+msgid "talk43"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"さりげなく ハンカチーフを落とします！"
+
+msgid "talk44"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]プシャンちゃんは 古典派なのね\n"
+"\n"
+"ハンカチは柄物というより\n"
+"少しだけレースが付いた上品な物がおススメよ"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"足をくじいたふりをします！"
+
+msgid "near00"
+msgstr "あら…"
+
+msgid "TerrorArrow"
+msgstr "お 落ち着きなさい！"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]まぁ ディショーナちゃん\n"
+"そのあざとさ… [PauseLong]\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]大事なことよね～\n"
+"\n"
+"その時には ズボンじゃなくて\n"
+"スカートをはいておくと よりセクシーよ"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"力ずくで 仕留めます！"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]リッスンちゃん…[PauseLong]\n"
+"\n"
+"それは犯罪よ…"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]リッスンちゃん…[PauseLong]\n"
+"\n"
+"それも犯罪よ…"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あら… 私の恋のＡＢＣレッスンを\n"
+"受けたいのかしら？\n"
+"そんなに急がなくても\n"
+"レッスンは みんなが集合してからよ\n"
+"急いては事を仕損じる… 恋も同じよ"
+
+#, ruby
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]昼は恋愛教室\n"
+"夜は料理教室\n"
+"やりすぎって 周りから言われることもあるけど\n"
+"恋愛に やりすぎなんてないと思わない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]アナタ…\n"
+"心に決めた人はいる？"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]みなさ～ん\n"
+"\n"
+"どんなリクエストにも笑顔で応えるのが\n"
+"ステキヴァーイになる一歩！\n"
+"また この可愛いヴァーイに\n"
+"皆さんの日頃の成果を見せて差し上げましょう\n"
+"では…[PauseLong]\n"
+"\n"
+"なんと！ ステキヴォーイが声をかけてきました\n"
+"アナタ達なら どうする？"
+
+#, ruby
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ハイ！\n"
+"\n"
+"悩む振りをしてみます！"
+
+#, ruby
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]さすがプシャンちゃん\n"
+"ジラしは上級テクニックよ\n"
+"徐々に 心を開いてる感じを演技するのは\n"
+"なかなか難しいから\n"
+"しっかり練習しておくようにね"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAHQBgAAAAAAADYAAAAEAAAA4AAAAAIBAAAkAQAARgEAAGgBAACKAQAArAEAAK4BAACwAQAA0gEAAPgBAAAaAgAAQAIAAGICAACIAgAAqgIAAMwCAADuAgAAEAMAADIDAABUAwAAdgMAAHgDAAB6AwAAnAMAAL4DAADgAwAAAgQAACQEAABGBAAAbAQAAI4EAAC0BAAA1gQAAPwEAAAeBQAAQAUAAGYFAACIBQAArgUAANAFAAD2BQAAGAYAADoGAAA8BgAAPgYAAGAGAACCBgAApAYAAMYGAADIBgAAygYAAMwGAADOBgAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAAAAAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQQAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAAAAAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEEAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBBAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBCAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAAAAAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAE4AcABjAF8ATwBhAHMAaQBzAFQAZQBhAGMAaABlAHIAAABOAHAAYwBfAE8AYQBzAGkAcwBUAGUAYQBjAGgAZQByAAAATgBwAGMAXwBPAGEAcwBpAHMAVABlAGEAYwBoAGUAcgAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

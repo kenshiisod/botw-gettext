@@ -1,0 +1,106 @@
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Понравился массаж?[PauseShort] Все\n"
+"ребра целы?[PauseShort] Приходи еще!"
+
+msgid "Talk11"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"125\"]Добро пожаловать![Size percent=\"100\"]"
+
+msgid "Talk12"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"0\"]Приветствую, полуночник![Size percent=\"100\"]"
+
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]Дружище, ты что, никогда не\n"
+"слышал про горонский массаж?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Тебя кладут на голые камни\n"
+"и мнут так, что кости хрустят.[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Не бойся, это почти не больно.[PauseShort]\n"
+"Ты даже спать при этом можешь![PageBreak]А когда проснешься, почувствуешь\n"
+"себя заново родившимся![PauseShort] Итак..."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Обычная кровать — [Color name=\"red\"]20 рупий[Color name=\"unset\"].[PauseShort]\n"
+"Если хочешь еще и горонский\n"
+"массаж — [Color name=\"red\"]80 рупий[Color name=\"unset\"].[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Привет, дружище.[PauseShort] Слышал\n"
+"последние новости?[PageBreak][Color name=\"blue\"]Рудания[Color name=\"unset\"] угомонился, и из вулкана\n"
+"больше не летят [Color name=\"blue\"]горящие глыбы[Color name=\"unset\"].[PageBreak]Они мне, конечно, и так не\n"
+"мешали — на улицу-то я не\n"
+"выхожу...[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Ладно, давай к делу!"
+
+msgid "Talk02"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"4\"]Ну пока.[PauseShort] Не забывай отдыхать.[Size percent=\"100\"]"
+
+msgid "Talk15"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"3\"]Понял![PauseShort] Жду![Size percent=\"100\"]"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]Дружище, ты, кажись, на мели![PauseShort]\n"
+"Я тут не благотворительностью\n"
+"занимаюсь."
+
+msgid "Talk16"
+msgstr "[Sound1 unk1=\"1\" unk2=\"3\"][Size percent=\"125\"]Эй, Волкон, тут клиент![Size percent=\"100\"]"
+
+msgid "0000"
+msgstr "Обычную кровать"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Только кровать, значит? Понятно.\n"
+"Когда тебя разбудить?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk17"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Понравился массаж?[PauseShort] Все\n"
+"ребра целы?[PauseShort] Приходи еще!"
+
+msgid "0001"
+msgstr "Кровать и массаж"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Кровать и массаж, значит? Отлично!\n"
+"Когда тебя разбудить?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "До свидания"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Приятных снов!"
+
+msgid "0003"
+msgstr "Утром"
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Понял.[PauseShort] Ложись на камни!"
+
+msgid "0004"
+msgstr "Днем"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]Доброе утро![Size percent=\"100\"]"
+
+msgid "0005"
+msgstr "Вечером"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Надеюсь, тебе у нас хорошо\n"
+"спалось.[PauseShort] Приходи еще."
+
+msgid "0006"
+msgstr "Я передумал"
+
+msgid "0007"
+msgstr "Массаж?"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAE2AgAAAAAAABkAAAAEAAAAbAAAAG4AAABwAAAAcgAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAlgAAALAAAADKAAAA5AAAAP4AAAAYAQAAMgEAAEwBAABmAQAAgAEAAJoBAAC0AQAAzgEAAOgBAAACAgAAHAIAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

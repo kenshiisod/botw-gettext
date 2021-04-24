@@ -1,0 +1,133 @@
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"34\"]ワシら もう寝るんじゃ[PauseShort]\n"
+"また 明日にしてくれんかいさ"
+
+#, ruby
+msgid "0001"
+msgstr "自分でやれば？"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]それでこそ 男じゃ[PauseShort]\n"
+"\n"
+"場所は [Color name=\"blue\"]アライソ海岸[Color name=\"unset\"][PauseShort]\n"
+"[Color name=\"red\"]魔物たち[Color name=\"unset\"]は 拠点を作って 占拠しておる\n"
+"あとは 任せたぞ！"
+
+#, ruby
+msgid "0002"
+msgstr "もう倒したよ"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]ワシには 守らなきゃならん 家族がおるのさ\n"
+"無理はできんのじゃ\n"
+"本当だったら 自慢の銛で\n"
+"倒してやりたいんじゃが…"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]頼んだぜ 場所は[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]だ！[PauseShort]\n"
+"\n"
+"こんな雨の日には\n"
+"きっと [Color name=\"red\"]魔物たち[Color name=\"unset\"]も油断してるわいさ"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]アンタ 旅の人かいさ？[PauseShort]\n"
+"ワシは この村で漁師をしとるもんなんじゃが\n"
+"最近 近くの漁場を\n"
+"[Color name=\"red\"]魔物[Color name=\"unset\"]に占拠されて 困っとるのさ\n"
+"[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]\n"
+"あそこは 良い漁場だったってのに…"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]アンタ 見たところ 強そうじゃし[PauseShort]\n"
+"やつらを 退治してくれんかいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]アンタ…[PauseShort] どうじゃ？[PauseShort]\n"
+"\n"
+"[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]を占拠する[Color name=\"red\"]魔物[Color name=\"unset\"][PauseShort][Color name=\"red\"][Color name=\"unset\"]\n"
+"やつらを 退治してくれんかいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]なんと！ アンタ[PauseShort]\n"
+"[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]の[Color name=\"red\"]魔物[Color name=\"unset\"] 退治してくれたんかいさ\n"
+"これでまた あそこで漁ができる[PauseShort]\n"
+"アライソの魚は本当にうまいんじゃ[PauseShort]\n"
+"ありがとうさ～[PauseLong]\n"
+"これは せめてもの礼じゃ"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]アンタ…[PauseShort] どうじゃ？[PauseShort]\n"
+"\n"
+"[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]に巣食った[Color name=\"red\"]魔物[Color name=\"unset\"][PauseShort]\n"
+"やつらを 退治してくれんかいさ？[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]頼んだぜ 場所は[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]だ！[PauseShort]\n"
+"ワシらの 漁場を取り戻すんじゃ！"
+
+msgid "Near00"
+msgstr "ねるさ～"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]アンタ 見たところ 強そうじゃし[PauseShort]\n"
+"やつらを 退治してくれんかいさ？[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]おお アンタ[PauseShort]\n"
+"[Color name=\"blue\"]アライソ海岸[Color name=\"unset\"]の[Color name=\"red\"]魔物[Color name=\"unset\"] 退治してくれたんかいさ\n"
+"これでまた あそこで漁ができる[PauseShort]\n"
+"アライソの魚は本当にうまいんじゃ[PauseShort]\n"
+"ありがとうさ～[PauseLong]\n"
+"これは せめてもの礼じゃ"
+
+msgid "Near01"
+msgstr "むにゃむにゃ"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]また いつでも立ち寄ってくれ！[PauseShort]\n"
+"うまい魚 ご馳走するさ～"
+
+msgid "Near02"
+msgstr "ふう…"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]むにゃむにゃ"
+
+#, ruby
+msgid "Near03"
+msgstr "降ってきたか"
+
+msgid "0000"
+msgstr "まかせて"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAGeAwAAAAAAABUAAAAEAAAAXAAAAIoAAAC4AAAA5gAAABQBAABCAQAAcAEAAJ4BAADMAQAA+gEAACgCAABWAgAAhAIAALICAADgAgAADgMAADwDAABqAwAAmAMAAJoDAACcAwAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADYAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA2AAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

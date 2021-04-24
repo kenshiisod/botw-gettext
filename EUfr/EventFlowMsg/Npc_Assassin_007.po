@@ -1,0 +1,75 @@
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"7\"]... c'est le groupe de combattants fondé\n"
+"par [C9:00 bytes=\"01000000\"]le grand Kohga, celui-là même que\n"
+"tu as vaincu !"
+
+msgid "Talk04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Allons... Tu peux bien écouter ce que j'ai\n"
+"à t'en dire avant de prendre ta décision,\n"
+"non ?[PauseMid] Le gang des Yigas..."
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Comment ? Tu oses refuser..."
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"1\"]Misérable ! Je ne peux pas te laisser\n"
+"en vie..."
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"1\"]Et moi qui pensais que tu pourrais\n"
+"remplacer notre boss... Pauvre fou..."
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Je te le demande encore une fois.\n"
+"Veux-tu nous rejoindre au sein\n"
+"du gang des Yigas ?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Prépare-toi à mourir ![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Tu es plutôt bien bâti[PauseMid] et tu as l'air assez\n"
+"expérimenté dans le maniement de l'épée\n"
+"et de l'arc.\n"
+"Que dirais-tu de nous rejoindre au sein\n"
+"du gang des Yigas ?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Le gang des Yigas ?"
+
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger [C9:00 bytes=\"01000000\"]le grand Kohga ![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "0001"
+msgstr "Euh, non merci."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Comment ? Tu ignores qui nous\n"
+"sommes ?!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Bien... Je vais t'expliquer...[PauseMid]\n"
+"Le gang des Yigas..."
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]... c'est le groupe de fiers combattants\n"
+"fondé par [C9:00 bytes=\"01000000\"]le grand Kohga, pour vaincre\n"
+"le méprisable Héros !\n"
+"Et je dois dire que tu ne pouvais pas\n"
+"mieux tomber...[PauseLong] Link !"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"1\"]Hé, toi, là-bas !"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAHcAQAAAAAAAA4AAAAEAAAAQAAAAGIAAABkAAAAZgAAAIgAAACqAAAAzAAAAO4AAAAQAQAAMgEAAFQBAAB2AQAAmAEAALoBAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA3AAAAAAAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADcAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA3AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANwAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADcAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA3AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANwAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADcAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA3AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADEAMAAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADcAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

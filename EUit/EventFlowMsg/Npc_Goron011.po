@@ -1,0 +1,133 @@
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Buongiorno...[PauseLong] Ho un sonno, stamattina...\n"
+"Ma devo rispondere a tutte le domande\n"
+"del mio allievo."
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Oggi fa caldo...[PauseLong] Ascolta, allievo."
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"34\"]Ho gli occhi che mi si chiudono dal\n"
+"sonno, ma risponderò a tutte le tue\n"
+"domande."
+
+msgid "0000"
+msgstr "Sono un viandante."
+
+msgid "0001"
+msgstr "Arrivederci!"
+
+msgid "talk20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Non ho proprio niente."
+
+msgid "0002"
+msgstr "Chi sei?"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]Cerchi qualcuno che abbia un problema?\n"
+"Beh, [PauseShort]capo Bludo ha mal di schiena..."
+
+msgid "0003"
+msgstr "Dove siamo?"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Sembra che il capo Bludo stia meglio\n"
+"con la schiena.[PauseShort] La pace è ritornata\n"
+"in tutto il territorio!"
+
+msgid "0004"
+msgstr "Dove vivi?"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Vuoi chiedermi qualcosa?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0005"
+msgstr "Qualche problema?"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Uhm..."
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]Stavo per andare a dormire..."
+
+msgid "0006"
+msgstr "Che cosa fai?"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Sto per tornare a casa."
+
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]C'è dell'altro?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Che ti prende?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Puf...[PauseLong] Puf..."
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Uhm..."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Di nuovo tu?[PauseLong] Che c'è?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]C-Che...[PauseShort] cosa?!\n"
+"\n"
+"\n"
+"Prima mi rivolgi la parola e ora te ne vai?\n"
+"Sei proprio strano!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Però mi piace come lavori.[PauseLong]\n"
+"Voglio che tu diventi mio allievo."
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Qualcos'altro?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Allora è deciso! Io sarò il tuo maestro.[PauseShort]\n"
+"I miei allievi [PauseShort]sono tenuti a chiedermi tutto\n"
+"ciò che non sanno.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Sono...[PauseShort] così felice di avere un allievo\n"
+"con tanta voglia di imparare. Torna a\n"
+"chiedermi qualsiasi cosa!"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]Tokacin[Color name=\"unset\"]."
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Oh, mio allievo... [PauseLong]Il tuo maestro darà\n"
+"risposta ad ogni tua domanda.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "near00"
+msgstr "♪"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Città dei Goron."
+
+msgid "talk18"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Gnam... Gnam...[Size percent=\"100\"]"
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Dal [Color name=\"blue\"]fabbro[Color name=\"unset\"]."
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]Sto rispondendo alle domande del mio\n"
+"allievo!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAE+AwAAAAAAACEAAAAEAAAAjAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAAzgAAAOgAAAACAQAAHAEAADYBAABQAQAAagEAAIQBAACeAQAAuAEAANIBAADsAQAABgIAACACAAA6AgAAVAIAAG4CAACIAgAAogIAALwCAADWAgAA8AIAAAoDAAAkAwAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

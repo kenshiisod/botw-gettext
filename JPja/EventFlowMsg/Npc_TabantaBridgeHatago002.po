@@ -1,0 +1,48 @@
+#, ruby
+msgid "0002"
+msgstr "大丈夫だよ"
+
+#, ruby
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]の ガンゴンおばけ\n"
+"雨 大丈夫かなぁ…[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk41"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"18\"]ホント？ ホントに大丈夫かな？？[PauseMid]\n"
+"ガンゴンガンゴン 聞こえなくて しんぱい…[PauseMid]"
+
+msgid "talk50"
+msgstr "[Sound2 id=\"31\"][Size percent=\"80\"]がんごん… ぐう…[Size percent=\"100\"]"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]ガンガンガン！ ゴンゴンゴン！！[Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "なにそれ？"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]兄ちゃん知らないのか？！\n"
+"[Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]の ガンゴンおばけ！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]橋の下… 谷の底から ガンゴンガンゴン…\n"
+"ヘンな音させてる おばけなんだぞ！\n"
+"ホラ 聞こえるだろ？\n"
+"[PauseLong]……アレ？ しないね…\n"
+"[Sound1 unk1=\"5\" unk2=\"19\"]どしたのかな？\n"
+"おばけ寝てるのかな？"
+
+msgid "0001"
+msgstr "ガコーン！"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Size percent=\"125\"]ガコーン！ ガコーン！！[Size percent=\"100\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BwAAAAESAgAAAAAAAAkAAAAEAAAALAAAAGIAAACYAAAAzgAAAAQBAAA6AQAAcAEAAKYBAADcAQAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

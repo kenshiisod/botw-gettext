@@ -1,0 +1,465 @@
+msgid "talk_09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]咦？[PauseMid]\n"
+"你懷裡那個是……？[PauseMid]\n"
+"[Sound1 unk1=\"10\" unk2=\"22\"]那、那是[Color name=\"blue\"]能量獨角仙[Color name=\"unset\"]！\n"
+"是非常稀有的獨角仙！\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]求、求你了！\n"
+"請務必把[Color name=\"blue\"]能量獨角仙[Color name=\"unset\"]讓給特里我！！"
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]你就儘管賣吧！"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]我會不停收購的！"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]儘管賣吧～！"
+
+msgid "TerrorArrow"
+msgstr "快住手！"
+
+msgid "TerrorImpulse"
+msgstr "哦哦！"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？\n"
+"請問要買幾個呢？[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "TerrorGuardian"
+msgstr "天啊～！"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]的話，\n"
+"一共是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_30"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"3\"]嗨，歡迎光臨！[PauseMid]\n"
+"真的很感謝你剛剛把[Color name=\"blue\"]獨角仙[Color name=\"unset\"]讓給我！[PauseMid]"
+
+msgid "Com_Talk_32"
+msgstr ""
+"要買1個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？\n"
+"那樣是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_31"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]要是又發現了，明天也可以送來給我！\n"
+"今天我要好好疼愛這孩子……[PauseMid]"
+
+msgid "Com_Talk_33"
+msgstr ""
+"要賣1個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？\n"
+"那樣是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_talk_20"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]為了表示對你的謝意，\n"
+"這是一點小[Color name=\"red\"]禮物[Color name=\"unset\"]！"
+
+msgid "talk_32"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]呀呼！[Color name=\"blue\"]特里[Color name=\"unset\"]超感謝你！\n"
+"你是個大好人！！\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]我今天會緊緊黏著這隻[Color name=\"blue\"]獨角仙[Color name=\"unset\"]，\n"
+"一邊鼓足精神做生意的！"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"4\" unk2=\"20\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]全買了！？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個一共是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorSword"
+msgstr "啊嗚！"
+
+msgid "TerrorHorse"
+msgstr "哎呀！"
+
+msgid "talk_33"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]耶～～！真是萬分感謝！！[PageBreak][Size percent=\"100\"]這個很難弄到手呢！\n"
+"今天肯定是闔家平安的一天！！"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"][02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]全賣了！？\n"
+"一共是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，真的可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "ClearTerrorGuardian"
+msgstr "[Sound2 id=\"16\"]剛才真是可怕……"
+
+msgid "talk_34"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]當然，不會叫你免費送我的！\n"
+"要不要跟我換[Color name=\"blue\"]堅硬蔬菜煎蛋卷[Color name=\"unset\"]呢？[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]今天商品都賣光了！[PauseShort]\n"
+"真的非常感謝你大量購買！"
+
+msgid "talk_35"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]當然，我一定會回禮的！[PauseShort]\n"
+"就把[Color name=\"blue\"]力量藥[Color name=\"unset\"]送給你吧！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]托你的福，今天商品都賣光了！\n"
+"非常感謝你的購買！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]要看看之後預定進貨的商品嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_36"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]感謝你總是這麼捧場！[PauseShort]\n"
+"請問還有其他需求嗎？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]感謝你的捧場！"
+
+msgid "talk_37"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]這個巨大的[Color name=\"red\"]獨角仙[Color name=\"unset\"]背包\n"
+"就是我的註冊商標，我叫[Color name=\"blue\"]特里[Color name=\"unset\"]！\n"
+"[Sound1 unk1=\"10\" unk2=\"20\"]為了在這種世道下，\n"
+"仍不顧危險在各地旅行的你！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]我有在販售超推薦的優質昆蟲，\n"
+"和旅途中不可或缺的有用商品！\n"
+"要是你有[Color name=\"blue\"]盧比[Color name=\"unset\"]不夠的困擾，\n"
+"我也能跟你收購手邊不要的物品！\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]像[Color name=\"red\"]寶石[Color name=\"unset\"]之類的就能賣個好價格喔！\n"
+"如果你身上有的話，就儘管賣給我吧！\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]來～你想買東西還是賣東西呢？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]非常感謝！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]感謝你這麼常來！"
+
+msgid "TerrorExplosion"
+msgstr "唔哇！"
+
+msgid "ClearTerrorEnemy"
+msgstr "[Sound2 id=\"16\"]呼……"
+
+msgid "talk_20"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]哎呀！[PauseShort]你果然改變心意，\n"
+"願意把[Color name=\"blue\"]大劍獨角仙[Color name=\"unset\"]讓給特里了！？[PauseMid]"
+
+msgid "talk_21"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]啊！[PauseShort]你肯定是改變心意，[PauseShort]\n"
+"願意把[Color name=\"blue\"]鎧甲獨角仙[Color name=\"unset\"]讓給特里了吧！？[PauseMid]"
+
+msgid "talk_22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]當然，不會叫你免費送我的！\n"
+"要不要跟我換[Color name=\"blue\"]生命藥[Color name=\"unset\"]呢？\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]這可是特里特製，\n"
+"加了[Color name=\"blue\"]生命蜥蜴[Color name=\"unset\"]熬煮而成的藥品！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorEnemy"
+msgstr "喔不～！"
+
+msgid "talk_23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]當然，我是不會讓你輕易說不的！\n"
+"要不要跟我換[Color name=\"blue\"]精力藥[Color name=\"unset\"]呢？\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]這可是特里特製，\n"
+"加了[Color name=\"blue\"]精力螃蟹[Color name=\"unset\"]熬煮而成的藥品！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near"
+msgstr "[Sound2 id=\"24\"]來看看喔～"
+
+msgid "talk_24"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]看你如此猶豫不決！\n"
+"要不要改跟我換[Color name=\"blue\"]妖精回力水[Color name=\"unset\"]呢？\n"
+"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"unset\"]這可是特里特製，\n"
+"加了[Color name=\"blue\"]妖精[Color name=\"unset\"]熬煮而成的藥品！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]感謝你的捧場！[PauseShort]\n"
+"還有其他東西想賣嗎？"
+
+msgid "talk_25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那再重問一次……[PauseMid]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]非常感謝！[PauseShort]\n"
+"還有其他東西想賣嗎？"
+
+msgid "talk_26"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]噢！又是你呢～\n"
+"有什麼忘記買了嗎？"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]感謝你的捧場！[PauseShort]\n"
+"還有其他東西想賣嗎？"
+
+msgid "TerrorBomb"
+msgstr "哇嗚！"
+
+msgid "talk_27"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"20\"]哇喔！[PauseShort]感謝你這麼常來……？[PauseLong]"
+
+msgid "talk_28"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]噢！[PauseShort]感謝你的捧場……？[PauseLong]"
+
+msgid "Com_Talk_10"
+msgstr "要買[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_talk_17"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]嗨！[PauseShort]謝謝你的捧場！[PauseMid]\n"
+"感謝你這麼常來！[PauseMid]"
+
+msgid "talk_29"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]嘿！[PauseShort]今天過得好嗎……？[PauseLong]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]感謝你總是這麼捧場！"
+
+msgid "Com_talk_18"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]聽說這個，對[Color name=\"blue\"]守護者[Color name=\"unset\"]可有效的呢！\n"
+"很厲害對吧！！\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]要是能打中[Color name=\"blue\"]守護者[Color name=\"unset\"]的眼珠，\n"
+"效果好像會更明顯喔！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]這是一個叫[Color name=\"blue\"]洛貝利[Color name=\"unset\"]的大叔給我的。\n"
+"他人就在[Color name=\"blue\"]卓拉領地[Color name=\"unset\"]的遙遠北方，\n"
+"一個叫做[Color name=\"red\"]阿卡萊古代研究所[Color name=\"unset\"]的地方。\n"
+"那個大叔還會製作各種\n"
+"奇妙的武器跟衣服之類的，\n"
+"[Sound1 unk1=\"5\" unk2=\"12\"]就是所謂的[Color name=\"blue\"]瘋狂研究者[Color name=\"unset\"]。[PauseShort]\n"
+"真是可怕，[PauseShort]真是嚇人呢……[PauseMid]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]但如果你想要強大的武器，\n"
+"就去拜訪他看看吧。"
+
+msgid "TerrorLightning"
+msgstr "啊！"
+
+msgid "talk_10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]當然，我一定會答謝你的！\n"
+"送你[Color name=\"blue\"]速速藥[Color name=\"unset\"]如何？\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]這可是特里特製，\n"
+"加了[Color name=\"blue\"]速速青蛙[Color name=\"unset\"]熬煮而成的藥品！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]這邊一定有幫得上你的東西！\n"
+"歡迎慢慢看！"
+
+msgid "Com_talk_19"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]噢！你已經見過洛貝利了嗎！？\n"
+"那真是不好意思，我太多管閒事了！"
+
+msgid "talk_11"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]嗨！[PauseShort]歡迎光臨……？[PauseLong]"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？\n"
+"請問要賣幾個呢？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk_12"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"1\"]…………[PauseLong][PageBreak][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]嗯……？原來你是個小氣的年輕人呀，\n"
+"還以為你會再大方點呢……[PauseMid]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]不，沒關係的，\n"
+"是[Color name=\"blue\"]特里[Color name=\"unset\"]自己沒有看人的眼光……[PauseMid]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]的話，\n"
+"一共是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]哇喔！非常感謝！\n"
+"我果然沒看錯你這個人！！\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]我今天會好好疼愛你讓給我的[Color name=\"blue\"]獨角仙[Color name=\"unset\"]，\n"
+"一邊做生意的！"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]這個我沒辦法收購，\n"
+"非常抱歉。"
+
+msgid "talk_14"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]噢……[PauseShort]你的[Color name=\"blue\"]袋子[Color name=\"unset\"]這麼滿，\n"
+"我只好放棄了，真可惜……"
+
+msgid "Com_Talk_16"
+msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]請把那件衣服脫下來再說。"
+
+msgid "talk_15"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"1\"]…………[PauseLong][PageBreak][Sound1 unk1=\"9\" unk2=\"12\"]嗯……？我都出這麼好的條件了……[PauseMid]\n"
+"真不懂你到底在想什麼……[PauseMid]\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]…………[PauseLong][Size percent=\"80\"][PageBreak][Color name=\"Gray\"][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]既然如此，只好趁他在驛站熟睡時偷偷地……[PauseMid][PageBreak]不，我不需要弄髒自己的手，還是雇個惡棍來……[PauseMid][PageBreak][Animation name=\"CustomBadThink\"]嘟噥嘟噥……[PauseMid]嘟噥嘟噥……[PauseMid][PageBreak][Color name=\"unset\"][Size percent=\"100\"]…………[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"19\"]噢，失禮了，我什麼也沒說……[PauseMid]\n"
+"等你改變心意再來找我吧。"
+
+msgid "talk_16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]唔喔！非常感謝！！[PageBreak][Size percent=\"100\"]這個非常罕見啊！\n"
+"今天肯定會生意興隆！！"
+
+msgid "0000"
+msgstr "買！"
+
+msgid "5500"
+msgstr "要"
+
+msgid "talk_17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]來～你想買什麼呢？\n"
+"還是要出售物品呢？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "賣！"
+
+msgid "5501"
+msgstr "不要"
+
+msgid "TerrorAnimal"
+msgstr "別過來啊！"
+
+msgid "talk_18"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]哇喔！感謝捧場！[PauseMid]\n"
+"真是謝謝你剛剛的[Color name=\"blue\"]獨角仙[Color name=\"unset\"]！[PauseMid]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]你想賣什麼給我呢？"
+
+msgid "0002"
+msgstr "算了"
+
+msgid "5502"
+msgstr "買"
+
+msgid "talk_19"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]噢！[PauseShort]你果然改變心意，[PauseShort]\n"
+"願意把[Color name=\"blue\"]能量獨角仙[Color name=\"unset\"]讓給特里了嗎！？[PauseMid]"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要賣[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]是吧？\n"
+"這樣是[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "talk_00"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]嗨！我之前沒見過你呢，[PauseMid]\n"
+"請多多指教！[PauseMid]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]非常感謝！[PauseShort]\n"
+"還有其他東西想賣嗎？"
+
+msgid "TerrorInsect"
+msgstr "我討厭蜜蜂！"
+
+msgid "talk_01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]噢！真可惜……[PauseMid]\n"
+"以後還請多多指教……"
+
+msgid "talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]非常感謝！\n"
+"以後也請多多指教！"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]哎呀呀……[PauseMid]真可惜。"
+
+msgid "talk_03"
+msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]嗨！我們又見面了呢！"
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]我這邊什麼都收購喔！"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "talk_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]嗨！你又來了呢～\n"
+"[Color name=\"blue\"]特里[Color name=\"unset\"]隨時都很歡迎你！"
+
+msgid "Com_Talk_06"
+msgstr "這裡全都是我推薦的商品喔！"
+
+msgid "5508"
+msgstr "全賣了"
+
+msgid "talk_05"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]噢！你懷裡那個是……[PauseMid]\n"
+"[Color name=\"blue\"]大劍獨角仙[Color name=\"unset\"]！\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]特里超愛[Color name=\"blue\"]大劍獨角仙[Color name=\"unset\"]的！\n"
+"你願意把牠讓給我嗎？"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]噢！真是抱歉……[PauseMid]\n"
+"那個商品現在缺貨……"
+
+msgid "talk_06"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]哇喔！你袋子裡那個是……[PauseMid]\n"
+"[Color name=\"blue\"]鎧甲獨角仙[Color name=\"unset\"]！\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]特里很喜歡[Color name=\"blue\"]鎧甲獨角仙[Color name=\"unset\"]！\n"
+"希望你能把牠讓給我！"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"14\"]噢！[Color name=\"blue\"]盧比[Color name=\"unset\"]好像不夠……[PauseMid]\n"
+"別讓我再看到你！"
+
+msgid "talk_07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]當然，不會叫你免費送我的！\n"
+"要不要跟我換[Color name=\"blue\"]堅硬藥[Color name=\"unset\"]呢？[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]噢！[Color name=\"blue\"]袋子[Color name=\"unset\"]好像很滿耶……[PauseMid]\n"
+"請把[Color name=\"blue\"]袋子[Color name=\"unset\"]清出空間再來吧。"
+
+msgid "1000"
+msgstr "交換！"
+
+msgid "talk_08"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]當然，我一定會回禮的！\n"
+"就把[Color name=\"blue\"]力量獸肉蓋飯[Color name=\"unset\"]送給你吧！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "算了"
+
+msgid "TerrorFire"
+msgstr "我不想著火！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAF+DAAAAAAAAGUAAAAEAAAAnAEAAMABAADkAQAACAIAACwCAABQAgAAdAIAAJgCAAC8AgAA4AIAAAQDAAAoAwAATAMAAHADAACUAwAAuAMAANwDAAAABAAAJAQAAEgEAABsBAAAkAQAALQEAADYBAAA/AQAACAFAABEBQAAaAUAAIwFAACwBQAA1AUAAPgFAAAcBgAAQAYAAGQGAACIBgAArAYAANAGAAD0BgAAGAcAADwHAABgBwAAhAcAAKgHAADMBwAA8AcAABQIAAA4CAAAXAgAAIAIAACkCAAAyAgAAOwIAAAQCQAANAkAAFgJAAB8CQAAoAkAAMQJAADoCQAADAoAADAKAABUCgAAeAoAAJwKAADACgAA5AoAAAgLAAAsCwAAUAsAAHQLAACYCwAAvAsAAOALAAAEDAAAKAwAAEwMAABODAAAUAwAAFIMAABUDAAAVgwAAFgMAABaDAAAXAwAAF4MAABgDAAAYgwAAGQMAABmDAAAaAwAAGoMAABsDAAAbgwAAHAMAAByDAAAdAwAAHYMAAB4DAAAegwAAHwMAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

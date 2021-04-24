@@ -1,0 +1,64 @@
+msgid "0003"
+msgstr "Следующая запись"
+
+msgid "0004"
+msgstr "Предыдущая запись"
+
+msgid "0005"
+msgstr "Закончить"
+
+msgid "DiaryFirst"
+msgstr "Читать дневник?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk00"
+msgstr ""
+"В этом дневнике я буду записывать\n"
+"все, что узнаю об [Color name=\"red\"]Испытании Героя[Color name=\"unset\"]\n"
+"в заснеженных горах региона Герудо.[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk01"
+msgstr ""
+"День первый.[PageBreak]Я пришел в эти горы, чтобы найти\n"
+"[Color name=\"red\"]испытание[Color name=\"unset\"], о котором говорится\n"
+"в одном древнем тексте...[PageBreak]«[Color name=\"red\"]Испытание Героя[Color name=\"unset\"] дремлет\n"
+"в пьедестале средь снегов\n"
+"герудских гор».[PageBreak]Кажется, я нашел [Color name=\"red\"]пьедестал[Color name=\"unset\"],\n"
+"который упоминается в тексте.[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0000"
+msgstr "Первая запись"
+
+msgid "talk02"
+msgstr ""
+"День седьмой.[PageBreak]Прошла уже неделя, как я нашел\n"
+"[Color name=\"red\"]пьедестал[Color name=\"unset\"], о котором говорится\n"
+"в древнем тексте.[PageBreak]Плохая новость: у меня осталось\n"
+"мало еды — она кончится быстрее,\n"
+"чем я рассчитывал.[PageBreak]Хорошая новость: похоже, в древнем\n"
+"тексте есть подсказка, что делать\n"
+"с [Color name=\"red\"]пьедесталом[Color name=\"unset\"]...[PageBreak]«Как [Color name=\"red\"]пьедестал [Color name=\"unset\"]в горах подснежных\n"
+"засияет, мрак в его центр помести».[PageBreak]Я заметил, что [Color name=\"red\"]пьедестал [Color name=\"unset\"]слегка\n"
+"светится, но только в определенное\n"
+"время.[PageBreak]Осталось разобраться, что\n"
+"значит «поместить мрак».[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "Последняя запись"
+
+msgid "talk03"
+msgstr ""
+"День... не знаю какой.[PageBreak]Кажется, я понял! Под «[Color name=\"red\"]мраком[Color name=\"unset\"]»\n"
+"имеется в виду [Color name=\"red\"]тень[Color name=\"unset\"]...[PageBreak]Чувствую, что вплотную приблизился\n"
+"к разгадке и мне вот-вот откроется\n"
+"тайна, которая скрыта в [Color name=\"red\"]пьедестале[Color name=\"unset\"].[PageBreak]Но мне больше нечего есть, а без\n"
+"еды продолжать исследование\n"
+"невозможно.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"1\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "Не читать"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAESAQAAAAAAAAsAAAAEAAAANAAAAF4AAACIAAAAsgAAANwAAAAGAQAACAEAAAoBAAAMAQAADgEAABABAABPAGIAagBfAEQAaQBhAHIAeQBHAGUAcgB1AGQAbwBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBHAGUAcgB1AGQAbwBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBHAGUAcgB1AGQAbwBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBHAGUAcgB1AGQAbwBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBHAGUAcgB1AGQAbwBfAEEAXwAwADEAAAAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

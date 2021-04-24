@@ -1,0 +1,42 @@
+#, ruby
+msgid "QL_TreasureHunt_touzoku08_Desc"
+msgstr ""
+"ハイラル王家 秘蔵の 歴史的価値の高い衣装が\n"
+"ラムダという盗賊に 奪われていた\n"
+"そのうちの１つは 悪霊の鎧 と呼ばれている\n"
+"\n"
+"その隠し場所を記した手記が\n"
+"[Color name=\"red\"]アデヤ村跡[Color name=\"unset\"]のどこかにあるらしい"
+
+#, ruby
+msgid "QL_TreasureHunt_touzoku08_Finish"
+msgstr ""
+"『大魔王を象りし 悪霊の甲冑は\n"
+"フィローネの樹海に隠す\n"
+"1つは フロリア湖より 北に連なる3つ目の滝の底に\n"
+"1つは フロリア川 小さな滝に挟まれし橋に\n"
+"1つは 樹海リベラ 砕かれし石の鳥』\n"
+"「ルーテス湖」「サージョン橋」「樹海リベラ」に\n"
+"隠された宝箱の中から[Color name=\"red\"]ファントムガノン装備[Color name=\"unset\"]を\n"
+"手に入れた！"
+
+msgid "QL_TreasureHunt_touzoku08_Name"
+msgstr "Ｅｘ ラムダの秘宝 悪霊の鎧"
+
+#, ruby
+msgid "QL_TreasureHunt_touzoku08_Step01"
+msgstr ""
+"『大魔王を象りし 悪霊の甲冑は\n"
+"[Color name=\"red\"]フィローネの樹海[Color name=\"unset\"]に隠す\n"
+"1つは [Color name=\"red\"]フロリア湖より 北に連なる3つ目の滝の底に[Color name=\"unset\"]\n"
+"1つは [Color name=\"red\"]フロリア川 小さな滝に挟まれし橋に[Color name=\"unset\"]\n"
+"1つは [Color name=\"red\"]樹海リベラ 砕かれし石の鳥[Color name=\"unset\"]』\n"
+"ラムダの手記Ex2に 悪霊の鎧を\n"
+"隠した場所が 記されていた\n"
+"まだ見つけていない衣装は 残り[Color name=\"red\"][02:02 name=\"TreasureHunt_touzoku08_RemainingBox\" stub=\"0\"]個[Color name=\"unset\"]だ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "AwAAAAEIAAAAAAAAAAQAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

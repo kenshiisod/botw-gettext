@@ -1,0 +1,462 @@
+#, ruby
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]オラは 死んじまうかと思っただ…"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]どれを売ってくれるだ？"
+
+#, ruby
+msgid "MSG_Taba_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]いんやー\n"
+"[Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]から [Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]サ行く道は 寒いべ\n"
+"けんど そのおかげで\n"
+"雪国の名産物が 豊作だ"
+
+#, ruby
+msgid "MSG_Taba_02_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"][Color name=\"blue\"]ヘブラ山脈[Color name=\"unset\"]からの ひやっこい風で[PauseShort]\n"
+"はぁ～ [PauseShort]オラも馬も凍えそうだべ"
+
+#, ruby
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 売るだか？[PauseMid]\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるけんど いいだか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Taba_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]はぁ～ 寒いな～\n"
+"\n"
+"[Color name=\"blue\"]ヘブラ山脈[Color name=\"unset\"]からの ひやっこい風で\n"
+"オラも馬も 凍えそうだべ"
+
+#, ruby
+msgid "RetMSG_Taba_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]あんた 旅の人だべ？\n"
+"\n"
+"ここ [Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]もいいとこだけんど\n"
+"すぐそこの吊り橋サ渡れば リト族の村だ\n"
+"村の宿の 羽毛ベッドは気持ちいいでな[PauseMid]\n"
+"あんたも一度 寝てみたらいいだよ"
+
+#, ruby
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"2\"]ありがとさん！[PauseShort]\n"
+"他にも何か あるだか？"
+
+#, ruby
+msgid "MSG_Taba_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]こんなとこまで ご苦労さんだべ\n"
+"\n"
+"あんた こっから北へ進むなら\n"
+"あったかい服さ 忘れんなよ"
+
+#, ruby
+msgid "RetMSG_Taba_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]は もうすぐだべ[PauseMid]\n"
+"あんたも 一緒に行くだか？\n"
+"オラ 雪国から持ってきた名産物を\n"
+"馬宿で ぜんぶ売りさばく意気込みだで"
+
+#, ruby
+msgid "MSG_Taba_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]オラの地元\n"
+"[Color name=\"blue\"]マリッタ馬宿[Color name=\"unset\"]へ よく来なすったな\n"
+"名物は うまみたっぷりのキノコなもんで\n"
+"オラ ここを キノコの国サ呼んでるだよ\n"
+"呼んでるのは オラひとりだけだで\n"
+"あんたも キノコの国サ呼んでけろ"
+
+#, ruby
+msgid "RetMSG_Taba_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]雪の中を歩くのは大変だべ？\n"
+"\n"
+"大変ついでに [Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]の方にある小屋に\n"
+"行ってみるといいだ\n"
+"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]とかいう 若者の遊びが[PauseShort]\n"
+"寒さをふっ飛ばす勢いだっていうぞ"
+
+#, ruby
+msgid "RetMSG_Taba_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]雪国特産のキノコを売りに[PauseShort]\n"
+"[Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]サ 行くとこだ"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]そりゃ 残念だで…"
+
+#, ruby
+msgid "Com_Talk_10"
+msgstr "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 買うだね？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "RetMSG_Taba_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あんた 旅の剣士だべ？[PauseMid]\n"
+"ならば 盾も上手に扱えるべさ\n"
+"[Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]の方にある小屋まで行って[PauseShort]\n"
+"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]で 最高の気分を味わっちゃどうだ"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr "何か 買い取るだよ！"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]ありがとさん"
+
+#, ruby
+msgid "RetMSG_Taba_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]雪国特産のキノコを売りに[PauseShort]\n"
+"[Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]サ 行くとこだ\n"
+"ちょっと冒険して たくさん仕入れてみた[PauseMid]\n"
+"まあ あんたの冒険とは違うけんどもな"
+
+#, ruby
+msgid "Com_Talk_06"
+msgstr "どれを 買ってくれるだか？"
+
+#, ruby
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]オラの自慢の品ぞろえ[PauseShort]\n"
+"のんびり見てってくんろ"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"2\"]ありがとさん！"
+
+#, ruby
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"14\"]それは今 切らしちまってるだよ…"
+
+#, ruby
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 売るだか？[PauseMid]\n"
+"いくつ売るだ？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]どうもどうも ありがとさん！"
+
+#, ruby
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]ルピーさ 足りねえだな[PauseShort]\n"
+"もう少し 稼いでくるしかねえべな"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個[Size percent=\"80\"]・・・[PauseMid][Size percent=\"100\"]\n"
+"合計 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]で 買い取るけんど？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]あいにくの天気だで 特別に…[PauseShort]\n"
+"珍しいキノコさ 売ってあげてもいいだよ"
+
+#, ruby
+msgid "RetMSG_Taba_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]リトの馬宿[Color name=\"unset\"]は もうすぐだべ[PauseShort]\n"
+"オラ 馬宿で名産物を売りさばくつもりだ"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]どうも ありがとさん！"
+
+#, ruby
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]ポーチが中サ いっぱいだ[PauseShort]\n"
+"何か売るなり 捨てるなりするしかねえべさ"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]それは オラんとこでは買い取れねえだよ"
+
+#, ruby
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]これサ… [PauseShort]オラの ほんの気持ちだ！"
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"4\"]服を着たまま売る人は いねえべさ[PauseShort]\n"
+"売りたければ 普通は脱ぐだよ"
+
+#, ruby
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]が [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で\n"
+"合計 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるだよ？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 買うだね？[PauseMid]\n"
+"いくつ買うだ？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]今はただ 耐えるだよ…"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を ひとつだけだか？[PauseShort]\n"
+"そしたら [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だで[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]オラ こんな状況イヤだ…"
+
+#, ruby
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を あるだけ全部？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個だから [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるけんど？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Taba_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あんた こっから北へ進むなら\n"
+"あったかい服さ 忘れんなよ"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個全部だか？\n"
+"そしたら [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]で買い取るけんど？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]これで最後だべな[PauseShort]\n"
+"たくさん買ってくれて いいお客さんだで"
+
+#, ruby
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]あんた なかなか強えだな！"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr "何でも 買い取るだよ！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]いやいや ありがとさん"
+
+#, ruby
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]おかげさんで もう売るもんが無えだよ\n"
+"\n"
+"また仕入れるつもりだで[PauseShort]\n"
+"入荷予定のキノコでも 見てくだか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]それはそうと あんた…[PauseMid]\n"
+"特産のキノコ よかったら見てみるだか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]おかげさんで 助かっただ！"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr "何か 売ってくれるだか？"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"2\"]どうもどうも"
+
+#, ruby
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 何かあるだか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_05d"
+msgstr "何でも 買うだよ！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]どうもどうも ありがとさん"
+
+#, ruby
+msgid "MSG_Taba_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]雪国特産 味よしキノコもよく売れたことだし[PauseShort]\n"
+"そろそろ [Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]へ 仕入れサ行くだ"
+
+#, ruby
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ここいらの名産物といえば キノコだべな[PauseShort]\n"
+"ポカポカ ヒンヤリ ガンバリ いろいろだ"
+
+#, ruby
+msgid "RetMSG_Taba_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]盾サーフィン[Color name=\"unset\"]に興味があるなら[PauseShort]\n"
+"[Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]の方にある小屋に行くといいだ"
+
+#, ruby
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]こんな日は オラ あまり出歩きたくねえだ[PauseMid]\n"
+"吹雪いたら 遭難しちまうかもしれんでな\n"
+"だけんど オラのキノコを待ってる人のため[PauseShort]\n"
+"いやだ～なんて言ってられないべ"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"blue\"]へブラ山[Color name=\"unset\"]が荒れているそうだ\n"
+"\n"
+"こんな時に [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]やるやつは[PauseShort]\n"
+"頭ん中爆発しちまってる バカヤローだべな"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を ひとつなら\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だけんど… [PauseMid]どうすべ？ [Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "いいえ"
+
+#, ruby
+msgid "0000"
+msgstr "買う"
+
+#, ruby
+msgid "5502"
+msgstr "買う"
+
+#, ruby
+msgid "0001"
+msgstr "売る"
+
+msgid "5503"
+msgstr "やっぱりやめる"
+
+msgid "0002"
+msgstr "さようなら"
+
+#, ruby
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]朝からキノコだ…"
+
+#, ruby
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]けっこう強えだな！[PauseMid]\n"
+"オラ 助かっただ！"
+
+#, ruby
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]味よしキノコだ…"
+
+#, ruby
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]オラ [PauseShort]助かっただか？[PauseMid]\n"
+"そうか [PauseShort]助かっただか！"
+
+#, ruby
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]雪国キノコだ…"
+
+#, ruby
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]夜でもキノコだ…"
+
+#, ruby
+msgid "5507"
+msgstr "ぜんぶ買う"
+
+#, ruby
+msgid "MSG_Taba_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここ [Color name=\"blue\"]マリッタ馬宿[Color name=\"unset\"]はオラの地元[PauseShort]\n"
+"名物は うまみたっぷりのキノコだで"
+
+#, ruby
+msgid "Near04"
+msgstr "降ってきたべ…"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+#, ruby
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]何やってるだ！ [PauseShort]早く逃げるだよ！[PauseMid] \n"
+"[Color name=\"blue\"]ガーディアン[Color name=\"unset\"] 迫ってきてるだよー！"
+
+#, ruby
+msgid "MSG_Taba_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]サ行く道は 寒いけんど[PauseShort]\n"
+"そのおかげで 雪国の名産物が豊作だ"
+
+#, ruby
+msgid "RetMSG_Taba_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]の方にある小屋まで行って[PauseShort]\n"
+"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]で 最高の気分を味わっちゃどうだ"
+
+#, ruby
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]あんたはオラの 命の恩人だ！"
+
+#, ruby
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]オラは あんたの命の恩人だ！[PauseMid]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]…そうじゃねえ [PauseMid]間違えた！\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]あんたがオラの命の恩人だ！"
+
+#, ruby
+msgid "RetMSG_Taba_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]すぐそこの吊り橋サ渡れば リト族の村だ[PauseMid]\n"
+"村の宿には 羽毛ベッドがあるでな"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]また よろしくだ"
+
+#, ruby
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]危うく おっ死ぬところだっただ…"
+
+#, ruby
+msgid "MSG_Taba_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]いんやー 売れた売れた[PauseMid]\n"
+"雪国特産 味よしキノコ！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]寒いとこで育ってっから\n"
+"うまみが ギュっと詰まっとる\n"
+"これから 仕入れのために\n"
+"[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]サ 行くだ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAEMBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAANACAADqAgAABAMAAB4DAAA4AwAAUgMAAGwDAACGAwAAoAMAALoDAADUAwAA7gMAAAgEAAAiBAAAPAQAAFYEAABwBAAAigQAAKQEAAC+BAAA2AQAAPIEAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

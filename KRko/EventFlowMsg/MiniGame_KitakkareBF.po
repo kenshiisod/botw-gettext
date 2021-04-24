@@ -1,0 +1,245 @@
+msgid "0010"
+msgstr "알았어"
+
+msgid "Greetings_Morning"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~"
+
+msgid "Succeed_Rain"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]비가 오니까 특별 보너스!"
+
+msgid "CantPlay_LanternOn_BeforeTalk"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]하아… [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseLong]\n"
+"꼭 내 마음을 달래 주는 것 같아…"
+
+msgid "Goodbye_01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]그렇겠지…"
+
+msgid "CantPlay_Weather_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]이제 보답으로 [Color name=\"red\"]20루피[Color name=\"unset\"]밖에 못 주는데…[PauseShort]\n"
+"그래도 해 줄 거야?[Choice2 label1=\"8\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NotAccept_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]응…"
+
+msgid "Explanation_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]그래?[PauseLong]\n"
+"가능하면 부탁 좀 할까~"
+
+msgid "CantPlay_End"
+msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]…끄면 안 돼"
+
+msgid "NotAccept_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]그렇구나…"
+
+msgid "Explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]그럼 [Color name=\"red\"]3분 이내[Color name=\"unset\"]로[PauseShort]\n"
+"이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 붙여 봐![Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]그럼 [Color name=\"red\"]3분 이내[Color name=\"unset\"]로 부탁해!"
+
+msgid "CantPlay_End_00"
+msgstr "[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"3\" unk2=\"1\"]끄면 안 된다고 했는데…[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "Explanation_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]그럼 [Color name=\"red\"]1분 이내[Color name=\"unset\"]로[PauseShort]\n"
+"이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 붙여 봐![Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]그럼 [Color name=\"red\"]1분 이내[Color name=\"unset\"]로 부탁해!"
+
+msgid "Explanation_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]그럼 [Color name=\"red\"]20초 이내[Color name=\"unset\"]로[PauseShort]\n"
+"이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 붙여 봐![Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]그럼 [Color name=\"red\"]20초 이내[Color name=\"unset\"]로 부탁해!"
+
+msgid "Fail02"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"12\"]역시 비가 내리면[PauseShort]\n"
+"[Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"] 옮기기는 힘들겠지~\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]날이 개면 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"][PauseShort]\n"
+"옮기기에 도전해 봐"
+
+msgid "Talk_AfterMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]푸른 불꽃 [Color name=\"unset\"]꺼져 버렸어…[PauseShort]\n"
+"괜찮다면 다시 붙여 줄래?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Explanation_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]그럼 말의 유지 비용으로[PauseShort]\n"
+"[Color name=\"red\"]20루피 [Color name=\"unset\"]받을게~[Choice1 label=\"9\"]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]그야 조금이라도 빨리 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 옮기려면[PauseShort]\n"
+"말이 필요할 테고…\n"
+"그러니까 [Color name=\"red\"]20루피 [PauseShort][Color name=\"unset\"]줄래?[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_BeforeMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 붙은 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseShort]\n"
+"이제 볼 수 없는 걸까…[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Explanation_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]그럼 말의 유지비로[PauseShort]\n"
+"[Color name=\"red\"]20루피 [Color name=\"unset\"]받을게~[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Goodbye"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]그럼 또 보자![PauseLong] 바이바이!"
+
+msgid "Explanation_06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]고마워♪"
+
+msgid "0000"
+msgstr "무슨 일이야?"
+
+msgid "Explanation_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]…어라?[PauseLong] 루피가 부족한데?\n"
+"\n"
+"20루피 모으면 다시 와 줘"
+
+msgid "BeforeStart_00"
+msgstr "[Sound2 id=\"1\"][Sound1 unk1=\"0\" unk2=\"1\"]네, 그럼 [PauseShort]준비하시고~"
+
+msgid "0001"
+msgstr "안녕히"
+
+msgid "Explanation_08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]고마워!"
+
+msgid "BeforeStart_01"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]3\n"
+"\n"
+"2\n"
+"\n"
+"1\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]Go![Size percent=\"100\"]"
+
+msgid "Near_LanternOn"
+msgstr "♪~"
+
+msgid "0002"
+msgstr "어?"
+
+msgid "BeforeStart_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…라고 말하면 시작이야!"
+
+msgid "0003"
+msgstr "붙여 줄게"
+
+msgid "0004"
+msgstr "오케이"
+
+msgid "CantPlay_LanternOn_AfterTalk"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]후후… [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"] [PauseShort]예뻐…"
+
+msgid "0005"
+msgstr "관둘래"
+
+msgid "Succeed_First"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]굉장해, 굉장해![PauseLong]\n"
+"정말로 붙였잖아!"
+
+msgid "0006"
+msgstr "역시 관둘래"
+
+msgid "0007"
+msgstr "추낙 고대 연구소?"
+
+msgid "Greetings_Again"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~"
+
+msgid "FirstTalk_00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]하아…[Choice1 label=\"0\"]"
+
+msgid "0008"
+msgstr "할게!"
+
+msgid "FirstTalk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"][Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"][Color name=\"Gray\"]…[Color name=\"unset\"][Size percent=\"100\"][Choice1 label=\"2\"]"
+
+msgid "0009"
+msgstr "돈 내야 돼?!"
+
+msgid "FirstTalk_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]앗,[PauseShort] 미안\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]난 여기 시집온 뒤로\n"
+"매일이 지루해서 견딜 수 없어…\n"
+"내 유일한 즐거움은\n"
+"이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 붙은 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"] 구경이었는데\n"
+"[Sound1 unk1=\"5\" unk2=\"0\"]요즘 [Color name=\"blue\"]추낙 고대 연구소[Color name=\"unset\"]의 [Color name=\"blue\"]소장님[Color name=\"unset\"]이[PauseShort]\n"
+"불을 붙이러 와 주지 않으시네…[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_Game"
+msgstr "두근두근♪"
+
+msgid "FirstTalk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]추낙 고대 연구소[Color name=\"unset\"]의 [Color name=\"blue\"]소장님[Color name=\"unset\"]…\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]또 이 [Color name=\"blue\"]촉대[Color name=\"unset\"]에[PauseShort]\n"
+"[Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 붙이러 와 주지 않으시려나…[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_LanternOff"
+msgstr "하아…"
+
+msgid "FirstTalk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]응… [PauseShort]거기 [Color name=\"blue\"]소장님[Color name=\"unset\"]이 연구 중이라면서[PauseShort]\n"
+"이 주변 [Color name=\"blue\"]촉대[Color name=\"unset\"]에 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]을 붙이고 다니셨어\n"
+"하지만 [Color name=\"blue\"]소장님[Color name=\"unset\"] 연세도 상당하니[PauseShort]\n"
+"요즘엔 외출을 삼가시는 걸까…"
+
+msgid "Ask"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]무슨 일이야? [PauseShort]관두려고?[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "FirstTalk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]참고로 [Color name=\"blue\"]추낙 고대 연구소[Color name=\"unset\"]에 가려면[PauseShort]\n"
+"이 길을 쭉 따라가면 돼"
+
+msgid "FirstTalk_06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]등대를 개축한 건물이니\n"
+"바로 알아볼 수 있을 거야"
+
+msgid "Fail"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]실패했구나… [PauseShort]우우우\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]또 도전하고 싶어지면[PauseShort]\n"
+"[Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]이 꺼져 있을 때 말 걸어 줘"
+
+msgid "Greetings_AboutNoon"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~"
+
+msgid "Greetings_Night"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~"
+
+msgid "Restart"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]그럼 부탁해!"
+
+msgid "CantPlay_Weather"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]음~ 하지만 [PauseShort]날이 궂으니까 괜찮아~"
+
+msgid "Reward"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]앗차… [PauseShort]보답을 해야지"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGKCAAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAG4BAABwAQAAcgEAAHQBAAB2AQAAeAEAAHoBAAB8AQAAfgEAAIABAACCAQAAqgEAANIBAAD6AQAAIgIAAEoCAAByAgAAmgIAAMICAADqAgAAEgMAADoDAABiAwAAigMAALIDAADaAwAAAgQAACoEAABSBAAAegQAAKIEAADKBAAA8gQAABoFAABCBQAAagUAAJIFAAC6BQAA4gUAAAoGAAAyBgAAWgYAAIIGAACqBgAA0gYAAPoGAAAiBwAASgcAAHIHAACaBwAAwgcAAOoHAAASCAAAOggAAGIIAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

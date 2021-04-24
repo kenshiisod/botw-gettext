@@ -1,0 +1,82 @@
+msgid "0001"
+msgstr "Нет, спасибо"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]Только есть надо сразу —\n"
+"они быстро портятся.[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "Понял"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]С тебя [Color name=\"red\"]10 рупий[Color name=\"unset\"]![Choice2 label1=\"4\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0003"
+msgstr "Я передумал"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"35\"]Спасибо![PauseShort] Теперь закрой глаза\n"
+"и открой пошире рот...[PageBreak][Size percent=\"125\"]Еще шире![Size percent=\"100\"]"
+
+msgid "0004"
+msgstr "Держи"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Ну ладно.[PauseShort] Обращайся в любое время."
+
+msgid "talk00"
+msgstr ""
+"[Sound2 id=\"1\"][Sound1 unk1=\"6\" unk2=\"1\"]Э-э-эй![PageBreak]Добро пожаловать в [Color name=\"blue\"]конюшню\n"
+"«Ост-Аккала»[Color name=\"unset\"] самого восточного\n"
+"региона мира!"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"2\" unk2=\"17\"]Эй, у тебя денег не хватает!"
+
+msgid "near00"
+msgstr "Приветствую!"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"6\" unk2=\"15\"]Ну ладно.[PauseShort] Приходи, если что."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Так, теперь жуй, хорошо жуй![PageBreak][Size percent=\"125\"]И глотай![Size percent=\"100\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Кхм-кхм!"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ну как?[PauseLong] Вкусно же?"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]«Хрустящая корочка — нежный мякиш.[PauseShort]\n"
+"Маленький кусочек — [Color name=\"red\"]большой прилив\n"
+"сил[Color name=\"unset\"]».[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Так говорят про [Color name=\"blue\"]восточные булочки[Color name=\"unset\"] —[PauseShort]\n"
+"фирменную сдобу нашей конюшни.[PauseShort]\n"
+"Попробуешь?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Хочешь отведать\n"
+"[Color name=\"blue\"]восточную булочку[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"35\"]Отлично!"
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Хм, странно...[PageBreak]Ты что, не [Color name=\"red\"]чувствуешь прилив сил[Color name=\"unset\"]?"
+
+msgid "0000"
+msgstr "С удовольствием!"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]Приветствую!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAHmAgAAAAAAABUAAAAEAAAAXAAAAIQAAACGAAAAiAAAAIoAAACMAAAAjgAAALYAAADeAAAABgEAAC4BAABWAQAAfgEAAKYBAADOAQAA9gEAAB4CAABGAgAAbgIAAJYCAAC+AgAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAAAAAAAAAAAAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADMAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

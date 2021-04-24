@@ -1,0 +1,72 @@
+msgid "Npc_oasis012_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Извини, но мы сейчас не работаем.[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]В пустыне бушует [Color name=\"blue\"]Наборис[Color name=\"unset\"] — даже\n"
+"из города не выйти, а во дворце\n"
+"переполох из-за каких-то воров.[PageBreak]И у нас вся работа встала.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"10\"]Просто черная полоса..."
+
+msgid "Npc_oasis012_002"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Спасибо, что принесла нам\n"
+"кремни![PauseShort] Ты нас просто спасла![PageBreak][Size percent=\"80\"]За это я могу по секрету рассказать\n"
+"тебе кое-что о хозяйке.[PauseShort] Хочешь?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"][Size percent=\"100\"]"
+
+msgid "Npc_oasis012_010"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"28\"]Васаак.[PauseLong]"
+
+msgid "Npc_oasis012_004"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]Говорят, она спит голышом![PauseShort]\n"
+"Только украшения не снимает![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Интересно, ей не холодно?[Size percent=\"100\"]"
+
+msgid "Npc_oasis012_011"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Извини, но мы сейчас не работаем.[PageBreak]С ворами во дворце вопрос решили,\n"
+"да и [Color name=\"blue\"]Наборис[Color name=\"unset\"], кажется, успокоилась.[PageBreak][Sound1 unk1=\"3\" unk2=\"1\"][Sound2 id=\"10\"]Но у нас по-прежнему работа стоит..."
+
+msgid "Npc_oasis012_Near01"
+msgstr "Ужас..."
+
+msgid "Npc_oasis012_005"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]На самом деле хозяйку зовут не так,\n"
+"как ты думаешь.[PauseShort] Ее настоящее имя\n"
+"Велир, представляешь![PageBreak]Ювелир Велир — ей не нравится,\n"
+"как это звучало, вот она и взяла\n"
+"псевдоним.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]А мне кажется, хорошее имя...[Size percent=\"100\"]"
+
+msgid "Npc_oasis012_006"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]Хозяйка говорит, что совсем за собой\n"
+"не ухаживает.[PauseShort] Но это неправда![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]На самом деле она раз в неделю\n"
+"ходит к Ароме на особый массаж.[Size percent=\"100\"]"
+
+msgid "0000"
+msgstr "Давай!"
+
+msgid "Npc_oasis012_007"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]Знаешь Ашаи, которая ведет\n"
+"курс «Как найти свою любовь»?[PageBreak]Так вот, однажды они с хозяйкой\n"
+"влюбились в одного вооя![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Но обе до сих пор не замужем.[PauseShort] Видимо,\n"
+"ни той, ни другой не повезло с тем вооем.[Size percent=\"100\"]"
+
+msgid "0001"
+msgstr "Пока"
+
+msgid "Npc_oasis012_008"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Мы у тебя в долгу![PageBreak]Если закажешь украшение, мы\n"
+"с удовольствием его изготовим![PageBreak]Смотри, примеряй что хочешь —\n"
+"не стесняйся, в общем!"
+
+msgid "Npc_oasis012_009"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Извини, но мы сейчас не работаем.[PageBreak]С ворами во дворце вопрос решили,\n"
+"но в пустыне бушует [Color name=\"blue\"]Наборис[Color name=\"unset\"] — даже\n"
+"из города не выйти.[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]И у нас вся работа встала.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"10\"]Просто черная полоса..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAF2AQAAAAAAAA0AAAAEAAAAPAAAAFYAAABwAAAAigAAAKQAAAC+AAAA2AAAAPIAAAD0AAAADgEAACgBAABCAQAAXAEAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

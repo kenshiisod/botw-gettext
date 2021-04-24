@@ -1,0 +1,248 @@
+msgid "0044"
+msgstr "I'll give it a shot."
+
+msgid "0010"
+msgstr "The joy of the Rito"
+
+msgid "0045"
+msgstr "I'll pass."
+
+msgid "0011"
+msgstr "The honor of the Rito"
+
+msgid "0012"
+msgstr "The pride of the Rito"
+
+msgid "0013"
+msgstr "The wings of the Rito"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]If I were a properly trained soldier,\n"
+"I'd go straight at the beast and bring it\n"
+"down..."
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]\"You're right\"?\n"
+"[PauseShort]I was talking about you, you know."
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"1\"]You see [Color name=\"blue\"]Divine Beast Vah Medoh [Color name=\"unset\"]flying\n"
+"around up there?\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]The village is in disarray thanks to that\n"
+"thing."
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Zzz...zzz..."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hmph..."
+
+msgid "0030"
+msgstr "Its heart lights up"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]So Bedoli told you I would sing you the\n"
+"last half of the ancient Rito song?\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Her memory really is the worst...\n"
+"\n"
+"\n"
+"I can help you...[PauseLong]but there is a catch!\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]Recite the first half from memory, and I\n"
+"will teach you the second half.[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near01"
+msgstr "Phew..."
+
+msgid "0031"
+msgstr "Its face lights up"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]You want me to sing the second half\n"
+"of the song?\n"
+"\n"
+"Only if you can recite the first half\n"
+"without messing it up.[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near02"
+msgstr "Pillar in the sky..."
+
+msgid "0032"
+msgstr "Its shadow lights up"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]That is disappointing."
+
+msgid "near03"
+msgstr "..."
+
+msgid "0033"
+msgstr "Its wings light up"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Go ahead.[Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "near04"
+msgstr "Zzz...zzz..."
+
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]...Don't tell me you came all the way\n"
+"here just to hear an ancient Rito song.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "OK."
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]You want to hear the ancient Rito song?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Never mind."
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Nothing makes me want to not do \n"
+"something more than being asked to do\n"
+"it on the spot...[PauseLong] But sure, why not."
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]The pride of the Rito, [Pause frames=\"20\"]pillar in the sky,[Pause frames=\"20\"]\n"
+"its heart lights up[Pause frames=\"20\"] when the sun is high.[Pause frames=\"5\"]"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]That's the whole song.[PauseMid]\n"
+"Pretty deep, huh?\n"
+"Makes you think."
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Morning."
+
+msgid "0005"
+msgstr "What?"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hello."
+
+msgid "0006"
+msgstr "You're right."
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Evening."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hmm. OK."
+
+msgid "0020"
+msgstr "Village in the sky"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]You...are basically naked.\n"
+"\n"
+"\n"
+"That's close enough.[PauseShort] Don't make me call\n"
+"someone."
+
+msgid "0021"
+msgstr "Bird in the sky"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]I'm about to turn in for the night.[PauseLong]\n"
+"Come back tomorrow."
+
+msgid "0022"
+msgstr "Mountain in the sky"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]What are you doing here?[PauseShort]\n"
+"You adventurers are crazy.[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0023"
+msgstr "Pillar in the sky"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]What do you mean, \"what\"?"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Thanks to [Color name=\"blue\"]Divine Beast Vah Medoh[Color name=\"unset\"], our\n"
+"village is under siege! It could bomb us\n"
+"all at any given moment!"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Now that [Color name=\"blue\"]Divine Beast Vah Medoh [Color name=\"unset\"]has\n"
+"calmed down, the village is peaceful\n"
+"once again."
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Seems like everyone in the village is\n"
+"thinking about going on vacation."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]ENNNNNNGH! Wrong![PauseLong]\n"
+"Come back once you can actually\n"
+"recite the first half."
+
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Correct,[PauseLong] and after that?[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ah...[PauseShort] Right again.[PauseLong]\n"
+"And then?[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0040"
+msgstr "When the arrows fly"
+
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Well done.[PauseLong] Now for the final line...[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0041"
+msgstr "When the sun is high"
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Aha![PauseShort] You got every word right!\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]Well, a promise is a promise.[PauseLong] I'll teach\n"
+"you the last half of the song."
+
+msgid "0042"
+msgstr "When the time is nigh"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]The heart shines upon[Pause frames=\"20\"] a path not whole,[Pause frames=\"20\"]\n"
+"but a warming flame[Pause frames=\"20\"] can stir its soul[Pause frames=\"5\"]."
+
+msgid "0043"
+msgstr "When the day is shy"
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]That's the second half of the \n"
+"ancient Rito song.[PauseMid]\n"
+"\n"
+"Profound, isn't it?"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAG8BgAAAAAAADoAAAAEAAAA8AAAABgBAABAAQAAaAEAAJABAACSAQAAlAEAAJYBAACYAQAAmgEAAJwBAACeAQAAoAEAAKIBAACkAQAApgEAAKgBAACqAQAArAEAAK4BAACwAQAAsgEAALQBAAC2AQAAuAEAALoBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAATAMAAHQDAACcAwAAxAMAAOwDAAAUBAAAPAQAAGQEAACMBAAAtAQAANwEAAAEBQAALAUAAFQFAAB8BQAApAUAAMwFAAD0BQAAHAYAAEQGAABsBgAAlAYAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

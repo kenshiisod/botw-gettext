@@ -1,0 +1,263 @@
+msgid "AskGolf8"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tu peux taper la [Color name=\"red\"]balle[Color name=\"unset\"] comme tu veux,\n"
+"j'ai pas encore fait de règles.[PauseMid] Essaye\n"
+"de l'envoyer super loin en un seul coup."
+
+msgid "0014"
+msgstr "Gorogooolf!"
+
+msgid "OB_Cancell2"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"0\"]T'aurais dû me dire que tu voulais\n"
+"arrêter...[PauseMid] Enfin, reviens quand tu veux!"
+
+msgid "AskGolf9"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Un dernier truc.[PauseMid] Même si la [Color name=\"red\"]balle [Color name=\"unset\"]bouge\n"
+"juste un tout petit peu, ça comptera\n"
+"quand même comme [Color name=\"red\"]un coup[Color name=\"unset\"].\n"
+"OK! Tu sais tout![PauseMid] Alors, tu joues?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "StrokeOver"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Oh... T'as fait 20 coups! T'es\n"
+"disqualifié! Désolé, mais c'est\n"
+"la règle. Reviens quand tu veux!"
+
+msgid "OB_Warning1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"3\"]Hé, qu'est-ce que tu fais?\n"
+"[PauseMid]Tu t'en vas?"
+
+msgid "Judge_OB"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Oh non![PauseShort] La [Color name=\"red\"]balle[Color name=\"unset\"] est sortie du terrain![PauseMid]\n"
+"Ça fait [Color name=\"red\"]un coup de pénalité[Color name=\"unset\"] et tu dois\n"
+"reprendre de là où t'étais."
+
+msgid "OB_Warning2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si tu t'éloignes trop, tu seras [Color name=\"red\"]disqualifié[Color name=\"unset\"]![PauseMid]\n"
+"Et compte pas récupérer tes rubis!"
+
+msgid "TalkFirst"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé ho![PauseMid] Y'a jamais personne qui vient\n"
+"dans cette vallée. Et voilà un gars qui\n"
+"est en excellente forme,[PauseMid] comme moi!"
+
+msgid "0020"
+msgstr "Oui!"
+
+msgid "NoRupee"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]T'as pas assez de rubis...\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Reviens quand tu en auras assez pour\n"
+"jouer,[PauseMid] moi je bouge pas d'ici."
+
+msgid "0021"
+msgstr "Pas maintenant."
+
+msgid "Clear_Excellent_1"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"][Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"][Color name=\"unset\"]?! C'est...[PauseMid] C'est prodigieux![PauseMid]\n"
+"T'as pas envie de devenir gorogolfeur\n"
+"professionnel?"
+
+msgid "Clear_Middle_1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Ton pointage est de...[PauseMid] [Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"] coups[Color name=\"unset\"]![PauseMid]\n"
+"Mais j'ai l'impression que\n"
+"tu peux faire mieux."
+
+msgid "Clear_Excellent_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Je...[PauseMid] Je me souviens plus trop de [Color name=\"red\"]mon\n"
+"propre pointage[Color name=\"unset\"], mais...[PauseMid] C'était sûrement\n"
+"aussi dans ces eaux-là!"
+
+msgid "Clear_Middle_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Fais-toi un peu la main et ça ira mieux.[PauseMid]\n"
+"Comme on dit : [Color name=\"red\"]c'est en tapant qu'on\n"
+"devient gorogolfeur[Color name=\"unset\"]!"
+
+msgid "Clear_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Joli coup!"
+
+msgid "Clear_Excellent_3"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]T'as un excellent potentiel pour le\n"
+"gorogolf, mon gars![PauseMid] Essaye de faire\n"
+"encore mieux la prochaine fois!"
+
+msgid "NotPlay"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Oooh,[PauseMid] quelle déception...[PauseMid]\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]Bon ben si tu changes d'avis,\n"
+"moi je bouge pas d'ici."
+
+msgid "0001"
+msgstr "Ouiiii!"
+
+msgid "0002"
+msgstr "Le quoi?"
+
+msgid "RetrunGame"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Ouaaaah![PauseMid] [Size percent=\"125\"]Gorogooooolf[Size percent=\"100\"]!"
+
+msgid "Clear_Low_1"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Ce qui nous fait [Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"] coups[Color name=\"unset\"]...[PauseMid] C'est\n"
+"plus difficile que ça en a l'air, pas vrai?"
+
+msgid "NoOneMore1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Comme tu veux...\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je suis sûr que t'as compris le potentiel\n"
+"du fun du gorogolf!"
+
+msgid "0003"
+msgstr "En fait, non."
+
+msgid "Clear_Low_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Mais j'attends de grandes choses de toi.[PauseMid]\n"
+"Va falloir que tu t'entraînes [Color name=\"red\"]encore et\n"
+"encore et encore et encore[Color name=\"unset\"]!"
+
+msgid "NoOneMore2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je vais rester dans le coin pour peaufiner\n"
+"le terrain.[PauseMid] Reviens quand tu veux!"
+
+msgid "AskGolf10"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Alors...[PauseShort] C'est parti! [PauseMid][Size percent=\"125\"]Gorogoooolf![Size percent=\"100\"]"
+
+msgid "0005"
+msgstr "Les voilà!"
+
+msgid "AskPlay"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]T'es venu pour le gorogolf? C'est un\n"
+"petit jeu que j'ai inventé pour tester\n"
+"ma force![Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "AskPay"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]C'est [Color name=\"red\"]20 rubis[Color name=\"unset\"] la partie.[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0006"
+msgstr "J'ai changé d'avis..."
+
+msgid "Clear_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ouah, c'était vraiment super![PauseMid] Donne-moi\n"
+"deux secondes, je calcule ton [Color name=\"red\"]pointage[Color name=\"unset\"]!"
+
+msgid "Clear_High_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Alors, ton [Color name=\"red\"]pointage [Color name=\"unset\"]est de...[PauseMid] [Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"][Color name=\"unset\"]!\n"
+"C'est...[PauseMid] Plutôt bien joué!"
+
+msgid "AskGolf1"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]Tu connais pas le gorogolf?[PauseLong] C'est super\n"
+"célèbre! Une seule partie et tu pourras\n"
+"plus t'en passer!"
+
+msgid "Clear_High_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]T'arrête pas en si bon chemin![PauseMid]\n"
+"Je te sens prêt à écrire une nouvelle\n"
+"page de l'histoire du gorogolf!"
+
+msgid "AskGolf2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bon d'accord, je viens de l'inventer en\n"
+"roulant dans cette vallée en fait...[PauseShort] Donc,\n"
+"c'est normal si tu connais pas..."
+
+msgid "GameTalk"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"19\"]Bah alors?[PauseMid] Qu'est-ce qui se passe?[PauseMid]\n"
+"T'en as assez?[Choice2 label1=\"13\" label2=\"14\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "AskGolf3"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]C'est super simple, tu tapes sur la\n"
+"[Color name=\"red\"]balle [Color name=\"unset\"]et t'essayes de l'envoyer dans\n"
+"le trou sous le drapeau.\n"
+"Et moins t'as besoin de coups pour\n"
+"y arriver, plus ton pointage est élevé.[PauseMid]\n"
+"T'as qu'à essayer! [Color name=\"red\"]20 rubis[Color name=\"unset\"] la partie!"
+
+msgid "StrokeOver_Result"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]C'est triste que t'aies fait 20 coups...\n"
+"Moi qui te voyais déjà champion de\n"
+"gorogolf..."
+
+msgid "AskGolf4"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si tu tapes avec une arme à deux mains\n"
+"comme un marteau, t'enverras la balle\n"
+"super loin.\n"
+"Mais fais attention à pas l'envoyer\n"
+"TROP loin!\n"
+"\n"
+"C'est plus facile de gérer les distances\n"
+"avec une épée ou une arme à une main.\n"
+"\n"
+"Mais faudra bien calculer combien\n"
+"de fois tu taperas la balle!"
+
+msgid "PlayOK"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hourra![PauseMid] Je prépare tout!"
+
+msgid "Near00"
+msgstr "Gorogoooolf!"
+
+msgid "AskGolf5"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]T'as juste à taper sur la [Color name=\"red\"]balle[Color name=\"unset\"].\n"
+"Emmagasine de la force pour l'envoyer\n"
+"encore plus loin![PauseMid] BAM!"
+
+msgid "AskOneMore"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Eh ben, on dirait que ça te plaît![PauseMid]\n"
+"Tu veux refaire une partie?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "AskGolf6"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si t'envoies la balle hors du terrain, t'as\n"
+"[Color name=\"red\"]un coup de pénalité[Color name=\"unset\"] et tu recommences\n"
+"de là où t'étais."
+
+msgid "Cancel_End"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Reviens quand tu veux![PageBreak][Size percent=\"125\"]Gorogoooolf![Size percent=\"100\"]"
+
+msgid "AskGolf7"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je m'occupe du [Color name=\"red\"]pointage[Color name=\"unset\"].[PauseMid] Essaye de\n"
+"mettre la [Color name=\"red\"]balle [Color name=\"unset\"]dans le trou en [Color name=\"red\"]20 coups[Color name=\"unset\"]\n"
+"maximum!"
+
+msgid "0013"
+msgstr "Oui..."
+
+msgid "OB_Cancell1"
+msgstr "[Sound1 unk1=\"3\" unk2=\"3\"]Désolé,[PauseShort] je suis obligé de te [Color name=\"red\"]disqualifier[Color name=\"unset\"]!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAGmBgAAAAAAADIAAAAEAAAA0AAAAPQAAAAYAQAAGgEAABwBAAAeAQAAQgEAAGYBAACKAQAArgEAANIBAAD2AQAAGgIAAD4CAABiAgAAhgIAAKoCAADOAgAA0AIAANICAAD2AgAAGgMAAD4DAABAAwAAQgMAAGYDAACKAwAArgMAANIDAAD2AwAAGgQAAD4EAABiBAAAhgQAAKoEAADOBAAA8gQAABYFAAAYBQAAGgUAAD4FAABiBQAAhgUAAKoFAADOBQAA8gUAABYGAAA6BgAAXgYAAIIGAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAAAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAAAAAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAAAAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

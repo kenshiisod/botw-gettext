@@ -1,0 +1,105 @@
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]グッモーニン[PauseLong]\n"
+"グッドなモーニングじゃな"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]グッダフタヌーン[PauseLong]\n"
+"グッドなアフタヌーンじゃな"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]グッイブニン[PauseLong]\n"
+"グッドなイブニングじゃ"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]だが 今すぐに[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を[PauseShort]\n"
+"味方に付けるのはベリーハード… [PauseShort]難しい…\n"
+"なので今は その[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]のパーツと交換で[PauseShort]\n"
+"ユーに古代兵装を 提供しようと思う"
+
+#, ruby
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ワツァップ？ [PauseShort]調子はどうだい？"
+
+msgid "TerrorArrow"
+msgstr "ホワッツ？！"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]バイザウェー さて…[PauseShort]\n"
+"ミーに何か用かの？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]グッダフタヌーン[PauseLong]\n"
+"ひょっとして グッモーニンか？"
+
+msgid "0000"
+msgstr "あなたは？"
+
+msgid "0001"
+msgstr "ガーディアンって？"
+
+msgid "0002"
+msgstr "チェリーちゃん？"
+
+msgid "0003"
+msgstr "さようなら"
+
+msgid "TerrorBomb"
+msgstr "リモコンバクダン…"
+
+msgid "TerrorExplosion"
+msgstr "オーマイガッ！"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"]ガーディアン[Color name=\"unset\"]とは[PauseShort]\n"
+"ウィらシーカー族の先祖が開発した\n"
+"対厄災用 自走兵器\n"
+"\n"
+"大地から出土した物…[PauseShort]\n"
+"ハイラル城の周りの柱に 格納されとった物…\n"
+"大きさも形も様々じゃが\n"
+"\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]まさか100年前の[Color name=\"red\"]厄災[Color name=\"unset\"]に ああも簡単に[PauseShort]\n"
+"乗っ取られるとは 思わなんだ\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]なので今 ウィらは[Color name=\"red\"]厄災[Color name=\"unset\"]から[PauseShort]\n"
+"[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を取り返す術を 研究中じゃ"
+
+#, ruby
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に質問は あるかの？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]その身体の傷跡…[PauseShort]\n"
+"受けた屈辱 忘れるでないぞィ"
+
+msgid "NakedPlayer"
+msgstr "ハハン？"
+
+msgid "TerrorSword"
+msgstr "ホワッツ？！"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"][Color name=\"blue\"]チェリーちゃん[Color name=\"unset\"]は 無事稼働中じゃ\n"
+"あとはユーが[Color name=\"red\"]厄災[Color name=\"unset\"]を討つだけじゃ"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]バィバーイ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAHGAgAAAAAAABUAAAAEAAAAXAAAAF4AAABgAAAAYgAAAGQAAABmAAAAaAAAAGoAAABsAAAAbgAAAKAAAADSAAAABAEAADYBAABoAQAAmgEAAMwBAAD+AQAAMAIAAGICAACUAgAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

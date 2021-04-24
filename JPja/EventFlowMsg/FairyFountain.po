@@ -1,0 +1,147 @@
+#, ruby
+msgid "Npc_artist009_F_003"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"13\"]そうか…[PauseLong]\n"
+"やはり そう簡単にはいかんか\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]もし[Color name=\"blue\"]大妖精の泉[Color name=\"unset\"]を見つけたら[PauseShort]\n"
+"ぜひ[Color name=\"red\"]絵[Color name=\"unset\"]を描いてきてくれ 頼んだよ"
+
+msgid "0008"
+msgstr "いいえ"
+
+#, ruby
+msgid "Npc_artist009_F_005"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]しかし… よく探してきてくれたな\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"]何かお礼をしたいところだが…\n"
+"あいにく持ち合わせもないし…[PauseLong]\n"
+"[Sound1 unk1=\"7\" unk2=\"4\"][Size percent=\"125\"]そうだ！[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]キミ 行きたい場所や探したい場所はないかね？\n"
+"\n"
+"私はハイラル中を旅してきたからな\n"
+"気になる場所があるなら役に立てるかもしれんぞ[Choice1 label=\"4\"]"
+
+#, ruby
+msgid "Npc_artist009_F_006"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"4\"]これは 大きな門とその奥に雪山…[PauseLong]\n"
+"そうだ あそこだ！\n"
+"この村からずっと東に行くと 大きな雪山がある[PauseShort]\n"
+"[Color name=\"blue\"]ラネール山[Color name=\"unset\"]という山だ\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]その[Color name=\"blue\"]ラネール山[Color name=\"unset\"]のふもとにある[PauseShort]\n"
+"[Color name=\"blue\"]ネルドーラ雪原[Color name=\"unset\"]の西に その門があったはずだぞ"
+
+#, ruby
+msgid "Npc_artist009_F_019"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"24\"]そうかそうか…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]私はまた旅を続けていくつもりだ\n"
+"どこかでまた会うかもしれんな\n"
+"[Sound1 unk1=\"7\" unk2=\"10\"]キミは絶景でつながったソウルメイトだ！\n"
+"何か困ったことがあったら 声をかけてくれ"
+
+#, ruby
+msgid "Npc_artist009_F_007"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]私の知ってる場所でよかったよ\n"
+"少しはお役に立てたかね？"
+
+#, ruby
+msgid "Npc_artist009_F_009"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]どうした？\n"
+"また あの絵の場所の事を知りたいのかね？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_artist009_R_Near"
+msgstr "うーん……"
+
+#, ruby
+msgid "0002"
+msgstr "見つけた"
+
+#, ruby
+msgid "Npc_artist009_F_011"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]神秘のベールに包まれた[Color name=\"blue\"]大妖精の泉[Color name=\"unset\"]…[PauseLong]  \n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]雨が降ろうが 雷に打たれようが\n"
+"私は絶対あきらめんよ！[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0003"
+msgstr "見つからない"
+
+#, ruby
+msgid "0004"
+msgstr "ココ知ってる？"
+
+msgid "0005"
+msgstr "まだです…"
+
+#, ruby
+msgid "Npc_artist009_F_013"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"8\"]なんだ いいのか？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]こんな天気の中わざわざ話しかけるぐらいだから\n"
+"何か急ぎの用かと思ったよ"
+
+#, ruby
+msgid "LookPicture"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]この山は [Color name=\"blue\"]ラネール山[Color name=\"unset\"]だと思うんだがな…\n"
+"\n"
+"[Color name=\"blue\"]ラネール山[Color name=\"unset\"]は この村からずっと東にある\n"
+"大きな雪山だ[PauseShort]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]その麓にある [Color name=\"blue\"]ネルドーラ雪原[Color name=\"unset\"]の西の方に\n"
+"その門があったはずだぞ"
+
+#, ruby
+msgid "Npc_artist009_F_001"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]神秘のベールに包まれた[Color name=\"blue\"]大妖精の泉[Color name=\"unset\"]…[PauseLong]  \n"
+"一度はお目にかかりたいものだよ…[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0006"
+msgstr "はい おかげさまで！"
+
+#, ruby
+msgid "Npc_artist009_F_014"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]それならよかった！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]私はまた旅を続けていくつもりだ\n"
+"どこかでまた会うかもしれんな\n"
+"[Sound1 unk1=\"7\" unk2=\"10\"]キミは絶景でつながったソウルメイトだ！\n"
+"何か困ったことがあったら 声をかけてくれ"
+
+#, ruby
+msgid "Npc_artist009_F_002"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]そうかそうか\n"
+"見つけたか…[PauseLong]\n"
+"[Sound1 unk1=\"10\" unk2=\"22\"]な！[PauseLong] 見つけた？！\n"
+"ほ 本当かね？！\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]で その場所の[Color name=\"red\"]絵[Color name=\"unset\"]は？！\n"
+"[Color name=\"red\"]絵[Color name=\"unset\"]は持ってきてくれたかね？！"
+
+#, ruby
+msgid "Npc_artist009_F_015"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]またここで会うとはな\n"
+"\n"
+"ところで…[PauseLong]\n"
+"あの絵の場所には たどり着けたかね？[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0007"
+msgstr "教えてください"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAEQAgAAAAAAABUAAAAEAAAAXAAAAHoAAACYAAAAtgAAALgAAAC6AAAA2AAAAPYAAAAUAQAAFgEAADQBAABSAQAAVAEAAFYBAABYAQAAWgEAAHgBAACWAQAAtAEAANIBAADwAQAATgBQAEMAXwBhAHIAdABpAHMAdABfADAAMAA5AAAATgBQAEMAXwBhAHIAdABpAHMAdABfADAAMAA5AAAATgBQAEMAXwBhAHIAdABpAHMAdABfADAAMAA5AAAAAAAAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAAOQAAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAAOQAAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAAOQAAAAAATgBQAEMAXwBhAHIAdABpAHMAdABfADAAMAA5AAAATgBQAEMAXwBhAHIAdABpAHMAdABfADAAMAA5AAAAAAAAAAAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADkAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADkAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADkAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADkAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADkAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAAMwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

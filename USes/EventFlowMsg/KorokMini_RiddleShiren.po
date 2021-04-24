@@ -1,0 +1,128 @@
+msgid "Npc_kokiri002_S020_Talk500"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]Hongo que crece en climas templados,[PauseShort]\n"
+"te quita el frío si te quedas helado.[Color name=\"unset\"]"
+
+msgid "Npc_kokiri002_R_Near000"
+msgstr "[Sound2 id=\"31\"]Qué sueño..."
+
+msgid "Npc_kokiri002_R_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Ya lo averiguaste?[PauseMid]\n"
+"¿No logras descifrarlo?[PageBreak]Si dejas la respuesta sobre la hoja,\n"
+"¡bailaré para ti! Es decir, bailaré y\n"
+"tú puedes mirar si quieres."
+
+msgid "Npc_kokiri002_F_Talk010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]En cuanto creas conocer la respuesta,\n"
+"coloca el objeto en cuestión sobre\n"
+"esa [Color name=\"red\"]hoja[Color name=\"unset\"] de ahí.\n"
+"Si aciertas, ¡bailaré para ti!\n"
+"[Sound2 id=\"31\"]Y si te equivocas...[PauseShort] ya verás."
+
+msgid "0000"
+msgstr "¡Así es!"
+
+msgid "Npc_kokiri002_S030_Talk500"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]Magnífico pez de cuerpo aislante,[PauseShort]\n"
+"tráeme uno para seguir adelante.[Color name=\"unset\"]"
+
+msgid "0001"
+msgstr "La verdad es que no"
+
+msgid "Npc_kokiri002_F_Talk030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]Sabía que estabas capacitado para\n"
+"superar el reto, señor héroe.[PageBreak]¡Aquí tienes tu merecida recompensa!"
+
+msgid "Npc_kokiri002_S040_Talk500"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]Si se la quitas al dueño,\n"
+"harás que te gruña.[PauseShort]\n"
+"¿Cuál es el único pez...[PauseMid] con uña?[Color name=\"unset\"]"
+
+msgid "Npc_kokiri002_F_Talk031"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"Think_01\"]¡Pero señor héroe![PauseMid] ¡Si vas hasta\n"
+"arriba de [C9:00 bytes=\"01000000\"]diamantes![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Y yo que tenía pensado darte uno por\n"
+"resolver los acertijos... Qué mal.[PageBreak]Bueno, en cuanto tengas un huequecito\n"
+"ven a despertarme, ¿sí?[PauseLong] Zzz..."
+
+msgid "Npc_kokiri002_R_Talk010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"34\"][Size percent=\"80\"]Ay, qué sueño...[Size percent=\"100\"][PageBreak]Dime, ¿acaso quieres enfrentarte\n"
+"a la [Color name=\"red\"]prueba definitiva[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_kokiri002_F_Talk050"
+msgstr "[Size percent=\"125\"][Sound2 id=\"9\"]¡Una [Color name=\"red\"][C9:00 bytes=\"02010100\"]manzana[Color name=\"unset\"]![Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_F_Talk051"
+msgstr "[Size percent=\"125\"][Sound2 id=\"9\"]¡Una [Color name=\"red\"][C9:00 bytes=\"02010100\"]calabaza robusta[Color name=\"unset\"]![Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_R_Talk030"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]¡Uy, uy, uy! ¿Te echas atrás?"
+
+msgid "Npc_kokiri002_S010_Talk500"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]Su cáscara es firme, su interior está rico.\n"
+"Verás que abunda en la aldea Kakariko.[Color name=\"unset\"]"
+
+msgid "Npc_kokiri002_F_Talk000"
+msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Zzz...[PauseShort] zzz...[PauseShort] ¿Eeeh?[PageBreak][Size percent=\"80\"]Ay, qué sueño...[Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_F_Talk052"
+msgstr "[Size percent=\"125\"][Sound2 id=\"9\"]¡Un [Color name=\"red\"][C9:00 bytes=\"01000000\"]hongo solar[Color name=\"unset\"]![Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_F_Talk053"
+msgstr "[Sound2 id=\"9\"][Size percent=\"125\"]¡Una [Color name=\"red\"][C9:00 bytes=\"02010100\"]trucha contracorriente[Color name=\"unset\"]![Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_R_Talk500"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]Pequeñas y dulces, redondas y rojas.\n"
+"Si subes al árbol, tal vez las recojas.[Color name=\"unset\"]"
+
+msgid "Npc_kokiri002_F_Talk054"
+msgstr "[Size percent=\"125\"][Sound2 id=\"9\"]¡Una [Color name=\"red\"][C9:00 bytes=\"02010100\"]pezuña de centaleón[Color name=\"unset\"]![Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_F_Talk020"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"26\"]¡Era eso! [PauseShort]¡Justamente![PageBreak][Sound2 id=\"8\"]¡Acertaste![PageBreak]Ahora bailaré para ti.[Size percent=\"100\"]"
+
+msgid "Npc_kokiri002_F_Talk021"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Eje, ejem.[PauseMid] Procedo a recitarte\n"
+"el siguiente acertijo, entonces."
+
+msgid "Npc_kokiri002_R_Talk000"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]Zzz...[PauseShort] zzz...[PauseShort] ¿Eeeh?[PageBreak][Sound2 id=\"32\"]Ay, qué sueño...[PageBreak]Solo iba a cerrar un segundito los\n"
+"ojos para descansar la vista, y ya\n"
+"veo que me quedé bien dormido.\n"
+"[Sound1 unk1=\"11\" unk2=\"25\"]Ahora que me fijo...[PauseMid] Si estás hablando\n"
+"conmigo, ¿es porque quieres enfrentarte\n"
+"a la [Color name=\"red\"]prueba definitiva[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_kokiri002_F_Talk022"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Preparado para el último acertijo?[PauseShort]\n"
+"¡Pon mucha atención!"
+
+msgid "Npc_kokiri002_F_Talk040"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"32\"]Vaya, me quedé sin acertijos.[PauseShort]\n"
+"Jamás pensé que llegaría el día\n"
+"en que alguien los resolvería todos."
+
+msgid "Npc_kokiri002_R_Talk020"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]¡Bieeen! ¡Vamos a jugar a los acertijos![PauseMid]\n"
+"¡Que dé comienzo la [Color name=\"red\"]prueba definitiva[Color name=\"unset\"]![PageBreak]Te voy a pedir objetos en forma de\n"
+"acertijo. Tendrás que descifrarlo y\n"
+"traerme lo que te pido."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAEUAwAAAAAAABoAAAAEAAAAcAAAAIwAAACoAAAAqgAAAKwAAADIAAAA5AAAAAABAAAcAQAAOAEAAFQBAABwAQAAjAEAAKgBAADEAQAA4AEAAPwBAAAYAgAANAIAAFACAABsAgAAiAIAAKQCAADAAgAA3AIAAPgCAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAAAAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMgAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADIAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

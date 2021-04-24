@@ -1,0 +1,119 @@
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Empieza a hacer calor, ¿no crees?"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Puede que mi mujer tenga el aspecto\n"
+"frágil que otorga la edad, pero no\n"
+"te dejes engañar...\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]¡Todavía tiene energía para dar y tomar!\n"
+"Sobre todo cuando se trata de cocinar;\n"
+"no hay nada que le guste más.\n"
+"Si tienes un rato libre, ve a charlar\n"
+"con ella. Seguro que te lo agradece."
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Empieza a hacer frío, ¿verdad?"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]¿Quieres que te hable sobre algo\n"
+"en concreto?[Choice4Flags label1=\"4\" flag1=\"UMiiVillage_NPC008_Wife\" label2=\"2\" label3=\"3\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sí, sí..."
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Los que viven en la casa de enfrente[PauseLong]\n"
+"se pelean [Color name=\"red\"]todas las noches[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"9\"]Supongo que la forma de expresar\n"
+"el amor cambia de una pareja\n"
+"a otra."
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hace ya un tiempo[PauseLong] que no oigo\n"
+"pelearse a los vecinos de enfrente.[PageBreak][Sound1 unk1=\"0\" unk2=\"9\"]Supongo que toda relación se fortalece\n"
+"al superar dificultades en común."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Zzz...[PauseShort] Zzz..."
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]¿No quieres quedarte un rato a charlar\n"
+"con este pobre anciano?[Choice4Flags label1=\"4\" flag1=\"UMiiVillage_NPC008_Wife\" label2=\"2\" label3=\"3\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Pues nada, hasta la vista."
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Vaya, vaya, fíjate en esto:[PauseShort] otro\n"
+"jovenzuelo que viene a visitarnos.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "¿Quién eres?"
+
+msgid "0001"
+msgstr "Adiós"
+
+msgid "0002"
+msgstr "¿Y tu familia?"
+
+msgid "0003"
+msgstr "¿Mascotas?"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Me llamo Moggs.[PageBreak]Después de que mi hijo se independizara\n"
+"y yo me jubilara,[PauseShort] escuché ciertos\n"
+"rumores sobre la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"].\n"
+"Así que, ni corto ni perezoso,\n"
+"decidí que era buena idea\n"
+"venirse a vivir aquí.\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Me alegro mucho de haber tomado\n"
+"esa decisión.[PauseShort] Y mis mascotas están\n"
+"encantadísimas en este lugar.\n"
+"Bueno... siempre que te apetezca\n"
+"charla, no dudes en venir a verme."
+
+msgid "0004"
+msgstr "¿Y tu esposa?"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Este viejo se va ya a dormir.[PauseShort]\n"
+"Mañana será otro día."
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tendrás que disculparme.[PauseShort]\n"
+"Este viejo se retira a dormir."
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Sí, me refiero a los perros que tengo\n"
+"en la parte trasera de mi casa.[PauseLong]\n"
+"Me chiflan los animales.\n"
+"[Sound1 unk1=\"1\" unk2=\"10\"]Cuando era joven, solía ir por ahí\n"
+"a lomos de ciervos y osos, ¿sabes?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Es una pena que ya no tenga edad\n"
+"para esos trotes."
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Buenos días."
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Actualmente solo vivimos aquí mi mujer\n"
+"y yo.[PageBreak]Tenemos un hijo, pero él ya vive de\n"
+"forma independiente.[PageBreak]No tenemos ni idea de dónde anda o\n"
+"qué hace ahora, pero dicen que no\n"
+"recibir noticias es la mejor noticia.\n"
+"Dejémoslo así..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAHwAgAAAAAAABYAAAAEAAAAYAAAAGIAAABkAAAAZgAAAGgAAABqAAAAkAAAALYAAADcAAAAAgEAACgBAABOAQAAdAEAAJoBAADAAQAA5gEAAAwCAAAyAgAAWAIAAH4CAACkAgAAygIAAAAAAAAAAAAAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADgAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADgAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADgAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADgAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADgAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAOAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA4AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

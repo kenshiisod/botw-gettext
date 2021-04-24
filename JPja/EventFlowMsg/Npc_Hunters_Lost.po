@@ -1,0 +1,128 @@
+#, ruby
+msgid "Talk_300"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]で 何の情報聞きたいん？[PageBreak]真っ暗い遺跡の情報と\n"
+"ヘブラ山脈の最果ての情報あるけど？[Choice3 label1=\"10\" label2=\"11\" label3=\"12\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk_301"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]その遺跡は光がまったく入らん…\n"
+"昼間でも 自分の手が見えへんくらいなんやって\n"
+"えらい不思議な力が関係しとるって\n"
+"カンジやろ？\n"
+"そんな遺跡の中に何があるんか…\n"
+"見つけたら 名前売れると思うんやけどね～\n"
+"[Sound1 unk1=\"6\" unk2=\"4\"]場所？ [Color name=\"blue\"]ウォルナー山[Color name=\"unset\"]を越えて\n"
+"[Color name=\"blue\"]オルディン山脈[Color name=\"unset\"]を目指して行くとあるらしいで"
+
+#, ruby
+msgid "0010"
+msgstr "真っ暗闇の遺跡"
+
+#, ruby
+msgid "Talk_000"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"][Color name=\"red\"]骨の馬[Color name=\"unset\"]なんて ホンマにおるんやろうか…[PageBreak]自分の目で見んと 信じられへんけど\n"
+"寒いとこは 苦手なんよなぁ…"
+
+#, ruby
+msgid "0011"
+msgstr "ヘブラ山脈の最果て"
+
+#, ruby
+msgid "Talk_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ハイラルで一番ええ情報持っとる\n"
+"[Color name=\"blue\"]イチヨウさん[Color name=\"unset\"]とは ウチのことや\n"
+"ああ アンタ… リンクくんいうんやろ？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk_200"
+msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]ふわぁ… めっちゃ眠いわ"
+
+msgid "0012"
+msgstr "やっぱりいいです"
+
+#, ruby
+msgid "Talk_000_slp"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"34\"][Color name=\"red\"]骨の馬[Color name=\"unset\"] 見つけるのに 頭使たから 眠いんや…\n"
+"情報屋イチヨウちゃんは 閉店や…"
+
+msgid "0000"
+msgstr "そうです"
+
+#, ruby
+msgid "Talk_002"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]素直に答えてくれる子は 好きやで"
+
+#, ruby
+msgid "Talk_201"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"13\"]アンタ… 寝てるウチを起こすってのが\n"
+"どんだけ罪深いかわかっとるんやろね…？\n"
+"まあええわ そんだけウチの情報が\n"
+"欲しいってことなんやろ？"
+
+msgid "0001"
+msgstr "リンリンです"
+
+#, ruby
+msgid "Talk_003"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]えらいかわいい名前やなぁ…\n"
+"…[PauseShort]…[PauseShort]"
+
+#, ruby
+msgid "0002"
+msgstr "違います"
+
+#, ruby
+msgid "Talk_004"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ウソついたら アカンで！\n"
+"[Color name=\"blue\"]イチヨウさん[Color name=\"unset\"]には お見通しや！"
+
+msgid "Talk_320"
+msgstr "ほなね"
+
+#, ruby
+msgid "Talk_005"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]ふうん… 違うんかいな…\n"
+"ほな 情報とか いらんのやね"
+
+#, ruby
+msgid "Talk_310"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ヘブラ山脈[Color name=\"unset\"]でも一番すみっこ[PauseShort] 北西の最果てまで\n"
+"行くんや！って言う 冒険家がおってな…\n"
+"で 山脈の一番北側まで行って そこから\n"
+"ひたすら西に 歩いたらしいんやけど…\n"
+"結局 途中で崖と[Color name=\"red\"]吹き上げる風[Color name=\"unset\"]に阻まれて\n"
+"最果てまでは 進めんかったんやて\n"
+"そんで「最果てには何があるん？」って\n"
+"聞いたら…\n"
+"[Sound1 unk1=\"4\" unk2=\"23\"]「それが知りとうて 行ってみたんや！」やて…[PauseMid]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]何があるかも知らんのに ようそんな\n"
+"寒そうな場所に 行こうとしたもんやで…"
+
+#, ruby
+msgid "LookPicture"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"7\"]ええ？！ [PauseMid]これが[Color name=\"red\"]骨の馬[Color name=\"unset\"]？\n"
+"[Color name=\"blue\"]スタルホース[Color name=\"unset\"]… [PauseShort]こんな化け物なん？\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]うわぁ～ [PauseShort]夢に出てきそうやわぁ～\n"
+"めっちゃ怖い… [PauseShort]けど この絵 すごいなぁ！"
+
+#, ruby
+msgid "Talk_100"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]テリーって 妙ちきりんなやっちゃなー…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFGAgAAAAAAABUAAAAEAAAAXAAAAH4AAACgAAAAwgAAAMQAAADGAAAAyAAAAOoAAAAMAQAALgEAAFABAAByAQAAlAEAALYBAADYAQAA+gEAABwCAAA+AgAAQAIAAEICAABEAgAATgBwAGMAXwBIAHUAbgB0AGUAcgBzAF8ATABvAHMAdAAAAE4AcABjAF8ASAB1AG4AdABlAHIAcwBfAEwAbwBzAHQAAABOAHAAYwBfAEgAdQBuAHQAZQByAHMAXwBMAG8AcwB0AAAAAAAAAAAATgBwAGMAXwBIAHUAbgB0AGUAcgBzAF8ATABvAHMAdAAAAE4AcABjAF8ASAB1AG4AdABlAHIAcwBfAEwAbwBzAHQAAABOAHAAYwBfAEgAdQBuAHQAZQByAHMAXwBMAG8AcwB0AAAATgBwAGMAXwBIAHUAbgB0AGUAcgBzAF8ATABvAHMAdAAAAE4AcABjAF8ASAB1AG4AdABlAHIAcwBfAEwAbwBzAHQAAABOAHAAYwBfAEgAdQBuAHQAZQByAHMAXwBMAG8AcwB0AAAATgBwAGMAXwBIAHUAbgB0AGUAcgBzAF8ATABvAHMAdAAAAE4AcABjAF8ASAB1AG4AdABlAHIAcwBfAEwAbwBzAHQAAABOAHAAYwBfAEgAdQBuAHQAZQByAHMAXwBMAG8AcwB0AAAATgBwAGMAXwBIAHUAbgB0AGUAcgBzAF8ATABvAHMAdAAAAE4AcABjAF8ASAB1AG4AdABlAHIAcwBfAEwAbwBzAHQAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

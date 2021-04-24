@@ -1,0 +1,740 @@
+msgid "near00"
+msgstr "여기하고오…"
+
+msgid "0000"
+msgstr "부탁합니다"
+
+msgid "near01"
+msgstr "어~ 그러니까…"
+
+msgid "0001"
+msgstr "잠시만요"
+
+msgid "0002"
+msgstr "안녕히 계세요"
+
+msgid "0003"
+msgstr "장비품 스탠드"
+
+msgid "near04"
+msgstr "쿨… 쿨…"
+
+msgid "0004"
+msgstr "가구"
+
+msgid "0005"
+msgstr "외벽"
+
+msgid "0006"
+msgstr "역시 그만둔다"
+
+msgid "0010"
+msgstr "침대"
+
+msgid "0007"
+msgstr "무기 스탠드"
+
+msgid "0011"
+msgstr "맞아요!"
+
+msgid "0008"
+msgstr "활 스탠드"
+
+msgid "0012"
+msgstr "조명"
+
+msgid "0009"
+msgstr "방패 스탠드"
+
+msgid "0013"
+msgstr "꽃밭이 필요해요"
+
+msgid "0014"
+msgstr "나무를 심고 싶어요"
+
+msgid "0015"
+msgstr "문"
+
+msgid "0016"
+msgstr "낼 수 있어요"
+
+msgid "0020"
+msgstr "보였어요"
+
+msgid "0017"
+msgstr "만들어 주세요"
+
+msgid "0021"
+msgstr "문패가 필요해요"
+
+msgid "0018"
+msgstr "뭐를요?"
+
+msgid "0022"
+msgstr "낼게요!"
+
+msgid "0019"
+msgstr "허드슨은?"
+
+msgid "0023"
+msgstr "낼 수 없어요…"
+
+msgid "0024"
+msgstr "네?!"
+
+msgid "0025"
+msgstr "그거 좋네요!"
+
+msgid "0026"
+msgstr "뭐 하는 거예요?"
+
+msgid "0030"
+msgstr "준비 됐어요!"
+
+msgid "0027"
+msgstr "당신은 누구죠?"
+
+msgid "0031"
+msgstr "개척?"
+
+msgid "0028"
+msgstr "여기 살게요!"
+
+msgid "0032"
+msgstr "낼게요!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…휴~ 겨우 한숨 돌렸다\n"
+"그런데 너…[PauseShort]\n"
+"아직 힘이 남아 도는 거 같네"
+
+msgid "0029"
+msgstr "그렇구나~"
+
+msgid "0033"
+msgstr "무리예요…"
+
+msgid "0034"
+msgstr "역시 그만둔다"
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]후훗… 말하지 않아도 알아[PauseLong]\n"
+"집은 샀는데 안에 아무것도 없잖아\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]좋아… [PauseShort]그 불타는 눈…[PauseLong]\n"
+"나 젊었을 때랑 꼭 닮았단 말야…\n"
+"그러니 내가 가구든 외벽이든[PauseShort]\n"
+"뭐든지 [Color name=\"red\"]5000루피[Color name=\"unset\"]에\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]…는 거짓말이고 너한테는\n"
+"[Color name=\"red\"]100루피[Color name=\"unset\"]에 만들어 줄게\n"
+"돈이 준비되면 말 걸어 줘"
+
+msgid "0035"
+msgstr "…낼게요!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]하~이♪"
+
+msgid "0036"
+msgstr "잘 지내요?"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]와우♪[PauseShort] 자극적이야[PauseLong]\n"
+"자, 그럼…"
+
+msgid "0037"
+msgstr "목에 건 부적…"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~~~♪"
+
+msgid "0038"
+msgstr "어…"
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~~~♪"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]뭐가 필요하니?[Choice4Flags label1=\"3\" flag1=\"HatenoNPC032_CompStand\" label2=\"4\" flag2=\"HatenoNPC032_CompInDoor\" label3=\"5\" flag3=\"HatenoNPC032_CompOutDoor\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕~~~♪"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]어떤 스탠드?[Choice4Flags label1=\"7\" flag1=\"HatenoNPC032_WeaponStand3\" label2=\"8\" flag2=\"HatenoNPC032_ArrowStand3\" label3=\"9\" flag3=\"HatenoNPC032_ShieldStand3\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]아듀~♪"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]뭐가 필요하니?[Choice4Flags label1=\"10\" flag1=\"HatenoNPC032_Bed\" label2=\"12\" flag2=\"HatenoNPC032_Light\" label3=\"15\" flag3=\"HatenoNPC032_Door\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]외벽은 어떻게 할까?[Choice4Flags label1=\"21\" flag1=\"HatenoNPC032_Nameplate\" label2=\"13\" flag2=\"HatenoNPC032_Farm\" label3=\"14\" flag3=\"HatenoNPC032_Tree\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]그건 [Color name=\"red\"]100루피[Color name=\"unset\"]야[PauseLong]\n"
+"낼 수 있어?[Choice2 label1=\"16\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]그럼 요금은 선불로 받을게♪"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…아니 그런데 얘[PauseLong]\n"
+"그 [Color name=\"red\"]100루피[Color name=\"unset\"]조차 없잖니\n"
+"돈 많이 벌어서 다시 와"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]자… [PauseShort]내가 가진 힘은[PauseShort]\n"
+"이제 다 썼어…\n"
+"힘들어서 당분간은 좀 쉴게"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]좋아 [PauseShort]오케이~♪"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]그건 그렇고 허드슨한테서[PauseShort]\n"
+"아무런 연락이 없네"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]나한테 볼일 있어?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]설마 [Color name=\"blue\"]추낙호[Color name=\"unset\"]에 도착하기 전에[PauseShort]\n"
+"길을 잃은 건 아니겠지…"
+
+msgid "talk19"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"22\"]꺅!! [PauseLong]설마… [PauseShort]너…[Size percent=\"100\"]\n"
+"\n"
+"전부 갖추었다는 거야?!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]이게 바로 젊음… [PauseShort]위험하면서도 순수한…\n"
+"\n"
+"전부 갖춘 기념으로 내가[PauseShort]\n"
+"[Color name=\"blue\"]가구[Color name=\"unset\"]를 선물해줄게"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]추낙호[Color name=\"unset\"]에서 잘해 주고 있다면[PauseShort]\n"
+"문제 없겠지만…"
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]무슨 용건이야?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]잘 지내. [PauseLong]근데 나…\n"
+"\n"
+"우두머리 겸 사장 겸 디자이너를 은퇴하고[PauseShort]\n"
+"신붓감을 찾으러 여행을 떠날 거야\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]너도… [PauseShort]해야 할 일이 있잖아?\n"
+"\n"
+"서둘러[PauseLong]\n"
+"시간은 기다려주지 않아"
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]궁금해?\n"
+"\n"
+"이건 대대로 볼슨가에 전해져 내려오는[PauseShort]\n"
+"행운을 부르는 부적이야\n"
+"[Sound1 unk1=\"0\" unk2=\"35\"]허드슨의 결혼식 끝날 때…\n"
+"꽃잎 휘날리는 거 봤니?[Choice1 label=\"20\"]\n"
+"후훗, 다행이야…[PauseLong]\n"
+"그건 바보한테는 보이지 않는 꽃보라…\n"
+"끝없이 내리는 꽃눈은 끝없는 사랑을 나타내[PauseLong]\n"
+"낭만적이지 않니?"
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]자… [PauseShort]실력 좀 발휘해 볼까~"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]이번에 허드슨에게 [Color name=\"blue\"]추낙 지방[Color name=\"unset\"][PauseShort]\n"
+"개척을 맡겼어[Choice1 label=\"31\"]"
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]그럼 바로 작업에 들어갈게"
+
+msgid "talk28"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]나의 진심을… [PauseShort]보여주겠어"
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]허드슨…[PauseShort]\n"
+"[Color name=\"blue\"]추낙 지방[Color name=\"unset\"]에서 잘 지내고 있나?\n"
+"거긴 참 좋은 곳이긴 한데[PauseShort]\n"
+"그 애한테는 큰 부담이 된 것 같아…"
+
+msgid "talk100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]너도… [PauseShort]서둘러\n"
+"\n"
+"…젊음 [PauseShort]그것은 물거품\n"
+"\n"
+"자, 알았으면 이제 떠나 \n"
+"\n"
+"너는 자신이 해야 할 일이 무언지\n"
+"알고 있을 테니까"
+
+msgid "talk29"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]잠깐 기다려 [PauseShort]준비할 테니까"
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]응… [PauseShort]슬슬 [Color name=\"blue\"]추낙 지방[Color name=\"unset\"]으로\n"
+"보내려고 생각 중이야\n"
+"사업 확장을 위해서\n"
+"\n"
+"자세한 이야기는 본인한테 물어보렴"
+
+msgid "talk101"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]더 묻고 싶은 거 있어?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk34"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]다 알아. [PauseLong]허드슨 결혼식 말이지?"
+
+msgid "talk102"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]다른 용건 있어?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TerrorArrow"
+msgstr "위험해!"
+
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]응… [PauseShort]사업 확장 때문에\n"
+"\n"
+"슬슬 출발하라고 해야 할 것 같아[PauseShort]\n"
+"너도 허드슨한테 한 마디 해줘"
+
+msgid "talk103"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]알았어[PauseLong]\n"
+"[Color name=\"blue\"]시자기 마을[Color name=\"unset\"]이란 곳에 가면 되지?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk36"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]미안하지만 우리 이제 잘 거야…"
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]구입해 줘서 고마워\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]젊은 친구가 그렇게 큰 돈을 내다니[PauseShort]\n"
+"정말…[PauseShort] 남자답다니까!\n"
+"덤으로 팔다 남은 [Color name=\"blue\"]무기 스탠드[Color name=\"unset\"]\n"
+"두고 갈 테니까 [PauseShort]잘 쓰도록 해\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]어디 보자 다음 일은…\n"
+"\n"
+"허드슨한테 [Color name=\"blue\"]추낙 지방[Color name=\"unset\"] 개척 맡기기[PauseShort]\n"
+"[Color name=\"red\"]그게[Color name=\"unset\"] 있었구나"
+
+msgid "talk104"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]뭐야… [PauseShort]어쩌라는 거야\n"
+"\n"
+"내가 참석해야 되는 거면[PauseLong]\n"
+"다시 말 걸어 줘"
+
+msgid "talk37"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]쿨… [PauseShort]쿨… [PauseShort][Size percent=\"80\"]따다단…[Size percent=\"100\"]"
+
+msgid "talk41"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]허드슨! [PauseShort]카슨! [PauseShort]멈춰!"
+
+msgid "talk105"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseShort]\n"
+"[Color name=\"blue\"]하테노 고대 연구소[Color name=\"unset\"] [Color name=\"blue\"]소장님 [Color name=\"unset\"]거 아냐?"
+
+msgid "talk38"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]쿨… [PauseShort]쿨… [PauseShort][Size percent=\"80\"]우하우하…[Size percent=\"100\"]"
+
+msgid "talk42"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]알겠어!"
+
+msgid "talk106"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseShort]\n"
+"[Color name=\"blue\"]하테노 고대 연구소[Color name=\"unset\"]의 프루아님 거 아니야?"
+
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]완벽한 집이야…[PauseShort]\n"
+"더 이상 내가 해 줄 것이 없겠어"
+
+msgid "talk43"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]얘기 시작하기 전에 잠깐만[PauseLong]\n"
+"어디 좀 앉아서 하자… [PauseShort]응?"
+
+msgid "talk107"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]곤란해 하고 계실 테니까 빨리 가져다 드려"
+
+msgid "talk111"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]그럼…"
+
+msgid "talk44"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]기다렸슴다!"
+
+msgid "talk108"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]은 [Color name=\"blue\"][PauseShort]하테노 고대 연구소[Color name=\"unset\"]\n"
+"[Color name=\"blue\"]소장님[Color name=\"unset\"]이 운반하던 게 틀림없어"
+
+msgid "talk112"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]그럼, [PauseShort]비는 오지만…"
+
+msgid "talk45"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]알겠슴다!"
+
+msgid "talk109"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]은 [Color name=\"blue\"][PauseShort]하테노 고대 연구소[Color name=\"unset\"]의\n"
+"프루아 할머니가 운반하던 게 틀림없어"
+
+msgid "talk113"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]한가하면 이 춤 같이 전파하자\n"
+"\n"
+"자, 시작한다?"
+
+msgid "talk46"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]카슨! [PauseLong]손님을 홀리기 전에 나를 홀려 봐!"
+
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]나?\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]나는 이 볼슨 건설의\n"
+"우두머리 겸 사장 겸 디자이너인 볼슨이야♪"
+
+msgid "talk114"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]볼슨 건설 사훈![PauseLong]\n"
+"얼굴은 쿨하게…"
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]카슨 짐승이야![PauseLong] 짐승남이 되는거야!"
+
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"17\"][Size percent=\"80\"]뭐니 얘…[PauseLong]\n"
+"갑자기 「살게요」라니…[Size percent=\"100\"]"
+
+msgid "talk115"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]마음은 핫하게!"
+
+msgid "talk48"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]카슨! [PauseLong]네 안의 남성미를 보여줘!"
+
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]뭐 어쨌든…[PauseLong] 설명해 줄게\n"
+"\n"
+"이 집은[PauseShort] 오랫동안 비어 있어서[PauseShort]\n"
+"마을 회의를 통해 철거하기로 했어\n"
+"그래서 철거비, 땅값 기타 비용 포함해서[PauseShort]\n"
+"마을에서 [Color name=\"red\"]50000루피[Color name=\"unset\"]에 하청을 받았는데\n"
+"네가 「사겠다」고 했으니[PauseShort]\n"
+"[Sound1 unk1=\"5\" unk2=\"6\"][Color name=\"red\"]50000루피[Color name=\"unset\"]…[PauseShort] 낼 수 있어?[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk116"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]볼슨 건설 사훈![PauseLong]\n"
+"망치 뚝딱뚝딱♪"
+
+msgid "talk120"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]볼슨 건설 사훈![PauseLong]\n"
+"페인트는 일곱빛…"
+
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]보다시피[PauseShort] 빈 집을 허물고 있어\n"
+"\n"
+"요즘 같은 때는 좀처럼 집을 살 사람이 없어서[PauseMid]\n"
+"마을 사람들 의견에 따라 철거를 결정한 거야[Choice2 label1=\"28\" label2=\"29\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk53"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]나한테 할 말 있어?[Choice3 label1=\"26\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk117"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]경쾌한 리듬으로!"
+
+msgid "talk121"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]기분은 봄빛!"
+
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]거기 좀 비켜 줄래…[PauseLong]\n"
+"나 숨 좀 고르고 얘기하자"
+
+msgid "talk118"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]볼슨 건설 사훈![PauseLong]\n"
+"톱은 당겨서 안 되면…"
+
+msgid "talk122"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]내가 만들었지만 정말 역작이야[PauseLong]\n"
+"가서 보고 와"
+
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]어머…?[PauseLong] 이 춤 몰라?[PauseLong]\n"
+"애들 사이에 유행하는 춤이라던데\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]…아무튼[PauseLong] 딱히 용건이 없으면[PauseShort]\n"
+"방해하지 말아 줄래?"
+
+msgid "talk119"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]밀어도 안 돼!"
+
+msgid "talk123"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]내가 했지만 완벽해…[PauseLong]\n"
+"내가 갖고싶을 정도야"
+
+msgid "talk56"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"][Color name=\"red\"]3000루피 [Color name=\"unset\"]준비 됐어?[Choice3 label1=\"30\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk60"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]카슨! [PauseLong]간닷!"
+
+msgid "talk124"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]느낌이 좋아♪[PauseLong]\n"
+"괜찮으면 한 번 보고 와"
+
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]진심이야?!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]그럼 진짜로 [Color name=\"red\"]3000루피 [Color name=\"unset\"]가져간다?[PauseLong]\n"
+"남자가 두 말하기 없기야?[Choice2 label1=\"35\" label2=\"34\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk61"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]오케이…[PauseLong]\n"
+"마음이 바뀌면 다시 와"
+
+msgid "talk125"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]신축, [PauseShort]감축, [PauseShort]철거, [PauseShort]외벽~[PauseLong]\n"
+"집에 [PauseShort]관한 건 [PauseShort]뭐든지 [PauseShort]있죠♪"
+
+msgid "talk58"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]앙, 몰라♪[PauseLong] 남자답다!"
+
+msgid "talk62"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]그럼 받을 거 받아 가야지♪"
+
+msgid "talk126"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]사랑과 [PauseShort]용기와 [PauseShort]희망으로 [PauseShort]가득한~[PauseLong]\n"
+"집에 [PauseShort]관한 건 [PauseShort]뭐든지 [PauseShort]있죠♪"
+
+msgid "talk63"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"15\"]아니 그런데 돈이 없잖아~~\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]돈을 충분히 벌어서[PauseShort]\n"
+"나한테 다시 와"
+
+msgid "talk127"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]이름하야 볼슨[PauseLong]\n"
+"DADADAN 볼슨 건설~♪"
+
+msgid "talk64"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]뭐…[PauseLong]\n"
+"너같은 애송이랑은 상관없는 이야기지"
+
+msgid "talk128"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]카슨! [PauseLong]부탁해![Size percent=\"100\"]"
+
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]어머![PauseShort] 센 척하네…!\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"0\"]…그런 적극적인 자세 아주 좋아[PauseLong]\n"
+"\n"
+"후훗… [PauseShort]마치 젊을 적 나를 보는 것 같네"
+
+msgid "talk66"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]후훗… 그래[PauseLong]\n"
+"\n"
+"나도 너랑 비슷한 나이 때[PauseShort]\n"
+"돈 때문에 굉장히 고생했었어\n"
+"그 마음은 십분 이해해…"
+
+msgid "talk70"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]빨리 외워"
+
+msgid "talk67"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]…\n"
+"\n"
+"……\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"9\"]……좋아,[PauseLong] 너 마음에 들었어\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]…그래![PauseShort] 그럼 여길[PauseLong]\n"
+"특별히 [Color name=\"red\"]3000루피[Color name=\"unset\"]에 양보해 줄게\n"
+"[Sound1 unk1=\"8\" unk2=\"15\"][Size percent=\"125\"]그 대신![Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"red\"]장작 묶음 30개[Color name=\"unset\"]를 가져와[PauseShort]\n"
+"우리도 여러모로 필요해서 말이야…\n"
+"알았으면 어서 가[PauseShort]\n"
+"그리고 너의 진심을 보여줘\n"
+"…아, 맞다"
+
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]잘 마무리가 됐어[PauseLong]\n"
+"가서 보고 와"
+
+msgid "talk68"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]어머, 얘 좀 봐…?[PauseShort]\n"
+"[Color name=\"red\"]장작 묶음 30개[Color name=\"unset\"] 안 갖고 있는 거 같은데?\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]나도 많이 깎아 준 거야[PauseShort]\n"
+"수량 딱 맞춰서 가져와"
+
+msgid "talk72"
+msgstr ""
+"[Color name=\"red\"][Sound1 unk1=\"5\" unk2=\"1\"]장작 묶음 30개[Color name=\"unset\"][PauseShort]\n"
+"지불해 줄래?[Choice3 label1=\"22\" label2=\"27\" label3=\"23\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "TerrorSword"
+msgstr "저리 치워!"
+
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]나약한 소리 하지마!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]아직 젊으니까[PauseShort]\n"
+"그 정도 고생은 사서도 해야지"
+
+msgid "talk74"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]오케이♪[PauseLong]\n"
+"그럼 받을 거 받아 갈게"
+
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"10\"]네 진심… [PauseShort]잘 봤어\n"
+"\n"
+"그럼 약속대로 이 집은[PauseShort]\n"
+"[Color name=\"red\"]3000루피[Color name=\"unset\"]에 팔아줄게\n"
+"돈이 다 준비 되면[PauseShort]\n"
+"나한테 말해줘"
+
+msgid "talk76"
+msgstr "[Sound2 id=\"37\"]볼슨[PauseShort] DADADAN[PauseShort] 볼슨♪"
+
+msgid "talk80"
+msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]뭔데, 뭔데…?"
+
+msgid "talk77"
+msgstr "[Sound2 id=\"38\"][Size percent=\"80\"]우하우하[Size percent=\"100\"]"
+
+msgid "talk81"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]허드슨이 [Color name=\"blue\"]시자기 마을[Color name=\"unset\"]에서 결혼식 한다고[PauseShort]\n"
+"네가 알려 줬잖아\n"
+"거기 참석하면 되는 거지?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk78"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]짜란~![Size percent=\"100\"]"
+
+msgid "talk82"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]미안하지만 이만 갈래… [PauseShort]내일 봐"
+
+msgid "talk79"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]어머?[PauseLong]\n"
+"네가 먼저 말을 꺼냈잖아?\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]기다려 달라면 기다려 주겠지만…"
+
+msgid "talk83"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]그럼 짐 챙겨서[PauseShort]\n"
+"허드슨한테 가야겠네[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk84"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"0\"]허드슨이 결혼한다고?![Size percent=\"100\"]\n"
+"\n"
+"결혼식에 참석해달라고?!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…제법인걸"
+
+msgid "talk85"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]후훗… [PauseShort]기대되네"
+
+msgid "talk86"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"3\"]카슨, [PauseShort]가자![Size percent=\"100\"]"
+
+msgid "talk90"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…좋아,[PauseShort] 참가해 주지[PauseLong]\n"
+"여기 있어 봤자 할 일도 없고…"
+
+msgid "talk87"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]기다렸슴다!"
+
+msgid "talk91"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]참 좋은 결혼식이었어[Choice1 label=\"11\"]"
+
+msgid "talk88"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]넵!"
+
+msgid "talk92"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]허드슨이랑 오래 알고 지냈는데도[PauseShort]\n"
+"저렇게 좋아하는 허드슨은 처음 봐…"
+
+msgid "talk89"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]알겠슴다!"
+
+msgid "talk93"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]그럼… [PauseShort]일이나 계속 해야겠네\n"
+"\n"
+"필요한 물건이 있으면[PauseShort]\n"
+"나한테 말해 줘"
+
+msgid "talk94"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]허드슨은 [Color name=\"blue\"]시자기 마을[Color name=\"unset\"]에서 론드슨이랑[PauseShort]\n"
+"잘 살고 있을 거야\n"
+"사랑… [PauseLong]그것은 눈부시고[PauseShort]\n"
+"누구도 침범할 수 없는 두 사람의 성역…"
+
+msgid "talk96"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]결심했어…[Choice1 label=\"18\"]"
+
+msgid "talk97"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]나… [PauseShort]은퇴할 거야[Choice1 label=\"24\"]"
+
+msgid "talk98"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]은퇴하고 신붓감을 찾아 여행을 떠날래[Choice1 label=\"25\"]"
+
+msgid "TerrorBomb"
+msgstr "뭐야?!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "YQAAAAE6FgAAAAAAAKcAAAAEAAAApAIAAM4CAAD4AgAAIgMAACQDAAAmAwAAKAMAACoDAAAsAwAALgMAADADAAAyAwAANAMAADYDAAA4AwAAOgMAADwDAAA+AwAAQAMAAEIDAABEAwAARgMAAEgDAABKAwAATAMAAE4DAABQAwAAUgMAAFQDAABWAwAAWAMAAFoDAABcAwAAXgMAAGADAABiAwAAZAMAAGYDAABoAwAAagMAAGwDAABuAwAAcAMAAHIDAAB0AwAAdgMAAKADAADKAwAA9AMAAB4EAABIBAAAcgQAAJwEAADGBAAA8AQAABoFAABEBQAAbgUAAJgFAADCBQAA7AUAABYGAABABgAAagYAAJQGAAC+BgAA6AYAABIHAAA8BwAAZgcAAJAHAAC6BwAA5AcAAA4IAAA4CAAAYggAAIwIAAC2CAAA4AgAAAoJAAA0CQAAXgkAAIgJAACyCQAA3AkAAAYKAAAwCgAAWgoAAIQKAACuCgAAsAoAALIKAAC0CgAA3goAAAgLAAAyCwAAXAsAAIYLAACwCwAA2gsAAAQMAAAuDAAAWAwAAFoMAACEDAAArgwAANgMAAACDQAALA0AAFYNAACADQAAqg0AANQNAAD+DQAAKA4AAFIOAAB8DgAApg4AANAOAAD6DgAAJA8AAE4PAAB4DwAAog8AAMwPAAD2DwAAIBAAAEoQAAB0EAAAnhAAAMgQAADyEAAAHBEAAEYRAABwEQAAmhEAAMQRAADuEQAAGBIAAEISAABsEgAAlhIAAMASAADqEgAAFBMAAD4TAABoEwAAkhMAALwTAADmEwAAEBQAADoUAABkFAAAZhQAAJAUAACSFAAAvBQAAL4UAADoFAAA6hQAABQVAAA+FQAAaBUAAJIVAAC8FQAA5hUAABAWAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

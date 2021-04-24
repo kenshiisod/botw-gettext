@@ -1,0 +1,259 @@
+msgid "AskGolf8"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Puedes golpear la [Color name=\"red\"]bola[Color name=\"unset\"] como tú quieras,\n"
+"pero ¡ten en cuenta que irá más lejos\n"
+"si la golpeas muy fuerte![PauseShort] ¡PAM, PUM!"
+
+msgid "0014"
+msgstr "No, voy a seguir"
+
+msgid "OB_Cancell2"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"0\"]Podrías haberme dicho que no querías\n"
+"seguir jugando...[PauseMid] ¡Bueno, espero volver\n"
+"a verte por aquí!"
+
+msgid "AskGolf9"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si la [Color name=\"red\"]bola[Color name=\"unset\"] se mueve, por muy poco\n"
+"que sea,[PauseMid] contará como [Color name=\"red\"]un golpe[Color name=\"unset\"].[PauseMid]\n"
+"¡Y eso es todo![PauseShort] ¿Quieres probarlo?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "StrokeOver"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Ya diste los veinte golpes, así que\n"
+"tristemente tengo que descalificarte.[PauseShort]\n"
+"¡Vuelve a intentarlo cuando gustes!"
+
+msgid "OB_Warning1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"3\"]¿Pero adónde vas? [PauseMid]¿Quieres dejar\n"
+"de jugar?"
+
+msgid "Judge_OB"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Uy...[PauseMid] ¿La [Color name=\"red\"]bola[Color name=\"unset\"] salió del campo?[PauseMid]\n"
+"Pues tendré que [Color name=\"red\"]penalizarte[Color name=\"unset\"], lo siento...[PageBreak]Sumaré [Color name=\"red\"]un golpe[Color name=\"unset\"] a tu marcador y tendrás\n"
+"que volver al punto donde golpeaste la\n"
+"bola la última vez."
+
+msgid "OB_Warning2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si te sales del campo, tendré que\n"
+"[Color name=\"red\"]descalificarte[Color name=\"unset\"]. ¡Y no pienso devolverte\n"
+"las rupias!"
+
+msgid "TalkFirst"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]¡Hacía un montón que no veía a nadie\n"
+"por este cañón![PauseMid] Debes de estar tan\n"
+"en forma como yo."
+
+msgid "0020"
+msgstr "¡Quiero jugar!"
+
+msgid "NoRupee"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Andas corto de rupias, amigo mío.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¡Ahorra un poco y regresa cuando\n"
+"quieras jugar!"
+
+msgid "0021"
+msgstr "Ahora no"
+
+msgid "Clear_Excellent_1"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"][Size percent=\"125\"]¿¡[Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"][Color name=\"unset\"]!?[Size percent=\"100\"][PauseMid] Eres...[PauseMid] ¡un profesional![PauseMid]\n"
+"¡Puedes ser la nueva estrella del\n"
+"[Size percent=\"125\"][Color name=\"blue\"]goroplof[Color name=\"unset\"][Size percent=\"100\"]!"
+
+msgid "Clear_Middle_1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Esta vez hiciste un total de...[PauseMid]\n"
+"¡[Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"] golpes[Color name=\"unset\"]![PauseMid] Sabes que puedes\n"
+"hacerlo mejor, ¿no?"
+
+msgid "Clear_Excellent_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]No recuerdo cuántos [Color name=\"red\"]golpes [Color name=\"unset\"]hice yo...[PauseMid]\n"
+"¡pero creo que más o menos igual\n"
+"que tú!"
+
+msgid "Clear_Middle_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Seguro que con un poco de [Color name=\"red\"]práctica[Color name=\"unset\"]\n"
+"mejorarás tu técnica."
+
+msgid "Clear_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡PAM, PUM! ¡Buen golpe!"
+
+msgid "Clear_Excellent_3"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Con jugadores como tú, ¡el [Color name=\"blue\"][Size percent=\"125\"]goroplof[Size percent=\"100\"][Color name=\"unset\"] va\n"
+"para arriba![PauseMid] ¡Sigue así e intenta batir tu\n"
+"récord!"
+
+msgid "NotPlay"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Oooh,[PauseMid] qué aburrido.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Bueno, si cambias de parecer, ya sabes\n"
+"dónde encontrarme."
+
+msgid "0001"
+msgstr "Quiero probar"
+
+msgid "0002"
+msgstr "¿Goroqué?"
+
+msgid "RetrunGame"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡PAM, PUM![PauseMid] ¡Sigamos con el [Size percent=\"125\"][Color name=\"blue\"]goroplof[Color name=\"unset\"][Size percent=\"100\"]!"
+
+msgid "Clear_Low_1"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Terminaste con un total de...[PauseMid]\n"
+"¡[Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"] golpes[Color name=\"unset\"]![PauseMid] El [Color name=\"blue\"][Size percent=\"125\"]goroplof[Size percent=\"100\"][Color name=\"unset\"] no\n"
+"es tan fácil como parece, ¿eh?"
+
+msgid "NoOneMore1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]¿No? Qué lástima...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¡Pero lo bueno es que ya sabes\n"
+"lo divertido que es el [Color name=\"blue\"][Size percent=\"125\"]goroplof[Size percent=\"100\"][Color name=\"unset\"]!"
+
+msgid "0003"
+msgstr "No, gracias"
+
+msgid "Clear_Low_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]¡Pero no te desanimes! [PauseMid]Se nota que\n"
+"tienes potencial, solo te falta [Color name=\"red\"]practicar,\n"
+"practicar y luego practicar un poco más[Color name=\"unset\"]."
+
+msgid "NoOneMore2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]En fin, yo me quedaré por aquí para\n"
+"cuidar el campo.[PauseMid] ¡Vuelve cuando quieras!"
+
+msgid "AskGolf10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]¡Entonces no se diga más![PauseShort]\n"
+"¡Que comience el [Size percent=\"125\"][Color name=\"blue\"]goroplof[Color name=\"unset\"][Size percent=\"100\"]!"
+
+msgid "0005"
+msgstr "De acuerdo"
+
+msgid "AskPlay"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Dime,[PauseMid] ¿quieres poner a prueba\n"
+"tu habilidad con una partida\n"
+"de [Color name=\"blue\"][Size percent=\"125\"]goroplof[Size percent=\"100\"][Color name=\"unset\"]? ¡PAM, PUM![Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "AskPay"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es decir, que comience cuando\n"
+"hayas pagado la tarifa de [Color name=\"red\"]20 rupias[Color name=\"unset\"].\n"
+"¡Este campo no se mantiene solo![Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0006"
+msgstr "No quiero jugar"
+
+msgid "Clear_1"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡Bien hecho! [PauseMid]Voy a sumar los [Color name=\"red\"]golpes[Color name=\"unset\"]..."
+
+msgid "Clear_High_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]¡Hiciste un total de[PauseMid] [Color name=\"red\"][02:11 name=\"MiniGame_SmashGolf_ShotCount\" stub=\"0\"] golpes[Color name=\"unset\"]!\n"
+"¡Impresionante!"
+
+msgid "AskGolf1"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]¿No conoces el [Size percent=\"125\"][Color name=\"blue\"]goroplof[Color name=\"unset\"][Size percent=\"100\"]?[PauseLong] ¡Si es muy\n"
+"famoso! Todos los que lo han jugado\n"
+"dicen que es muy adictivo."
+
+msgid "Clear_High_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No está mal, ¡pero sé que puedes lograr\n"
+"la mejor puntuación de la historia si te\n"
+"lo propones!"
+
+msgid "AskGolf2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Por ahora yo soy el único, así que ya ves\n"
+"que no miento.[PauseShort] Se me ocurrió un día\n"
+"mientras bajaba rodando por este cañón."
+
+msgid "GameTalk"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"19\"]¿Eh?[PauseMid] ¿Qué pasa?[PauseMid] ¿Quieres dejarlo\n"
+"en mitad de la partida?[Choice2 label1=\"13\" label2=\"14\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "AskGolf3"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Y es muy fácil de jugar! Tienes que\n"
+"golpear la [Color name=\"red\"]bola[Color name=\"unset\"] e intentar que entre en\n"
+"el hoyo donde está la bandera.[PauseShort] ¡PUM!\n"
+"Ganarás más puntos si lo consigues con\n"
+"el menor número de golpes posibles.[PauseMid]\n"
+"Una partida son [Color name=\"red\"]20 rupias[Color name=\"unset\"]."
+
+msgid "StrokeOver_Result"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Me da mucha pena tener que\n"
+"descalificarte...[PauseShort] Pensé que ibas\n"
+"a lograr grandes cosas."
+
+msgid "AskGolf4"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Con armas pesadas, como el martillo,\n"
+"lanzarás la bola más lejos, pero ten\n"
+"cuidado de no pasarte.[PauseMid]\n"
+"Si usas espadas u otras armas ligeras,\n"
+"podrás calcular mejor la distancia,[PauseMid]\n"
+"¡pero tendrás que golpear más veces!"
+
+msgid "PlayOK"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¡Excelente! [PauseMid]Voy a preparar el campo."
+
+msgid "Near00"
+msgstr "¡PAM, PUM! ¡Goroplof!"
+
+msgid "AskGolf5"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Dale a la [Color name=\"red\"]bola [Color name=\"unset\"]y acumula energía para\n"
+"que salga volando aún más lejos.[PauseShort] ¡PAM!"
+
+msgid "AskOneMore"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Creo que aquí hay alguien que quiere\n"
+"volver a jugar, ¿eh?[PauseMid] ¿Te animas?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "AskGolf6"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si la bola sale del campo, recibirás\n"
+"una [Color name=\"red\"]penalización que sumará un golpe[Color name=\"unset\"]\n"
+"a tu marcador.\n"
+"Podrás volver a lanzar la bola desde\n"
+"la misma posición del último golpe."
+
+msgid "Cancel_End"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Ven a jugar al [Color name=\"blue\"][Size percent=\"125\"]goroplof[Size percent=\"100\"][Color name=\"unset\"] siempre\n"
+"que quieras!"
+
+msgid "AskGolf7"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tienes que meter la [Color name=\"red\"]bola[Color name=\"unset\"] en el hoyo con\n"
+"[Color name=\"red\"]20 golpes[Color name=\"unset\"] o menos.[PauseMid] No te preocupes,\n"
+"que yo llevaré la cuenta."
+
+msgid "0013"
+msgstr "Sí"
+
+msgid "OB_Cancell1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"3\"]¿Entonces te vas?[PauseShort] En tal caso\n"
+"tengo que [Color name=\"red\"]descalificarte[Color name=\"unset\"], lo siento."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAGmBgAAAAAAADIAAAAEAAAA0AAAAPQAAAAYAQAAGgEAABwBAAAeAQAAQgEAAGYBAACKAQAArgEAANIBAAD2AQAAGgIAAD4CAABiAgAAhgIAAKoCAADOAgAA0AIAANICAAD2AgAAGgMAAD4DAABAAwAAQgMAAGYDAACKAwAArgMAANIDAAD2AwAAGgQAAD4EAABiBAAAhgQAAKoEAADOBAAA8gQAABYFAAAYBQAAGgUAAD4FAABiBQAAhgUAAKoFAADOBQAA8gUAABYGAAA6BgAAXgYAAIIGAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAAAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBHAG8AbABmAAAAAAAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8ARwBvAGwAZgAAAAAAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEcAbwBsAGYAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

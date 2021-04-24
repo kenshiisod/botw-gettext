@@ -1,0 +1,257 @@
+msgid "0010"
+msgstr "Alles klar..."
+
+msgid "Greetings_Morning"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Morgen!"
+
+msgid "Succeed_Rain"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Hier ein kleiner Bonus wegen des\n"
+"Regens!"
+
+msgid "CantPlay_LanternOn_BeforeTalk"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]Ach... Die [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseLong]\n"
+"Sie hat so was Beruhigendes..."
+
+msgid "Goodbye_01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Na gut..."
+
+msgid "CantPlay_Weather_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Zur Belohnung kann ich dir nur\n"
+"[Color name=\"red\"]20 Rubine[Color name=\"unset\"] geben...[PauseShort] Möchtest du's\n"
+"trotzdem versuchen?[Choice2 label1=\"8\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NotAccept_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Hm..."
+
+msgid "Explanation_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Wirklich? [PauseLong]Wenn dir das möglich ist,\n"
+"bitte, tu es!"
+
+msgid "CantPlay_End"
+msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]...Bitte mach sie nicht aus."
+
+msgid "NotAccept_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ich verstehe..."
+
+msgid "Explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Schaffst du es, diese [Color name=\"blue\"]Laterne [Color name=\"unset\"]innerhalb\n"
+"von [Color name=\"red\"]3 Minuten[Color name=\"unset\"] mit einer [Color name=\"blue\"]blauen Flamme[Color name=\"unset\"]\n"
+"zu entzünden?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Innerhalb von [Color name=\"red\"]3 Minuten[Color name=\"unset\"], bitte!"
+
+msgid "CantPlay_End_00"
+msgstr ""
+"[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"3\" unk2=\"1\"]Ich habe doch gesagt, du sollst sie nicht\n"
+"ausmachen...[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "Explanation_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Schaffst du es, diese [Color name=\"blue\"]Laterne [Color name=\"unset\"]innerhalb\n"
+"von [Color name=\"red\"]1 Minute[Color name=\"unset\"] mit einer [Color name=\"blue\"]blauen Flamme[Color name=\"unset\"]\n"
+"zu entzünden?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Innerhalb von [Color name=\"red\"]1 Minute[Color name=\"unset\"], bitte!"
+
+msgid "Explanation_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Schaffst du es, diese [Color name=\"blue\"]Laterne [Color name=\"unset\"]innerhalb\n"
+"von [Color name=\"red\"]20 Sekunden[Color name=\"unset\"] mit einer [Color name=\"blue\"]blauen\n"
+"Flamme [Color name=\"unset\"]zu entzünden?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Innerhalb von [Color name=\"red\"]20 Sekunden[Color name=\"unset\"], bitte!"
+
+msgid "Fail02"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"12\"]Wenn der Regen die [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]\n"
+"erlöschen lässt, wird aus der ganzen\n"
+"Sache natürlich nichts.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Warte lieber, bis sich das Wetter bessert,\n"
+"und dann kannst du es noch einmal mit\n"
+"der [Color name=\"blue\"]blauen Flamme[Color name=\"unset\"] versuchen."
+
+msgid "Talk_AfterMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Die [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"] ist erloschen...[PauseShort]\n"
+"Kannst du sie wieder entzünden?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Explanation_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Na, wunderbar![PauseShort] Als kleine Gebühr für\n"
+"Unkosten in Bezug auf dein Pferd\n"
+"bekäme ich dann [Color name=\"red\"]20 Rubine[Color name=\"unset\"]![Choice1 label=\"9\"]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ich meine, wenn du die [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]\n"
+"schnell transportieren willst, bleibt dir\n"
+"ja nur ein Pferd, oder?[PageBreak]Und deswegen gibt's diese Gebühr von\n"
+"[Color name=\"red\"]20 Rubinen[Color name=\"unset\"]![Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_BeforeMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Früher hat diese [Color name=\"blue\"]Laterne [Color name=\"unset\"]mit einer\n"
+"[Color name=\"blue\"]blauen Flamme[Color name=\"unset\"] geleuchtet...[PauseShort]\n"
+"Ob ich sie noch mal sehen werde?[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Explanation_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Na, wunderbar! Als kleine Gebühr für\n"
+"entstehende Unkosten in Bezug auf dein\n"
+"Pferd bekäme ich dann [Color name=\"red\"]20 Rubine[Color name=\"unset\"]![Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Goodbye"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Mach's gut! [PauseLong]Bis dann!"
+
+msgid "Explanation_06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Freut mich, mit dir Geschäfte zu\n"
+"machen! ♪"
+
+msgid "0000"
+msgstr "Was ist los?"
+
+msgid "Explanation_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]...Was ist das denn?![PauseLong] Du hast ja gar\n"
+"nicht genug Rubine.[PageBreak]Komm zurück, wenn du 20 Rubine\n"
+"gespart hast."
+
+msgid "BeforeStart_00"
+msgstr "[Sound2 id=\"1\"][Sound1 unk1=\"0\" unk2=\"1\"]Also gut... [PauseShort]Mach dich bereit!"
+
+msgid "0001"
+msgstr "Wiedersehen."
+
+msgid "Explanation_08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]Ich danke dir!"
+
+msgid "BeforeStart_01"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]3[PageBreak]2[PageBreak]1[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Los![Size percent=\"100\"]"
+
+msgid "Near_LanternOn"
+msgstr "♪～"
+
+msgid "0002"
+msgstr "Hm?"
+
+msgid "BeforeStart_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Nur damit du Bescheid weißt:[PauseShort] Das werde\n"
+"ich sagen, bevor es losgeht!"
+
+msgid "0003"
+msgstr "Ich zünde sie an!"
+
+msgid "0004"
+msgstr "In Ordnung."
+
+msgid "CantPlay_LanternOn_AfterTalk"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Ja... Die [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseShort]\n"
+"Sie ist so wunderschön..."
+
+msgid "0005"
+msgstr "Lieber nicht."
+
+msgid "Succeed_First"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]Oh! Fantastisch![PauseLong]\n"
+"Du hast es geschafft!"
+
+msgid "0006"
+msgstr "Beenden."
+
+msgid "0007"
+msgstr "Akkala-Institut?"
+
+msgid "Greetings_Again"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallöchen!"
+
+msgid "FirstTalk_00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]Ach...[Choice1 label=\"0\"]"
+
+msgid "0008"
+msgstr "Ich mach's."
+
+msgid "FirstTalk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"][Color name=\"Gray\"]Die [Color name=\"unset\"][Color name=\"blue\"]blaue Flamme[Color name=\"unset\"][Color name=\"Gray\"]...[Color name=\"unset\"][Size percent=\"100\"][Choice1 label=\"2\"]"
+
+msgid "0009"
+msgstr "Du willst Rubine?!"
+
+msgid "FirstTalk_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]Oh, [PauseShort]Verzeihung![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Seit ich geheiratet habe und hierher-\n"
+"gezogen bin, langweile ich mich\n"
+"furchtbar...[PageBreak]Das Interessanteste ist noch, der [Color name=\"blue\"]blauen\n"
+"Flamme[Color name=\"unset\"] in der [Color name=\"blue\"]Laterne[Color name=\"unset\"] beim Brennen\n"
+"zuzusehen.[PageBreak][Sound1 unk1=\"5\" unk2=\"0\"]Aber seit einiger Zeit hat der [Color name=\"blue\"]Direktor\n"
+"des Akkala-Instituts[Color name=\"unset\"] sie gar nicht\n"
+"mehr angezündet...[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_Game"
+msgstr "Ich bin so aufgeregt! ♪"
+
+msgid "FirstTalk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Der [Color name=\"blue\"]Direktor des Akkala-Instituts[Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Wenn nur diese [Color name=\"blue\"]Laterne[Color name=\"unset\"] wieder mit\n"
+"[Color name=\"blue\"]blauer Flamme[Color name=\"unset\"] brennen würde...[PauseShort][Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_LanternOff"
+msgstr "Ach..."
+
+msgid "FirstTalk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ja... [PauseShort]Früher hat der [Color name=\"blue\"]Direktor [Color name=\"unset\"]diese\n"
+"[Color name=\"blue\"]Laterne[Color name=\"unset\"] mit einer [Color name=\"blue\"]blauen Flamme[Color name=\"unset\"]\n"
+"entzündet.[PauseShort] Irgendein Experiment...\n"
+"Aber jetzt ist er schon alt und geht\n"
+"wohl nicht mehr so viel nach draußen..."
+
+msgid "Ask"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]Nanu? [PauseShort]Willst du etwa aufhören?[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "FirstTalk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Das [Color name=\"blue\"]Akkala-Institut[Color name=\"unset\"] liegt[PauseShort] übrigens gleich\n"
+"an diesem Pfad."
+
+msgid "FirstTalk_06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Es ist in einem umgebauten Leuchtturm,\n"
+"man kann es also gar nicht verfehlen."
+
+msgid "Fail"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]Du hast's nicht geschafft... [PauseShort]Grmbl...[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Wenn du's noch mal versuchen willst,\n"
+"sprich mich an, während gerade keine\n"
+"[Color name=\"blue\"]blaue Flamme[Color name=\"unset\"] brennt."
+
+msgid "Greetings_AboutNoon"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Tag!"
+
+msgid "Greetings_Night"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Abend!"
+
+msgid "Restart"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ich freu mich!"
+
+msgid "CantPlay_Weather"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tjaaa... [PauseShort]Das Wetter ist nicht so toll, also\n"
+"hat sich's wohl erledigt."
+
+msgid "Reward"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Oh, [PauseShort]ich bin dir zu Dank verpflichtet!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGKCAAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAG4BAABwAQAAcgEAAHQBAAB2AQAAeAEAAHoBAAB8AQAAfgEAAIABAACCAQAAqgEAANIBAAD6AQAAIgIAAEoCAAByAgAAmgIAAMICAADqAgAAEgMAADoDAABiAwAAigMAALIDAADaAwAAAgQAACoEAABSBAAAegQAAKIEAADKBAAA8gQAABoFAABCBQAAagUAAJIFAAC6BQAA4gUAAAoGAAAyBgAAWgYAAIIGAACqBgAA0gYAAPoGAAAiBwAASgcAAHIHAACaBwAAwgcAAOoHAAASCAAAOggAAGIIAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

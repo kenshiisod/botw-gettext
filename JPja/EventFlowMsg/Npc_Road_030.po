@@ -1,0 +1,451 @@
+#, ruby
+msgid "RetMSG_Gerud_01_3"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]砂漠は 危険地帯なんスけど\n"
+"この先にゲルド族の子がいると思うと…"
+
+#, ruby
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]君も ゲルド族と仲良くなりたいッスね？[PauseShort]\n"
+"恥ずかしがることないッスよ\n"
+"背が高くて 強くて 美しくて 強くて[PauseMid]\n"
+"そのうえなんと [PauseShort]すごく強いという！"
+
+#, ruby
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]いい旅をッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"21\"]も [PauseShort]もちろん商売最優先ッスよ！[PauseMid]\n"
+"恋とかそういうのは 二の次ッス！"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr "売る物あるなら 見せてほしいッス！"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を ひとつッスか？[PauseShort]\n"
+"んじゃ [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]ッス！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]仕事とはいえ ゲルド族の子と\n"
+"おしゃべりするの楽しいッス～"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr "なんか売ってくれるッスか！"
+
+#, ruby
+msgid "Com_Talk_05d"
+msgstr "とりあえず 見せてほしいッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]なんとか 街の中に入れないものかなぁ…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"100\"]おっと！ [PauseShort]今のは大きめのひとりごとッス！"
+
+#, ruby
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]が [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で[PauseShort]\n"
+"[PauseMid][Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]ッスけど いいッスか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]ゲルド族の女性と 仲良くなりたいッスね～[PauseShort]\n"
+"おっと！[PauseShort] 下心抜きで 商売相手としてッスよ？\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]…と思って ここまで来たものの…[PauseMid]\n"
+"街の中に 男は入れてもらえないんスよね～"
+
+#, ruby
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 買うッスか？\n"
+"いくつッスか？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "MSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]この辺りで超バカでかいバケモノ 見たッスか？[PauseShort]\n"
+"正直 恐くて砂漠に入りたくないッスよ～[PauseMid]\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]んでも！\n"
+"\n"
+"ゲルド族の子と仲良くなりたいんで[PauseShort]\n"
+"目をつむって駆け抜けてでも 街をめざすッス！"
+
+#, ruby
+msgid "MSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]ムフフフ～ [PauseShort][Color name=\"blue\"]カラカラバザール[Color name=\"unset\"]で\n"
+"ゲルド族の子と おしゃべりするの楽しいッス～\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]おっと誤解なきよう！[PauseShort] これも仕事ッス！[PauseMid]\n"
+"仕入れた食糧を売ってるだけッスよ！ [PauseShort]\n"
+"リンゴとか！"
+
+#, ruby
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]でもほんと助かったっスよ！\n"
+"これ受け取ってほしいっス！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を ひとつだけッスか？[PauseShort]\n"
+"んじゃ [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]ッス！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]ゲルド族の子って\n"
+"みんなオレより背が高くて 魅力的ッス！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]で 女の子たちに囲まれて暮らしたいッス…[Size percent=\"100\"]"
+
+#, ruby
+msgid "RetMSG_Gerud_03_1"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]ゲルドの街[Color name=\"unset\"]に 賊が出たって噂を聞いてたから[PauseMid]\n"
+"ちょっと警戒してるんッスよ～"
+
+#, ruby
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を全部ッスね？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だけどいいッスか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "MSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]正直 恐くて砂漠地帯に入りたくないッスけど[PauseMid]\n"
+"女の子のため 駆け抜けてでも 街をめざすッス！"
+
+#, ruby
+msgid "MSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]この馬宿に もっとゲルド族の子が\n"
+"来てくれたらいいなって 思ってるッス！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]そして すべての女性にリンゴと愛を捧げたいッス…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個全部！\n"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるッスけど いいスか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]これで最後ッス[PauseShort]\n"
+"いっぱい買ってくれて うれしいッス"
+
+#, ruby
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]何とか 助かったッス！[PauseShort] おかげさまッスね！"
+
+#, ruby
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"9\"]もう今日は 売るものがなくなったッス[PauseShort]\n"
+"たくさん買ってくれて どうもッス\n"
+"入荷予定の品物リストだけでも見るッスか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]ちょろいもんッスね！ [PauseShort]さすがッス！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"8\"]ありがとうッス！"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]ありがとうッスッス！"
+
+#, ruby
+msgid "MSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]もっとゲルド族の子が\n"
+"来てくれないッスかね…"
+
+#, ruby
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]いやー 命がいくつあっても足りないッスね！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]ありがとうッスッスッス！"
+
+#, ruby
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]こんな天気だから サービスサービス！[PauseShort]\n"
+"[Color name=\"blue\"]ガンバリカブト[Color name=\"unset\"]ってやつを 売るッスよ！"
+
+#, ruby
+msgid "RetMSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]なんとか 街の中に入れないものかなぁ…[PageBreak][Sound1 unk1=\"4\" unk2=\"21\"][Size percent=\"100\"]おっと！[PauseShort] なんでもないッス！[PauseMid]\n"
+"ひとりごとッス！ [PauseShort]ひとりごとッス！"
+
+#, ruby
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]魔物に襲われたら 逃げるが勝ちッスよ！"
+
+#, ruby
+msgid "RetMSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]と [Color name=\"blue\"]カラカラバザール[Color name=\"unset\"]の間は\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]が通る ちょっとした危険地帯なんスよね\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]それでも ゲルド族の子とお近づきになりたくて\n"
+"砂漠地帯をひた走る俺ッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"][Color name=\"blue\"]カラカラバザール[Color name=\"unset\"]は ゲルド族の女性が多くて\n"
+"華やかッスね！ [PauseShort]\n"
+"思わず口元が ニンマリしちゃうッス…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]ニンマリといえば ニンマリバッタ売ってるッス[PauseMid]\n"
+"[Sound2 id=\"17\"]…おっと[PauseMid] [Color name=\"red\"]ガンバリバッタ[Color name=\"unset\"]の間違いッス！"
+
+#, ruby
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]どうせなら 女の子に襲われたいッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]おわっと？！[PauseMid]\n"
+"…なんだ [PauseMid]ハイリア人ッスか～\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]に 賊が出たって噂を聞いてたから[PauseMid]\n"
+"びっくりしたッスよ～"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]まっ [PauseShort]それはともかく 店開き 店開き！[PauseMid]\n"
+"ちょっとしたモンッスけどね[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]魔物チャンよりも…[PauseMid]\n"
+"[Sound2 id=\"7\"]ゲルド族の女の子のほうが 怖いッスよ！"
+
+#, ruby
+msgid "Near00"
+msgstr "女の子…"
+
+#, ruby
+msgid "RetMSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]今度こそ [Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]に入って\n"
+"女の子たちに囲まれて…[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 unk1=\"4\" unk2=\"1\"]いや 誤解ッス！[PauseMid]\n"
+"女の子たちに囲まれて商売したいって話ッス！"
+
+#, ruby
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…んで 他には何か？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Near01"
+msgstr "ゲルドの娘…"
+
+msgid "Near02"
+msgstr "モテモテ…"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]どうも ありがとうッス！"
+
+msgid "Near03"
+msgstr "ハーレム…"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]ありがとうッス！"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"8\"]ありがたいッス！"
+
+#, ruby
+msgid "Com_Talk_10"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を買うってことで\n"
+"いいッスか？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"8\"]どうも ありがとうッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]いや～ ゲルド族の女性はいいッスね～[PauseMid]\n"
+"ニンマリが止まらないッス"
+
+#, ruby
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]今 売れるものは こんだけッス！[PauseShort]\n"
+"どうぞ！"
+
+#, ruby
+msgid "MSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゲルド族の女性と 仲良くなりたいッス[PauseShort]\n"
+"…と思って ここまで来たものの…[PauseMid]\n"
+"街の中に 男は入れてもらえないんスよね～"
+
+#, ruby
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"] ね？[PauseShort]\n"
+"いくつ 売ってくれるッスか？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で\n"
+"合わせてえっと… [PauseMid][Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]ッスけど？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]それは 買い取れないッス！"
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]あの いいッスか？[PauseMid]\n"
+"売りたい服は 着てちゃだめッス！"
+
+#, ruby
+msgid "MSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]ゲルド族って 魅力的ッス！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]で 女の子たちに囲まれて暮らしたいッス…[Size percent=\"100\"]"
+
+#, ruby
+msgid "0000"
+msgstr "買う"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "0001"
+msgstr "売る"
+
+#, ruby
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]魔物チャン もういないッスか？[PauseMid]\n"
+"だったら 今のうちに逃げるッスよ！"
+
+msgid "5501"
+msgstr "いいえ"
+
+msgid "0002"
+msgstr "さようなら"
+
+#, ruby
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]いてて… [PauseMid]まあ 痛いは痛いけど[PauseMid]\n"
+"ゲルド族の女の子に蹴られた痛さに比べたら…"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]どれを 売ってくれるッスか？"
+
+#, ruby
+msgid "5502"
+msgstr "買う"
+
+#, ruby
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 売るッスか？\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]に なるッスけど？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]ありがとうッス！\n"
+"他にも売りたいものは あるッスか？"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]そりゃ残念ッス！"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr "何でも買い取るッス！"
+
+#, ruby
+msgid "5507"
+msgstr "ぜんぶ買う"
+
+#, ruby
+msgid "Com_Talk_06"
+msgstr "どれが欲しいッスか？"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+#, ruby
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]このままじゃ…[PauseShort]\n"
+"旅の予定が ズレちゃうッスよね？"
+
+#, ruby
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]ごめん 今そいつは切らしてるッス！"
+
+#, ruby
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]魔物なんか相手にしていたら…[PauseMid]\n"
+"命がいくつあっても足りないッスよ？"
+
+#, ruby
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"10\"]ルピーが足りないッスよ！[PauseShort]\n"
+"冷やかしは かんべんッス！"
+
+#, ruby
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"10\"]ポーチがいっぱいッスよ！[PauseMid]\n"
+"売るか捨てるかして 空きを作るッス！"
+
+#, ruby
+msgid "RetMSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]と[Color name=\"blue\"]カラカラバザール[Color name=\"unset\"]の間は\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]が通る 危険地帯なんスけど\n"
+"ゲルド族の子がいると思うと…"
+
+#, ruby
+msgid "RetMSG_Gerud_01_2"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]砂漠って 魔物も多いし砂嵐もヒドイし\n"
+"ちょっとした危険地帯なんスよね\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]それでも ゲルド族の子とお近づきになりたくて\n"
+"砂漠地帯をひた走る俺ッス！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFIBQAAAAAAAFQAAAAEAAAAWAEAAHIBAACMAQAAjgEAAJABAACSAQAArAEAAK4BAACwAQAAsgEAALQBAAC2AQAAuAEAALoBAAC8AQAAvgEAAMABAADCAQAA3AEAAPYBAAAQAgAAKgIAACwCAAAuAgAAMAIAADICAAA0AgAANgIAADgCAAA6AgAAPAIAAD4CAABAAgAAQgIAAEQCAABGAgAASAIAAEoCAABMAgAATgIAAFACAABSAgAAVAIAAFYCAABYAgAAWgIAAFwCAABeAgAAYAIAAGICAABkAgAAhAIAAKQCAADEAgAA5AIAAOYCAADoAgAA6gIAAOwCAADuAgAA8AIAAPICAAAMAwAAJgMAAEADAABaAwAAdAMAAI4DAACoAwAAwgMAANwDAAD2AwAAEAQAACoEAABEBAAAXgQAAHgEAACSBAAArAQAAMYEAADgBAAA+gQAABQFAAAuBQAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

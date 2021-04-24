@@ -1,0 +1,306 @@
+#, ruby
+msgid "Talk32"
+msgstr ""
+"[Sound2 id=\"14\"]無理を言うな[PauseLong]\n"
+"他にも姉妹が目覚めておるなら 話は別じゃが…"
+
+#, ruby
+msgid "Revival00"
+msgstr ""
+"[Sound2 id=\"32\"]う～～～ん？\n"
+"\n"
+"そなたがわらわを 解き放ったのか？\n"
+"\n"
+"[Sound2 id=\"2\"]ふぅん…？ [PauseShort]もっと 筋骨隆々の[PauseShort]\n"
+"たくましい者かと 思うたが\n"
+"ホッホ…[PauseLong]\n"
+"わらわは 華奢な男子も 守備範囲じゃ"
+
+#, ruby
+msgid "Talk33"
+msgstr ""
+"[Sound2 id=\"14\"]そなた… [PauseShort]他の姉妹も 助けてたもれ[PauseLong]\n"
+"さすれば その服を強くできるやもな"
+
+#, ruby
+msgid "Talk34"
+msgstr ""
+"[Sound2 id=\"12\"]強くしようにも 元となる 材料が足りんようじゃ[PauseLong]\n"
+"覚え帰るがよい"
+
+#, ruby
+msgid "Talk00"
+msgstr ""
+"[Sound2 id=\"2\"]また 来たんじゃのぅ？[PauseLong]\n"
+"さぁ 服を見せてたもれ"
+
+#, ruby
+msgid "Talk35"
+msgstr ""
+"[Sound2 id=\"12\"]何を馬鹿な[PauseLong]\n"
+"強くするための材料が 足りんではないか"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound2 id=\"10\"]ふむ… [PauseShort]しばしの別れじゃな？[PauseLong]\n"
+"服を手に入れたら いつでも来るがよいぞ"
+
+#, ruby
+msgid "Talk36"
+msgstr "[Sound2 id=\"12\"]そなた [PauseShort]材料が足りん事を知っての 言いぐさか？"
+
+#, ruby
+msgid "Talk02"
+msgstr ""
+"[Sound2 id=\"2\"]フム…[PauseLong] わらわの姉妹には[PauseShort]\n"
+"まだ力を取り戻せてない者が おるようじゃ\n"
+"やつらの力が 戻ったなら[PauseShort]\n"
+"さらに 服を強くできるぞよ"
+
+#, ruby
+msgid "Talk37"
+msgstr ""
+"[Sound2 id=\"4\"]材料が足りんぞえ[PauseLong]\n"
+"他の服なら どうじゃ？"
+
+msgid "Talk38"
+msgstr "なんじゃ？ [PauseLong]やめるのか"
+
+#, ruby
+msgid "Talk04"
+msgstr "では そこに直れ"
+
+#, ruby
+msgid "Talk39"
+msgstr "そなた… [PauseShort]わらわを待たせるのか？"
+
+#, ruby
+msgid "Talk50"
+msgstr ""
+"[Sound2 id=\"9\"]できたぞえ[PauseLong]\n"
+"良い具合じゃの…\n"
+"[PauseShort]強くした服はな 同じ種類でそろえると\n"
+"まれに不思議な力が 現れることがあるのじゃ"
+
+msgid "Talk06"
+msgstr "[Sound2 id=\"9\"]できたぞえ"
+
+#, ruby
+msgid "Talk08"
+msgstr "では 服を選んでたもれ"
+
+#, ruby
+msgid "Talk09"
+msgstr "他の服も やってほしいのか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk20"
+msgstr "[Sound2 id=\"0\"]推 [PauseLong]参っ！"
+
+#, ruby
+msgid "Talk21"
+msgstr "[Sound2 id=\"0\"]登 [PauseLong]場っ！"
+
+#, ruby
+msgid "Revival00_1"
+msgstr ""
+"さて そなたのおかげで[PauseShort]\n"
+"力を取り戻せたようじゃ\n"
+"引き換えに…[PauseShort]\n"
+"そなたの[Color name=\"red\"]服[Color name=\"unset\"]を[Color name=\"red\"]強く[Color name=\"unset\"]してたもう\n"
+"ただ それなりの[Color name=\"red\"]材料[Color name=\"unset\"]が必要じゃが…[PauseLong]\n"
+"試されるかの？"
+
+#, ruby
+msgid "Talk22"
+msgstr ""
+"[Sound2 id=\"2\"]それでは [02:0B name=\"Shop_SelectItemName\" stub=\"0\"]を[PauseShort]\n"
+"強くするぞ？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "強くする"
+
+#, ruby
+msgid "Talk23"
+msgstr ""
+"[Sound2 id=\"2\"]ふむ… [PauseShort][02:0B name=\"Shop_SelectItemName\" stub=\"0\"]を[PauseShort]\n"
+"強くすれば よいのじゃな？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "しない"
+
+#, ruby
+msgid "Talk24"
+msgstr ""
+"[Sound2 id=\"2\"]わらわに [02:0B name=\"Shop_SelectItemName\" stub=\"0\"]を強くせよと[PauseShort]\n"
+"申すのか？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "お願いする"
+
+#, ruby
+msgid "Talk25"
+msgstr ""
+"[Sound2 id=\"2\"]強くするのは[PauseShort]\n"
+"[02:0B name=\"Shop_SelectItemName\" stub=\"0\"]で 相違無いな？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0003"
+msgstr "やめておく"
+
+#, ruby
+msgid "Talk26"
+msgstr ""
+"[Sound2 id=\"10\"]すまぬ… [PauseShort]わらわの力を もってしても[PauseLong]\n"
+"強くできない服も あるのじゃ…"
+
+#, ruby
+msgid "0004"
+msgstr "分かりました"
+
+#, ruby
+msgid "Talk27"
+msgstr ""
+"[Sound2 id=\"10\"]悪いが その服は強くできん[PauseLong]\n"
+"違うのを 選んでたもれ"
+
+#, ruby
+msgid "0005"
+msgstr "結構です"
+
+#, ruby
+msgid "Talk28"
+msgstr ""
+"[Sound2 id=\"10\"]その服は 強くできんようじゃ[PauseLong]\n"
+"別のものに 変更してたも"
+
+#, ruby
+msgid "Talk29"
+msgstr ""
+"[Sound2 id=\"10\"]どうやらその服は 強くできんようじゃのぅ[PauseLong]\n"
+"別の服はどうじゃ？"
+
+#, ruby
+msgid "Talk40"
+msgstr "どうした？ [PauseShort]さっさと決めてたも"
+
+#, ruby
+msgid "Talk41"
+msgstr "ふむ… [PauseShort]選び直すんじゃな？"
+
+#, ruby
+msgid "Talk42"
+msgstr "退[PauseLong] 出っ！"
+
+#, ruby
+msgid "Talk43"
+msgstr "撤 [PauseLong]収っ！"
+
+#, ruby
+msgid "Talk44"
+msgstr "退 [PauseLong]場っ！"
+
+#, ruby
+msgid "Talk10"
+msgstr ""
+"なにゆえ 強くできぬのか[PauseShort]\n"
+"わらわが 教えてやろう"
+
+#, ruby
+msgid "Talk45"
+msgstr "退 [PauseLong]室っ！"
+
+#, ruby
+msgid "Talk11"
+msgstr ""
+"[Sound2 id=\"12\"]…呆れた [PauseShort]装備しておらんのはともかく[PauseShort]\n"
+"服を一つも 持っておらんではないか！\n"
+"強くできそうな服を 手に入れたら[PauseShort]\n"
+"また来るがよい"
+
+#, ruby
+msgid "Talk46"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"19\"]…しかし わらわが 強くできそうな服を[PauseShort]\n"
+"持っておらんようじゃ\n"
+"どれ… [PauseShort]一応 確認してやろう[PauseLong]\n"
+"そなたの手持ちの服を 見せてたも[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk12"
+msgstr ""
+"[Sound2 id=\"2\"]今のわらわなら そなたの服を[PauseShort]\n"
+"[Color name=\"red\"]少しだけ[Color name=\"unset\"] 強くできるぞえ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk47"
+msgstr ""
+"ふむ… [PauseShort]他の服も強うしてやろうと思うたが[PauseShort]\n"
+"もう 無理なようじゃ"
+
+#, ruby
+msgid "Talk13"
+msgstr ""
+"[Sound2 id=\"2\"]今のわらわなら そなたの服を[PauseShort]\n"
+"[Color name=\"red\"]だいぶ[Color name=\"unset\"] 強くできるぞえ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk48"
+msgstr ""
+"服と素材を手に入れるか 姉妹の力を戻したら[PauseShort]\n"
+"強くしてやれるやも知れぬ"
+
+#, ruby
+msgid "Talk14"
+msgstr ""
+"[Sound2 id=\"2\"]今のわらわなら そなたの服を[PauseShort]\n"
+"[Color name=\"red\"]かなり[Color name=\"unset\"] 強くできるぞえ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk49"
+msgstr ""
+"新たに 服と素材を手に入れたら[PauseShort]\n"
+"またわらわを 訪れるがよい"
+
+#, ruby
+msgid "Talk15"
+msgstr ""
+"[Sound2 id=\"2\"]今のわらわなら そなたの服を[PauseShort]\n"
+"[Color name=\"red\"]最大まで[Color name=\"unset\"] 強くできるぞえ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk16"
+msgstr ""
+"[Sound2 id=\"2\"]姉妹達を全員 解き放ったのじゃな？[PauseLong]\n"
+"礼を言うぞ\n"
+"わらわ達の力が 必要なら[PauseShort]\n"
+"いつでも 待っておるぞ"
+
+msgid "Talk17"
+msgstr "じゃぁのぅ"
+
+#, ruby
+msgid "Talk18"
+msgstr "[Sound2 id=\"0\"]参 [PauseLong]上っ！"
+
+#, ruby
+msgid "Talk19"
+msgstr "[Sound2 id=\"0\"]見 [PauseLong]参っ！"
+
+#, ruby
+msgid "Talk30"
+msgstr ""
+"[Sound2 id=\"14\"]その服は わらわの力だけでは無理じゃ[PauseLong]\n"
+"姉妹が力を 取り戻せればのぅ…"
+
+#, ruby
+msgid "Talk31"
+msgstr ""
+"[Sound2 id=\"14\"]その服を強くせよ と申すなら[PauseShort]\n"
+"もっと姉妹の助けが 必要じゃ…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAH8BwAAAAAAADgAAAAEAAAA6AAAAOoAAADsAAAA7gAAAPAAAADyAAAA9AAAABgBAAA8AQAAYAEAAIQBAACoAQAAzAEAAPABAAAUAgAAOAIAAFwCAACAAgAApAIAAMgCAADsAgAAEAMAADQDAABYAwAAfAMAAKADAADEAwAA6AMAAAwEAAAwBAAAVAQAAHgEAACcBAAAwAQAAOQEAAAIBQAALAUAAFAFAAB0BQAAmAUAALwFAADgBQAABAYAACgGAABMBgAAcAYAAJQGAAC4BgAA3AYAAAAHAAAkBwAASAcAAGwHAACQBwAAtAcAANgHAAAAAAAAAAAAAAAAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAABOAHAAYwBfAEQAcgBlAHMAcwBGAGEAaQByAHkAXwAwADEAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

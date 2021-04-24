@@ -1,0 +1,162 @@
+#, ruby
+msgid "Npc_Kokiri011_R_111"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]ふぅ…\n"
+"\n"
+"なんとか火消し成功…"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_061"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]ちょっとちょっと！\n"
+"ゆうしゃサマ！\n"
+"こっちに戻ってきたら\n"
+"[Color name=\"red\"]しれん[Color name=\"unset\"]はリタイアだけど いいのか？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_Kokiri011_S10_071"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]さっそく [Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]に挑戦するかい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_Kokiri011_R_101"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]あっ？！\n"
+"\n"
+"ちょっと！\n"
+"なんなんだよーっ？！"
+
+msgid "Npc_Kokiri011_S20_051"
+msgstr "[Sound2 id=\"1\"][Size percent=\"125\"]ゴーーーールッ！！[Size percent=\"100\"]"
+
+#, ruby
+msgid "Npc_Kokiri011_R_041"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"11\"]目的地は この奥にある[Color name=\"red\"]祠[Color name=\"unset\"]だ\n"
+"…さぁ 行ってこい！"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_052"
+msgstr ""
+"[Sound2 id=\"9\"]到着おめでとう！\n"
+"[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]達成だ！\n"
+"さあ ゆうしゃサマ！[PauseMid]\n"
+"祠で祝福が待ってるぞ"
+
+#, ruby
+msgid "Npc_Kokiri011_S10_061"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]準備ができたら 声をかけてくれ"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_053"
+msgstr ""
+"[Sound2 id=\"17\"]あ そうそう[PageBreak]また しれんやりたくなったら\n"
+"オレの所へ 来いよなー\n"
+"[Sound2 id=\"7\"]ほんじゃーねー"
+
+msgid "0000"
+msgstr "やってみたい"
+
+#, ruby
+msgid "Npc_Kokiri011_R_031"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]そうかい\n"
+"興味が出たら またヨロシク"
+
+#, ruby
+msgid "0001"
+msgstr "また今度"
+
+#, ruby
+msgid "Npc_Kokiri011_S10_051"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]よーし 行ってこい！[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]剣[Color name=\"unset\"]も[Color name=\"red\"]弓[Color name=\"unset\"]も[Color name=\"red\"]盾[Color name=\"unset\"]も 装備したまま\n"
+"壊しても 外しても ダメだぞ"
+
+#, ruby
+msgid "0002"
+msgstr "挑戦する"
+
+#, ruby
+msgid "0003"
+msgstr "まだ待って"
+
+msgid "0004"
+msgstr "がんばってみる"
+
+#, ruby
+msgid "Npc_Kokiri011_R_091"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"19\"]おっと\n"
+"\n"
+"そこにある装備は 持ってくなよ！\n"
+"欲しけりゃ しれんに挑戦するんだな"
+
+#, ruby
+msgid "0005"
+msgstr "終わりにする"
+
+#, ruby
+msgid "Npc_Kokiri011_R_011"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]やあ ゆうしゃサマ！ 待ってたよ！\n"
+"\n"
+"コログしれんでも 一番難しいといわれる\n"
+"[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]は コチラ！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]コログしれん武器セット[Color name=\"unset\"]を 装備したまま\n"
+"目的地まで たどり着けば成功だ\n"
+"やってみるかい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_Kokiri011_S10_031"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ん？ [PauseMid]なんだ ポーチがいっぱいじゃないか[PageBreak]武器と盾と弓のポーチに ひとつずつ空きを\n"
+"作ってきてくれないと [PauseShort]始められないぞ"
+
+#, ruby
+msgid "Npc_Kokiri011_R_081"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここでは [Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]に挑戦できるぞ\n"
+"\n"
+"[Color name=\"red\"]コログのしれん武器セット[Color name=\"unset\"]を装備したまま\n"
+"目的地までたどり着けば成功だ\n"
+"やってみるかい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_Kokiri011_R_001"
+msgstr "しれんいかがッスかー"
+
+#, ruby
+msgid "Npc_Kokiri011_S10_021"
+msgstr "しれんの準備待ちだ"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_081"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]残念だったね ゆうしゃサマ…[PauseShort]\n"
+"まあ [PauseShort]こりずにまた挑戦してみてよ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]もしかして 今すぐ再挑戦したい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_001"
+msgstr ""
+"[Sound2 id=\"8\"][Size percent=\"125\"]はい ダメー！[PauseShort] しゅーーりょーー！！[Size percent=\"100\"][PageBreak]森人の剣と 森人の弓と 森人の盾を\n"
+"すべて装備したままでないと 失格だぞ！"
+
+#, ruby
+msgid "Npc_Kokiri011_R_071"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"]おっと\n"
+"\n"
+"そこから先に 進みたいなら\n"
+"申し込みが 必要だ"
+
+#, ruby
+msgid "Npc_Kokiri011_S20_071"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"2\"]おやおや ゆうしゃサマってば\n"
+"森の霧に迷っちゃったのかい？\n"
+"もう[Color name=\"red\"]しれん[Color name=\"unset\"]は 終わりにする？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAHMAgAAAAAAABsAAAAEAAAAdAAAAJAAAACsAAAArgAAALAAAADMAAAA6AAAAAQBAAAgAQAAIgEAACQBAABAAQAAXAEAAHgBAACUAQAAsAEAAMwBAADoAQAABAIAACACAAA8AgAAWAIAAHQCAACQAgAAkgIAAJQCAACwAgAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAAAAAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAAAAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADEAMQAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAAAAAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAxADEAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMQAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,117 @@
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo positivo, por decir algo, es que la\n"
+"bestia no le dispara a nadie siempre\n"
+"que este se mantenga a distancia.\n"
+"Lo malo es que ahora todo aquel que\n"
+"necesita entrar al poblado se ve obligado\n"
+"a usar este paso...\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]¡Qué situación tan triste la nuestra!"
+
+msgid "Talk_09"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Eres un viajero?"
+
+msgid "Talk_20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¿Buscas a Teba? Se ha marchado\n"
+"del poblado.[PageBreak]Habla con Gizutt, al otro lado de los\n"
+"puentes. Tal vez sepa algo más."
+
+msgid "Talk_21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Tienes más preguntas?[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk_10"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Un viajero a estas horas?"
+
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Un viajero en estas condiciones?\n"
+"Sí que tiene mérito..."
+
+msgid "0000"
+msgstr "¿Dónde estoy?"
+
+msgid "0001"
+msgstr "¿Qué ocurre?"
+
+msgid "Talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Me gustaría mostrarte los alrededores,\n"
+"pero algo me dice que ahora no es\n"
+"el mejor momento.[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Adiós"
+
+msgid "Talk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ah,[PauseShort] eres tú..."
+
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]La [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"] estuvo\n"
+"volando sobre el poblado hasta hace\n"
+"poco tiempo.\n"
+"Pero han sucedido varias cosas\n"
+"y parece que hemos vuelto a la\n"
+"normalidad.[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Estás en nuestro hogar, el poblado orni.[PauseMid]\n"
+"Quizá te dé la impresión de que\n"
+"el ambiente no es muy acogedor.\n"
+"Pero si preguntas a los vecinos\n"
+"del poblado, entenderás por qué."
+
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Sí, la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"] se colocó\n"
+"justo encima del poblado y no se mueve\n"
+"de ahí ni un milímetro desde entonces."
+
+msgid "0004"
+msgstr "¿Una bestia, dices?"
+
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿No has visto ese [Color name=\"blue\"]monstruo volador[Color name=\"unset\"]?[PauseLong]\n"
+"Se lo conoce por el nombre de\n"
+"[Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"].[PageBreak]Ya hace unos días que apareció,[PauseLong]\n"
+"y se dedica a atacar a todo aquel\n"
+"que se atreve a acercarse a ella.\n"
+"Al parecer antaño era la [Color name=\"blue\"]deidad\n"
+"protectora[Color name=\"unset\"] del poblado, pero ahora\n"
+"parece más bien lo contrario..."
+
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No quiero ni pensar qué pasaría si esa\n"
+"mole nos cayera encima de repente..."
+
+msgid "0005"
+msgstr "¿Conoces a Teba?"
+
+msgid "Talk_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hasta otra."
+
+msgid "Talk_17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Por aquí sigue la cosa igual.[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk_05"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]¿A que habías venido hasta aquí para ver\n"
+"a la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¿Buscas a Teba? Se ha marchado,\n"
+"ya no lo encontrarás en el poblado.[PageBreak]La única forma de salir de aquí sin que\n"
+"[Color name=\"blue\"]Medoh[Color name=\"unset\"] te dispare es a pata.[PageBreak]Habla con Gizutt, al otro lado de\n"
+"los puentes. Tal vez sepa adónde\n"
+"ha ido Teba."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAESAwAAAAAAABYAAAAEAAAAYAAAAGIAAABkAAAAZgAAAGgAAABqAAAAkgAAALoAAADiAAAACgEAADIBAABaAQAAggEAAKoBAADSAQAA+gEAACICAABKAgAAcgIAAJoCAADCAgAA6gIAAAAAAAAAAAAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

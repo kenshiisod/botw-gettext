@@ -1,0 +1,372 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Я думал, мне конец..."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Что у тебя есть?"
+
+msgid "MSG_Taba_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]По дороге из [Color name=\"blue\"]конюшни «Рито»[Color name=\"unset\"]\n"
+"в [Color name=\"blue\"]конюшню «Снежная»[Color name=\"unset\"] можно\n"
+"и обморозиться.[PageBreak]Но именно от холода местные\n"
+"грибы становятся еще вкуснее!"
+
+msgid "MSG_Taba_02_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ледяной ветер с [Color name=\"blue\"]Эберских гор[Color name=\"unset\"]\n"
+"продувает насквозь и меня,\n"
+"и мою лошадь."
+
+msgid "Com_Talk_01"
+msgstr "Могу предложить [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Taba_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Какой холод![PageBreak]Ледяной ветер с [Color name=\"blue\"]Эберских гор[Color name=\"unset\"]\n"
+"продувает насквозь и меня,\n"
+"и мою лошадь."
+
+msgid "RetMSG_Taba_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Ты путешественник?[PageBreak][Color name=\"blue\"]Конюшня «Рито»[Color name=\"unset\"] мне нравится.[PauseShort]\n"
+"Кстати, если пойдешь по висячим\n"
+"мостам, попадешь в деревню рито.[PageBreak]В их гостинице очень мягкие\n"
+"кровати.[PauseShort] Рекомендую хотя бы\n"
+"раз там переночевать."
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"2\"]Вот спасибо![PauseShort] Хороший товар."
+
+msgid "MSG_Taba_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Не каждый доберется\n"
+"в эти холодные края.[PageBreak]Если ты собираешься дальше\n"
+"на север, не забудь взять\n"
+"с собой одежду потеплее."
+
+msgid "RetMSG_Taba_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Я иду в [Color name=\"blue\"]конюшню «Рито»[Color name=\"unset\"].[PauseShort] Можешь\n"
+"составить мне компанию.[PauseShort] Хочу\n"
+"продать там весь свой товар."
+
+msgid "MSG_Taba_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Добро пожаловать в [Color name=\"blue\"]конюшню\n"
+"«Тихая»[Color name=\"unset\"]![PauseShort] Я тут часто бываю.[PageBreak]Это место славится своими\n"
+"вкусными грибами.[PauseShort] Его даже\n"
+"называют страной грибов.[PageBreak]Правда, это только я его так\n"
+"называю, но ты тоже можешь."
+
+msgid "RetMSG_Taba_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Тебе не тяжело по сугробам ходить?[PageBreak]Если будешь в тех местах, загляни\n"
+"в хижину у [Color name=\"blue\"]Восточно-Эберского пика[Color name=\"unset\"].[PageBreak]Говорят, у них там молодежный спорт\n"
+"есть — [Color name=\"red\"]щитбординг[Color name=\"unset\"] называется.[PauseShort]\n"
+"Заодно и согреваются так."
+
+msgid "RetMSG_Taba_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]В [Color name=\"blue\"]конюшне «Рито» [Color name=\"unset\"]я продаю грибы,\n"
+"которые выросли на морозе."
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]Жаль, конечно..."
+
+msgid "Com_Talk_10"
+msgstr "Точно берешь?[PauseShort] Не передумаешь?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Taba_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ты путешествуешь с мечом? Наверное,\n"
+"ты и со щитом умеешь обращаться.[PageBreak]Тогда тебе стоит пойти к хижине\n"
+"у [Color name=\"blue\"]Восточно-Эберского пика[Color name=\"unset\"] и испытать\n"
+"свои силы в [Color name=\"red\"]щитбординге[Color name=\"unset\"]."
+
+msgid "Com_Talk_05"
+msgstr "Покажи что-нибудь еще?"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]Спасибо!"
+
+msgid "RetMSG_Taba_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]В [Color name=\"blue\"]конюшне «Рито» [Color name=\"unset\"]я продаю грибы,\n"
+"которые выросли на морозе.[PageBreak]Набрал их целую кучу — пошел, так\n"
+"сказать, на риск.[PauseShort] Ну не на такой риск,\n"
+"как ты, конечно..."
+
+msgid "Com_Talk_06"
+msgstr "Грибы у меня хорошие!"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"2\"]Грибы у меня отличные![PauseShort] Выбирай."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"2\"]Благодарю!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"14\"]Извини, этих больше нет."
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько продаешь?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Большое спасибо!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Нет, у тебя денег не хватает.[PauseShort]\n"
+"Вот разбогатеешь — обращайся."
+
+msgid "Com_Talk_14"
+msgstr "Всего [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]?[PauseShort] Как насчет [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]В непогоду я продаю самые\n"
+"редкие грибы.[PauseShort] Выбирай."
+
+msgid "RetMSG_Taba_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я иду в [Color name=\"blue\"]конюшню «Рито»[Color name=\"unset\"].[PauseShort] Хочу\n"
+"продать там весь свой товар."
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]Всегда к твоим услугам!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]У тебя и так полно таких грибов.[PauseShort]\n"
+"Сначала съешь или продай их."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Ну нет, это я покупать не буду!"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Прими это в знак моей благодарности!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"4\"]Нельзя продавать одежду\n"
+"с себя.[PauseShort] Сначала сними."
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"][SPSwitch singular=\" штука\" plural=\" штук\" plural2=\" штуки\"] обойдутся\n"
+"тебе в [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько штук возьмешь?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Я еле на ногах держусь..."
+
+msgid "Com_Talk_33"
+msgstr "И все?[PauseShort] Как насчет [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Терпеть не могу такое..."
+
+msgid "Com_Talk_34"
+msgstr ""
+"То есть [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"][SPSwitch singular=\" штуку\" plural=\" штук\" plural2=\" штуки\"], верно?[PauseShort]\n"
+"Тогда с тебя [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Taba_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если ты собираешься дальше\n"
+"на север, не забудь взять\n"
+"с собой одежду потеплее."
+
+msgid "Com_Talk_35"
+msgstr ""
+"Все, то есть [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]? Могу\n"
+"предложить [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Спасибо, что купил у меня все грибы![PauseShort]\n"
+"С тобой приятно иметь дело."
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Ух ты![PauseShort] Какой ты сильный!"
+
+msgid "Com_Talk_05b"
+msgstr "Может, еще что-нибудь предложишь?"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Спасибо за покупку!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Слушай, грибы у меня кончились.[PauseShort]\n"
+"Может, на цены взглянешь?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Тебя грибы интересуют?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Ты меня спас!"
+
+msgid "Com_Talk_05c"
+msgstr "Что еще у тебя есть?"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"2\"]Благодарю!"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Что-нибудь еще?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Буду рад любым предложениям!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]Всегда к твоим услугам!"
+
+msgid "MSG_Taba_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Грибы, которые выросли на морозе,\n"
+"очень вкусные.[PauseShort] Вокруг [Color name=\"blue\"]конюшни\n"
+"«Снежная»[Color name=\"unset\"] их много растет..."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Эти места славятся своими грибами.[PauseShort]\n"
+"Тут есть и охлаждающие грибы,\n"
+"и согревающие, и бодрящие...[PageBreak]В общем, всякие разные грибы\n"
+"на любой вкус."
+
+msgid "RetMSG_Taba_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если ты интересуешься [Color name=\"red\"]щитбордингом[Color name=\"unset\"],\n"
+"иди к хижине у [Color name=\"blue\"]Восточно-Эберского\n"
+"пика[Color name=\"unset\"]."
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Путешествовать по такой погоде,\n"
+"конечно, опасно — в метель легко\n"
+"заблудиться.[PageBreak]Но я не собираюсь сидеть на месте\n"
+"и жаловаться, потому что люди ждут\n"
+"моих грибов."
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]По-видимому, в Эберских горах\n"
+"вьюга разошлась не на шутку.[PageBreak]Если в такую погоду заниматься\n"
+"[Color name=\"red\"]щитбордингом[Color name=\"unset\"], все себе отморозить\n"
+"можно."
+
+msgid "Com_Talk_56"
+msgstr "Всего-то![PauseShort] С тебя [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "0000"
+msgstr "Покажи товар"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "0001"
+msgstr "Я кое-что продаю"
+
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "0002"
+msgstr "Пока"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]Грибочки ждут..."
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Какой ты сильный![PauseShort] Ты меня спас."
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]Вкусные грибочки..."
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]Ты что...[PauseShort] спас меня?[PauseShort]\n"
+"Точно![PauseShort] Ты меня спас!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]Грибочки под снегом..."
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]Грибы по ночам не спят!"
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "MSG_Taba_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Добро пожаловать в [Color name=\"blue\"]конюшню «Тихая»[Color name=\"unset\"]![PauseShort]\n"
+"Я тут часто бываю. Это место славится\n"
+"своими вкусными грибами."
+
+msgid "Near04"
+msgstr "Ну и погодка..."
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]Что ты делаешь?![PauseShort] Уноси ноги![PauseShort]\n"
+"[Color name=\"blue\"]Страж[Color name=\"unset\"] приближается!"
+
+msgid "MSG_Taba_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Дорога к [Color name=\"blue\"]конюшне «Снежная»[Color name=\"unset\"]\n"
+"проходит через холодные края.[PageBreak]Но именно благодаря морозу грибы\n"
+"из снежных регионов такие вкусные!"
+
+msgid "RetMSG_Taba_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Тебе стоит заглянуть в хижину\n"
+"у [Color name=\"blue\"]Восточно-Эберского пика[Color name=\"unset\"] и испытать\n"
+"свои силы в [Color name=\"red\"]щитбординге[Color name=\"unset\"]."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Я тебе обязан жизнью!"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ты мне жизнью обязан![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Подожди...[PauseShort] Наоборот![PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Это я тебе жизнью обязан!"
+
+msgid "RetMSG_Taba_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если пойдешь по висячим мостам,\n"
+"попадешь в деревню рито.[PauseShort] В их\n"
+"гостинице очень мягкие кровати."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Увидимся!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Вот так попал в переделку! Я уж\n"
+"было подумал, что мне конец..."
+
+msgid "MSG_Taba_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Я продаю грибы, которые выросли\n"
+"на морозе.[PauseShort] От этого они особенно\n"
+"вкусные.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Вокруг [Color name=\"blue\"]конюшни «Снежная»[Color name=\"unset\"]\n"
+"грибов много растет..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAEMBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAANACAADqAgAABAMAAB4DAAA4AwAAUgMAAGwDAACGAwAAoAMAALoDAADUAwAA7gMAAAgEAAAiBAAAPAQAAFYEAABwBAAAigQAAKQEAAC+BAAA2AQAAPIEAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA1AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

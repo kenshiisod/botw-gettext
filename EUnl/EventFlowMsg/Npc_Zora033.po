@@ -1,0 +1,216 @@
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt geen [Color name=\"blue\"]zilveren speer[Color name=\"unset\"] en ook geen\n"
+"[Color name=\"blue\"]diamant[Color name=\"unset\"]..."
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"] en je hebt ook niet\n"
+"genoeg stukken [Color name=\"blue\"]vuursteen[Color name=\"unset\"]..."
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"14\"]Ik kan een nieuw exemplaar voor je\n"
+"maken als je me alle materialen brengt.\n"
+"Kom terug zodra je alles hebt verzameld."
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Hm... [PauseShort]Zo te zien heb je alle benodigde\n"
+"materialen bij je. Zal ik de speer dan nu\n"
+"voor je maken?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]Diamanten[Color name=\"unset\"] zijn erg zeldzaam. Weet je\n"
+"zeker dat je ze hiervoor wilt gebruiken?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Hm...[PauseShort] Kom maar terug als je wilt dat ik\n"
+"een nieuw exemplaar voor je maak."
+
+msgid "talk21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Prima... [PauseShort]Ik ga meteen aan de slag."
+
+msgid "talk22"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Poeh...[PauseShort] Dat was niet makkelijk.[PageBreak]Wees er voorzichtig mee."
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Trouwens, als jij de Uitverkorene[Color name=\"blue\"] [Color name=\"unset\"]bent,[PauseShort]\n"
+"kun je ook de [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"] en de\n"
+"[Color name=\"blue\"]Ceremoniespeer [Color name=\"unset\"]gebruiken.\n"
+"Als je een van deze speren breekt,[PauseShort] kan ik\n"
+"een nieuw exemplaar voor je maken."
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]Zo, je bent teruggekomen.[PageBreak]Wat heb je nodig?[Choice4Flags label1=\"8\" flag1=\"Npc_Zora033_Spear050\" label2=\"9\" flag2=\"Npc_Zora033_Spear049\" label3=\"65535\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]De [Color name=\"blue\"]Ceremoniespeer [Color name=\"unset\"]is een kopie, maar\n"
+"ook, net als de [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"], een\n"
+"geheim wapen van de koninklijke familie.\n"
+"Ik ben de enige ter wereld die deze\n"
+"speer mag maken...[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Als je hem breekt of verliest,[PauseShort] breng me\n"
+"dan een [Color name=\"blue\"]zilveren speer[Color name=\"unset\"] en [Color name=\"red\"]vijf stukken[Color name=\"unset\"]\n"
+"[Color name=\"blue\"]vuursteen[Color name=\"unset\"].\n"
+"Als je dat doet, kan ik een nieuwe\n"
+"[Color name=\"blue\"]Ceremoniespeer[Color name=\"unset\"] voor je maken."
+
+msgid "near00"
+msgstr "..."
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ik voel de [Color name=\"blue\"]Ceremoniespeer [Color name=\"unset\"]niet meer in\n"
+"deze wereld...[PauseLong] Wil je dat ik een nieuw\n"
+"exemplaar maak?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Hoewel je hem nu niet bij je draagt,[PauseShort] voel\n"
+"ik dat de [Color name=\"blue\"]Ceremoniespeer[Color name=\"unset\"] zich nog\n"
+"ergens in deze wereld bevindt.\n"
+"Als je de speer niet zelf aan iemand hebt\n"
+"gegeven,[PauseShort] kun je er maar beter naar op\n"
+"zoek gaan..."
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]In dat geval heb ik een[Color name=\"red\"] [Color name=\"unset\"][Color name=\"blue\"]zilveren speer[Color name=\"unset\"] en \n"
+"[Color name=\"red\"]vijf stukken[Color name=\"unset\"] [Color name=\"blue\"]vuursteen [Color name=\"unset\"]nodig..."
+
+msgid "talk00"
+msgstr "..."
+
+msgid "talk29"
+msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Wat kan ik voor je doen?[Choice4Flags label1=\"11\" flag1=\"Npc_Zora033_spear\" label2=\"12\" flag2=\"Npc_Zora033_doing\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"14\"]De Hyliaan die Mipha van ons heeft\n"
+"gestolen, komt zomaar naar binnen\n"
+"lopen... alsof het niets is!\n"
+"Wat kom jij hier doen na al die jaren?[Choice4Flags label1=\"11\" flag1=\"Npc_Zora033_spear\" label2=\"12\" flag2=\"Npc_Zora033_doing\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"2\" unk2=\"16\"]De wapenwerkplaats..."
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]...[Choice4Flags label1=\"11\" flag1=\"Npc_Zora033_spear\" label2=\"12\" flag2=\"Npc_Zora033_doing\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"2\" unk2=\"16\"]Onderhoud van speren..."
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Link, de Hyliaanse Uitverkorene... Ik heb\n"
+"gehoord wat jij hebt gedaan![PageBreak]Nu kan Mipha's ziel eindelijk in vrede\n"
+"rusten."
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"34\"]De [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"] en de\n"
+"[Color name=\"blue\"]Ceremoniespeer[Color name=\"unset\"]..."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"5\" unk2=\"4\"]Link... [PauseShort]Jij hebt de [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"]?"
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"12\"]Sinds je hier binnen bent komen lopen,\n"
+"heb je een hoop heisa veroorzaakt.[PageBreak]Het heeft geen nut om hier te komen\n"
+"zonder de [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"]. Ga dus\n"
+"maar weer."
+
+msgid "0004"
+msgstr "Ja, graag!"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]De [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"] is een geheim\n"
+"wapen van de koninklijke familie.[PauseLong] Ik ben \n"
+"de enige ter wereld die hem mag maken.[PageBreak]Maar als je de speer hebt gebroken of als\n"
+"je hem bent verloren, heb ik een\n"
+"oplossing.\n"
+"Breng me een [Color name=\"blue\"]zilveren speer[Color name=\"unset\"], [Color name=\"red\"]één[Color name=\"unset\"]\n"
+"[Color name=\"blue\"]diamant[Color name=\"unset\"] en [Color name=\"red\"]vijf stukken[Color name=\"unset\"] [Color name=\"blue\"]vuursteen[Color name=\"unset\"].[PageBreak]Dan maak ik een nieuwe\n"
+"[Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"] voor je."
+
+msgid "0005"
+msgstr "Nee, dank je."
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ja, ik voelde het. De [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"][PauseShort]\n"
+"is uit deze wereld verdwenen...[PauseLong] Zal ik\n"
+"een nieuw exemplaar voor je maken?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0006"
+msgstr "Ja."
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]In dat geval heb ik het volgende nodig:\n"
+"[Color name=\"red\"]één [Color name=\"unset\"][Color name=\"blue\"]zilveren speer[Color name=\"unset\"], [Color name=\"red\"]één[Color name=\"unset\"] [Color name=\"blue\"]diamant[Color name=\"unset\"] en [Color name=\"red\"]vijf\n"
+"stukken[Color name=\"unset\"] [Color name=\"blue\"]vuursteen[Color name=\"unset\"]..."
+
+msgid "0007"
+msgstr "Nee."
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Je draagt hem nu niet bij je,[PauseShort] maar ik voel\n"
+"de [Color name=\"blue\"]Lichtschubbenspeer[Color name=\"unset\"] nog ergens in\n"
+"deze wereld.[PageBreak]Als een monster deze speer te pakken\n"
+"krijgt, kan dat ongelofelijk gevaarlijk zijn.[PageBreak]Als je de [Color name=\"blue\"]Lichtschubbenspeer [Color name=\"unset\"]niet zelf\n"
+"aan iemand hebt gegeven,[PauseShort] kun je er maar\n"
+"beter naar op zoek gaan..."
+
+msgid "0008"
+msgstr "Lichtschubbenspeer."
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]Hm..."
+
+msgid "0009"
+msgstr "Ceremoniespeer."
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt niet alle benodigde\n"
+"materialen bij je..."
+
+msgid "0010"
+msgstr "Tot ziens."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt geen [Color name=\"blue\"]zilveren speer[Color name=\"unset\"]..."
+
+msgid "0011"
+msgstr "Speren?"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"]..."
+
+msgid "0012"
+msgstr "Wat doe je daar?"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt niet genoeg stukken [Color name=\"blue\"]vuursteen[Color name=\"unset\"]..."
+
+msgid "0013"
+msgstr "Wat is dit voor zaak?"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Je hebt geen [Color name=\"blue\"]zilveren speer[Color name=\"unset\"] en je hebt\n"
+"ook niet genoeg stukken [Color name=\"blue\"]vuursteen[Color name=\"unset\"]..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAEYBAAAAAAAAC0AAAAEAAAAvAAAANQAAADWAAAA2AAAANoAAADcAAAA3gAAAOAAAADiAAAA5AAAAOYAAADoAAAAAAEAABgBAAAwAQAASAEAAGABAAB4AQAAkAEAAKgBAADAAQAA2AEAAPABAAAIAgAAIAIAADgCAABQAgAAaAIAAIACAACYAgAAsAIAAMgCAADgAgAA+AIAABADAAAoAwAAQAMAAFgDAABwAwAAiAMAAKADAAC4AwAA0AMAAOgDAAAABAAATgBwAGMAXwBaAG8AcgBhADAAMwAzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAABOAHAAYwBfAFoAbwByAGEAMAAzADMAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,311 @@
+#, ruby
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]本当は兵隊長の私が 行くべきゾラ…[PauseLong]\n"
+"でも [Color name=\"blue\"]電気の矢[Color name=\"unset\"]だけは どうにもならないゾラ"
+
+#, ruby
+msgid "talk36"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]リンク様 ありがとうゾラ！"
+
+#, ruby
+msgid "talk37"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]親父もいい年して ミファー様の仇！[PauseLong]\n"
+"とか… [PauseShort]ホントやめて欲しいゾラ"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]ここから広場を見下ろして[PauseShort]\n"
+"怪しい奴が来てないか 確認してるゾラ"
+
+#, ruby
+msgid "talk38"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"5\" unk2=\"16\"]ルッタ[Color name=\"unset\"]が鎮座したといえども 油断は禁物…\n"
+"\n"
+"以前と同じく 里の防衛に務める所存ゾラ"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あのデカい建造物が見えるゾラ？\n"
+"\n"
+"あそこにドレファン王は おられるゾラ"
+
+#, ruby
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]これはこれは よくぞ参られたゾラ\n"
+"\n"
+"[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]は 今まさに[PauseShort]\n"
+"あなたのようなハイリア人を 探しており…\n"
+"とにかくまずは この上におわします…\n"
+"\n"
+"…ん?\n"
+"\n"
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"Gray\"]このハイリア人…[PauseLong]\n"
+"昔 どこかで見たような気がするゾラ…[Color name=\"unset\"][Size percent=\"100\"]"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]寝所では皆 無防備ゾラ…[PauseShort]\n"
+"私がちゃんと 見回らないとね"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]この辺は リトバン親子に任せてあるので[PauseShort]\n"
+"私が しゃしゃり出るまでもないゾラ"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]この辺も 異常は無いゾラ[PauseShort]\n"
+"いい事ゾラ"
+
+#, ruby
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]リンク様 [PauseShort]まだ 私に用ゾラ？[Choice4Flags label1=\"9\" flag1=\"Npc_Zora032_Mifa\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0000"
+msgstr "ありがとう"
+
+#, ruby
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]他にも聞きたい事があるゾラ？[Choice4Flags label1=\"9\" flag1=\"Npc_Zora032_Mifa\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0001"
+msgstr "じゃあね"
+
+msgid "0002"
+msgstr "ゾラ？"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]ドレファン王[Color name=\"unset\"]なら この上に…\n"
+"\n"
+"流石に 覚えてるゾラ？[PauseLong]\n"
+"ミファー様の 父君ゾラよ！"
+
+#, ruby
+msgid "talk28"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]さて リンク様 [PauseShort]私にご用ゾラ？[Choice4Flags label1=\"9\" flag1=\"Npc_Zora032_Mifa\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0003"
+msgstr "その通り！"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]スババだゾラよ[PauseLong]\n"
+"\n"
+"100年前にはリンク様に[PauseLong]\n"
+"よく 剣の稽古つけてもらっていたゾラよ？"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ミファー王女 [PauseShort]そしてシド王子の父君ゾラ\n"
+"\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]ミファー王女が [Color name=\"red\"]厄災ガノン[Color name=\"unset\"]にやられて[PauseShort]\n"
+"もう100年…\n"
+"さぞかし寂しい時を お過ごしの事ゾラ…"
+
+#, ruby
+msgid "0004"
+msgstr "別人です"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]しかしかつての 鬼軍曹も[PauseShort]\n"
+"今じゃあの通りゾラ…\n"
+"なんでも ミファー様のために[PauseShort]\n"
+"[Color name=\"blue\"]電気の矢[Color name=\"unset\"]を触る練習だとか\n"
+"しかし 水に生きるゾーラ族には 電気はご法度…[PauseLong]\n"
+"限界があると 思うゾラ"
+
+#, ruby
+msgid "0005"
+msgstr "眠ってた"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]リンク様…[PauseLong]\n"
+"まさかミファー様の事を お忘れで？\n"
+"ミファー様は 里の者が皆 憧れる[PauseShort]\n"
+"ゾーラ族の姫君\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]そして… 覚えてないゾラか？[PauseLong]\n"
+"ミファー様は リンク様の事を…\n"
+"…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]詳しくは [Color name=\"red\"]ドレファン王[Color name=\"unset\"]に聞いてもらうのが\n"
+"一番かと思うゾラ"
+
+msgid "0006"
+msgstr "えーっと…"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]しかし このお方が シド王子が連れてきたハイリア人なら\n"
+"話が出来過ぎている…\n"
+"まさかとは思うが 一応確認するゾラ[Size percent=\"100\"]"
+
+#, ruby
+msgid "0007"
+msgstr "ドレファン王って？"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]いやしかし ハイリア人は100年も生きないゾラ[PauseLong]\n"
+"念のために 確認ゾラ…[Size percent=\"100\"]"
+
+msgid "0008"
+msgstr "あなたは？"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]そうそう [PauseShort]お陰様で 私の父… [PauseShort]\n"
+"鬼軍曹セゴンも健在ゾラ"
+
+msgid "0009"
+msgstr "ミファーって？"
+
+#, ruby
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]やはりこの場所が 一番落ち着くゾラ…"
+
+#, ruby
+msgid "talk40"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"10\" unk2=\"1\"][Color name=\"Gray\"]思い出したゾラ…[PauseLong] このお方は…[Color name=\"unset\"][Size percent=\"100\"]"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]旅のお方 質問があるゾラ[PauseLong]\n"
+"ちびっ子スババ団の 合言葉を答えるゾラ！\n"
+"白い雲！ [PauseLong]澄み渡る青…[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]里内を巡回中ゾラ[PauseShort]\n"
+"怪しい奴が居ないか…"
+
+#, ruby
+msgid "talk01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]間違いない！ [PauseLong]本物のリンク様ゾラ！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]あの祠… [PauseShort]昔から ずっとあるゾラ[PauseLong]\n"
+"一体誰が 作ったゾラ？"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]やはり！ [PauseLong]この合言葉は[PauseShort]\n"
+"ちびっ子スババ団しか 知らないはずゾラ！"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]いや [PauseLong]この合言葉は\n"
+"ちびっ子スババ団しか 知らないはずゾラ！"
+
+msgid "near00"
+msgstr "…"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]それにしても 変わらないゾラねぇ…[PauseLong]\n"
+"この100年間 どうしてたゾラ？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"20\"]そんなに眠れる訳 無いゾラ…"
+
+#, ruby
+msgid "near02"
+msgstr "ここも大丈夫ゾラ"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]訳有りゾラ？[PauseLong]\n"
+"まぁ この100年 いろいろあったゾラね…"
+
+msgid "near03"
+msgstr "ここもオッケーゾラ"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ともかくリンク様… [PauseLong]今[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]は[PauseShort]\n"
+"ハイリア人を必要としているゾラ\n"
+"今すぐ上の[Color name=\"red\"]ドレファン王[Color name=\"unset\"]に 会って欲しいゾラ"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]おかげで メキメキ剣術も上達し[PauseLong]\n"
+"今や[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]の 兵隊長ゾラ\n"
+"[Sound1 unk1=\"7\" unk2=\"10\"]リンク様 恩に着るゾラ"
+
+#, ruby
+msgid "near04"
+msgstr "問題無しゾラ"
+
+#, ruby
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]どうされたゾラ リンク様？[Choice4Flags label1=\"9\" flag1=\"Npc_Zora032_Mifa\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]それにしても この青空！[PauseLong]\n"
+"久しぶりに 雨が止んだゾラ\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]まぶしい…[PauseLong]\n"
+"太陽が まぶしすぎるゾラ"
+
+#, ruby
+msgid "near05"
+msgstr "異常無しゾラ"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]では！"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"22\"]リンク様！[Size percent=\"100\"]\n"
+"\n"
+"[Color name=\"blue\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]を止めてくれたのは[PauseShort]\n"
+"100年ぶりに現れた リンク様だったゾラ！"
+
+#, ruby
+msgid "near06"
+msgstr "みんな 大丈夫ゾラ"
+
+#, ruby
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"9\"]なんか いろいろ起こり過ぎて[PauseShort]\n"
+"もう何がなんゾラやら…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAEwBQAAAAAAADcAAAAEAAAA5AAAAPwAAAAUAQAALAEAAEQBAABcAQAAdAEAAHYBAAB4AQAAegEAAHwBAAB+AQAAgAEAAIIBAACEAQAAhgEAAIgBAACgAQAAuAEAANABAADoAQAAAAIAABgCAAAwAgAASAIAAGACAAB4AgAAkAIAAKgCAADAAgAA2AIAAPACAAAIAwAAIAMAADgDAABQAwAAaAMAAIADAACYAwAAsAMAAMgDAADgAwAA+AMAABAEAAAoBAAAQAQAAFgEAABwBAAAiAQAAKAEAAC4BAAA0AQAAOgEAAAABQAAGAUAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAE4AcABjAF8AWgBvAHIAYQAwADMAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAATgBwAGMAXwBaAG8AcgBhADAAMwAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

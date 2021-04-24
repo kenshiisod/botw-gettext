@@ -1,0 +1,241 @@
+msgid "FirstTalk11"
+msgstr ""
+"[Sound2 id=\"2\"]Markierungen kannst du auch direkt auf\n"
+"der [Color name=\"blue\"]Karte [Color name=\"unset\"]hinzufügen oder entfernen.[PageBreak]Wenn du bestimmte Orte im Auge\n"
+"behalten willst, ist das sehr praktisch.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Kotsu01"
+msgstr ""
+"[Sound2 id=\"2\"]Bei der Suche nach den Schreinen hilft\n"
+"dir das [Color name=\"blue\"]Fernglas[Color name=\"unset\"] des [Color name=\"blue\"]Shiekah-Steins[Color name=\"unset\"]."
+
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho...[PauseMid]\n"
+"Nur noch zwei Zeichen der Bewährung,\n"
+"dann hast du dir das Parasegel verdient."
+
+msgid "FirstTalk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho...\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Das ist Altersweisheit...[PauseMid] Die Jahre hier\n"
+"draußen in der Wildnis haben mich das\n"
+"ein oder andere gelehrt."
+
+msgid "Kotsu02"
+msgstr ""
+"[Sound2 id=\"11\"]Wie oft soll ich dir das noch sagen?[PauseShort]\n"
+"Wenn es hart auf hart kommt, kannst du\n"
+"dich nicht auf andere verlassen.\n"
+"Alle Aktionen kannst du auf dem\n"
+"Pausenbildschirm nachsehen."
+
+msgid "GoodBye03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho...[PauseMid]\n"
+"Nur noch ein Zeichen der Bewährung,\n"
+"dann ist das Parasegel dein."
+
+msgid "FirstTalk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Ich hab's doch gesagt, in meinem Alter\n"
+"schnappt man den ein oder anderen Trick\n"
+"auf.[PauseMid] Das kannst du glauben oder nicht."
+
+msgid "FirstTalk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Dann los, nun sieh dich schon um!"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Hast du die Schreine entdeckt?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "Hilfst du mir?"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Sag mal...[PauseMid] Wie lange willst du eigentlich\n"
+"noch so herumlaufen?"
+
+msgid "1003"
+msgstr "Wiedersehen."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Die Sonne geht bald unter."
+
+msgid "TerrorBomb"
+msgstr "Was ist?"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Nachts ist es totenstill auf dem Plateau."
+
+msgid "1004"
+msgstr "Ja!"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Kommst du mit der Erkundung der\n"
+"Schreine voran?[Choice2 label1=\"1004\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Nun?[PauseMid] Kommst du mit der Erkundung\n"
+"der Schreine voran?[Choice2 label1=\"1004\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorArrow"
+msgstr "Was machst du da?!"
+
+msgid "FirstTalk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Du lässt dich von einem Alterchen wie\n"
+"mir abhängen? Bist nicht der Schnellste,\n"
+"was?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "FirstTalk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Ho ho ho...[PauseMid]\n"
+"In meinem Alter hat man den ein oder\n"
+"anderen Trick aufgeschnappt."
+
+msgid "Clear3_00"
+msgstr ""
+"[Sound2 id=\"9\"]Selbstvertrauen scheinst du zu haben,\n"
+"und du besitzt ja auch schon drei\n"
+"[C9:00 bytes=\"03020200\"]Zeichen der Bewährung, oder?\n"
+"Aber was ist mit dem letzten...?[PauseMid]\n"
+"Hast du Schwierigkeiten, es zu finden?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Wie...?!"
+
+msgid "FirstTalk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ho ho ho...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Teleportation?[PauseShort] So was brauch ich nicht![PauseShort]\n"
+"Jungspunde wie dich hänge ich allemal\n"
+"ab."
+
+msgid "0001"
+msgstr "Ähm... Teleportiert?"
+
+msgid "FirstTalk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Ich dachte schon, du kommst gar nicht\n"
+"mehr. Hast du etwa vergessen, dass du\n"
+"dich einfach teleportieren lassen kannst?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0002"
+msgstr "Hab dran gedacht!"
+
+msgid "0003"
+msgstr "Hab's vergessen..."
+
+msgid "FirstTalk05"
+msgstr ""
+"Öffne die [Color name=\"blue\"]Karte[Color name=\"unset\"] auf deinem [Color name=\"blue\"]Shiekah-Stein[Color name=\"unset\"]\n"
+"und wähle die blaue Markierung eines\n"
+"Turms oder Schreins aus.\n"
+"Wenn du einen solchen Ort erst einmal\n"
+"auf der [Color name=\"blue\"]Karte[Color name=\"unset\"] hast, kannst du jederzeit\n"
+"im Handumdrehen dorthin.[PauseMid] Merk dir das!"
+
+msgid "TerrorImpulse"
+msgstr "Huch!"
+
+msgid "FirstTalk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Ich hab dir von hier oben aus zugesehen,\n"
+"wie du die Schreine gesucht hast."
+
+msgid "0004"
+msgstr "Woher weißt du das?"
+
+msgid "FirstTalk07"
+msgstr ""
+"Wenn man irgendetwas sucht, ist es stets\n"
+"das Beste, sich [Color name=\"red\"]von einem hohen Ort aus\n"
+"umzusehen[Color name=\"unset\"].[PauseMid] Das erwähnte ich, oder?\n"
+"Das hier ist der ideale Ausguck, um die\n"
+"übrigen Schreine zu finden."
+
+msgid "0005"
+msgstr "Alles klar!"
+
+msgid "Clear2_00"
+msgstr ""
+"[Sound2 id=\"7\"]Das wollte ich hören![PauseMid]\n"
+"Du hast schon zwei Schreine bewältigt,\n"
+"nicht wahr?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "FirstTalk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Nun denn...\n"
+"\n"
+"\n"
+"[Sound2 id=\"0\"]Ich habe dich hierhin gerufen, weil das\n"
+"hier der ideale Ausguck ist, um die\n"
+"übrigen Schreine zu finden."
+
+msgid "FirstTalk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Nun dann...[PauseMid]\n"
+"Weißt du, wie man das [Color name=\"blue\"]Fernglas[Color name=\"unset\"] des\n"
+"[Color name=\"blue\"]Shiekah-Steins[Color name=\"unset\"] verwendet?\n"
+"[Sound2 id=\"2\"]Von hier kann man alle Schreine sehen.\n"
+"Wenn du einen entdeckst, markiere ihn!"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Ho ho ho..."
+
+msgid "Near01"
+msgstr "[Sound2 id=\"7\"]Noch einer..."
+
+msgid "TerrorExplosion"
+msgstr "Guaah!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"7\"]Noch zwei..."
+
+msgid "NakedPlayer"
+msgstr "Warum bist du nackt?"
+
+msgid "TerrorSword"
+msgstr "He! Hör auf!"
+
+msgid "TerrorFire"
+msgstr "Heiß!"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"7\"]Noch drei..."
+
+msgid "Clear1_00"
+msgstr ""
+"[Sound2 id=\"10\"]An Selbstvertrauen mangelt es dir nicht![PauseShort]\n"
+"Dabei hast du erst eines der Zeichen der\n"
+"Bewährung errungen, oder?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "FirstTalk10"
+msgstr ""
+"Hast du schon gemerkt, dass dein\n"
+"[Color name=\"blue\"]Shiekah-Stein[Color name=\"unset\"] über eine [Color name=\"blue\"]Fernglas[Color name=\"unset\"]-\n"
+"Funktion verfügt?\n"
+"Suche mithilfe des [Color name=\"blue\"]Fernglases[Color name=\"unset\"] die\n"
+"Schreine und markiere sie!"
+
+msgid "Kotsu00"
+msgstr ""
+"Ich kann dir einen Tipp geben...[PageBreak]Neu gelernte Aktionen kannst du\n"
+"jederzeit auf dem Pausenbildschirm\n"
+"nachsehen."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Ho ho ho...[PauseMid]\n"
+"Wenn du das [Color name=\"blue\"]Parasegel[Color name=\"unset\"] haben möchtest,\n"
+"solltest du dich ins Zeug legen."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAEUBgAAAAAAADEAAAAEAAAAzAAAAPQAAAD2AAAA+AAAACABAABIAQAAcAEAAHIBAAB0AQAAnAEAAMQBAADsAQAAFAIAADwCAABkAgAAjAIAAI4CAACQAgAAuAIAAOACAAAIAwAAMAMAADIDAAA0AwAAXAMAAIQDAACsAwAA1AMAAPwDAAD+AwAAJgQAAE4EAAB2BAAAngQAAMYEAADuBAAAFgUAAD4FAABmBQAAjgUAALYFAADeBQAABgYAAAgGAAAKBgAADAYAAA4GAAAQBgAAEgYAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

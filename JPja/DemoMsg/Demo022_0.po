@@ -1,0 +1,71 @@
+#, ruby
+msgid "0003"
+msgstr "戻る"
+
+#, ruby
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]行けるか？！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"]弓[Color name=\"unset\"]が無くなったのか？！[PauseMid]\n"
+"一旦 引き返すぞ！"
+
+#, ruby
+msgid "0004"
+msgstr "戻らない"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]おいおい どうした…[PauseLong] 本当に戻るのか？[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"]バクダン矢[Color name=\"unset\"]が無くなったのか？！[PauseMid]\n"
+"一旦 引き返すぞ！"
+
+#, ruby
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ふむ…[PauseShort] じゃあ 行けるか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]どうやら天気は 味方してくれないらしいな…[PauseLong]\n"
+"[Color name=\"blue\"]寒さ対策[Color name=\"unset\"]は 大丈夫か？！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk00"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]どうした？[PauseShort] まだ行けるか？！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0000"
+msgstr "行きます！"
+
+#, ruby
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]よし じゃ続行だ！[PauseShort] [Color name=\"red\"]砲台[Color name=\"unset\"]を頼んだぞ！"
+
+#, ruby
+msgid "0001"
+msgstr "準備する"
+
+#, ruby
+msgid "talk02"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]了解！[PauseShort] しっかりな"
+
+#, ruby
+msgid "0002"
+msgstr "飛行訓練場へ戻る"
+
+#, ruby
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…分かった[PauseShort] ひとまず 地上へ戻るとしよう"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAEIAAAAAAAAAA8AAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

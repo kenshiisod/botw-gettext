@@ -1,0 +1,359 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]고론족은 피부가 단단해서\n"
+"이 정도는 끄떡없어고로!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]뭘 팔아 줄 거야고로?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 팔아 줄 거야고로?\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]인데, 괜찮아고로?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]고마워고로![PauseShort]\n"
+"또 뭐 있어고로?"
+
+msgid "MSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"][Color name=\"blue\"]데스마운틴[Color name=\"unset\"]에서 캔 광석은 질이 좋아서[PauseShort]\n"
+"정말 홀딱 반해 버릴 정도야고로[PauseMid]"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]어라…[PauseMid] 아쉽고로!"
+
+msgid "Com_Talk_10"
+msgstr "[02:0B name=\"Shop_SelectItemName\" stub=\"0\"][C9:07 bytes=\"020044C702007CB9\"] 살 거야고로?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "뭐든 매입할게고로!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]고맙고로!"
+
+msgid "RetMSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]화산탄[Color name=\"unset\"]은 우리가 맞아도 아파고로[PauseLong]\n"
+"[Color name=\"blue\"]데스마운틴[Color name=\"unset\"]을 오를 거라면 조심해고로"
+
+msgid "Com_Talk_06"
+msgstr "뭘 보고 갈래고로?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]귀중한 광석들이야고로![PauseMid]\n"
+"찬찬히 둘러보고 가고로!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]고마워고로"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]그… [PauseShort]그건 지금 품절이야고로"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 팔아 줄 거야고로?[PauseMid]\n"
+"몇 개 팔 거야고로?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]정말 고마워고로"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]루피가 부족한 것 같으니[PauseShort]\n"
+"열심히 저축해서 다시 찾아와고로!"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]개면[Size percent=\"80\"]…[PauseMid][Size percent=\"100\"]\n"
+"합계 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]에 매입할게, 괜찮아고로?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]날씨가 이러니 서비스야고로![PauseMid]\n"
+"평소엔 살 수 없는 [Color name=\"red\"]다이아몬드[Color name=\"unset\"]도 팔게고로!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"7\"]땡큐고로"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]주머니가 가득 찬 것 같으니[PauseShort]\n"
+"팔든 버리든 해서 공간을 만들어고로"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]그건 내가 매입할 수 없어고로"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]자, 받아. 보답이야고로!"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"14\"]입고 있는 옷은 매입할 수 없으니 벗어 줘고로!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020074C7020000AC\"] [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]개면\n"
+"합계 [02:12 name=\"ShopTradePrice\" stub=\"0\"][Color name=\"red\"]루피[Color name=\"unset\"]인데, 괜찮아고로?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 사 줄 거야고로?\n"
+"몇 개 살 거야고로?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"blue\"]산기슭의 마구간[Color name=\"unset\"]은 시원해고로~[PauseLong]\n"
+"뭐어, [Color name=\"blue\"]고론 시티[Color name=\"unset\"]가 너무 뜨거운 것도 있지만"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"12\"]바위인 척해고로!"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나만고로?[PauseShort]\n"
+"그럼 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]야고로![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"4\" unk2=\"12\"]모,[PauseMid] 모,[PauseMid] 몬스터 아직 있어고로?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 있는 대로 전부고로?[PauseLong]\n"
+"그럼 [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]개에 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]야고로![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]개 전부고로?[PauseLong]\n"
+"그럼 합계 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]에 매입할게고로[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]이게 마지막이야고로![PauseLong]\n"
+"잔뜩 사 줘서 고마워고로!"
+
+msgid "MSG_Orud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]방염도마뱀[Color name=\"unset\"]과 무언가를 섞어 만든[PauseShort]\n"
+"[Color name=\"red\"]방염 물약[Color name=\"unset\"]을 바르면 이 더위를 버틸 수 있어고로[PauseMid]"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]몬스터는 무서워고로!"
+
+msgid "Com_Talk_05b"
+msgstr "이것저것 매입할게고로"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]고마워고로!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"0\"]채리오 광석점의 재고는 제로야고로![PauseLong]\n"
+"[Color name=\"blue\"]고론 시티[Color name=\"unset\"]에서 입고 예정인 광석이라도 볼래고로?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]내 고향은 5부 능선에 있는 [Color name=\"blue\"]고론 시티[Color name=\"unset\"]…[PauseMid]\n"
+"[Color name=\"blue\"]데스마운틴[Color name=\"unset\"]에서 캔 돌을 행상하고 있어고로"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]아… [PauseShort]장사해야지…[PauseLong]\n"
+"내 상품들 보고 가고로![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]우린 몬스터가 아냐고로!"
+
+msgid "Com_Talk_05c"
+msgstr "필요 없는 건 매입할게고로"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]정말 고마워고로"
+
+msgid "MSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]몸이 바위 같지 않은 네게 충고하겠는데…[PauseShort]\n"
+"여기서부턴 내화 준비가 필수야고로![PauseMid]\n"
+"[Color name=\"red\"]방염도마뱀[Color name=\"unset\"]과 무언가를 섞어 만든[PauseShort]\n"
+"[Color name=\"red\"]방염 물약[Color name=\"unset\"]을 추천할게고로!"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]뭐든 맡겨 줘고로![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "무언가 매입할게고로"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]고마워고로고~로!"
+
+msgid "MSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]난… [PauseShort]고론 온천에서 일하기 싫어서[PauseShort]\n"
+"고향인 [Color name=\"blue\"]고론 시티[Color name=\"unset\"]를 뛰쳐나왔어고로\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]추운 지역이나 녹색 세계도 보고 싶어고로"
+
+msgid "RetMSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]열파 소용돌이, 굴러다니는 바위\n"
+"어슬렁대는 몬스터가 무서워서…\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]라는 이유로 5부 능선에 있는\n"
+"[Color name=\"blue\"]고론 시티[Color name=\"unset\"]를 뛰쳐나온 건 아니야고로[PauseMid]\n"
+"난 [PauseShort]행상을 하기 위해 여행길에 올랐어고로"
+
+msgid "RetMSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]산길[Color name=\"unset\"]은 뜨거워서 위험해고로[PauseLong]\n"
+"[Color name=\"blue\"]고론 시티[Color name=\"unset\"]에 가려면 내화 준비가 필요해고로"
+
+msgid "MSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]고론 시티 [Color name=\"unset\"]명물 고론 온천에 가려면[PauseShort]\n"
+"가는 길에 화산탄을 조심해고로!\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]지금도 떨어지고 있는진 [PauseShort]고향을 떠나온\n"
+"난 알 수 없지만 말야고로…"
+
+msgid "RetMSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]고론 시티[Color name=\"unset\"]의 [Color name=\"red\"]윤돌[Color name=\"unset\"]은 잘 지내려나고로…[PauseMid]\n"
+"그 녀석은 착하고 좋은 친구였는데고로"
+
+msgid "MSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"blue\"]산기슭의 마구간[Color name=\"unset\"]은 시원해고로![PauseMid]\n"
+"햇볕이 쨍쨍한 게 정말 시원해고로!\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]아! [PauseShort]혹시…[PauseShort]\n"
+"하일리아인에겐 이것도 뜨거우려나고로?"
+
+msgid "RetMSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]화산탄이 떨어지는 게 자연 현상인지…[PauseShort]\n"
+"난 잘 모르겠어고로"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"][Color name=\"blue\"]고론 시티[Color name=\"unset\"]라고 알아고로?[PauseMid]\n"
+"고론족이 사는 내 고향이야고로!"
+
+msgid "RetMSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]화산 길[Color name=\"unset\"]은 뜨거워서 고론족 이외엔 위험해고로[PauseMid]\n"
+"[Color name=\"blue\"]고론 시티[Color name=\"unset\"]에 가려면 내화 준비가 필요해고로\n"
+"이상,[PauseShort] 충고해 주고 싶었어고로…"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]고론족의 신체는 바위처럼 튼튼해고로![PauseMid]\n"
+"열기에 강하고 가위에 강하고 종이에 약해…\n"
+"가위바위보와 섞였어고로…"
+
+msgid "5500"
+msgstr "예"
+
+msgid "RetMSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]고론족은 광석을 캐서 생활하고 있어고로…[PauseMid]\n"
+"팔기도 하고 먹기도 하고 제각각이야고로"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나만?[PauseShort]\n"
+"그럼 [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]루피[Color name=\"unset\"]인데, 괜찮아고로?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "아니요"
+
+msgid "RetMSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]고론 시티[Color name=\"unset\"]라면 5부 능선에 있어고로[PauseMid]\n"
+"바위도 잔뜩 있지만 광석도 잔뜩 있어고로"
+
+msgid "0000"
+msgstr "산다"
+
+msgid "5502"
+msgstr "산다"
+
+msgid "0001"
+msgstr "판다"
+
+msgid "5503"
+msgstr "역시 그만둔다"
+
+msgid "0002"
+msgstr "안녕히"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]곤로고로~!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]어떻게든 목숨은 건졌어고로!"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]고로고~로!"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]살아서 다행이야고로!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]고~로고로!"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]곤로곤로!"
+
+msgid "5507"
+msgstr "모두 산다"
+
+msgid "Near04"
+msgstr "젖겠어고로!"
+
+msgid "5508"
+msgstr "모두 판다"
+
+msgid "MSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]난 정말이지 [Color name=\"blue\"]고론 온천[Color name=\"unset\"]의 관리인보다[PauseShort]\n"
+"세계를 둘러볼 수 있는 행상이 적성에 맞아고로[PauseMid]"
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]도망쳐고로![PauseMid] \n"
+"[Color name=\"blue\"]가디언[Color name=\"unset\"]의 빔은 바위도 깨뜨려고로!"
+
+msgid "RetMSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]돌과 함게 사는 게 고론족이야고로[PauseLong]\n"
+"난 광석 판매 담당고로"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]어떻게든 연명했어고로!"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]이 틈에 여길 뜨자고로!"
+
+msgid "RetMSG_Orud_01_1"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]고론 시티[Color name=\"unset\"]의 [Color name=\"red\"]윤돌[Color name=\"unset\"]은 잘 지내려나고로…\n"
+"\n"
+"아아… [PauseShort]또 혼잣말을 해 버렸어고로[Size percent=\"100\"]"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]또 어딘가에서 만나고로!"
+
+msgid "MSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]고론 시티[Color name=\"unset\"] 명물 [Color name=\"blue\"]고론 온천[Color name=\"unset\"]에 가려면[PauseShort]\n"
+"가는 길에 화산탄을 조심해고로!\n"
+"뭐어, 행상을 시작한 뒤론[PauseShort]\n"
+"화산탄과는 연이 없어졌지만 말야고로"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]나를 먹어도\n"
+"이가 부러질 뿐이야고로!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAE6BAAAAAAAAFUAAAAEAAAAXAEAAHYBAACQAQAAkgEAAJQBAACWAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAAvAEAAL4BAADAAQAAwgEAAMQBAADeAQAA4AEAAPoBAAAUAgAALgIAAEgCAABiAgAAZAIAAGYCAABoAgAAagIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAHgCAAB6AgAAfAIAAH4CAACAAgAAggIAAIQCAACGAgAAiAIAAIoCAACMAgAAjgIAAJACAACSAgAAlAIAAJYCAACYAgAAmgIAAJwCAACeAgAAoAIAAMACAADgAgAA4gIAAOQCAADmAgAA6AIAAOoCAADsAgAA7gIAAAgDAAAiAwAAJAMAACYDAAAoAwAAKgMAAEQDAABeAwAAeAMAAJIDAACsAwAAxgMAAOADAAD6AwAA/AMAAP4DAAAABAAAAgQAAAQEAAAGBAAAIAQAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

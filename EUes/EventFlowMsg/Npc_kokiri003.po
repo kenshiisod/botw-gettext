@@ -1,0 +1,242 @@
+msgid "Npc_kokiri003_Sell010b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]¡Menos mal que me había aprovisionado!"
+
+msgid "Npc_kokiri003_Sell030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Contigo da gusto, señor héroe![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Me surtiré bien para la próxima\n"
+"vez que te pases por aquí."
+
+msgid "5503"
+msgstr "He cambiado de idea"
+
+msgid "Npc_kokiri003_Sell010c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]¡Gracias mil, señor héroe!"
+
+msgid "Npc_kokiri003_Talk000"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Vaya, vaya, ¡a quién tenemos por aquí![PauseShort]\n"
+"Sé bienvenido a [Color name=\"blue\"]Al grano[Color name=\"unset\"], la tienda en\n"
+"la que tenemos un poco de todo.\n"
+"La mayoría de los artículos los saco\n"
+"del bosque, aunque[PauseShort] otros los consigo\n"
+"en otros sitios...\n"
+"¡Mira sin compromiso! A menos que[PauseShort]\n"
+"estés aquí para vender algo.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Sell010d"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]Qué honor haber podido ayudar\n"
+"al señor héroe. ¡Ay!"
+
+msgid "5507"
+msgstr "Las compro todas"
+
+msgid "Npc_kokiri003_Talk020"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Muy buenas![PauseShort] Te veo cara de querer\n"
+"venderme algo, ¿a que sí?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]¿Me vendes alguna cosa?"
+
+msgid "5508"
+msgstr "Lo vendo todo"
+
+msgid "Npc_kokiri003_Near000"
+msgstr "¡Solo vendo cosas útiles!"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[04:03]¡Buena elección! Te doy [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Hay trato?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Quiero venderte algo"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"7\"]¡Da gusto hacer negocios contigo!\n"
+"¿Me vendes alguna otra cosa más?"
+
+msgid "0001"
+msgstr "¿Qué cosas vendes?"
+
+msgid "Npc_kokiri003_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si en algún momento te parece que\n"
+"vas cargando de un sitio a otro con\n"
+"algo que no necesitas...\n"
+"¡No tienes más que pasarte por aquí![PageBreak]Nunca he tenido la ocasión de salir\n"
+"del bosque,[PauseShort] así que me fascinan\n"
+"las cosas extranjeras."
+
+msgid "0002"
+msgstr "¡Hasta luego!"
+
+msgid "Npc_kokiri003_Near020"
+msgstr "Tengo que reponer..."
+
+msgid "Com_Talk_04"
+msgstr ""
+"[Sound2 id=\"10\"]¿Te lo has pensado mejor?\n"
+"Vaya... Eso te pasa por\n"
+"pensar tanto."
+
+msgid "Com_Talk_05"
+msgstr ""
+"[04:03]Te compraré lo que sea.\n"
+"¡Me pirran las cosas hylianas!"
+
+msgid "Npc_kokiri003_Talk060"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"25\"]¡Te estaré eternamente agradecido![PauseMid]\n"
+"La próxima vez que te pases por aquí,\n"
+"te habré preparado un buen surtido."
+
+msgid "Com_Talk_05b"
+msgstr ""
+"[04:03]¿Tienes cosas para mí?\n"
+"¿Cosas de fuera del bosque?"
+
+msgid "Com_Talk_05c"
+msgstr "[04:03]¿Cuál me vendes? ¿Cuál?"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"[04:03]Vaya, vaya.[PauseMid] No me imaginaba que\n"
+"la alforja del señor héroe tendría\n"
+"este aspecto..."
+
+msgid "Npc_kokiri003_Sell000"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Tuve la corazonada de que te pasarías\n"
+"por aquí, así que decidí abrir la tienda\n"
+"por si acaso.[PauseShort] ¡Bienvenido a [Color name=\"blue\"]Al grano[Color name=\"unset\"]!\n"
+"Si quieres deshacerte de algo, estoy\n"
+"más que dispuesto a darte unas\n"
+"cuantas rupias a cambio."
+
+msgid "Npc_kokiri003_Sell020"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Hay que ver cómo cunde hacer\n"
+"negocios contigo, señor héroe![PageBreak]Hoy me daba en la raíz que te pasarías\n"
+"por aquí,[PauseShort] ¡así que me he venido\n"
+"corriendo a abrir [Color name=\"blue\"]Al grano[Color name=\"unset\"]!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ya sabes, aprovecha la ocasión.\n"
+"Si quieres vender algo, soy todo\n"
+"ramas."
+
+msgid "Npc_kokiri003_Talk010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Sé bienvenido a [Color name=\"blue\"]Al grano[Color name=\"unset\"]![PauseMid]\n"
+"Puedes comprar cualquier cosa que veas.[PageBreak]A menos que [PauseShort]hayas venido a vender.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Talk030"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Es una lástima, pero no me queda nada\n"
+"de nada.[PageBreak]¡Pero no te preocupes! [PauseMid]Siempre puedes\n"
+"venderme algo, si así lo deseas.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]¿Me vendes alguna cosita más?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]Déjame ver qué más tienes, señor héroe."
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"7\"]¡Es todo un honor comprarle\n"
+"cosas al mismísimo señor héroe!"
+
+msgid "Npc_kokiri003_Talk050"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"18\"]¡Consejo de amigo![PauseShort] Ten mucho cuidado\n"
+"si andas por el bosque de noche.[PauseShort] Está\n"
+"llenito de monstruos horrorosos."
+
+msgid "Com_Talk_13"
+msgstr "[04:03]Oooh... ¿Y qué cantidad me vendes?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[04:03]Pues ahora mismo [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] se cotizan\n"
+"por [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]Pues precisamente eso no me interesa.\n"
+"Es que no tendría mucha salida en\n"
+"la tienda, ¡entiéndelo!"
+
+msgid "Npc_kokiri003_Talk070"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Pues aquí uno, que piensa en todo,[PauseShort]\n"
+"había preparado alimentos y flechas.\n"
+"¡Seguro que te vienen al pelo!\n"
+"Si disparas una [Color name=\"blue\"][C9:00 bytes=\"02010100\"]flecha eléctrica[Color name=\"unset\"] cuando\n"
+"llueva, infligirás más daño que de\n"
+"costumbre. ¿Lo sabías?\n"
+"¡Pues ahora ya lo sabes!"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"2\"]¡Eh! Pero quítate eso antes, ¿no?"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[04:03]Pues te daré [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"si te parece bien.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_50"
+msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Pues... [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿sí?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[04:03]¿Todas?[PauseShort] Pues [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] unidades\n"
+"serán [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te las llevas?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_51"
+msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]¡Genial! ¿Y qué cantidad va a ser?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[04:03]¡Vaya! A ver, tienes [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"], así que\n"
+"puedo darte [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te vale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[04:03]Pues... [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] hacen un total\n"
+"de [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿sí?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_53"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Has cambiado de idea?[PauseShort]\n"
+"Qué raros sois los hylianos a veces."
+
+msgid "Com_Talk_54"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]No tienes fondos... Es decir, rupias."
+
+msgid "Npc_kokiri003_Sell010"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]¡Gracias, gracias!"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Vas cargado hasta los topes. ¡Eso no\n"
+"puede ser bueno para la espalda!"
+
+msgid "5500"
+msgstr "¡Sí!"
+
+msgid "Com_Talk_56"
+msgstr "[04:03]Por eso pido [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te vale?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "No..."
+
+msgid "5502"
+msgstr "¡Compro!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGoAwAAAAAAADMAAAAEAAAA1AAAAPAAAAAMAQAAKAEAAEQBAABGAQAASAEAAEoBAABmAQAAggEAAJ4BAAC6AQAA1gEAAPIBAAAOAgAAKgIAAEYCAABiAgAAfgIAAJoCAAC2AgAAuAIAALoCAAC8AgAAvgIAAMACAADgAgAAAAMAACADAABAAwAAYAMAAGIDAABkAwAAZgMAAGgDAABqAwAAbAMAAG4DAABwAwAAkAMAAJIDAACUAwAAlgMAAJgDAACaAwAAnAMAAJ4DAACgAwAAogMAAKQDAACmAwAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAAAAAAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

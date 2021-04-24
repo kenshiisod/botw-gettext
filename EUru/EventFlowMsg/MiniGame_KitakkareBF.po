@@ -1,0 +1,217 @@
+msgid "0010"
+msgstr "Вот, возьми"
+
+msgid "Greetings_Morning"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро."
+
+msgid "Succeed_Rain"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]И вот еще — за плохую погоду!"
+
+msgid "CantPlay_LanternOn_BeforeTalk"
+msgstr "[Sound1 unk1=\"6\" unk2=\"18\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"] меня успокаивает..."
+
+msgid "Goodbye_01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Жаль..."
+
+msgid "CantPlay_Weather_00"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Награда будет всего [Color name=\"red\"]20 рупий[Color name=\"unset\"].[Choice2 label1=\"8\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NotAccept_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]До свидания."
+
+msgid "Explanation_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Было бы замечательно."
+
+msgid "CantPlay_End"
+msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]Только не туши его!"
+
+msgid "NotAccept_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Эх..."
+
+msgid "Explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Успеешь принести [Color name=\"blue\"]синий огонь[Color name=\"unset\"]\n"
+"в этот [Color name=\"blue\"]светильник[Color name=\"unset\"] за [Color name=\"red\"]три минуты[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Итак, у тебя [Color name=\"red\"]три минуты[Color name=\"unset\"]."
+
+msgid "CantPlay_End_00"
+msgstr "[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"3\" unk2=\"1\"]Просила ведь не тушить...[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "Explanation_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Успеешь принести [Color name=\"blue\"]синий огонь[Color name=\"unset\"]\n"
+"в этот [Color name=\"blue\"]светильник[Color name=\"unset\"] за [Color name=\"red\"]минуту[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Итак, у тебя есть [Color name=\"red\"]минута[Color name=\"unset\"]."
+
+msgid "Explanation_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Успеешь принести [Color name=\"blue\"]синий огонь[Color name=\"unset\"]\n"
+"в этот [Color name=\"blue\"]светильник[Color name=\"unset\"] за [Color name=\"red\"]20 секунд[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Итак, у тебя [Color name=\"red\"]20 секунд[Color name=\"unset\"]."
+
+msgid "Fail02"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"12\"]В дождь все равно ничего не выйдет.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Если захочешь принести [Color name=\"blue\"]синий огонь[Color name=\"unset\"],\n"
+"дождись хорошей погоды."
+
+msgid "Talk_AfterMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"] снова погас...[PauseShort] Ты\n"
+"не мог бы зажечь [Color name=\"blue\"]светильник[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Explanation_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Прекрасно![PauseShort] Но с тебя [Color name=\"red\"]20 рупий[Color name=\"unset\"]\n"
+"на лошадиные нужды![Choice1 label=\"9\"][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ты ведь на лошади поедешь, верно?[PauseShort]\n"
+"Пешком ты в отведенное время точно\n"
+"не уложишься.[PauseShort] Давай [Color name=\"red\"]20 рупий[Color name=\"unset\"].[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_BeforeMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Как бы я хотела снова увидеть\n"
+"[Color name=\"blue\"]синий огонь[Color name=\"unset\"] в [Color name=\"blue\"]светильнике[Color name=\"unset\"]...[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Explanation_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Прекрасно![PauseShort] С тебя [Color name=\"red\"]20 рупий[Color name=\"unset\"]\n"
+"на лошадиные нужды.[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Goodbye"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]До свидания."
+
+msgid "Explanation_06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Благодарю!"
+
+msgid "0000"
+msgstr "Что случилось?"
+
+msgid "Explanation_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]Или я считать разучилась...[PauseShort] или ты.[PauseShort]\n"
+"Приходи, когда у тебя будет хотя бы\n"
+"20 рупий."
+
+msgid "BeforeStart_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"1\"]Внимание!"
+
+msgid "0001"
+msgstr "До свидания"
+
+msgid "Explanation_08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]Вот и хорошо!"
+
+msgid "BeforeStart_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"125\"]3[PageBreak]2[PageBreak]1[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Старт![Size percent=\"100\"]"
+
+msgid "Near_LanternOn"
+msgstr "Ля-ля...♪"
+
+msgid "0002"
+msgstr "Эй!"
+
+msgid "BeforeStart_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Это я перед началом скажу.[PauseShort] Кхм-кхм..."
+
+msgid "0003"
+msgstr "Я принесу огонь!"
+
+msgid "0004"
+msgstr "Запросто!"
+
+msgid "CantPlay_LanternOn_AfterTalk"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Обожаю смотреть на [Color name=\"blue\"]синий огонь[Color name=\"unset\"]."
+
+msgid "0005"
+msgstr "Я ухожу"
+
+msgid "Succeed_First"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Поздравляю![PauseShort] Ты успел!"
+
+msgid "0006"
+msgstr "Я лучше пойду..."
+
+msgid "0007"
+msgstr "Институт..."
+
+msgid "Greetings_Again"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет."
+
+msgid "FirstTalk_00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]Эх...[Choice1 label=\"0\"]"
+
+msgid "0008"
+msgstr "Договорились!"
+
+msgid "FirstTalk_01"
+msgstr "[Color name=\"Gray\"][Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Синий огонь[Size percent=\"100\"]...[Choice1 label=\"2\"][Color name=\"unset\"]"
+
+msgid "0009"
+msgstr "Лошадиные нужды?"
+
+msgid "FirstTalk_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]Ой, извини![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]С тех пор как вышла замуж,\n"
+"только и делаю, что скучаю.[PageBreak]Мое единственное развлечение —\n"
+"это наблюдать за [Color name=\"blue\"]синим огнем[Color name=\"unset\"]\n"
+"в [Color name=\"blue\"]светильнике[Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"5\" unk2=\"0\"]Но огонь давно погас.[PauseShort] Наверное,\n"
+"у [Color name=\"blue\"]профессора Аккальского института[Color name=\"unset\"]\n"
+"здоровье уже не то.[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_Game"
+msgstr "Я в нетерпении!♪"
+
+msgid "FirstTalk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Что же случилось с [Color name=\"blue\"]профессором[Color name=\"unset\"]?[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Когда же в [Color name=\"blue\"]светильнике[Color name=\"unset\"] снова\n"
+"будет гореть [Color name=\"blue\"]синий огонь[Color name=\"unset\"]?[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_LanternOff"
+msgstr "Эх..."
+
+msgid "FirstTalk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Раньше [Color name=\"blue\"]синий огонь[Color name=\"unset\"] по [Color name=\"blue\"]светильникам[Color name=\"unset\"]\n"
+"разносил [Color name=\"blue\"]профессор[Color name=\"unset\"] института.[PageBreak]Но теперь он уже старый —\n"
+"даже на улицу не выходит."
+
+msgid "Ask"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]Что случилось?[PauseShort] Передумал?[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "FirstTalk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Если что, [Color name=\"blue\"]институт[Color name=\"unset\"] там."
+
+msgid "FirstTalk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Он в здании маяка — сразу узнаешь."
+
+msgid "Fail"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]К сожалению, ты не успел.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Если захочешь попробовать еще\n"
+"раз, приходи, когда [Color name=\"blue\"]синий огонь[Color name=\"unset\"]\n"
+"снова потухнет."
+
+msgid "Greetings_AboutNoon"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Здравствуй."
+
+msgid "Greetings_Night"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброй ночи."
+
+msgid "Restart"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ты справишься!"
+
+msgid "CantPlay_Weather"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]В такую погоду ничего не выйдет."
+
+msgid "Reward"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Большое спасибо."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGKCAAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAG4BAABwAQAAcgEAAHQBAAB2AQAAeAEAAHoBAAB8AQAAfgEAAIABAACCAQAAqgEAANIBAAD6AQAAIgIAAEoCAAByAgAAmgIAAMICAADqAgAAEgMAADoDAABiAwAAigMAALIDAADaAwAAAgQAACoEAABSBAAAegQAAKIEAADKBAAA8gQAABoFAABCBQAAagUAAJIFAAC6BQAA4gUAAAoGAAAyBgAAWgYAAIIGAACqBgAA0gYAAPoGAAAiBwAASgcAAHIHAACaBwAAwgcAAOoHAAASCAAAOggAAGIIAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

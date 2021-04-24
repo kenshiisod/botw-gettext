@@ -1,0 +1,265 @@
+#, ruby
+msgid "Npc_SouthernVillage014_R_006"
+msgstr ""
+"この石碑 前はもっと大きかったけど\n"
+"この間の地震で 崩れてしまってさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_007"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あんたが 協力してくれるって言うなら\n"
+"散らばったかけらを 探してくれないかいさ？\n"
+"かけらにも 同じような文字が\n"
+"彫ってあるだろうから…[PauseMid]\n"
+"もし かけらを見つけたら それの[Color name=\"red\"]絵[Color name=\"unset\"]を描いて\n"
+"オレの所に持ってきてほしいさ～\n"
+"オレは その間に この石碑を\n"
+"調べ尽くしておくからさ～！[PageBreak][Sound1 unk1=\"5\" unk2=\"16\"]…[PauseMid]…そうさね[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]石碑の文字は\n"
+"夜に神秘的な光を 放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_020"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]…新しい発見は ないさ わいさ？\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]ひょっとすると クレシア半島やイサキ岬の方に\n"
+"流されちまったかけらが あるかもしれないわいさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を 放つから\n"
+"夜探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_008"
+msgstr ""
+"おぉ あんたか\n"
+"何か用かいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_009"
+msgstr ""
+"ここ 神秘的で\n"
+"中々いい感じの場所さね？\n"
+"オレは この場所が好きで\n"
+"ちょくちょく 来てるんだがさ"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_011"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]わいさ！[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]あんたのおかげで\n"
+"書かれている文章が わかったさ！！"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_012"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…えーっとさ[PageBreak]『ふたつの命ひざまずき 心ひとつとなる時\n"
+"試練の扉 開かれん』\n"
+"…[PauseMid]…[PauseLong][PageBreak][Sound1 unk1=\"3\" unk2=\"16\"]うーん[PauseShort] 意味はさっぱり分からないさ…[PauseLong]"
+
+msgid "Npc_SouthernVillage014_S1_013"
+msgstr "[Sound2 id=\"19\"]？！"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_001"
+msgstr "石碑のかけら 見つかったかいさ？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_F_001"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]ふたつの命ひざまずき 心ひとつとなる時\n"
+"試練の扉 開かれん…[PauseLong]\n"
+"…[PauseMid]…[PauseLong]\n"
+"だめだ[PauseShort] 全く見当もつかないさ…[PauseLong]"
+
+msgid "Npc_SouthernVillage014_S1_014"
+msgstr "…そういうことさ？！"
+
+#, ruby
+msgid "0000"
+msgstr "何してるの？"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_002"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]そう簡単に 見つからないかいさ…[PauseLong][PageBreak]石碑の文字は\n"
+"夜に神秘的な光を 放つから…[PauseMid]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]夜に探した方が\n"
+"見つかりやすい気がするわいさ～\n"
+"もし かけらを見つけたら [Color name=\"red\"]絵[Color name=\"unset\"]を描いて\n"
+"オレの所に持ってきてくれさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_015"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]そうか 見つけたのかいさ！[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]…[PauseMid]…[PauseLong][PageBreak]すまねぇが かけらに何が彫ってあるか\n"
+"分かるように [Color name=\"red\"]絵[Color name=\"unset\"]を描いてきてくれないさね？"
+
+#, ruby
+msgid "0001"
+msgstr "用は無いです"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_003"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]…[PauseMid]…[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]あんたが全部 見つけてくれたおかげで\n"
+"何て書いてあるか 分かりそうさ～\n"
+"考えてみるから もう少し\n"
+"待っててほしいわいさ～！"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_016"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]あんた 絵 上手わいさ！\n"
+"次のも 見せてほしいわいさ！"
+
+#, ruby
+msgid "0002"
+msgstr "手伝わせて"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_004"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]まだ他にも かけらはありそうさね…[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると 波にさらわれて\n"
+"水の中とか 行っちゃってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+msgid "Npc_SouthernVillage014_S1_017"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"9\"]すごい！[PauseShort] すごいわいさ！[PauseShort]\n"
+"えっ[PauseShort] まだあるわいさ？！"
+
+msgid "Npc_SouthernVillage014_R_Near_001"
+msgstr "う～ん…"
+
+msgid "0003"
+msgstr "さようなら"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_005"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]まだ他にも かけらはありそうさね…[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると このビーチの\n"
+"近くに 転がってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_018"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]…新しい発見は ないさ わいさ？\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]ひょっとすると このビーチの\n"
+"近くに 転がってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を 放つから\n"
+"夜探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "0004"
+msgstr "見つけた"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_006"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]こんな所まで流されちまってたのかいさ…[PauseLong]\n"
+"しかし まだ他にも かけらはありそうさね…[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると このビーチの\n"
+"近くに 転がってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_019"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]…新しい発見は ないさ わいさ？\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]ひょっとすると 波にさらわれて\n"
+"水の中とか 行っちゃってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を 放つから\n"
+"夜探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+msgid "0005"
+msgstr "どこにあるのやら"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_007"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]まだ他にも かけらはありそうさね…[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると クレシア半島やイサキ岬の方に\n"
+"流されちまったかけらが あるかもしれないわいさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_010"
+msgstr ""
+"[Sound2 id=\"14\"]この石碑に 文字が彫ってある事に\n"
+"最近 気が付いて…[PauseMid]\n"
+"何て彫ってあるのかいな～ と\n"
+"調べてたとこさ[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_011"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]1つはこの辺りにあるはずさ～[PauseMid]\n"
+"まずはそれを 見つけて欲しいさ！"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_008"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]まだ他にも かけらはありそうさね…[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると このビーチの\n"
+"近くに 転がってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+#, ruby
+msgid "Npc_SouthernVillage014_S1_009"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak][Size percent=\"80\"]まだ他にも かけらはありそうさね…[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]引き続き この調子で頼むさ～[PageBreak][Sound2 id=\"4\"][Size percent=\"80\"]ひょっとすると 波にさらわれて\n"
+"水の中とか 行っちゃってたりしてさ…[Size percent=\"100\"][PauseLong]\n"
+"石碑の文字は\n"
+"夜に神秘的な光を放つから…[PauseMid]\n"
+"夜に探した方が\n"
+"見つかりやすい気がするわいさ～"
+
+msgid "Npc_SouthernVillage014_R_001"
+msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]う～ん…[PauseLong][PageBreak]…[PauseMid]…[PauseLong]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_002"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"21\"]うわっ[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]すまねさ～\n"
+"ちょっと 集中してたもんでさ[PauseLong]\n"
+"何か用かいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_003"
+msgstr "[Sound2 id=\"2\"]あぁ ちょっとこの石碑を調べてたさ[PauseLong]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_004"
+msgstr "[Size percent=\"80\"]冷たいさ～…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Npc_SouthernVillage014_R_005"
+msgstr "[Sound2 id=\"23\"]おぉ あんたも物好きかいさ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAFsBgAAAAAAACYAAAAEAAAAoAAAAM4AAAD8AAAA/gAAAAABAAAuAQAAXAEAAF4BAABgAQAAjgEAALwBAADqAQAAGAIAAEYCAAB0AgAAogIAAKQCAACmAgAA1AIAAAIDAAAwAwAAXgMAAIwDAAC6AwAA6AMAABYEAABEBAAAcgQAAKAEAADOBAAA/AQAACoFAABYBQAAhgUAALQFAADiBQAAEAYAAD4GAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAAAAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,258 @@
+msgid "5503"
+msgstr "Finalement, non."
+
+msgid "Com_Talk_00"
+msgstr "Je t'en prie, montre-moi !"
+
+msgid "5508"
+msgstr "Je vends tout."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\" stub=\"0\"] [Color name=\"unset\"]?\n"
+"Ça va si je t'en donne [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] rubis [Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Je ne t'avais pas vue."
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]Merci beaucoup, je suis bien contente ![PauseLong]\n"
+"Tu veux me vendre autre chose ?"
+
+msgid "0001"
+msgstr "Je viens vendre !"
+
+msgid "0002"
+msgstr "C'est quoi, ici ?"
+
+msgid "Com_Talk_04"
+msgstr "Très bien, comme tu voudras !"
+
+msgid "0003"
+msgstr "Au revoir !"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Que tu cherches des vêtements simples\n"
+"et élégants ou une tenue de soldat,[PauseShort]\n"
+"[Color name=\"blue\"]Vent d'est [Color name=\"unset\"]a tout ce qu'il te faut !"
+
+msgid "Com_Talk_05"
+msgstr ""
+"Ici, on achète tout...\n"
+"Enfin, presque tout !"
+
+msgid "0004"
+msgstr "J'achète !"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Bonsoir !\n"
+"Chez [Color name=\"blue\"]Vent d'est[Color name=\"unset\"], la porte est toujours\n"
+"ouverte ![PauseShort] De jour comme de nuit !"
+
+msgid "Com_Talk_05b"
+msgstr "Ici, on achète presque tout."
+
+msgid "Com_Talk_06"
+msgstr "Qu'est-ce que tu veux acheter ?"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Reviens vite !"
+
+msgid "Com_Talk_05c"
+msgstr ""
+"N'hésite pas à examiner la marchandise\n"
+"sous toutes les coutures !"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]Oh, je suis tellement désolée ![PauseShort]\n"
+"Nous n'en avons plus, pour l'instant !"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Il te fallait autre chose ?[Choice4Flags label1=\"1\" label2=\"0\" flag2=\"Npc_HatenoVillage019_Etto\" label3=\"2\" flag3=\"Npc_HatenoVillage019_Kokotte\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bienvenue à [Color name=\"blue\"]Vent d'est[Color name=\"unset\"], qui t'habille\n"
+"de pied en cap pour trois fois rien !"
+
+msgid "Com_Talk_05d"
+msgstr "Alors, as-tu arrêté ton choix ?"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"0\"]Excuse-moi, [PauseShort]mais on dirait que tes fonds\n"
+"ne sont pas tout à fait suffisants..."
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]Excuse-moi, [PauseShort]mais on dirait que tu n'as\n"
+"plus du tout de place pour cet article."
+
+msgid "Com_Talk_60"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\" stub=\"0\"] [Color name=\"unset\"]?[PauseLong]\n"
+"Ça fera [Color name=\"red\"][02:10 name=\"Shop_SelectItemPrice\" stub=\"0\"] rubis [Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk05"
+msgstr ""
+"Nous sommes une petite[Color name=\"blue\"] boutique de\n"
+"vêtements[Color name=\"unset\"].\n"
+"\n"
+"Que tu cherches une armure ou une\n"
+"tenue de tous les jours,[PauseShort] nous aurons\n"
+"forcément de quoi te séduire !"
+
+msgid "Com_Talk_61"
+msgstr ""
+"Comme tu veux.[PauseLong] Mais n'hésite pas à\n"
+"regarder un peu nos autres articles !"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Juste un instant, s'il te plaît !\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"Merci d'avoir patienté !"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Alooors ! [PauseShort]Qu'est-ce que tu veux me\n"
+"vendre ?"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"9\"]Je te remercie pour ta confiance ![PauseLong]\n"
+"Voudras-tu autre chose ?"
+
+msgid "Com_Talk_10"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"],\n"
+"alors ?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"9\"]Merci beaucoup ![PauseLong] Autre chose,\n"
+"peut-être ?"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Merci d'avoir choisi Vent d'est !"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"9\"]Je suis heureuse d'avoir pu faire affaire\n"
+"avec toi.[PauseLong] Tu as peut-être encore d'autres\n"
+"choses à me vendre ?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je t'en prie, promène-toi dans la\n"
+"boutique !"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\" stub=\"0\"] [Color name=\"unset\"]![PauseMid]\n"
+"Tu m'en vendrais combien ?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr "Ça fait [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] rubis [Color name=\"unset\"]les [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]. Ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Merci d'avoir choisi Vent d'est !"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Désolée, mais je n'ai pas besoin de ça."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Je te remercie !"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"12\"]Ah non, je n'achète jamais un article\n"
+"que porte un client. Ça serait très\n"
+"gênant !"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\" stub=\"0\"] [Color name=\"unset\"]?[PauseShort]\n"
+"Ça fera [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] rubis [Color name=\"unset\"]! [Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Merci de ta confiance !"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Excuse-moi, mais...[PauseShort] si tu voulais bien..."
+
+msgid "Com_Talk_35"
+msgstr ""
+"Tout ton stock ?[PauseLong] Comme tu en as [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"],\n"
+"je peux t'en offrir...[PauseLong] [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] rubis[Color name=\"unset\"].\n"
+"Ça te convient ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ce serait gentil de ranger cette [Color name=\"blue\"]flamme[Color name=\"unset\"].[PauseShort]\n"
+"Tu risques d'importuner les autres\n"
+"clients..."
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Est-ce que je peux t'aider ?[Choice4Flags label1=\"1\" label2=\"0\" flag2=\"Npc_HatenoVillage019_Etto\" label3=\"2\" flag3=\"Npc_HatenoVillage019_Kokotte\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "near00"
+msgstr "Bienvenue, cher client !"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Bienvenue, bienvenue !"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Merci d'avoir acheté chez nous !"
+
+msgid "5500"
+msgstr "Oui."
+
+msgid "talk17"
+msgstr ""
+"...\n"
+"\n"
+"\n"
+"...\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"10\" unk2=\"0\"]Oh, je suis confuse !\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tu croyais qu'il n'y avait personne dans\n"
+"la boutique pour te servir ? [PauseShort]Je suis\n"
+"vraiment navrée si je t'ai surpris !\n"
+"Malheureusement, c'est la consigne !\n"
+"Ma place attitrée est ici.[PauseLong] J'espère\n"
+"que tu comprends."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Très bon choix ![PauseShort] Cela t'ira à ravir !"
+
+msgid "5501"
+msgstr "J'ai changé d'avis."
+
+msgid "Com_Talk_11d"
+msgstr ""
+"[Sound2 id=\"9\"]Je suis très honorée de voir que mes\n"
+"articles ont su retenir ton attention !"
+
+msgid "5502"
+msgstr "J'achète !"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGWBAAAAAAAADgAAAAEAAAA6AAAABIBAAAUAQAAFgEAABgBAAAaAQAAHAEAAEYBAABwAQAAmgEAAMQBAADuAQAAGAIAAEICAABsAgAAlgIAAMACAADqAgAAFAMAAD4DAABoAwAAkgMAALwDAAC+AwAAwAMAAMIDAADEAwAAxgMAAMgDAADKAwAAzAMAAM4DAADQAwAA0gMAANQDAADWAwAA2AMAANoDAADcAwAA3gMAAOADAADiAwAA5AMAAOYDAAAGBAAAJgQAAEYEAABmBAAAhgQAAIgEAACKBAAAjAQAAI4EAACQBAAAkgQAAJQEAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADkAAAAAAAAAAAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

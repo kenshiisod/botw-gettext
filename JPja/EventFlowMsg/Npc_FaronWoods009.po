@@ -1,0 +1,197 @@
+#, ruby
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]自慢の品ぞろえだ！[PauseMid]\n"
+"ゆっくり選ぶがよい！"
+
+#, ruby
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を売るのだな？[PauseMid]\n"
+"いくつ売るかね？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5501\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で[Size percent=\"80\"]・・・[PauseMid][Size percent=\"100\"]\n"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]で買い取るが よいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]それは こちらでは買い取れぬ"
+
+msgid "5501"
+msgstr "いいえ"
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"14\"]今着ている服は 脱いでからにしてくれるか！"
+
+#, ruby
+msgid "5502"
+msgstr "買う"
+
+msgid "5503"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]悪天候の時は特別サービスだ！[PauseMid]\n"
+"取っておきの品を 売ろうではないか！"
+
+#, ruby
+msgid "5507"
+msgstr "ぜんぶ買う"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+#, ruby
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"9\"]ありがたい！\n"
+"他にはどうだ？"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]をひとつだけか？\n"
+"であれば[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だが よいか？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"2\"]かたじけない！\n"
+"まだ何かあるか？"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr "他にも 買い取るゆえ"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]どれを 売ってくれるのかね？"
+
+#, ruby
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"2\"]助かる！\n"
+"他にも なにかないか？"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr "まだまだ 買い取ることはできるぞ"
+
+#, ruby
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を 売るのか？\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるが よいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_05d"
+msgstr "いろいろと 買い取りはできるゆえ"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"2\"]かたじけない！"
+
+#, ruby
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]が[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で\n"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]になるがよいか？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]かたじけない！[PauseShort]\n"
+"他にも何かあるかね？"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]まいど かたじけない！"
+
+#, ruby
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を買うのか？\n"
+"いくつ必要だ？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"2\"]助かる！"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]むむ[Size percent=\"80\"]・・・[Size percent=\"100\"][PauseMid] 残念だ"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]をひとつだけか？[PauseShort]\n"
+"であれば[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だ！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr "何でも 買い取るゆえ"
+
+#, ruby
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]をあるだけ全部だな？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個で[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]だが よいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_06"
+msgstr "どれが 必要か？"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]個全部だな？\n"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]ルピー[Color name=\"unset\"]で買い取るがよいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]すまぬ！[PauseShort] 今そいつは切らしておるのだ[Size percent=\"80\"]・・・[Size percent=\"100\"]"
+
+#, ruby
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]これで最後だ\n"
+"たくさん買っていただき かたじけない！"
+
+#, ruby
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]ルピーが足りないようだ[PauseShort]\n"
+"懐具合をよく確認してから よろしく頼む！"
+
+#, ruby
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"10\"]今日はもう 手持ちの矢がないのだ\n"
+"すまない！\n"
+"仕入れる予定の品物リストだけでも\n"
+"見ていくかね？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]ポーチが いっぱいのようだ！[PauseShort]\n"
+"売るなり捨てるなりして 空きを作ってきたまえ"
+
+#, ruby
+msgid "Com_Talk_10"
+msgstr "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]を買うのだね？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]ありがたい！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAE0AQAAAAAAACgAAAAEAAAAqAAAAKoAAACsAAAArgAAALAAAACyAAAAtAAAALYAAAC4AAAAugAAALwAAAC+AAAAwAAAAMIAAADEAAAAxgAAAMgAAADKAAAAzAAAAM4AAADQAAAA0gAAANQAAADWAAAA2AAAANoAAADcAAAA3gAAAOAAAADiAAAA5AAAAOYAAADoAAAACAEAACgBAAAqAQAALAEAAC4BAAAwAQAAMgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

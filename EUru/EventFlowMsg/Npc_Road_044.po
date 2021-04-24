@@ -1,0 +1,407 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Напугался до смерти!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]Показывай, что у тебя есть."
+
+msgid "MSG_Ichika_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ты же путешественник, да ведь?[PauseShort]\n"
+"Тогда тебе нужно запастись\n"
+"полезными продуктами.[PageBreak]Купить свежие продукты\n"
+"питания можно не везде.[PageBreak]И я что-то сомневаюсь, что повара\n"
+"ходят за тобой по пятам.[PageBreak]Если бы я был твоим отцом,\n"
+"то меня бы очень беспокоило\n"
+"состояние твоего здоровья!"
+
+msgid "Com_Talk_01"
+msgstr "Хм, как насчет [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Ichika_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я путешествующий повар Стамм.[PageBreak]Ты не подумай, что я хвастаюсь,\n"
+"но повар — это важная профессия.[PauseShort]\n"
+"Тут ничего не поделаешь.[PageBreak]Говорят, есть захочешь — все\n"
+"съешь.[PauseShort] Значит, голод — это\n"
+"самый важный ингредиент?[PageBreak][Sound1 unk1=\"2\" unk2=\"14\"]Я с этим не согласен."
+
+msgid "RetMSG_Ichika_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если ты будешь готовить\n"
+"насекомых, лягушек или\n"
+"ящериц, у тебя получится зелье.[PageBreak]Но обычно повара не готовят\n"
+"насекомых.[PauseShort] К счастью![PauseShort]\n"
+"Потому что я их очень боюсь."
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]Спасибо![PauseShort] Продай что-нибудь еще."
+
+msgid "MSG_Ichika_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я хожу между [Color name=\"blue\"]конюшней «Аккала»[Color name=\"unset\"]\n"
+"и [Color name=\"blue\"]Новой Деревней[Color name=\"unset\"] и ищу лучшие\n"
+"ингредиенты."
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]Вот как..."
+
+msgid "Com_Talk_10"
+msgstr "Точно берешь?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Буду рад любым предложениям."
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]Спасибо!"
+
+msgid "Com_Talk_06"
+msgstr "Ты все-таки купи что-нибудь."
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"9\"]Выбирай![PauseShort] Все свежее и вкусное!"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"9\"]Большое спасибо![PauseShort]\n"
+"Давай еще что-нибудь!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]Извини, это кончилось."
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]?[PauseShort]\n"
+"А сколько продаешь?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"2\"]Благодарю![PauseShort] Может, продашь\n"
+"мне еще что-нибудь?"
+
+msgid "Com_Talk_08"
+msgstr "[Sound2 id=\"4\"]Хм, у тебя же денег хватает."
+
+msgid "Com_Talk_14"
+msgstr "Всего [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]?[PauseShort] Как насчет [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]В такую погоду я продаю свой\n"
+"лучший товар — [Color name=\"red\"]приправу горонов[Color name=\"unset\"]!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"2\"]С тобой приятно иметь\n"
+"дело![PauseShort] Давай еще!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Больше ты не унесешь.[PauseShort] Сначала\n"
+"съешь или продай свои запасы."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]Извини, это я купить не могу!"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Вот, возьми, не скромничай."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]Я куплю, но только когда\n"
+"ты снимешь это с себя."
+
+msgid "Com_Talk_30"
+msgstr ""
+"Всего [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"][SPSwitch singular=\" штуку\" plural=\" штук\" plural2=\" штуки\"]?\n"
+"С тебя [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Ichika_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я хожу от севера [Color name=\"blue\"]Аккальского озера[Color name=\"unset\"]\n"
+"до [Color name=\"blue\"]конюшни «Аккала»[Color name=\"unset\"] и обратно\n"
+"в поисках лучших ингредиентов."
+
+msgid "Com_Talk_31"
+msgstr ""
+"Значит, [Color name=\"blue\"][C9:04][02:0B name=\"Shop_SelectItemName\" stub=\"0\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько возьмешь?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Ichika_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Говорят, есть захочешь, все съешь.[PauseShort]\n"
+"Но я с этим не совсем согласен.[PageBreak]Я хочу, чтобы люди говорили, что\n"
+"никто так вкусно не готовит, как\n"
+"Стамм.[PauseShort] Когда-то это у меня получится!"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"32\"]Фу...[PauseShort] Хоть дух перевести."
+
+msgid "Com_Talk_33"
+msgstr "Как насчет [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"14\"]Ох уж эти монстры.[PauseShort] Может,\n"
+"швырнуть в них чем-нибудь тяжелым."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Все?[PauseShort] За [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"][SPSwitch singular=\" штуку\" plural=\" штук\" plural2=\" штуки\"] я возьму\n"
+"с тебя всего [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Все, то есть [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]?[PauseShort] Могу\n"
+"предложить [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Ichika_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]В [Color name=\"blue\"]Аккальском озере [Color name=\"unset\"]просто так\n"
+"плавают вкусные ингредиенты![PageBreak]А еще есть ингредиенты, которые\n"
+"там растут, некоторые упали\n"
+"в озеро, а некоторые там летают.[PageBreak]Мир — это огромный рынок!"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Ну вот, ты купил все, что у меня\n"
+"было![PauseShort] Большое спасибо!"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Фу, спасибо за помощь!"
+
+msgid "Com_Talk_05b"
+msgstr "Что еще у тебя есть?"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Большое спасибо!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"10\"]Извини, товар закончился.[PauseShort] Может,\n"
+"хотя бы на цены взглянешь?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Ichika_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Например, если у кого-то устали\n"
+"ноги и руки, можно добавить в еду\n"
+"мед бодрых пчел и яблоко."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Кстати, хочешь взглянуть, что\n"
+"у меня есть?[PauseShort] Буду рад, если ты\n"
+"что-нибудь купишь.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Ты меня выручил из беды![PauseShort]\n"
+"Большое спасибо!"
+
+msgid "Com_Talk_05c"
+msgstr "Я могу хоть все у тебя купить."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Спасибо за покупку!"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Тебе еще что-то нужно?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Предлагай что угодно."
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"2\"]Благодарю!"
+
+msgid "RetMSG_Ichika_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я путешествующий повар Стамм.[PageBreak]Ты знал, что из насекомых, ящериц\n"
+"и лягушек можно варить зелья?[PageBreak]Хорошо, что повара зелья не варят:\n"
+"я терпеть не могу букашек и прочую\n"
+"мелкую живность.[Sound2 id=\"7\"] Ха-ха!"
+
+msgid "RetMSG_Ichika_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]К югу отсюда находится [Color name=\"blue\"]Аккальское\n"
+"озеро[Color name=\"unset\"]. Там так здорово![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Но я не про красивый вид,\n"
+"а про ингредиенты, которые\n"
+"плавают в озере.[PageBreak]Одним красивым видом сыт\n"
+"не будешь, да ведь?[PauseShort][Sound2 id=\"7\"] Ха-ха!"
+
+msgid "RetMSG_Ichika_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Я путешествующий повар, но иногда\n"
+"мне нужен перерыв от этих скитаний.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Подремать бы у [Color name=\"blue\"]Аккальского озера [Color name=\"unset\"]на\n"
+"востоке, но меня уже ждут покупатели\n"
+"в [Color name=\"blue\"]конюшне «Аккала»[Color name=\"unset\"].[PauseShort][Sound2 id=\"7\"] Ха-ха!"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Чтобы приготовить самую\n"
+"лучшую еду, мне нужно найти\n"
+"самые лучшие ингредиенты.[PageBreak]Поэтому я хожу от[Color name=\"blue\"] конюшни «Аккала»[Color name=\"unset\"]\n"
+"до [Color name=\"blue\"]Новой Деревни[Color name=\"unset\"] и обратно![PageBreak]Я еще и торгую ингредиентами,\n"
+"так что обращайся в любое время."
+
+msgid "RetMSG_Ichika_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я путешествующий повар Стамм.[PageBreak][Sound1 unk1=\"7\" unk2=\"11\"]Еда не только восстанавливает\n"
+"здоровье и силы, но и защищает\n"
+"от жары, холода, грозы или огня.[PageBreak]Некоторые блюда даже\n"
+"делают тебя незаметным![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Благодаря разным блюдам люди\n"
+"могут продолжить свое путешествие."
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Дождь нужен растениям,\n"
+"растения нужны животным,\n"
+"а все это нужно мне.[PageBreak]Мои блюда помогают людям, а деньги\n"
+"за продажу еды помогают мне.[PageBreak][Sound1 unk1=\"1\" unk2=\"10\"]Мир прекрасен![PauseShort] Ха-ха-ха!"
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "RetMSG_Ichika_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я путешествующий повар Стамм![PageBreak]В поисках ингредиентов я хожу\n"
+"с севера [Color name=\"blue\"]Аккальского озера[Color name=\"unset\"]\n"
+"до [Color name=\"blue\"]конюшни «Аккала»[Color name=\"unset\"] и обратно."
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Я не хочу, чтобы мои ингредиенты\n"
+"намокли, поэтому я подожду здесь,\n"
+"пока дождь не пройдет."
+
+msgid "Com_Talk_56"
+msgstr "С тебя [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "0000"
+msgstr "Покажи товар"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "0001"
+msgstr "Я кое-что продаю"
+
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "0002"
+msgstr "Пока"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]Грибы для аромата..."
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Фу, спасибо за помощь![PauseShort]\n"
+"Большое спасибо!"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]Мясо для силы..."
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]Монстры такие страшные![PauseShort]\n"
+"Спасибо за помощь!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]Рыба для здоровья..."
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]Фрукты на десерт..."
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "Near04"
+msgstr "Не хочу промокнуть..."
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "RetMSG_Ichika_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Сегодня я отправлюсь от [Color name=\"blue\"]Аккальского\n"
+"озера [Color name=\"unset\"]на востоке в [Color name=\"blue\"]конюшню «Аккала»[Color name=\"unset\"]\n"
+"на западе.[PageBreak]Такова судьба путешествующего\n"
+"повара."
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"22\"][Color name=\"blue\"]Страж [Color name=\"unset\"]идет![PauseShort] Убегай!"
+
+msgid "MSG_Ichika_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Запомни: мясные блюда замечательно\n"
+"восстанавливают здоровье, а рыба\n"
+"придает еде особые свойства."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Еле ноги унес!"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Эти гадкие монстры посмели\n"
+"покуситься на мой товар![PauseShort] Но благодаря\n"
+"тебе все в целости и сохранности."
+
+msgid "RetMSG_Ichika_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Когда не знаешь, что делать,\n"
+"съешь что-нибудь![PauseShort] Или когда\n"
+"есть хочешь, конечно![PageBreak]Еда не только восстанавливает\n"
+"здоровье и силы, но и защищает\n"
+"от жары, холода, грозы или огня.[PageBreak][Sound1 unk1=\"1\" unk2=\"11\"]Некоторые блюда даже делают\n"
+"тебя незаметным![PauseShort] Вот такие\n"
+"отличные блюда бывают!"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Я повар-путешественник![PauseShort] Запомни это!"
+
+msgid "MSG_Ichika_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я Стамм, путешествующий повар.[PageBreak]Я хожу между [Color name=\"blue\"]конюшней «Аккала»[Color name=\"unset\"]\n"
+"и [Color name=\"blue\"]Новой Деревней[Color name=\"unset\"] и ищу лучшие\n"
+"ингредиенты."
+
+msgid "MSG_Ichika_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Когда люди зовут Стамма,\n"
+"путешествующего повара,\n"
+"то я сразу тут как тут![PageBreak]Видишь?[PauseShort] Я сам себя позвал\n"
+"и я уже на месте![PauseShort] Ха-ха![PageBreak]Мне нравится придумывать\n"
+"новые рецепты.[PageBreak]Например, если у кого-то устали\n"
+"ноги и руки, можно добавить в еду\n"
+"мед бодрых пчел и яблоко."
+
+msgid "MSG_Ichika_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если бы я был твоим отцом,\n"
+"то меня бы очень беспокоило\n"
+"состояние твоего здоровья![PageBreak]Но я по твоему лицу вижу, что\n"
+"с тобой, в принципе, все в порядке.[PauseShort]\n"
+"Хотя могло бы быть и лучше![PauseShort] Ха-ха!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]С тобой все в порядке?[PauseShort]\n"
+"Я тут чуть не помер."
+
+msgid "MSG_Ichika_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я путешествующий повар Стамм.[PauseShort]\n"
+"Дам тебе совет...[PageBreak]Мясные блюда замечательно\n"
+"восстанавливают здоровье.[PageBreak]А рыба придает еде\n"
+"особые свойства.[PageBreak]Когда будешь готовить, учитывай\n"
+"особенности продуктов, чтобы\n"
+"получить то, что тебе нужно."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAGYAwAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAALgCAAC6AgAAvAIAANwCAAD8AgAA/gIAAAADAAACAwAABAMAAAYDAAAIAwAACgMAAAwDAAAOAwAAEAMAABIDAAAUAwAAFgMAABgDAAAaAwAAHAMAAB4DAAAgAwAAIgMAACQDAAA+AwAAQAMAAEIDAABEAwAARgMAAEgDAABKAwAAZAMAAH4DAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

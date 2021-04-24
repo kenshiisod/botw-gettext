@@ -1,0 +1,223 @@
+msgid "Npc_kokiri003_Sell010b"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]Ik ben zo blij dat ik een selectie\n"
+"voorwerpen heb verzameld!"
+
+msgid "Npc_kokiri003_Sell030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Bedankt voor je bezoek, meneer de held!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik zal zorgen dat ik volgende keer weer\n"
+"nieuwe spullen te verkopen heb."
+
+msgid "5503"
+msgstr "Laat maar."
+
+msgid "Npc_kokiri003_Sell010c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Bedankt!"
+
+msgid "Npc_kokiri003_Talk000"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Zozo, kijk eens wie we hier hebben![PauseShort]\n"
+"Hallo, meneer de held, en welkom bij\n"
+"[Color name=\"blue\"]Van Alles En Nog Wat[Color name=\"unset\"]!\n"
+"Ik verkoop hier van alles, zoals dingen\n"
+"die ik in het bos vind. Maar ook dingen\n"
+"die ik niet in het bos vind.\n"
+"Kies maar wat je wilt hebben! Of...[PauseShort] ben je\n"
+"hier om iets te verkopen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Sell010d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]Ik heb meneer de held geholpen!"
+
+msgid "5507"
+msgstr "Alles kopen."
+
+msgid "Npc_kokiri003_Talk020"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Goedenavond,[PauseShort] meneer de held. Wil je\n"
+"iets verkopen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Wil je iets verkopen?"
+
+msgid "5508"
+msgstr "Alles verkopen."
+
+msgid "Npc_kokiri003_Near000"
+msgstr "Dat zijn nuttige spullen!"
+
+msgid "Com_Talk_01"
+msgstr "[Color name=\"blue\"][04:03][Color name=\"unset\"]Daar geef ik je [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] voor.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Ik wil iets verkopen."
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"7\"]Heel erg bedankt! Wil je nog iets anders\n"
+"verkopen?"
+
+msgid "0001"
+msgstr "Wat bied je aan?"
+
+msgid "Npc_kokiri003_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je iets niet nodig hebt, breng het dan\n"
+"naar mij. Dingen van buiten dit woud...[PauseShort] Ik\n"
+"wil iets zien wat ik nog nooit heb gezien."
+
+msgid "0002"
+msgstr "Tot ziens."
+
+msgid "Npc_kokiri003_Near020"
+msgstr "Mijn winkel is leeg..."
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]O, ben je van gedachten veranderd? Oké."
+
+msgid "Com_Talk_05"
+msgstr "[04:03]Ik koop alles wat je maar hebt."
+
+msgid "Npc_kokiri003_Talk060"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"25\"]Heel erg bedankt![PauseMid] Ik zal zorgen dat ik\n"
+"volgende keer weer van alles op voorraad\n"
+"heb."
+
+msgid "Com_Talk_05b"
+msgstr "[04:03]Heb je spullen van buiten het bos?"
+
+msgid "Com_Talk_05c"
+msgstr "[04:03]Wat wil je verkopen?"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"[04:03]Hm, hm...[PauseMid] Dus dit heeft meneer de held\n"
+"allemaal bij zich!"
+
+msgid "Npc_kokiri003_Sell000"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Ik hoorde dat je onderweg was, meneer\n"
+"de held, dus heb ik de\n"
+"[Color name=\"blue\"]Van Alles En Nog Wat [Color name=\"unset\"]geopend!\n"
+"Als je iets wilt verkopen, ben je hier aan\n"
+"het goede adres!"
+
+msgid "Npc_kokiri003_Sell020"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Jeeeeee! Bedankt voor je bezoek![PageBreak]Ik hoorde dat meneer de held op weg\n"
+"was, dus heb ik een winkel,\n"
+"[Color name=\"blue\"]Van Alles En Nog Wat[Color name=\"unset\"], geopend!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je iets wilt verkopen, koop ik het\n"
+"graag van je!"
+
+msgid "Npc_kokiri003_Talk010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Welkom bij [Color name=\"blue\"]Van Alles En Nog Wat[Color name=\"unset\"]![PauseMid]\n"
+"Kies maar wat je hebben wilt! Of... wilde\n"
+"je liever iets verkopen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Talk030"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Het spijt me...[PauseShort] Alles is uitverkocht...[PauseMid]\n"
+"Maar als je iets wilt verkopen, dan koop\n"
+"ik het van je![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Wil je nog meer aan me verkopen?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]Ik wil meer spullen van meneer de held!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"7\"]Ik ben zo blij dat ik spullen van meneer\n"
+"de held kan kopen!"
+
+msgid "Npc_kokiri003_Talk050"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"18\"]Meneer de held![PauseShort] Wees voorzichtig als je\n"
+"'s nachts door het bos wandelt. Het stikt\n"
+"er dan namelijk van de monsters."
+
+msgid "Com_Talk_13"
+msgstr "[Color name=\"blue\"][04:03][Color name=\"unset\"]Hoeveel wil je er verkopen?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[04:03]Je wilt er [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] kwijt? Dat is in totaal\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]O, sorry, hier kan ik helemaal niets mee."
+
+msgid "Npc_kokiri003_Talk070"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Ik verzamel pijlen en eten voor je. Ik\n"
+"weet zeker dat je daar iets mee kunt,\n"
+"meneer de held![PageBreak]Als je een [Color name=\"blue\"]elektropijl[Color name=\"unset\"] gebruikt als het\n"
+"regent, is het effect extra schokkend!\n"
+"Probeer het maar eens!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"2\"]Kun je dat alsjeblieft eerst uittrekken\n"
+"voor je het probeert te verkopen?"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[04:03]Je wilt er maar eentje kwijt? Nou, dan\n"
+"geef ik je er [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor. Oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_50"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"6\"][Color name=\"unset\"]Dat is dan [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"], oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[04:03]Je wilt ze allemaal? Het zijn er [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"], dus\n"
+"dat kost je bij elkaar [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_51"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"6\"][Color name=\"unset\"]Hoeveel wil je er?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[04:03]Hoeveel wil je er kwijt, [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"]? Ik koop ze\n"
+"allemaal van je voor [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_52"
+msgstr "[Color name=\"blue\"][04:03][Color name=\"unset\"]Voor [02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] daarvan wil ik [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_53"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]O, ben je van gedachten veranderd? Oké."
+
+msgid "Com_Talk_54"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Je hebt niet genoeg rupees..."
+
+msgid "Npc_kokiri003_Sell010"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Bedankt!"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Je hebt al veel te veel spullen bij je. Dit\n"
+"past er niet meer bij!"
+
+msgid "5500"
+msgstr "Ja."
+
+msgid "Com_Talk_56"
+msgstr ""
+"[04:03]Alleen die ene maar? Dat kost je\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Nee."
+
+msgid "5502"
+msgstr "Kopen."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGoAwAAAAAAADMAAAAEAAAA1AAAAPAAAAAMAQAAKAEAAEQBAABGAQAASAEAAEoBAABmAQAAggEAAJ4BAAC6AQAA1gEAAPIBAAAOAgAAKgIAAEYCAABiAgAAfgIAAJoCAAC2AgAAuAIAALoCAAC8AgAAvgIAAMACAADgAgAAAAMAACADAABAAwAAYAMAAGIDAABkAwAAZgMAAGgDAABqAwAAbAMAAG4DAABwAwAAkAMAAJIDAACUAwAAlgMAAJgDAACaAwAAnAMAAJ4DAACgAwAAogMAAKQDAACmAwAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAAAAAAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

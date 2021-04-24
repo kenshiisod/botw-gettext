@@ -1,0 +1,390 @@
+#, ruby
+msgid "0010"
+msgstr "ゾーラ式で！"
+
+#, ruby
+msgid "talk_sellWeaponShield00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ その盾…"
+
+#, ruby
+msgid "0011"
+msgstr "他のやり方で！"
+
+#, ruby
+msgid "talk_sellWeaponShield01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ルビーと交換しない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここから北に行くと見える城 行ったことある？\n"
+"100年前に滅んだと言われる ハイラル城……\n"
+"あそこ 昔の武器とか結構お宝が手に入るから\n"
+"たまに それを頂戴しに行ってたのよ\n"
+"なかでも [Color name=\"red\"]近衛シリーズ[Color name=\"unset\"]って呼ばれる\n"
+"すんごい武器があるらしくて\n"
+"武器コレクターの間では有名でね\n"
+"私も一度見てみたいんだけどさ…[PauseMid]\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"]最近 妙な霧が出てきてから\n"
+"魔物も機械のバケモノも活発になって……[PauseShort]\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]もう忍び込むのは危険すぎるわ\n"
+"あなたも 命が惜しかったら近づかないことね"
+
+#, ruby
+msgid "0012"
+msgstr "ゲルド式で！"
+
+#, ruby
+msgid "talk_hintGoron"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ゴロン式ね\n"
+"根性と頑丈さに自信があるならこれね\n"
+"行き方は単純明快！\n"
+"城の正門から真っ直ぐ正面突破よ\n"
+"とにかく体力やスタミナを回復する食べ物を\n"
+"たくさん持っていくのがコツね"
+
+#, ruby
+msgid "talk_sellWeaponShield02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サファイアと交換しない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ハイラル城…… きっと まだ沢山\n"
+"知らないお宝が眠ってるんでしょうね"
+
+#, ruby
+msgid "0013"
+msgstr "シーカー式で！"
+
+#, ruby
+msgid "talk_sellWeaponShield03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]トパーズと交換しない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0014"
+msgstr "自分のやり方で！"
+
+#, ruby
+msgid "talk_hintShiekah"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]シーカー式ね\n"
+"私はこの方法で侵入してるの\n"
+"遠くからじっくり観察して\n"
+"敵が少ない裏口から忍び込むっていう手ね[Sound2 id=\"7\"]\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]私が発見した入口 教えてあげる\n"
+"一つ目は東坑道！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]まずはお城の東のフェンサ橋を渡って\n"
+"お城を左手に眺めながら丘を登っていくの\n"
+"よく見るとお城の中腹に坑道の入口が見えるわ\n"
+"夜だと夜光石が光ってて分かりやすいかな[Sound2 id=\"7\"]\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]二つ目は北の船着き場！\n"
+"お城の西の島にある桟橋から\n"
+"筏でぐるっと北側に回り込んだらたどり着くわ\n"
+"私が知っているのはこれだけよ"
+
+#, ruby
+msgid "talk_sellWeaponShield04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ダイヤモンドと交換しない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_hintRito"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]リト式ね\n"
+"空を滑空できる手段があるならこれね\n"
+"まずはこの平原を東か西に出て\n"
+"お城の北の山にぐるっと回り込むの\n"
+"そこからお城に向かって飛べば\n"
+"堀を越えて着陸できそうよ"
+
+#, ruby
+msgid "talk_showWeaponBow"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]ちょ ちょっと！\n"
+"あなたが持ってるその弓 見せてくれる？！"
+
+#, ruby
+msgid "talk_showWeaponShield"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]ちょ ちょっと！\n"
+"あなたが持ってるその盾 見せてくれる？！"
+
+#, ruby
+msgid "talk_sellPorchFull"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]これ以上は持てないようね\n"
+"ポーチを整理したら また来て"
+
+#, ruby
+msgid "0000"
+msgstr "近衛の剣を交換する"
+
+#, ruby
+msgid "talk_showWeaponSword"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]ちょ ちょっと！\n"
+"あなたが持ってるその剣 見せてくれる？！"
+
+#, ruby
+msgid "talk_showWeaponLSword"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]ちょ ちょっと！\n"
+"あなたが持ってるその大剣 見せてくれる？！"
+
+#, ruby
+msgid "0001"
+msgstr "近衛の両手剣を交換する"
+
+#, ruby
+msgid "talk_sleep00"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]何よ！ 宿屋で寝てる女を起こすなんて\n"
+"何 考えてるの？！ 少しは遠慮してよね！"
+
+#, ruby
+msgid "talk_hintSelf"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふぅん…\n"
+"そんなに自信があるなら\n"
+"ガーディアンをバッタバッタとなぎ倒しながら\n"
+"進んでいく勇者式っていうのはどう？[PauseMid]\n"
+"[Sound2 id=\"8\"]…冗談よ\n"
+"[Sound1 unk1=\"2\" unk2=\"1\"]絶対にそんな無謀なことしないでね"
+
+#, ruby
+msgid "0002"
+msgstr "近衛の槍を交換する"
+
+#, ruby
+msgid "talk_sellWeaponSpear00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ その槍…"
+
+#, ruby
+msgid "talk_sleep01"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]だからぁ もう寝たいんだってば！\n"
+"あっちいっててよ！"
+
+#, ruby
+msgid "0003"
+msgstr "近衛の弓を交換する"
+
+#, ruby
+msgid "talk_sellWeaponSword00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ その剣…"
+
+#, ruby
+msgid "talk_sellWeaponSpear01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ルビーと交換しない？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sleep02"
+msgstr ""
+"何よ！ 宿屋で寝てる女を起こすなんて……\n"
+"[Sound1 unk1=\"10\" unk2=\"21\"]しかも裸？！\n"
+"[Sound1 unk1=\"8\" unk2=\"14\"]この変態！ 近寄らないでよね！！"
+
+#, ruby
+msgid "talk_hintZora"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ゾーラ式ね\n"
+"滝登りできる手段があるならこれね\n"
+"お城の周りって堀で囲まれてて\n"
+"泳いで渡るには厳しいけど\n"
+"何か所か枯れてない滝があるから\n"
+"そこからいっきに滝登りで上に行けそうね"
+
+#, ruby
+msgid "0004"
+msgstr "近衛の盾を交換する"
+
+#, ruby
+msgid "talk_sellWeaponSword01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ルビーと交換しない？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponSpear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サファイアと交換しない？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sleep03"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]裸で夜中に話しかけないでよね\n"
+"この変態！！"
+
+#, ruby
+msgid "talk_hintSelect00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]各種族の得意分野で挑むのはどうかしら？"
+
+#, ruby
+msgid "0005"
+msgstr "交換しない"
+
+#, ruby
+msgid "talk_sellWeaponSword02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サファイアと交換しない？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponSpear03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]トパーズと交換しない？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0006"
+msgstr "聞きたい"
+
+#, ruby
+msgid "talk_hintSelect01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それ以外だと…"
+
+#, ruby
+msgid "talk_sellWeaponSword03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]トパーズと交換しない？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponSpear04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ダイヤモンドと交換しない？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0007"
+msgstr "いや 大丈夫"
+
+#, ruby
+msgid "talk_hintSelect02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他のも聞く？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponSword04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ダイヤモンドと交換しない？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_hintSelect03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ゴロン？ リト？ ゾーラ？ それとも…？[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" selectednum=\"0\" cancelnum=\"4\"]"
+
+#, ruby
+msgid "0008"
+msgstr "ゴロン式で！"
+
+#, ruby
+msgid "0009"
+msgstr "リト式で！"
+
+msgid "talk_hintSelect04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ゲルド？ シーカー？ それとも…？[Choice3 label1=\"12\" label2=\"13\" label3=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk_sellWeaponLSword00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ その大剣…"
+
+#, ruby
+msgid "talk_sellWeaponLSword01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ルビーと交換しない？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponLSword02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サファイアと交換しない？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellDone"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ほんと？！\n"
+"ありがとう！！"
+
+#, ruby
+msgid "talk_sellDiamond"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]これで 近衛シリーズの武器が全部集まったわ！\n"
+"本当に ありがとう！\n"
+"また近衛シリーズの武器を持ってきてくれたら\n"
+"私のルビーと交換するわ！\n"
+"全種類そろったけど\n"
+"まだまだ 集め足りないのよね！"
+
+#, ruby
+msgid "talk_sellWeaponLSword03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]トパーズと交換しない？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_showWeaponSpear"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]ちょ ちょっと！\n"
+"あなたが持ってるその槍 見せてくれる？！"
+
+#, ruby
+msgid "talk_sellWeaponLSword04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ダイヤモンドと交換しない？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_notSell"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]はぁ… 仕方ないわね…\n"
+"残念だけど諦めるわ…"
+
+msgid "talk_showWeapon00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"18\"]…これは……[PauseMid]\n"
+"[Pause frames=\"30\"]……すごい…"
+
+#, ruby
+msgid "talk_hintGerudo"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ゲルド式ね\n"
+"勇気とテクニックに自信があるならこれね\n"
+"お城の周辺にはガーディアンっていう\n"
+"機械のバケモノがウロウロしてるけど\n"
+"ビームで狙われてもひるまずに\n"
+"城下町から馬でいっきに駆け抜けるの！[Sound2 id=\"7\"]\n"
+"悪路を走るだけでも難しいけど\n"
+"弓の腕にも自信があるなら\n"
+"ガーディアンの目を狙って\n"
+"動きを止めるっていう手もあるわね"
+
+#, ruby
+msgid "talk_showWeapon01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ありがとう 良いもの見せてもらったわ\n"
+"私もまた探しに行ってみようかな"
+
+#, ruby
+msgid "talk_sellWeaponBow00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ その弓…"
+
+#, ruby
+msgid "talk_hint00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"20\"]えっ？ お城に侵入する気なの？\n"
+"いろんな方法があるけど… 聞いていく？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_showWeapon02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]これはお礼よ"
+
+#, ruby
+msgid "talk_sellWeaponBow01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ルビーと交換しない？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_hint01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]お城に侵入する方法… 聞いていく？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponBow02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サファイアと交換しない？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_hint02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁ 危険だから近づかないことを勧めるわ\n"
+"どうしても行くなら準備をしっかりね"
+
+#, ruby
+msgid "talk_sellWeaponBow03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]トパーズと交換しない？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk_sellWeaponBow04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ダイヤモンドと交換しない？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGECwAAAAAAAEgAAAAEAAAAKAEAAFYBAACEAQAAsgEAAOABAAAOAgAAEAIAABICAABAAgAAbgIAAHACAAByAgAAdAIAAHYCAACkAgAA0gIAANQCAADWAgAA2AIAAAYDAAA0AwAAYgMAAJADAAC+AwAA7AMAABoEAABIBAAAdgQAAKQEAADSBAAAAAUAAC4FAABcBQAAigUAAIwFAACOBQAAkAUAAJIFAACUBQAAlgUAAMQFAADyBQAAIAYAAE4GAAB8BgAAqgYAANgGAAAGBwAANAcAAGIHAACQBwAAvgcAAOwHAAAaCAAASAgAAHYIAACkCAAA0ggAAAAJAAAuCQAAXAkAAIoJAAC4CQAA5gkAABQKAABCCgAAcAoAAJ4KAADMCgAA+goAACgLAABWCwAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAAAAAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

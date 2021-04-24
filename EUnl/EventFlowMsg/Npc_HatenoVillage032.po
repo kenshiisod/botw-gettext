@@ -1,0 +1,721 @@
+msgid "near00"
+msgstr "En hier..."
+
+msgid "0000"
+msgstr "Alsjeblieft..."
+
+msgid "near01"
+msgstr "En, ehm..."
+
+msgid "0001"
+msgstr "Wacht."
+
+msgid "0002"
+msgstr "Tot kijk."
+
+msgid "0003"
+msgstr "Uitrustingstandaard."
+
+msgid "near04"
+msgstr "Zzz... zzz..."
+
+msgid "0004"
+msgstr "Meubels."
+
+msgid "0005"
+msgstr "Buitenkant."
+
+msgid "0006"
+msgstr "Laat maar."
+
+msgid "0010"
+msgstr "Bed."
+
+msgid "0007"
+msgstr "Wapenstandaard."
+
+msgid "0011"
+msgstr "Dat klopt!"
+
+msgid "0008"
+msgstr "Boogstandaard."
+
+msgid "0012"
+msgstr "Verlichting."
+
+msgid "0009"
+msgstr "Schildstandaard."
+
+msgid "0013"
+msgstr "Bloementuin."
+
+msgid "0014"
+msgstr "Boom planten."
+
+msgid "0015"
+msgstr "Deur."
+
+msgid "0016"
+msgstr "Ik kan het betalen."
+
+msgid "0020"
+msgstr "Ik zag het."
+
+msgid "0017"
+msgstr "Maak iets voor me!"
+
+msgid "0021"
+msgstr "Naamplaatje."
+
+msgid "0018"
+msgstr "Wat?"
+
+msgid "0022"
+msgstr "Ik betaal!"
+
+msgid "0019"
+msgstr "Hudson?"
+
+msgid "0023"
+msgstr "Ik kan niet betalen..."
+
+msgid "0024"
+msgstr "Huh?"
+
+msgid "0025"
+msgstr "Dat is goed!"
+
+msgid "0026"
+msgstr "Wat doe je daar?"
+
+msgid "0030"
+msgstr "Ik ben er klaar voor!"
+
+msgid "0027"
+msgstr "Wie ben jij?"
+
+msgid "0031"
+msgstr "Land vrijmaken?"
+
+msgid "0028"
+msgstr "Ik koop het huis!"
+
+msgid "0032"
+msgstr "Ik kan het betalen."
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Oké, het lijkt erop dat we allebei een\n"
+"soort persoonlijke mijlpaal hebben\n"
+"bereikt.\n"
+"Maar die blik in je ogen verraadt me dat\n"
+"je vindt dat we moeten doorgaan."
+
+msgid "0029"
+msgstr "Hmmm..."
+
+msgid "0033"
+msgstr "Dat is onmogelijk..."
+
+msgid "0034"
+msgstr "Laat maar..."
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Haha... Je hoeft niets uit te leggen, hoor.[PauseLong]\n"
+"Je hebt een huis gekocht, maar het is\n"
+"leeg.\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]Tja... [PauseShort]Ik zie het in je ogen.[PauseLong] Je herinnert\n"
+"me aan mezelf toen ik nog jong was.[PageBreak]Weet je wat,[PauseShort] voor [Color name=\"red\"]5000 rupees[Color name=\"unset\"] zorg ik\n"
+"voor de meubels en de buitenkant van\n"
+"het huis.\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]Maar omdat jij het bent, begin ik al voor\n"
+"[Color name=\"red\"]100 rupees[Color name=\"unset\"]. De rest kun je later betalen."
+
+msgid "0035"
+msgstr "Ik kan het betalen."
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo!♪"
+
+msgid "0036"
+msgstr "Is alles in orde?"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Wauw!♪[PauseShort] Wat motiverend![PauseLong]\n"
+"Dus..."
+
+msgid "0037"
+msgstr "Die ketting..."
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Goeiemorgen!♪"
+
+msgid "0038"
+msgstr "Ehm..."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]O, hallo!♪"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Wat kan ik voor je doen?[Choice4Flags label1=\"3\" flag1=\"HatenoNPC032_CompStand\" label2=\"4\" flag2=\"HatenoNPC032_CompInDoor\" label3=\"5\" flag3=\"HatenoNPC032_CompOutDoor\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Goeienavond!♪"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Wat voor een standaard?[Choice4Flags label1=\"7\" flag1=\"HatenoNPC032_WeaponStand3\" label2=\"8\" flag2=\"HatenoNPC032_ArrowStand3\" label3=\"9\" flag3=\"HatenoNPC032_ShieldStand3\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dag!♪"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Welke wil je hebben?[Choice4Flags label1=\"10\" flag1=\"HatenoNPC032_Bed\" label2=\"12\" flag2=\"HatenoNPC032_Light\" label3=\"15\" flag3=\"HatenoNPC032_Door\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Wat moet er gebeuren?[Choice4Flags label1=\"21\" flag1=\"HatenoNPC032_Nameplate\" label2=\"13\" flag2=\"HatenoNPC032_Farm\" label3=\"14\" flag3=\"HatenoNPC032_Tree\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Dat kost [Color name=\"red\"]100 rupees[Color name=\"unset\"], oké?[PauseLong] Kun je\n"
+"dat betalen?[Choice2 label1=\"16\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Graag vooraf betalen.♪"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Wacht eens even!.[PauseLong] Je hebt helemaal geen\n"
+"[Color name=\"red\"]100 rupees[Color name=\"unset\"]. Kom maar terug zodra je\n"
+"genoeg geld hebt."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ik kan helemaal niks meer vasthouden...[PauseShort]\n"
+"Het is tijd voor een pauze..."
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Prima.♪"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Nu ik er over nadenk...[PauseShort] We hebben nog\n"
+"niets van Hudson gehoord."
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Kan ik iets voor je doen?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Moeilijk te geloven dat iemand zou\n"
+"kunnen verdwalen op weg naar het\n"
+"[Color name=\"blue\"]Akkala-meer[Color name=\"unset\"]..."
+
+msgid "talk19"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"22\"]Je bent geweldig![PageBreak][Size percent=\"100\"]Ik kan het haast niet geloven. Je hebt\n"
+"alles gekocht...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Die jeugd van tegenwoordig ook...[PageBreak]Omdat je alles hebt gekocht, zal ik je\n"
+"een paar [Color name=\"blue\"]meubels[Color name=\"unset\"] geven!"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als alles goed met hem gaat bij het\n"
+"[Color name=\"blue\"]Akkala-meer[Color name=\"unset\"], dan vind ik het best, maar\n"
+"als dat niet zo is..."
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Kan ik iets voor je doen?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]O, met mij gaat het goed. [PauseLong]Maar er is één\n"
+"ding...[PageBreak]Ik heb besloten om te stoppen met mijn\n"
+"werk als klusjesman, directeur en\n"
+"ontwerper.\n"
+"Ik ga op reis om een vrouw te vinden![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]En jij? [PauseShort]Jij hebt vast iets beters te doen,\n"
+"nietwaar? Dan kun je daar maar beter\n"
+"mee beginnen.[PauseLong] De tijd staat niet stil."
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Vind je het mooi? Het is een erfstuk dat\n"
+"al generaties lang in de Bolson-familie\n"
+"is. Het is een ketting die geluk brengt. \n"
+"[Sound1 unk1=\"0\" unk2=\"35\"]Heb je aan het einde van de bruiloft van\n"
+"Hudson die vallende bloembladen\n"
+"gezien?[Choice1 label=\"20\"]\n"
+"Haha, gelukkig maar...[PauseLong] Die bloembladen\n"
+"kunnen namelijk niet door iedereen\n"
+"worden gezien...[PageBreak]De eeuwig vallende bloembladen staan\n"
+"voor eeuwige liefde.[PauseLong] Klinkt mooi, toch?"
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Goed... [PauseShort]Dan kunnen we aan de slag!"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik heb Hudson gevraagd om wat land\n"
+"vrij te maken in [Color name=\"blue\"]Akkala[Color name=\"unset\"].[Choice1 label=\"31\"]"
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]Ik ga meteen aan het werk."
+
+msgid "talk28"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Ik zal je laten zien dat ik het meen."
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Hudson...[PauseShort] Zou het goed met hem gaan in\n"
+"[Color name=\"blue\"]Akkala[Color name=\"unset\"]?[PageBreak]Het is er best leuk.[PauseShort] Maar misschien was\n"
+"die vracht wat te zwaar om te dragen,\n"
+"zelfs voor hem..."
+
+msgid "talk100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je... [PauseShort]Je kunt ook maar beter geen tijd\n"
+"verspillen.[PageBreak]De jeugd. [PauseShort]Het is als het schuim op een\n"
+"golf. Weg voordat je het weet.[PageBreak]Als je begrijpt wat ik bedoel, snap je dat\n"
+"het tijd is voor actie. Ik denk dat je wel\n"
+"weet wat je nog moet doen."
+
+msgid "talk29"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]Wacht even. [PauseShort]Ik ben nog niet zover."
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ja... [PauseShort]Het is tijd dat we de zaak uitbreiden\n"
+"naar [Color name=\"blue\"]Akkala[Color name=\"unset\"].[PageBreak]Als je daar meer over wilt weten, moet je\n"
+"het aan de baas vragen."
+
+msgid "talk101"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wil je me nog iets anders vragen?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ja, ik weet het. [PauseLong]De bruiloft van Hudson,\n"
+"toch?"
+
+msgid "talk102"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Heb je nog iets anders nodig?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TerrorArrow"
+msgstr "Dat is gevaarlijk!"
+
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ja... [PauseShort]De zaak moet uitbreiden, dus ik\n"
+"denk dat ik hem binnenkort eropuit stuur.[PageBreak]Als je nog met Hudson wilt praten\n"
+"voordat hij vertrekt, zou ik daar niet te\n"
+"lang mee wachten."
+
+msgid "talk103"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Goed.[PauseLong] Dus ik hoef alleen maar naar\n"
+"[Color name=\"blue\"]Tarrey [Color name=\"unset\"]te gaan?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk36"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sorry, maar we wilden net naar bed gaan."
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Bedankt voor de opdracht.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Om zo jong al zo veel geld aan iets uit te\n"
+"geven.[PauseShort] Dat is zo...[PauseShort] indrukwekkend![PageBreak]Je krijgt van mij ook de [Color name=\"blue\"]wapenstandaard[Color name=\"unset\"]\n"
+"die niemand wilde kopen, [PauseShort]dus hopelijk\n"
+"heb je er wat aan.\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]En wat was ook alweer mijn volgende\n"
+"opdracht...[PageBreak]O ja, nu weet ik het weer.[PauseShort] Ik ging Hudson\n"
+"vragen om wat land vrij te maken in\n"
+"[Color name=\"blue\"]Akkala[Color name=\"unset\"]. [Color name=\"red\"]Dat was het[Color name=\"unset\"]!"
+
+msgid "talk104"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Oké... [PauseShort]Als je denkt dat ik naar de\n"
+"ceremonie moet gaan,[PauseLong] kom dan nog maar\n"
+"eens met me praten."
+
+msgid "talk37"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Snrrk... [PauseShort]Pffff... [PauseShort][Size percent=\"80\"]Sonsonsonson...[Size percent=\"100\"]"
+
+msgid "talk41"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Hudson! [PauseShort]Karson! [PauseShort]Stop!"
+
+msgid "talk105"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Die [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]...[PauseShort] Is die niet van het\n"
+"[Color name=\"blue\"]hoofd [Color name=\"unset\"]van het [Color name=\"blue\"]Hateno-instituut[Color name=\"unset\"]?"
+
+msgid "talk38"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Snrrk... [PauseShort]Zzzz... [PauseShort][Size percent=\"80\"]njamjam...[Size percent=\"100\"]"
+
+msgid "talk42"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Begrepen!"
+
+msgid "talk106"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Die [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]...[PauseShort] Is die niet van Purah,\n"
+"die oude dame uit het [Color name=\"blue\"]Hateno-instituut[Color name=\"unset\"]?"
+
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Wat een prachtig huis![PauseShort] Er valt echt niets\n"
+"aan te verbeteren."
+
+msgid "talk43"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Heeft het haast?[PauseLong] Of kan het ook\n"
+"wachten?[PauseShort] Tot ik even lekker kan zitten,\n"
+"bijvoorbeeld?"
+
+msgid "talk107"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Breng hem maar snel terug, voordat ze\n"
+"hem mist."
+
+msgid "talk111"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tja..."
+
+msgid "talk44"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]We waren aan het wachten!"
+
+msgid "talk108"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Dat lijkt wel de [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"] waarmee het\n"
+"[Color name=\"blue\"]hoofd[Color name=\"unset\"] van het [Color name=\"blue\"]Hateno-instituut[Color name=\"unset\"] rondliep."
+
+msgid "talk112"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tja. [PauseShort]Volgens mij gaat het zo regenen..."
+
+msgid "talk45"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Met plezier!"
+
+msgid "talk109"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Dat lijkt wel de [Color name=\"blue\"]blauwe vlam [Color name=\"unset\"]waarmee\n"
+"die [Color name=\"blue\"]oude dame[Color name=\"unset\"], Purah, van het\n"
+"[Color name=\"blue\"]Hateno-instituut [Color name=\"unset\"]rondliep."
+
+msgid "talk113"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je niets anders te doen hebt, kun je\n"
+"wel proberen om deze dans populair te\n"
+"maken. Let op, hier komt-ie dan!"
+
+msgid "talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"]Karson! [PauseLong]Kun je proberen om eerst op mij\n"
+"een goede indruk te maken, en dan pas\n"
+"op de klant?"
+
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]Ik?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Ik ben de charismatische leider, architect\n"
+"en directeur van bouwbedrijf Bolson. Ik\n"
+"heet Bolson.♪"
+
+msgid "talk114"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Een motto van bouwbedrijf Bolson:[PauseLong] sla\n"
+"altijd spijkers..."
+
+msgid "talk47"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"]Karson, jij krachtpatser![PauseLong] Gebruik die\n"
+"spieren van je!"
+
+msgid "talk51"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"17\"]Wat is er mis met die jongen...[PauseLong] Hij wil zomaar even\n"
+"een huis kopen![Size percent=\"100\"]"
+
+msgid "talk115"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]...met gevoel!"
+
+msgid "talk48"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Karson! [PauseLong]Laat ons je kracht zien!"
+
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Oké, prima...[PauseLong] Het zit zo. Zie je dat huis?[PauseShort]\n"
+"Het is al jaren onbewoond.[PageBreak]Daarom hebben de dorpelingen tijdens\n"
+"een vergadering besloten om het te laten\n"
+"afbreken.\n"
+"Inclusief administratiekosten kost het\n"
+"[Color name=\"red\"]50.000 rupees[Color name=\"unset\"] om het huis te laten\n"
+"afbreken.\n"
+"[Sound1 unk1=\"5\" unk2=\"6\"]Dus als je het huis wilt kopen, kost je dat\n"
+"[Color name=\"red\"]50.000 rupees[Color name=\"unset\"]...[PauseShort] Heb je dat wel?[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk116"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Een motto van bouwbedrijf Bolson:[PauseLong] het\n"
+"ritme van de hamer...♪"
+
+msgid "talk120"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Een motto van bouwbedrijf Bolson:[PauseLong] onze\n"
+"passie voor kleuren..."
+
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Zoals je ziet,[PauseShort] breek ik een huis af. Het\n"
+"wordt niet gebruikt en in deze tijden is\n"
+"het niet makkelijk een koper te vinden.\n"
+"Daarom hebben de dorpelingen besloten\n"
+"om het te laten slopen.[Choice2 label1=\"28\" label2=\"29\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk53"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Kan ik je ergens mee helpen?[Choice3 label1=\"26\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk117"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]...moet altijd vrolijk zijn!"
+
+msgid "talk121"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]...komt altijd goed uit de verf!"
+
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]De rest van de planning laat ik aan\n"
+"Hudson over...[PauseLong] Ik kan wel een pauze\n"
+"gebruiken."
+
+msgid "talk118"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Een motto van bouwbedrijf Bolson:[PauseLong] wat\n"
+"een kleine zaag kan..."
+
+msgid "talk122"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Het is een geweldige prestatie, al zeg ik\n"
+"het zelf.[PauseLong] Ga eens een kijkje nemen."
+
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Huh...? [PauseLong]Ken je deze dans niet?[PauseLong] Hij is\n"
+"nochtans immens populair bij de jeugd\n"
+"van tegenwoordig?\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]Maar...[PauseLong] als je niets nodig hebt,[PauseShort] wil je me\n"
+"dan niet zo in de weg lopen?"
+
+msgid "talk119"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]...kan een grote nog veel beter!"
+
+msgid "talk123"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Het is nagenoeg perfect, al zeg ik het\n"
+"zelfs...[PauseLong] Ik zou er wel eentje willen."
+
+msgid "talk56"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Heb je de [Color name=\"red\"]3000 rupees[Color name=\"unset\"]?[Choice3 label1=\"30\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk60"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Karson! [PauseLong]We kunnen!"
+
+msgid "talk124"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Het schiet al aardig op.[PauseLong] Ga eens een\n"
+"kijkje nemen, als je de kans hebt."
+
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Echt waar?![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Je geeft me echt [Color name=\"red\"]3000 rupees[Color name=\"unset\"]?[PauseLong] Je houdt\n"
+"je dus aan je belofte?[Choice2 label1=\"35\" label2=\"34\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk61"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Oké...[PauseLong] Als je van gedachten verandert,\n"
+"dan weet je ons wel te vinden."
+
+msgid "talk125"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]Een nieuwe keuken, badkamer of salon...[PauseShort]\n"
+"Geen klus is te gek voor bouwbedrijf\n"
+"Bolson!♪"
+
+msgid "talk58"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Ongelofelijk!♪[PauseLong] Dat is echt geweldig!"
+
+msgid "talk62"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ik koop het graag van je over, hoor.♪"
+
+msgid "talk126"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]Wij weten alles van hout, stenen en\n"
+"beton...[PauseShort] Je huis is in goede handen bij\n"
+"bouwbedrijf Bolson!♪"
+
+msgid "talk63"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"15\"]O, maar je hebt niet zo veel geld.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Verdien eerst maar eens een kapitaal of\n"
+"twee[PauseShort] en kom dan maar weer terug."
+
+msgid "talk127"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]Wij gaan voor perfectie, van vloer tot\n"
+"plafond...[PauseShort] Je kunt altijd bouwen op\n"
+"bouwbedrijf Bolson!♪"
+
+msgid "talk64"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Pft...[PauseLong] Een jongmens als jij heeft daar vast\n"
+"geen verstand van."
+
+msgid "talk128"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]Karson! [PauseLong]Kom op![Size percent=\"100\"]"
+
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Goh![PauseShort] Wie had dat gedacht![PageBreak][Sound1 unk1=\"6\" unk2=\"0\"]Wat een vooruitziende blik![PageBreak]Haha... [PauseShort]Je herinnert me aan mezelf toen\n"
+"ik nog jong was."
+
+msgid "talk66"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Haha... Dat dacht ik al.[PauseLong] Toen ik zo oud\n"
+"was als jij,[PauseShort] kon ik ook niet met geld\n"
+"omgaan. Dus ik weet hoe het voelt..."
+
+msgid "talk70"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dat kun je maar beter onthouden."
+
+msgid "talk67"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]...[PageBreak]... ...[PageBreak][Sound1 unk1=\"11\" unk2=\"9\"]Oké, oké![PauseLong] Het is al goed.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Ik heb een mooie deal voor je![PauseShort] Alleen\n"
+"voor jou...[PauseLong] doe ik het voor slechts\n"
+"[Color name=\"red\"]3000 rupees![Color name=\"unset\"]\n"
+"[Sound1 unk1=\"8\" unk2=\"15\"][Size percent=\"125\"]Maar...[Size percent=\"100\"][PageBreak][Size percent=\"125\"][Sound1 unk1=\"6\" unk2=\"1\"][Size percent=\"100\"]Dan moet je me wel eerst [Color name=\"red\"]30[Color name=\"unset\"] stukken\n"
+"[Color name=\"red\"]brandhout[Color name=\"unset\"] brengen.[PauseShort] Daarmee kan ik een\n"
+"aantal andere kosten dekken...\n"
+"Dus als ik jou was, zou ik maar aan de\n"
+"slag gaan!"
+
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Goed werk, al zeg ik het zelf.[PauseShort] Kijk maar\n"
+"eens."
+
+msgid "talk68"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Wacht eens even...[PauseShort] Ik zie geen [Color name=\"red\"]30[Color name=\"unset\"]\n"
+"stukken [Color name=\"red\"]brandhout[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Kijk, ik ben je al een flink eind tegemoet\n"
+"gekomen,[PauseShort] dus mag jij ook wel een beetje\n"
+"je best doen, oké?"
+
+msgid "talk72"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]Heb je de [Color name=\"red\"]30[Color name=\"unset\"] stukken [Color name=\"red\"]brandhout[Color name=\"unset\"]?[Choice3 label1=\"22\" label2=\"27\" label3=\"23\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "TerrorSword"
+msgstr "Doe dat ding weg!"
+
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]Wat is dat nou weer voor een gewauwel![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Je bent nog jong![PauseShort] En voor niets gaat de\n"
+"zon op!"
+
+msgid "talk74"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Goed zo.♪[PauseLong] Dan neem ik dat van je over."
+
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"10\"]Meer hoefde ik niet te zien...[PauseShort]Alleen dat\n"
+"je het meent.[PageBreak]Dan mag je nu, zoals beloofd, dit huis\n"
+"kopen voor [Color name=\"red\"]3000 rupees[Color name=\"unset\"].[PageBreak]Kom terug zodra je het bedrag bij elkaar\n"
+"hebt gespaard."
+
+msgid "talk76"
+msgstr ""
+"[Sound2 id=\"37\"]Bol-son [PauseShort]\n"
+"SON-SON-SON[PauseShort]\n"
+"Bol-son!♪"
+
+msgid "talk80"
+msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Wat?"
+
+msgid "talk77"
+msgstr "[Sound2 id=\"38\"][Size percent=\"80\"]HOE-[Size percent=\"100\"]HAH! [Size percent=\"80\"]HOE-[Size percent=\"100\"]HAH!"
+
+msgid "talk81"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hudson wil in [Color name=\"blue\"]Tarrey[Color name=\"unset\"] trouwen.[PauseShort] Maar heb\n"
+"ik dat niet van jou gehoord? Zal ik gaan?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk78"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Wat?![Size percent=\"100\"]"
+
+msgid "talk82"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sorry, maar ik ga slapen. [PauseShort]Tot kijk."
+
+msgid "talk79"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Wat?[PauseLong] Maar dit was toch jouw idee?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Maar als je wilt dat ik wacht, dan wacht\n"
+"ik wel."
+
+msgid "talk83"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Dan kan ik maar beter mijn spullen\n"
+"pakken en naar Hudson gaan.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk84"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"0\"]Hudson gaat trouwen?![PageBreak][Size percent=\"100\"]En hij wil dat ik bij de ceremonie ben?\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Wat een leuk nieuws!"
+
+msgid "talk85"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Hehe... [PauseShort]Dat wordt leuk."
+
+msgid "talk86"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"3\"]Karson, we gaan![Size percent=\"100\"]"
+
+msgid "talk90"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Goed,[PauseShort] ik ga er wel heen.[PauseLong] Hier valt nu\n"
+"toch weinig te doen..."
+
+msgid "talk87"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Hierop hebben we gewacht!"
+
+msgid "talk91"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dat was een mooie ceremonie.[Choice1 label=\"11\"]"
+
+msgid "talk88"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Hé!"
+
+msgid "talk92"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik ken Hudson al erg lang,[PauseShort] maar ik heb\n"
+"hem nog nooit zo gelukkig gezien."
+
+msgid "talk89"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Begrepen!"
+
+msgid "talk93"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Maar... [PauseShort]het is tijd om weer aan het werk\n"
+"te gaan. Laat gerust weten,[PauseShort] als ik iets\n"
+"voor je kan doen."
+
+msgid "talk94"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ben je op zoek naar Hudson?[PauseShort] Ik geloof\n"
+"dat hij in [Color name=\"blue\"]Tarrey [Color name=\"unset\"]is, samen met zijn\n"
+"Rhondson. [PageBreak]Ach, die twee zijn zo verliefd... [PauseLong]Het is\n"
+"hartverwarmend..."
+
+msgid "talk96"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ik heb besloten...[Choice1 label=\"18\"]"
+
+msgid "talk97"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dat ik...[PauseShort] ga stoppen met werken.[Choice1 label=\"24\"]"
+
+msgid "talk98"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik ga stoppen met werken en ga op reis\n"
+"om een vrouw te vinden.[Choice1 label=\"25\"]"
+
+msgid "TerrorBomb"
+msgstr "Wat is dat?!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "YQAAAAE6FgAAAAAAAKcAAAAEAAAApAIAAM4CAAD4AgAAIgMAACQDAAAmAwAAKAMAACoDAAAsAwAALgMAADADAAAyAwAANAMAADYDAAA4AwAAOgMAADwDAAA+AwAAQAMAAEIDAABEAwAARgMAAEgDAABKAwAATAMAAE4DAABQAwAAUgMAAFQDAABWAwAAWAMAAFoDAABcAwAAXgMAAGADAABiAwAAZAMAAGYDAABoAwAAagMAAGwDAABuAwAAcAMAAHIDAAB0AwAAdgMAAKADAADKAwAA9AMAAB4EAABIBAAAcgQAAJwEAADGBAAA8AQAABoFAABEBQAAbgUAAJgFAADCBQAA7AUAABYGAABABgAAagYAAJQGAAC+BgAA6AYAABIHAAA8BwAAZgcAAJAHAAC6BwAA5AcAAA4IAAA4CAAAYggAAIwIAAC2CAAA4AgAAAoJAAA0CQAAXgkAAIgJAACyCQAA3AkAAAYKAAAwCgAAWgoAAIQKAACuCgAAsAoAALIKAAC0CgAA3goAAAgLAAAyCwAAXAsAAIYLAACwCwAA2gsAAAQMAAAuDAAAWAwAAFoMAACEDAAArgwAANgMAAACDQAALA0AAFYNAACADQAAqg0AANQNAAD+DQAAKA4AAFIOAAB8DgAApg4AANAOAAD6DgAAJA8AAE4PAAB4DwAAog8AAMwPAAD2DwAAIBAAAEoQAAB0EAAAnhAAAMgQAADyEAAAHBEAAEYRAABwEQAAmhEAAMQRAADuEQAAGBIAAEISAABsEgAAlhIAAMASAADqEgAAFBMAAD4TAABoEwAAkhMAALwTAADmEwAAEBQAADoUAABkFAAAZhQAAJAUAACSFAAAvBQAAL4UAADoFAAA6hQAABQVAAA+FQAAaBUAAJIVAAC8FQAA5hUAABAWAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

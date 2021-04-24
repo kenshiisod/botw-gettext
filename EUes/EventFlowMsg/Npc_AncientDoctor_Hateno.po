@@ -1,0 +1,95 @@
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Buen día![PauseLong] La mañana pinta bien hoy."
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Buenas tardes![PauseLong]\n"
+"La verdad es que son bastante buenas."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Buenas noches.[PauseLong] ¡Y tan buenas!"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No creo que sea muy prudente intentar\n"
+"que los [Color name=\"blue\"]guardianes[Color name=\"unset\"] se alíen con\n"
+"nosotros ahora mismo.\n"
+"Sería demasiado complicado.[PageBreak]Así que, como plan alternativo, puedo\n"
+"ofrecerte equipación ancestral a cambio\n"
+"de piezas de [Color name=\"blue\"]guardianes[Color name=\"unset\"]."
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Qué tal?[PauseShort] ¿Cómo va eso?"
+
+msgid "TerrorArrow"
+msgstr "¡Habrase visto!"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Cuéntame...[PauseShort] ¿Necesitabas algo?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Buenas tardes![PauseLong]\n"
+"¿O aún es por la mañana?"
+
+msgid "0000"
+msgstr "¿Quién eres?"
+
+msgid "0001"
+msgstr "¿Guardianes?"
+
+msgid "0002"
+msgstr "¿Caramelito?"
+
+msgid "0003"
+msgstr "Adiós"
+
+msgid "TerrorBomb"
+msgstr "¡[C9:00 bytes=\"02030301\"]Bombas remotas!"
+
+msgid "TerrorExplosion"
+msgstr "¡Cielos!"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]Los [Color name=\"blue\"]guardianes[Color name=\"unset\"] son armas autónomas\n"
+"que se diseñaron para hacer frente\n"
+"al cataclismo.\n"
+"Fueron obra de nuestros antepasados\n"
+"sheikah, ni más ni menos.[PageBreak]Durante muchos años se almacenaron\n"
+"bajo el [Color name=\"blue\"]castillo de Hyrule[Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]Pero hace cien años, cuando tuvo lugar\n"
+"el gran cataclismo, nos los arrebataron\n"
+"sin ningún tipo de miramientos.\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]Ahora me centro en investigar formas\n"
+"de recuperar a los [Color name=\"blue\"]guardianes[Color name=\"unset\"] para\n"
+"usarlos a nuestro favor."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes alguna preguntita más?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Al quedar marcado con tales cicatrices,[PauseShort]\n"
+"también se sufren otro tipo de heridas\n"
+"que no se ven a simple vista."
+
+msgid "NakedPlayer"
+msgstr "Qué curioso..."
+
+msgid "TerrorSword"
+msgstr "¡Pero bueno!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"][Color name=\"blue\"]Caramelito[Color name=\"unset\"] ya vuelve a funcionar.\n"
+"Ahora solo queda que pongas\n"
+"fin al [Color name=\"red\"]cataclismo[Color name=\"unset\"].[PageBreak]¡Es decir, lo más fácil!"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hasta lueguito."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAHGAgAAAAAAABUAAAAEAAAAXAAAAF4AAABgAAAAYgAAAGQAAABmAAAAaAAAAGoAAABsAAAAbgAAAKAAAADSAAAABAEAADYBAABoAQAAmgEAAMwBAAD+AQAAMAIAAGICAACUAgAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

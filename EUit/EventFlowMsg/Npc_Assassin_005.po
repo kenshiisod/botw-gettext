@@ -1,0 +1,145 @@
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Prego, amico, da questa parte!\n"
+"Hai visto queste banane? Sono\n"
+"dorate come il sole!\n"
+"Sbucciane una e vedrai il colore della\n"
+"neve. E se la assaggi... Oh, un sogno!\n"
+"Irresistibili, vero? Ne vuoi qualcuna?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"1\"]Compra, compra!"
+
+msgid "5507"
+msgstr "Compro tutto."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Ahi, ahi, amico, non ci siamo proprio...\n"
+"Guarda cos'hai fatto! Hai ferito i\n"
+"sentimenti delle mie banane!\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Facciamo così: io provo a vendertele\n"
+"di nuovo e tu stavolta le compri.\n"
+"Mi sembra un buon compromesso, no?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Spero che cambierai idea e tornerai\n"
+"a trovarmi.[PauseMid] Tsk, sei scivolato sulla\n"
+"classica buccia di banana..."
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"7\"]Ehi, che ti hanno fatto di male\n"
+"le banane?"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Oh, guarda chi si rivede! Alla fine\n"
+"sei tornato davvero, amico!\n"
+"\n"
+"Ammira la perfezione di queste banane.\n"
+"E questa volta compra![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_10"
+msgstr "Compra queste fantastiche banane![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Bananeee, banane buonissimeee!"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"22\"]Sono così orgoglioso delle mie banane!"
+
+msgid "0000"
+msgstr "Sì, compro!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Oh, grazie, grazie, grazie!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Solo una? Va bene, paghi [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] [SPSwitch singular=\"rupia\" plural=\"rupie\"][Color name=\"unset\"].\n"
+"Compra, compra![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "No, grazie."
+
+msgid "Com_Talk_11c"
+msgstr ""
+"[Sound2 id=\"7\"]Hai fatto sorridere anche le banane,\n"
+"amico mio!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Ehi, amico! Così non ci siamo!"
+
+msgid "Com_Talk_06"
+msgstr ""
+"Bananeee! Dolcissime bananeee!\n"
+"Assaggiare per credere!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"7\"]Le ho finite tutte. Grazie, amico!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] banane, per un totale di [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"]\n"
+"[SPSwitch singular=\"rupia\" plural=\"rupie\"][Color name=\"unset\"]. Compra, compra![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]Mi sembri a corto di rupie, amico.\n"
+"E queste banane non sono mica\n"
+"per beneficienza!"
+
+msgid "Com_Talk_31"
+msgstr "Prendi tutte quelle che vuoi.[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"4\"]Pare che la tua borsa sia piena.\n"
+"E le banane hanno bisogno di spazio,\n"
+"sai?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Tutte le banane?! Ma grazie mille!\n"
+"[02:0F name=\"Shop_TradeItemNum\" stub=\"0\"] banane ti costeranno [Color name=\"red\"][02:12 name=\"ShopTradePrice\" stub=\"0\"] rupie[Color name=\"unset\"].\n"
+"Ah, questa sì che è una vendita![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "Sì."
+
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Farò di te una macedonia![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"21\"]Tu hai proprio un debole per le banane,\n"
+"dico bene?"
+
+msgid "5501"
+msgstr "No."
+
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Per le ban... ehm, per il maestro![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"7\"]Bene, bene...[PauseMid] Grazie a te, amico, oggi\n"
+"non ho più neanche una banana.\n"
+"\n"
+"Vuoi dare un'occhiata al prossimo\n"
+"orario di consegna delle banane\n"
+"prima di andare?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "Sì, compro!"
+
+msgid "5503"
+msgstr "No, grazie."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAHCAQAAAAAAAB8AAAAEAAAAhAAAAKYAAACoAAAAqgAAAMwAAADuAAAAEAEAADIBAABUAQAAdgEAAJgBAACaAQAAnAEAAJ4BAACgAQAAogEAAKQBAACmAQAAqAEAAKoBAACsAQAArgEAALABAACyAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

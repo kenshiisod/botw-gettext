@@ -1,0 +1,43 @@
+#, ruby
+msgid "Npc_Musician_AoC_HeroZora_000"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]この地方を巡って\n"
+"[Color name=\"blue\"]英傑ミファー[Color name=\"unset\"]の逸話を聞いているうちに…\n"
+"[Animation name=\"TalkPositive_01\"]師匠の[Color name=\"blue\"]未完の詩[Color name=\"unset\"]とは別に\n"
+"私も彼女を表現してみたくなりました\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]そこで [Color name=\"blue\"]ミファー[Color name=\"unset\"]が操ったという\n"
+"この[Color name=\"blue\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]の元で…"
+
+#, ruby
+msgid "Npc_Musician_AoC_HeroZora_100"
+msgstr ""
+"[PauseAuto frames=\"330\"][01:01 bytes=\"0000803E\"]♪これは[PauseMid] [Color name=\"blue\"]ルッタ[Color name=\"unset\"]を繰りし者が[Pause frames=\"85\"]\n"
+"未だ英傑と[PauseMid] 呼ばれる前の物語[PauseLong]\n"
+"[PauseAuto frames=\"350\"][01:01 bytes=\"0000803E\"]その名は[Color name=\"blue\"]ミファー[Color name=\"unset\"]…[PauseMid] ゾーラの王女[Pause frames=\"90\"]\n"
+"里訪れし姫と[PauseMid] 滝の音間近に…[PauseLong]"
+
+#, ruby
+msgid "Npc_Musician_AoC_HeroZora_500"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Understand_01\"]…お優しい姫と語り継がれていますが\n"
+"毅然たる一面も お持ちだったようですよ"
+
+#, ruby
+msgid "Npc_Musician_AoC_HeroZora_001"
+msgstr ""
+"[PauseAuto frames=\"110\"][Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Understand_01\"]こんな詩を作ってみました\n"
+"ありし日の [Color name=\"blue\"]英傑ミファー[Color name=\"unset\"]の姿を描く詩…"
+
+#, ruby
+msgid "Npc_Musician_AoC_HeroZora_501"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]いかがでしたか？\n"
+"[Color name=\"blue\"]英傑ミファーの詩[Color name=\"unset\"]\n"
+"彼女の決意を詩に出来たことで\n"
+"師匠に一歩近づけたような気がします"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BQAAAAEIAAAAAAAAAAUAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,105 @@
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]やあ可愛いヴォーイさん\n"
+""
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]アタシみたいにならないように\n"
+"後悔しないように生きるんだよ"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]こんな裏通りまで来てくれたんだ\n"
+"ちょっと話相手になってくれないかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]ふふ… またヴォーイと話せるなんてねぇ…\n"
+"まだ付き合ってくれるのかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"11\"]サヴォッ…[PauseLong]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"11\"]サヴァー…[PauseLong]"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"11\"]サヴァサー…[PauseLong]"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…[PauseShort]…[PauseLong]\n"
+"\n"
+"[Sound2 id=\"14\"]なぜヴォーイがここに…"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]その辺の小娘はごまかせても\n"
+"このムバキュは騙されないよ\n"
+"でも… まあ…\n"
+"アタシにはどうでもいいことだけどさ…\n"
+"それより こんな裏通りまで来てくれたんだ\n"
+"ちょっと話相手になってくれないかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0000"
+msgstr "女神像の話"
+
+#, ruby
+msgid "0001"
+msgstr "若かった時の話"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ここにある女神像は アタシの生まれる\n"
+"ず～っと前からあるらしいんだけどさ…\n"
+"ここではだ～れも信仰してないから\n"
+"今ではこんな場所に追いやられてるってわけさ\n"
+"アタシと同じ…[PauseLong]\n"
+"\n"
+"だからアタシぐらいは 側にいてやんないとね…"
+
+msgid "0002"
+msgstr "さよなら"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]これでもね アタシは若い時\n"
+"べっぴんさんだったんだよ\n"
+"ヴォーイはみ～んな\n"
+"アタシに夢中だったよ…\n"
+"でもね…\n"
+"アタシも若かった… 夢を見たくてねぇ…\n"
+"運命の人と出会えるっていう\n"
+"[Color name=\"blue\"]ラブポンド[Color name=\"unset\"]を探して\n"
+"このハイラルをずっと旅してたんだ…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"25\"]そしたらどうだい…\n"
+"気づいたらけっこうな年になっちまってね…\n"
+"[Color name=\"blue\"]ラブポンド[Color name=\"unset\"]も見つからなけりゃ\n"
+"旦那も見つからなかったってわけさ…\n"
+"なんだい？ その辛気臭い面は？\n"
+"笑い話なんだから 笑っとくれよ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAGOAgAAAAAAABEAAAAEAAAATAAAAG4AAACQAAAAsgAAANQAAAD2AAAAGAEAADoBAABcAQAAfgEAAKABAADCAQAA5AEAAAYCAAAoAgAASgIAAGwCAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAE4AcABjAF8ATwBhAHMAaQBzAEcAbwBkAGQAZQBzAHMAAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAE4AcABjAF8ATwBhAHMAaQBzAEcAbwBkAGQAZQBzAHMAAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAE4AcABjAF8ATwBhAHMAaQBzAEcAbwBkAGQAZQBzAHMAAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAE4AcABjAF8ATwBhAHMAaQBzAEcAbwBkAGQAZQBzAHMAAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAE4AcABjAF8ATwBhAHMAaQBzAEcAbwBkAGQAZQBzAHMAAABOAHAAYwBfAE8AYQBzAGkAcwBHAG8AZABkAGUAcwBzAAAATgBwAGMAXwBPAGEAcwBpAHMARwBvAGQAZABlAHMAcwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

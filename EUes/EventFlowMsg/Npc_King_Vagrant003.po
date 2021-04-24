@@ -1,0 +1,106 @@
+msgid "TerrorEnemy"
+msgstr "¡Aaaay!"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Tengo unas ganas enormes de ver lo que\n"
+"vas a traerme..."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Jo, jo, jo.[PauseMid] Si quieres mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"],\n"
+"tendrás que ganártela."
+
+msgid "GoodBye04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Es impresionante que te hayas atrevido\n"
+"a llegar hasta aquí con tan poca ropa.[PageBreak][Sound2 id=\"7\"]¡A eso lo llamo yo valentía![PauseMid]\n"
+"Toma, mereces quedarte con\n"
+"mi [C9:00 bytes=\"02010100\"]casaca forrada."
+
+msgid "TerrorExplosion"
+msgstr "¡Uaaah!"
+
+msgid "ClearTerrorEnemy"
+msgstr "Uf..."
+
+msgid "TerrorSword"
+msgstr "¡Basta!"
+
+msgid "NakedPlayer"
+msgstr "Vas a coger frío..."
+
+msgid "TerrorImpulse"
+msgstr "¡Aaagh!"
+
+msgid "TerrorFire"
+msgstr "¡Quema!"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Jo, jo, jo.[PauseMid]\n"
+"Este paisaje es una maravilla.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "¡Qué vistas!"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1003"
+msgstr "Adiós"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]En la vida hay pocas experiencias\n"
+"tan mágicas como contemplar\n"
+"el inicio de un nuevo día."
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Hay que ver lo que refresca\n"
+"por las noches en la montaña."
+
+msgid "Nagameru00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Desde aquí puedes ver toda la zona\n"
+"de la meseta sin nada que te obstaculice\n"
+"la vista.[PauseMid] Es el sitio ideal para observar."
+
+msgid "Nagameru01"
+msgstr ""
+"Localiza los santuarios con el [Color name=\"blue\"]catalejo[Color name=\"unset\"][PauseMid]\n"
+"y márcalos con las runas para indicarlos\n"
+"en el mapa."
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Veo que sigues buscando los santuarios.[PauseMid]\n"
+"Ya no tengo edad para esperar tanto,\n"
+"joven."
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Y los santuarios que te faltan?\n"
+"¿Ya has conseguido encontrarlos?"
+
+msgid "TerrorArrow"
+msgstr "¡¿Qué haces?!"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo..."
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Jo, jo, jo."
+
+msgid "Near01"
+msgstr "[Animation name=\"CustomLaugh\"]Menudas vistas."
+
+msgid "TerrorBomb"
+msgstr "¿Qué es eso?"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAGyAgAAAAAAABkAAAAEAAAAbAAAAJQAAAC8AAAA5AAAAAwBAAA0AQAAXAEAAIQBAACGAQAAiAEAALABAADYAQAAAAIAACgCAABQAgAAeAIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADMAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAzAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

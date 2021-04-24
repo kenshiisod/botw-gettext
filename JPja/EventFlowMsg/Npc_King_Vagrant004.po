@@ -1,0 +1,499 @@
+msgid "1002"
+msgstr "なにしてるの？"
+
+msgid "1003"
+msgstr "さようなら"
+
+#, ruby
+msgid "Cook00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"21\"]なっ… お主 それは？！\n"
+"\n"
+"わしの考案した 究極の料理\n"
+"[Color name=\"blue\"]ピリ辛山海焼き[Color name=\"unset\"] ではないか！\n"
+"[Sound2 id=\"3\"]お主… どうして それを…？\n"
+"\n"
+"…いや それより\n"
+"そのレシピは…？"
+
+#, ruby
+msgid "Takibi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]少し 疲れたのでな…[PauseMid]\n"
+"たき火に あたって 休憩中じゃ"
+
+#, ruby
+msgid "Cook01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"20\"]ほう ほう\n"
+"\n"
+"そうじゃった…\n"
+"ハイラルバスを入れるのじゃな？\n"
+"[Sound2 id=\"9\"]よかろう！ お主の料理のセンスを認めて\n"
+"この防寒着を進呈しよう"
+
+#, ruby
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]して お主… 腹は減っておらんか？[PauseMid]\n"
+"わしの料理鍋 好きに使うてもいいぞ[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]祠のお宝 楽しみにしておるぞ"
+
+#, ruby
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]料理がしたいなら\n"
+"わしの料理鍋 好きに使うてもいいぞ[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Cook03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]……\n"
+"\n"
+"さっき お主にくれてやったんじゃったな…[PauseMid]\n"
+"ど忘れしとったわ\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
+
+#, ruby
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]わしの料理鍋なら 好きに使うてもいいぞ[PauseMid]\n"
+"また センスのいい料理を作るがいい"
+
+#, ruby
+msgid "Cook04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ポーチを開いて 食材を手に持ったら\n"
+"あとは 鍋に放り込むだけじゃ"
+
+#, ruby
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]むう…[PauseMid]\n"
+"用もないのに 起こすでないぞ"
+
+#, ruby
+msgid "Cook05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]まあ 食材どうしの相性を考えて\n"
+"出来上がりを 想像することじゃ\n"
+"料理はセンス… センスじゃよ[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "GoodBye03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]よろしく 頼んだぞ"
+
+#, ruby
+msgid "TerrorArrow"
+msgstr "何をする！"
+
+msgid "TerrorImpulse"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "Cook06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ほう？ それがお主の料理か…[PauseMid]\n"
+"どれどれ…"
+
+#, ruby
+msgid "Cook07"
+msgstr ""
+"[Sound2 id=\"7\"]まあまあなセンスじゃが\n"
+"料理としては ありきたりじゃな…"
+
+#, ruby
+msgid "Cook08"
+msgstr ""
+"[Sound2 id=\"10\"]失敗は成功のもと とはいうが\n"
+"思いのほか センスがよくないのう…"
+
+#, ruby
+msgid "Cook09"
+msgstr ""
+"食材の組み合わせ次第では\n"
+"もっと すごい料理が作れるのでな…\n"
+"いろいろと 試してみることじゃ[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "Idou00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ちょっと そこまで\n"
+"木を切りに いくところじゃよ\n"
+"邪魔せんといてくれ"
+
+#, ruby
+msgid "Idou01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]うちに 帰るところじゃよ[PauseMid]\n"
+"お主も来るか？"
+
+#, ruby
+msgid "Kikori00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]この木を 切り倒してじゃな…[PauseMid]\n"
+"薪にでもしようかと 思うてのう"
+
+#, ruby
+msgid "Idou02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]うちに 帰るところじゃよ[PauseMid]\n"
+"何も もてなすことはできんが… お主も来るか？"
+
+#, ruby
+msgid "Kikori01"
+msgstr ""
+"[Sound2 id=\"11\"]じゃが…[PauseMid] 思った方向に切り倒すのは\n"
+"なかなか骨が折れる仕事じゃわい\n"
+"倒したい方向に きちんと体を向けて\n"
+"腰を入れねばならんからのう"
+
+#, ruby
+msgid "Kikori02"
+msgstr ""
+"[Sound2 id=\"10\"]ふう…[PauseMid]\n"
+"だんだん 腰が痛うなってきたわ"
+
+msgid "Hadaka00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]え…[PauseMid] わしか？！"
+
+#, ruby
+msgid "Kikori03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]お主…[PauseMid] よく見たら\n"
+"わしのオノを 持っておるではないか\n"
+"そのオノ 好きに使ってもいいから\n"
+"木を切るのを 手伝うてくれんかのう"
+
+#, ruby
+msgid "Cook04_Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]料理に 興味があるようじゃな…[PauseMid]\n"
+"お主を見込んで 少しコツを教えてやろう[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Cook05_Vagrant004"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]まあ 食材どうしの相性を考えて\n"
+"出来上がりを 想像することじゃ\n"
+"上手くやれば がんばりを補える料理を\n"
+"作ることもできるからのう\n"
+"料理はセンス… センスじゃよ[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "Kikori04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]わしは ちょっと疲れたのでな…[PauseMid]\n"
+"少し休むとしよう"
+
+#, ruby
+msgid "Cook04_Kotsu01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]さてさて…[PauseMid]\n"
+"[Sound2 id=\"4\"]他に知りたいコツは あるかのう？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Cook05_Vagrant005"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]まあ 食材どうしの相性を考えて\n"
+"出来上がりを 想像することじゃ\n"
+"上手くやれば 防寒効果のある料理を\n"
+"作ることもできるからのう\n"
+"料理はセンス… センスじゃよ[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "Kikori05"
+msgstr ""
+"[Sound2 id=\"2\"]木を切るには オノが必要じゃ[PauseMid]\n"
+"剣でも切れるが 刃がボロボロになってしまうぞ"
+
+#, ruby
+msgid "Cook04_Kotsu02"
+msgstr ""
+"食えそうな物なら何でも 鍋に放り込むがいい[PauseMid]\n"
+"幸いこの台地には 食材は豊富じゃからのう\n"
+"使った食材の数が多ければ\n"
+"より多くの体力を回復する料理が作れるのじゃ"
+
+#, ruby
+msgid "Bed00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]わしの [Color name=\"red\"]ベッド[Color name=\"unset\"]でよければ 使うてもよいぞ"
+
+#, ruby
+msgid "Kikori06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]たき火にでも あたろうかのう[PauseMid]\n"
+"ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "Cook04_Kotsu03"
+msgstr ""
+"肉などの主菜に 副菜を合わせるのが基本じゃ[PauseMid]\n"
+"ハーブやスパイスを きかせるのもいい\n"
+"じゃが…[PauseMid] 虫やトカゲといったモノは\n"
+"食材と一緒に 混ぜてはいかんぞ\n"
+"あまり 相性がいいとは言えんからのう…"
+
+#, ruby
+msgid "Cook04_Kotsu04"
+msgstr ""
+"体を温めたり がんばりを増やすなど\n"
+"特別な効果を持つ食材もある\n"
+"それを具材の一つとして使えば\n"
+"ただの料理も 効果を持った料理に早変わりじゃ\n"
+"[Sound2 id=\"2\"]それだけじゃないぞ\n"
+"\n"
+"虫やトカゲを 魔物の素材と一緒に煮込むと\n"
+"思わぬ効果を得られることもある[PauseMid] それが薬じゃ"
+
+#, ruby
+msgid "Bed02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]少し 疲れたか？[PauseMid]\n"
+"わしの [Color name=\"red\"]ベッド[Color name=\"unset\"]でよければ 使うてもよいぞ"
+
+#, ruby
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"あったかくて 気持ちがいいわい[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Bed03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]そうじゃのう…[PauseMid]\n"
+"わしの [Color name=\"red\"]ベッド[Color name=\"unset\"]でよければ 使うてもよいぞ"
+
+#, ruby
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]夜は魔物も増えて 危ないぞ[PauseMid]\n"
+"朝まで ここで休んで行くがいい[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Bed04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]働きづめは 体に毒じゃ…[PauseMid]\n"
+"わしの [Color name=\"red\"]ベッド[Color name=\"unset\"]でよければ 使うてもよいぞ"
+
+msgid "TerrorSword"
+msgstr "やめんか！"
+
+#, ruby
+msgid "Tree_Cut_Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"木を切ってくれたようじゃの"
+
+#, ruby
+msgid "Bed05"
+msgstr ""
+"たき火とは違うて\n"
+"疲れた体も 休まるはずじゃ"
+
+#, ruby
+msgid "Tree_Cut_Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]倒した木は\n"
+"薪にでもして 持っていくがいい"
+
+#, ruby
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠のお宝は まだかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠の探索 はかどっておるかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]木を切るのを 手伝うてくれるんじゃろ？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Sleep00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]もう 寝るところじゃ…[PauseMid]\n"
+"すまんが ベッドは 使わせてもらうぞ"
+
+#, ruby
+msgid "Sleep01"
+msgstr ""
+"ベッドで 休むのは\n"
+"わしが 使っていないときにしてくれ"
+
+msgid "TerrorExplosion"
+msgstr "ぬわーっ！"
+
+#, ruby
+msgid "Sleep02"
+msgstr ""
+"ひまをつぶす なら\n"
+"表で たき火に あたるがいい…"
+
+msgid "ClearTerrorEnemy"
+msgstr "むう…"
+
+#, ruby
+msgid "Sleep03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]寝てるに 決まっとるじゃろう…[PauseMid]\n"
+"すまんが また 明日な…"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]うん？ なんじゃ？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"また会うたな[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+msgid "TerrorEnemy"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]のう お主…[PauseMid]\n"
+"いつまで そんな格好でおるつもりじゃ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near01"
+msgstr "ほっ！ はっ！"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]どいた どいた[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near02"
+msgstr "Zzz... Zzz..."
+
+#, ruby
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]今日も一日 働いたのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near03"
+msgstr "……"
+
+#, ruby
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]お主が 木を切ってくれたおかげで\n"
+"今日は もう上がりじゃよ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "TerrorBomb"
+msgstr "何じゃ？"
+
+#, ruby
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]お主…[PauseMid]\n"
+"どこまで ついてくるつもりじゃ？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]なんじゃ…[PauseMid]\n"
+"せっかく 寝てたというにのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "TalkBokangi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]なんじゃ…[PauseMid]\n"
+"せっかく 寝てたというにのう[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]のう お主…[PauseMid]\n"
+"そこにおられたら 気が散るんじゃが[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "TalkBokangi01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"13\"]寝てたというに しつこいのう…[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0001"
+msgstr "料理してみたよ"
+
+#, ruby
+msgid "0002"
+msgstr "コツを教えて"
+
+msgid "0003"
+msgstr "さようなら"
+
+#, ruby
+msgid "0004"
+msgstr "食材について"
+
+#, ruby
+msgid "Cook10"
+msgstr ""
+"わしの 日記を盗み読んだのは知っておる\n"
+"\n"
+"[Sound2 id=\"2\"]あの料理を再現してくれたら\n"
+"防寒着を 進呈してやろうぞ"
+
+msgid "TerrorInsect"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "0005"
+msgstr "組み合わせについて"
+
+#, ruby
+msgid "Cook11"
+msgstr ""
+"[Color name=\"blue\"]ケモノ肉[Color name=\"unset\"]が 欲しかったら\n"
+"台地の北側にある [Color name=\"blue\"]精霊の森[Color name=\"unset\"]で狩りをするがいい"
+
+#, ruby
+msgid "NakedPlayer"
+msgstr "裸とな…"
+
+#, ruby
+msgid "0006"
+msgstr "効果について"
+
+#, ruby
+msgid "Cook12"
+msgstr ""
+"[Color name=\"blue\"]ケモノ肉[Color name=\"unset\"]が 欲しかったら\n"
+"ここで獲物を狩るがいい"
+
+#, ruby
+msgid "Cook13"
+msgstr ""
+"[Color name=\"blue\"]ポカポカ草の実[Color name=\"unset\"]じゃったら\n"
+"[Color name=\"blue\"]時の神殿跡[Color name=\"unset\"]の近くで 見かけた気がするのう"
+
+#, ruby
+msgid "Cook14"
+msgstr ""
+"あと1つ 食材が思い出せんのじゃ\n"
+"塔の近くで 見つけた気がするんじゃがのう…"
+
+msgid "TerrorFire"
+msgstr "あちゃっ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAGoDAAAAAAAAFkAAAAEAAAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAATAMAAHQDAACcAwAAxAMAAOwDAADuAwAA8AMAABgEAABABAAAaAQAAJAEAAC4BAAA4AQAAAgFAAAwBQAAWAUAAIAFAACoBQAA0AUAAPgFAAAgBgAASAYAAHAGAACYBgAAwAYAAOgGAADqBgAA7AYAAO4GAAAWBwAAPgcAAGYHAACOBwAAtgcAAN4HAADgBwAA4gcAAOQHAAAMCAAANAgAAFwIAACECAAArAgAANQIAAD8CAAAJAkAAEwJAAB0CQAAnAkAAMQJAADsCQAAFAoAADwKAABkCgAAjAoAALQKAADcCgAABAsAACwLAABUCwAAfAsAAKQLAADMCwAA9AsAABwMAABEDAAAbAwAAJQMAACWDAAAmAwAAJoMAACcDAAAngwAAKAMAACiDAAApAwAAKYMAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

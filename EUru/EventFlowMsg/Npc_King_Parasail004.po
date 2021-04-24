@@ -1,0 +1,220 @@
+msgid "Appear16"
+msgstr ""
+"Раз уговор изменился, я дам совет:\n"
+"чтобы быстрее найти святилища,\n"
+"заберись [Color name=\"red\"]повыше и осмотрись[Color name=\"unset\"].[PageBreak][Sound2 id=\"14\"]Например..."
+
+msgid "Kotsu01"
+msgstr ""
+"Открой [Color name=\"blue\"]карту Камня шиика[Color name=\"unset\"]\n"
+"и выбери значок башни.[PageBreak][Sound2 id=\"7\"]Так ты мгновенно перенесешься\n"
+"на самый верх.[PauseShort] Действуй."
+
+msgid "Appear17"
+msgstr "Вот на эту башню.[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear18"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Не бойся.[PauseShort] Вот тебе еще один совет..."
+
+msgid "1000"
+msgstr "Вы столько знаете!"
+
+msgid "Appear19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Погоди.[PauseShort] Вот\n"
+"тебе еще один совет..."
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Попробуй переместиться на башню.[PauseShort]\n"
+"С нее хорошо видны все святилища.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "До свидания"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Заберись на башню и найди\n"
+"остальные святилища.[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "Как это сделать?"
+
+msgid "TerrorBomb"
+msgstr "Чего?"
+
+msgid "TerrorEnemy"
+msgstr "Ох!"
+
+msgid "Appear01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Хм, ты получил [Color name=\"blue\"]сферу духа[Color name=\"unset\"]...[PauseShort]\n"
+"Что ж, для начала прими мои\n"
+"поздравления.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"][Size percent=\"125\"]Я же ясновидящий![Size percent=\"100\"][PauseShort] Ну почти."
+
+msgid "TerrorArrow"
+msgstr "Ты что делаешь?!"
+
+msgid "Appear03"
+msgstr ""
+"С возрастом видишь все хуже,\n"
+"зато начинаешь понимать суть\n"
+"происходящего."
+
+msgid "Appear04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Хо-хо-хо![PauseMid] Но не про каждого\n"
+"старика так скажешь!"
+
+msgid "Appear05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Погоди, я не договорил.[PauseShort]\n"
+"Незачем так спешить."
+
+msgid "Appear06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Знаешь, башни ведь не просто так\n"
+"появились из-под земли.[PauseShort] И святилище\n"
+"раньше не светилось..."
+
+msgid "0000"
+msgstr "Откуда вы знаете?"
+
+msgid "Appear07"
+msgstr ""
+"[Sound2 id=\"14\"]Это все из-за [Color name=\"blue\"]Камня шиика[Color name=\"unset\"]\n"
+"у тебя на поясе.[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "Дайте планер"
+
+msgid "Appear08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]Камень шиика[Color name=\"unset\"]...[PauseShort] Я словно\n"
+"попал в прошлое..."
+
+msgid "0002"
+msgstr "То есть?"
+
+msgid "Appear09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"][Size percent=\"125\"]Молчи и не перебивай![Size percent=\"100\"]"
+
+msgid "Appear20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Взгляни на [Color name=\"blue\"]карту Камня шиика[Color name=\"unset\"]."
+
+msgid "0003"
+msgstr "Уговор был другой!"
+
+msgid "Appear21"
+msgstr ""
+"[Sound2 id=\"2\"]Видишь [Color name=\"blue\"]синие значки[Color name=\"unset\"], которыми\n"
+"отмечены святилища и башня?"
+
+msgid "TerrorImpulse"
+msgstr "О-ох!"
+
+msgid "TerrorInsect"
+msgstr "Ух!"
+
+msgid "0004"
+msgstr "Еще три?!"
+
+msgid "Appear22"
+msgstr ""
+"[Color name=\"blue\"]Камень шиика[Color name=\"unset\"] может переместить тебя\n"
+"в такие места в мгновение ока...[PauseShort] По\n"
+"крайней мере, так мне говорили."
+
+msgid "0005"
+msgstr "Опять?!"
+
+msgid "Appear23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Хотя это было очень давно...[PauseShort]\n"
+"так что я могу и ошибаться."
+
+msgid "0006"
+msgstr "Запросто!"
+
+msgid "ClearTerrorEnemy"
+msgstr "Хм..."
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Хо-хо-хо!"
+
+msgid "TerrorExplosion"
+msgstr "А-а!"
+
+msgid "NakedPlayer"
+msgstr "Оденься!"
+
+msgid "TerrorSword"
+msgstr "Прекрати!"
+
+msgid "TerrorGuardian"
+msgstr "Страж!"
+
+msgid "TerrorFire"
+msgstr "Горячо!"
+
+msgid "ClearTerrorGuardian"
+msgstr "Было опасно..."
+
+msgid "Appear10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Давным-давно эти земли были домом\n"
+"высокоразвитой цивилизации шиика.[PageBreak]Благодаря своей мудрости шиика не\n"
+"раз спасали королевство от беды."
+
+msgid "Appear11"
+msgstr ""
+"Той цивилизации давно уже нет...[PauseShort]\n"
+"По крайней мере, так говорят.[PageBreak]Удивительно, что возведенные шиика\n"
+"святилища еще стоят — даже спустя\n"
+"столько лет."
+
+msgid "Appear12"
+msgstr ""
+"[Sound2 id=\"0\"]Слушай внимательно: ты найдешь\n"
+"много святилищ, подобных этому."
+
+msgid "Appear13"
+msgstr ""
+"Только на этом плато есть\n"
+"по крайней мере еще [Color name=\"red\"]три[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseShort] Если в каждом из них\n"
+"ты сумеешь получить [Color name=\"blue\"]сферу духа[Color name=\"unset\"],\n"
+"я дам тебе [Color name=\"blue\"]планер[Color name=\"unset\"]![Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Считай, что я передумал.[PauseShort] Я уверен,\n"
+"ты легко справишься с этой задачей."
+
+msgid "GoodBye00"
+msgstr "Действуй!"
+
+msgid "Appear15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Именно.[PauseShort] Я уверен, ты справишься.[PauseShort]\n"
+"Что одна [Color name=\"blue\"]сфера духа[Color name=\"unset\"], что четыре —\n"
+"разница небольшая, верно?"
+
+msgid "Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] С мое поживешь,\n"
+"еще не такое узнаешь![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ты давай, делом займись."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Хо-хо-хо![PauseMid] Если тебе нужен [Color name=\"blue\"]планер[Color name=\"unset\"],\n"
+"придется потрудиться.[PauseShort] Так просто\n"
+"я его не отдам."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHwBQAAAAAAADQAAAAEAAAA2AAAAAIBAAAEAQAABgEAADABAABaAQAAhAEAAK4BAADYAQAAAgIAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAACAwAABAMAAC4DAABYAwAAggMAAKwDAACuAwAAsAMAANoDAAAEBAAALgQAAFgEAACCBAAArAQAANYEAAAABQAAAgUAAAQFAAAGBQAAMAUAAFoFAACEBQAArgUAANgFAADaBQAA3AUAAN4FAADgBQAA4gUAAOQFAADmBQAA6AUAAOoFAADsBQAA7gUAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

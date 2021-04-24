@@ -1,0 +1,464 @@
+msgid "talk01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"19\"]Ну ладно, поговорим о деле!"
+
+msgid "talk62"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Посмотрим, посмотрим..."
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"Scare_00\"][Size percent=\"125\"]Что-о-о?![Size percent=\"100\"][PageBreak]Я в шоке![PauseShort] Такого удара я не ожидала!"
+
+msgid "talk63"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Показывай скорее!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"Scare_01\"]Ой![PauseShort] Звучит не очень убедительно."
+
+msgid "talk64"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]На этот раз получилось?"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Ведь это я принесла тебя в [Color name=\"blue\"]Святилище\n"
+"Жизни[Color name=\"unset\"] сто лет назад, после того как\n"
+"[Color name=\"blue\"]Ганон [Color name=\"unset\"]смертельно ранил тебя.[PageBreak]Именно я погрузила тебя\n"
+"еле живого в [Color name=\"blue\"]Сон Жизни[Color name=\"unset\"].[PageBreak]И ты все равно меня не помнишь?[Choice2 label1=\"2\" label2=\"16\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если что, у фотоаппарата есть [Color name=\"blue\"]зум[Color name=\"unset\"].[PauseShort]\n"
+"Сфоткай так, чтобы я хорошо вышла."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]Ха-ха![PauseShort] Удивлен?[PauseShort] Профессор\n"
+"здесь вовсе не Симин, а я!"
+
+msgid "talk66"
+msgstr ""
+"[Animation name=\"Activate\"]Хатенский институт теперь доступен\n"
+"как точка перемещения."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Это очень важно.[PauseShort] Слушай внимательно!"
+
+msgid "talk67"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Чем еще могу помочь?[Choice4 label1=\"9\" label2=\"10\" label3=\"11\" label4=\"12\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"Understand_00\"][Size percent=\"80\"]Хм, видимо, этого и следовало ожидать.[PauseShort] Так\n"
+"и запишем:[PauseShort] «После[PauseShort] столетнего[PauseShort] [Color name=\"blue\"]Сна[PauseShort] Жизни[PauseShort][Color name=\"unset\"]\n"
+"наблюдается[PauseShort] полная[PauseShort] потеря[PauseShort] памяти».[Size percent=\"100\"]"
+
+msgid "talk68"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"11\"]А-а-а![PauseShort] Линк пришел![Size percent=\"100\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]Итак, ты вернулся — сто лет спустя![PageBreak][Sound1 unk1=\"8\" unk2=\"1\"]Пришел, чтобы одолеть [Color name=\"blue\"]Ганона[Color name=\"unset\"],\n"
+"который с каждой минутой\n"
+"становится все сильнее![PageBreak][Sound1 unk1=\"7\" unk2=\"9\"]И чтобы спасти нашу\n"
+"[Color name=\"blue\"]принцессу Зельду[Color name=\"unset\"]![PageBreak]И если ты к этому готов,\n"
+"тогда я, единственная\n"
+"и неповторимая Пура...[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Могу активировать [Color name=\"red\"]базовые руны[Color name=\"unset\"]\n"
+"твоего [Color name=\"blue\"]Камня шиика[Color name=\"unset\"]![PauseShort] Что скажешь?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk69"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"][Animation name=\"CustomGreeting_00\"]Щелк!♪"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]Я знала, что ты так скажешь![PauseShort]\n"
+"Сделаю все, что в моих силах!"
+
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Опробуй [Color name=\"red\"]фотик[Color name=\"unset\"]: сфотографируй\n"
+"меня и покажи, что получится!"
+
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ой, прости-прости.[PauseShort] Это у меня\n"
+"привычка такая — записывать\n"
+"все сразу.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Может, у тебя есть ко мне\n"
+"какие-то вопросы?[Choice1 label=\"17\"]"
+
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]Давай-ка повежливее![PageBreak][Sound1 unk1=\"3\" unk2=\"1\"][Size percent=\"80\"]Хотя ты, наверное, не хотел меня обидеть.[PauseShort]\n"
+"Признаю, замечание уместное.[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Think_00\"]В общем, это последствия одного\n"
+"провалившегося эксперимента.[PageBreak]С другой стороны, эксперимент\n"
+"как раз таки не провалился...[PageBreak]Подробности в моем [Color name=\"blue\"]дневнике[Color name=\"unset\"].[PauseShort] Он там,\n"
+"[Color name=\"blue\"]наверху[Color name=\"unset\"].[PauseShort] Но лучше не читай, а то мне\n"
+"стыдно будет."
+
+msgid "talk53"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хотя сейчас дождь идет..."
+
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Советую тебе пойти в [Color name=\"blue\"]гостиницу[Color name=\"unset\"]\n"
+"и дождаться хорошей погоды."
+
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Дождись, пока он прекратится,\n"
+"а потом сразу за [Color name=\"blue\"]синим огнем[Color name=\"unset\"]!"
+
+msgid "talk56"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ладно-ладно![PauseShort] Не торопись.[PauseShort]\n"
+"Сфоткай так, чтобы я хорошо\n"
+"вышла."
+
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Это одна из [Color name=\"red\"]базовых рун[Color name=\"unset\"] [Color name=\"blue\"]Камня шиика[Color name=\"unset\"].[PauseShort]\n"
+"Когда-то им сама принцесса Зельда\n"
+"пользовалась."
+
+msgid "talk58"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]У тебя ведь уже есть [Color name=\"blue\"]телебомбы[Color name=\"unset\"], так?[PauseShort]\n"
+"Тут то же самое: включаешь и — щелк!"
+
+msgid "talk59"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]У тебя ведь уже есть [Color name=\"blue\"]Крионис[Color name=\"unset\"], так?[PauseShort]\n"
+"Тут то же самое: включаешь и — щелк!"
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]...[PageBreak][Sound1 unk1=\"10\" unk2=\"19\"]А![PauseShort] У меня для тебя еще одно задание![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Займись им, когда поговоришь\n"
+"с Импой.[PauseShort] Суть в следующем...[PageBreak]Мне нужны [Color name=\"red\"]древние детали[Color name=\"unset\"].[PauseShort] Если\n"
+"найдешь что-нибудь, неси мне.[PageBreak]Хотя [Color name=\"red\"]Робби[Color name=\"unset\"] в [Color name=\"red\"]Аккальском институте[Color name=\"unset\"]\n"
+"они тоже очень пригодились бы.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Если принесешь нам [Color name=\"blue\"]древние\n"
+"детали[Color name=\"unset\"], мы сделаем для тебя\n"
+"[Color name=\"red\"]кое-что хорошее[Color name=\"unset\"]."
+
+msgid "talk42"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Принеси, пожалуйста, [Color name=\"blue\"]синий огонь[Color name=\"unset\"] из\n"
+"[Color name=\"blue\"]древней печи[Color name=\"unset\"] и запусти [Color name=\"blue\"]генератор[Color name=\"unset\"]."
+
+msgid "talk44"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Когда этот симпатичный [Color name=\"blue\"]терминальчик[Color name=\"unset\"]\n"
+"включится, мы активируем [Color name=\"red\"]базовые\n"
+"руны[Color name=\"unset\"] [Color name=\"blue\"]Камня шиика[Color name=\"unset\"].[PageBreak][Size percent=\"80\"][Color name=\"Gray\"]Интересно, современные девушки употребляют\n"
+"слово «симпатичный» по отношению к технике?[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "talk45"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Теперь мы можем активировать\n"
+"[Color name=\"red\"]базовые руны[Color name=\"unset\"] [Color name=\"blue\"]Камня шиика[Color name=\"unset\"]."
+
+msgid "talk46"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Действуй."
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Щелк-щелк!"
+
+msgid "0020"
+msgstr "Фотоаппарат?"
+
+msgid "talk48"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_00\"][Color name=\"blue\"]Фотоаппарат[Color name=\"unset\"],[PauseShort] [Color name=\"blue\"]атлас Хайрула[Color name=\"unset\"],[PauseShort]\n"
+"[Color name=\"blue\"]альбом[Color name=\"unset\"]...[PauseShort] Прекрасно!"
+
+msgid "0021"
+msgstr "Мне нужно время"
+
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_00\"][Color name=\"blue\"]Фотоаппарат[Color name=\"unset\"],[PauseShort] [Color name=\"blue\"]атлас Хайрула[Color name=\"unset\"],[PauseShort]\n"
+"[Color name=\"blue\"]альбом[Color name=\"unset\"], [Color name=\"blue\"]локатор[Color name=\"unset\"]...[PauseShort] Прекрасно!"
+
+msgid "0022"
+msgstr "Верно, но..."
+
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"][Color name=\"blue\"]Терминал [Color name=\"unset\"]заработал![PauseShort] Техника\n"
+"у нас очень надежная![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"LaughBad_00\"][Size percent=\"80\"]Хи-хи! Мой милый [Color name=\"blue\"]терминальчик[Color name=\"unset\"],\n"
+"как же я по тебе соскучилась![Size percent=\"100\"]"
+
+msgid "0023"
+msgstr "Точно"
+
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Для этого тебе нужно громко\n"
+"сказать [Animation name=\"CustomGreeting\"]«Щелк!» — не стесняйся.[Choice3 label1=\"13\" label2=\"14\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk32"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Не слышу энтузиазма...[PauseShort] Ну ладно."
+
+msgid "talk33"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"LaughBad_00\"]Хи-хи-хи![PauseShort] Работает все-таки..."
+
+msgid "0026"
+msgstr "Фоточку?"
+
+msgid "talk34"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Готово![PauseShort] Теперь все должно работать!"
+
+msgid "talk35"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]...[PageBreak][Sound1 unk1=\"10\" unk2=\"21\"]А-а-а![PauseShort] Это я?![PageBreak][Sound1 unk1=\"9\" unk2=\"1\"]Извини, к такому я была не готова..."
+
+msgid "talk36"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"]...[PageBreak][Sound1 unk1=\"0\" unk2=\"6\"]Смотри-ка, в [Color name=\"blue\"]альбоме[Color name=\"unset\"] есть не только\n"
+"красавица я, но и несколько [Color name=\"red\"]старых\n"
+"фотографий[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Вообще-то, [Color name=\"blue\"]фотоаппаратом[Color name=\"unset\"]\n"
+"часто пользовалась Зельда...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Слушай, Линк, ты же рыцарь-защитник\n"
+"принцессы, а значит, [Color name=\"red\"]был с ней[Color name=\"unset\"] во [Color name=\"red\"]всех\n"
+"местах на этих снимках[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"3\" unk2=\"12\"]Ах да, ты же ничего не помнишь...[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]Ну, возможно, эти снимки\n"
+"помогут тебе все вспомнить![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Тебе нужно поговорить с [Color name=\"red\"]Импой[Color name=\"unset\"] —\n"
+"она знает Зельду лучше, чем я."
+
+msgid "talk37"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ты что, фотографировать не умеешь?"
+
+msgid "0010"
+msgstr "Что мне надо знать?"
+
+msgid "talk38"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ну что, как [Color name=\"red\"]фотоаппарат[Color name=\"unset\"]?[PauseShort] Ты меня\n"
+"сфотографировал?[PauseShort] Покажи [Color name=\"red\"]фоточку[Color name=\"unset\"]![Choice4Flags label1=\"19\" label2=\"20\" label3=\"26\" label4=\"21\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0011"
+msgstr "Кто вы?"
+
+msgid "talk39"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Вот так!"
+
+msgid "0012"
+msgstr "До свидания"
+
+msgid "talk20"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Так и запишем:[PauseShort] «[Color name=\"blue\"]Сон Жизни[PauseShort][Color name=\"unset\"]\n"
+"повышает[PauseShort] уровень[PauseShort] наглости».[Size percent=\"100\"]"
+
+msgid "0013"
+msgstr "Щелк!"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Для такого молодого парня ты\n"
+"довольно сообразительный.[PageBreak]Хотя тебе ведь уже больше ста лет..."
+
+msgid "0014"
+msgstr "Щелк..."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ладно, давай я объясню, в чем суть.[PageBreak]Видел перед институтом [Color name=\"blue\"]генератор[Color name=\"unset\"]?[PauseShort]\n"
+"К сожалению, огонь в нем потух."
+
+msgid "0015"
+msgstr "Я пошел..."
+
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Попробуй еще раз."
+
+msgid "0016"
+msgstr "..."
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Впервые кто-то очнулся от [Color name=\"blue\"]Сна Жизни[Color name=\"unset\"]."
+
+msgid "0017"
+msgstr "Ты ребенок..."
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_01\"][Color name=\"blue\"]Древняя печь[Color name=\"unset\"] стоит [Color name=\"red\"]на\n"
+"холме[Color name=\"unset\"] за домом Рида.[PageBreak]Как выйдешь из [Color name=\"blue\"]института[Color name=\"unset\"], поверни\n"
+"налево, подойди к обрыву и включи\n"
+"визор Камня шиика.[PageBreak]То место, где горит [Color name=\"blue\"]синий\n"
+"огонь[Color name=\"unset\"], и есть [Color name=\"blue\"]древняя печь[Color name=\"unset\"]."
+
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Чем могу помочь?[Choice4 label1=\"9\" label2=\"10\" label3=\"11\" label4=\"12\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0019"
+msgstr "Сфотографировал!"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"], как и обычный,\n"
+"потухнет, если пойдет дождь.[PageBreak]На обратном пути зажигай\n"
+"[Color name=\"blue\"]светильники[Color name=\"unset\"] и не ходи по\n"
+"[Color name=\"red\"]крутым склонам[Color name=\"unset\"]."
+
+msgid "talk28"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Я же Пура!"
+
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Чтобы донести [Color name=\"blue\"]синий огонь [Color name=\"unset\"]до\n"
+"[Color name=\"blue\"]генератора[Color name=\"unset\"], возьми наш [Color name=\"blue\"]факел[Color name=\"unset\"].[PauseShort]\n"
+"Он у входа."
+
+msgid "talk70"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]Нет, не буду тратить время на глупости.[PauseShort]\n"
+"[Color name=\"blue\"]Терминал[Color name=\"unset\"] заработал, и Линк пришел![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Линк, это, случайно, не ты запустил\n"
+"[Color name=\"blue\"]генератор[Color name=\"unset\"] у института?[PauseShort] С помощью\n"
+"[Color name=\"blue\"]синего огня[Color name=\"unset\"], верно?[Choice1 label=\"22\"][PageBreak]Раз тебя об этом никто не просил,\n"
+"значит, ты полностью пришел в себя\n"
+"после Сна Жизни, да?[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]Ой, я же не представилась![PageBreak][Sound1 unk1=\"6\" unk2=\"0\"]Я Пура, профессор\n"
+"Хатенского института.♪"
+
+msgid "0002"
+msgstr "Не помню"
+
+msgid "talk10"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Так и запишем:[PauseShort] «[Color name=\"blue\"]Сон Жизни[PauseShort] [Color name=\"unset\"]значительно[PauseShort]\n"
+"ухудшает[PauseShort] когнитивные[PauseShort] способности».[Size percent=\"100\"]"
+
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]Ты не понимаешь, что происходит, да?[PauseShort]\n"
+"Давай я все по-простому объясню.[PageBreak][Color name=\"blue\"]Импа[Color name=\"unset\"] сказала, чтобы ты шел ко мне,\n"
+"мол, я смогу починить [Color name=\"blue\"]Камень шиика[Color name=\"unset\"].[PauseShort]\n"
+"Так?[Choice1 label=\"23\"][PageBreak][Sound1 unk1=\"7\" unk2=\"9\"]Хорошо!♪[PauseShort] Но сначала я задам\n"
+"тебе пару вопросов!"
+
+msgid "0003"
+msgstr "Вроде бы... помню"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ах вот как!"
+
+msgid "talk72"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Ой, проговорилась...[PauseShort] В общем,\n"
+"да, я действительно тут главная."
+
+msgid "0004"
+msgstr "Согласен!"
+
+msgid "talk12"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Так и запишем:[PauseShort] «[Color name=\"blue\"]Сон Жизни[PauseShort][Color name=\"unset\"] вызывает[PauseShort]\n"
+"умственную[PauseShort] деградацию».[Size percent=\"100\"]"
+
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Симин совсем не умеет держать язык\n"
+"за зубами: всем сразу разбалтывает,\n"
+"что начальник тут я."
+
+msgid "near00"
+msgstr "Никому не говори..."
+
+msgid "0005"
+msgstr "А можно еще раз?"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если передумаешь, может,\n"
+"я еще соглашусь тебе помочь."
+
+msgid "talk74"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Фотографируя что-то, убедись, что\n"
+"объект находится в [Color name=\"red\"]центре [Color name=\"unset\"]кадра."
+
+msgid "near01"
+msgstr "Хм..."
+
+msgid "0006"
+msgstr "Не надо"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Так...[PauseShort] В общем, у меня\n"
+"есть для тебя [Color name=\"red\"]задание[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]...[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Что ты так смотришь?[PauseShort] Ты же не думал,\n"
+"что я отремонтирую тебе [Color name=\"blue\"]Камень шиика[Color name=\"unset\"]\n"
+"за просто так?[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ну [Color name=\"blue\"]фотографию [Color name=\"unset\"]то есть.[PauseShort] Ни разу не\n"
+"слышал?[PauseShort] Это то, что получается, если\n"
+"снимаешь что-то на [Color name=\"blue\"]фотоаппарат[Color name=\"unset\"].[PageBreak]Советую фотографировать все\n"
+"подряд.[PauseShort] Твои фотошедевры будут\n"
+"сохраняться в [Color name=\"blue\"]альбоме[Color name=\"unset\"].[PageBreak]Кстати, снимки животных, растений\n"
+"и всего такого будут автоматически\n"
+"добавляться в [Color name=\"blue\"]атлас Хайрула[Color name=\"unset\"]."
+
+msgid "near02"
+msgstr "Чи-и-из!♪"
+
+msgid "0007"
+msgstr "Вообще-то, думал"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Забыл что ли?[PageBreak]А сейчас ты, наверное, еще\n"
+"спросишь, сколько мне лет?[PageBreak][Sound1 unk1=\"0\" unk2=\"12\"]Я тебе вот что скажу: Линк, невежливо\n"
+"интересоваться возрастом девушки![PageBreak]И не спрашивай, почему я иногда\n"
+"употребляю необычные слова.[PageBreak]И про мой [Color name=\"blue\"]дневник наверху[Color name=\"unset\"]\n"
+"ничего не спрашивай..."
+
+msgid "talk76"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Теперь у меня к тебе\n"
+"есть еще одна просьба."
+
+msgid "near03"
+msgstr "Действуй!"
+
+msgid "0008"
+msgstr "Конечно нет"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]В общем, я на тебя рассчитываю!"
+
+msgid "near04"
+msgstr "..."
+
+msgid "0009"
+msgstr "Древняя печь..."
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Линк, спасибо.[PauseShort] Взгляни-ка туда."
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Сколько можно повторять-то..."
+
+msgid "talk19"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Эй![PauseShort] Опять не смог?"
+
+msgid "talk60"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]У тебя ведь уже есть [Color name=\"blue\"]Стазис[Color name=\"unset\"], так?[PauseShort]\n"
+"Тут то же самое: включаешь и — щелк!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Линк, тебе что-нибудь снилось\n"
+"во время [Color name=\"blue\"]Сна Жизни[Color name=\"unset\"]?[PageBreak]Внешне ты за сто лет совсем не\n"
+"изменился, но что произошло\n"
+"в твоей голове?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Хотя какая разница![PauseShort]\n"
+"Главное — что ты жив\n"
+"и здоров![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Хм, ты как-то странно смотришь.[PauseShort]\n"
+"Ты хоть помнишь меня?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk61"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]У тебя ведь уже есть [Color name=\"blue\"]Магнезис[Color name=\"unset\"], так?[PauseShort]\n"
+"Тут то же самое: включаешь и — щелк!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAECDQAAAAAAAGYAAAAEAAAAoAEAAMQBAADoAQAADAIAADACAABUAgAAVgIAAFgCAABaAgAAXAIAAF4CAABgAgAAYgIAAGQCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAKQCAADIAgAA7AIAABADAAA0AwAAWAMAAHwDAACgAwAAxAMAAOgDAAAMBAAAMAQAAFQEAAB4BAAAnAQAAMAEAADkBAAACAUAACwFAABQBQAAdAUAAJgFAAC8BQAA4AUAAAQGAAAoBgAATAYAAHAGAACUBgAAuAYAANwGAAAABwAAJAcAAEgHAABsBwAAkAcAALQHAADYBwAA/AcAACAIAABECAAAaAgAAIwIAACwCAAA1AgAAPgIAAAcCQAAQAkAAGQJAACICQAArAkAANAJAAD0CQAAGAoAADwKAABgCgAAhAoAAKgKAADMCgAA8AoAABQLAAA4CwAAXAsAAIALAACaCwAAvgsAAOILAAAGDAAAKgwAAE4MAAByDAAAlgwAALoMAADeDAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAFAAQwBfAEQAUgBDAFYAbwBpAGMAZQAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

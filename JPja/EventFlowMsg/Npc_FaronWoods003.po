@@ -1,0 +1,53 @@
+msgid "near01"
+msgstr "こわいねえ"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]雷は こわいねえ…[PauseMid]\n"
+"\n"
+"あんちゃん 聞いたことあるか？[PauseShort]\n"
+"雷は 龍神様が怒ってる標だって\n"
+"そんなの 本当にいるのかねえ[PauseShort]\n"
+"おれは 見たことないけどな"
+
+#, ruby
+msgid "talk00"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]おぅ あんちゃん[PauseShort] [Color name=\"blue\"]地図[Color name=\"unset\"]持ってるか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0000"
+msgstr "持ってる"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]地図も持たずに 旅するなんて\n"
+"気がしれないな"
+
+#, ruby
+msgid "near00"
+msgstr "雨だ雨だ"
+
+#, ruby
+msgid "0001"
+msgstr "持ってない"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]だったら ここから北に[PauseShort]\n"
+"[Color name=\"blue\"]双子山[Color name=\"unset\"]ってのが載ってるだろ？\n"
+"あそこ [PauseShort]昔は1つの山だったらしいけど\n"
+"\n"
+"龍神様が山を叩き割って 通り道を作ったから[PauseShort]\n"
+"あんな形になったって伝説があるんだぜ\n"
+"ここ[Color name=\"blue\"]フロリア湖[Color name=\"unset\"]でも\n"
+"水面に映る大きな影を見たって噂があるし[PauseShort]\n"
+"どこまで本当なんだろうな？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BwAAAAEEAQAAAAAAAAgAAAAEAAAAKAAAAEwAAABwAAAAcgAAAHQAAACYAAAAvAAAAOAAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADMAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADMAAAAAAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

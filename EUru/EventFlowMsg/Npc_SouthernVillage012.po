@@ -1,0 +1,85 @@
+msgid "talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Да тут полно таких, как ты..."
+
+msgid "0001"
+msgstr "В пустыне?"
+
+msgid "0002"
+msgstr "А я люблю дождь"
+
+msgid "0003"
+msgstr "Домой?"
+
+msgid "talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Хорошая погода, правда?[PauseShort] Не то что\n"
+"в пустыне: там днем жарко, а ночью\n"
+"холодно.[PauseShort] Ты тут отдыхаешь?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk_10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]Савотта."
+
+msgid "talk_11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]Саваак."
+
+msgid "talk_01"
+msgstr "Хр-р-р..."
+
+msgid "talk_12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]Сав'сааба."
+
+msgid "talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Видишь остров?[PauseShort] Он называется\n"
+"[Color name=\"blue\"]Вечерний[Color name=\"unset\"].[PauseShort] Хочу туда попасть."
+
+msgid "talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Тут на востоке остров есть,\n"
+"называется [Color name=\"blue\"]Вечерний[Color name=\"unset\"].[PauseShort] Хочу\n"
+"туда попасть."
+
+msgid "talk_03"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Если бы я умела [Color name=\"red\"]летать[Color name=\"unset\"]..."
+
+msgid "talk_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Но на лодке до него сложно\n"
+"добраться.[PauseShort] Скорее нужно\n"
+"уметь [Color name=\"red\"]летать[Color name=\"unset\"]..."
+
+msgid "talk_05"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Ненавижу дождь. Хочу домой.[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Near00"
+msgstr "Так далеко..."
+
+msgid "talk_06"
+msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]Понятно.[PauseShort] А я нет."
+
+msgid "Near01"
+msgstr "Опять дождь..."
+
+msgid "talk_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]Я родом из города герудо,\n"
+"а он находится в пустыне."
+
+msgid "Near02"
+msgstr "Хр-р-р..."
+
+msgid "talk_08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Да.[PauseShort] Я родом из города герудо.[PauseShort] Он\n"
+"находится в пустыне, и дождей\n"
+"там никогда не бывает.[PageBreak]Поначалу дожди мне даже нравились,\n"
+"но уж слишком часто они идут..."
+
+msgid "0000"
+msgstr "Ага"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAFyAwAAAAAAABUAAAAEAAAAXAAAAIoAAAC4AAAA5gAAABQBAABCAQAAcAEAAJ4BAADMAQAA+gEAACgCAABWAgAAhAIAALICAADgAgAADgMAADwDAABqAwAAbAMAAG4DAABwAwAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

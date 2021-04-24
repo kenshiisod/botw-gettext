@@ -1,0 +1,120 @@
+#, ruby
+msgid "Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]神獣[Color name=\"unset\"]が暴れてるってのに\n"
+"華奢なハイリア人が\n"
+"よくこのゲルドの街に\n"
+"来られたもんだね\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]族長様[Color name=\"unset\"]は大丈夫だって\n"
+"おっしゃってるけど…\n"
+"あの[Color name=\"blue\"]神獣[Color name=\"unset\"]が ここにやってこないって\n"
+"保証はないからねぇ…\n"
+"あたしゃ不安で不安で\n"
+"夜も眠れなくてねぇ…[Choice3 label1=\"0\" label2=\"2\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]あの[Color name=\"blue\"]神獣[Color name=\"unset\"]が この街にやってこないって\n"
+"保証はないからねぇ…\n"
+"[Color name=\"blue\"]族長様[Color name=\"unset\"]は大丈夫だっておっしゃってるけど…\n"
+"あたしゃ やっぱり不安でねぇ…[Choice3 label1=\"0\" label2=\"2\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あんた ゲルド砂漠を渡ってきたんだろ？[PauseMid]\n"
+"じゃあ あの外を歩いてる でっかいの見ただろ？\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]数週間前に いきなり現れてねぇ…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]あんなのが\n"
+"近くを歩いてるってだけでも怖いのに\n"
+"近づいたら 雷にやられるって言うし\n"
+"もしこの街に近づいたらって思うとね…"
+
+#, ruby
+msgid "Talk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あんたも アレには\n"
+"近づかないことだね"
+
+msgid "Talk_10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！[PauseLong]"
+
+#, ruby
+msgid "Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]あんたの事知ってるよ\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]が暴れてた時に この街に来てただろ？\n"
+"華奢なハイリア人が よく来られたもんだと\n"
+"感心してたんだ\n"
+"でも今は大人しくしてくれてるから\n"
+"あんたみたいな 観光客も来やすくなるし\n"
+"この街も もっと賑わうだろうさ\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]でもさ…\n"
+"また暴れださないって保証はないからねぇ…\n"
+"あたしゃ まだ不安だけどねぇ…"
+
+msgid "Talk_11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ[PauseLong]"
+
+#, ruby
+msgid "Talk_06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]この街には[Color name=\"blue\"]ルージュ様[Color name=\"unset\"]っていう\n"
+"立派な族長様がいらっしゃるんだ\n"
+"先代の族長様が\n"
+"若くして亡くなられてしまって\n"
+"一人娘だった[Color name=\"blue\"]ルージュ様[Color name=\"unset\"]に\n"
+"王位が継承されたばかりなんだけど…"
+
+#, ruby
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]何があったか知らないけどさ\n"
+"あの[Color name=\"blue\"]神獣[Color name=\"unset\"]が あんなに大人しくなるなんてね～\n"
+"でもあたしゃまだ信用してないよ\n"
+"いつまた動きだすかわからないからね\n"
+"そう考えたら 不安で不安で\n"
+"夜も眠れなくてねぇ…"
+
+#, ruby
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]神獣[Color name=\"unset\"]が暴れるわ\n"
+"お上もトラブル続きだわで\n"
+"かなり頭を悩まされているって聞いたよ…[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]族長様[Color name=\"unset\"]はアレは100年前までは\n"
+"この辺りの守り神だったとおっしゃってるけど…\n"
+"にわかには 信じられないよねぇ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]まっ… 嫌なことは\n"
+"呑んで 騒いで 寝ちまえば忘れちゃうんだけどね"
+
+#, ruby
+msgid "0000"
+msgstr "族長様？"
+
+msgid "Talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ[PauseLong]"
+
+msgid "0001"
+msgstr "さよなら"
+
+#, ruby
+msgid "0002"
+msgstr "神獣？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAGgAQAAAAAAABAAAAAEAAAASAAAAGIAAAB8AAAAlgAAALAAAADKAAAAzAAAAM4AAADQAAAA6gAAAAQBAAAeAQAAOAEAAFIBAABsAQAAhgEAAE4AcABjAF8AbwBhAHMAaQBzADAAMgAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADIAAAAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

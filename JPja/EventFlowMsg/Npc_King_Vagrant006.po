@@ -1,0 +1,253 @@
+#, ruby
+msgid "FirstTalk11"
+msgstr ""
+"[Sound2 id=\"2\"]ピンは [Color name=\"blue\"]マップ[Color name=\"unset\"]でも打つことや 消すことができる\n"
+"お主の思うところに ピンを打ってみるがいい[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Kotsu01"
+msgstr ""
+"[Sound2 id=\"2\"]祠を探すなら [Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の\n"
+"[Color name=\"blue\"]望遠鏡[Color name=\"unset\"]を使うといいじゃろう"
+
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"パラセールまで あと2つじゃ"
+
+#, ruby
+msgid "FirstTalk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]年の功… というやつじゃ[PauseMid]\n"
+"信じる信じないは お主の勝手じゃがな"
+
+#, ruby
+msgid "Kotsu02"
+msgstr ""
+"[Sound2 id=\"11\"]何度も 言わせるでない\n"
+"いざとなったら 己だけが頼りじゃ\n"
+"操作は ポーズ画面で確認するがいい"
+
+msgid "GoodBye03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"パラセールまで あと1つじゃ"
+
+#, ruby
+msgid "FirstTalk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]年の功… と言うたじゃろう[PauseMid]\n"
+"信じる信じないは お主の勝手じゃがな"
+
+#, ruby
+msgid "FirstTalk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]さっそく ここから見回してみるがよかろう"
+
+#, ruby
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠は 見つかったか？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "1002"
+msgstr "コツを教えて"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]のう お主…[PauseMid]\n"
+"いつまで そんな格好でおるつもりじゃ"
+
+msgid "1003"
+msgstr "さようなら"
+
+#, ruby
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じきに 日が沈むのう"
+
+#, ruby
+msgid "TerrorBomb"
+msgstr "何じゃ？"
+
+#, ruby
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]夜の台地は 静かじゃのう"
+
+msgid "1004"
+msgstr "はい！"
+
+#, ruby
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]祠探しは はかどっておるかの？[Choice2 label1=\"1004\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]して…[PauseMid]\n"
+"祠探しは はかどっておるかの？[Choice2 label1=\"1004\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "TerrorArrow"
+msgstr "何をする！"
+
+#, ruby
+msgid "FirstTalk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]こんな老いぼれに 後れを取るとは\n"
+"お主も まだまだじゃのう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "FirstTalk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"年の功というやつじゃ"
+
+#, ruby
+msgid "Clear3_00"
+msgstr ""
+"[Sound2 id=\"9\"]自信たっぷりな返事をすると思うたら\n"
+"祠を もう 3つも克服したとな？\n"
+"じゃが…[PauseMid]\n"
+"残り1つが なかなか見つからないものよのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0000"
+msgstr "いつの間に？"
+
+#, ruby
+msgid "FirstTalk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]ワープなど せんでも\n"
+"お主に 負けるような わしではないわ"
+
+msgid "0001"
+msgstr "ワープした？"
+
+#, ruby
+msgid "FirstTalk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]遅い遅い 待ちくたびれたぞ\n"
+"もう一度 ワープの方法を教えてやろうか[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0002"
+msgstr "覚えてる"
+
+#, ruby
+msgid "0003"
+msgstr "忘れた…"
+
+#, ruby
+msgid "FirstTalk05"
+msgstr ""
+"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の [Color name=\"blue\"]マップ[Color name=\"unset\"]を開いて\n"
+"青い印のついた 塔や祠を選ぶのじゃ\n"
+"一度 [Color name=\"blue\"]マップ[Color name=\"unset\"]に登録された場所であれば\n"
+"瞬時に移動できる…[PauseMid] そう覚えておくがいい"
+
+msgid "TerrorImpulse"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "FirstTalk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]お主が 祠を探している様子を\n"
+"ここから ずっと見ておったぞ"
+
+#, ruby
+msgid "0004"
+msgstr "どうして知ってるの？"
+
+#, ruby
+msgid "FirstTalk07"
+msgstr ""
+"ものを探すには [Color name=\"red\"]高いところから見回す[Color name=\"unset\"] のが一番[PauseMid]\n"
+"そう言ったじゃろう\n"
+"ここは 残りの祠を探す 絶好のポイントじゃ"
+
+msgid "0005"
+msgstr "わかった！"
+
+#, ruby
+msgid "Clear2_00"
+msgstr ""
+"[Sound2 id=\"7\"]良い返事じゃ[PauseMid]\n"
+"祠は 2つ 克服できたようじゃのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "FirstTalk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]さてさて…\n"
+"\n"
+"[Sound2 id=\"0\"]お主を ここに呼んだのは\n"
+"ここが 祠を探すのに絶好のポイントだからじゃ"
+
+#, ruby
+msgid "FirstTalk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]さてさて…[PauseMid]\n"
+"[Sound2 id=\"2\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の[Color name=\"blue\"]望遠鏡[Color name=\"unset\"]は 使っておるか？\n"
+"ここからは 全ての祠が見える\n"
+"祠を見つけたら ピンを打って 目印にするのじゃ"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"7\"]あと1つ…"
+
+msgid "TerrorExplosion"
+msgstr "ぬわーっ！"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"7\"]あと2つ…"
+
+#, ruby
+msgid "NakedPlayer"
+msgstr "裸とな…"
+
+msgid "TerrorSword"
+msgstr "やめんか！"
+
+msgid "TerrorFire"
+msgstr "あちゃっ"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"7\"]あと3つ…"
+
+#, ruby
+msgid "Clear1_00"
+msgstr ""
+"[Sound2 id=\"10\"]自信たっぷりじゃが\n"
+"まだ 1つしか 克服できとらんじゃないか[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "FirstTalk10"
+msgstr ""
+"お主 [Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]に\n"
+"[Color name=\"blue\"]望遠鏡[Color name=\"unset\"]の機能があることは 気づいておるか？\n"
+"[Color name=\"blue\"]望遠鏡[Color name=\"unset\"]を覗いて 祠を見つけたら\n"
+"ピンを打って 目印にすることができるのじゃ"
+
+#, ruby
+msgid "Kotsu00"
+msgstr ""
+"コツで思い出したが…\n"
+"\n"
+"新しく覚えた操作は\n"
+"ポーズ画面で いつでも確認できるのじゃ"
+
+#, ruby
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAEUBgAAAAAAADEAAAAEAAAAzAAAAPQAAAD2AAAA+AAAACABAABIAQAAcAEAAHIBAAB0AQAAnAEAAMQBAADsAQAAFAIAADwCAABkAgAAjAIAAI4CAACQAgAAuAIAAOACAAAIAwAAMAMAADIDAAA0AwAAXAMAAIQDAACsAwAA1AMAAPwDAAD+AwAAJgQAAE4EAAB2BAAAngQAAMYEAADuBAAAFgUAAD4FAABmBQAAjgUAALYFAADeBQAABgYAAAgGAAAKBgAADAYAAA4GAAAQBgAAEgYAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADYAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA2AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANgAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

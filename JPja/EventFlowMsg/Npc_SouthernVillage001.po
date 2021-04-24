@@ -1,0 +1,77 @@
+#, ruby
+msgid "0003"
+msgstr "昼まで"
+
+#, ruby
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]そうかい…[PauseShort]\n"
+"またの機会に 泊まっていくわいさ～！"
+
+#, ruby
+msgid "0004"
+msgstr "夜まで"
+
+#, ruby
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]お客さん ルピーが足りないわいさ…[PauseShort]\n"
+"また 来るさ～"
+
+msgid "0005"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]ぐっすり 眠れたかいね～？[PauseShort]\n"
+"\n"
+"泊まってくれた お客さんは\n"
+"桟橋に停めてある [Color name=\"red\"]筏[Color name=\"unset\"]を 自由に使っていいわいさ[PauseShort]\n"
+"また 来るさ～"
+
+#, ruby
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]いつまで お休みになるさ～ね？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0007"
+msgstr "やめる"
+
+#, ruby
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]普通のベッドなら [Color name=\"red\"]20ルピー[PauseShort][Color name=\"unset\"]\n"
+"ふかふかベッドなら [Color name=\"red\"]40ルピー[Color name=\"unset\"]さ～[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0000"
+msgstr "普通のベッド"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]いらっしゃい！[PauseMid]\n"
+"お泊りかいさ～？\n"
+"お客さん 長旅でおつかれだろう"
+
+msgid "0001"
+msgstr "ふかふかベッド"
+
+#, ruby
+msgid "0002"
+msgstr "朝まで"
+
+#, ruby
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]それでは どうぞ[PauseShort]\n"
+"ゆっくり 休んでいくわいさ～"
+
+msgid "Near00"
+msgstr "いらっしゃ～い"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAHCAQAAAAAAAA8AAAAEAAAARAAAAHIAAAB0AAAAdgAAAHgAAACmAAAAqAAAAKoAAACsAAAArgAAANwAAAAKAQAAOAEAAGYBAACUAQAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAMQAAAAAAAAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADEAAAAAAAAAAAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADEAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAAxAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAMQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADEAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAAxAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAMQAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

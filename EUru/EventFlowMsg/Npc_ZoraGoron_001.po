@@ -1,0 +1,81 @@
+msgid "0001"
+msgstr "Пока"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Я из [Color name=\"blue\"]Горонграда[Color name=\"unset\"].[PauseShort] Это\n"
+"на самой [Color name=\"blue\"]Горе Смерти[Color name=\"unset\"]!"
+
+msgid "0002"
+msgstr "Гора Смерти..."
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]У нас там дождей не бывает,\n"
+"а вот здесь частенько льет."
+
+msgid "0003"
+msgstr "Ты ешь камни?"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]Там у нас такая жара, что\n"
+"тебе мало не покажется!"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]Ты что, ни разу не был\n"
+"на [Color name=\"blue\"]Горе Смерти[Color name=\"unset\"]?![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Это вулкан такой. В ясные дни он\n"
+"виден из любого уголка Хайрула.[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Мы, гороны, питаемся камнями,\n"
+"поэтому и живем на самой [Color name=\"blue\"]Горе\n"
+"Смерти[Color name=\"unset\"]."
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Привет."
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Ага![PauseShort] Я их просто обожаю![PageBreak][Sound1 unk1=\"0\" unk2=\"19\"]Но не все: иногда попадаются\n"
+"драгоценные — они невкусные.[PageBreak][Sound1 unk1=\"11\" unk2=\"12\"]Их только выбрасывать![PauseShort] Хотя можно\n"
+"и продать...[PauseShort] А еще их используют\n"
+"в украшениях и снаряжении."
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Правда, потом оказалось, что\n"
+"я для него слишком тяжелый.[PageBreak]«Этот толстяк меня раздавит!»[PageBreak][Sound1 unk1=\"9\" unk2=\"12\"]Вот именно так он про меня и сказал...[PageBreak][Sound1 unk1=\"0\" unk2=\"9\"]Дипломат из него никакой!"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Еще вопросы?[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Нечасто здесь хайлийца встретишь."
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Привет![PauseShort] Хорошая погодка, а?"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Я вот тоже путешествовал в этих\n"
+"краях.[PauseShort] Честно говоря, не планировал\n"
+"приходить к зора.[PageBreak]Но встретил принца Сидона\n"
+"и не смог отказаться от его\n"
+"приглашения."
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Привет![PauseShort] Дождичек бодрит, да?"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Хочешь что-то спросить?[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0000"
+msgstr "Откуда ты?"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Счастливо!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAFQAgAAAAAAABIAAAAEAAAAUAAAAFIAAABUAAAAVgAAAFgAAAB8AAAAoAAAAMQAAADoAAAADAEAADABAABUAQAAeAEAAJwBAADAAQAA5AEAAAgCAAAsAgAAAAAAAAAAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

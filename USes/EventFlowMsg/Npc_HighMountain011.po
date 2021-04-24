@@ -1,0 +1,107 @@
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo positivo, por decir algo, es que la\n"
+"bestia no le dispara a nadie siempre\n"
+"que este se mantenga a distancia.\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]Lo malo es que ahora nos vemos\n"
+"obligados a volar muy bajo. Para los\n"
+"orni, no hay nada más humillante."
+
+msgid "Talk_09"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Eres un viajero?"
+
+msgid "Talk_20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¿Buscas a Teba? Ya se fue de la aldea.[PageBreak]Habla con Gizutt. Es el que vigila los\n"
+"puentes de la aldea."
+
+msgid "Talk_21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Tienes más preguntas?[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk_10"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Un viajero a estas horas?"
+
+msgid "Talk_11"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]¿Eh?[PauseShort] ¿Un viajero en estas condiciones?"
+
+msgid "0000"
+msgstr "¿Dónde estoy?"
+
+msgid "0001"
+msgstr "¿Qué ocurre?"
+
+msgid "Talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Me gustaría llevarte por la aldea,\n"
+"pero algo me dice que ahora no\n"
+"es el mejor momento.[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Adiós"
+
+msgid "Talk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ah,[PauseShort] eres tú..."
+
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]La [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"] estuvo\n"
+"volando sobre la aldea hasta hace poco.[PageBreak]Pero parece que alguien lo arregló y\n"
+"ya todo ha vuelto a la normalidad.[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Estás en nuestro hogar, la aldea orni.[PauseMid]\n"
+"Cabe decir que ahora mismo no somos\n"
+"tan... hospitalarios como de costumbre.\n"
+"Habla con la gente de la aldea y ya\n"
+"verás por qué."
+
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Sí, la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"] se paró\n"
+"justo encima de la aldea. No se mueve\n"
+"de ahí ni un milímetro desde entonces."
+
+msgid "0004"
+msgstr "¿La bestia divina?"
+
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿No viste ese [Color name=\"blue\"]monstruo volador[Color name=\"unset\"]?[PauseLong]\n"
+"Es la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"].[PageBreak]Ya hace un tiempo que apareció,[PauseLong]\n"
+"y se dedica a atacar a todo aquel\n"
+"que se atreve a acercarse a ella.\n"
+"Al parecer antaño era la [Color name=\"blue\"]deidad\n"
+"protectora[Color name=\"unset\"] de la aldea, pero ahora\n"
+"parece más bien lo contrario..."
+
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ahora que lo pienso, no sé cómo esa\n"
+"torre aguanta el peso..."
+
+msgid "0005"
+msgstr "¿Conoces a Teba?"
+
+msgid "Talk_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Nos vemos."
+
+msgid "Talk_17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Por aquí todo sigue igual.[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk_05"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]¿Vienes a ver a la\n"
+"[Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¿Buscas a Teba? Ya se fue de la aldea.[PageBreak]La única forma de salir de aquí sin que\n"
+"[Color name=\"blue\"]Medoh[Color name=\"unset\"] te dispare es a pata.[PageBreak]Habla con Gizutt. Puede que haya visto\n"
+"a Teba cuando bajó por los puentes."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAESAwAAAAAAABYAAAAEAAAAYAAAAGIAAABkAAAAZgAAAGgAAABqAAAAkgAAALoAAADiAAAACgEAADIBAABaAQAAggEAAKoBAADSAQAA+gEAACICAABKAgAAcgIAAJoCAADCAgAA6gIAAAAAAAAAAAAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

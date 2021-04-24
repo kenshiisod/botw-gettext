@@ -1,0 +1,243 @@
+msgid "0010"
+msgstr "我知道了"
+
+msgid "Greetings_Morning"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]早安～"
+
+msgid "Succeed_Rain"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]因為下雨，所以給你特別獎勵！"
+
+msgid "CantPlay_LanternOn_BeforeTalk"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]啊……[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]……[PauseLong]\n"
+"光是看著就能獲得療癒……"
+
+msgid "Goodbye_01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]也是啦……"
+
+msgid "CantPlay_Weather_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]不過我也只能再給你[Color name=\"red\"]20盧比[Color name=\"unset\"]當作謝禮……[PauseShort]\n"
+"那樣你還願意幫我嗎？[Choice2 label1=\"8\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NotAccept_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]嗯……"
+
+msgid "Explanation_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]這樣啊？[PauseLong]\n"
+"如果辦得到，那就麻煩你了。"
+
+msgid "CantPlay_End"
+msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]……不可以熄掉哦。"
+
+msgid "NotAccept_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]是喔……"
+
+msgid "Explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]那麼，你就試著在[Color name=\"red\"]3分鐘以內[Color name=\"unset\"]，[PauseShort]\n"
+"在這座[Color name=\"blue\"]燭台[Color name=\"unset\"]上，點亮[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]吧！[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那請在[Color name=\"red\"]3分鐘以內[Color name=\"unset\"]完成喔！"
+
+msgid "CantPlay_End_00"
+msgstr "[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"3\" unk2=\"1\"]人家明明說不可以熄掉嘛……[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "Explanation_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]那麼，你就試著在[Color name=\"red\"]1分鐘以內[Color name=\"unset\"]，[PauseShort]\n"
+"在這座[Color name=\"blue\"]燭台[Color name=\"unset\"]上，點亮[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]吧！[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那請在[Color name=\"red\"]1分鐘以內[Color name=\"unset\"]完成喔！"
+
+msgid "Explanation_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]那麼，你就試著在[Color name=\"red\"]20秒以內[Color name=\"unset\"]，[PauseShort]\n"
+"在這座[Color name=\"blue\"]燭台[Color name=\"unset\"]上，點亮[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]吧！[Choice2 label1=\"4\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Please_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那請在[Color name=\"red\"]20秒以內[Color name=\"unset\"]完成喔！"
+
+msgid "Fail02"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"12\"]畢竟都下雨了，[PauseShort]\n"
+"實在沒辦法運送[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]吧～\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]等天氣轉好，[PauseShort]\n"
+"再試著挑戰運送[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]吧。"
+
+msgid "Talk_AfterMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]藍色火焰[Color name=\"unset\"]消失了……[PauseShort]\n"
+"如果方便，可以請你再將它點上嗎？[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Explanation_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]那作為維護馬匹安全的費用，[PauseShort]\n"
+"跟你收[Color name=\"red\"]20盧比[Color name=\"unset\"]吧～[Choice1 label=\"9\"]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]因為若想盡快運送[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]，[PauseShort]\n"
+"我想應該會用到馬吧……\n"
+"所以就收[Color name=\"red\"]20盧比[PauseShort][Color name=\"unset\"]囉～[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_BeforeMiniGameClear"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]在這座[Color name=\"blue\"]燭台[Color name=\"unset\"]上發亮的[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]……[PauseShort]\n"
+"該不會再也看不到了吧……[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Explanation_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]那就收馬匹的維護費用，[PauseShort]\n"
+"[Color name=\"red\"]20盧比[Color name=\"unset\"]吧～[Choice2 label1=\"10\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Goodbye"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那改天見囉！[PauseLong]Bye Bye！"
+
+msgid "Explanation_06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]謝謝惠顧♪"
+
+msgid "0000"
+msgstr "怎麼了？"
+
+msgid "Explanation_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]……奇怪？[PauseLong]盧比不夠耶～\n"
+"\n"
+"等你存到20盧比再來吧。"
+
+msgid "BeforeStart_00"
+msgstr "[Sound2 id=\"1\"][Sound1 unk1=\"0\" unk2=\"1\"]好的，那麼[PauseShort]請就定位～"
+
+msgid "0001"
+msgstr "再見"
+
+msgid "Explanation_08"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]謝謝你！"
+
+msgid "BeforeStart_01"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]3\n"
+"\n"
+"2\n"
+"\n"
+"1\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]Go！[Size percent=\"100\"]"
+
+msgid "Near_LanternOn"
+msgstr "♪～"
+
+msgid "0002"
+msgstr "咦？"
+
+msgid "BeforeStart_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……等我說完就開始囉！"
+
+msgid "0003"
+msgstr "我幫妳點火"
+
+msgid "0004"
+msgstr "OK～"
+
+msgid "CantPlay_LanternOn_AfterTalk"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]呵呵……[Color name=\"blue\"]藍色火焰[Color name=\"unset\"][PauseShort]真美啊……"
+
+msgid "0005"
+msgstr "先不要好了"
+
+msgid "Succeed_First"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]太棒了太棒了！[PauseLong]\n"
+"真的點亮了耶！"
+
+msgid "0006"
+msgstr "還是算了"
+
+msgid "0007"
+msgstr "阿卡萊古代研究所？"
+
+msgid "Greetings_Again"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你好～"
+
+msgid "FirstTalk_00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]啊……[Choice1 label=\"0\"]"
+
+msgid "0008"
+msgstr "我會幫妳的！"
+
+msgid "FirstTalk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"][Color name=\"blue\"]藍色火焰[Color name=\"unset\"][Color name=\"Gray\"]……[Color name=\"unset\"][Size percent=\"100\"][Choice1 label=\"2\"]"
+
+msgid "0009"
+msgstr "要收錢嗎！？"
+
+msgid "FirstTalk_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]啊，[PauseShort]抱歉。\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]自從我嫁來這裡後，\n"
+"每天都很無聊……\n"
+"看著在這座[Color name=\"blue\"]燭台[Color name=\"unset\"]上發亮的[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]，\n"
+"是我唯一的樂趣。\n"
+"[Sound1 unk1=\"5\" unk2=\"0\"]但最近[Color name=\"blue\"]阿卡萊古代研究所[Color name=\"unset\"]的[Color name=\"blue\"]所長先生[Color name=\"unset\"][PauseShort]\n"
+"都不來點火了……[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_Game"
+msgstr "興奮不已♪"
+
+msgid "FirstTalk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]阿卡萊古代研究所[Color name=\"unset\"]的[Color name=\"blue\"]所長先生[Color name=\"unset\"]……\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]又不來替這座[Color name=\"blue\"]燭台[Color name=\"unset\"][PauseShort]\n"
+"點亮[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]了嗎……[Choice4Flags label1=\"65535\" label2=\"3\" flag2=\"MiniGame_KitakkareBF_Fire\" label3=\"7\" flag3=\"HatenoMini_BlueFire_Finish\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near_LanternOff"
+msgstr "啊……"
+
+msgid "FirstTalk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]嗯……[PauseShort]那位[Color name=\"blue\"]所長先生[Color name=\"unset\"]為了研究，[PauseShort]\n"
+"都會替這一帶的[Color name=\"blue\"]燭台[Color name=\"unset\"]來回點亮[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]呢。\n"
+"不過[Color name=\"blue\"]所長先生[Color name=\"unset\"]也有點年紀了，[PauseShort]\n"
+"最近是不是不方便外出呢……"
+
+msgid "Ask"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]怎麼了？[PauseShort]你要放棄嗎？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "FirstTalk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]順帶一提，如果要去[Color name=\"blue\"]阿卡萊古代研究所[Color name=\"unset\"]，[PauseShort]\n"
+"沿著這條路直走就會到了。"
+
+msgid "FirstTalk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那是由燈塔改建的建築物，我想應該很好認。"
+
+msgid "Fail"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]失敗了嗎……[PauseShort]唔唔唔……\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]要是你想再挑戰的話，[PauseShort]\n"
+"就在[Color name=\"blue\"]藍色火焰[Color name=\"unset\"]沒點亮時跟我說一聲吧。"
+
+msgid "Greetings_AboutNoon"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你好～"
+
+msgid "Greetings_Night"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]晚安～"
+
+msgid "Restart"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]那就拜託你了！"
+
+msgid "CantPlay_Weather"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]啊～可是[PauseShort]天氣不好，還是算了吧～"
+
+msgid "Reward"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]哎呀……[PauseShort]得給你謝禮才行。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGKCAAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAG4BAABwAQAAcgEAAHQBAAB2AQAAeAEAAHoBAAB8AQAAfgEAAIABAACCAQAAqgEAANIBAAD6AQAAIgIAAEoCAAByAgAAmgIAAMICAADqAgAAEgMAADoDAABiAwAAigMAALIDAADaAwAAAgQAACoEAABSBAAAegQAAKIEAADKBAAA8gQAABoFAABCBQAAagUAAJIFAAC6BQAA4gUAAAoGAAAyBgAAWgYAAIIGAACqBgAA0gYAAPoGAAAiBwAASgcAAHIHAACaBwAAwgcAAOoHAAASCAAAOggAAGIIAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMQAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADEAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

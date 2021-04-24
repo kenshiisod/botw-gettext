@@ -1,0 +1,105 @@
+msgid "0008"
+msgstr "Il y a quoi au sud ?"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Zzz..."
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Le château d'Hyrule.\n"
+"\n"
+"\n"
+"[Sound2 id=\"2\"]On raconte qu'il y avait un passage\n"
+"secret, la [Color name=\"red\"]galerie est[Color name=\"unset\"], qui permettait à la\n"
+"famille royale de fuir en cas de danger.\n"
+"En l'empruntant, on pouvait entrer et\n"
+"sortir du château d'Hyrule. Par contre,\n"
+"je sais pas si elle existe toujours."
+
+msgid "0009"
+msgstr "Ça ira, merci..."
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]La [Color name=\"blue\"]montagne de la Mort [Color name=\"unset\"]et d'autres\n"
+"trucs.[PauseLong] C'est tout."
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Allez, à plus..."
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Mes grands frères, Elos et Yolel,[PauseShort] passent\n"
+"leurs journées à s'amuser...\n"
+"\n"
+"Et c'est à moi qu'ils ont refilé les\n"
+"explications...[Choice1 label=\"4\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Pff...[Choice1 label=\"3\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Oui.[PauseLong] Selon le Code de la société des\n"
+"relais, chapitre 4, article 9...\n"
+"\n"
+"« Dans chaque relais, un employé doit\n"
+"être disponible en permanence pour\n"
+"donner des informations sur la région. »\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]Ils m'ont refilé cette tâche,[PauseShort] et eux,\n"
+"ils passent leur temps à s'amuser...\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Enfin bon, je suis le seul au relais des\n"
+"marécages à être qualifié pour donner\n"
+"des explications,[PauseShort] j'ai pas trop le choix."
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]Alors, allons-y, jouons le jeu ![PauseShort] Tu veux\n"
+"que je te parle un peu des alentours ?[Choice4Flags label1=\"5\" label2=\"6\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Bye bye !"
+
+msgid "0003"
+msgstr "Qu'est-ce qu'il y a ?"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Bien, question suivante.[Choice4Flags label1=\"5\" label2=\"6\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0004"
+msgstr "Les explications ?"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux pas que je te dise ce qu'il y a\n"
+"au sud ?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"8\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0005"
+msgstr "Il y a quoi à l'est ?"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]... Si tu veux savoir ce qu'il y a au sud,[PauseShort]\n"
+"tu n'as qu'à demander au [Color name=\"blue\"]relais de la\n"
+"rivière[Color name=\"unset\"]. [PauseLong]Haha..."
+
+msgid "0006"
+msgstr "Il y a quoi à l'ouest ?"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]J'ai très bien compris, hein.[PauseShort] Je sais\n"
+"que tu fais ça exprès pour m'embêter."
+
+msgid "0007"
+msgstr "Il y a quoi au nord ?"
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Le domaine Zora. [PauseLong]C'est tout."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAHcAgAAAAAAABUAAAAEAAAAXAAAAF4AAABgAAAAYgAAAGQAAABmAAAAaAAAAGoAAABsAAAAnAAAAMwAAAD8AAAALAEAAFwBAACMAQAAvAEAAOwBAAAcAgAATAIAAHwCAACsAgAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8ATgBvAHIAdABoAEgAYQB0AGUAbABIAGEAdABhAGcAbwAwADAAMgAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

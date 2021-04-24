@@ -1,0 +1,92 @@
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Бутылка [Color name=\"blue\"]пожарного зелья[Color name=\"unset\"]\n"
+"обойдется тебе в [Color name=\"red\"]60 рупий[Color name=\"unset\"]![Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Слушай, хайлиец, [Color name=\"blue\"]Рудания[Color name=\"unset\"], конечно,\n"
+"угомонился, но у нас по-прежнему\n"
+"для тебя жарковато.[PageBreak]Чтобы не сгореть, купи\n"
+"у меня [Color name=\"blue\"]пожарное зелье[Color name=\"unset\"].[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near00"
+msgstr "Тр-р-р-р-р!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Но у тебя денег хватает![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Видимо, ты совсем на мели..."
+
+msgid "near01"
+msgstr "Пс-с-с..."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ура! Продано![PauseShort] Вот, держи."
+
+msgid "near02"
+msgstr "Эх..."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Хайлийцам [Color name=\"unset\"]много зелья не бывает.[PauseShort]\n"
+"Бери еще: одна бутылка — [Color name=\"red\"]60 рупий[Color name=\"unset\"].[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Но у тебя ведь этого зелья полная\n"
+"сумка...[PauseShort] Приходи, когда кончится."
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Дядя, купи у меня кое-что![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Ты же [Color name=\"blue\"]хайлиец[Color name=\"unset\"], значит, тебе\n"
+"нужно [Color name=\"blue\"]пожарное зелье[Color name=\"unset\"]![Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Если сгоришь, сам виноват!"
+
+msgid "0000"
+msgstr "Что именно?"
+
+msgid "0001"
+msgstr "Я лучше пойду"
+
+msgid "0002"
+msgstr "Ну давай"
+
+msgid "0003"
+msgstr "Беру!"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Нужно [Color name=\"blue\"]пожарное зелье[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0004"
+msgstr "Не пойдет"
+
+msgid "talk11"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]Бдр-гр...[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]А, клиент..."
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Зачем тогда разбудил?!"
+
+msgid "talk00"
+msgstr ""
+"[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"1\" unk2=\"0\"]Наверное, он знает, что пожарное зелье легко\n"
+"сварить самому: надо лишь взять[Color name=\"unset\"] [Color name=\"blue\"]пожарную\n"
+"ящерицу[Color name=\"unset\"] [Color name=\"Gray\"]и[Color name=\"unset\"] [Color name=\"blue\"]зуб бокоблина[Color name=\"unset\"].[Size percent=\"100\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Ну как хочешь!"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Хе-хе![PageBreak][Color name=\"Gray\"][Size percent=\"80\"]Ура![Size percent=\"100\"][Color name=\"unset\"][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Итак..."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Получай!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAIIAAACcAAAAtgAAALgAAAC6AAAAvAAAAL4AAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

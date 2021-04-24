@@ -1,0 +1,760 @@
+msgid "near00"
+msgstr "Currar sin parar..."
+
+msgid "0000"
+msgstr "Por favor"
+
+msgid "near01"
+msgstr "Ajá."
+
+msgid "0001"
+msgstr "¡Espera!"
+
+msgid "0002"
+msgstr "Adiós"
+
+msgid "0003"
+msgstr "Un expositor"
+
+msgid "near04"
+msgstr "Zzz..."
+
+msgid "0004"
+msgstr "Un mueble"
+
+msgid "0005"
+msgstr "Cambiar el exterior"
+
+msgid "0006"
+msgstr "Es igual"
+
+msgid "0010"
+msgstr "Una cama"
+
+msgid "0007"
+msgstr "Expositor de armas"
+
+msgid "0011"
+msgstr "¡Sí!"
+
+msgid "0008"
+msgstr "Expositor de arcos"
+
+msgid "0012"
+msgstr "Algo que ilumine"
+
+msgid "0009"
+msgstr "Expositor de escudos"
+
+msgid "0013"
+msgstr "Quiero un jardín"
+
+msgid "0014"
+msgstr "Quiero árboles"
+
+msgid "0015"
+msgstr "Una puerta"
+
+msgid "0016"
+msgstr "Pues claro"
+
+msgid "0020"
+msgstr "Sí, los vi"
+
+msgid "0017"
+msgstr "Ayúdame con la casa"
+
+msgid "0021"
+msgstr "Quiero un letrero"
+
+msgid "0018"
+msgstr "¿Qué?"
+
+msgid "0022"
+msgstr "¡Pagaré!"
+
+msgid "0019"
+msgstr "¿Karid?"
+
+msgid "0023"
+msgstr "No puedo pagarte..."
+
+msgid "0024"
+msgstr "¿Cómo?"
+
+msgid "0025"
+msgstr "Suena bien"
+
+msgid "0026"
+msgstr "¿Qué haces?"
+
+msgid "0030"
+msgstr "Aquí las tengo"
+
+msgid "0027"
+msgstr "¿Quién eres?"
+
+msgid "0031"
+msgstr "¿Unos terrenos?"
+
+msgid "0028"
+msgstr "¡Quiero comprarla!"
+
+msgid "0032"
+msgstr "¡Puedo pagarte!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bueno, lo más gordo ya está terminado.\n"
+"Al fin podré descansar un rato.[PageBreak]No me mires así... Todo el mundo\n"
+"tiene un límite, chaval."
+
+msgid "0029"
+msgstr "Pueees..."
+
+msgid "0033"
+msgstr "Imposible..."
+
+msgid "0034"
+msgstr "Déjalo"
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]A ver si lo adivino...[PauseLong] Te acabas de\n"
+"comprar una casa, pero está\n"
+"completamente vacía.\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]Sí, se te nota en la mirada...[PauseLong]\n"
+"Me recuerdas a mí cuando\n"
+"tenía tu edad. Ay...\n"
+"Atiende. Puedo amueblarla, cambiar\n"
+"el exterior, o lo que se te antoje[PauseShort] por\n"
+"el módico precio de [Color name=\"red\"]5000 rupias[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]Bueeeno. Esa es mi tarifa oficial.\n"
+"Pero, por ser tú, iré empezando\n"
+"si me pagas [Color name=\"red\"]100 rupias[Color name=\"unset\"].\n"
+"Luego puedes irme dando el resto\n"
+"conforme lo vayas teniendo.[PageBreak]¡No me digas que no te doy facilidades!"
+
+msgid "0035"
+msgstr "Lo soy"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Cómo va eso?"
+
+msgid "0036"
+msgstr "¿Estás bien?"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¿Ah, sí?[PauseShort] ¿Cómo tú por aquí?"
+
+msgid "0037"
+msgstr "Ese colgante..."
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡A los buenos días, chaval!"
+
+msgid "0038"
+msgstr "Eh..."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Qué hay?"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Qué quieres, chaval?[Choice4Flags label1=\"3\" flag1=\"HatenoNPC032_CompStand\" label2=\"4\" flag2=\"HatenoNPC032_CompInDoor\" label3=\"5\" flag3=\"HatenoNPC032_CompOutDoor\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Muy buenas!"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Cuál?[Choice4Flags label1=\"7\" flag1=\"HatenoNPC032_WeaponStand3\" label2=\"8\" flag2=\"HatenoNPC032_ArrowStand3\" label3=\"9\" flag3=\"HatenoNPC032_ShieldStand3\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Hasta luego!"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Cuál quieres?[Choice4Flags label1=\"10\" flag1=\"HatenoNPC032_Bed\" label2=\"12\" flag2=\"HatenoNPC032_Light\" label3=\"15\" flag3=\"HatenoNPC032_Door\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Y qué quieres cambiar en el exterior?[Choice4Flags label1=\"21\" flag1=\"HatenoNPC032_Nameplate\" label2=\"13\" flag2=\"HatenoNPC032_Farm\" label3=\"14\" flag3=\"HatenoNPC032_Tree\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Serán [Color name=\"red\"]100 rupias[Color name=\"unset\"] de nada.[PauseLong]\n"
+"¿Dispones de esa suma?[Choice2 label1=\"16\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ajá. El pago se hace por adelantado."
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Quieto parado, chaval.[PauseLong]\n"
+"Te faltan las [Color name=\"red\"]100 rupias[Color name=\"unset\"]. ¿No te\n"
+"han enseñado a ahorrar o qué?"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Estoy derrengado.[PauseShort] Necesito descansar\n"
+"un rato."
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Pues muy bien!"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ahora que lo pienso...[PauseShort] No he vuelto\n"
+"a saber nada de Karid."
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Querías algo, chaval?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Mira que es difícil perderse\n"
+"de camino al [Color name=\"blue\"]lago de Akkala[Color name=\"unset\"]..."
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]¡Uah![PauseLong] ¡Si no lo veo, no lo creo![Size percent=\"100\"][PageBreak]Te lo has comprado todito...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Locuras de juventud, supongo.[PageBreak]En fin, para premiar tu afán de\n"
+"coleccionismo,[PauseShort] he decidido añadir a la\n"
+"oferta algo con lo que [Color name=\"blue\"]amueblar [Color name=\"unset\"]tu casa."
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Mientras le vaya bien por el\n"
+"[Color name=\"blue\"]lago de Akkala[Color name=\"unset\"], no hay de qué\n"
+"preocuparse, pero aun así..."
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Necesitas algo, chaval?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bueno, pues no me quejo. [PauseLong]Aunque\n"
+"hay algo que me quita el sueño,\n"
+"a decir verdad.\n"
+"Decidí retirarme de esto de\n"
+"la construcción. Uno no puede\n"
+"estar a todo, ¿sabes?\n"
+"Que si construir, que si dirigir el negocio,\n"
+"que si diseñar cosas... ¡Un follón![PageBreak]Así que tomé la decisión de irme\n"
+"de viaje para encontrar pareja.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¿Y tú qué? [PauseShort]¿No tienes cosas que\n"
+"hacer?[PauseLong] Será mejor que te pongas\n"
+"a ello, chaval.\n"
+"¡El tiempo es oro!"
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Te gusta, ¿eh? Es una gargantilla que\n"
+"he heredado y que ha pertenecido a mi\n"
+"familia desde hace generaciones.\n"
+"Dicen que trae la felicidad a todo\n"
+"aquel que se la ponga; aunque yo\n"
+"no sé si creérmelo.\n"
+"[Sound1 unk1=\"0\" unk2=\"35\"]Por cierto, ¿te fijaste en los pétalos\n"
+"de flor que cayeron cuando terminó\n"
+"la boda de Karid?[Choice1 label=\"20\"]\n"
+"Ah, no me lo esperaba.[PauseLong] Se dice que\n"
+"es algo que solo pueden ver quienes\n"
+"tienen buen corazón.\n"
+"Ya sabes, por eso de que los pétalos\n"
+"al caer simbolizan un amor que no\n"
+"tiene fin.[PauseLong] Qué pastelada, chaval."
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Entendido. [PauseShort]Me pondré a ello."
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]He mandado a Karid que despeje unos\n"
+"terrenitos en [Color name=\"blue\"]Akkala[Color name=\"unset\"].[Choice1 label=\"31\"]"
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]¡Me pondré al tajo inmediatamente!"
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]No te arrepentirás[PauseShort] de haber contratado\n"
+"nuestros servicios."
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]A saber cómo le irá a Karid por [Color name=\"blue\"]Akkala[Color name=\"unset\"]...[PageBreak]No es un mal sitio, pero a lo mejor\n"
+"lo cargué demasiado para el viaje.[PauseShort]\n"
+"¡Y eso que es un fortachón!"
+
+msgid "talk100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Y tú tampoco deberías perder\n"
+"el tiempo, ¿eh?[PageBreak]La juventud [PauseShort]es como una hoja llevada\n"
+"por el viento... En cuanto te das cuenta,\n"
+"ya no está ahí.\n"
+"Aplícate el cuento, chaval. Si tienes\n"
+"algún asunto pendiente, más te vale\n"
+"que te pongas a ello rapidito."
+
+msgid "talk29"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]Dame un minuto. [PauseShort]Tengo que prepararme."
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Pues sí. [PauseShort]Ya va siendo hora de tirar\n"
+"hacia [Color name=\"blue\"]Akkala[Color name=\"unset\"]. El negocio no se va\n"
+"a expandir solo, ¿sabes?\n"
+"Si quieres saber más al respecto,\n"
+"tendrás que hablar con el tipo\n"
+"que he puesto al cargo de todo."
+
+msgid "talk101"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Qué más quieres, chaval?[Choice4Flags label1=\"36\" label2=\"37\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk34"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sí, sí, claro. [PauseLong]La boda de Karid, ¿no?"
+
+msgid "talk102"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Se te ofrece algo más?[Choice4 label1=\"17\" label2=\"19\" label3=\"38\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TerrorArrow"
+msgstr "¡Qué peligro!"
+
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Pues sí. [PauseShort]Expandir el negocio y todo eso.\n"
+"Creo que lo mandaré para allá pronto.[PageBreak]¡No te quedes ahí plantado! Vete a\n"
+"decirle algo a Karid antes de que\n"
+"se marche, ¿no?"
+
+msgid "talk103"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ajá.[PauseLong] ¿Entonces tengo que ir\n"
+"a la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"] o qué?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk36"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Nos vamos a planchar la oreja, chaval."
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Gracias por la contribución, chaval![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Con lo joven que eres, y ya gastando\n"
+"rupias como si no hubiese un mañana...[PageBreak]¡Ojalá el resto de jóvenes\n"
+"aprendiesen de ti![PageBreak]He metido también el [Color name=\"blue\"]expositor de armas[Color name=\"unset\"],\n"
+"porque no había forma de venderlo.[PauseShort]\n"
+"A ver si tú le sacas algo de partido.\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]Bueno, y ahora a ver a qué\n"
+"nos dedicamos...[PageBreak]Ah, es verdad. Ahora nos toca [Color name=\"red\"]eso[Color name=\"unset\"].[PauseShort]\n"
+"Voy a mandar a Karid a que despeje\n"
+"unos terrenos en la zona de [Color name=\"blue\"]Akkala[Color name=\"unset\"]."
+
+msgid "talk104"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]A ver...[PauseShort] ¿en qué quedamos?[PageBreak]No tengo tiempo para pamplinas,\n"
+"así que avísame cuando te hayas\n"
+"aclarado, chaval."
+
+msgid "talk37"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Mmm... [PauseShort]Zzz... [PauseShort][Size percent=\"80\"]Karud tiene actitud...[Size percent=\"100\"]"
+
+msgid "talk41"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]¡Karid! [PauseShort]¡Karad! [PauseShort]¡Parad en seco!"
+
+msgid "talk105"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Oye, [PauseShort]¿esa [Color name=\"blue\"]llama azul[Color name=\"unset\"] no es de\n"
+"la [Color name=\"blue\"]jefa[Color name=\"unset\"] del [Color name=\"blue\"]laboratorio de Hatelia[Color name=\"unset\"]?"
+
+msgid "talk38"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Mmm... [PauseShort]Zzz... [PauseShort][Size percent=\"80\"]Rud, rud...[Size percent=\"100\"]"
+
+msgid "talk42"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]¡Entendido, jefe!"
+
+msgid "talk106"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Oye, [PauseShort]¿esa [Color name=\"blue\"]llama azul[Color name=\"unset\"] no es de\n"
+"doña Prunia? Ya sabes, la señora\n"
+"del [Color name=\"blue\"]laboratorio de Hatelia[Color name=\"unset\"]."
+
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Gracias por tu contribución, chaval.[PageBreak]La verdad es que es una casa como\n"
+"la copa de un pino.[PauseShort] No creo que\n"
+"pueda hacer nada más para mejorarla."
+
+msgid "talk43"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Tiene que ser ahora?[PauseLong]\n"
+"Déjame que descanse un rato[PauseShort]\n"
+"y luego charlaremos lo que quieras."
+
+msgid "talk107"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Como no se la devuelvas pronto,\n"
+"te vas a meter en un buen lío."
+
+msgid "talk111"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Pues muy bien."
+
+msgid "talk44"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Ya iba siendo hora!"
+
+msgid "talk108"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Juraría que esa [Color name=\"blue\"]llama azul[Color name=\"unset\"] es\n"
+"la que llevaba por ahí la [Color name=\"blue\"]jefa[Color name=\"unset\"]\n"
+"del [Color name=\"blue\"]laboratorio de Hatelia[Color name=\"unset\"]."
+
+msgid "talk112"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo que me faltaba... [PauseShort]¿Ahora se va\n"
+"a poner a llover?"
+
+msgid "talk45"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Será un placer!"
+
+msgid "talk109"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Si no me engañan los ojos, diría que\n"
+"esa [Color name=\"blue\"]llama azul[Color name=\"unset\"] es de doña Prunia.\n"
+"Sí, la señora del [Color name=\"blue\"]laboratorio de Hatelia[Color name=\"unset\"]."
+
+msgid "talk113"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si no tienes nada mejor que hacer\n"
+"podrías intentar aprenderte este\n"
+"bailecito. ¡Mira!"
+
+msgid "talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"]¡Karad! [PauseLong]¡Te quiero ver poner clavos\n"
+"como si te fuese la vida en ello!"
+
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]¿Yo? Soy el director, diseñador y\n"
+"cabeza pensante de Construcciones\n"
+"Karud.\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Y, por si te lo estabas preguntando,\n"
+"yo soy Karud en persona."
+
+msgid "talk114"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]¡La filosofía de Construcciones Karud\n"
+"debe estar presente en cada clavo!"
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]¡Karad, máquina![PauseLong] ¡Dale caña!"
+
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"17\"]Habrase visto, el mocoso este...[PauseLong]\n"
+"Pretendiendo comprar una casa\n"
+"tan grande, así como si nada."
+
+msgid "talk115"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Ahí lo has clavado!"
+
+msgid "talk48"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]¡Karad! [PauseLong]¡A dar el callo, venga!"
+
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]A ver, chaval...[PauseLong] Te lo voy a explicar.[PageBreak]¿Ves esta casa?[PauseShort] Hace años que nadie\n"
+"vive aquí, así que en una reunión de\n"
+"vecinos decidieron demolerla.\n"
+"Obviamente, los trabajos de demolición\n"
+"no son baratos.[PageBreak]Entre impuestos, mano de obra,\n"
+"seguros y demás, la broma les\n"
+"va a salir por[PauseShort] [Color name=\"red\"]50 000 rupias[Color name=\"unset\"].[PageBreak]Así que si quieres quedártela, ya sabes\n"
+"lo que tienes que desembolsar.[PauseShort]\n"
+"Sí; [Color name=\"red\"]50 000 rupias[Color name=\"unset\"], chaval.\n"
+"[Sound1 unk1=\"5\" unk2=\"6\"]¿Crees que tienes tanta calderilla?[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk116"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]¡La filosofía de Construcciones Karud\n"
+"debe estar presente en cada golpe\n"
+"de martillo!"
+
+msgid "talk120"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]¡La filosofía de Construcciones Karud\n"
+"debe estar presente en cada gota\n"
+"de pintura!"
+
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿No nos ves?[PauseShort] Estamos tirando abajo\n"
+"esta casa abandonada.[PageBreak]Tal y como está la cosa en estos\n"
+"tiempos, es imposible encontrar\n"
+"un comprador.\n"
+"Normal que los vecinos decidiesen\n"
+"demolerla, chaval.[Choice2 label1=\"28\" label2=\"29\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk53"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Querías alguna cosa, chaval?[Choice3 label1=\"26\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk117"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Martilleando con ritmo!"
+
+msgid "talk121"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Quedará que ni pintada!"
+
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Dejaré que Karid se ocupe del resto.[PauseLong]\n"
+"Yo me merezco un buen descanso."
+
+msgid "talk118"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]¡La filosofía de Construcciones Karud\n"
+"debe estar presente en cada trozo\n"
+"de madera que se sierra!"
+
+msgid "talk122"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No digo esto muy a menudo, pero...\n"
+"¡ha quedado perfecta![PauseLong] Deberías echarle\n"
+"un vistazo, chaval."
+
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]¿No conoces este bailecito?[PauseLong] ¿Seguro?[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Y yo que pensaba que era el\n"
+"no va más últimamente...[PageBreak]Bueno, pues si no quieres nada\n"
+"más, date el piro, ¿vale?"
+
+msgid "talk119"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Sierra que te sierra!"
+
+msgid "talk123"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ha quedado tan bien que es casi\n"
+"imposible mejorarla de ningún modo.[PauseLong]\n"
+"Me dan ganas de hacerme una igual."
+
+msgid "talk56"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]¿Ya has juntado [Color name=\"red\"]3000 rupias[Color name=\"unset\"], chaval?[Choice3 label1=\"30\" label2=\"27\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk60"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Karad, ¡vamos que nos vamos!"
+
+msgid "talk124"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ha quedado tan bien que casi no\n"
+"doy crédito.[PauseLong] No sé a qué esperas\n"
+"para ir a echar un vistazo, chaval."
+
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡¿Qué me dices?![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¿Me vas a dar [Color name=\"red\"]3000 rupias[Color name=\"unset\"] al contado?[PauseLong]\n"
+"Supongo que eres un chaval de palabra.[Choice2 label1=\"35\" label2=\"34\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk61"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ajá.[PauseLong] Si cambias de parecer,\n"
+"ya sabes dónde estoy."
+
+msgid "talk125"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]♪ Yo te construyo,[PauseShort] yo te decoro.[PauseMid]\n"
+"♪ Me ocupo de lo tuyo,[PauseShort] no me demoro.[PauseMid]\n"
+"♪ ¡Te dejo feliz[PauseShort] cual pirata con loro!"
+
+msgid "talk58"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]¿En serio?[PauseLong] Pues es una alegría saberlo."
+
+msgid "talk62"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si te queman en el bolsillo,\n"
+"no te preocupes; ¡yo me las\n"
+"quedo encantado!"
+
+msgid "talk126"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]♪ Demuelo con denuedo,[PauseMid]\n"
+"♪ construyo con orgullo.[PauseMid]\n"
+"♪ Karud,[PauseShort] ¡queremos un piso tuyo!"
+
+msgid "talk63"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"15\"]Ah, pero estás corto de fondos, chaval.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Aún eres joven, así que tienes todo\n"
+"el tiempo del mundo para ahorrar\n"
+"un poco."
+
+msgid "talk127"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"26\"]♪ ¡Construcciones Karud,[PauseShort] Karud![PauseMid]\n"
+"♪ Te hago una cuna,[PauseShort] te hago un ataúd.[PauseMid]\n"
+"♪ ¡Te hago una casa más chula que tú!"
+
+msgid "talk64"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bueno...[PauseLong] Supongo que un pipiolo como\n"
+"tú no tiene ni idea de estas cosas."
+
+msgid "talk128"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]¡Karad! [PauseLong]¡Anímate, haz el favor![Size percent=\"100\"]"
+
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Vaya, vaya.[PauseShort] Sí que engañas, chaval.[PageBreak][Sound1 unk1=\"6\" unk2=\"0\"]No me imaginaba que tuvieses tanta\n"
+"visión de futuro, la verdad.[PauseLong] ¡Eres\n"
+"clavadito a mí cuando tenía tu edad!"
+
+msgid "talk66"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Ya me parecía a mí.[PauseLong] Cuando tenía\n"
+"tu edad,[PauseShort] mi situación económica\n"
+"no era boyante precisamente."
+
+msgid "talk70"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Grábatelo bien en la cabecita, chaval!"
+
+msgid "talk67"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]Hum...[PageBreak]Pues viendo cómo está el patio,\n"
+"se me acaba de ocurrir una idea.[PageBreak][Sound1 unk1=\"11\" unk2=\"9\"]Te propongo un trato,[PauseShort] solo por ser tú.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Como oferta especial de la casa, estoy\n"
+"dispuesto a dejártelo en [Color name=\"red\"]3000 rupias[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"8\" unk2=\"15\"][Size percent=\"125\"]¡Pero quiero algo a cambio![Size percent=\"100\"][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Tendrás que traerme [Color name=\"red\"]30[Color name=\"unset\"] [Color name=\"red\"]montones\n"
+"de leña[Color name=\"unset\"],[PauseShort] para cubrir otros costes.[PageBreak]Si te parece bien, quedamos así.[PageBreak]Ponte a ello cuanto antes, chaval.\n"
+"¡Demuéstrame que eres de fiar!"
+
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es el trabajo más esmerado que has visto\n"
+"en tu vida, seguro.[PauseShort] Mira, ya verás."
+
+msgid "talk68"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]¡Para el carro![PauseShort] No veo yo [Color name=\"red\"]30[Color name=\"unset\"] [Color name=\"red\"]montones\n"
+"de leña[Color name=\"unset\"] por ningún lado, chaval.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Encima que me juego el cuello para\n"
+"hacerte una buena oferta...[PauseShort] ¡No me\n"
+"dejes en la estacada ahora!"
+
+msgid "talk72"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]¿Estás listo para soltar esos\n"
+"[Color name=\"red\"]30[Color name=\"unset\"] [Color name=\"red\"]montones de leña[Color name=\"unset\"]?[Choice3 label1=\"22\" label2=\"27\" label3=\"23\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "TerrorSword"
+msgstr "¡Guarda eso!"
+
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]¡Pero bueno, mocoso![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]A tu edad viene muy bien pasarlas\n"
+"canutas[PauseShort] para acabar aprendiendo algo."
+
+msgid "talk74"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ajá.[PauseLong] Trae para acá entonces."
+
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"10\"]Veo que eres de fiar, chaval.[PauseShort]\n"
+"Me alegra ver que te tomas\n"
+"las cosas en serio.\n"
+"Bueno, lo prometido es deuda.[PauseShort]\n"
+"Esta antigualla será tuya por\n"
+"la módica suma de [Color name=\"red\"]3000 rupias[Color name=\"unset\"].\n"
+"Avísame en cuanto hayas juntado\n"
+"la calderilla."
+
+msgid "talk76"
+msgstr ""
+"[Sound2 id=\"37\"]¡Kaaarud[PauseShort] es sinónimo de actitud!\n"
+"Ka...[PauseShort] ka...[PauseShort] ka...[PauseShort] rud...[PauseShort] rud...[PauseShort] rud...[PauseMid]\n"
+"¡KARUD! ♪"
+
+msgid "talk80"
+msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]¿Qué pasa?"
+
+msgid "talk77"
+msgstr "[Sound2 id=\"38\"]¡Ka... ka... ka... RUD!"
+
+msgid "talk81"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Karid va a celebrar la boda en\n"
+"la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"].[PauseShort] ¿No me lo habías\n"
+"dicho tú?\n"
+"No sé si debería ir o no.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk78"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]¡Ajajá![Size percent=\"100\"]"
+
+msgid "talk82"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Me voy al sobre, chaval. [PauseShort]Ya nos veremos."
+
+msgid "talk79"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]¿Qué diantres?[PauseLong] ¿No había sido\n"
+"idea tuya?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Si tengo que esperar, esperaré,\n"
+"aunque tampoco me gusta que\n"
+"me hagan perder el tiempo..."
+
+msgid "talk83"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Pues tendré que hacer las maletas y\n"
+"poner rumbo a la casa de Karid, digo yo.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk84"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]¿Que Karid se casa?[Size percent=\"100\"][PageBreak]¿Y dices que me ha invitado a la boda?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Vaya, pues sí que ha espabilado..."
+
+msgid "talk85"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Je, je. [PauseShort]La cosa promete."
+
+msgid "talk86"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"]¡Karad,[PauseShort] nos largamos![Size percent=\"100\"]"
+
+msgid "talk90"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Pues supongo que tendré que ir,[PauseShort]\n"
+"qué remedio.[PauseLong] Aunque tampoco es\n"
+"que tenga nada mejor que hacer."
+
+msgid "talk87"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Ya era hora!"
+
+msgid "talk91"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ha sido una ceremonia bastante decente.[Choice1 label=\"11\"]"
+
+msgid "talk88"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Venga!"
+
+msgid "talk92"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Karid y yo nos conocemos de toda\n"
+"la vida,[PauseShort] y jamás lo había visto tan\n"
+"contento."
+
+msgid "talk89"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Entendido, jefe!"
+
+msgid "talk93"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bueno... [PauseShort]Y ahora, vuelta al tajo.[PauseShort]\n"
+"Avísame si necesitas cambiar\n"
+"alguna cosa."
+
+msgid "talk94"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si buscas a Karid,[PauseShort] supongo que estará\n"
+"en la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"], viviendo su idilio\n"
+"con Kaenne.\n"
+"El amor... [PauseLong]puede cegar.[PauseShort]\n"
+"Es algo que solo comprenden\n"
+"las dos partes involucradas."
+
+msgid "talk96"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]He tomado una decisión.[Choice1 label=\"18\"]"
+
+msgid "talk97"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Me voy a jubilar.[Choice1 label=\"24\"]"
+
+msgid "talk98"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Voy a dejar de trabajar y dedicarme\n"
+"a viajar en busca de pareja.[Choice1 label=\"25\"]"
+
+msgid "TerrorBomb"
+msgstr "¡¿Qué diantres es eso?!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "YQAAAAE6FgAAAAAAAKcAAAAEAAAApAIAAM4CAAD4AgAAIgMAACQDAAAmAwAAKAMAACoDAAAsAwAALgMAADADAAAyAwAANAMAADYDAAA4AwAAOgMAADwDAAA+AwAAQAMAAEIDAABEAwAARgMAAEgDAABKAwAATAMAAE4DAABQAwAAUgMAAFQDAABWAwAAWAMAAFoDAABcAwAAXgMAAGADAABiAwAAZAMAAGYDAABoAwAAagMAAGwDAABuAwAAcAMAAHIDAAB0AwAAdgMAAKADAADKAwAA9AMAAB4EAABIBAAAcgQAAJwEAADGBAAA8AQAABoFAABEBQAAbgUAAJgFAADCBQAA7AUAABYGAABABgAAagYAAJQGAAC+BgAA6AYAABIHAAA8BwAAZgcAAJAHAAC6BwAA5AcAAA4IAAA4CAAAYggAAIwIAAC2CAAA4AgAAAoJAAA0CQAAXgkAAIgJAACyCQAA3AkAAAYKAAAwCgAAWgoAAIQKAACuCgAAsAoAALIKAAC0CgAA3goAAAgLAAAyCwAAXAsAAIYLAACwCwAA2gsAAAQMAAAuDAAAWAwAAFoMAACEDAAArgwAANgMAAACDQAALA0AAFYNAACADQAAqg0AANQNAAD+DQAAKA4AAFIOAAB8DgAApg4AANAOAAD6DgAAJA8AAE4PAAB4DwAAog8AAMwPAAD2DwAAIBAAAEoQAAB0EAAAnhAAAMgQAADyEAAAHBEAAEYRAABwEQAAmhEAAMQRAADuEQAAGBIAAEISAABsEgAAlhIAAMASAADqEgAAFBMAAD4TAABoEwAAkhMAALwTAADmEwAAEBQAADoUAABkFAAAZhQAAJAUAACSFAAAvBQAAL4UAADoFAAA6hQAABQVAAA+FQAAaBUAAJIVAAC8FQAA5hUAABAWAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADIAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMgAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAzADAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADMAMAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAwAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMwAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,69 @@
+msgid "0003"
+msgstr "Wiedersehen."
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Wenn du von hier aus nach Norden\n"
+"gehst, wirst du jenseits des [Color name=\"blue\"]Luzida-\n"
+"Flusses [Color name=\"unset\"]einen riesigen Turm sehen!\n"
+"[Sound1 unk1=\"0\" unk2=\"6\"]Ich meine, ich hätte von dort jemanden\n"
+"rufen hören...[PauseShort] Ob da wirklich\n"
+"irgendjemand auf der Spitze ist?"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Der [Color name=\"blue\"]Luzida-Fluss[Color name=\"unset\"] ist der größte Fluss\n"
+"in ganz [Color name=\"blue\"]Ranelle[Color name=\"unset\"].[PageBreak]Den schwimmend zu überqueren\n"
+"ist Selbstmord.[PageBreak][Sound1 unk1=\"5\" unk2=\"16\"]Wenn du nach Norden willst, geh erst zur\n"
+"Insel [Color name=\"blue\"]Dehess[Color name=\"unset\"] westlich von hier.\n"
+"[PauseShort]Ein kleiner Umweg, der sich auszahlt."
+
+msgid "near00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"26\"]Frei ist der Vagabund... ♪"
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Wolltest du sonst noch etwas wissen?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Oh...[PauseShort]\n"
+"Hast du mich beim Singen erwischt?[PageBreak]Ich bin Gerlack![PauseLong]\n"
+"Ich bin auf einer Reise durchs ganze\n"
+"Land, um mich selbst zu finden.\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]Gerade bin ich auf dem Weg zum [Color name=\"blue\"]Dorf\n"
+"der Zoras[Color name=\"unset\"]...[PauseShort] Aber ich habe mich verlaufen\n"
+"und bin kurz davor aufzugeben.\n"
+"Ich habe eine Stimme vom [Color name=\"red\"]Turm im\n"
+"Norden[Color name=\"unset\"] gehört...[PageBreak][Sound1 unk1=\"5\" unk2=\"12\"]Um dorthin zu gelangen, müsste man\n"
+"aber erst mal einen Weg finden, den\n"
+"[Color name=\"blue\"]Luzida-Fluss[Color name=\"unset\"] zu überqueren![Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0000"
+msgstr "Dorf der Zoras?"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Oh, hallo![Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0001"
+msgstr "Turm im Norden?"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Bis irgendwann einmal!"
+
+msgid "0002"
+msgstr "Luzida-Fluss?"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Das [Color name=\"blue\"]Dorf der Zoras[Color name=\"unset\"] ist eine Siedlung in\n"
+"[Color name=\"blue\"]Ranelle[Color name=\"unset\"], die vom Volk der Zoras errichtet\n"
+"wurde.\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]Leider scheint es mir unmöglich, den\n"
+"[Color name=\"blue\"]Luzida-Fluss[Color name=\"unset\"] zu überqueren.[PauseShort] Ich hab\n"
+"aufgegeben, jemals dorthin zu kommen."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAEwAQAAAAAAAAwAAAAEAAAAOAAAAFYAAABYAAAAWgAAAFwAAABeAAAAfAAAAJoAAAC4AAAA1gAAAPQAAAASAQAATgBwAGMAXwBMAGEAbgBhAHkAcgB1ADAAMAA0AAAAAAAAAAAAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

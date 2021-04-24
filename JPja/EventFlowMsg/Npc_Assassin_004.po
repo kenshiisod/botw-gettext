@@ -1,0 +1,63 @@
+msgid "0001"
+msgstr "……"
+
+#, ruby
+msgid "0002"
+msgstr "何を？"
+
+msgid "0003"
+msgstr "……"
+
+msgid "0004"
+msgstr "はい？"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]しくしく……[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0005"
+msgstr "……"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]しくしく……[PauseLong]\n"
+"欲しいの……[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]……焼き[PauseLong] サーモン[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]…それから"
+
+#, ruby
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]しくしく……[PauseLong]\n"
+"やっぱり 欲しいの……"
+
+#, ruby
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]勇者の命！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+#, ruby
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]しくしく……[PauseMid]\n"
+"もう 会えないの…"
+
+#, ruby
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"40\"]しくしく……"
+
+msgid "0000"
+msgstr "どうしたの？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAGCAQAAAAAAAA8AAAAEAAAARAAAAGYAAABoAAAAagAAAIwAAACOAAAAkAAAALIAAAC0AAAAtgAAANgAAAD6AAAAHAEAAD4BAABgAQAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANAAAAAAAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA0AAAAAAAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADQAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANAAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADQAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA0AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANAAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADQAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA0AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

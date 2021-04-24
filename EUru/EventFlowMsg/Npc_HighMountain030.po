@@ -1,0 +1,219 @@
+msgid "0044"
+msgstr "Я попробую"
+
+msgid "0010"
+msgstr "Радость рито"
+
+msgid "0045"
+msgstr "В другой раз"
+
+msgid "0011"
+msgstr "Твердость рито"
+
+msgid "0012"
+msgstr "Гордость рито"
+
+msgid "0013"
+msgstr "Стойкость рито"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Если бы я была бойцом, то быстро\n"
+"с ним разобралась бы."
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]«Это точно»?![PauseShort] Я вообще-то\n"
+"тебя имела в виду!"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"2\" unk2=\"1\"]Видел [Color name=\"blue\"]Чудище Ва-Медо[Color name=\"unset\"] над деревней?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Из-за него у нас все наперекосяк..."
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Фью... фью..."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Хм..."
+
+msgid "0030"
+msgstr "Солнце дневное"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]Значит, Вера, моя сестра, отправила\n"
+"тебя ко мне за продолжением древней\n"
+"песни рито?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Никак не запомнит.[PauseShort] Я спою\n"
+"продолжение, но при одном\n"
+"условии...[PageBreak][Sound1 unk1=\"0\" unk2=\"9\"]Сначала ты споешь мне\n"
+"первый куплет.[PauseShort] Идет?[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near01"
+msgstr "Фью..."
+
+msgid "0031"
+msgstr "Солнце вечернее"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Я спою продолжение песни, но только\n"
+"если ты споешь мне первый куплет.[PauseShort]\n"
+"Согласен?[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near02"
+msgstr "Столп великий...♪"
+
+msgid "0032"
+msgstr "Солнце лесное"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Наверное, ты плохо поешь..."
+
+msgid "near03"
+msgstr "..."
+
+msgid "0033"
+msgstr "Солнце утреннее"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Начинай.[Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "near04"
+msgstr "Фью... фью..."
+
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Может, ты пришел, чтобы\n"
+"послушать древнюю песню\n"
+"рито?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Да"
+
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]Хочешь послушать древнюю\n"
+"песню рито?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Нет"
+
+msgid "talk32"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ну ладно, раз ты так просишь..."
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]Гордость рито,[Pause frames=\"20\"] столп великий...[Pause frames=\"20\"]\n"
+"Солнце дневное[Pause frames=\"20\"] его сердце пронзит.[Pause frames=\"5\"]"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Вот и вся песня.[PauseMid] Заставляет\n"
+"задуматься, правда?"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро."
+
+msgid "0005"
+msgstr "О чем ты?"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет."
+
+msgid "0006"
+msgstr "Это точно"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Добрый вечер."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ну ладно."
+
+msgid "0020"
+msgstr "Стол огромный"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"10\" unk2=\"22\"]Ты же почти голый![PauseShort] Я сейчас закричу!"
+
+msgid "0021"
+msgstr "Стан счастливый"
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Я хочу спать.[PauseShort] Приходи завтра."
+
+msgid "0022"
+msgstr "Столб высокий"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Некоторые путешественники меня\n"
+"просто поражают: приходить к нам,\n"
+"когда такое происходит...[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0023"
+msgstr "Столп великий"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]А ты разве не знаешь?"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Из-за [Color name=\"blue\"]Чудища Ва-Медо [Color name=\"unset\"]в деревне\n"
+"творится не пойми что..."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"blue\"]Чудище Ва-Медо[Color name=\"unset\"] угомонилось,\n"
+"и теперь у нас снова все хорошо."
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Самое главное то, что можно\n"
+"больше не бояться летать."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Нет, неправильно.[PauseLong] Приходи,\n"
+"когда выучишь первый куплет."
+
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хорошо начал.[PauseLong] Что дальше?[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хм, угадал.[PauseLong] Продолжай.[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0040"
+msgstr "Его сердце затмит"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Снова верно.[PauseLong]\n"
+"И последняя строчка...[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0041"
+msgstr "Его сердце пронзит"
+
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Надо же, ты все запомнил.[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Как и обещала, я спою продолжение."
+
+msgid "0042"
+msgstr "Его душу согреет"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]Свет сердца падет[Pause frames=\"20\"] на священную\n"
+"землю[Pause frames=\"20\"] — и пламя откроет путь[Pause frames=\"20\"] для\n"
+"избранника мира.[Pause frames=\"5\"]"
+
+msgid "0043"
+msgstr "Его сердце согреет"
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Вот и вся песня.[PauseMid] Она очень древняя.[PageBreak]Каждый раз у меня от нее мурашки\n"
+"бегут.[PauseShort] Необыкновенное произведение."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAG8BgAAAAAAADoAAAAEAAAA8AAAABgBAABAAQAAaAEAAJABAACSAQAAlAEAAJYBAACYAQAAmgEAAJwBAACeAQAAoAEAAKIBAACkAQAApgEAAKgBAACqAQAArAEAAK4BAACwAQAAsgEAALQBAAC2AQAAuAEAALoBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAATAMAAHQDAACcAwAAxAMAAOwDAAAUBAAAPAQAAGQEAACMBAAAtAQAANwEAAAEBQAALAUAAFQFAAB8BQAApAUAAMwFAAD0BQAAHAYAAEQGAABsBgAAlAYAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"
