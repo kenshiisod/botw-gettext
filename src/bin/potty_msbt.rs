@@ -34,37 +34,14 @@ fn bytes_to_string(msbt: &Msbt, message: &mut PotMessage, raw_value: Option<&[u8
     result
 }
 
-fn string_to_bytes(message: &PotMessage) -> Vec<u8> {
-    let mut reader = Cursor::new(&message.strings[0]);
-    let mut bytes: Vec<u8> = game::bbcode_to_nodes(&mut reader)
-        .iter().flat_map(|n| n.to_bytes().into_iter()).collect();
-    bytes.extend(&0_u16.to_le_bytes());
-    // if let Endianness::Big = msbt.header().endianness() {
-    //     for chunk in bytes.chunks_exact_mut(2) {
-    //         chunk.swap(0, 1);
-    //     }
-    // }
-    bytes
-}
-
 fn main() -> Result<()> {
-    // for arg in std::env::args().skip(1) {
-    //     let file_name = &arg.strip_suffix(".msbt").unwrap();
-    //     let file_msbt = File::open(format!("{}.msbt", file_name))?;
-    //     let mut reader = BufReader::new(file_msbt);
-    //     let pot = potty_msbt::po_from_msbt(&mut reader, bytes_to_string);
-    //     let mut file_po = File::create(format!("{}.po", file_name))?;
-    //     pot.write(&mut file_po)?;
-    // }
-
     for arg in std::env::args().skip(1) {
-        let file_name = &arg.strip_suffix(".po").unwrap();
-        let file_po = File::open(format!("{}.po", file_name))?;
-        let mut reader = BufReader::new(file_po);
-        let msbt = potty_msbt::msbt_from_po(&mut reader, string_to_bytes);
-        let mut file_msbt = File::create(format!("{}.po", file_name))?;
-        msbt.
-        msbt(&mut file_msbt)?;
+        let file_name = &arg.strip_suffix(".msbt").unwrap();
+        let file_msbt = File::open(format!("{}.msbt", file_name))?;
+        let mut reader = BufReader::new(file_msbt);
+        let pot = potty_msbt::po_from_msbt(&mut reader, bytes_to_string);
+        let mut file_po = File::create(format!("{}.po", file_name))?;
+        pot.write(&mut file_po)?;
     }
 
     Ok(())

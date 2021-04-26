@@ -7,8 +7,8 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-potty = { path = "../potty" }
-msbt = { path = "../msbt-rs" }
+potty = { git = "https://github.com/shane-tw/potty" }
+msbt = { git = "https://github.com/shane-tw/msbt-rs", branch = "atr1-unknown" }
 regex = "1"
 byteordered = "0.4.0"
 serde = { version = "1.0.117", features = ["derive"] }
