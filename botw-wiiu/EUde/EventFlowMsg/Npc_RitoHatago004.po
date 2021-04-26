@@ -1,0 +1,516 @@
+msgid "KyoukaiTalk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Willkommen in unserem [Color name=\"blue\"]Stall[Color name=\"unset\"]![PageBreak]Hier kannst du gefangene Wildpferde\n"
+"registrieren und deine Pferde mitnehmen\n"
+"oder austauschen.[PageBreak]Wenn du [Color name=\"red\"]übernachten [Color name=\"unset\"]möchtest,\n"
+"wende dich bitte an die Rezeption\n"
+"drinnen.[PageBreak]Also, wie kann ich dir helfen?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Bitte gib einen Namen für dein Pferd\n"
+"an.[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]Kann das sein?[PageBreak]Das ist doch das legendäre Pferd [Color name=\"red\"]Epona[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Es wäre nicht richtig, ihr einen anderen\n"
+"Namen zu geben...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Darf ich „[Color name=\"red\"]Epona[Color name=\"unset\"]“ lassen?[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Willkommen in unserem [Color name=\"blue\"]Stall[Color name=\"unset\"]![PageBreak]Wenn du ein Wildpferd gefangen hast,\n"
+"kannst du es hier registrieren.[PageBreak]Falls du [Color name=\"red\"]übernachten [Color name=\"unset\"]möchtest, wende\n"
+"dich bitte an die Rezeption drinnen.[PageBreak]Also, wie kann ich dir helfen?[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Register21"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Das verstehe ich, aber es wäre einfach\n"
+"nicht richtig, ihren Namen zu ändern.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Wollen wir sie nicht doch als „[Color name=\"red\"]Epona[Color name=\"unset\"]“\n"
+"registrieren?[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Gibt es noch etwas, womit ich helfen\n"
+"kann?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Vielen Dank.[PageBreak]Für die Registrierung erheben wir eine\n"
+"Gebühr von [Color name=\"red\"]20 Rubinen[Color name=\"unset\"], aber [Color name=\"blue\"]Sattel[Color name=\"unset\"] und\n"
+"[Color name=\"blue\"]Zaumzeug[Color name=\"unset\"] sind inklusive, in Ordnung?[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Du scheinst ein Wildpferd gefangen\n"
+"zu haben. Möchtest du es registrieren?[Choice2 label1=\"66\" label2=\"67\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register23"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]Möchtest du dieses Pferd registrieren?[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"2\"]Willkommen![PauseLong]\n"
+"Oh, du siehst aber...[PauseShort] naturverbunden\n"
+"aus![PageBreak]Nachts oder bei Regen solltest du besser\n"
+"nicht draußen so herumlaufen, sonst\n"
+"erkältest du dich noch![PageBreak]In unserem Stall gibt es übrigens\n"
+"Luxusbetten.[PauseShort] Da ist ein erholsamer\n"
+"Schlaf garantiert!"
+
+msgid "KyoukaiTalk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Kein Problem!"
+
+msgid "Deliver00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Und welches Pferd möchtest du\n"
+"abholen?"
+
+msgid "0040"
+msgstr "Ja!"
+
+msgid "KyoukaiTalk06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Willkommen in unserem [Color name=\"blue\"]Stall[Color name=\"unset\"]![PauseShort]\n"
+"Möchtest du ein Pferd registrieren\n"
+"oder mitnehmen?\n"
+"[04:03]Was darf's sein?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Deliver01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Du hast im Moment keine registrierten\n"
+"Pferde.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Du müsstest erst ein Wildpferd fangen\n"
+"und es zum Registrieren herbringen.[PauseShort]\n"
+"Dann gehört es offiziell dir."
+
+msgid "0041"
+msgstr "Nein..."
+
+msgid "KyoukaiTalk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Willkommen in meinem [Color name=\"blue\"]Stall[Color name=\"unset\"]![PageBreak]Wenn du ein Wildpferd fängst, kannst du\n"
+"es bei mir als dein Pferd registrieren.[PageBreak][04:03]Also, was kann ich für dich tun?[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Deliver02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]Du möchtest also [Color name=\"red\"][StableHorse][Color name=\"unset\"], ja?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0042"
+msgstr "In Ordnung."
+
+msgid "Deliver03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Gut, dann nehmen wir [Color name=\"red\"][ActiveHorse][Color name=\"unset\"]\n"
+"in unsere Obhut. Augenblick, bitte."
+
+msgid "0043"
+msgstr "Den Namen ändern."
+
+msgid "Deliver04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Tut mir leid, dass du warten musstest.[PauseShort]\n"
+"Danke, dass du unsere Dienste in\n"
+"Anspruch genommen hast."
+
+msgid "Deliver05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Ich kümmere mich nur schnell um die\n"
+"Formalitäten.[PauseShort] Bitte warte kurz."
+
+msgid "Deliver06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Möchtest du ein anderes Pferd?"
+
+msgid "Deliver07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Ich lasse jetzt [Color name=\"red\"][ActiveHorse] [Color name=\"unset\"]zu\n"
+"uns bringen. [PauseShort]Einen Moment, bitte."
+
+msgid "Register11"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Ich verstehe dich, es ist nicht leicht,\n"
+"Abschied zu nehmen.[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Aber ich versichere dir, dass wir uns\n"
+"hier bestens um dein Pferd kümmern!"
+
+msgid "Receive01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Du hast gar kein Pferd dabei.[PauseLong] Aber wenn\n"
+"du uns ein registriertes Pferd bringst,\n"
+"bringen wir es gern bei uns unter."
+
+msgid "Register12"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Oh...[PauseShort] Du möchtest dieses Wildpferd also\n"
+"nicht registrieren.[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Kein Problem.[PauseLong] Wir sind da, wenn du\n"
+"unsere Dienste benötigst."
+
+msgid "Receive02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Dein Pferd ist bei uns in guten Händen."
+
+msgid "Register13"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Bitte gib ihm einen passenden Namen."
+
+msgid "Receive03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Du hast es dir anders überlegt?\n"
+"Kein Problem."
+
+msgid "0030"
+msgstr "Ein Pferd freilassen."
+
+msgid "Register14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Danke sehr!"
+
+msgid "Receive04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Gut... Wir sind hier, wenn du uns\n"
+"brauchst."
+
+msgid "0031"
+msgstr "Alles so lassen."
+
+msgid "Register15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Dir fehlen die [Color name=\"red\"]20 Rubine[Color name=\"unset\"] für die Gebühr.[PageBreak]Tut mir leid, aber ohne Rubine kann ich\n"
+"das Pferd nicht für dich registrieren."
+
+msgid "Advice01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Wenn du auf einer Straße reitest, folgt\n"
+"dein Pferd instinktiv dem Weg, du musst\n"
+"nichts weiter tun.[PageBreak]Genieß einfach die Aussicht!"
+
+msgid "Receive05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Du möchtest also das Pferd, das du\n"
+"mitgebracht hast, [Color name=\"red\"][ActiveHorse][Color name=\"unset\"],\n"
+"bei uns abgeben?[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0032"
+msgstr "Ja!"
+
+msgid "Register16"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Also keine Registrierung...[PauseShort] Schade."
+
+msgid "Advice02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"23\"]Wenn ein Pferd Angst hat oder nicht\n"
+"weiter will, ist es manchmal unmöglich,\n"
+"es dazu zu bringen, sich zu bewegen.[PageBreak]In so einem Fall kannst du durch\n"
+"[Color name=\"red\"]Anvisieren[Color name=\"unset\"] das Pferd [Color name=\"red\"]Schritt für Schritt[Color name=\"unset\"]\n"
+"bewegen.[PageBreak]Aber sei vorsichtig, nicht, dass du\n"
+"einen Abhang hinunterpurzelst."
+
+msgid "0033"
+msgstr "Nein..."
+
+msgid "Register17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Bitte gib einen Namen für dein Pferd\n"
+"an."
+
+msgid "Advice03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Wenn du zu Pferd mit jemandem reden\n"
+"möchtest, solltest du ihn [Color name=\"red\"]anvisieren[Color name=\"unset\"].[PageBreak]Aber dafür musst du langsam reiten,\n"
+"sonst wird das mit dem Reden\n"
+"schwierig..."
+
+msgid "Register00_1"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Äh... Also...[PauseShort]\n"
+"Das ist mehr ein Monster als ein Pferd...[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Tut mir leid, aber für ein solches „Pferd“\n"
+"sind wir nicht eingerichtet, fürchte ich..."
+
+msgid "0034"
+msgstr "Ja."
+
+msgid "Register18"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Ach, übrigens...[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Falls du und dein Pferd unterwegs\n"
+"getrennt werdet, pfeif einfach, und dein\n"
+"Pferd kommt zu dir!"
+
+msgid "Advice04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Falls du von deinem Pferd getrennt\n"
+"wirst, reicht ein kurzer Pfiff, und es\n"
+"kommt zu dir."
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Ich hoffe, du hast gut geschlafen.[PauseLong]\n"
+"Beehre uns bald wieder!"
+
+msgid "Register00_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bei uns ist dein Pferd... [PauseLong]Moment...[PageBreak][Sound1 unk1=\"10\" unk2=\"17\"]Was?[PauseShort] Ist das etwa der sagenumwobene\n"
+"Herr der Wildnis?[PageBreak][Sound2 id=\"40\"]Bei der Göttin![PauseShort] Warum hast du ihn\n"
+"hergebracht?[PauseShort] Ein Fluch wird uns treffen!"
+
+msgid "0035"
+msgstr "Nein, doch nicht."
+
+msgid "Register19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Wenn dein Pferd allerdings zu weit weg\n"
+"ist, kann es dich nicht hören..."
+
+msgid "Advice05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Manche Pferde besitzen viel [Color name=\"red\"]Ausdauer[Color name=\"unset\"]\n"
+"und können daher sehr lange\n"
+"galoppieren.\n"
+"Aber im vollen Galopp ist es recht\n"
+"schwierig, die Richtung zu ändern, also\n"
+"musst du mehr auf Hindernisse achten.[PageBreak]Reite also am besten nur dann mit\n"
+"Höchstgeschwindigkeit, wenn du genug\n"
+"Platz hast."
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Guten Morgen. Ich hoffe, du hast gut\n"
+"geschlafen.[PauseLong] Einen schönen Tag noch!"
+
+msgid "Register00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Na, du bist mir aber einer...[PauseShort]\n"
+"Hast du kein Wildpferd gefunden?[PageBreak]Wildpferde fängt man, indem man sich\n"
+"von hinten langsam an sie anschleicht\n"
+"und dann aufspringt."
+
+msgid "Register00_3"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Wird sofort erledigt![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Augenblick...[Pause frames=\"30\"] Das ist doch kein Pferd![PageBreak]Tut mir leid, aber wir können hier nur\n"
+"Pferde unterbringen."
+
+msgid "0036"
+msgstr "Pferd mitnehmen."
+
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Ich hoffe, du hast gut geschlafen.[PauseLong]\n"
+"Einen schönen Tag noch!"
+
+msgid "Register01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Gerne doch![PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]Oh![PauseShort] Tut mir leid, mehr Pferde können wir\n"
+"für dich leider nicht registrieren.[PageBreak]Um ein weiteres Pferd zu registrieren,\n"
+"müsstest du zuerst ein anderes Pferd\n"
+"freilassen.[PauseShort] Was möchtest du tun?[Choice2 label1=\"30\" label2=\"31\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0037"
+msgstr "Pferd abgeben."
+
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Ich hoffe, du hast gut geschlafen.[PauseLong]\n"
+"Beehre uns bald wieder!"
+
+msgid "Register02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Welches Pferd möchtest freilassen?"
+
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Also, möchtest du bei uns übernachten?"
+
+msgid "Register03"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"]Wenn du dieses Pferd freilässt, kannst\n"
+"du es nicht wieder zurückholen.[PauseShort]\n"
+"Möchtest du es trotzdem freilassen?[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Ein normales Bett kostet [Color name=\"red\"]20 Rubine[Color name=\"unset\"],\n"
+"ein Luxusbett [Color name=\"red\"]40 Rubine[Color name=\"unset\"].[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0020"
+msgstr "Pferd mitnehmen."
+
+msgid "Register04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Gut, dann trage ich das neue Wildpferd\n"
+"ins Register ein.[PageBreak]Bitte überprüfe noch einmal das\n"
+"einzutragende Pferd."
+
+msgid "Talk16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Auf das Luxusbett sind wir hier ganz\n"
+"besonders stolz.[PageBreak]Es ist etwas teurer, aber man schläft\n"
+"besser und hat mehr Energie."
+
+msgid "0021"
+msgstr "Lieber doch nicht."
+
+msgid "Register05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Sehr gern.[PageBreak]Bitte überprüfe noch einmal, ob das\n"
+"hier das richtige Pferd ist."
+
+msgid "Register06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Der Name des Pferdes soll also\n"
+"[Color name=\"red\"][02:01 name=\"Horse_NewName\"][Color name=\"unset\"] sein?[Choice2 label1=\"34\" label2=\"35\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Die Registrierung ist abgeschlossen.[PauseLong]\n"
+"Möchtest du mit diesem Pferd gleich\n"
+"weiterreisen?[Choice2 label1=\"36\" label2=\"37\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Gut, wir nehmen [Color name=\"red\"][ActiveHorse] [Color name=\"unset\"]bei\n"
+"uns auf."
+
+msgid "Register09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Vielen Dank.[PauseLong]\n"
+"Bis zum nächsten Mal!"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Willkommen![PauseLong]\n"
+"Darf es eine Übernachtung sein?"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Bitte beehre uns wieder!"
+
+msgid "TalkHatu_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Hallo![Pause frames=\"15\"] Willkommen in unserem [Color name=\"blue\"]Stall[Color name=\"unset\"], wo\n"
+"du alles rund ums Pferd bekommst und\n"
+"dich auch selbst ausruhen kannst.[PageBreak][04:03]Ah![PauseShort] Du bist das erste Mal hier, oder?[PauseLong]\n"
+"Weißt du, wie [Color name=\"blue\"]Ställe[Color name=\"unset\"] funktionieren?[Choice2 label1=\"50\" label2=\"51\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Ich fürchte, Dein Geld reicht nicht aus.[PauseLong]\n"
+"Wenn du nicht zahlen kannst, kann ich\n"
+"dich leider nicht hier schlafen lassen."
+
+msgid "TalkHatu_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Dann erkläre ich es mal eben.[PageBreak]Du kannst bei uns Pferde unterbringen\n"
+"und nach Belieben mitnehmen.[PageBreak]Vielleicht sind dir unterwegs schon\n"
+"[Color name=\"red\"]Wildpferde[Color name=\"unset\"] begegnet?[PauseShort] Fange eines\n"
+"und bring es her![PageBreak]Wenn du uns ein Pferd bringst und es\n"
+"bei uns registrierst, ist es offiziell [Color name=\"red\"]dein\n"
+"Pferd[Color name=\"unset\"].[PageBreak]Du kannst bis zu 5 Pferde besitzen und\n"
+"sie natürlich auch jederzeit wechseln![PageBreak][04:03]Möchtest du wissen, wie man ein\n"
+"Wildpferd fängt?[Choice2 label1=\"52\" label2=\"53\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Wie lange möchtest du schlafen?[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Gut, ich erkläre es dir gern.[PageBreak]Im Grunde muss man sich nur von hinten\n"
+"an ein Wildpferd anschleichen, und zwar\n"
+"langsam, damit es einen nicht bemerkt.[PageBreak]Und dann springt man einfach auf![PageBreak]Manche Wildpferde sind allerdings\n"
+"besonders wild.[PauseShort] Die muss man dann\n"
+"durch Tätscheln beruhigen.[PageBreak]Wenn das Pferd sich beruhigt hat, kannst\n"
+"du es zu mir bringen.[PageBreak][Sound1 unk1=\"11\" unk2=\"4\"]Vergiss nicht, dass wir hier von wilden\n"
+"Pferden reden, es kann dauern, bis\n"
+"sie sich an einen Reiter gewöhnt haben.[PageBreak]Manchmal wechseln sie von selbst die\n"
+"Richtung oder werden plötzlich einfach\n"
+"langsamer.[PageBreak]Wenn dein Pferd die Richtung wechselt,\n"
+"steuere es sachte in die richtige\n"
+"Richtung und tätschle es.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Mit der Zeit wird dir das Pferd dann\n"
+"mehr und mehr vertrauen und auch\n"
+"besser gehorchen."
+
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Wie lange möchtest du schlafen?[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_04"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]Oh, Verzeihung.\n"
+"Dann fangen wir noch mal anders an..."
+
+msgid "0010"
+msgstr "Pferd abgeben."
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Ich wünsche einen geruhsamen Schlaf!"
+
+msgid "TalkHatu_05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Das ist alles, was ich dazu sagen kann.[PauseShort]\n"
+"Also, beginnen wir noch einmal\n"
+"von vorn..."
+
+msgid "0011"
+msgstr "Lieber doch nicht."
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Ich wünsche einen geruhsamen Schlaf!"
+
+msgid "TalkHatu_06"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Du siehst aber...[PauseShort] naturverbunden aus!"
+
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Guten Morgen. [PauseShort]Ich hoffe, du hast gut\n"
+"geschlafen.[PauseShort] Einen schönen Tag noch!"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Ich hoffe, du hast gut geschlafen.[PauseLong]\n"
+"Einen schönen Tag noch!"
+
+msgid "0000"
+msgstr "Normales Bett."
+
+msgid "0001"
+msgstr "Luxusbett."
+
+msgid "0062"
+msgstr "Pferd abholen."
+
+msgid "0002"
+msgstr "Unterschied?"
+
+msgid "0063"
+msgstr "Pferd abgeben."
+
+msgid "0003"
+msgstr "Nein, danke."
+
+msgid "0064"
+msgstr "Registrieren."
+
+msgid "0004"
+msgstr "Bis morgens."
+
+msgid "0065"
+msgstr "Wiedersehen."
+
+msgid "0005"
+msgstr "Bis mittags."
+
+msgid "0066"
+msgstr "Registrieren."
+
+msgid "NakedPlayer"
+msgstr "Ist dir nicht kalt?"
+
+msgid "0006"
+msgstr "Bis abends."
+
+msgid "0067"
+msgstr "Nein, danke."
+
+msgid "0007"
+msgstr "Lieber doch nicht."
+
+msgid "0050"
+msgstr "Nein, wie?"
+
+msgid "0051"
+msgstr "Ich weiß Bescheid."
+
+msgid "0052"
+msgstr "Pferde fangen?"
+
+msgid "0053"
+msgstr "Weiß ich schon."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFqDAAAAAAAAG0AAAAEAAAAvAEAAOABAAAEAgAAKAIAAEwCAABOAgAAUAIAAFICAABUAgAAeAIAAJwCAADAAgAA5AIAAAgDAAAKAwAADAMAAA4DAAAQAwAANAMAAFgDAAB8AwAAoAMAAMQDAADoAwAADAQAADAEAABUBAAAeAQAAHoEAAB8BAAAoAQAAKIEAACkBAAAyAQAAOwEAAAQBQAANAUAAFgFAAB8BQAAoAUAAMQFAADGBQAAyAUAAMoFAADMBQAA8AUAAPIFAAD0BQAAGAYAADwGAABgBgAAYgYAAGQGAACIBgAArAYAANAGAAD0BgAAGAcAADwHAABgBwAAYgcAAGQHAACIBwAArAcAANAHAAD0BwAAGAgAADwIAABgCAAAhAgAAKgIAACqCAAArAgAANAIAAD0CAAAGAkAABoJAAAcCQAAQAkAAGQJAACICQAArAkAAK4JAACwCQAA1AkAAPgJAAAcCgAAHgoAACAKAABECgAAaAoAAIwKAACwCgAAsgoAALQKAADYCgAA2goAANwKAAAACwAAJAsAAEgLAABsCwAAkAsAALQLAADYCwAA/AsAACAMAABEDAAAaAwAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

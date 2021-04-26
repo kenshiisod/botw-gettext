@@ -1,0 +1,514 @@
+msgid "talk_09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]¡Tíiio, espera un segundín![PauseMid]\n"
+"¿Qué es eso que asoma por ahí?[PageBreak][Sound1 unk1=\"10\" unk2=\"22\"]¿Me engañan los ojos o llevas encima\n"
+"un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo vigoroso[Color name=\"unset\"]? ¡Inaudito!\n"
+"Es un bicho MUY poco común.\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]¡Tíiio, enróllate! ¿A que no me lo das?"
+
+msgid "Com_Talk_05b"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]No sé si será vicio o deformación\n"
+"profesional, ¡pero me chifla comprar!\n"
+"¡Lo que sea; me vale todo!"
+
+msgid "Com_Talk_05c"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]¡Te lo quito de las manos! ¡Lo que sea!\n"
+"No tienes más que ofrecérmelo."
+
+msgid "Com_Talk_05d"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]¿Qué me vendes, colega?\n"
+"¡Te compro cualquier movida\n"
+"que ya no te haga falta!"
+
+msgid "TerrorArrow"
+msgstr "¡Ni se te ocurra!"
+
+msgid "TerrorImpulse"
+msgstr "¡Oh, tíiio!"
+
+msgid "Com_Talk_30"
+msgstr "¡Claro! ¿Y cuántas unidades te llevas?[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "TerrorGuardian"
+msgstr "¡Socorro!"
+
+msgid "Com_Talk_31"
+msgstr ""
+"Déjame sumar, restar, y todo lo demás...\n"
+"A ver, [02:0F name=\"Shop_TradeItemNum\"] unidades vienen siendo\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te mola el trato, colega?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_30"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"3\"]¿Qué pasa, tío?[PauseMid] ¡Sigo flipando en colores\n"
+"con el [Color name=\"blue\"]escarabajo[Color name=\"unset\"] que me diste antes!"
+
+msgid "Com_Talk_32"
+msgstr ""
+"Solo una unidad para el colega.\n"
+"Si me das [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], tenemos trato.[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_31"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Si consigues más, avísame otro día\n"
+"sin fallo, colega. Hoy estaré muy\n"
+"ocupado admirando esta monada."
+
+msgid "Com_Talk_33"
+msgstr ""
+"De acuerdo. Si te doy [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"¿te parece un trato justo?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_talk_20"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Me has motivado tanto que te\n"
+"haré un [Color name=\"red\"]regalito[Color name=\"unset\"] muy chulo."
+
+msgid "talk_32"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]¡No sabes qué alegría me das, colega![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Este [Color name=\"blue\"]escarabajo[Color name=\"unset\"] y yo seremos\n"
+"inseparables a partir de ahora."
+
+msgid "Com_Talk_34"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]¡Tío! ¿Todo... todo? Mira que serían\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupias[Color name=\"unset\"], ¿eh? ¿Estás seguro?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorSword"
+msgstr "¡Ay, qué canguelo!"
+
+msgid "TerrorHorse"
+msgstr "¡Oye, ten cuidado!"
+
+msgid "talk_33"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]¡Eres lo máximo, tío![Size percent=\"100\"][PageBreak][Size percent=\"125\"]¡Es algo chungo de conseguir![Size percent=\"100\"][PageBreak]¡No quepo en mí de la emoción!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]¿[02:0F name=\"Shop_TradeItemNum\"]? Eso es... ¡todo! El total\n"
+"serían [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupias[Color name=\"unset\"], si te parece\n"
+"bien, tío.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "ClearTerrorGuardian"
+msgstr "[Sound2 id=\"16\"]Casi no lo cuento..."
+
+msgid "talk_34"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¡Pero no me lo voy a quedar por\n"
+"la patilla, colega! Te daré a cambio\n"
+"una [Color name=\"blue\"]tortilla vegetal[Color name=\"unset\"], ¿qué me dices?[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]¡Lo he liquidado todo![PauseShort] Y todo gracias\n"
+"a ti, colega.[PageBreak]Con clientes así, ¡uno no tiene\n"
+"de qué preocuparse!"
+
+msgid "talk_35"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¡Tampoco tengo tanta cara como para\n"
+"quedármelo de gratis![PauseShort] Te daré un\n"
+"[Color name=\"blue\"]elixir recio[Color name=\"unset\"] a cambio, colega.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]¡Tíiio! ¡Lo he vendido todito![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Pero siempre puedes echarle un\n"
+"vistacito a las cosas de las que me\n"
+"aprovisionaré en el futuro. ¿Te hace?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_36"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¡Se agradece el interés, tío![PauseShort]\n"
+"¿Quieres algo más?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Contigo sí que da gusto hacer tratos!"
+
+msgid "talk_37"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Soy [Color name=\"blue\"]Terry[Color name=\"unset\"], y todos me conocen por\n"
+"este macuto en forma de [Color name=\"red\"]escarabajo[Color name=\"unset\"]\n"
+"que llevo a cuestas.\n"
+"[Sound1 unk1=\"10\" unk2=\"20\"]Me dedico a viajar de un lado para\n"
+"otro a pesar de lo peligrosos que\n"
+"están los caminos últimamente.\n"
+"¡Lo que sea con tal de servir al prójimo![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Dispongo de un montón de bichos y\n"
+"de artículos imprescindibles para\n"
+"viajeros, ¡todo a precios muy asequibles!\n"
+"Si estás falto de rupias, también\n"
+"me ofrezco a comprarte lo que\n"
+"te sobre.\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]Las [Color name=\"red\"]gemas[Color name=\"unset\"] y pedruscos por el estilo\n"
+"se cotizan muy bien. Si tienes alguna,\n"
+"¡te la compro encantado!\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]Bueno, ¿qué puedo hacer hoy por ti?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Tíiio, gracias! ¡Qué feliz me haces!"
+
+msgid "Com_Talk_11d"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]¡Mi negocio no sería el mismo\n"
+"sin ti, colega!"
+
+msgid "TerrorExplosion"
+msgstr "¡Adiós, mundo cruel!"
+
+msgid "ClearTerrorEnemy"
+msgstr "[Sound2 id=\"16\"]Buf..."
+
+msgid "talk_20"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]¡Qué fuerte, tío![PauseShort] ¿En serio me das\n"
+"tu [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo recio[Color name=\"unset\"]?[PauseMid] ¡Eres lo máximo!"
+
+msgid "talk_21"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]¡Flipo![PauseShort] ¿Me das tu [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo robusto[Color name=\"unset\"],\n"
+"así tan alegremente?[PauseMid] ¡Qué desprendido\n"
+"eres, colega!"
+
+msgid "talk_22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]¡Jamás abusaría de tu confianza!\n"
+"Estoy dispuesto a darte un poco\n"
+"de [Color name=\"blue\"]elixir vivaz[Color name=\"unset\"] a cambio.\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Lo preparo yo mismo, ¿sabes? Con un\n"
+"[Color name=\"blue\"][C9:00 bytes=\"01000000\"]lagarto vivaz[Color name=\"unset\"] y un trozo de monstruo,\n"
+"¡te sale un elixir potentísimo, tío![Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorEnemy"
+msgstr "¡Nooo!"
+
+msgid "talk_23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]¡No te irás con las manos vacías, colega!\n"
+"Te daré un poquitín de [Color name=\"blue\"]elixir vigorizante[Color name=\"unset\"]\n"
+"a cambio, ¿te hace?\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Se prepara con un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]cangrejo vigoroso[Color name=\"unset\"] y\n"
+"un trozo de monstruo. ¡Así de fácil te\n"
+"sale un elixir de rechupete![Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near"
+msgstr "[Sound2 id=\"24\"]¡Pasen y vean!"
+
+msgid "talk_24"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¿Te cuesta decidirte? ¿No sabes qué\n"
+"hacer? ¡No pasa nada! Tengo algo\n"
+"perfecto para ti, colega.\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]¡Un poquitín de [Color name=\"blue\"]tónico feérico[Color name=\"unset\"]![PageBreak]Coges un trozo de monstruo,\n"
+"le espolvoreas polvo de [Color name=\"blue\"][C9:00 bytes=\"02000000\"]hada[Color name=\"unset\"] por\n"
+"encima, ¡y elixir especial al canto![Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Contigo da gusto, tío![PauseShort]\n"
+"¿Me vas a vender algo más o no?"
+
+msgid "talk_25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Bueno..."
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Con clientes como tú, ¡mi negocio\n"
+"marchará siempre viento en popa![PauseShort]\n"
+"¿Alguna cosa más, tío?"
+
+msgid "talk_26"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]¡Hola de nuevo, amigo mío![PauseShort]\n"
+"¿Se te ha olvidado comprar algo?"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Tíiio, qué bien nos entendemos![PauseShort]\n"
+"¿Tienes alguna movida más?"
+
+msgid "TerrorBomb"
+msgstr "¡Ten cuidado con eso!"
+
+msgid "talk_27"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"20\"]¡Ostras![PauseMid] ¡Es un placer contar con clientes\n"
+"tan cumplidores!"
+
+msgid "talk_28"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]¡Tíiio! [PauseMid]Gracias por pasarte a saludar."
+
+msgid "Com_Talk_10"
+msgstr ""
+"¿Te has decidido a llevarte\n"
+"[C9:01][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] antes\n"
+"de que otro listillo se te adelante?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_talk_17"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]¡Muchísimas gracias, tíiiio![PageBreak]Da gusto tener clientes como tú."
+
+msgid "talk_29"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]¡Heeey![PauseMid] ¿Cómo va la cosa hoy?"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Eres lo máximo, colega!"
+
+msgid "Com_talk_18"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]La puedes disparar incluso a\n"
+"los [Color name=\"blue\"]guardianes[Color name=\"unset\"] esos. ¡Es lo máximo![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Si le das a un [Color name=\"blue\"]guardián[Color name=\"unset\"] en el ojo,\n"
+"creo que la puedes liar muchísimo. O eso\n"
+"me dijo un viejo que se llama [Color name=\"blue\"]Rotver[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Es un tío que vive al norte, mucho más\n"
+"allá de la región de los zora. Creo que\n"
+"el sitio es el [Color name=\"red\"]laboratorio de Akkala[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"5\" unk2=\"12\"]Al parecer se dedica a fabricar armas,\n"
+"ropa y demás cosas raras. Es como\n"
+"un [Color name=\"blue\"]científico loco[Color name=\"unset\"] o algo así.\n"
+"Nunca se lo he dicho,[PauseMid] pero la verdad\n"
+"es que me da un poquitín de miedo\n"
+"el tío...\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Si te pica la curiosidad y te interesan\n"
+"las armas potentes, deberías ir a verlo.\n"
+"¡Controla un montonazo!"
+
+msgid "TerrorLightning"
+msgstr "¡Ay, ay, ay!"
+
+msgid "talk_10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Obviamente, te daré algo a cambio.\n"
+"Para algo soy un comerciante decente.[PauseShort]\n"
+"¿Te interesa un poco de [Color name=\"blue\"]elixir raudo[Color name=\"unset\"]?\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Si le añades una [Color name=\"blue\"][C9:00 bytes=\"02010100\"]rana rauda[Color name=\"unset\"] y mezclas\n"
+"todo bien mezcladito, ¡tendrás listo\n"
+"el elixir especial de la casa![Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Me juego algo a que encuentras\n"
+"alguna cosita que te haga tilín!\n"
+"¡Mira sin miedo!"
+
+msgid "Com_talk_19"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]¡Tíiio! ¿Tú también conoces a Rotver?\n"
+"¡Estás en todo!"
+
+msgid "talk_11"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]¡Tíiio! ¿Cómo va eso?"
+
+msgid "Com_Talk_13"
+msgstr "¿Y qué cantidad me dejas llevarme?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk_12"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"1\"]Qué bajona...[PauseLong]\n"
+"No te tenía yo por un rácano, tío.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]Si estás dispuesto a irte por ahí\n"
+"a la aventura, te tiene que dar\n"
+"igual desprenderte de las cosas.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]¡Pero qué se le va a hacer! No todos\n"
+"pueden ser tan de fiar como yo."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Sumo cinco, me llevo veinte... ¡Vale!\n"
+"Por [02:0F name=\"Shop_TradeItemNum\"] te puedo dar [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Te hace el trato, colega?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]¡Muchísimas gracias, amigo!\n"
+"¡Sabía que no me fallarías![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Te prometo que cuidaré de esta belleza\n"
+"de [Color name=\"blue\"]escarabajo[Color name=\"unset\"] como si fuese mi propio\n"
+"churumbel."
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]¡Tíiio! Mi código moral me impide\n"
+"comprarte algo así. ¡Pero no es\n"
+"nada personal!"
+
+msgid "talk_14"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Tío, tío...[PauseShort] ¡Tienes la [Color name=\"blue\"]alforja[Color name=\"unset\"] petadísima!\n"
+"Pues así no podré darte nada..."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]¿Adónde vas, tío? ¡Quítate primero\n"
+"lo que me quieras vender!"
+
+msgid "talk_15"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"1\"]Pero tío...[PageBreak][Sound1 unk1=\"9\" unk2=\"12\"]¡Era una oferta irrechazable![PageBreak]Habría que estar loco para\n"
+"no aceptarla.[PageBreak][Sound1 unk1=\"9\" unk2=\"1\"]Qué mal...[PageBreak][Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]A lo mejor puedo aprovechar mientras esté\n"
+"sobando en la posta...[PageBreak]No, será mejor que le encasquete el trabajo\n"
+"a otro incauto. Tampoco tengo por qué\n"
+"ensuciarme las manos con algo así.[PageBreak][Animation name=\"CustomBadThink\"]Mmm...[PauseMid] A ver, a ver...[Color name=\"unset\"][Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"19\"]Ah, perdona. Estaba...[PauseMid] pensando\n"
+"en las musarañas.[PageBreak]¡Pero si cambias de opinión, avísame!"
+
+msgid "talk_16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]¡Tíiio, muchísimas gracias![Size percent=\"100\"][PageBreak]No es algo que se vea a menudo,\n"
+"¿sabes? ¡Y además, seguro que me\n"
+"trae suerte para el resto del día!"
+
+msgid "0000"
+msgstr "¡Compro!"
+
+msgid "5500"
+msgstr "¡Sí!"
+
+msgid "talk_17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]A ver, a ver, ¿qué tenías en mente?\n"
+"¿O te hace más ilusión venderme algo?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "¡Vendo!"
+
+msgid "5501"
+msgstr "No..."
+
+msgid "TerrorAnimal"
+msgstr "¡No te me acerques!"
+
+msgid "talk_18"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]¡Tíiio![PauseShort] Gracias a ti, el negocio marcha\n"
+"que da gusto.[PauseMid] ¡Y lo del [Color name=\"blue\"]escarabajo[Color name=\"unset\"] de\n"
+"antes fue todo un detallazo!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]¿Qué me vendes, colega?"
+
+msgid "0002"
+msgstr "No quiero nada"
+
+msgid "5502"
+msgstr "¡Compro, compro!"
+
+msgid "talk_19"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]¡Tíiio![PauseShort] ¿De verdad me vas a dar\n"
+"tu [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo vigoroso[Color name=\"unset\"]?[PauseMid]\n"
+"¿Pero estás seguro?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"¡Tú sí que sabes, tío!\n"
+"¿[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], entonces?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "Es igual"
+
+msgid "talk_00"
+msgstr ""
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]¡Heeey![PauseShort] ¡Creo que nunca te había\n"
+"visto antes, tíiio![PauseMid] Encantado de\n"
+"conocerte."
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]¡Tíiio, qué feliz me haces![PauseShort]\n"
+"¿Me vendes alguna otra movida?"
+
+msgid "TerrorInsect"
+msgstr "¡Abajo las abejas!"
+
+msgid "talk_01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]¿Eeeh?[PauseMid] Pues qué pena...\n"
+"Igual la próxima vez tengo más suerte."
+
+msgid "talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Gracias por la visita, tíiio![PauseShort]\n"
+"Ojalá te vuelva a ver pronto."
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]Vaya, hombre...[PauseMid] Qué pena."
+
+msgid "talk_03"
+msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]¡Heeey! ¡Volvemos a vernos!"
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]¡Te compraré cualquier cosa, colega!"
+
+msgid "5507"
+msgstr "¡Lo compro todo!"
+
+msgid "talk_04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]¡Tíiio! ¡Otra vez tú![PauseShort]\n"
+"¡Siempre es un placer verte!"
+
+msgid "Com_Talk_06"
+msgstr ""
+"¡Todos mis artículos son más\n"
+"que recomendables, tío!"
+
+msgid "5508"
+msgstr "¡Lo vendo todo!"
+
+msgid "talk_05"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡Tíiio! Veo que llevas ahí\n"
+"un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo recio[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]¡Es mi bicho favorito de toda la vida!\n"
+"¿Estarías dispuesto a dármelo, colega?"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Eh...[PauseMid] De eso no me queda nada\n"
+"ahora mismo."
+
+msgid "talk_06"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡Tíiio! Veo que tienes nada más y nada\n"
+"menos que un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]escarabajo robusto[Color name=\"unset\"]\n"
+"en la alforja.\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]¡Me pirran esos bichos! ¡Estoy más\n"
+"que dispuesto a quitártelo de las\n"
+"manos, si quieres!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"14\"]¡Venga ya, tíiiio! ¡Si no tienes [Color name=\"blue\"]rupias[Color name=\"unset\"]![PauseMid]\n"
+"Mira que querer mofarse así de\n"
+"alguien tan honrado como yo..."
+
+msgid "talk_07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Pero tampoco es plan de echarle morro.\n"
+"¡Te daré un [Color name=\"blue\"]elixir protector[Color name=\"unset\"] a cambio,\n"
+"colega![Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]¡Tíiio! ¡No tienes nada de nada\n"
+"de sitio en la [Color name=\"blue\"]alforja[Color name=\"unset\"]!"
+
+msgid "1000"
+msgstr "¡Trato hecho!"
+
+msgid "talk_08"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Clarísimamente, te daré algo a cambio.\n"
+"¡Jamás intentaría aprovecharme de\n"
+"otro colega honrado!\n"
+"¿Te interesa un plato\n"
+"de [Color name=\"blue\"]arroz con carne[Color name=\"unset\"]?[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "Mejor paso"
+
+msgid "TerrorFire"
+msgstr "¡No me prendas fuego!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAF+DAAAAAAAAGUAAAAEAAAAnAEAAMABAADkAQAACAIAACwCAABQAgAAdAIAAJgCAAC8AgAA4AIAAAQDAAAoAwAATAMAAHADAACUAwAAuAMAANwDAAAABAAAJAQAAEgEAABsBAAAkAQAALQEAADYBAAA/AQAACAFAABEBQAAaAUAAIwFAACwBQAA1AUAAPgFAAAcBgAAQAYAAGQGAACIBgAArAYAANAGAAD0BgAAGAcAADwHAABgBwAAhAcAAKgHAADMBwAA8AcAABQIAAA4CAAAXAgAAIAIAACkCAAAyAgAAOwIAAAQCQAANAkAAFgJAAB8CQAAoAkAAMQJAADoCQAADAoAADAKAABUCgAAeAoAAJwKAADACgAA5AoAAAgLAAAsCwAAUAsAAHQLAACYCwAAvAsAAOALAAAEDAAAKAwAAEwMAABODAAAUAwAAFIMAABUDAAAVgwAAFgMAABaDAAAXAwAAF4MAABgDAAAYgwAAGQMAABmDAAAaAwAAGoMAABsDAAAbgwAAHAMAAByDAAAdAwAAHYMAAB4DAAAegwAAHwMAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAABOAHAAYwBfAFQAcgBpAHAATQBhAHMAdABlAHIAXwAwADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

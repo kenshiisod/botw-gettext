@@ -1,0 +1,102 @@
+#, ruby
+msgid "Npc_Kokiri007_R_Talk010"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ねえねえ ゆうしゃサマ～[PauseMid]\n"
+"[Color name=\"red\"]ルミー[Color name=\"unset\"] 見てみたいナ～\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]くらーいところで ぴかぴか光る\n"
+"ピーカンくらいの 青い生きもノ…\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]絵でも なんでもいいから\n"
+"[Color name=\"red\"]ルミー[Color name=\"unset\"]を見せてほしいナ～[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_Kokiri007_R_Talk040"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]アレ？！[PageBreak][Size percent=\"100\"]ちょっと ちょっト！[PauseMid]\n"
+"もしかして もう持ってる？！"
+
+#, ruby
+msgid "Npc_Kokiri007_F_Talk000"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]どこにいるかは 知らないけれド～[PauseMid]\n"
+"ぴっかり光る すばしっこい生きもノ～\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]それが [Color name=\"red\"]ルミー[Color name=\"unset\"]～[PauseMid]\n"
+"どんだけ光ってるんだロ～ [PauseShort]気になる 気になル～\n"
+"絵でも なんでもいいから\n"
+"見せてくれるの 待ってるネ～"
+
+#, ruby
+msgid "Npc_Kokiri007_F_Talk030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ピーカンが思ってた以上に\n"
+"ぴっかり光ってたネ～！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゆうしゃサマ ありがと～[PauseMid]\n"
+"これでもう 思い残すことはないヨ～\n"
+"すてきなもの見せてくれた ゆうしゃサマに[PauseShort]\n"
+"ピーカンから ステキなものあげるネ～"
+
+msgid "Npc_Kokiri007_R_Near000"
+msgstr "ぴかぴかのアレ…"
+
+#, ruby
+msgid "Npc_Kokiri007_R_Talk020"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"9\"]さっすが ゆうしゃサマ～[PauseMid]\n"
+"ピーカンのお願い聞いてくれるの うれしいナ～\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]あのねあのね どこにいるかは 知らないけれど\n"
+"ぴっかり光る すばしっこい生きもノ…\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]それが [Color name=\"red\"]ルミー[Color name=\"unset\"]なんだっテ～[PauseMid]\n"
+"どんだけ光ってるんだロ～ [PauseShort]気になるよネ～\n"
+"[Color name=\"red\"]ルミー[Color name=\"unset\"]を 見せてくれたら\n"
+"お礼をあげるネ～ [PauseShort]がんばっテ～"
+
+#, ruby
+msgid "Npc_Kokiri007_F_Talk010"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]あ！ ゆうしゃサマ\n"
+"ひょっとして 持ってきてくれたノ？！"
+
+#, ruby
+msgid "Npc_Kokiri007_F_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]そうそう！[PauseShort] ゆうしゃサマって\n"
+"いろんなときに ルピーが 必要だよネ？\n"
+"もし どーしても ルピーに困ったラ……[PauseMid]\n"
+"[Color name=\"blue\"]ルミー[Color name=\"unset\"]に 矢を当てるといいヨ！\n"
+"そしたら アラふしぎ！\n"
+"ルピーをポロポロ 落としてくれんだっテ～\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]あ～ [PauseShort]いいもの見れた～\n"
+"ピーカンしあわせ！"
+
+#, ruby
+msgid "Npc_Kokiri007_R_Talk000"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ゆうしゃサマ 強くなるためのしれん\n"
+"ピーカン 考えてみたヨ～\n"
+"戦わないし[PauseShort] 怖くもなイ！\n"
+"だけどちょっと 慎重さが必要なこト！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]あのね…[PauseShort]\n"
+"[Color name=\"red\"]ルミー[Color name=\"unset\"] 見てみたいナ～！\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]くらーいところで ぴかぴか光る\n"
+"ピーカンくらいの 青い生きもノ…\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]絵でも なんでもいいから\n"
+"[Color name=\"red\"]ルミー[Color name=\"unset\"]を見せてほしいナ～[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0000"
+msgstr "見せてあげる"
+
+#, ruby
+msgid "Npc_Kokiri007_R_Talk030"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]ゆうしゃサマ 興味なシ～…[PauseMid]\n"
+"ざんねん ざんねン…"
+
+#, ruby
+msgid "0001"
+msgstr "今はちょっと…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAFUAQAAAAAAAAwAAAAEAAAAOAAAAFQAAABwAAAAcgAAAHQAAACQAAAArAAAAMgAAADkAAAAAAEAABwBAAA4AQAATgBwAGMAXwBLAG8AawBpAHIAaQAwADAANwAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAwADcAAAAAAAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADAANwAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAwADcAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMAA3AAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADAANwAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAwADcAAABOAHAAYwBfAEsAbwBrAGkAcgBpADAAMAA3AAAATgBwAGMAXwBLAG8AawBpAHIAaQAwADAANwAAAE4AcABjAF8ASwBvAGsAaQByAGkAMAAwADcAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

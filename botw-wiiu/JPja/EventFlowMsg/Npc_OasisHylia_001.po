@@ -1,0 +1,193 @@
+#, ruby
+msgid "0001"
+msgstr "飲みすぎないようにね"
+
+msgid "0002"
+msgstr "どこにあるの？"
+
+#, ruby
+msgid "Talk_20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]大丈夫 大丈夫！\n"
+"これお水だから～"
+
+msgid "0003"
+msgstr "さよなら"
+
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]えっと～\n"
+"さよならは…[PauseLong]\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]あっ[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]サヴォーク！"
+
+#, ruby
+msgid "Talk_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]おはようございまーす！[PauseLong]\n"
+"\n"
+"じゃなくて[PauseShort] [Sound2 id=\"25\"]サヴォッタ！\n"
+"\n"
+"いや～ ゲルド語は難しいよね～\n"
+"頑張って覚えようとはしてるんだけどね～"
+
+#, ruby
+msgid "Talk_11"
+msgstr ""
+"[Size percent=\"80\"][Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"unset\"]…美人にしか見えないキノコ[PauseLong]\n"
+"\n"
+"…ちょっと …見えた …かも？[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ぷは～っ[PauseLong]\n"
+"\n"
+"これよこれ！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここのお酒はね\n"
+"この近くにある [Color name=\"blue\"]氷室[Color name=\"unset\"]の氷を使ってるから\n"
+"こんな砂漠でも\n"
+"キンッキンのお酒が 飲めるのよね[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]あ～っ やっぱり その服\n"
+"ファッションパッションに売ってたやつだよね～\n"
+"私も買おうかどうか迷ってたんだ～\n"
+"\n"
+"着心地はど…[PauseShort][Sound1 unk1=\"0\" unk2=\"0\"] お？\n"
+"\n"
+"[Sound1 unk1=\"10\" unk2=\"0\"]…って アナタ…[PauseLong]\n"
+"もしかして…[PauseLong]\n"
+"……[Size percent=\"80\"]オトコノコ？[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]やっぱり ここのアクセサリー\n"
+"キレイだなぁ…[PauseLong]\n"
+"でも 素材になる宝石も持ってないし\n"
+"お値段も お高めだしなぁ…\n"
+"私には まだ早いかな…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]やっぱり そうだよね～\n"
+"\n"
+"すごいじゃん！\n"
+"よくバレずに ここに来られたね\n"
+"まぁ… ゲルド族の人達って\n"
+"あまり細かいこと気にしなさそうだもんね\n"
+"でも安心して\n"
+"このことは誰にも言わないから\n"
+"なんたって今は\n"
+"同じハイリアのヴァーイだもんね～"
+
+#, ruby
+msgid "Talk_04"
+msgstr ""
+"[Size percent=\"80\"][Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"0\"]ヒンヤリダケ[Color name=\"unset\"]もいいけど\n"
+"\n"
+"夜は寒くなるし\n"
+"ここはやっぱり [Color name=\"blue\"]ポカポカダケ[Color name=\"unset\"]かな…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]せっかくだし\n"
+"ゲルド語 たくさん覚えて帰りたいよね～"
+
+#, ruby
+msgid "Talk_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"28\"]サヴァーク！[PauseLong]\n"
+"\n"
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"1\"]こんにちはって\n"
+"サヴァーク だよね？[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 unk1=\"7\" unk2=\"4\"]やっぱりいいよね その服…\n"
+"\n"
+"涼しげだし 私も買おうかな～"
+
+#, ruby
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]このお酒 [Color name=\"blue\"]ヴァーイミーツヴォーイ[Color name=\"unset\"]って言って\n"
+"このお店の看板商品なんだって～\n"
+"[Color name=\"blue\"]氷室[Color name=\"unset\"]の氷とのマリアージュも最高だし\n"
+"何杯でもイケちゃうのよね～[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_06"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]えっと… コンバンハ ってなんだっけ？\n"
+"\n"
+"あっ！[PauseLong][Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"29\"]サヴァサーバ！\n"
+"\n"
+"酒場にはもう行った？\n"
+"ゲルドの街に来たからには 顔出しとかないとね"
+
+#, ruby
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"80\"]ふふ… それにしても\n"
+"うまく変装したね\n"
+"話しかけられるたびに\n"
+"本物の女の子だと思っちゃうもん[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_17"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]あれ… [PauseLong]ここってアクセサリー屋さんだよね…？[PauseShort]\n"
+"商品がないみたいだけど まだ開いてないのかな？[Size percent=\"100\"]"
+
+#, ruby
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"blue\"]氷室[Color name=\"unset\"]ってのは 地中に穴を掘って作った\n"
+"氷の保管場所のことだよ\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]この辺りだと [Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]から氷を切り崩して\n"
+"保管してるみたいよ[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_18"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]ここの名物\n"
+"ヴァーイミーツヴォーイを飲みに来たんだけど\n"
+"氷が切れてて作れないんだってさ\n"
+"\n"
+"氷室まで行けば 氷はあるみたいだけど\n"
+"今は人手が足りなくて 取りに行けないんだって[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]大丈夫 大丈夫！\n"
+"あと一杯だけにしとくし～"
+
+#, ruby
+msgid "Talk_19"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]あーあ [PauseShort]誰か\n"
+"氷室まで行って 氷とってきてくれないかなぁ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]ここの正門でて 左の方行ったら\n"
+"遺跡があるんだけど そこを抜ければ[Color name=\"blue\"]氷室[Color name=\"unset\"]だよ"
+
+#, ruby
+msgid "0000"
+msgstr "氷室？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAGwAwAAAAAAABgAAAAEAAAAaAAAAI4AAAC0AAAA2gAAAAABAAAmAQAATAEAAHIBAACYAQAAvgEAAOQBAAAKAgAAMAIAAFYCAABYAgAAfgIAAKQCAADKAgAAzAIAAPICAAAYAwAAPgMAAGQDAACKAwAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAAAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADEAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMQAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

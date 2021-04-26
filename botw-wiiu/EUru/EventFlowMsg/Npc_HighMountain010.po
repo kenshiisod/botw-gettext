@@ -1,0 +1,378 @@
+msgid "Com_Talk_50"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_51"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько возьмешь?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_52"
+msgstr "[02:0F name=\"Shop_TradeItemNum\"], да?[PauseShort] Тогда с тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_53"
+msgstr "Передумал? Жаль."
+
+msgid "Com_Talk_54"
+msgstr "[Sound2 id=\"12\"]Эй, у тебя денег не хватает!"
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ты слышал, что у нас тут свадьба\n"
+"намечается?[PauseShort] Топорда женится на\n"
+"Герде.[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound2 id=\"12\"]Эй, ты больше не унесешь![PauseShort]\n"
+"Сначала продай что есть."
+
+msgid "talk41"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Я тоже за них очень рад![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Надеюсь, на свадьбе будет много\n"
+"гостей...[PauseShort] и они раскупят весь мой\n"
+"товар."
+
+msgid "Com_Talk_56"
+msgstr "С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk42"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Не слышал?![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Ничего себе.[PauseShort] Ну ты хотя\n"
+"бы с ними поговори..."
+
+msgid "talk43"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Знаешь, торговать непросто,\n"
+"зато у меня собственное дело."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]Благодарю![PauseShort] Что-нибудь еще?"
+
+msgid "Com_Talk_33"
+msgstr "Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk44"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Классная была свадьба![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Топорда хорошо держался, ну а про\n"
+"Герду и говорить нечего.[PauseShort] Они отлично\n"
+"смотрелись вместе.[PageBreak]Интересно, какая свадьба\n"
+"была у моих родителей?.."
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Большое спасибо![PauseShort] Еще что-то?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Все, то есть [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort] Тогда\n"
+"с тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"]Добро пожаловать![PauseShort]\n"
+"Чем могу помочь?[Choice3 label1=\"7\" label2=\"8\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk45"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Топорда хотел с тобой\n"
+"о чем-то поговорить.[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Он вон там с Гердой стоит.[PauseShort]\n"
+"Узнай, что он хотел, ладно?"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"9\"]Отлично![PauseShort] Хочешь продать\n"
+"еще что-нибудь?"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Все, то есть [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort] Могу\n"
+"предложить [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0011"
+msgstr "Отлично!"
+
+msgid "talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Я рад, что свадьба прошла как надо.[PauseShort]\n"
+"Герда смотрелась просто потрясающе.[PageBreak][Sound1 unk1=\"7\" unk2=\"11\"]Ха-ха![PauseShort] Надеюсь, когда-нибудь\n"
+"и я найду свою вторую половинку![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Ладно, не буду отвлекать тебя\n"
+"болтовней.[PauseShort] Да и мне есть чем\n"
+"заняться!"
+
+msgid "0012"
+msgstr "Нет, не слышал"
+
+msgid "talk22"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Привет![PauseShort] Рад тебя видеть!"
+
+msgid "talk47"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Как поживаешь?[PauseShort] У меня все как\n"
+"обычно, то есть замечательно.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Ты, как я вижу, все путешествуешь.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Приходи в любое время.[PauseShort]\n"
+"Я всегда рад тебе помочь."
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Я тебя сразу не узнал![PauseShort]\n"
+"Ну как поживаешь?[PageBreak]Я, как видишь, добрался сюда живым\n"
+"и здоровым, хотя встретил по пути\n"
+"пару бандитов...[PageBreak]Хорошо, что бандиты\n"
+"не умеют летать![PageBreak]Новая Деревня — классное место.[PauseShort]\n"
+"Прежде всего потому, что мама не\n"
+"зудит.[PageBreak][Sound1 unk1=\"1\" unk2=\"10\"]А еще я могу продавать то, что\n"
+"хочу — это просто здорово![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]В общем, я к твоим услугам.[PauseShort]\n"
+"Приходи в любое время."
+
+msgid "talk48"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Слезь, пожалуйста.[PauseShort] Ты хороший\n"
+"парень, но так вести себя нельзя."
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?\n"
+"Сколько?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Пока!"
+
+msgid "talk49"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Пожалуйста, слезь со стола."
+
+msgid "Com_Talk_14"
+msgstr "[02:0F name=\"Shop_TradeItemNum\"], значит?[PauseShort] Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]А по пути соберу что-нибудь на\n"
+"продажу — надо ведь с чего-то\n"
+"начинать."
+
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Всегда к твоим услугам!"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]Это я покупать не буду."
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Что, вообще в небо не смотришь?"
+
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Я еще достану!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"12\"]Когда продаешь одежду,\n"
+"снимай ее с себя."
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Из-за этой штуки в деревне\n"
+"творится черт знает что...[PageBreak]Да еще мама каждый день твердит,\n"
+"что я должен помогать ей по лавке.[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Как же мне все это надоело..."
+
+msgid "talk27"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Больше нет, но я еще закажу."
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Не хочу я ей помогать![PauseShort] Я хочу открыть\n"
+"свой магазин и продавать в нем то, что\n"
+"сам решу.[PageBreak][Sound1 unk1=\"6\" unk2=\"16\"]Только вот где его открыть?[PauseShort]\n"
+"Где-нибудь подальше от мамы...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]Не хочу я ей помогать![PauseShort] Я хочу открыть\n"
+"свой магазин и продавать в нем то, что\n"
+"сам решу.[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Только вот где его открыть?[PauseShort]\n"
+"Где-нибудь подальше от мамы..."
+
+msgid "talk29"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]У тебя тоже нет идей?[PauseShort] Слушай, ты,\n"
+"кажется, много путешествуешь...[PageBreak]Если найдешь место, где мог бы\n"
+"пригодиться магазин, дай мне\n"
+"знать, пожалуйста."
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Привет.[PauseShort] Пообщаться\n"
+"хочешь?[PauseShort] Ну пойдем."
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Решено![PauseShort] Я отправляюсь туда!"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ты [Color name=\"blue\"]Чудище Ва-Медо[Color name=\"unset\"] уже видел?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Хорошо, что [Color name=\"blue\"]Медо[Color name=\"unset\"] угомонилась,\n"
+"но это не решает мою проблему...[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Мама твердит, что я должен\n"
+"помогать ей по лавке."
+
+msgid "Com_Talk_05b"
+msgstr "Я буду рад любым предложениям."
+
+msgid "Com_Talk_05c"
+msgstr "Показывай, что у тебя есть."
+
+msgid "talk50"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Ты не мог бы слезть со стола?"
+
+msgid "Com_Talk_05d"
+msgstr "Не торопись, времени много."
+
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Не ходи по прилавку.[PauseShort]\n"
+"Слезь, пожалуйста."
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет."
+
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Приветствую."
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "talk32"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Я к твоим услугам."
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Спасибо за совет![PauseLong] Надеюсь,\n"
+"ты меня там навестишь!"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]Что еще за [Color name=\"blue\"]Новая Деревня[Color name=\"unset\"]?[PauseShort]\n"
+"Рассказывай!"
+
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "0000"
+msgstr "Видел"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро."
+
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Значит, им нужен тот, кто\n"
+"разбирается в торговле...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Хм, [Color name=\"blue\"]Аккала[Color name=\"unset\"] далеко...[PauseShort] Это хорошо.[PageBreak][Color name=\"Gray\"][Size percent=\"80\"]У меня наконец будет свой магазин...[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "Com_Talk_00"
+msgstr "Показывай, что хочешь продать."
+
+msgid "0001"
+msgstr "Нет, не видел"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?\n"
+"Предлагаю [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Приветствую."
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"7\"]Спасибо![PauseShort] Давай еще!"
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "near00"
+msgstr "Эх..."
+
+msgid "0004"
+msgstr "В Новой Деревне!"
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"3\" unk2=\"4\"]Эх..."
+
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Знаешь, торговля не такая уж простая\n"
+"штука.[PauseShort] Теперь я понимаю, почему мама\n"
+"всегда просила помочь."
+
+msgid "Com_Talk_04"
+msgstr "Понятно."
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "near01"
+msgstr "Привет!"
+
+msgid "0005"
+msgstr "Хм..."
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Даже не знаю, кто меня больше\n"
+"раздражает: [Color name=\"blue\"]Чудище Ва-Медо[Color name=\"unset\"]\n"
+"или мама..."
+
+msgid "Com_Talk_05"
+msgstr "Можешь предлагать что угодно."
+
+msgid "near02"
+msgstr "Эй..."
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Как же мне надоело\n"
+"мамино ворчание..."
+
+msgid "near03"
+msgstr "Сойди со стола..."
+
+msgid "0007"
+msgstr "Я кое-что продаю"
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Жаль, что [Color name=\"blue\"]Медо[Color name=\"unset\"] кружит над деревней.[PauseShort]\n"
+"Придется какое-то время идти пешком."
+
+msgid "near04"
+msgstr "Слезь, пожалуйста!"
+
+msgid "0008"
+msgstr "Привет!"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]Зря ты так ходишь — простынешь."
+
+msgid "near05"
+msgstr "Спускайся..."
+
+msgid "0009"
+msgstr "Пока!"
+
+msgid "talk19"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]Может, оденешься?[PauseShort] Тут тебе не пляж..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "QwAAAAGcCgAAAAAAAFwAAAAEAAAAeAEAAKABAADIAQAA8AEAABgCAABAAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAKICAADKAgAA8gIAABoDAABCAwAAagMAAJIDAAC6AwAA4gMAAAoEAAAyBAAAWgQAAIIEAACqBAAA0gQAAPoEAAAiBQAASgUAAHIFAACaBQAAwgUAAOoFAAASBgAAOgYAAGIGAACKBgAAsgYAANoGAAACBwAAKgcAAFIHAAB6BwAAogcAAMoHAADyBwAAGggAAEIIAABqCAAAkggAALoIAADiCAAACgkAADIJAABaCQAAggkAAKoJAACsCQAArgkAALAJAACyCQAAtAkAALYJAAC4CQAAugkAALwJAAC+CQAAwAkAAOAJAAAACgAAIAoAAEAKAABgCgAAYgoAAGQKAABmCgAAaAoAAGoKAABsCgAAbgoAAHAKAACQCgAAkgoAAJQKAACWCgAAmAoAAJoKAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

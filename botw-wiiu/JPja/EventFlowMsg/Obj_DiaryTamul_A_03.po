@@ -1,0 +1,85 @@
+#, ruby
+msgid "0003"
+msgstr "読むのをやめる"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"シーカーセンサー＋とは\n"
+"シーカーセンサーの機能を拡張した アイテム\n"
+"ハイラル図鑑に載っている物なら\n"
+"何でも 探索する事ができる\n"
+"使用方法を以下に記す\n"
+"\n"
+"１ ハイラル図鑑を開く\n"
+"（マップ→シーカーセンサー→図鑑から選ぶ）\n"
+"２ ハイラル図鑑に載っている 写し絵を「選ぶ」\n"
+"\n"
+"３ 「探す物に設定」を選択する\n"
+"\n"
+"４ 「これを探す」を選択する\n"
+"\n"
+"そうする事で シーカーセンサー＋は\n"
+"探したい物を 音で導いてくれる\n"
+"また 探知を試練の祠に戻す時は\n"
+"マップ→シーカーセンサー→試練の祠 を\n"
+"探知をやめたい時は\n"
+"マップ→シーカーセンサー→OFF すればよい[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"シーカーセンサーについて\n"
+"文責：シモン"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"探知をやめたい時は\n"
+"マップ→シーカーセンサー→OFF すればよい"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"探知をやめたい時は\n"
+"マップ→シーカーセンサー→OFF すればよい[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"シーカーセンサー研究 まとめ\n"
+"文責：シモン[Choice4Flags label1=\"65535\" label2=\"1\" label3=\"0\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0000"
+msgstr "シーカーセンサーへ"
+
+#, ruby
+msgid "talk01"
+msgstr "シーカーセンサー＋について"
+
+#, ruby
+msgid "0001"
+msgstr "シーカーセンサー＋へ"
+
+msgid "talk02"
+msgstr "シーカーセンサーについて"
+
+#, ruby
+msgid "0002"
+msgstr "表紙に戻る"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"シーカーセンサーとは\n"
+"シーカーストーンの 基本アイテムの1つ\n"
+"勇者の試練が眠っている 古代の祠を探知したら\n"
+"音で導いてくれる\n"
+"古代の祠に近づく程\n"
+"音の間隔が短くなる"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAGAAQAAAAAAAAwAAAAEAAAAOAAAADoAAAA8AAAAPgAAAEAAAABoAAAAkAAAALgAAADgAAAACAEAADABAABYAQAAAAAAAAAAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAzAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMwAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADMAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAzAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMwAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADMAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAzAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

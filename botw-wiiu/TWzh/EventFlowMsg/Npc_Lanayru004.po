@@ -1,0 +1,65 @@
+msgid "0003"
+msgstr "再見"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]從這裡往北走，就能看見隔著\n"
+"[Color name=\"blue\"]茹特拉河[Color name=\"unset\"]的對岸[PauseShort]有座高塔。\n"
+"[Sound1 unk1=\"0\" unk2=\"6\"]我好像聽見塔頂傳出吼叫聲，[PauseShort]\n"
+"有人在那上面嗎？"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]茹特拉河[Color name=\"unset\"]是[Color name=\"blue\"]拉聶爾地區[Color name=\"unset\"]之中[PauseShort]\n"
+"最大的河川。\n"
+"想泳渡那條河，可得拚上老命哦……\n"
+"\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]想再往北前進，應該只能從西邊的\n"
+"[Color name=\"blue\"]杜艾斯島[Color name=\"unset\"][PauseShort]耐心地繞一大圈過去吧。"
+
+msgid "near00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"26\"]自由的流浪人～♪"
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]還有其他問題嗎？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]喔……[PauseShort]\n"
+"聽到我在哼歌了嗎……\n"
+"我叫格拉克。[PauseLong]\n"
+"為了探求自我而周遊全國。\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]現在正朝[Color name=\"blue\"]卓拉領地[Color name=\"unset\"]邁進……[PauseShort]\n"
+"但卻迷路，已經打算放棄了。\n"
+"不過我好像聽見[PauseShort][Color name=\"red\"]北部高塔[Color name=\"unset\"][PauseShort]\n"
+"傳來了聲音。\n"
+"[Sound1 unk1=\"5\" unk2=\"12\"]要越過[Color name=\"blue\"]茹特拉河[Color name=\"unset\"]難如登天啊……[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0000"
+msgstr "卓拉領地？"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]嗨，是你啊……[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0001"
+msgstr "北部高塔？"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]再見！"
+
+msgid "0002"
+msgstr "茹特拉河？"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]卓拉領地[Color name=\"unset\"]由卓拉族構成，[PauseShort]\n"
+"是位於[Color name=\"blue\"]拉聶爾地區[Color name=\"unset\"]的城鎮。\n"
+"但要跨越[Color name=\"blue\"]茹特拉河[Color name=\"unset\"]根本是天方夜譚。\n"
+"\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]因為遲遲無法抵達，我就放棄前往了。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAEwAQAAAAAAAAwAAAAEAAAAOAAAAFYAAABYAAAAWgAAAFwAAABeAAAAfAAAAJoAAAC4AAAA1gAAAPQAAAASAQAATgBwAGMAXwBMAGEAbgBhAHkAcgB1ADAAMAA0AAAAAAAAAAAAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAABOAHAAYwBfAEwAYQBuAGEAeQByAHUAMAAwADQAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

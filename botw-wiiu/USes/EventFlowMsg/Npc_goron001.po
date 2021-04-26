@@ -1,0 +1,116 @@
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Espero que hayas disfrutado de\n"
+"los beneficios de un buen masaje goron."
+
+msgid "Talk11"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"125\"]¡Hola, hola, joven viajero![PageBreak]Adelante, pasa, pasa.[Size percent=\"100\"]"
+
+msgid "Talk12"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"0\"]¿No te cansas de correr tanto?[Size percent=\"100\"]"
+
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]¡¿Nunca has oído hablar de\n"
+"los célebres masajes goron?![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Verás, es un tipo de masaje que se\n"
+"lleva a cabo sobre una cama de roca\n"
+"dura.\n"
+"Se aplica una gran cantidad de presión\n"
+"sobre el cuerpo para liberar todo tipo\n"
+"de tensiones.[PauseShort]\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]No te asustes, ¡no duele nada de nada!\n"
+"Puedes relajarte y disfrutar del\n"
+"momento sin miedo.[PauseShort]\n"
+"Ya verás, cuando te despiertes te\n"
+"sentirás como nuevo. ¡Te llenarás\n"
+"de energía!"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Una cama normal te sale en [Color name=\"red\"]20 rupias[Color name=\"unset\"].[PauseMid]\n"
+"Si también quieres un masaje goron,\n"
+"tendrás que pagar [Color name=\"red\"]80 rupias[Color name=\"unset\"].[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Eh, ¿ya te enteraste?[PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] ha dejado de darnos lata,[PauseShort]\n"
+"y ya no se ve ningún [Color name=\"blue\"]proyectil de lava[Color name=\"unset\"]\n"
+"por aquí.\n"
+"La verdad es que a mí me da igual,\n"
+"porque nunca salgo de la posada...[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]En fin, ¡a trabajar!"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Size percent=\"125\"]¡Allá tú![Size percent=\"100\"]"
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"]¡Eh![Size percent=\"100\"]"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]Huy... [PauseShort]Veo que no tienes muchas\n"
+"rupias, ¿eh?[PauseLong] Lo siento; si no pagas,\n"
+"no hay trato."
+
+msgid "Talk16"
+msgstr "[Sound1 unk1=\"1\" unk2=\"3\"][Size percent=\"125\"]¡Eh, Volcon![PauseMid] ¡Te toca![Size percent=\"100\"]"
+
+msgid "0000"
+msgstr "¡Cama normal!"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]¿Hasta cuándo quieres dormir\n"
+"en la cama normal?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk17"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Espero que hayas quedado satisfecho.[PauseShort]\n"
+"¡Hasta luego!"
+
+msgid "0001"
+msgstr "Cama y masaje"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Un masaje y luego a dormir. Entiendo.\n"
+"¿Hasta cuándo quieres descansar?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Creo que paso"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Estupendo! Que descanses."
+
+msgid "0003"
+msgstr "Hasta la mañana"
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Muy bien, ha llegado el momento de\n"
+"darte un buen estirón."
+
+msgid "0004"
+msgstr "Hasta el mediodía"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]¡Buenos días![Size percent=\"100\"]"
+
+msgid "0005"
+msgstr "Hasta la noche"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Espero que hayas dormido bien.[PauseLong]\n"
+"¡Hasta luego, joven viajero!"
+
+msgid "0006"
+msgstr "Cambié de parecer"
+
+msgid "0007"
+msgstr "¿Un masaje, dices?"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAE2AgAAAAAAABkAAAAEAAAAbAAAAG4AAABwAAAAcgAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAlgAAALAAAADKAAAA5AAAAP4AAAAYAQAAMgEAAEwBAABmAQAAgAEAAJoBAAC0AQAAzgEAAOgBAAACAgAAHAIAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADEAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMQAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

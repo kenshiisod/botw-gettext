@@ -1,0 +1,422 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]Aïe... [PauseMid]Et mon âne?[PauseMid] Il s'en est tiré?"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Montre-moi ce que t'as!"
+
+msgid "RetMSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Qui veut voyager loin emporte\n"
+"des insectes![PauseLong]\n"
+"Si si,[PauseShort] c'est bien ça qu'on dit.\n"
+"Je t'assure que sans insectes, [PauseShort]tu risques\n"
+"pas de pouvoir préparer les remèdes\n"
+"contre la chaleur et le froid!"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseMid]\n"
+"Je t'en offre [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"],[PauseShort] ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"2\"]Youhou![PauseShort] Ça, c'est une bonne affaire![PauseMid]\n"
+"Tu as autre chose à vendre?"
+
+msgid "MSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Dans le désert, la chaleur en journée est\n"
+"pire que le froid nocturne. [PauseMid]À ta place,[PauseShort] je\n"
+"privilégierais les remèdes rafraîchissants."
+
+msgid "RetMSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Sans insectes, [PauseShort]tu risques pas de pouvoir\n"
+"préparer les remèdes contre la chaleur\n"
+"et le froid!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"15\"]Ah,[PauseShort] c'est dommage."
+
+msgid "Com_Talk_10"
+msgstr "T'es sûr? [PauseMid]Pas de regrets?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Je t'achète tout ce que tu vends!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]Merci bien!"
+
+msgid "Com_Talk_06"
+msgstr "Qu'est-ce qui te ferait plaisir?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]J'ai rentré quelques libellules qui\n"
+"pourraient t'intéresser..."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]Merci!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"15\"]Désolé,[PauseShort] j'en ai plus!"
+
+msgid "Com_Talk_13"
+msgstr "Avec plaisir![PauseMid] Tu m'en vends combien?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Impossible de traîner un âne ou un\n"
+"cheval dans le [Color name=\"blue\"]désert Gerudo[Color name=\"unset\"]. [PauseShort]Leurs\n"
+"sabots s'enfoncent dans l'sable."
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]Youhou![PauseMid] Merci, cher client!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"15\"]Ta bourse est un peu trop légère,[PauseShort] j'en ai\n"
+"peur. [PauseMid]Va falloir que tu vendes deux-trois\n"
+"bricoles,[PauseShort] histoire de te faire des rubis."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Si je t'en prends [02:0F name=\"Shop_TradeItemNum\"],[PauseShort] ça nous\n"
+"fait un total de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].[PauseMid]\n"
+"Tope là?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]Tu dois grelotter avec cette pluie,[PauseShort] mon\n"
+"pauvre vieux...[PauseMid] Prends-moi donc un\n"
+"[C9:00 bytes=\"01000000\"]papillon piment tant que t'es là!"
+
+msgid "RetMSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Pour combattre la chaleur ou le froid,[PauseShort]\n"
+"rien ne vaut un remède à base d'insectes\n"
+"et d'ingrédients de monstres!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]Autre chose?"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"15\"]Ta sacoche est pleine,[PauseShort] va falloir que tu\n"
+"fasses un peu de place.[PauseMid] Par exemple, [PauseShort]je\n"
+"peux t'acheter des trucs, si tu veux."
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"15\"]Ne me vends pas ça, [PauseShort]tu risquerais\n"
+"de le regretter amèrement."
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Sans toi, je mangerais les pissenlits par\n"
+"la racine. Tiens, tu as bien mérité ça!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"15\"]Première étape, [PauseShort]enlever les vêtements.[PauseMid]\n"
+"Deuxième étape,[PauseShort] les vendre.[PauseLong]\n"
+"Fais les choses dans l'ordre,[PauseShort] OK?"
+
+msgid "Com_Talk_30"
+msgstr ""
+"Si t'en prends [02:0F name=\"Shop_TradeItemNum\"],[PauseShort] ça nous fait\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis [Color name=\"unset\"]en tout. [PauseMid]Ça te va?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "Il t'en faut combien?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]C'est pas le moment d'être distrait!"
+
+msgid "Com_Talk_33"
+msgstr ""
+"C'est tout?[PauseLong] Très bien.[PauseMid]\n"
+"Je t'en donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"],[PauseShort] ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Qu'est-ce que j'ai fait pour mériter ça?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Tout le stock, carrément?[PauseLong]\n"
+"Il m'en reste [02:0F name=\"Shop_TradeItemNum\"]... [PauseMid]Du coup, t'en auras\n"
+"pour [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. [PauseMid]Ça ira?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Bon, ça suffit,[PauseShort] demi-tour![PauseLong] J'pousserais\n"
+"bien un peu plus loin mais...\n"
+"\n"
+"Impossible de traîner un âne ou un\n"
+"cheval dans le [Color name=\"blue\"]désert Gerudo[Color name=\"unset\"]. [PauseShort]Leurs\n"
+"sabots s'enfoncent dans l'sable."
+
+msgid "Com_Talk_35"
+msgstr ""
+"Tu me proposes tout le lot?[PauseMid] Les [02:0F name=\"Shop_TradeItemNum\"]?[PauseMid]\n"
+"OK, je t'en offre [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].[PauseMid]\n"
+"Qu'est-ce que t'en dis?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Dans ce désert,[PauseShort] y'a pas de demi-mesure.[PauseMid]\n"
+"La journée, tu crèves de chaud, [PauseShort]et\n"
+"la nuit, tu gèles sur place.[PauseMid]\n"
+"À part les Gerudos,[PauseShort] personne peut\n"
+"supporter ça."
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"7\"]Ça y est,[PauseShort] j'ai plus rien...[PauseMid]\n"
+"Tu peux te vanter d'être un bon\n"
+"client,[PauseShort] toi!"
+
+msgid "MSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]C'est vrai qu'on est bien au [Color name=\"blue\"]relais du\n"
+"canyon Gerudo[Color name=\"unset\"], [PauseShort]mais on peut quand\n"
+"même pas y rester toute la vie!\n"
+"Tôt ou tard,[PauseShort] il faut reprendre la route,[PauseShort]\n"
+"non sans avoir rassemblé de quoi\n"
+"préparer quelques remèdes,[PauseShort] bien sûr.\n"
+"Ce serait de la folie pure de s'aventurer\n"
+"dans le désert sans avoir de quoi se\n"
+"réchauffer ou se rafraîchir."
+
+msgid "MSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Je fais demi-tour, [PauseShort]y'a un tantinet trop\n"
+"de monstres à mon goût à partir d'ici."
+
+msgid "SavedLv1_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]Ouf,[PauseShort] heureusement que tu m'as sauvé,[PauseShort]\n"
+"j'ai encore des insectes à vendre!"
+
+msgid "Com_Talk_05b"
+msgstr ""
+"Si t'as quelque chose à vendre,[PauseShort]\n"
+"fais-moi voir!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]Ça marche, [PauseShort]merci!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"2\"]Je n'ai plus rien à vendre,[PauseShort] tout est\n"
+"parti![PauseMid] Tu veux voir ce que je propose\n"
+"d'habitude?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]T'as tout ce qu'il te faut en remèdes?[PauseMid]\n"
+"Et en ingrédients de monstres qu'il faut\n"
+"pour les préparer?\n"
+"La chaleur en journée est encore pire\n"
+"que le froid nocturne. [PauseMid]À ta place, [PauseShort]je\n"
+"privilégierais les remèdes rafraîchissants."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Je vends des insectes de première\n"
+"qualité.[PauseMid] Eh, ben?[PauseMid] Jette un coup\n"
+"d'œil au lieu de faire cette grimace![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"17\"]Comme quoi,[PauseShort] il faut jamais baisser\n"
+"sa garde."
+
+msgid "Com_Talk_05c"
+msgstr "Qu'est-ce que tu me vends?"
+
+msgid "Com_Talk_11c"
+msgstr ""
+"[Sound2 id=\"2\"]Glagla ou piment,[PauseShort] je vends tous les\n"
+"insectes dont tu peux rêver!"
+
+msgid "MSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"17\"]Hum... [PauseMid]À partir d'ici,[PauseShort] le coin est nul\n"
+"pour les affaires.[PauseMid] Trop de monstres,[PauseShort]\n"
+"ça fait fuir les clients.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Et en plus,[PauseShort] ces bestiaux sont de gros\n"
+"avares, [PauseShort]ils n'achètent jamais rien![PauseLong] Bref,\n"
+"compte pas sur moi pour aller plus loin."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Il te fallait autre chose?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Montre-moi!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Youhou,[PauseShort] merci!"
+
+msgid "MSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Dans ce désert,[PauseShort] y a pas de demi-mesure.[PauseMid]\n"
+"La journée, tu crèves de chaud,[PauseShort] et\n"
+"la nuit, tu gèles sur place."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]J'aimerais bien traverser le désert pour\n"
+"vendre ma marchandise de l'autre côté...\n"
+"\n"
+"Mais impossible d'y traîner un âne ou un\n"
+"cheval, [PauseShort]ils s'enfoncent les sabots dans le\n"
+"sable. [PauseMid]Du coup je reste dans le coin."
+
+msgid "RetMSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Tant que tu es au relais, [PauseShort]tu devrais en\n"
+"profiter pour concocter des remèdes\n"
+"pour te réchauffer ou te rafraîchir."
+
+msgid "5500"
+msgstr "Oui!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Ce sera tout?[PauseMid]\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"], [PauseShort]s'il te plaît.[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Non!"
+
+msgid "0000"
+msgstr "Je veux acheter."
+
+msgid "5502"
+msgstr "J'achète!"
+
+msgid "0001"
+msgstr "Je veux vendre."
+
+msgid "5503"
+msgstr "Laisse tomber."
+
+msgid "0002"
+msgstr "Ciao!"
+
+msgid "Near00"
+msgstr "Le froid, le chaud..."
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"23\"]Ouah,[PauseShort] t'es un véritable as\n"
+"de la bagarre..."
+
+msgid "Near01"
+msgstr "Insectes pas chers!"
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Face à un monstre,[PauseShort] la meilleure défense,[PauseShort]\n"
+"c'est la fuite!"
+
+msgid "Near02"
+msgstr "Du froid, du chaud!"
+
+msgid "Near03"
+msgstr "Insectes de premier choix!"
+
+msgid "5507"
+msgstr "J'achète tout!"
+
+msgid "5508"
+msgstr "Je vends tout!"
+
+msgid "MSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]N'oublie pas de rassembler de quoi\n"
+"préparer des remèdes contre la chaleur\n"
+"et le froid avant de prendre la route."
+
+msgid "RetMSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Les remèdes contre la chaleur et le froid\n"
+"sont préparés à base d'insectes et\n"
+"d'ingrédients de monstres."
+
+msgid "SavedLv3_00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]Comment va mon âne?[PauseLong]\n"
+"Et mes insectes?"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]Pfiou... [PauseLong]Un peu plus et couic,[PauseShort]\n"
+"j'y passais!"
+
+msgid "RetMSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Si tu traverses le [Color name=\"blue\"]désert Gerudo[Color name=\"unset\"], [PauseShort]tu vas\n"
+"tomber sur le [Color name=\"blue\"]bazar Assek[Color name=\"unset\"]... [PauseMid]Une oasis\n"
+"qui grouille de marchands."
+
+msgid "RetMSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Si tu traverses le [Color name=\"blue\"]désert Gerudo[Color name=\"unset\"], [PauseShort]tu vas\n"
+"tomber sur le [Color name=\"blue\"]bazar Assek[Color name=\"unset\"]... [PauseMid]Une oasis\n"
+"qui grouille de marchands.\n"
+"Du coup,[PauseShort] ils ont tendance à se tirer dans\n"
+"les pattes, [PauseShort]alors j'évite... [PauseMid]La concurrence\n"
+"exacerbée, [PauseShort]très peu pour bibi.\n"
+"En plus,[PauseShort] c'est impossible de traîner un\n"
+"âne dans le désert.[PauseMid] Bref, je retourne au\n"
+"relais."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]À la prochaine!"
+
+msgid "RetMSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Tu te rends dans le désert?[PauseMid]\n"
+"T'as fait des réserves de remèdes,[PauseShort]\n"
+"au moins?\n"
+"Dans le désert,[PauseShort] c'est insolation en\n"
+"journée et engelures dès que la nuit\n"
+"tombe. [PauseMid]Il s'agit d'être préparé.\n"
+"Et pour combattre la chaleur ou le froid,[PauseShort]\n"
+"rien ne vaut un remède à base d'insectes\n"
+"et d'ingrédients de monstres!"
+
+msgid "RetMSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Tu t'es correctement préparé pour tes\n"
+"pérégrinations? [PauseMid]Tu as rempli ta\n"
+"sacoche de remèdes?\n"
+"Quand on s'aventure dans le désert,[PauseShort] faut\n"
+"avoir de quoi combattre les monstres,[PauseShort]\n"
+"mais aussi la chaleur et le froid.\n"
+"Alors, si tu comptes crapahuter dans les\n"
+"dunes,[PauseShort] tu devrais profiter d'être au relais\n"
+"pour concocter quelques remèdes."
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"17\"]C'est le moment de ficher le camp!"
+
+msgid "RetMSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Si tu t'aventures dans le désert en\n"
+"journée, [PauseShort]t'as plutôt intérêt à avoir\n"
+"des remèdes rafraîchissants sur toi.\n"
+"Par contre,[PauseShort] si tu t'y balades la nuit,[PauseShort]\n"
+"il te faudra de quoi te réchauffer,[PauseShort] parce\n"
+"qu'il fait frisquet, [PauseShort]je te dis que ça!\n"
+"Dans les deux cas,[PauseShort] tu auras besoin\n"
+"d'insectes et d'ingrédients de monstres\n"
+"pour préparer les remèdes."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAFIBQAAAAAAAFIAAAAEAAAAUAEAAGoBAACEAQAAhgEAAIgBAACKAQAApAEAAKYBAACoAQAAqgEAAKwBAACuAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAA1AEAAO4BAAAIAgAAIgIAACQCAAAmAgAAKAIAACoCAAAsAgAALgIAADACAAAyAgAANAIAADYCAAA4AgAAOgIAADwCAAA+AgAAQAIAAEICAABEAgAARgIAAEgCAABKAgAATAIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAJYCAACYAgAAuAIAANgCAAD4AgAAGAMAABoDAAAcAwAAHgMAACADAAAiAwAAJAMAACYDAABAAwAAWgMAAHQDAACOAwAAqAMAAMIDAADcAwAA9gMAABAEAAAqBAAARAQAAF4EAAB4BAAAkgQAAKwEAADGBAAA4AQAAPoEAAAUBQAALgUAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

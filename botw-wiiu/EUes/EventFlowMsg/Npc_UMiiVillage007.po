@@ -1,0 +1,153 @@
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Bah...[PauseShort] ¿En serio?"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Dime...[PauseShort] ¿Tú también has venido a\n"
+"la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"] a comprarte una casa?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0000"
+msgstr "Soy un viajero"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]En cualquier caso, ve con cuidado.[PageBreak]Mi marido se ocupa de vigilar la zona,[PauseShort]\n"
+"pero no hay que alejarse mucho de\n"
+"la aldea para toparse con gente extraña."
+
+msgid "0001"
+msgstr "Nadie importante..."
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Qué querías?[Choice4Flags label1=\"6\" flag1=\"UMiiVillage_NPC008_Cook\" label2=\"8\" flag2=\"UMiiVillage_NPC027_MamonoCake\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Así es"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ya sabes, tipos horriblemente feos y\n"
+"plantas fuera de lo normal.[PauseShort] Los hay\n"
+"por todas partes fuera de aquí.\n"
+"En especial, hay una [Color name=\"red\"]flor gigantesca[Color name=\"unset\"]\n"
+"yendo en dirección [Color name=\"red\"]sureste[Color name=\"unset\"][PauseShort] desde la\n"
+"[Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"].\n"
+"Mi marido y yo hemos estado hablando\n"
+"de ella hace poco."
+
+msgid "0003"
+msgstr "La verdad es que no"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Esa [Color name=\"red\"]flor gigantesca[Color name=\"unset\"] se encuentra\n"
+"al [Color name=\"red\"]sureste[Color name=\"unset\"] de la [Color name=\"blue\"]aldea Arkadia[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]La hemos visto siguiendo el camino\n"
+"que lleva hasta aquí.[PauseShort] Y tiene una pinta\n"
+"bastante vulgar..."
+
+msgid "0004"
+msgstr "¿Gente extraña?"
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hasta luego."
+
+msgid "0005"
+msgstr "Adiós"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡No se deben tocar las cosas que uno\n"
+"no comprende!"
+
+msgid "0006"
+msgstr "¿Cocinas bien?"
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]¡Vaya! ¿Te lo ha contado tal vez\n"
+"mi marido?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Este hombre, siempre dándole\n"
+"a la lengua..."
+
+msgid "0007"
+msgstr "¿Y qué más?"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Querías hablar de algo más?[Choice4Flags label1=\"6\" flag1=\"UMiiVillage_NPC008_Cook\" label2=\"8\" flag2=\"UMiiVillage_NPC027_MamonoCake\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]No tienes mucha pinta de que te chiflen\n"
+"los dulces...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Es importante comer lo suficiente[PauseShort]\n"
+"para que tu cuerpo se desarrolle bien."
+
+msgid "0008"
+msgstr "Pastelito de monstruo"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]¿Quién eres?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Por ejemplo, [Color name=\"blue\"]pastel de zanahoria[Color name=\"unset\"],\n"
+"[Color name=\"blue\"]pastel de calabaza[Color name=\"unset\"]...[PauseShort] y otros.[Choice1 label=\"7\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah, buenos días."
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah, hola, buenas."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Además de eso, también aprendí a hacer\n"
+"uno llamado [Color name=\"blue\"]pastelito de monstruo[Color name=\"unset\"].[PauseLong]\n"
+"Es bastante fácil de preparar.[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Solo necesitarás [Color name=\"blue\"][C9:00 bytes=\"01000000\"]trigo de Tabanta[Color name=\"unset\"],[PauseShort]\n"
+"[Color name=\"blue\"][C9:00 bytes=\"02010100\"]caña de azúcar[Color name=\"unset\"][PauseShort] y [Color name=\"blue\"][C9:00 bytes=\"02010100\"]manteca de cabra[Color name=\"unset\"].[PauseShort]\n"
+"Después se añade [Color name=\"red\"][C9:00 bytes=\"02010100\"]esencia de monstruo[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"5\" unk2=\"1\"]Aunque la [Color name=\"red\"][C9:00 bytes=\"02010100\"]esencia de monstruo[Color name=\"unset\"]\n"
+"no es fácil de encontrar últimamente."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Buenas noches."
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]No se me da mal cocinar en general,[PauseShort]\n"
+"aunque mi especialidad es la repostería.[PageBreak][Sound1 unk1=\"0\" unk2=\"11\"]Mi abuela era pastelera de la familia\n"
+"real,[PauseShort] y fue ella la que me enseñó a\n"
+"preparar muchas tartas y pasteles."
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sí, sí."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Claro, no te preocupes;[PauseShort] te lo repito\n"
+"las veces que haga falta.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Tienes que usar [Color name=\"blue\"][C9:00 bytes=\"01000000\"]trigo de Tabanta[Color name=\"unset\"],[PauseShort]\n"
+"[Color name=\"blue\"][C9:00 bytes=\"02010100\"]caña de azúcar[Color name=\"unset\"][PauseShort] y [Color name=\"blue\"][C9:00 bytes=\"02010100\"]manteca de cabra[Color name=\"unset\"],[PauseShort]\n"
+"y luego añadir [Color name=\"red\"][C9:00 bytes=\"02010100\"]esencia de monstruo[Color name=\"unset\"]."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Zzz... Zzz..."
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Quizá el [Color name=\"blue\"]pastelito de monstruo[Color name=\"unset\"] tenga\n"
+"un olor un tanto desagradable,[PauseShort] ¡pero es\n"
+"increíble la vitalidad que te proporciona!"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tengo que prepararme para irme a\n"
+"dormir.[PauseShort] Y tú deberías hacer lo mismo."
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Va siendo hora de irme a dormir.[PauseShort]\n"
+"Mi anciano cuerpo lo necesita."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAEuBAAAAAAAACEAAAAEAAAAjAAAAI4AAACQAAAAkgAAAJQAAACWAAAAmAAAAJoAAACcAAAAngAAAMQAAADqAAAAEAEAADYBAABcAQAAggEAAKgBAADOAQAA9AEAABoCAABAAgAAZgIAAIwCAACyAgAA2AIAAP4CAAAkAwAASgMAAHADAACWAwAAvAMAAOIDAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,358 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]아야야… [PauseMid]당나귀는… [PauseMid]당나귀는 무사해?"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]일단 보여 줘 봐"
+
+msgid "RetMSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]여행이 길어지면 곤충이 중요해지지[PauseMid]\n"
+"그게 무슨 소리냐고?[PauseMid]\n"
+"여행에 도움되는 약을 만들기 위해선\n"
+"곤충이 필요하다는 얘기야"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 팔려고?\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데, 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"2\"]좋아, 고마워![PauseShort]\n"
+"또 팔고 싶은 거 있어?"
+
+msgid "MSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]저녁의 추위보다 낮의 더위가 더 심하니[PauseShort]\n"
+"만들 거라면 썰렁한 약이 먼저지"
+
+msgid "RetMSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]여행에 도움되는 약을 만들기 위해선[PauseShort]\n"
+"곤충이 필요해"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"15\"]아쉽네"
+
+msgid "Com_Talk_10"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 사겠다는 거\n"
+"맞지?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "뭐든 매입할게!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]고마워"
+
+msgid "Com_Talk_06"
+msgstr "무엇을 원해?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]잠자리라면 준비돼 있어[PauseMid]\n"
+"찬찬히 보고 가"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]고마워"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"15\"]미안,[PauseShort] 그건 품절됐어"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"] 말이지?\n"
+"몇 개 팔아 주려고?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Gerud_00_1"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]겔드사막[Color name=\"unset\"]에선 모래에 발이 묶여[PauseShort]\n"
+"당나귀도 말도 데려갈 수 없어"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]좋아, 고마워"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"15\"]루피가 부족해[PauseShort]\n"
+"뭐라도 팔아서 돈을 만들어 봐"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] [02:0F name=\"Shop_TradeItemNum\"]개면\n"
+"합해서 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]야[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]비에 몸이 식지 않아야 할 텐데…[PauseMid]\n"
+"뭣하면 따끈따끈호랑나비 사 갈래?"
+
+msgid "RetMSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]따끈따끈한 약과 썰렁한 약이\n"
+"곤충과 몬스터 소재로 만들어진다는 거, 알아?"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]또 뭔가 있어?"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"15\"]주머니가 가득해[PauseMid]\n"
+"팔든 버리든 해서 공간을 만들어 봐"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"15\"]그건 매입할 수 없어[PauseShort]\n"
+"너무 마음 상해하지 마"
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]네 덕분에 목숨을 건졌어[PauseShort]\n"
+"사양 말고 받아 줘"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"15\"]입고 있는 건 벗은 다음…"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020074C7020000AC\"] [02:0F name=\"Shop_TradeItemNum\"]개면\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데,[PauseShort] 어때?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 사 주려고?[PauseShort]\n"
+"몇 개 필요해?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]이거 아직 안심할 수 없겠는걸"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나?[PauseShort]\n"
+"그럼 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]야[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]내가 왜 이런 일을 당해야 해?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 있는 것 전부?[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]개에 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데, 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]난 여기서 되돌아가려고[PauseLong]\n"
+"왜냐하면…\n"
+"[Color name=\"blue\"]겔드사막[Color name=\"unset\"]에선 모래에 발이 묶여[PauseShort]\n"
+"당나귀도 말도 데려갈 수 없거든"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] [02:0F name=\"Shop_TradeItemNum\"]개 전부?\n"
+"합계 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]에 매입할게, 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]겔드족 이외의 여행자는 고생이야[PauseLong]\n"
+"왜냐하면…\n"
+"사막은 낮엔 덥고 저녁엔 춥잖아[PauseMid]\n"
+"양쪽 모두를 대비한 장비가 필요하다고"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"7\"]이게 마지막이야[PauseShort]\n"
+"잔뜩 사 줘서 기뻐"
+
+msgid "MSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"][Color name=\"blue\"]겔드 캐니언 마구간[Color name=\"unset\"]에서 한숨 돌리는 것도 좋지만\n"
+"여행은 계속할 생각이지?\n"
+"따끈따끈한 약 재료와 썰렁한 약 재료는[PauseShort]\n"
+"제대로 준비해 뒀어?"
+
+msgid "MSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]이 앞은 몬스터가 많아서[PauseShort]\n"
+"난 여기서 되돌아갈 생각이야"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]후우, 살았다!"
+
+msgid "Com_Talk_05b"
+msgstr "팔 게 있으면 보여 줘"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]예이, 고마워"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"2\"]오늘은 더 이상 팔 게 없어[PauseShort]\n"
+"잔뜩 사 줘서 고마워!\n"
+"입고 예정 리스트라도 보고 갈래?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]여행에 필요한 약은 준비했어?[PauseMid]\n"
+"약을 만들 몬스터 소재는 모았고?\n"
+"저녁의 추위보다 낮의 더위가 더 심하니[PauseShort]\n"
+"만들 거라면 썰렁한 약이 먼저겠지?"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]참고로 내가 자부심을 갖고 파는 건 곤충이야[PauseMid]\n"
+"사양하지 말고 물건 좀 보고 가라고[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"11\" unk2=\"17\"]그래… 방심은 금물이지"
+
+msgid "Com_Talk_05c"
+msgstr "뭐라도 팔아 주려고?"
+
+msgid "Com_Talk_11c"
+msgstr ""
+"[Sound2 id=\"2\"]따끈따끈이랑 썰렁 곤충이라면\n"
+"여기서 사 가라고"
+
+msgid "MSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"17\"]으~음… [PauseMid]이 앞은 몬스터가 많아서[PauseShort]\n"
+"여행자도 적고 장사가 안 돼\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]몬스터가 팔아 줄 리도 없으니[PauseShort]\n"
+"난 여기서 되돌아갈 생각이야"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]더 필요한 거 있어?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "뭐어, 일단 보여 줘 봐"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]좋아, 고마워"
+
+msgid "MSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]사막은 낮엔 덥고 저녁엔 춥잖아[PauseMid]\n"
+"양쪽 모두를 대비한 장비가 필요해"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]물건을 팔러 사막 저편에도 가 보고 싶지만[PauseShort]\n"
+"당나귀나 말은 모래에 발목이 묶여 버려서…\n"
+"그래서 난 이 근방에서 장사를 하고 있어"
+
+msgid "RetMSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]마구간에서 썰렁한 약이랑 따끈따끈한 약을[PauseShort]\n"
+"휴식도 취하면서 겸사겸사 만들어 보는 건 어때?"
+
+msgid "5500"
+msgstr "예"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나면 돼?\n"
+"그럼 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]야[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "아니요"
+
+msgid "0000"
+msgstr "산다"
+
+msgid "5502"
+msgstr "산다"
+
+msgid "0001"
+msgstr "판다"
+
+msgid "5503"
+msgstr "역시 그만둔다"
+
+msgid "0002"
+msgstr "안녕히"
+
+msgid "Near00"
+msgstr "따끈따끈 썰렁…"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"23\"]어이쿠, 깜짝 놀랐네…"
+
+msgid "Near01"
+msgstr "곤충 안 필요해?"
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]몬스터의 습격을 받으면[PauseShort]\n"
+"그야 물론 삼십육계 줄행랑이지"
+
+msgid "Near02"
+msgstr "썰렁 따끈따끈"
+
+msgid "Near03"
+msgstr "곤충 안 필요해?"
+
+msgid "5507"
+msgstr "모두 산다"
+
+msgid "5508"
+msgstr "모두 판다"
+
+msgid "MSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]따끈따끈한 약 재료와 썰렁한 약 재료…[PauseShort]\n"
+"제대로 준비해 뒀어?"
+
+msgid "RetMSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]썰렁한 약과 따끈따끈한 약…[PauseMid]\n"
+"양쪽 모두 곤충과 몬스터 소재로 만들 수 있어"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]당나귀는 무사해? [PauseMid]짐은 어떻고?"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]으아~ [PauseShort]위기일발이었어"
+
+msgid "RetMSG_Gerud_00_1"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]카라카라 바자[Color name=\"unset\"]는 [Color name=\"blue\"]겔드사막[Color name=\"unset\"] 앞…[PauseMid]\n"
+"상인들이 모이는 오아시스지"
+
+msgid "RetMSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"][Color name=\"blue\"]겔드사막 [Color name=\"unset\"]앞의 [Color name=\"blue\"]카라카라 바자[Color name=\"unset\"]…[PauseMid]\n"
+"거긴 상인들이 모이는 오아시스지\n"
+"하지만 당나귀랑 사막을 건널 순 없으니[PauseShort]\n"
+"난 마구간으로 돌아가려던 참이야"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]그럼 몸 조심해!"
+
+msgid "RetMSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]혹시 사막으로 가려고?[PauseMid]\n"
+"그럼 약은 준비했어?\n"
+"따끈따끈한 약과 썰렁한 약이\n"
+"곤충과 몬스터 소재로 만들어진다는 거, 알아?"
+
+msgid "RetMSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]너, 여행 장비는 완벽히 준비했어?[PauseMid]\n"
+"만약 아니라면 약을 준비하는 게 좋아\n"
+"마구간에서 썰렁한 약이랑 따끈따끈한 약을[PauseShort]\n"
+"휴식도 취하면서 겸사겸사 만들어 보는 건 어때?"
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"17\"]이 틈에 도망치자!"
+
+msgid "RetMSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]낮에 사막을 건널 거라면 썰렁한 약[PauseMid]\n"
+"밤에 건널 거라면 따끈따끈한 약…[PauseMid]\n"
+"양쪽 모두 곤충과 몬스터 소재로 만들 수 있어"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAFIBQAAAAAAAFIAAAAEAAAAUAEAAGoBAACEAQAAhgEAAIgBAACKAQAApAEAAKYBAACoAQAAqgEAAKwBAACuAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAA1AEAAO4BAAAIAgAAIgIAACQCAAAmAgAAKAIAACoCAAAsAgAALgIAADACAAAyAgAANAIAADYCAAA4AgAAOgIAADwCAAA+AgAAQAIAAEICAABEAgAARgIAAEgCAABKAgAATAIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAJYCAACYAgAAuAIAANgCAAD4AgAAGAMAABoDAAAcAwAAHgMAACADAAAiAwAAJAMAACYDAABAAwAAWgMAAHQDAACOAwAAqAMAAMIDAADcAwAA9gMAABAEAAAqBAAARAQAAF4EAAB4BAAAkgQAAKwEAADGBAAA4AQAAPoEAAAUBQAALgUAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMQAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

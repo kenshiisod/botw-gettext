@@ -1,0 +1,210 @@
+msgid "Near001"
+msgstr "¡Wasaaq!"
+
+msgid "Near002"
+msgstr "¡Setas misteriosas!"
+
+msgid "Com_Talk_13"
+msgstr "Vale, ¿qué cantidad quieres vender?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"Por [02:0F name=\"Shop_TradeItemNum\"] te daré... [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Hay trato?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]Eso... no te lo puedo comprar."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]No me interesa comprarte lo que\n"
+"llevas puesto, shiak."
+
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"27\"]¡Sawotta![PageBreak]Hay que ver cuánta energía tienes\n"
+"de buena mañana.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"29\"]¡Sawosaaba![PageBreak]Por la noche refresca un poco,\n"
+"y a las setas les viene bien.[PageBreak]Échale un vistazo al puesto,\n"
+"no te cortes.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]¡Setas mágicas que solo pueden ver\n"
+"las shiak guapas! ¡Me las quitan de\n"
+"las manos!\n"
+"[Sound1 unk1=\"0\" unk2=\"19\"]¡Eh![PauseLong] Espera, me acuerdo de ti.[PageBreak]Como me compraste todas las setas,\n"
+"ahora no tengo nada más para vender.[PageBreak]Estoy probando una nueva estrategia\n"
+"comercial, a ver si pica alguien.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "¿Me compras algo?"
+
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Hace poco me enteré de algo\n"
+"sorprendente...[PageBreak]Al parecer, las setas son los seres\n"
+"vivientes más grandes del mundo,\n"
+"además de los más interesantes.\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"Gray\"][Size percent=\"80\"]Qué misteriosas son las setas...[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "0002"
+msgstr "Hasta luego"
+
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Pronto tendré nuevas existencias.\n"
+"Espero que vuelvas a comprar por aquí."
+
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¡Sahku, sahku! Si comes bien,\n"
+"¡crecerás más!"
+
+msgid "0003"
+msgstr "Compro"
+
+msgid "Com_Talk_33"
+msgstr "Te doy [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te interesa?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¡Sahku, sahku! Si quieres preparar algún\n"
+"plato, puedes usar la cocina común.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Seguro que una viajera como tú conoce\n"
+"recetas de lo más exóticas."
+
+msgid "0004"
+msgstr "Me marcho"
+
+msgid "Com_Talk_05b"
+msgstr "¿Nada más?"
+
+msgid "Talk_17"
+msgstr "[Sound1 unk1=\"1\" unk2=\"28\"]Sawook."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"22\"]A ver qué tienes."
+
+msgid "Com_Talk_05c"
+msgstr ""
+"Estoy impaciente por ver\n"
+"qué te puedo comprar."
+
+msgid "Com_Talk_35"
+msgstr ""
+"Como tienes [02:0F name=\"Shop_TradeItemNum\"], puedo ofrecerte\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te vale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_18"
+msgstr "[Sound1 unk1=\"1\" unk2=\"29\"]Sawosaaba."
+
+msgid "Com_Talk_01"
+msgstr ""
+"Por [C9:01][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]\n"
+"puedo darte [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿te hace?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"Compraré cualquier cosa que estés\n"
+"dispuesta a venderme."
+
+msgid "Talk_19"
+msgstr "[Sound1 unk1=\"1\" unk2=\"30\"]¡Wasaaq!"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Sahku, sahku!"
+
+msgid "Com_Talk_04"
+msgstr ""
+"[Sound2 id=\"4\"]¿En serio? No me hagas perder\n"
+"el tiempo."
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0B name=\"PlacedItemName\"][Color name=\"unset\"] cuesta\n"
+"[Color name=\"red\"][02:10 name=\"PlacedItemPrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Te interesa?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"23\"]Buena mercancía... ¡Sahku, sahku!"
+
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes alguna otra cosa\n"
+"que me quieras vender?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Je, je... ¡Sahku, sahku!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¡Sahku, sahku! Ha sido una transacción\n"
+"muy provechosa, sí."
+
+msgid "5500"
+msgstr "Sí"
+
+msgid "Com_Talk_53"
+msgstr "[Sound2 id=\"10\"]¿Has cambiado de idea? Qué pena..."
+
+msgid "5501"
+msgstr "No"
+
+msgid "Talk_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"28\"]¡Sawook![PageBreak]Otro día caluroso.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "Compro"
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Aquí solo vendo setas de primerísima\n"
+"calidad, te lo aseguro."
+
+msgid "5503"
+msgstr "Mejor no"
+
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]¿Te cuento un secreto? Si las gerudo\n"
+"lucimos una piel tan perfecta, es gracias\n"
+"a estas setas.\n"
+"Ya que has venido hasta aquí, sería\n"
+"una pena que te fueras sin haber\n"
+"comprado alguna."
+
+msgid "Talk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Parece que la bestia divina se ha\n"
+"calmado, así que con algo de suerte\n"
+"la ciudadela volverá a llenarse de gente.\n"
+"En fin, yo sigo con lo mío.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"27\"]Sawotta."
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¡Sahku!"
+
+msgid "5507"
+msgstr "Las compro todas"
+
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Las setas son muy sanas. Puedes\n"
+"comer todas las que quieras,\n"
+"que te sentarán de maravilla."
+
+msgid "5508"
+msgstr "Lo vendo todo"
+
+msgid "Talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]¿Necesitas algo más?[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHCAwAAAAAAADEAAAAEAAAAzAAAAOYAAAAAAQAAGgEAABwBAAAeAQAAOAEAAFIBAABsAQAAhgEAAKABAAC6AQAA1AEAAO4BAAAIAgAAIgIAADwCAABWAgAAcAIAAIoCAACkAgAApgIAAKgCAADCAgAA3AIAAN4CAADgAgAA4gIAAOQCAADmAgAABgMAACYDAABGAwAAZgMAAIYDAACIAwAAigMAAIwDAACOAwAAkAMAAJIDAACUAwAAlgMAALYDAAC4AwAAugMAALwDAAC+AwAAwAMAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAAAAAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

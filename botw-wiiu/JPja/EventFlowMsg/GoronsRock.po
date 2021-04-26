@@ -1,0 +1,296 @@
+#, ruby
+msgid "Goron_Father_Talk07"
+msgstr ""
+"[Sound2 id=\"1\"]弟よ！ できたでゴロス！\n"
+"食べるでゴロス！！"
+
+#, ruby
+msgid "Goron_Father_Talk08"
+msgstr ""
+"[Sound2 id=\"2\"]これが[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]ゴロスか？！\n"
+"\n"
+"[Sound2 id=\"4\"][Size percent=\"80\"]…ん？ どこかでみたことあるゴロス\n"
+"\n"
+"[Sound2 id=\"9\"][Size percent=\"100\"]とにかく…\n"
+"スゴイ発見だ！ 我が弟よ！ ゴロス！"
+
+#, ruby
+msgid "Goron_Father_Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]弟に力を貸してくれて\n"
+"ありがとうでゴロス\n"
+"さあ 立派になった弟と\n"
+"ゴロンシティへ帰るでゴロス"
+
+#, ruby
+msgid "Goron_Father_Talk10"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]弟はいつになったら\n"
+"帰ってくるでゴロス？！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]まさか… 弟は… [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]の奥にある\n"
+"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を…？！[Choice3 label1=\"5\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Goron_Father_Talk11"
+msgstr ""
+"[Color name=\"red\"][Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]マルゴ坑道[Color name=\"red\"][Color name=\"unset\"]は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
+"捨てられた坑道だゴロス\n"
+"奥に硬い岩盤があって ずいぶん昔に\n"
+"掘るのをやめた 坑道なんだゴロス\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]その岩盤の先には\n"
+"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]が隠されているらしいゴロスが…"
+
+#, ruby
+msgid "Goron_Father_Near01"
+msgstr "鍋にゴロゴロンス"
+
+#, ruby
+msgid "Goron_Father_Near02"
+msgstr "どこ行ったゴロス？！"
+
+#, ruby
+msgid "Goron_Father_Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここから出た[Color name=\"red\"]坂の下[Color name=\"unset\"]にある トロコ崖に\n"
+"[Color name=\"red\"]ロース岩[Color name=\"unset\"]が ゴロンゴロンしてるんでゴロス\n"
+"それを取ってきてほしいんでゴロス"
+
+#, ruby
+msgid "Goron_Father_Talk13"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]自分で行きたいのは やまやまでゴロスが…\n"
+"持病のゴロン肩が ヒドイんでゴロス\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]あんたを見込んで お願いするでゴロス！！"
+
+msgid "Goron_Son_Near01"
+msgstr "勇者の秘密だゴロン！"
+
+#, ruby
+msgid "Goron_Father_Talk14"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]オレの自慢の弟…[PauseShort] ゴングロンだゴロス！\n"
+"\n"
+"[Sound1 unk1=\"2\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる… なんて言って\n"
+"飛び出していったんだゴロス！\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Goron_Son_Near02"
+msgstr "早く食べたいゴロン"
+
+#, ruby
+msgid "Goron_Son_Talk04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]んっ…？！\n"
+"これは [Color name=\"red\"]デリシャス焼きロース岩[Color name=\"unset\"]の香り…"
+
+#, ruby
+msgid "Goron_Father_Talk15"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]家出するなら [Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる…\n"
+"なんて言って 飛び出さないでゴロス！\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Goron_Son_Talk04_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]おおこれは！！ うまそうだゴロン！\n"
+"早速いただきますゴロン！！"
+
+#, ruby
+msgid "Goron_Father_Talk16"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]弟は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
+"[Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]に向かったはずゴロス\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]硬い岩盤があって ずいぶん昔に\n"
+"掘るのをやめた 坑道なんだゴロス"
+
+#, ruby
+msgid "Goron_Son_Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"10\"]あ ほって ほって ほりぬいて！\n"
+"[Color name=\"red\"]秘密[Color name=\"unset\"]を見つけるゴロン！ ゴロン！\n"
+"何をほっているかゴロン？！\n"
+"[Color name=\"red\"]秘密[Color name=\"unset\"]だゴロン！！！"
+
+#, ruby
+msgid "Goron_Son_Talk02b"
+msgstr "[Sound1 unk1=\"9\" unk2=\"43\"]もう腕が上がらないゴロン…"
+
+#, ruby
+msgid "Goron_Son_Talk04_3"
+msgstr "[Sound2 id=\"9\"]兄ちゃんの料理は最高でゴロン！！"
+
+#, ruby
+msgid "Goron_Father_Talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ロース岩[Color name=\"unset\"]を持ってきたら\n"
+"この鍋の中に ドーンするゴロス"
+
+#, ruby
+msgid "Goron_Son_Talk02"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"43\"]ゼェゼェ…[PauseMid] もうダメだゴロン…\n"
+"\n"
+"この岩の奥に\n"
+"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]があるんだゴロン…\n"
+"その秘密を見つけたら\n"
+"ボクもきっと立派になれると思ったんだけど…\n"
+"[Sound2 id=\"40\"]でも もう力が出ないゴロン…[PauseShort]\n"
+"おなかが カランコロンだゴロン…"
+
+msgid "Goron_Son_Talk04_4"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]おなかいっぱいになったゴロン\n"
+"さあ！ やるゴロン！"
+
+#, ruby
+msgid "Goron_Father_Talk18"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]でもきっとサボりの言い訳ゴロス！！[PauseShort]\n"
+"弟にはもっとしっかりして欲しいでゴロス…！！"
+
+#, ruby
+msgid "Goron_Son_Talk04"
+msgstr ""
+"ウマイゴロン！\n"
+"ウマイでゴロン！！\n"
+"この硬度！ アゴに響く歯ごたえ！\n"
+"ジャリジャリの喉越し！\n"
+"圧縮された鉱物のうまみが\n"
+"強火で熱せられて… 口の中が大噴火ゴロン！\n"
+"ボクは今 デスマウンテンになったゴロン！\n"
+"ゴロン ゴロロロン！！"
+
+#, ruby
+msgid "Goron_Father_Talk20"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西に [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]という\n"
+"捨てられた坑道があるんでゴロス\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]奥にある硬い岩盤の先には\n"
+"鉱石じゃなくて [Color name=\"red\"]勇者の秘密[Color name=\"unset\"]が隠されている！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…という\n"
+"ホントかウソかわからない話でゴロス\n"
+"オヤジの いとこの はとこの\n"
+"お隣さんから 聞いたんだゴロス"
+
+msgid "Goron_Son_Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"][Size percent=\"125\"]フオオオォォ！！[Size percent=\"100\"]"
+
+#, ruby
+msgid "Goron_Father_Talk06_2"
+msgstr ""
+"[04:03]やったゴロス！\n"
+"[Color name=\"red\"]デリシャス焼きロース岩[Color name=\"unset\"]の完成だゴロス！"
+
+#, ruby
+msgid "Goron_Father_Talk21"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]待ってたゴロス！\n"
+"早速鍋に置くでゴロス！"
+
+#, ruby
+msgid "Goron_Son_Talk06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Happy_00\"]デタァァァ！！ ゴロン！！\n"
+"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]ゴロン！\n"
+"[Sound2 id=\"4\"][Size percent=\"80\"]…ん？ ゴロンシティでも\n"
+"見たことあるような……[Size percent=\"100\"]"
+
+#, ruby
+msgid "0000"
+msgstr "弟？"
+
+#, ruby
+msgid "Goron_Father_Talk22"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]は\n"
+"古くからうちに伝わる おとぎ話だゴロス\n"
+"オレのオヤジの いとこの はとこの…\n"
+"お隣さんから 聞いたんだゴロス"
+
+#, ruby
+msgid "Goron_Son_Talk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]アリガトゴロン！\n"
+"ゴロンシティへ帰って みんなに報告だゴロン！"
+
+#, ruby
+msgid "0001"
+msgstr "家出？"
+
+#, ruby
+msgid "Goron_Father_Talk23"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]わ…[PauseShort] わかったって\n"
+"弟が何を考えてるのか わかったゴロスか？！\n"
+"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"1\"]オレには弟の心は わからないでゴロス…\n"
+"兄として さびしいでゴロス…[Size percent=\"100\"]"
+
+#, ruby
+msgid "0002"
+msgstr "どこへ行ったの？"
+
+#, ruby
+msgid "Goron_Father_Talk24"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]夢を追うより 現実を見て\n"
+"みんなの仕事を 手伝ってほしいでゴロス…"
+
+#, ruby
+msgid "0003"
+msgstr "勇者の秘密？"
+
+msgid "0004"
+msgstr "わかった"
+
+#, ruby
+msgid "0005"
+msgstr "マルゴ坑道って？"
+
+msgid "Goron_Son_Talk05_2"
+msgstr "[Sound1 unk1=\"0\" unk2=\"10\"][Size percent=\"125\"]ゴロンアターーーーック！！！！[Size percent=\"100\"]"
+
+#, ruby
+msgid "Goron_Father_Talk01"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ムボーな弟が 帰ってこないでゴロス！！\n"
+"\n"
+"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"0\" label2=\"1\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Goron_Father_Talk02"
+msgstr ""
+"[Sound2 id=\"9\"]弟よ！\n"
+"そうであったゴロスか？！"
+
+#, ruby
+msgid "Goron_Father_Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]弟なりに考えて\n"
+"行動していたんだゴロスな…"
+
+#, ruby
+msgid "Goron_Father_Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]お願いがあるでゴロス！\n"
+"弟に力を貸してやりたい兄心でゴロス！"
+
+#, ruby
+msgid "Goron_Father_Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]オレはここで料理の準備をしながら\n"
+"待っているでゴロスよ"
+
+#, ruby
+msgid "Goron_Father_Talk06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]！！[PauseLong]\n"
+"すばらしいゴロス！\n"
+"最高級の[Color name=\"red\"]ロース岩[Color name=\"unset\"]でゴロス！\n"
+"すぐに料理するでゴロス！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAHcBAAAAAAAAC4AAAAEAAAAwAAAANoAAAD0AAAADgEAACgBAABCAQAAXAEAAHYBAACQAQAAqgEAAMQBAADeAQAA+AEAABICAAAsAgAARgIAAEgCAABKAgAAZAIAAH4CAACAAgAAggIAAIQCAACeAgAAuAIAANICAADsAgAABgMAAAgDAAAiAwAAPAMAAFYDAABwAwAAigMAAKQDAAC+AwAA2AMAAPIDAAAMBAAAJgQAAEAEAABaBAAAdAQAAI4EAACoBAAAwgQAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA5AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADkAAABOAHAAYwBfAEcAbwByAG8AbgAwADAAOQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA5AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADkAAABOAHAAYwBfAEcAbwByAG8AbgAwADAAOQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA5AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADkAAABOAHAAYwBfAEcAbwByAG8AbgAwADAAOQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA5AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADkAAABOAHAAYwBfAEcAbwByAG8AbgAwADAAOQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA5AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADkAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAAAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAAAAAAAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

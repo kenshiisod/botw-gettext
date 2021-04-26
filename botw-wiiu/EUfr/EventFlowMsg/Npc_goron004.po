@@ -1,0 +1,235 @@
+msgid "5503"
+msgstr "Laisse tomber."
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Qu'est-ce que t'as de beau pour moi ?"
+
+msgid "5508"
+msgstr "Je vends tout !"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"J't'en donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça roule ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Je veux acheter."
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Merci bien !"
+
+msgid "0001"
+msgstr "Achète-moi un truc."
+
+msgid "0002"
+msgstr "On est où ?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dommage !"
+
+msgid "0003"
+msgstr "Au revoir !"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bienv'nue au [Color name=\"blue\"]Bras d'acier[Color name=\"unset\"], ma p'tite\n"
+"boutique de vêtements ![PauseShort] J'peux t'aider ?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Qu'est-ce que tu me vends ?"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]T'es encore debout à c't'heure-ci ?[PauseShort]\n"
+"Heureusement pour toi, le [Color name=\"blue\"]Bras d'acier[Color name=\"unset\"]\n"
+"est ouvert 24 heures sur 24 ![Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]T'as autre chose pour moi ?"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Reviens quand tu veux, petit !"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]T'as encore des trucs à vendre ?"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]C'est toujours un plaisir[PauseShort] d'faire\n"
+"des affaires !\n"
+"\n"
+"Va voir c'que j'ai en rayon ! Avec tout\n"
+"ça, même les zones encore plus chaudes\n"
+"que l'village Goron sont plus un souci !"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Autre chose ?"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"1\"]Dépêche-toi d'acheter et d'enfiler les\n"
+"pièces d'armure que j'ai en rayon pour\n"
+"te protéger !"
+
+msgid "Com_Talk_60"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"Ça te coûtera [Color name=\"red\"][02:10 name=\"Shop_SelectItemPrice\"] rubis[Color name=\"unset\"]. Tu achètes ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"42\"]J'veux bien t'laisser partir, moi, [PauseShort]mais si\n"
+"t'enfiles pas une tenue correcte, tu\n"
+"vas finir grillé, tu peux m'croire !\n"
+"Tu devrais faire que'qu'chose !"
+
+msgid "Com_Talk_61"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah bah c'est bien dommage !"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Comme tu peux l'voir, c'est\n"
+"une [Color name=\"blue\"]boutique de vêtements[Color name=\"unset\"] !"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]J'suis pas sûr que ce soit le moment de\n"
+"faire la causette, mais bon...[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]T'as b'soin d'autre chose ?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk24"
+msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]T'as compris ?[PauseShort] Alors enfile vite ça !"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Bon, nous, les Gorons, on est tout nus,\n"
+"alors les armures, elles sont surtout là\n"
+"pour les touristes.\n"
+"C'est pratique pour eux, s'ils veulent\n"
+"se [Color name=\"red\"]protéger contre le feu[Color name=\"unset\"].\n"
+"\n"
+"Moi, c'que j'te conseille, c'est\n"
+"les [Color name=\"blue\"][C9:00 bytes=\"02050501\"]bottes de pierre[Color name=\"unset\"] ![PauseLong] Elles sont faites\n"
+"à partir de [Color name=\"blue\"]pierres précieuses[Color name=\"unset\"] locales !\n"
+"Niveau [Color name=\"red\"]résistance au feu[Color name=\"unset\"], elles sont pas\n"
+"mal...[PauseShort] mais surtout, tu vas faire pâlir\n"
+"d'envie les dandys du monde entier !"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Marché conclu !"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Super,[PauseShort] super !"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Merci,[PauseShort] merci !"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"Pourquoi pas ! Tu veux m'en vendre\n"
+"combien ?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"Je te les achète pour [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].\n"
+"Ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]Ah ![PauseShort] On est en rupture de stock ![PauseLong]\n"
+"Va falloir que j'demande à Papy\n"
+"Brathan d'nous réapprovisionner..."
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Désolé, petit, mais j'achète pas c'genre\n"
+"de trucs."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Reviens quand tu veux !"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Petit, j'peux pas ach'ter les vêt'ments\n"
+"qu't'es en train de porter."
+
+msgid "Com_Talk_33"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"Je suis prêt à t'en acheter davantage,\n"
+"tu sais ![PauseShort] Bref, [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"], ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Merci bien !"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]Petit, petit ![PauseLong] Si j'peux m'permettre, j'crois\n"
+"qu'tu d'vrais réfléchir encore un peu !"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Tu veux tout me vendre ? Ça marche !\n"
+"Je te donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"] pour les [02:0F name=\"Shop_TradeItemNum\"].\n"
+"Ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]Avec ton équipement actuel...\n"
+"\n"
+"\n"
+"J'te déconseille d't'aventurer dans des\n"
+"coins plus chauds que l'village Goron.\n"
+"Tu tiendrais pas l'coup.\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Enfin, d'toute manière, l'accès à ces\n"
+"coins-là n'est autorisé qu'aux Gorons..."
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Beau matos ! Avec cet équipement, tu\n"
+"pourrais même te rendre sur la [Color name=\"blue\"]montagne\n"
+"de la Mort[Color name=\"unset\"] sans problème.\n"
+"C'est pas vraiment l'genre d'endroit\n"
+"qu'affectionnent les touristes en général,\n"
+"mais bon !"
+
+msgid "near00"
+msgstr "Bienv'nue !"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Sacré équipement, petit !\n"
+"\n"
+"\n"
+"C'est pas seulement sur la [Color name=\"blue\"]montagne\n"
+"de la Mort[Color name=\"unset\"] que tu peux aller, là, c'est\n"
+"carrément dans l'volcan !"
+
+msgid "5500"
+msgstr "Ouais."
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]Petit ![PauseLong] Tu peux pas t'balader dans cet\n"
+"accoutrement par ici, c'est d'la folie !\n"
+"\n"
+"Tu f'rais mieux d'acheter c'que j'ai en\n"
+"rayon, sinon tu vas griller dès qu'tu\n"
+"sortiras d'la boutique ![Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "5501"
+msgstr "J'ai changé d'avis."
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]Compris ! Choisis rapidement c'que tu\n"
+"veux m'vendre !"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAG2AwAAAAAAADAAAAAEAAAAyAAAAOIAAADkAAAA5gAAAOgAAADqAAAABAEAAB4BAAA4AQAAUgEAAGwBAACGAQAAoAEAALoBAADUAQAA7gEAAAgCAAAiAgAAPAIAAFYCAABwAgAAigIAAKQCAAC+AgAA2AIAAPICAAD0AgAA9gIAAPgCAAD6AgAA/AIAAP4CAAAAAwAAAgMAAAQDAAAGAwAACAMAACgDAABIAwAAaAMAAIgDAACoAwAAqgMAAKwDAACuAwAAsAMAALIDAAC0AwAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAAAAAAAAAAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

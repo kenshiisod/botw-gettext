@@ -1,0 +1,192 @@
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]旅の人かいさ？[PauseMid]\n"
+"ようこそ ウオトリー村へ\n"
+"ワシはローゼル[PauseMid]\n"
+"この村で村長を任されておるものさぁ"
+
+#, ruby
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に 聞きたいことはあるかいさ？[Choice4 label1=\"2\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]そうじゃ チョウハンがやっておる店で\n"
+"賭け事ができるのじゃ\n"
+"やりすぎはよくないが\n"
+"オヌシも 一度やってみるとよいさぁ"
+
+#, ruby
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あいにくの雨じゃの"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]このあたりのことで 聞きたいことがあったら\n"
+"なんでも聞くがよいさ[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0000"
+msgstr "ロレルさん？"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]ウオトリー村は 漁師の村[PauseShort]\n"
+"ワシも 若いころは漁師をやっていたのさぁ\n"
+"村の魚は 新鮮でうまいぞ！[PauseShort]\n"
+"一度 食べてみるとよいさぁ"
+
+#, ruby
+msgid "0001"
+msgstr "行ったことあるよ"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]よい天気じゃの[PauseShort]\n"
+"こんな日は 海へ出るとよいさぁ"
+
+msgid "0002"
+msgstr "村について"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]このあたりは 雨がよく降るんじゃ[PauseShort]\n"
+"海に出るときは 気をつけるといいさぁ"
+
+msgid "0003"
+msgstr "海について"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]村から東にしばらく歩くと\n"
+"[Color name=\"blue\"]ヤシノビーチ[Color name=\"unset\"]に着くのじゃ\n"
+"そこには 古い[Color name=\"red\"]遺跡[Color name=\"unset\"]があるのさぁ[PauseMid]\n"
+"村の若者のリガニーが よく調べに行っておる"
+
+#, ruby
+msgid "0004"
+msgstr "島について"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]リガニーは 雨の日でも\n"
+"よく遺跡に行っておる\n"
+"興味があったら 行ってみるといいさぁ"
+
+#, ruby
+msgid "0005"
+msgstr "遺跡について"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]小さな村じゃが\n"
+"いろいろ見ていっとくれ"
+
+msgid "0006"
+msgstr "もういい"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]ウオトリー村は 漁師の村[PauseShort]\n"
+"ワシも 若いころは漁師をやっていたのさぁ\n"
+"しかし こんな雨の日には\n"
+"漁には出られない\n"
+"村の漁師には 賭け事に興じるものもいる[Choice1 label=\"7\"]"
+
+msgid "0007"
+msgstr "賭け事？"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]この海には\n"
+"まだまだ [Color name=\"red\"]財宝[Color name=\"unset\"]が沈んでおるかもしれんの[PauseMid]\n"
+"よく目を凝らして\n"
+"海中を見るといいさぁ"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ワシには 娘がいるのでさぁ\n"
+"\n"
+"ついこの前 ハテノ村に 嫁いでいったのさ\n"
+"元気にしとるかのぉ[Choice1 label=\"0\"]"
+
+#, ruby
+msgid "talk20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]この村は 気に入ってくれたかいさ？"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]そうさぁ ロレルさぁ[PauseMid]\n"
+"元気にしておったか それはよかったわいさぁ"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]興味があったら\n"
+"行ってみるといいさぁ\n"
+"リガニーに聞けば\n"
+"いろいろと 教えてくれるさぁ"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]村の東の沖にある大きな島…[PauseMid]\n"
+"[Color name=\"blue\"]サイハテノ島[Color name=\"unset\"]と呼ばれておる\n"
+"言い伝えがあってな[PauseShort]\n"
+"村の漁師は 近づかないようにしている島なのさ[Choice1 label=\"1\"]"
+
+#, ruby
+msgid "talk22"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に 聞きたいことはあるかいさ？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]なんと オヌシ[PauseShort]\n"
+"行ったことあるのかいさ[PauseShort] すごいのぉ"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]そうか またなにかあったら\n"
+"聞きにくるといいさぁ"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]島に上陸すると 不思議な声が聞こえてなぁ…[PauseMid]\n"
+"あれは 現実だったのか 夢だったのか"
+
+#, ruby
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に 聞きたいことはあるかいさ？[Choice4 label1=\"2\" label2=\"3\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]村の東の沖にある大きな島…[PauseMid]\n"
+"[Color name=\"blue\"]サイハテノ島[Color name=\"unset\"]と呼ばれておる\n"
+"言い伝えがあってな[PauseShort]\n"
+"村の漁師は 近づかないようにしている島なのさ"
+
+#, ruby
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に 聞きたいことはあるかいさ？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAEaBQAAAAAAACEAAAAEAAAAjAAAALoAAADoAAAAFgEAAEQBAAByAQAAoAEAAM4BAAD8AQAAKgIAAFgCAACGAgAAtAIAAOICAAAQAwAAPgMAAGwDAACaAwAAyAMAAPYDAAAkBAAAUgQAAIAEAACuBAAA3AQAAAoFAAAMBQAADgUAABAFAAASBQAAFAUAABYFAAAYBQAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADMAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAzAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

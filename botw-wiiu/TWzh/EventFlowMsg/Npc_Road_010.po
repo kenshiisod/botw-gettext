@@ -1,0 +1,374 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]好擔心重要的商品……"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]要賣哪個給我呢？"
+
+msgid "RetMSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]如果要從[Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]往更西邊走，\n"
+"請小心「[Color name=\"red\"]飛行守護者[Color name=\"unset\"]」……"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要賣[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]對嗎？\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"2\"]謝謝你！[PauseShort]\n"
+"還有其他想賣的嗎？"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]那還真可惜啊！"
+
+msgid "Com_Talk_10"
+msgstr "要買[02:0B name=\"Shop_SelectItemName\"]對嗎？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "什麼我都能收購！"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]謝謝你！"
+
+msgid "Com_Talk_06"
+msgstr "要買哪個呢？"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]要穀物，找我就對了！[PauseMid]\n"
+"請盡量看！"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]謝謝你！"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"14\"]對不起！[PauseShort]那個已經賣完了……"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]對嗎？[PauseMid]\n"
+"你要賣幾個呢？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]真的非常感謝！"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]盧比好像不夠呢……[PauseShort]\n"
+"雖然很可惜，只好留待下次機會了。"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]……[Size percent=\"80\"][PauseMid][Size percent=\"100\"]\n"
+"這樣我用[MoneyVar name=\"ShopTradePrice\"][Color name=\"red\"]盧比[Color name=\"unset\"]收購吧？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]在這樣的日子，特別為你販售[Color name=\"red\"]鼓隆的調味粉[Color name=\"unset\"]！[PauseMid]\n"
+"在寒冷的區域非常好用喔！"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]不枉我走到這裡來了！"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]袋子已經滿了呢……[PauseLong]\n"
+"希望你能賣或丟掉裡頭的東西。"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]這個我不方便收購呢……"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]這個……[PauseShort]是我的一點心意。"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]穿在身上的衣服我不能買喔。[PauseMid]\n"
+"先請你脫下來再說！"
+
+msgid "RetMSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]驢先生的背上堆滿小麥與米，[PauseShort]\n"
+"可以的話，真想減輕牠的負擔……"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔。[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"要買[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseMid]\n"
+"需要幾個呢？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "RetMSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]如果要從[Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]往更西邊走，\n"
+"有件事你最好先知道喔。\n"
+"聽說有個名為「[Color name=\"red\"]飛行守護者[Color name=\"unset\"]」的古代兵器，\n"
+"會阻礙旅行者前行……"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]耐心等到怪物離開吧……"
+
+msgid "Com_Talk_33"
+msgstr ""
+"賣1個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]對吧？[PauseShort]\n"
+"那我用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]收購吧？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]這件事恐怕與我無緣，[PauseShort]\n"
+"不過，我聽說海拉魯的城堡裡藏著寶物喔。"
+
+msgid "RetMSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]如果要渡過[Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]，[PauseShort]\n"
+"或許會被谷底傳來的聲音嚇一跳。\n"
+"有傳聞說，曾經有鼓隆族\n"
+"從橋上失足跌落[Color name=\"blue\"]庫庫甲谷[Color name=\"unset\"]，[PauseMid]\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]說不定就是其亡靈\n"
+"在對渡橋的旅行者……"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]還是再耐心等一下比較好……"
+
+msgid "Com_Talk_34"
+msgstr ""
+"要買所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]個總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]如果要渡過[Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]，[PauseShort]\n"
+"請小心谷底傳來的聲音……\n"
+"有傳聞說，那是從橋上失足跌落[Color name=\"blue\"]庫庫甲谷[Color name=\"unset\"]的\n"
+"鼓隆族亡靈所為。"
+
+msgid "RetMSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]你身上有沒有……[PauseMid]金屬的東西呢？\n"
+"\n"
+"[Sound1 unk1=\"10\" unk2=\"21\"]啊，不是的！[PauseShort]請別誤會！[PauseMid]\n"
+"是因為這一帶很容易發生落雷……[PauseMid]\n"
+"我只是想告訴你，一聽到轟隆作響的雷聲，\n"
+"最好馬上卸下金屬鎧甲或劍，否則會很危險！"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全賣嗎？[PauseMid]\n"
+"那我總共用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]收購喔？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]♪海拉魯的～城邑中～[PauseMid]\n"
+"♪留有許多的寶物～\n"
+"這首歌是……[PauseMid]在街道與我擦身而過的\n"
+"旅行者唱的，我拿來借唱一下。"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]這是最後一個了。\n"
+"你買了這麼多，我真高興。"
+
+msgid "RetMSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]驢先生的背上堆滿小麥與米，[PauseShort]\n"
+"從[Color name=\"blue\"]塔邦撻大橋驛站[Color name=\"unset\"]噠噠地一路走來。\n"
+"可以的話，真想減輕牠的負擔……"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]多虧有你，我才能得救……"
+
+msgid "Com_Talk_05b"
+msgstr "需要我收購儘管說！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]謝謝你！"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]今天已經沒有商品了……[PauseMid]\n"
+"要看看預定進貨的商品嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]對了對了！[PauseMid]旅程中需要的食材是否有短缺呢？[PauseMid]\n"
+"要不要我賣點什麼給你？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]謝謝你……"
+
+msgid "Com_Talk_05c"
+msgstr "什麼都可以賣給我！"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]謝謝你！"
+
+msgid "MSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我正想經由[Color name=\"blue\"]瑪麗塔驛站[Color name=\"unset\"]\n"
+"前往[Color name=\"blue\"]雪原驛站[Color name=\"unset\"]。"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]還有其他需要嗎？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "什麼我都能收購喔。"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]謝謝你！"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是帶著驢的旅行商人，[PauseShort]要買穀物請找我。[PauseMid]\n"
+"想吃飯的話有米，想吃麵包的話有小麥……"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]對旅行商人來說，雨很討厭呢。[PauseMid]\n"
+"不過，能拿躲雨當休息的藉口，倒也不壞。"
+
+msgid "5500"
+msgstr "好"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]雨只會讓人淋濕而已，倒是無妨。[PauseShort]\n"
+"但落雷卻會打中身上的金屬，實在很可怕。"
+
+msgid "Com_Talk_56"
+msgstr ""
+"買1個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "0000"
+msgstr "買"
+
+msgid "5502"
+msgstr "買"
+
+msgid "0001"
+msgstr "賣"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "0002"
+msgstr "再見"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]♪啦啦啦，驢先生～"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]受你幫助了，我真不知道該怎麼道謝才好……"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]♪驢先生，嘟啦啦～"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]多虧有你，我才平安無事……"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]♪噠啦哩啦，驢先生～"
+
+msgid "MSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]好冷呢……\n"
+"\n"
+"每次只要從[Color name=\"blue\"]瑪麗塔驛站[Color name=\"unset\"]來到[Color name=\"blue\"]雪原驛站[Color name=\"unset\"]，[PauseShort]\n"
+"兩邊溫差總讓我像這樣抖個不停。"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]♪啦哩嚕咧，驢先生～"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "RetMSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]一聽到轟隆作響的雷聲，\n"
+"最好馬上卸下金屬鎧甲或劍，否則會很危險。"
+
+msgid "Near04"
+msgstr "[Sound2 id=\"24\"]♪Rain～"
+
+msgid "5508"
+msgstr "全賣了"
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"22\"]快點逃離[Color name=\"blue\"]守護者[Color name=\"unset\"]吧！"
+
+msgid "MSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]……難道你是旅行者嗎？[PauseMid]\n"
+"打算要去哪裡呢？\n"
+"我正想經由[Color name=\"blue\"]瑪麗塔驛站[Color name=\"unset\"]\n"
+"前往[Color name=\"blue\"]雪原驛站[Color name=\"unset\"]。"
+
+msgid "MSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]最好脫掉容易引來雷電的金屬裝備喔，\n"
+"我從不輕忽這樣的告誡，總是乖乖遵從。"
+
+msgid "MSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]不清楚你知不知道……[PauseMid]\n"
+"這一帶常發生落雷。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]最好脫掉容易引來雷電的金屬裝備喔，\n"
+"我從不輕忽這樣的告誡，總是乖乖遵從。"
+
+msgid "MSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]因為想讓驢休息一下……[PauseMid]\n"
+"我決定在這個驛站多留一陣子。"
+
+msgid "MSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]這件事恐怕與我無緣，[PauseShort]\n"
+"不過，我聽說海拉魯的城堡裡藏著寶物喔。[PauseMid]\n"
+"對身為旅行者的你而言，\n"
+"應該多少有點關聯吧……"
+
+msgid "MSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"42\"]抖抖抖……\n"
+"\n"
+"[Sound1 unk1=\"3\" unk2=\"1\"]不，[PauseMid]我不是覺得害怕，而是覺得冷。\n"
+"\n"
+"每次從[Color name=\"blue\"]瑪麗塔驛站[Color name=\"unset\"]來到[Color name=\"blue\"]雪原驛站[Color name=\"unset\"]，[PauseShort]\n"
+"兩邊溫差總讓我像這樣抖個不停。"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]你很強呢……"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]受你幫助了，我真不知道該怎麼道謝才好……[PauseMid]\n"
+"搞不好我打擾了你的旅行……"
+
+msgid "RetMSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]♪海拉魯的～城邑中～[PauseMid]\n"
+"♪留有許多的寶物～"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]有緣在街道的某處再會吧！"
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]我嚇得動彈不得……"
+
+msgid "MSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]因為想讓驢休息一下……[PauseMid]\n"
+"我決定在這個驛站多留一陣子。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAEMBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAANACAADqAgAABAMAAB4DAAA4AwAAUgMAAGwDAACGAwAAoAMAALoDAADUAwAA7gMAAAgEAAAiBAAAPAQAAFYEAABwBAAAigQAAKQEAAC+BAAA2AQAAPIEAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

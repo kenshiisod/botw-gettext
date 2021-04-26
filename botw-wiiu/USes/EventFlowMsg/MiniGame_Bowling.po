@@ -1,0 +1,302 @@
+msgid "result_09"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"0\"]¡Carámbanos! ¡Derribaste los\n"
+"[Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"]![PauseMid] ¡Eso es una [Color name=\"red\"]chuza[Color name=\"unset\"]!"
+
+msgid "0010"
+msgstr "Continúo"
+
+msgid "0011"
+msgstr "La bola de nieve..."
+
+msgid "0012"
+msgstr "¡Vamos!"
+
+msgid "end"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]Ya veo...[PauseShort] Si cambias de opinión,\n"
+"me avisas."
+
+msgid "restart_end"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ya veo...[PauseShort] Bueno, yo no me voy a mover\n"
+"de aquí; ¡puedes volver siempre que\n"
+"quieras!"
+
+msgid "game_start"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Perfecto,[PauseShort] puedes utilizar esta bola\n"
+"de nieve.[PageBreak]Te advierto de que puedes lanzar dos\n"
+"bolas de nieve, y después se acabará\n"
+"la partida, ¿entendido?\n"
+"Empieza cuando quieras, jovencito;\n"
+"a ver si consigues tumbar esos bolos.\n"
+"¡Mucha suerte!"
+
+msgid "restart"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Quieres jugar otra vez?[Choice2 label1=\"12\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "about_snowbowl_03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¡Bien,[PauseShort] vamos a intentarlo!"
+
+msgid "ask_payment"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]¡Así me gusta! Pero no pienses que\n"
+"te va a salir gratis, ¿eh?[PageBreak]Tienes que soltar [Color name=\"red\"]20 rupias[Color name=\"unset\"].\n"
+"¿Qué me dices?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "about_snowbowl_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Vamos... ¡suerte!"
+
+msgid "break_00"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]¿Eh?[PauseShort] ¿Quieres algo?[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "break_01"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]¿Ya te cansaste?[PauseShort] ¡Qué poca resistencia,\n"
+"hijo!"
+
+msgid "result_10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Respira hondo y haz otro lanzamiento!"
+
+msgid "0000"
+msgstr "¡Me apunto!"
+
+msgid "break_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Puedes abandonar la partida si quieres,[PauseMid]\n"
+"pero no te voy a devolver el dinero, ¿eh?\n"
+"Tus decisiones tienen consecuencias.[Choice2 label1=\"9\" label2=\"10\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "result_11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡Has tumbado [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNumSecond\"] [SPSwitch singular=\"bolo\" plural=\"bolos\"][Color name=\"unset\"]!"
+
+msgid "0001"
+msgstr "¿Cómo se juega?"
+
+msgid "0002"
+msgstr "No me interesa"
+
+msgid "0003"
+msgstr "Explícamelo otra vez"
+
+msgid "0004"
+msgstr "Ya no me interesa"
+
+msgid "0005"
+msgstr "De acuerdo"
+
+msgid "0006"
+msgstr "Olvídalo"
+
+msgid "prize_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Observa los bolos[PauseShort] e intenta predecir\n"
+"la trayectoria que seguirá la bola.\n"
+"¡Es un truco esencial!"
+
+msgid "0007"
+msgstr "Quiero dejarlo"
+
+msgid "prize_01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Ay, solo [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"]...[PauseShort] Es una pena, pero\n"
+"no te desanimes. ¡Vuelve a intentarlo\n"
+"cuando quieras!"
+
+msgid "0008"
+msgstr "No, nada"
+
+msgid "explanation_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Jo, jo, veo que te gana la curiosidad.\n"
+"Bueno, pues te explico.[PageBreak]Para empezar, debes saber que al pie\n"
+"de la colina hay 10 pilares o \"bolos\"."
+
+msgid "prize_02"
+msgstr ""
+"[Color name=\"red\"][Sound1 unk1=\"0\" unk2=\"4\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"]... La puntuación no merece\n"
+"ningún premio, pero me caes bien. ¡Toma\n"
+"esto y anímate a intentarlo de nuevo!"
+
+msgid "0009"
+msgstr "¡Abandono!"
+
+msgid "explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Haz rodar la bola de nieve desde\n"
+"lo alto de la colina e intenta tumbar\n"
+"tantos bolos como puedas."
+
+msgid "prize_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]¡Casi! Esa ronda merece un premio.[PauseShort]\n"
+"¿Quieres intentarlo otra vez?"
+
+msgid "explanation_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]La bola de nieve irá creciendo a medida\n"
+"que ruede.[PauseLong] Cuando llegue abajo será\n"
+"tan grande que podrá tumbar los bolos."
+
+msgid "area_out_00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"3\"]¡Quieto ahí, joven![PauseMid] ¡Aún no ha terminado\n"
+"la partida! ¿Adónde vas?[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "prize_04"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"11\"]¡Eres un as, jovencito! [PauseShort]Me siento\n"
+"generoso, así que te vas a llevar\n"
+"una herramienta muy especial."
+
+msgid "area_out_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ay, vaya...[PauseMid] ¡Perdón![PauseMid]\n"
+"Espera un momento..."
+
+msgid "prize_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Creo que lo que hace es soltar aire\n"
+"muy frío o algo así."
+
+msgid "area_out_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo siento, jovencito, pero no hay mucho\n"
+"que pueda hacer yo con estos caminos\n"
+"escarpados. No te lo tomes a mal.[PauseLong]"
+
+msgid "prize_06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Como yo no soy guerrero ni me dedico\n"
+"al combate, nunca la he utilizado."
+
+msgid "area_out_03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Será mejor que vuelvas."
+
+msgid "result_00"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"16\"]Sumado a tu primer lanzamiento,\n"
+"llevas un total de [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] [SPSwitch singular=\"bolo\" plural=\"bolos\"][Color name=\"unset\"]...[PauseMid]\n"
+"No te veo yo muy dedicado, jovencito."
+
+msgid "prize_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Pero espera, veo que llevas demasiadas\n"
+"cosas encima. ¡No te voy a hacer cargar\n"
+"con algo más![PauseLong]"
+
+msgid "ask_again"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡No hay mejor sensación que la que te\n"
+"entra cuando los tumbas todos![PauseMid]\n"
+"¿Te animas a probarlo, chiquitín?[Choice3 label1=\"0\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "area_out_04"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"14\"]¡Qué salvaje! Los [Color name=\"red\"]bolos de nieve[Color name=\"unset\"][01:01 bytes=\"0000003F\"] son un\n"
+"deporte civilizado.[01:01 bytes=\"0000803F\"][PauseShort] Te ruego que sigas\n"
+"las reglas."
+
+msgid "result_01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Sumando los de tu primer lanzamiento,\n"
+"has derribado [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] [SPSwitch singular=\"bolo\" plural=\"bolos\"][Color name=\"unset\"] en total, pero...[PauseMid]\n"
+"¡hay que mejorar esa puntería!"
+
+msgid "prize_08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]En esta ocasión,[PauseShort] te llevas este magnífico\n"
+"premio que te corresponde por\n"
+"realizar semejante hazaña,[PauseShort] campeón!"
+
+msgid "result_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Contando también los de tu primer tiro,\n"
+"¡has derribado [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"] en total![PauseMid]\n"
+"No está nada, pero que nada mal."
+
+msgid "prize_09"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"11\"]¡Jovencito, eres increíble![PauseMid] Ten tu premio.\n"
+"¡Algo así no se ve todos los días!"
+
+msgid "result_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Sumando los de tu primer lanzamiento,\n"
+"¡has tumbado [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"] en total![PauseMid]\n"
+"¡Qué poquito te ha faltado!"
+
+msgid "Initial"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]¡Hola, jovencito!\n"
+"¿Qué haces en este lugar perdido\n"
+"en medio de las montañas?[PauseMid]\n"
+"Bueno, por mí, encantado. Por estos\n"
+"lares no se ve ni un alma, y me paso el\n"
+"día más aburrido que un cangrejo.[PageBreak]¿Festejamos tu visita con una partidita\n"
+"de un juego que yo inventé?\n"
+"Se llama...[PauseMid] ¡[Color name=\"red\"]bolos de nieve[Color name=\"unset\"]![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "refuse"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]A ver, vamos a contar...[PauseMid] Uy, uy, uy,\n"
+"te faltan rupias."
+
+msgid "game_start_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Gracias, jovencito![PauseMid]\n"
+"Espera a que lo prepare todo..."
+
+msgid "result_04"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"11\"]Junto con tu primer lanzamiento,\n"
+"¡sumas [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"] derribados en total![PageBreak]Y, como era tu segundo lanzamiento,\n"
+"conseguiste una [Color name=\"red\"]media chuza[Color name=\"unset\"].\n"
+"¡Eres una fiera!"
+
+msgid "game_start_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Si tumbas todos los bolos de un\n"
+"solo golpe, consigues una [Color name=\"red\"]chuza[Color name=\"unset\"]![PauseMid]\n"
+"Es una jugada muy profesional.\n"
+"Si necesitas dos intentos para tumbar\n"
+"los bolos, consigues una [Color name=\"red\"]media chuza[Color name=\"unset\"].[PauseMid]\n"
+"Es menos profesional, pero no está mal."
+
+msgid "result_05"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"16\"]¿Eh? ¿[Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] [SPSwitch singular=\"bolo\" plural=\"bolos\"][Color name=\"unset\"]?[PauseMid]\n"
+"¿En serio que sabes jugar a esto?[PageBreak]Bueno, a ver si lo mejoras con\n"
+"el segundo lanzamiento."
+
+msgid "Initial_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]¡Jovencito![PauseShort] ¿Tienes ganas de jugar\n"
+"a los [Color name=\"red\"]bolos de nieve[Color name=\"unset\"]? Recuerda que\n"
+"serás bienvenido siempre que quieras.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "result_06"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Derribaste [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"], pero...[PauseMid]\n"
+"te falla la puntería, jovencito.[PageBreak]Ánimo, que seguro que en el segundo\n"
+"lanzamiento lo haces mejor."
+
+msgid "result_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]¡Derribaste [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"]![PauseMid]\n"
+"No se te da nada mal esto.[PageBreak]Si mantienes la buena racha, puede\n"
+"que consigas una [Color name=\"red\"]media chuza[Color name=\"unset\"] en\n"
+"el siguiente lanzamiento."
+
+msgid "result_08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]¡Derribaste [Color name=\"red\"][02:0E name=\"MiniGame_Bowling_BreakPinNum\"] bolos[Color name=\"unset\"]![PauseMid]\n"
+"¡Faltó poco![PauseLong] Vamos, esfuérzate\n"
+"más en el segundo lanzamiento."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAFeBQAAAAAAADsAAAAEAAAA9AAAAAwBAAAkAQAAJgEAACgBAAAqAQAALAEAAC4BAAAwAQAAMgEAADQBAAA2AQAAOAEAADoBAAA8AQAAPgEAAFYBAABuAQAAhgEAAJ4BAAC2AQAAzgEAAOYBAAD+AQAAFgIAAC4CAABGAgAAXgIAAHYCAACOAgAApgIAAL4CAADWAgAA7gIAAAYDAAAeAwAANgMAAE4DAABmAwAAfgMAAJYDAACuAwAAxgMAAN4DAAD2AwAADgQAACYEAAA+BAAAVgQAAG4EAACGBAAAngQAALYEAADOBAAA5gQAAP4EAAAWBQAALgUAAEYFAABOAHAAYwBfAEIAbwB3AGwAaQBuAGcAAABOAHAAYwBfAEIAbwB3AGwAaQBuAGcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAE4AcABjAF8AQgBvAHcAbABpAG4AZwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

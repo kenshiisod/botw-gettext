@@ -1,0 +1,224 @@
+#, ruby
+msgid "talk29"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]おーーっ！ [PauseShort]流石！"
+
+#, ruby
+msgid "0010"
+msgstr "どうして名前を？"
+
+#, ruby
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]もう一度言うぞ リンク！"
+
+#, ruby
+msgid "talk12"
+msgstr "[Sound1 unk1=\"9\" unk2=\"16\"]なんだ その程度か…"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"19\"]…ちょっと待って[PauseShort]\n"
+"リンクは [Color name=\"blue\"]弓[Color name=\"unset\"]を持ってないんじゃないの？\n"
+"どっかで[Color name=\"blue\"]弓[Color name=\"unset\"]を 手に入れてから[PauseShort]\n"
+"また来てくれよな！"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"][Color name=\"blue\"]弓[Color name=\"unset\"]が無いじゃないか！[PauseLong]\n"
+"一旦 戻ってこーい！"
+
+msgid "near00"
+msgstr "わ～い"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"3\"][Color name=\"blue\"]矢[Color name=\"unset\"]が無いんじゃないのか？！[PauseLong]\n"
+"一旦 戻ってこーい！"
+
+msgid "near01"
+msgstr "がんばれ～"
+
+#, ruby
+msgid "talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]時間切れだ！ [PauseLong]戻ってこーい！"
+
+#, ruby
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]そこは場外だ！[PauseLong] 一旦 戻ってこーい！"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"19\"]あれっ？ [PauseLong]そうは言うものの[PauseShort]\n"
+"[Color name=\"blue\"]矢 [Color name=\"unset\"]1本も持ってないじゃんか\n"
+"どっかで [Color name=\"blue\"]矢[Color name=\"unset\"]を手に入れたら また来てよね！"
+
+msgid "talk19"
+msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]どうした？[PauseShort] もう やめるのか？[Choice2 label1=\"7\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk30"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]わーー！ [PauseShort]すごいすごい！"
+
+msgid "0000"
+msgstr "もちろん！"
+
+msgid "0001"
+msgstr "それほどでも"
+
+msgid "0002"
+msgstr "いいよ！"
+
+msgid "0003"
+msgstr "ルールは？"
+
+#, ruby
+msgid "0004"
+msgstr "また今度ね"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]オッス！ [PauseLong]リンク！[Choice1 label=\"10\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]父ちゃんから聞いた！[PauseLong]\n"
+"おまえ リンクって言うんだろ？\n"
+"どこかで聞いたような 名前だな！\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"6\"]でな？[PauseLong]\n"
+"リンクは 弓が上手なんだって？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"11\"]すごい自信だね！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ ちょっとボクに お手本見せてよ"
+
+msgid "0007"
+msgstr "はい"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ウソだ！ [PauseLong]父ちゃんが言ってたから[PauseShort]\n"
+"間違い無いぞ！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ねぇ だから ボクにお手本見せてよ！"
+
+#, ruby
+msgid "talk100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]おまえか…[PauseLong] しばらくだな\n"
+"\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]が落ち着いた今[PauseShort]\n"
+"チューリの訓練を 再開したんだ\n"
+"なんだったら チューリに[PauseShort]\n"
+"おまえの弓捌きを 見せてやってくれないか？\n"
+"多少言葉遣いが 俺に似てしまったが…[PauseLong]\n"
+"悪気は無いはずだ"
+
+#, ruby
+msgid "talk101"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを[PauseShort]\n"
+"見せてやってくれないか？\n"
+"上級者の動きを 見て盗む…[PauseShort]\n"
+"そういう訓練も あるはずだからな"
+
+msgid "0009"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ボクが 時間を数えてる間に[PauseShort] \n"
+"[Color name=\"red\"]的[Color name=\"unset\"]を 片っ端から壊して！\n"
+"いっぱい壊せたら いいものあげるからさ！[PauseShort] \n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"4\"]じゃあ いくよ！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk102"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを見せてやってくれ[PauseLong]\n"
+"何かの参考になるかも知れん"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]よーし…[PauseShort]\n"
+"じゃ 位置についてーー！"
+
+#, ruby
+msgid "talk103"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]どうした？[PauseLong]\n"
+"中止したいなら チューリに話してくれ"
+
+#, ruby
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]フン… [PauseShort]臆したか…"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]リンク！[PauseLong]\n"
+"[Color name=\"blue\"]弓[Color name=\"unset\"]のお手本 見せてくれるんだろ？"
+
+#, ruby
+msgid "talk20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]オッケー！ [PauseLong]ガンガン[Color name=\"red\"]的[Color name=\"unset\"]を 壊してね！"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"20\"]リンク！ [PauseShort]凄い！[PauseLong]\n"
+"パーフェクトだよ！！\n"
+"矢を撃つ瞬間[PauseShort] 時間が止まってるみたいだった！[PauseMid]\n"
+"また その腕前 見せて欲しいな！\n"
+"…あっ [PauseShort][Color name=\"blue\"]父ちゃん[Color name=\"unset\"]が[Color name=\"blue\"]コレ[Color name=\"unset\"] お礼に渡しとけって！"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]おおー 流石リンク！[PauseLong]\n"
+"参考になるよ！\n"
+"あっ [PauseShort][Color name=\"blue\"]父ちゃん[Color name=\"unset\"]が[Color name=\"blue\"]コレ[Color name=\"unset\"] お礼に渡しとけって！[PauseLong]\n"
+"またいつでも 腕前を見せに来てね！"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]格好良かったよ リンク！\n"
+"\n"
+"あっ [PauseShort][Color name=\"blue\"]父ちゃん[Color name=\"unset\"]が[Color name=\"blue\"]コレ[Color name=\"unset\"] 渡しとけって！[PauseLong]\n"
+"またいつでも 挑戦しに来てよ！"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]手こずってたみたいだけど[PauseShort]\n"
+"なかなかの腕だ！\n"
+"あっ [PauseShort][Color name=\"blue\"]父ちゃん[Color name=\"unset\"]が[Color name=\"blue\"]コレ[Color name=\"unset\"] 一応渡しとけって！[PauseLong]\n"
+"次はもっと 格好良いトコを見せてね！"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]あれ？[PauseShort] リンク…[PauseLong] \n"
+"あんまり 大した事無いね…\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]これじゃあ 何もあげられないや[PauseLong]\n"
+"次こそは ばっちり格好良いトコを見せてよ！"
+
+msgid "talk27"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]うわーーっ！ [PauseShort]すげぇー！"
+
+msgid "talk28"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]おおーーっ！ [PauseShort]やるぅー！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHABQAAAAAAACgAAAAEAAAAqAAAANAAAAD4AAAA+gAAAPwAAAD+AAAAAAEAAAIBAAAEAQAABgEAAAgBAAAwAQAAWAEAAIABAACoAQAA0AEAAPgBAAAgAgAASAIAAHACAACYAgAAwAIAAOgCAAAQAwAAOAMAAGADAACIAwAAsAMAANgDAAAABAAAKAQAAFAEAAB4BAAAoAQAAMgEAADwBAAAGAUAAEIFAABsBQAAlgUAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAAxAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

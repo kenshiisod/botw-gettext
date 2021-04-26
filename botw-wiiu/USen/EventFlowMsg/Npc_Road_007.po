@@ -1,0 +1,411 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Us Gorons have pretty thick skin, so we\n"
+"can take a lot of punishment."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]What do you want to sell?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"I can give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
+"What do you think?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]It's been a pleasure![PauseShort]\n"
+"Need anything else?"
+
+msgid "MSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]The chunks of ore I dug up from [Color name=\"blue\"]Death\n"
+"Mountain [Color name=\"unset\"]are pretty high quality.[PauseShort] Take a\n"
+"look and you'll dig 'em too!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]Oh...[PauseMid] Well, that's too bad."
+
+msgid "Com_Talk_10"
+msgstr "We have a deal?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "I'll buy anything. Just try me!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Good doing business with you!"
+
+msgid "RetMSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Getting hit by a [Color name=\"blue\"]magma bomb [Color name=\"unset\"]even hurts\n"
+"us Gorons!\n"
+"\n"
+"If you're thinking about going for a climb\n"
+"on [Color name=\"blue\"]Death Mountain[Color name=\"unset\"], you had better\n"
+"be careful."
+
+msgid "Com_Talk_06"
+msgstr "What caught your eye?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]I have some rare ore burning a hole in\n"
+"my pack![PauseShort] Take your time looking it over,\n"
+"and let me know what you want."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Thanks for your business, brother!"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound2 id=\"10\"]Uh-oh.[PauseShort] Looks like I'm all sold out of that\n"
+"for now."
+
+msgid "Com_Talk_13"
+msgstr "How many would you like to part with?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]Thank you very much, brother."
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Looks like you're short on rupees.[PauseShort]\n"
+"Scrounge some up and get back to me."
+
+msgid "Com_Talk_14"
+msgstr ""
+"That'll get ya [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
+"Sound like a deal?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]This weather has me in a rare mood to\n"
+"sell rare ore. How about a [Color name=\"red\"]diamond[Color name=\"unset\"]?\n"
+"You interested in rare items?"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"7\"]I appreciate your business, brother!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Your inventory is full...[PauseShort] You can toss\n"
+"something out to make some space,\n"
+"or I can buy some items off you."
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]Nope, can't buy that from you.[PauseMid]\n"
+"Just can't do it!"
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]I survived?[PauseShort] All right![PauseShort] Here, take this as\n"
+"a thank you, brother."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]Oh... I can't buy clothes while\n"
+"you're still wearing them."
+
+msgid "Com_Talk_30"
+msgstr "That'll cost [MoneyVar name=\"ShopTradePrice\"][Color name=\"red\"] rupees[Color name=\"unset\"]. Sound good?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "How many do you want?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Ah, [Color name=\"blue\"]Foothill Stable[Color name=\"unset\"] sure is nice and cool.\n"
+"Or maybe...[PauseMid][Color name=\"blue\"]Goron City [Color name=\"unset\"]is just really hot."
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"12\"]I'll just pretend to be a boulder until\n"
+"they go away."
+
+msgid "Com_Talk_33"
+msgstr "Just one?[PauseShort] I can do [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"4\" unk2=\"12\"]Is that all of them?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"You want to buy all that I have?[PauseLong]\n"
+"Looks like [02:0F name=\"Shop_TradeItemNum\"] will run ya [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"All [02:0F name=\"Shop_TradeItemNum\"]?[PauseLong] Well, I can give you...\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"] total.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]That's the last of it. I'm all sold out![PauseLong]\n"
+"Thanks for your business, brother!"
+
+msgid "MSG_Orud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]A [Color name=\"red\"]fireproof elixir [Color name=\"unset\"]will help a little Hylian\n"
+"like you stand up to this heat. Just cook\n"
+"a [Color name=\"red\"]fireproof lizard [Color name=\"unset\"]with a...[PauseMid] With a, um...\n"
+"Huh. I just can't remember."
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Those monsters are pretty scary."
+
+msgid "Com_Talk_05b"
+msgstr "I'll buy whatever it is you're selling."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Thank you for stopping by, brother!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"0\"]Kairo's ore shop is all sold out, but do\n"
+"you want a sneak peek of what I'll have\n"
+"after I restock in [Color name=\"blue\"]Goron City[Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]My hometown of [Color name=\"blue\"]Goron City[Color name=\"unset\"] is the fifth\n"
+"stop up the trail. I'm just out here selling\n"
+"the ore I dug up from [Color name=\"blue\"]Death Mountain[Color name=\"unset\"]."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]All right, let's get down to brass tacks.[PauseShort]\n"
+"Feel free to browse my wares![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]We are not the monsters here!"
+
+msgid "Com_Talk_05c"
+msgstr ""
+"If you have anything you don't need, I'll\n"
+"be glad to buy it off you."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]Thanks, brother!"
+
+msgid "MSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]You do not look to be made of rock,\n"
+"so here's some advice:[PauseShort] you'll need some\n"
+"fire protection if you go any farther.\n"
+"I recommend a [Color name=\"red\"]fireproof elixir[Color name=\"unset\"]. You can\n"
+"make it by cooking a [Color name=\"red\"]fireproof lizard[Color name=\"unset\"]\n"
+"with a...[PauseShort] A, um...\n"
+"Huh, I forget what else."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Thanks, brother![PauseMid] Need anything else?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "I can buy some things from you."
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]I appreciate your business, brother!"
+
+msgid "MSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]I got plain sick and tired of working the\n"
+"Goron Hot Springs in [Color name=\"blue\"]Goron City[Color name=\"unset\"], so I\n"
+"decided to just up and leave.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]I'm going to see the world! I want to see\n"
+"somewhere cold, I want to see green\n"
+"trees and hills!"
+
+msgid "RetMSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"][Color name=\"blue\"]Goron City[Color name=\"unset\"] is the fifth stop on this road.\n"
+"Look out for the swirling waves of heat,\n"
+"rock slides, and lurking monsters.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]I make it sound like a lot of fun, but it's\n"
+"actually pretty dangerous. But those\n"
+"aren't the reasons I left in such a hurry.\n"
+"I left home to start my new life as a\n"
+"traveling salesrock. I'm gonna see the\n"
+"world and sell ore to everyone I meet!"
+
+msgid "RetMSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]The [Color name=\"blue\"]mountain road[Color name=\"unset\"] is pretty dangerous\n"
+"because of how hot it gets.\n"
+"\n"
+"If you're taking a trip to [Color name=\"blue\"]Goron City[Color name=\"unset\"], be\n"
+"sure to bring some fire protection."
+
+msgid "MSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If you're thinking of checking out [Color name=\"blue\"]Goron\n"
+"City[Color name=\"unset\"]'s Goron Hot Springs, be careful of\n"
+"the magma bombs on the way.\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]I've been away from home for a while, so\n"
+"I can't say whether or not they're falling\n"
+"right now, but be careful, little Hylian!"
+
+msgid "RetMSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]I wonder how my old buddy [Color name=\"red\"]Yunobo [Color name=\"unset\"]back\n"
+"in [Color name=\"blue\"]Goron City[Color name=\"unset\"] is doing.\n"
+"\n"
+"Nice guy, that [Color name=\"red\"]Yunobo[Color name=\"unset\"]. Always a pleasure\n"
+"to chomp the ore with."
+
+msgid "MSG_Orud_04"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"9\"]Foothill Stable [Color name=\"unset\"]is nice and cool! I have\n"
+"never felt anything like it! Ahh, the cool\n"
+"air really soothes the skin.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Huh?[PauseShort] You look a bit warm... Could it be\n"
+"that even this cool weather is too hot\n"
+"for a little Hylian like you?"
+
+msgid "RetMSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Is it normal for magma bombs to not rain\n"
+"down nonstop?[PauseShort] I just don't understand\n"
+"the weather around here."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Does a little Hylian like you know about\n"
+"[Color name=\"blue\"]Goron City[Color name=\"unset\"]?[PauseShort] As you might have guessed,\n"
+"it's where the Gorons live!"
+
+msgid "RetMSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]The [Color name=\"blue\"]road up the volcano [Color name=\"unset\"]is so hot, it's\n"
+"dangerous for non-Gorons to travel.\n"
+"\n"
+"If your heart is really set on a trip to\n"
+"[Color name=\"blue\"]Goron City[Color name=\"unset\"], be sure to bring some fire\n"
+"protection.[PauseMid] Don't say I didn't warn ya!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Goron bodies are as tough as rocks.\n"
+"Impervious to heat, strong against\n"
+"scissors, and weak to paper.\n"
+"No, wait...[PauseMid] That is...[PauseMid] Yes.[PauseShort]\n"
+"I definitely confused Gorons with\n"
+"rock-paper-scissors."
+
+msgid "5500"
+msgstr "Sounds good to me!"
+
+msgid "RetMSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Us Gorons make a living by mining ore.[PauseShort]\n"
+"We eat the rocks we dig up as we mine,\n"
+"so we get to snack all day!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Only one?[PauseShort] That'll cost you...\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. Sound good?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "On second thought..."
+
+msgid "RetMSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Goron City [Color name=\"unset\"]is the fifth stop on this road.[PauseMid]\n"
+"It can be a pretty dangerous place, but\n"
+"there's a lot of ore to be mined."
+
+msgid "0000"
+msgstr "I wanna buy."
+
+msgid "5502"
+msgstr "I'll take it."
+
+msgid "0001"
+msgstr "I wanna sell."
+
+msgid "5503"
+msgstr "Maybe next time."
+
+msgid "0002"
+msgstr "That's it for now."
+
+msgid "Near00"
+msgstr "Let's find some ore to sell."
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]That was a close one!"
+
+msgid "Near01"
+msgstr "I could go for a good ore."
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Phew. I'm saved!"
+
+msgid "Near02"
+msgstr "What great scenery."
+
+msgid "Near03"
+msgstr "I'm digging this greenery."
+
+msgid "5507"
+msgstr "I'll take 'em all!"
+
+msgid "Near04"
+msgstr "I'm getting soaked!"
+
+msgid "5508"
+msgstr "All of them."
+
+msgid "MSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]I am more suited to the life of a traveling\n"
+"merchant for sure. The scenery is much\n"
+"nicer than the [Color name=\"blue\"]Goron Hot Springs[Color name=\"unset\"]."
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]A [Color name=\"blue\"]Guardian[Color name=\"unset\"]'s beam can turn boulders\n"
+"into pebbles![PauseShort] I'm out of here!"
+
+msgid "RetMSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]It's a Goron's nature to live in harmony\n"
+"with rocks.[PauseMid] I make a living selling the ore\n"
+"I dig up, and I eat the tastier stones!"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Looks like I'll live to sell another day!"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]We had better make a break for it while\n"
+"we can."
+
+msgid "RetMSG_Orud_01_1"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"16\"]I wonder if my old buddy [Color name=\"red\"]Yunobo [Color name=\"unset\"]back in [Color name=\"blue\"]Goron\n"
+"City [Color name=\"unset\"]is doing well.[Size percent=\"100\"]\n"
+"Oops.[PauseShort] Ya caught me talking to myself."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Maybe we'll meet again down the road!"
+
+msgid "MSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If you're heading to [Color name=\"blue\"]Goron City[Color name=\"unset\"]'s famed\n"
+"[Color name=\"blue\"]Goron Hot Springs[Color name=\"unset\"], watch out for\n"
+"magma bombs on the way.\n"
+"I haven't had to worry about them since\n"
+"leaving to travel the world, and I do NOT\n"
+"miss dodging those things."
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Eating me will do you no good! You will\n"
+"just break your teeth!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAE6BAAAAAAAAFUAAAAEAAAAXAEAAHYBAACQAQAAkgEAAJQBAACWAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAAvAEAAL4BAADAAQAAwgEAAMQBAADeAQAA4AEAAPoBAAAUAgAALgIAAEgCAABiAgAAZAIAAGYCAABoAgAAagIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAHgCAAB6AgAAfAIAAH4CAACAAgAAggIAAIQCAACGAgAAiAIAAIoCAACMAgAAjgIAAJACAACSAgAAlAIAAJYCAACYAgAAmgIAAJwCAACeAgAAoAIAAMACAADgAgAA4gIAAOQCAADmAgAA6AIAAOoCAADsAgAA7gIAAAgDAAAiAwAAJAMAACYDAAAoAwAAKgMAAEQDAABeAwAAeAMAAJIDAACsAwAAxgMAAOADAAD6AwAA/AMAAP4DAAAABAAAAgQAAAQEAAAGBAAAIAQAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

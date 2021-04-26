@@ -1,0 +1,395 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Espero que mis preciados artículos\n"
+"estén intactos..."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]¿Qué quieres venderme?"
+
+msgid "RetMSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si piensas ir hacia el oeste, más allá\n"
+"del [Color name=\"blue\"]gran puente de Tabanta[Color name=\"unset\"], ten mucho\n"
+"cuidado con los [Color name=\"red\"]guardianes voladores[Color name=\"unset\"]."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Serían [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], si estás de\n"
+"acuerdo.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"2\"]¡Gracias![PauseShort] ¿Necesitas algo más?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]¡Qué pena!"
+
+msgid "Com_Talk_10"
+msgstr ""
+"¿Quieres comprarme\n"
+"[C9:01][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "¡Te compro lo que sea!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]¡Gracias!"
+
+msgid "Com_Talk_06"
+msgstr "¿Qué quieres comprar?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]En lo que a cereales se refiere,\n"
+"yo soy la gran referencia.[PauseMid]\n"
+"¡Echa un vistazo a mis productos!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]¡Te lo agradezco mucho!"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound2 id=\"14\"]¡Lo siento![PauseShort] De eso no me queda\n"
+"ahora mismo..."
+
+msgid "Com_Talk_13"
+msgstr ""
+"De acuerdo.[PauseMid] ¿Y de qué cantidad\n"
+"se trataría?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]¡Muchísimas gracias!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Por lo que veo, no te llegan las rupias.[PauseShort]\n"
+"Tendrá que ser la próxima vez..."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Por [02:0F name=\"Shop_TradeItemNum\"] te daría [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Te vale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]Siempre añado [C9:01][Color name=\"red\"][C9:00 bytes=\"02030301\"]especias goron[Color name=\"unset\"] a\n"
+"mi lista de productos cuando hace mal\n"
+"tiempo. ¡Para animar a los clientes!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]Ha merecido la pena caminar hasta aquí."
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Tu alforja está llena.[PauseLong] ¿No podrías\n"
+"deshacerte de alguna cosilla?"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]No te puedo comprar eso, lo siento."
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Ten,[PauseShort] como muestra de sincero\n"
+"agradecimiento."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]¿Pretendes vender prendas que llevas\n"
+"puestas?[PauseMid] Tendrás que quitártelas\n"
+"primero, ¿no crees?"
+
+msgid "RetMSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Me gustaría poder aliviar la carga de\n"
+"trigo y arroz[PauseShort] que transporta este burro."
+
+msgid "Com_Talk_30"
+msgstr ""
+"Pues eso hace un total de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Lo tienes claro?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "Ajá, vale. ¿Cuántas unidades van a ser?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "RetMSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si alguna vez quieres viajar más allá del\n"
+"[Color name=\"blue\"]gran puente de Tabanta[Color name=\"unset\"] hacia el oeste,\n"
+"hay algo que debes saber.\n"
+"Unos antiguos artilugios conocidos\n"
+"como [Color name=\"red\"]guardianes voladores[Color name=\"unset\"] bloquean\n"
+"los caminos que siguen los viajeros."
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]Me quedaré aquí esperando hasta\n"
+"que se vayan los monstruos."
+
+msgid "Com_Talk_33"
+msgstr ""
+"Pues el total asciende a [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Te parece bien?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Dicen que en el castillo de Hyrule hay\n"
+"un tesoro. A mí me da un poco igual,[PauseShort]\n"
+"pero puede que a ti te interese."
+
+msgid "RetMSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si atraviesas el [Color name=\"blue\"]gran puente de Tabanta[Color name=\"unset\"],[PauseShort]\n"
+"tal vez te sobresalte una voz que surge\n"
+"de las profundidades del valle.\n"
+"Entre los goron se cuenta la historia de\n"
+"uno de ellos que perdió el equilibrio en\n"
+"el puente y cayó al [Color name=\"blue\"]cañón de Tanagar[Color name=\"unset\"].[PauseMid][Sound1 unk1=\"11\" unk2=\"0\"]\n"
+"Quizá sea el espíritu de aquel goron el\n"
+"que asusta a los viajeros que pasan por\n"
+"el lugar..."
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Será mejor que no me descuide..."
+
+msgid "Com_Talk_34"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"] unidades sumarían un total\n"
+"de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Estás de acuerdo?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si atraviesas el [Color name=\"blue\"]gran puente de Tabanta[Color name=\"unset\"],[PauseShort]\n"
+"presta atención a la voz que surge del\n"
+"fondo del valle.\n"
+"Se cuenta que pertenece al espíritu de\n"
+"un goron que perdió el equilibrio sobre\n"
+"el puente y cayó al [Color name=\"blue\"]cañón de Tanagar[Color name=\"unset\"]."
+
+msgid "RetMSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Oye,[PauseShort] por casualidad no llevarás calderilla\n"
+"encima,[PauseMid] ¿verdad?[PageBreak][Sound1 unk1=\"10\" unk2=\"21\"]Esto...[PauseShort] ¡No me malinterpretes![PauseMid] Quiero\n"
+"decir que, como en esta zona es normal\n"
+"que caigan rayos...[PauseMid]\n"
+"Si oyes tronar, más te vale no llevar nada\n"
+"metálico contigo, como armaduras o\n"
+"espadas. ¡Quien avisa no es traidor!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Vaya, así que todo, ¿no?[PauseMid] Por [02:0F name=\"Shop_TradeItemNum\"]\n"
+"te ofrezco [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Hay trato?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]El castillo de Hyrule alberga ♪[PauseMid]\n"
+"múltiples tesoros en su ciudadela... ♪[PageBreak]Esta canción se me pegó de un viajero[PauseMid]\n"
+"que iba cantándola por ahí."
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Tras esto ya no puedo ofrecerte más.\n"
+"¡Muchas gracias por comprar tanto!"
+
+msgid "RetMSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Este burro ha venido cargado de trigo\n"
+"y arroz[PauseShort] desde la [Color name=\"blue\"]posta de Tabanta[Color name=\"unset\"].[PageBreak]Me gustaría poder ayudarlo a aliviar\n"
+"su carga."
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Me has sacado de un buen lío..."
+
+msgid "Com_Talk_05b"
+msgstr "¡Comprar es lo mío!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]¡Gracias mil!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Hoy ya no me queda nada por vender.[PauseMid]\n"
+"Si acaso, puedes consultar los artículos\n"
+"que espero reponer pronto.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¡Ah![PauseMid] Si andas escaso de comestibles\n"
+"para tu viaje,[PauseMid] yo puedo venderte más\n"
+"de una cosilla. ¿Qué me dices?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Muchas gracias."
+
+msgid "Com_Talk_05c"
+msgstr "¡Véndeme todo lo que quieras!"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]¡Gracias mil!"
+
+msgid "MSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Me dirijo a la [Color name=\"blue\"]posta de la estepa[Color name=\"unset\"]\n"
+"pasando por la [Color name=\"blue\"]posta de Idilia[Color name=\"unset\"]."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]¿Alguna cosa más?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "¡Te lo compro todo!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]¡Te lo agradezco!"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Soy una comerciante con burro[PauseShort] y mi\n"
+"especialidad son los cereales.[PauseMid] Tengo\n"
+"arroz y tengo trigo para hacer pan."
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]A los comerciantes no nos gusta que\n"
+"llueva,[PauseMid] pero la lluvia también es una\n"
+"excusa para descansar en algún refugio."
+
+msgid "5500"
+msgstr "Sí"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]No me molesta mojarme bajo la lluvia,[PauseShort]\n"
+"pero temo que me caiga un rayo si llevo\n"
+"objetos metálicos encima."
+
+msgid "Com_Talk_56"
+msgstr "Pues [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"] si te parece bien.[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "No"
+
+msgid "0000"
+msgstr "¡Quiero comprar!"
+
+msgid "5502"
+msgstr "¡Compro!"
+
+msgid "0001"
+msgstr "¡Quiero vender!"
+
+msgid "5503"
+msgstr "Mejor lo dejamos"
+
+msgid "0002"
+msgstr "Hasta la vista"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]El burro, la, la, la... ♪"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]No sé cómo agradecerte tu ayuda."
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]El burro, ta-ra-ri... ♪"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Fiu, de la que me he librado gracias a ti."
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]La-ra-riiiii-ro, el burro."
+
+msgid "MSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]Menudo frío hace, ¿eh?[PageBreak]Se nota mucho el cambio de temperatura\n"
+"cuando viajas desde la [Color name=\"blue\"]posta de Idilia[Color name=\"unset\"]\n"
+"hasta la [Color name=\"blue\"]posta de la estepa[Color name=\"unset\"]."
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]El burro, tu-tu-tu-taaa... ♪"
+
+msgid "5507"
+msgstr "Lo compro todo"
+
+msgid "RetMSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si oyes algún trueno, procura no llevar\n"
+"encima nada metálico, como armaduras\n"
+"o una espada. ¡Es peligroso!"
+
+msgid "Near04"
+msgstr "[Sound2 id=\"24\"]Lluvia, lluvia... ♪"
+
+msgid "5508"
+msgstr "Lo vendo todo"
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"22\"]¡Huyamos del [Color name=\"blue\"]guardián[Color name=\"unset\"]! ¡Rápido!"
+
+msgid "MSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Eres uno de esos viajeros?[PauseMid]\n"
+"Me pregunto hacia dónde te diriges...[PageBreak]Yo voy de camino a la [Color name=\"blue\"]posta de la estepa[Color name=\"unset\"].[PauseMid]\n"
+"Pienso llegar hasta ella pasando por\n"
+"la [Color name=\"blue\"]posta de Idilia[Color name=\"unset\"]."
+
+msgid "MSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Siempre sigo el consejo de quitarme\n"
+"las piezas metálicas del equipamiento,\n"
+"no sea que me caiga un rayo."
+
+msgid "MSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Tal vez no lo sepas,[PauseMid] pero en esta zona\n"
+"caen rayos con frecuencia.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Aunque suene a superstición, yo me\n"
+"quito cualquier pieza de equipamiento\n"
+"metálica para que no me alcance uno."
+
+msgid "MSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Haré un parón en esta posta para que\n"
+"mi burro pueda descansar."
+
+msgid "MSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No es que me interese mucho,[PauseShort] pero\n"
+"dicen que en el castillo de Hyrule[PauseShort]\n"
+"se esconde un tesoro.[PauseMid]\n"
+"Me da en la nariz que para un viajero\n"
+"como tú puede tener cierto interés."
+
+msgid "MSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"42\"]Brrrrrr...[PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]No,[PauseMid] no tengo miedo. Es solo frío.[PageBreak]El cambio de temperatura es notable[PauseShort]\n"
+"cuando viajas desde la [Color name=\"blue\"]posta de Idilia[Color name=\"unset\"]\n"
+"hasta la [Color name=\"blue\"]posta de la estepa[Color name=\"unset\"]."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Sí que eres fuerte..."
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]Me has salvado. No sé qué decir.[PauseMid]\n"
+"Incluso habré retrasado tu viaje..."
+
+msgid "RetMSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]El castillo de Hyrule alberga [PauseMid]\n"
+"múltiples tesoros en su ciudadela... ♪"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]¡Ya volveremos a vernos en este camino!"
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Me fallan las piernas..."
+
+msgid "MSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Quiero darle un poco de descanso\n"
+"a mi burro,[PauseMid] así que me hospedaré\n"
+"unos días en esta posta."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAEMBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAANACAADqAgAABAMAAB4DAAA4AwAAUgMAAGwDAACGAwAAoAMAALoDAADUAwAA7gMAAAgEAAAiBAAAPAQAAFYEAABwBAAAigQAAKQEAAC+BAAA2AQAAPIEAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

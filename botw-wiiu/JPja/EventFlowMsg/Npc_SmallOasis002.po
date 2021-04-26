@@ -1,0 +1,131 @@
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]ひんやり効果のある虫[Color name=\"unset\"]と[Color name=\"blue\"]魔物の素材[Color name=\"unset\"]から作る\n"
+"[Color name=\"red\"]暑さをしのげる薬[Color name=\"unset\"]があるって 聞いたんだけど…\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]どこにも 売ってないんだ…[PauseLong]\n"
+"\n"
+"作ろうかとも思ったけど\n"
+"[Color name=\"blue\"]ひんやり効果のある虫[Color name=\"unset\"]はこの辺じゃ\n"
+"[Color name=\"red\"]ゲルド高地の寒い所[Color name=\"unset\"]まで行かないといないし\n"
+"あの辺は 魔物も多いしね…[PauseMid]\n"
+"[Sound1 unk1=\"11\" unk2=\"12\"]どうしたもんかなぁ…[PauseShort] と思って\n"
+"ここでずっと考えてるんだ"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]ん…[PauseLong]\n"
+"おお…[PauseLong]\n"
+"眠ってしまっていたようだな…"
+
+#, ruby
+msgid "0000"
+msgstr "リトの村？"
+
+#, ruby
+msgid "0001"
+msgstr "行った事ある！"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]昼間の砂漠がこんなに暑いなんて\n"
+"知らなかったよ…\n"
+"やっぱり何事も 経験しないといけないね…[Choice2 label1=\"4\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0003"
+msgstr "さようなら"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここからかなり北…[PauseShort]\n"
+"[Color name=\"blue\"]タバンタ辺境[Color name=\"unset\"]の 小さな村さ…"
+
+#, ruby
+msgid "0004"
+msgstr "まだ出かけないの？"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]いつかは可愛い我が子にも\n"
+"旅をさせてやらないとな…"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]やぁ おはよう…\n"
+"ゲルド語でいうなら 「サヴォッタ」かな…"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]やぁ こんにちは…"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]薬も手に入れたし\n"
+"もちろん すぐにでも出かけたいところだけど…[PauseLong]\n"
+"夜の砂漠は 危険だからね…[PauseShort]\n"
+"明るくなってからにするよ…"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]こんばんは…\n"
+"ゲルド語でいうと 「サヴァサーバ」かな…"
+
+#, ruby
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]僕はリトの村からやって来たんだ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]薬も手に入れたし\n"
+"もちろんすぐにでも 出かけたいところだけど…[PauseLong]\n"
+"急ぐことはないし…[PauseMid]\n"
+"明日からにするよ…"
+
+msgid "near02"
+msgstr "[Size percent=\"80\"]グゥ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]そうリトの村…"
+
+msgid "near03"
+msgstr "[Size percent=\"80\"]スゥ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]おお… [PauseShort]リトは寒かったろう…？"
+
+msgid "near04"
+msgstr "[Size percent=\"80\"]ピィ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]そのリトの村から\n"
+"出稼ぎに来たのは いいんだけど…\n"
+"ここの昼間は凄い暑さでね…\n"
+"これ以上 先に進むことができなくてさ…\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]中に入れずとも\n"
+"ゲルドの街辺りまでは行ってみたいんだけどね…"
+
+msgid "near05"
+msgstr "[Size percent=\"80\"]グピィ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]その前に…[PauseLong]\n"
+"初めまして… [PauseShort]かな？"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAEYAwAAAAAAABcAAAAEAAAAZAAAAGYAAABoAAAAagAAAGwAAACQAAAAtAAAANgAAAD8AAAAIAEAAEQBAABoAQAAjAEAALABAADUAQAA+AEAABwCAABAAgAAZAIAAIgCAACsAgAA0AIAAPQCAAAAAAAAAAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMgAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

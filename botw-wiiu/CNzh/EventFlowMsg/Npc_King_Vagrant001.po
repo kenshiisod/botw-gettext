@@ -1,0 +1,221 @@
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]唔……[PauseMid]\n"
+"你没事就别叫醒我啊。"
+
+msgid "GoodBye03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]嚯、嚯、嚯。[PauseMid]\n"
+"暖暖的，好舒服啊。"
+
+msgid "GoodBye04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我暂时就待在这里了……[PauseMid]\n"
+"你要是有什么事的话，就过来找我好了。"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]嗯？怎么了？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "这里是？"
+
+msgid "Takibi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]身体有点冷了。[PauseMid]\n"
+"烤烤篝火休息下吧。"
+
+msgid "GoodBye05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]对了……[PauseMid]\n"
+"你不是要去什么地方吗？"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]嚯、嚯、嚯。[PauseMid]\n"
+"我们又见面了。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "你在干什么？"
+
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]要打发时间的话，篝火最适合不过了。[PauseMid]\n"
+"只要看着火焰，你就会忘记时间的流逝。\n"
+"[Sound2 id=\"2\"]你要不要也来试试？[PauseMid]\n"
+"只要你愿意，想休息多久都可以。"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]你穿成那样很冷吧。[PauseMid]\n"
+"要不要来篝火这里烤烤火啊？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1003"
+msgstr "再见"
+
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]要打发时间的话，篝火最适合不过了。[PauseMid]\n"
+"只要你愿意，想休息多久都可以。"
+
+msgid "TerrorBomb"
+msgstr "什么？"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]晚上很危险，怪物也会变得多起来。[PauseMid]\n"
+"要不要在这里待到天亮呢？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]我就烤烤篝火休息休息，\n"
+"然后再做个烤苹果吧。\n"
+"虽然生吃食材也不是不可以，\n"
+"但烘烤之后更有营养，\n"
+"吃起来也会更美味。"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]干嘛……[PauseMid]\n"
+"我好不容易才睡着的。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorEnemy"
+msgstr "哇啊！"
+
+msgid "Near00_First"
+msgstr "……"
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]嚯、嚯、嚯。[PauseMid]\n"
+"要不要去篝火那里烤烤火啊？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]你还没有得到神庙里的宝物吗？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorArrow"
+msgstr "你在干什么！"
+
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]神庙找得怎么样了？\n"
+"进展顺利吗？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]嚯、嚯、嚯。[PauseMid]\n"
+"你找我有什么事？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Apple00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]这就是我做的烤苹果了！"
+
+msgid "Apple01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]嚯、嚯、嚯。\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]我开玩笑的……[PauseMid]\n"
+"苹果要烤得恰到好处才好吃啊。"
+
+msgid "Torch00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"20\"]你打算拿那个火把做什么？[Choice3 label1=\"2000\" label2=\"2001\" label3=\"2002\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Torch01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]你个危险的家伙……[PauseMid]\n"
+"它是用来点火的。\n"
+"我告诉你，前方可有怪物。\n"
+"你要找武器的话，也找个像样点的啊。"
+
+msgid "Torch02"
+msgstr ""
+"如果你觉得我的斧头还不错，就拿去吧。\n"
+"我的斧头就在那里。"
+
+msgid "Torch03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]你个危险的家伙……[PauseMid]\n"
+"不要在易燃的草丛附近挥舞它啊。\n"
+"虽然说是这么说，但前方可有怪物。\n"
+"到了万不得已的时候，\n"
+"拿它当作武器来用倒也是可以的。"
+
+msgid "TerrorImpulse"
+msgstr "哇啊！"
+
+msgid "TerrorInsect"
+msgstr "哇啊！"
+
+msgid "Torch04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"14\"]嗯……你想怎样就怎样吧。\n"
+"\n"
+"我要提醒你一句，前方可有怪物。\n"
+"到了万不得已的时候，\n"
+"你还可以拿它当作武器来用。"
+
+msgid "Torch05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]不要乱挥一气，要面向对手，\n"
+"算好你们之间的距离。"
+
+msgid "Torch02_2"
+msgstr ""
+"看来你已经拥有我的斧头了，\n"
+"对你来说，我想它会更有用一点。"
+
+msgid "ClearTerrorEnemy"
+msgstr "唔……"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]嚯、嚯、嚯。"
+
+msgid "TerrorExplosion"
+msgstr "呜哇！"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]嚯、嚯、嚯。[PauseMid]\n"
+"果然你是想来和我说话吧？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near02"
+msgstr "Zzz...Zzz..."
+
+msgid "NakedPlayer"
+msgstr "你竟然不穿衣服……"
+
+msgid "TerrorSword"
+msgstr "快住手！"
+
+msgid "TerrorFire"
+msgstr "好烫！"
+
+msgid "Talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]嗯？怎么了？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHub1_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]嚯、嚯、嚯。[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near03"
+msgstr "……"
+
+msgid "2000"
+msgstr "做成武器！"
+
+msgid "2001"
+msgstr "点火！"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]我很期待你带回神庙中的宝物哦。"
+
+msgid "2002"
+msgstr "不告诉你"
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]嚯、嚯、嚯。[PauseMid]\n"
+"想要[Color name=\"blue\"]滑翔帆[Color name=\"unset\"]的话，你就得好好努力。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAFsBgAAAAAAADMAAAAEAAAA1AAAAPwAAAAkAQAATAEAAHQBAACcAQAAxAEAAOwBAAAUAgAAPAIAAGQCAACMAgAAtAIAALYCAAC4AgAAugIAAOICAAAKAwAAMgMAAFoDAACCAwAAqgMAANIDAAD6AwAAIgQAAEoEAAByBAAAmgQAAMIEAADEBAAAxgQAAMgEAADwBAAAGAUAAEAFAABoBQAAkAUAALgFAADgBQAACAYAADAGAABYBgAAWgYAAFwGAABeBgAAYAYAAGIGAABkBgAAZgYAAGgGAABqBgAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAAxAAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAAMQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

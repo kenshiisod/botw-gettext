@@ -1,0 +1,177 @@
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah bon? [PauseShort]Ma foi..."
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Au fait, jeune homme,[PauseShort] toi aussi tu\n"
+"es au [Color name=\"blue\"]village d'Euzero [Color name=\"unset\"]pour acheter\n"
+"une maison de vacances?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0000"
+msgstr "À un voyageur."
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Quoi qu'il en soit, fais bien\n"
+"attention à toi.\n"
+"\n"
+"Mon mari aime beaucoup cet endroit,[PauseShort]\n"
+"mais dès qu'on sort du village, il y a\n"
+"de drôles de bêtes un peu partout."
+
+msgid "0001"
+msgstr "À peu de chose..."
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Je peux faire quelque chose pour toi?[Choice4Flags label1=\"6\" flag1=\"UMiiVillage_NPC008_Cook\" label2=\"8\" flag2=\"UMiiVillage_NPC027_MamonoCake\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "Exactement."
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Des créatures à la bette abominable,\n"
+"des plantes bizarres...[PauseShort] il y en a plein à\n"
+"l'extérieur du village, tu n'as pas vu?\n"
+"Et puis, surtout, il y a cette [Color name=\"red\"]grande fleur[Color name=\"unset\"]\n"
+"au [Color name=\"red\"]sud-est[Color name=\"unset\"] du village...[PauseShort]\n"
+"\n"
+"Comme je le disais il y a peu à mon vieil\n"
+"homme de mari,[PauseShort] je ne savais pas qu'il\n"
+"existait des fleurs aussi grandes."
+
+msgid "0003"
+msgstr "Pas du tout, non."
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]La [Color name=\"red\"]grande fleur[Color name=\"unset\"] au [Color name=\"red\"]sud-est[Color name=\"unset\"] du village...[PauseShort]\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"16\"]On l'a aperçue sur le chemin, en venant,\n"
+"et ma foi...[PauseShort] la nature fait parfois preuve\n"
+"d'une grossièreté surprenante."
+
+msgid "0004"
+msgstr "De drôles de bêtes?"
+
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Allez, à plus tard."
+
+msgid "0005"
+msgstr "Au revoir!"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Il ne faut pas y toucher, on ne sait pas\n"
+"ce que ça peut être!"
+
+msgid "0006"
+msgstr "Tu cuisines bien?"
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Ah... C'est mon vieil homme de mari\n"
+"qui t'a dit ça?\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]Il ne peut pas s'empêcher d'ouvrir\n"
+"sa bouche..."
+
+msgid "0007"
+msgstr "Quoi d'autre?"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Veux-tu parler d'autre chose?[Choice4Flags label1=\"6\" flag1=\"UMiiVillage_NPC008_Cook\" label2=\"8\" flag2=\"UMiiVillage_NPC027_MamonoCake\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Toi, je crois que ce n'est pas un dessert\n"
+"qu'il te faut...\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Tu devrais commencer par te remplir la\n"
+"panse,[PauseShort] pour prendre un peu d'épaisseur."
+
+msgid "0008"
+msgstr "Gâteau au monstre?"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]À qui ai-je l'honneur?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Le [Color name=\"blue\"]gâteau aux carottes[Color name=\"unset\"] par exemple,\n"
+"et le [Color name=\"blue\"]gâteau à la citrouille[Color name=\"unset\"]...[PauseShort]\n"
+"Et aussi...[Choice1 label=\"7\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oh, bonjour!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oh, bonjour."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Quoi d'autre... Ah, j'ai aussi appris à\n"
+"faire le [Color name=\"blue\"]gâteau au monstre[Color name=\"unset\"].\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]Ce n'est pas compliqué.[PauseLong] Tu mélanges\n"
+"un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]boisseau de blé[Color name=\"unset\"],[PauseShort] une [Color name=\"blue\"][C9:00 bytes=\"02010100\"]canne à sucre[Color name=\"unset\"],[PauseShort]\n"
+"une [Color name=\"blue\"][C9:00 bytes=\"02010100\"]motte de beurre[Color name=\"unset\"], et pour finir...[PauseShort]\n"
+"... tu ajoutes un [Color name=\"red\"][C9:00 bytes=\"01040000\"]extrait de monstre[Color name=\"unset\"].\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"5\" unk2=\"1\"]Malheureusement, ces derniers temps,\n"
+"il est devenu difficile de s'en procurer."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oh, bonsoir."
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ma foi, on peut dire que je cuisine bien,\n"
+"oui...[PauseShort] surtout les gâteaux, les pâtisseries\n"
+"et ce genre de choses.\n"
+"Vois-tu, ma grand-mère était pâtissière\n"
+"à la cour.\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"11\"]Et quand j'étais jeune, elle m'a appris à\n"
+"faire toutes sortes de gâteaux."
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oui, oui."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ah, oui... le gâteau au monstre...[PauseShort]\n"
+"Je peux te répéter la recette, bien sûr.[PauseShort]\n"
+"Autant de fois que tu le voudras.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Tu mélanges un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]boisseau de blé[Color name=\"unset\"],[PauseShort] une\n"
+"[Color name=\"blue\"][C9:00 bytes=\"02010100\"]canne à sucre[Color name=\"unset\"][PauseShort] et une [Color name=\"blue\"][C9:00 bytes=\"02010100\"]motte de beurre[Color name=\"unset\"],[PauseShort]\n"
+"et tu rajoutes un [Color name=\"red\"][C9:00 bytes=\"01040000\"]extrait de monstre[Color name=\"unset\"]."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Zzz... Zzz..."
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Le [Color name=\"blue\"]gâteau au monstre[Color name=\"unset\"] n'est sans doute\n"
+"pas très appétissant,[PauseShort] mais ça vous\n"
+"revigore un homme!"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je me prépare à aller me coucher.[PauseShort]\n"
+"Et toi, jeune homme, tu devrais en\n"
+"faire autant!"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Eh bien, ce n'est pas tout, mais je ne\n"
+"vais pas tarder à me coucher, moi.[PauseShort]\n"
+"Sinon mes vieux os vont faire des leurs..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAEuBAAAAAAAACEAAAAEAAAAjAAAAI4AAACQAAAAkgAAAJQAAACWAAAAmAAAAJoAAACcAAAAngAAAMQAAADqAAAAEAEAADYBAABcAQAAggEAAKgBAADOAQAA9AEAABoCAABAAgAAZgIAAIwCAACyAgAA2AIAAP4CAAAkAwAASgMAAHADAACWAwAAvAMAAOIDAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAANwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

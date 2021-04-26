@@ -1,0 +1,195 @@
+#, ruby
+msgid "AtGoal_01_03"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]ニイチャンのタイムは[Color name=\"red\"][02:0E name=\"MiniGame_Crosscountry_Current_Minutes\"]分[02:0E name=\"MiniGame_Crosscountry_Current_Seconds\"]秒[02:0E name=\"MiniGame_Crosscountry_Current_MilliSeconds\"][Color name=\"unset\"][PageBreak]俺も本気じゃなかったとはいえ… [PauseShort]勝負は勝負！[PauseMid]\n"
+"これ[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負の報酬！ [PauseMid]受け取ってくれ！"
+
+#, ruby
+msgid "AtGoal_00_00"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]ヘーィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]ニイチャン[PauseShort] もうゴールしたのか？ [PauseMid]\n"
+"うーん…[PauseMid]今回は俺の負けだ！ [Size percent=\"80\"]…[PauseMid]ヘイヘーイ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "AtGoal_01_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"][Size percent=\"125\"]ヘィ！[Size percent=\"100\"][PauseShort]俺のタイムは[Color name=\"red\"][02:0E name=\"MiniGame_Crosscountry_Current_Minutes\"]分[02:0E name=\"MiniGame_Crosscountry_Current_Seconds\"]秒[02:0E name=\"MiniGame_Crosscountry_Current_MilliSeconds\"][Color name=\"unset\"][PageBreak]ニイチャンも まあまあ頑張ったとは思うが\n"
+"俺に勝つつもりなら もっと鍛えないとな！"
+
+#, ruby
+msgid "0010"
+msgstr "じゃあ続ける"
+
+#, ruby
+msgid "0005_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]ヘィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]その意気込みこそが大事だな！ [PauseMid]\n"
+"じゃあ準備するし ちょっと待っててくれ！"
+
+#, ruby
+msgid "0002_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]ヘーィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]イイネ！ [PauseShort]イイヨ！ [PauseShort]サイコーだよ！ [PauseShort]\n"
+"ただし [Color name=\"red\"]かけっこ[Color name=\"unset\"]といえど勝負は勝負！\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]を賭けてもらう！[PauseMid]\n"
+"俺と[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負するかい？ [Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0005_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ヘィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]お待たせ！ [PauseMid]足の先まで準備万端だ！ [PauseMid]\n"
+"お待ちかねの [Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負の時間だぜ！ [PauseShort]ヘィ！"
+
+#, ruby
+msgid "0002_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]ヘーィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]イイネ！ [PauseShort]イイヨ！ [PauseShort]サイコーだよ！ [PauseShort]\n"
+"また [Color name=\"red\"]20ルピー[Color name=\"unset\"]を賭けて 俺と[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負だ[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0005_03"
+msgstr ""
+"[Color name=\"red\"]かけっこ[Color name=\"unset\"]のゴールはあの[Color name=\"red\"]山のてっぺんの旗[Color name=\"unset\"]の所！[PauseMid]\n"
+"どちらかがゴールに着いた時点で勝負は終了！"
+
+#, ruby
+msgid "0014"
+msgstr "勝負する"
+
+#, ruby
+msgid "0002"
+msgstr "勝負する"
+
+#, ruby
+msgid "0004_00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"][Size percent=\"125\"]オット！ [Size percent=\"100\"][PauseShort]残念！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]久しぶりに見込みのある青年と\n"
+"出会えたと思ったのに… [PauseMid]見込み違いか…[PauseShort][Size percent=\"80\"]ヘェーィ[Size percent=\"100\"]"
+
+#, ruby
+msgid "0005_04"
+msgstr ""
+"ヘイ！ [PauseShort]わかっているとは思うが…[PauseMid]\n"
+"[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負は[Color name=\"red\"]自分の力だけ[Color name=\"unset\"]での勝負だ！\n"
+"馬を使ったり ゴールを目指さなかったり\n"
+"した場合は [Color name=\"red\"]失格[Color name=\"unset\"]になるから気を付けてくれよ！"
+
+#, ruby
+msgid "0015"
+msgstr "勝負しない"
+
+#, ruby
+msgid "0014_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]ヘーイ！[Size percent=\"125\"][PauseShort] [Size percent=\"100\"]イイネ！ [PauseShort]イイヨ！ [PauseShort]サイコーネ！ [PauseMid]\n"
+"ルールはさっきと一緒 早くゴールした方の勝ち"
+
+#, ruby
+msgid "0004"
+msgstr "勝負しない"
+
+#, ruby
+msgid "0005_NotEnoughMoney"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]ヘィ！[PauseShort]軍資金として [Color name=\"red\"]20ルピー[Color name=\"unset\"]を用意してから\n"
+"[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負といこうじゃないか！[PauseShort]まってるぜ！"
+
+#, ruby
+msgid "0005"
+msgstr "もちろん勝負する"
+
+#, ruby
+msgid "0005_07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Size percent=\"125\"]ヘィ！[PauseShort] [Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負！[PauseMid] ヨーイ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "0006_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]ヘィ！[Size percent=\"125\"] [Size percent=\"100\"][PauseShort]戦う前から諦めか？ [PauseShort]\n"
+"そんな心構えで この先旅を続けられるのか？"
+
+#, ruby
+msgid "0009_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ヘィ！[Size percent=\"125\"][PauseShort][Size percent=\"100\"]また[Color name=\"red\"]かけっこ[Color name=\"unset\"]で勝負をしたくなったら\n"
+"俺はいつでも挑戦を受けて立つぜ！[PauseShort]ヘイヘーイ！"
+
+msgid "0005_08"
+msgstr "[01:02][Size percent=\"125\"]ドン！[Size percent=\"100\"][PauseAuto frames=\"30\"]"
+
+#, ruby
+msgid "0006"
+msgstr "じゃあ勝負しない"
+
+#, ruby
+msgid "Halt_00"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"3\"]ヘィヘィヘィ！[Size percent=\"125\"][PauseShort][Size percent=\"100\"]\n"
+"[Color name=\"red\"]かけっこ[Color name=\"unset\"]は[Color name=\"red\"]自分の足[Color name=\"unset\"]で走る勝負だ！[PauseMid] \n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]馬はダメでしょ！[PauseMid] [Color name=\"red\"]失格[Color name=\"unset\"]！[PauseShort][Size percent=\"80\"]…ヘーイ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Halt_01"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"16\"]ヘーィ！[Size percent=\"125\"] [Size percent=\"100\"][PauseShort]俺の説明が足りなかったかな？ [PauseMid]\n"
+"[Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負は[Color name=\"red\"]自分の足[Color name=\"unset\"]でゴールを目指す勝負！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]つまり ゴールを目指すルートを大きく外れたり\n"
+"馬に乗っての移動は[Color name=\"red\"]失格[Color name=\"unset\"]ということでよろしく！"
+
+#, ruby
+msgid "Initial_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]ヘィ[Size percent=\"125\"]！ [PauseShort][Size percent=\"100\"]ニイチャン！ [PauseShort]体力に自信があるなら\n"
+"いっちょ 俺と[Color name=\"red\"]かけっこ[Color name=\"unset\"]で勝負してみないか？[Choice2 label1=\"2\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Halt_02"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"3\"]ヘィヘィヘィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"]どこに行くつもりだー？[PauseMid]\n"
+"ゴールに向かってくれないと勝負にならないぞ！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゴールに向かってくれないとなぁ… [PauseShort][Color name=\"red\"]失格[Color name=\"unset\"]です！[PauseMid]\n"
+"戻ってきてくれ！ [PauseShort]勝負の確認をしよう！"
+
+#, ruby
+msgid "Initial_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]ヘィ[Size percent=\"125\"]！ [Size percent=\"100\"][PauseShort]立派なお馬さんでの旅もいいが…[PauseMid]\n"
+"[Color name=\"red\"]自分の足[Color name=\"unset\"]での旅！ [PauseMid]それも大事だと思わないか？"
+
+#, ruby
+msgid "AtGoal_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]ヘィ！ [PauseShort]ゴォォォォール！ [PauseMid]俺の勝ちー！ [PauseLong]\n"
+"ニイチャン 俺に挑むには まだ100年早いな？"
+
+#, ruby
+msgid "Initial_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ヘィ！[Size percent=\"125\"] [Size percent=\"100\"][PauseShort]俺は[Color name=\"red\"]自分の足[Color name=\"unset\"]で勝負したいんだ！ [PauseMid]\n"
+"悪いが 馬から降りて話しかけてくれ！"
+
+#, ruby
+msgid "0015_00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"][Size percent=\"125\"]ヘィ！[Size percent=\"100\"]そりゃ残念だぜ[Size percent=\"80\"]… ヘーィ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "AtGoal_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Size percent=\"125\"]ヘィ！ [PauseShort][Size percent=\"100\"]もう一勝負していかないか？ [Choice2 label1=\"14\" label2=\"15\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0015_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Size percent=\"125\"]ヘィ！[PauseShort]旅で 素足を鍛えるんだぜ！[Size percent=\"100\"]"
+
+#, ruby
+msgid "0014_NotEnoughMoney"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]ヘィ！[Size percent=\"125\"] [PauseShort][Size percent=\"100\"][Color name=\"red\"]かけっこ[Color name=\"unset\"]勝負するなら\n"
+"軍資金の[Color name=\"red\"]20ルピー[Color name=\"unset\"]を用意してくれ！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAFMBgAAAAAAACIAAAAEAAAAkAAAAMQAAAD4AAAALAEAAC4BAABiAQAAlgEAAJgBAADMAQAAzgEAAAICAAA2AgAAagIAAJ4CAADSAgAABgMAADoDAAA8AwAAcAMAAKQDAACmAwAA2gMAAA4EAABCBAAAdgQAAKoEAADeBAAAEgUAAEYFAAB6BQAArgUAAOIFAADkBQAAGAYAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAAAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAAAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAAAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAABOAHAAYwBfAE0AaQBuAGkARwBhAG0AZQBfAEMAcgBvAHMAcwBjAG8AdQBuAHQAcgB5AAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAAAATgBwAGMAXwBNAGkAbgBpAEcAYQBtAGUAXwBDAHIAbwBzAHMAYwBvAHUAbgB0AHIAeQAAAE4AcABjAF8ATQBpAG4AaQBHAGEAbQBlAF8AQwByAG8AcwBzAGMAbwB1AG4AdAByAHkAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

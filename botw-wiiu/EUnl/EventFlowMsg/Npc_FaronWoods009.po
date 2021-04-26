@@ -1,0 +1,161 @@
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]Ik heb een indrukwekkende verzameling\n"
+"spullen.[PauseMid] Neem je tijd!"
+
+msgid "Com_Talk_13"
+msgstr "Hoeveel wil je er verkopen?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5501\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"Je wilt er [02:0F name=\"Shop_TradeItemNum\"] verkopen? Daar geef ik je\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor. Oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "Ja."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Dat kan ik niet van je kopen."
+
+msgid "5501"
+msgstr "Nee."
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"14\"]Zou je die kleren eerst willen uittrekken?"
+
+msgid "5502"
+msgstr "Kopen."
+
+msgid "5503"
+msgstr "Laat maar."
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]Op dagen met slecht weer heb ik een\n"
+"speciale aanbieding voor je! Ik verkoop\n"
+"je mijn beste voorwerp!"
+
+msgid "5507"
+msgstr "Alles kopen."
+
+msgid "5508"
+msgstr "Alles verkopen."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Dank je! Verder nog iets?"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Je wilt er maar eentje? Dat is dan\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]! Oké?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"2\"]Duizendmaal dank! Heb je verder nog\n"
+"iets?"
+
+msgid "Com_Talk_05b"
+msgstr "Ik koop alles wat je hebt."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Wat wil je me verkopen?"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"2\"]Bedankt voor je hulp! Heb je verder nog\n"
+"iets?"
+
+msgid "Com_Talk_05c"
+msgstr "Ik kan nog meer van je kopen."
+
+msgid "Com_Talk_01"
+msgstr ""
+"Daar geef ik je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor.\n"
+"Goed?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Ik kan nog andere dingen van je kopen."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"2\"]Duizendmaal dank!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"Je wilt er [02:0F name=\"Shop_TradeItemNum\"] hebben? Dat kost\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Oké?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]Enorm bedankt![PauseShort] Heb je nog iets voor\n"
+"me?"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Hartelijk bedankt!"
+
+msgid "Com_Talk_31"
+msgstr "Hoeveel wil je er kopen?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"2\"]Daar maak je me erg blij mee. Bedankt!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]Hmm...[PauseMid] Dat is jammer."
+
+msgid "Com_Talk_33"
+msgstr ""
+"Je wilt er maar eentje kwijt? Daar geef ik\n"
+"je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Ik koop alles."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Je wilt ze allemaal? Het zijn er [02:0F name=\"Shop_TradeItemNum\"], dus\n"
+"kost dat je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Wat zeg je\n"
+"ervan?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_06"
+msgstr "Wat wil je hebben?"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Je wilt ze allemaal kwijt? Voor [02:0F name=\"Shop_TradeItemNum\"] kan ik\n"
+"je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] geven. Wat zeg je\n"
+"ervan?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]Sorry! [PauseShort]Dat heb ik niet meer..."
+
+msgid "Com_Talk_36"
+msgstr "[Sound2 id=\"9\"]Dat is alles. Heel erg bedankt!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Het lijkt erop dat je niet genoeg rupees\n"
+"hebt. [PauseShort]Kom maar terug als je een beetje\n"
+"hebt gespaard."
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"10\"]Sorry, ik heb vandaag geen pijlen meer.\n"
+"Wil je zien welke spullen ik allemaal ga\n"
+"inkopen?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Je hebt geen plek meer![PauseShort] Verkoop een\n"
+"paar dingen of gooi ze weg om plaats te\n"
+"maken."
+
+msgid "Com_Talk_10"
+msgstr "Is dit wat je wilt kopen?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Dank je!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAE0AQAAAAAAACgAAAAEAAAAqAAAAKoAAACsAAAArgAAALAAAACyAAAAtAAAALYAAAC4AAAAugAAALwAAAC+AAAAwAAAAMIAAADEAAAAxgAAAMgAAADKAAAAzAAAAM4AAADQAAAA0gAAANQAAADWAAAA2AAAANoAAADcAAAA3gAAAOAAAADiAAAA5AAAAOYAAADoAAAACAEAACgBAAAqAQAALAEAAC4BAAAwAQAAMgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

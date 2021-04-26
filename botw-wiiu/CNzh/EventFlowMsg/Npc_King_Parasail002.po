@@ -1,0 +1,233 @@
+msgid "Appear16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]但是，这里是大陆上的一座孤岛……[PauseMid]\n"
+"想从这片四面都是峭壁的\n"
+"台地上出去是不可能的。"
+
+msgid "Appear17"
+msgstr ""
+"如果从上面跳下去的话……[PauseMid]\n"
+"你就会撞上地面摔个粉身碎骨。"
+
+msgid "Appear18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]不过，如果你能像我一样\n"
+"拥有[Color name=\"blue\"]滑翔帆[Color name=\"unset\"]的话，那就另当而论了。[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "1000"
+msgstr "你是谁？"
+
+msgid "Appear19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]嚯、嚯、嚯。[PauseMid]\n"
+"那好吧。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]但是……[PauseMid]不能白给你。"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]别急……[PauseMid]\n"
+"就在前面不远的地方，你跟我来。"
+
+msgid "1001"
+msgstr "再见"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]从我这里望过去，\n"
+"前方有一个发出奇异光芒\n"
+"像是神庙一样的东西，你能看到吗？"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]在那些塔从地面上耸起时，\n"
+"它就开始发光了。"
+
+msgid "TerrorBomb"
+msgstr "什么？"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]那种地方多半藏有宝物。"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]你要从我所注视着的那座\n"
+"发光神庙中取回宝物。"
+
+msgid "TerrorEnemy"
+msgstr "哇啊！"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]你要从我所注视着的那座\n"
+"发光神庙中取回宝物。[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Appear01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]哎呀……[PauseMid]真是吓我一跳。"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]快去吧，从那发光的神庙中取回宝物。"
+
+msgid "Appear02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]没想到那些高塔竟会\n"
+"一个接一个地从地下出现……\n"
+"恐怕……[PauseMid]海拉鲁大地中\n"
+"沉睡的力量苏醒了。"
+
+msgid "TerrorArrow"
+msgstr "你在干什么！"
+
+msgid "Appear03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]说起来……[PauseMid]\n"
+"塔上面怎么样？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Appear04"
+msgstr ""
+"[Sound2 id=\"9\"]哦……[PauseMid]\n"
+"你听到了来自城堡那边的声音么。"
+
+msgid "Appear05"
+msgstr ""
+"[Sound2 id=\"2\"]你不用遮遮掩掩的。\n"
+"\n"
+"对于塔上面发生的所有事情，\n"
+"我之前早就偷偷地看过了。"
+
+msgid "Appear06"
+msgstr ""
+"看你那样子……[PauseMid]是听到了城堡\n"
+"那边谁发出的声音吧？"
+
+msgid "0000"
+msgstr "我听到了一个声音"
+
+msgid "Appear07"
+msgstr "[Sound2 id=\"7\"]看来是被我说中了啊。"
+
+msgid "0001"
+msgstr "……"
+
+msgid "Appear08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]对于那声音你有印象吗？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002"
+msgstr "没有"
+
+msgid "Appear09"
+msgstr ""
+"[Sound2 id=\"11\"]……是么。[PauseMid]\n"
+"那还真是很令人苦恼啊。"
+
+msgid "Appear20"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]嚯、嚯、嚯。[PauseMid]\n"
+"这是我刚才降落下来时使用的道具。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]要我把它给你也可以……[PauseMid]\n"
+"只是不能白给。"
+
+msgid "0003"
+msgstr "……"
+
+msgid "Appear21"
+msgstr ""
+"[Sound2 id=\"14\"]让我想想……\n"
+"\n"
+"对了，就拿藏在某处的\n"
+"宝物来交换怎么样？"
+
+msgid "TerrorImpulse"
+msgstr "哇啊！"
+
+msgid "TerrorInsect"
+msgstr "哇啊！"
+
+msgid "0004"
+msgstr "是的"
+
+msgid "Appear22"
+msgstr "[Sound2 id=\"0\"]你跟我来。"
+
+msgid "0005"
+msgstr "……"
+
+msgid "0006"
+msgstr "请把它给我"
+
+msgid "Anataha00"
+msgstr ""
+"[Sound2 id=\"4\"]就算现在知道了我是谁，你又能怎么办呢？\n"
+"\n"
+"我……[PauseMid]只是一个独自长居于此的怪老头。"
+
+msgid "0007"
+msgstr "滑翔帆？"
+
+msgid "ClearTerrorEnemy"
+msgstr "唔……"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]嚯、嚯、嚯。"
+
+msgid "TerrorExplosion"
+msgstr "呜哇！"
+
+msgid "NakedPlayer"
+msgstr "你竟然不穿衣服……"
+
+msgid "TerrorSword"
+msgstr "快住手！"
+
+msgid "TerrorFire"
+msgstr "好烫！"
+
+msgid "Appear10"
+msgstr ""
+"[Sound2 id=\"11\"]你不想告诉我这个陌生人吗？[PauseMid]\n"
+"算了，这也不是不可以……"
+
+msgid "Appear11"
+msgstr ""
+"你也看到了吧。\n"
+"那股把城堡包裹起来的邪念……"
+
+msgid "Appear12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]它的名字是……[PauseLong][Size percent=\"125\"][Color name=\"red\"]灾厄盖侬[Color name=\"unset\"][Size percent=\"100\"]。\n"
+"\n"
+"正是至今100年前……[PauseMid]毁灭了此地\n"
+"[Color name=\"blue\"]海拉鲁王国[Color name=\"unset\"]的元凶。\n"
+"由于它的突然出现，城市遭到了破坏，\n"
+"许多人更因此失去了生命。\n"
+"而且，在至今100年的时间里……\n"
+"\n"
+"它一直以那副样貌盘踞在王国的象征\n"
+"[Color name=\"blue\"]海拉鲁城堡[Color name=\"unset\"]上……一动不动。"
+
+msgid "Appear13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]你难道……[PauseMid]\n"
+"是想去那座城堡那里吗？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Appear14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]我就知道你会这么说。"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]你想要这[Color name=\"blue\"]滑翔帆[Color name=\"unset\"]吧？[PauseMid]\n"
+"我很期待你带回神庙中的宝物哦。"
+
+msgid "Appear15"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]……其实你是想去吧。[PauseMid]\n"
+"就算你嘴上不说，\n"
+"你的双眼也出卖了你。"
+
+msgid "GoodBye01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]我很期待哦。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAFuBgAAAAAAADUAAAAEAAAA3AAAAAYBAAAwAQAAWgEAAFwBAABeAQAAiAEAALIBAADcAQAABgIAADACAAAyAgAANAIAAF4CAACIAgAAsgIAANwCAAAGAwAACAMAAAoDAAA0AwAAXgMAAIgDAACyAwAA3AMAAN4DAADgAwAACgQAADQEAABeBAAAiAQAALIEAADcBAAABgUAADAFAABaBQAAhAUAAIYFAACIBQAAsgUAANwFAAAGBgAAMAYAAFoGAABcBgAAXgYAAGAGAABiBgAAZAYAAGYGAABoBgAAagYAAGwGAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,235 @@
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Ты уже побывал в святилище?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NakedPlayer"
+msgstr "Оденься!"
+
+msgid "TerrorBomb"
+msgstr "Чего?"
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Ну, как продвигается поиск святилищ?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Я кое-что сварил"
+
+msgid "0002"
+msgstr "Как готовить?"
+
+msgid "TerrorExplosion"
+msgstr "А-а!"
+
+msgid "0003"
+msgstr "До свидания"
+
+msgid "0004"
+msgstr "Научите меня"
+
+msgid "0005"
+msgstr "До свидания"
+
+msgid "Takibi00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Спина разболелась.[PauseShort] Хочу отдохнуть."
+
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Есть хочешь?[PauseShort] Можешь сварить\n"
+"себе что-нибудь в моем казане."
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Хо-хо-хо!"
+
+msgid "TerrorImpulse"
+msgstr "О-ох!"
+
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Если хочешь приготовить еду,\n"
+"можешь воспользоваться моим\n"
+"казаном.[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near01"
+msgstr "Ну где же ты..."
+
+msgid "TerrorFire"
+msgstr "Горячо!"
+
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Можешь сварить себе\n"
+"поесть в моем казане.[PauseShort] Главное —\n"
+"прояви изобретательность."
+
+msgid "Sleep00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Поспать хочу.[PauseShort] Завтра рано вставать.[PauseShort]\n"
+"Если хочешь, устраивайся здесь."
+
+msgid "Near02"
+msgstr "Тихо... тихо..."
+
+msgid "Sleep01"
+msgstr "У костра время проходит незаметно..."
+
+msgid "Near03"
+msgstr "Хр-р-р..."
+
+msgid "Takibi05"
+msgstr ""
+"Чтобы развести костер, возьми\n"
+"факел и принеси огонь оттуда.[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near04"
+msgstr "..."
+
+msgid "TerrorSword"
+msgstr "Прекрати!"
+
+msgid "ClearTerrorEnemy"
+msgstr "Хм..."
+
+msgid "Sleep03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Что ж мне остается?[PauseShort] Спать,\n"
+"конечно.[PauseShort] Не поохотишься\n"
+"сейчас..."
+
+msgid "TerrorArrow"
+msgstr "Ты что делаешь?!"
+
+msgid "Kari00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]А сам не видишь?[PauseShort] Охочусь.[PauseShort]\n"
+"Не высовывайся, а то добычу\n"
+"спугнешь.[PauseShort] Пригнись."
+
+msgid "KariKotsu00"
+msgstr ""
+"На охоту можно и с мечом ходить, но\n"
+"так близко ты к зверю не подберешься.[PageBreak][Sound2 id=\"2\"]Раздобудешь лук — сможешь\n"
+"подстрелить добычу издалека.[PauseShort]\n"
+"Вот тогда и приходи учиться."
+
+msgid "TalkBokangi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Чего тебе?[PauseShort] Не даешь\n"
+"старику отдохнуть...[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari02"
+msgstr "Пригнись скорее."
+
+msgid "KariKotsu01"
+msgstr ""
+"Первым делом пригнись и подберись\n"
+"к добыче поближе, только тихо.[PageBreak][Sound2 id=\"18\"]А потом просто выпусти стрелу —\n"
+"вот и все.[PauseShort] Но смотри, куда стреляешь.[PageBreak]Попав в нужное место, можно\n"
+"свалить зверя одним выстрелом."
+
+msgid "TerrorEnemy"
+msgstr "Ох!"
+
+msgid "TalkBokangi01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"13\"]Парень, ну дай ты мне отдохнуть...[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Говорю же: я охочусь.[PauseShort]\n"
+"Ох, спина болит...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu02"
+msgstr ""
+"[Sound2 id=\"17\"]Ты, похоже, мой лук прикарманил.[PauseShort]\n"
+"Посмотрим, какой из тебя охотник..."
+
+msgid "Kari04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Давай потише.[PauseShort] Я же\n"
+"сказал, что охочусь.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Устал я.[PauseShort] Надо отдохнуть."
+
+msgid "KariKotsu04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Хочу отдохнуть.[PauseShort] Спина\n"
+"разболелась..."
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Мне не терпится узнать, что\n"
+"за сокровище ты найдешь..."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Хо-хо-хо![PauseMid] Если тебе нужен [Color name=\"blue\"]планер[Color name=\"unset\"],\n"
+"придется потрудиться.[PauseShort] Так просто\n"
+"я его не отдам."
+
+msgid "GoodBye02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"5\"]Хм...[PauseShort] Не буди меня просто так."
+
+msgid "1002"
+msgstr "Что делаете?"
+
+msgid "Hadaka00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Кто?[PauseShort] Я?"
+
+msgid "1003"
+msgstr "До свидания"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Чего тебе?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Рад встрече.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Парень, ты долго в таком\n"
+"виде расхаживать будешь?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Мне некогда![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Опять добыча ушла...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Что ж ты так шумишь...[PauseShort]\n"
+"Все зверье распугал.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorInsect"
+msgstr "Ух!"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Тихо-то как...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Чего тебе?[PauseShort] Не даешь\n"
+"старику отдохнуть...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"15\"]Тс-с![PauseShort] Тихо![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Руби деревья где-нибудь в другом\n"
+"месте, а то все зверье распугаешь.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]Что ж ты шумишь-то...[PauseShort]\n"
+"Все зверье распугаешь.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ночью опасно — полно монстров.[PauseShort]\n"
+"Ты лучше отдохни до утра.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KwAAAAGmBwAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAAJgMAACgDAABQAwAAeAMAAKADAADIAwAA8AMAABgEAABABAAAQgQAAEQEAABsBAAAlAQAALwEAADkBAAADAUAADQFAABcBQAAhAUAAKwFAACuBQAAsAUAALIFAADaBQAAAgYAACoGAABSBgAAegYAAKIGAADKBgAA8gYAABoHAABCBwAAagcAAJIHAACUBwAAlgcAAJgHAACaBwAAnAcAAJ4HAACgBwAAogcAAKQHAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

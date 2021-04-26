@@ -1,0 +1,94 @@
+msgid "Talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Пока.[PauseShort] А мог бы неплохо выспаться..."
+
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Днем?[PauseShort] Хорошо.[PageBreak][Size percent=\"80\"]Мне бы не проспать...[Size percent=\"100\"]"
+
+msgid "Near01"
+msgstr "Хр-р-р..."
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Вечером?[PauseShort] Хорошо.[PageBreak][Size percent=\"80\"]Мне бы не проспать...[Size percent=\"100\"]"
+
+msgid "0000"
+msgstr "Возьму обычную"
+
+msgid "Talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Доброе утро, то есть день...[PauseShort] кажется."
+
+msgid "0001"
+msgstr "Хочу мягкую"
+
+msgid "Talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Доброе утро, то есть вечер...[PauseShort] кажется."
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]В общем, обычная кровать — [Color name=\"red\"]20 рупий[Color name=\"unset\"],\n"
+"а мягкая — [Color name=\"red\"]40 рупий[Color name=\"unset\"]...[PauseShort] кажется.[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0002"
+msgstr "А в чем разница?"
+
+msgid "Talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Когда тебя разбудить?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0003"
+msgstr "Утром"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Замечательно.[PauseShort] Когда тебя разбудить?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0004"
+msgstr "Днем"
+
+msgid "0005"
+msgstr "Вечером"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Приходи, если что.[PauseShort] Спокойной ночи..."
+
+msgid "0006"
+msgstr "Я передумал"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Утром?[PauseShort] Хорошо.[PageBreak][Size percent=\"80\"]Мне бы не проспать...[Size percent=\"100\"]"
+
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]У тебя денег не хватает...[PauseShort] кажется."
+
+msgid "0007"
+msgstr "Спасибо!"
+
+msgid "0008"
+msgstr "Я передумал"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Как хочешь."
+
+msgid "0009"
+msgstr "До свидания"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Доброе утро...[PauseShort] кажется."
+
+msgid "Talk10"
+msgstr "[Sound1 unk1=\"10\" unk2=\"45\"]А?[PauseShort] Что?[PauseShort] Кто?[PauseShort] А, посетитель...[PauseShort] кажется.[PageBreak][Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"0\" unk2=\"0\"]Ну напугал...[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Хм, ну ладно, первый раз\n"
+"можешь поспать бесплатно.[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Перина на мягкой кровати набита\n"
+"пухом кокко...[PauseShort] кажется.[PageBreak]На ней так хорошо спится...[PauseShort] Утром\n"
+"чувствуешь себя просто прекрасно...[PauseShort]\n"
+"кажется."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAGoAgAAAAAAABsAAAAEAAAAdAAAAJQAAAC0AAAAtgAAALgAAAC6AAAAvAAAANwAAADeAAAA4AAAAOIAAADkAAAABAEAACQBAABEAQAAZAEAAIQBAACkAQAApgEAAKgBAADIAQAA6AEAAAgCAAAoAgAASAIAAGgCAACIAgAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAxAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAxAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAxAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAxAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADEAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

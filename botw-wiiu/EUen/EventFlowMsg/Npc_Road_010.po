@@ -1,0 +1,427 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]I'm worried about my precious wares."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Whatcha sellin'?"
+
+msgid "RetMSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If you're fixin' to travel west beyond the\n"
+"[Color name=\"blue\"]Tabantha Great Bridge[Color name=\"unset\"], be sure to keep\n"
+"an eye out for them [Color name=\"red\"]flying Guardians[Color name=\"unset\"]."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]Hrm...[PauseShort] If that's what you're thinking,\n"
+"does [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees [Color name=\"unset\"]sound fair?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"2\"]Thank you kindly![PauseShort] Is there anything else?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]Oooh, but I really want it!"
+
+msgid "Com_Talk_10"
+msgstr ""
+"Lookin' to buy\n"
+"[02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "I'll buy anything you've got.[PauseMid] Just try me!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]Thank you kindly!"
+
+msgid "Com_Talk_06"
+msgstr "Whatcha lookin' to buy?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]If it's rice you need, I'm your gal![PauseMid]\n"
+"Take your time browsing!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Thank you kindly!"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound2 id=\"14\"]Oh, so sorry![PauseShort] Looks like I'm fresh out of\n"
+"that one."
+
+msgid "Com_Talk_13"
+msgstr "How many you looking to sell?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Thank you very much!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Looks like you're a bit short on rupees.[PauseShort]\n"
+"Find me the next time I come around."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Hmm... You wanna sell [02:0F name=\"Shop_TradeItemNum\"]?[Size percent=\"80\"][PauseMid][Size percent=\"100\"]\n"
+"I can go as high as [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]Be sure to check out my rainy-day\n"
+"special: [Color name=\"red\"]Goron spice[Color name=\"unset\"].[PauseMid] It's handier than\n"
+"a Cucco on a rooftop if it's cold out!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"2\"]Your business made it worth walking all\n"
+"the way out here!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Looks like your bag is a mite full.[PauseMid]\n"
+"Just sell or toss a few things to free\n"
+"up some space."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]I couldn't possibly buy that from you."
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Here, take this.[PauseShort] It's a token of\n"
+"my gratitude."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]I can't literally buy the clothes off your\n"
+"back. Go ahead and change first.[PauseLong]\n"
+"Don't worry, I ain't peekin'!"
+
+msgid "RetMSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]This here donkey's been carrying all this\n"
+"wheat and rice for days.[PauseMid] If only I could\n"
+"lighten his load, even just a mite!"
+
+msgid "Com_Talk_30"
+msgstr "Well, [02:0F name=\"Shop_TradeItemNum\"] will cost ya [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "How many can I do ya for?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "RetMSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If you're fixin' to travel west beyond\n"
+"the [Color name=\"blue\"]Tabantha Great Bridge[Color name=\"unset\"], you'd best\n"
+"be wary of what's over there.\n"
+"These ancient weapons, some sort of\n"
+"[Color name=\"red\"]flying Guardians[Color name=\"unset\"], have been a real\n"
+"menace to travelers that far out."
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]I'll just wait here until the monsters go\n"
+"away on their own..."
+
+msgid "Com_Talk_33"
+msgstr ""
+"Just one?[PauseShort] I'll buy it for [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
+"Sound fair?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound1 unk1=\"0\" unk2=\"0\"]This ain't much my business, but...[PauseShort]\n"
+"I heard there's some treasure hidden\n"
+"in Hyrule Castle."
+
+msgid "RetMSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If you ever cross [Color name=\"blue\"]Tabantha Great Bridge[Color name=\"unset\"],\n"
+"keep your ears open for a right ghastly\n"
+"voice echoing from the valley below.\n"
+"They say a Goron once lost his footing\n"
+"and fell off that bridge, all the way\n"
+"down into [Color name=\"blue\"]Tanagar Canyon[Color name=\"unset\"].[Sound1 unk1=\"11\" unk2=\"0\"]\n"
+"And they say that his ghost...[PauseLong]\n"
+"haunts all who cross the bridge![PauseLong]\n"
+"Mwahahahaaaa!"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]I think I'd better just stay here."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Well, well...I may close early today.\n"
+"I've got [02:0F name=\"Shop_TradeItemNum\"], so that'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound1 unk1=\"0\" unk2=\"0\"]If you ever cross [Color name=\"blue\"]Tabantha Great Bridge[Color name=\"unset\"],\n"
+"keep your ears open for a right ghastly\n"
+"voice echoing from the valley below.\n"
+"They say a Goron once lost his footing\n"
+"and fell off that bridge, all the way\n"
+"down into [Color name=\"blue\"]Tanagar Canyon[Color name=\"unset\"]."
+
+msgid "RetMSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Say, do you have any...[PauseMid]expensive metal\n"
+"gear on you?[PauseLong]\n"
+"Wait, what?\n"
+"[Sound1 unk1=\"10\" unk2=\"21\"]No, no, it's not like that!\n"
+"It's just, lightning strikes these here\n"
+"parts pretty often, you see?\n"
+"So if you hear a rumblin' up in the sky,\n"
+"you'd best be unequipping any metal\n"
+"gear. That's all I was meanin'!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"I'll give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"] for the lot.\n"
+"Sound fair?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]♪Ooohhh, Hyrule Castle tooown![PauseMid]\n"
+"There's treasure to be foooound!♪\n"
+"\n"
+"Oh, this song?[PauseMid] Some singin' traveler\n"
+"wandered past and I've had it stuck in\n"
+"my head since! No idea what it means..."
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Phew, that was the last of them.\n"
+"I'm glad you bought me out!"
+
+msgid "RetMSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]This here donkey clip-clopped his way\n"
+"from [Color name=\"blue\"]Tabantha Bridge Stable[Color name=\"unset\"], full bags on\n"
+"his back every clippin'-clop of the way.\n"
+"I can't help but feel bad for the guy.[PauseShort]\n"
+"If only I could lighten his load, even\n"
+"just a mite!"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Phew... You saved me."
+
+msgid "Com_Talk_05b"
+msgstr "Just leave the buying to me!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]Thank you much!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Sorry, looks like I'm all sold out for the\n"
+"day.[PauseMid] Want a sneak peek of what I'll\n"
+"have in stock next time?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Oh, hey![PauseMid] Got enough foodstuffs for your\n"
+"journey?[PauseMid] Best not tempt runnin' low, so\n"
+"why not take a look at what I've got?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Much obliged."
+
+msgid "Com_Talk_05c"
+msgstr ""
+"I'll be more than glad to buy anything\n"
+"you don't want."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Much obliged!"
+
+msgid "MSG_Kyu_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]I'm passing through [Color name=\"blue\"]Serenne Stable[Color name=\"unset\"] on\n"
+"my way to [Color name=\"blue\"]Snowfield Stable[Color name=\"unset\"] myself."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Fixin' on anything else?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "I'll buy anything.[PauseMid] Seriously!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]Thank you!"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]I'm a donkey-totin' merchant, ya see,\n"
+"specializin' in all sorts of grain.[PauseShort] Peddlin'\n"
+"rice for rice fans, wheat for bread fans!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Rain ain't welcome by most travelin'\n"
+"merchants, ya see.[PauseMid] But it ain't all bad.[PauseShort]\n"
+"Gives us a chance to take a rest!"
+
+msgid "5500"
+msgstr "Sounds good!"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]I ain't mindin' the rain. Gettin' a little wet\n"
+"ain't never hurt anyone.[PauseShort] It's the lightning\n"
+"you best be lookin' out for.\n"
+"Especially if you're wearin' metal!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Just one, is that right?\n"
+"That'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. Sound good?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Maybe not..."
+
+msgid "0000"
+msgstr "Fixin' to buy."
+
+msgid "5502"
+msgstr "I'll take it."
+
+msgid "0001"
+msgstr "Lookin' to sell."
+
+msgid "5503"
+msgstr "On second thought..."
+
+msgid "0002"
+msgstr "Not right now."
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]♪La-la-la, da-donkey.♪"
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]You saved me...[PauseMid] Not sure how I can repay\n"
+"you, though."
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]♪Donkey-dee, la-la-la.♪"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Nice and safe again thanks to you."
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]♪Tra-li-la, da-donkey.♪"
+
+msgid "MSG_Kyu_04_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]Sure is a cold one, ain't it?\n"
+"\n"
+"\n"
+"The trip from [Color name=\"blue\"]Serenne Stable [Color name=\"unset\"]to\n"
+"[Color name=\"blue\"]Snowfield Stable[Color name=\"unset\"] always gets me. The\n"
+"change in weather is so drastic!"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]♪La-li-lu-li, da-donkey.♪"
+
+msgid "5507"
+msgstr "I'll take 'em all!"
+
+msgid "RetMSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]So if you hear a rumblin' up in the sky,\n"
+"you'd best be unequipping any metal\n"
+"gear. Armor, swords, and the like!"
+
+msgid "Near04"
+msgstr "[Sound2 id=\"24\"]♪Li-li, rain, da-donkey.♪"
+
+msgid "5508"
+msgstr "I'll sell them all!"
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]A [Color name=\"blue\"]Guardian[Color name=\"unset\"]... We need to hightail it\n"
+"while we can!"
+
+msgid "MSG_Kyu_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Say, are you a traveler too?[PauseMid]\n"
+"Where you headed?\n"
+"\n"
+"I'm passing through [Color name=\"blue\"]Serenne Stable[Color name=\"unset\"] on\n"
+"my way to [Color name=\"blue\"]Snowfield Stable[Color name=\"unset\"] myself."
+
+msgid "MSG_Kyu_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]You'd best unequip your metal gear\n"
+"when there's a lightning storm a-brewin'.\n"
+"At least, that's what they say!"
+
+msgid "MSG_Kyu_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Maybe you're already knowin' this, but...[PauseMid]\n"
+"lightning strikes ain't exactly uncommon\n"
+"around these here parts.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]You'd best unequip your metal gear\n"
+"when there's a lightning storm a-brewin'.\n"
+"At least, that's what they say!"
+
+msgid "MSG_Kyu_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]My donkey is plum tuckered out, so\n"
+"I'm fixin' to spend a few nights at\n"
+"this here stable."
+
+msgid "MSG_Kyu_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]This ain't much my business, but...[PauseShort]\n"
+"I heard there's some treasure hidden\n"
+"in Hyrule Castle.\n"
+"Treasure hunting ain't much my thing,\n"
+"but you look like the adventuring sort.\n"
+"Thought you'd hanker a know!"
+
+msgid "MSG_Kyu_04"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"42\"]*shiver...*\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"3\" unk2=\"1\"]N-n-no, I'm not scared.[PauseMid]\n"
+"I'm c-c-cold.\n"
+"\n"
+"The trip from [Color name=\"blue\"]Serenne Stable [Color name=\"unset\"]to\n"
+"[Color name=\"blue\"]Snowfield Stable[Color name=\"unset\"] always gets me. The\n"
+"change in weather is so drastic!"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Phew, you're stronger than you look!"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]You saved me? I don't know what to say.[PauseMid]\n"
+"Except...[PauseLong]sorry I interrupted your journey."
+
+msgid "RetMSG_Kyu_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"26\"]♪Ooohhh, Hyrule Castle tooown![PauseMid]\n"
+"There's treasure to be foooound!♪"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Thanks for stoppin' by.\n"
+"See you down the road!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]That had me so scared I reckoned my\n"
+"legs wouldn't be movin' again!"
+
+msgid "MSG_Kyu_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]My donkey is plum tuckered out, so\n"
+"I'm fixin' to spend a few nights at\n"
+"this here stable."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAEMBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAANACAADqAgAABAMAAB4DAAA4AwAAUgMAAGwDAACGAwAAoAMAALoDAADUAwAA7gMAAAgEAAAiBAAAPAQAAFYEAABwBAAAigQAAKQEAAC+BAAA2AQAAPIEAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

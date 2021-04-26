@@ -1,0 +1,253 @@
+#, ruby
+msgid "Appear16"
+msgstr ""
+"その代り 祠探しのコツを教えてやろう\n"
+"\n"
+"祠に限らず ものを探すには\n"
+"[Color name=\"red\"]高いところから見回す[Color name=\"unset\"] のが一番じゃ\n"
+"[Sound2 id=\"14\"]そうじゃのう…"
+
+#, ruby
+msgid "Kotsu01"
+msgstr ""
+"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の [Color name=\"blue\"]マップ[Color name=\"unset\"]を開いて\n"
+"青い印のついた 塔を選ぶのじゃ\n"
+"[Sound2 id=\"7\"]さすれば 瞬時に そこまで移動できるそうな…[PauseMid]\n"
+"試してみるといいじゃろう"
+
+#, ruby
+msgid "Appear17"
+msgstr "もう一度 さっきの塔に登ってみたらどうじゃ？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Appear18"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]慌てるでない[PauseMid]\n"
+"もうひとつ いいことを教えてやろう"
+
+#, ruby
+msgid "1000"
+msgstr "詳しいね"
+
+#, ruby
+msgid "Appear19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]慌てるでない[PauseMid]\n"
+"もうひとつ いいことを教えてやろう"
+
+#, ruby
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]塔の上まで ワープしてみることじゃ[PauseMid]\n"
+"そこから眺めれば 祠などすぐに見つかるぞ[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "さようなら"
+
+#, ruby
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]ほれ 残りの祠を探すため 塔に登るのじゃ[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "どうしたらいい？"
+
+#, ruby
+msgid "TerrorBomb"
+msgstr "何じゃ？"
+
+msgid "TerrorEnemy"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "Appear01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]どうやら [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたようじゃな…[PauseMid]\n"
+"まずは よくやったと誉めてやろう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Appear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"][Size percent=\"125\"]千里眼[Size percent=\"100\"][PauseMid] …というやつじゃ"
+
+#, ruby
+msgid "TerrorArrow"
+msgstr "何をする！"
+
+#, ruby
+msgid "Appear03"
+msgstr ""
+"歳を取ると 目の前の物は見え難くなるが[PauseMid]\n"
+"逆に 隠された物が見通せるようになるのじゃ"
+
+#, ruby
+msgid "Appear04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]誰にでも身につくもの ではないがのう[PauseMid]\n"
+"ふぉっ ふぉっ ふぉっ"
+
+#, ruby
+msgid "Appear05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]待て待て まずは と言ったろう…[PauseMid]\n"
+"気が早いヤツじゃ"
+
+#, ruby
+msgid "Appear06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]しかし 塔の出現といい この祠といい\n"
+"全ては お主の腰のそれ…"
+
+msgid "0000"
+msgstr "どうしてそれを…"
+
+#, ruby
+msgid "Appear07"
+msgstr "[Sound2 id=\"14\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]とやらに 縁があるようじゃな[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "パラセールは？"
+
+#, ruby
+msgid "Appear08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]と聞いて\n"
+"わしも 思い出したのじゃが…"
+
+msgid "0002"
+msgstr "どういうこと？"
+
+#, ruby
+msgid "Appear09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"][Size percent=\"125\"]人の話を聞けい！[Size percent=\"100\"]"
+
+#, ruby
+msgid "Appear20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の [Color name=\"blue\"]マップ[Color name=\"unset\"]を見るがいい"
+
+#, ruby
+msgid "0003"
+msgstr "話が違う！"
+
+#, ruby
+msgid "Appear21"
+msgstr ""
+"[Sound2 id=\"2\"]お主が 出てきた この祠\n"
+"そして 塔にも[Color name=\"blue\"]青い印[Color name=\"unset\"]がついておるじゃろう？"
+
+msgid "TerrorImpulse"
+msgstr "ひぃーっ！"
+
+msgid "TerrorInsect"
+msgstr "ひぃーっ！"
+
+#, ruby
+msgid "0004"
+msgstr "増えた…？"
+
+#, ruby
+msgid "Appear22"
+msgstr ""
+"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の力を使えば\n"
+"その場所にワープできる… と聞いたことがある"
+
+msgid "0005"
+msgstr "ウソ…でしょ？"
+
+#, ruby
+msgid "Appear23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]と言うても 昔の話じゃ…[PauseMid]\n"
+"嘘か真かは わからんがな"
+
+msgid "0006"
+msgstr "わかった！"
+
+msgid "ClearTerrorEnemy"
+msgstr "むう…"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+msgid "TerrorExplosion"
+msgstr "ぬわーっ！"
+
+#, ruby
+msgid "NakedPlayer"
+msgstr "裸とな…"
+
+msgid "TerrorSword"
+msgstr "やめんか！"
+
+msgid "TerrorGuardian"
+msgstr "ガーディアンじゃっ！"
+
+msgid "TerrorFire"
+msgstr "あちゃっ"
+
+#, ruby
+msgid "ClearTerrorGuardian"
+msgstr "危なかったのう…"
+
+#, ruby
+msgid "Appear10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]その昔 この地にはシーカー族という\n"
+"高度な文明を持った民がおってな…\n"
+"その叡智の力によって この地を幾度となく\n"
+"脅かした厄災を払ったそうじゃ"
+
+#, ruby
+msgid "Appear11"
+msgstr ""
+"彼の文明は遥か昔に絶えた… と聞いていたが[PauseMid]\n"
+"まさか こんな祠に隠されておったとはな…"
+
+#, ruby
+msgid "Appear12"
+msgstr ""
+"[Sound2 id=\"0\"]よいか[PauseMid]\n"
+"こうした祠は この地に いくつも存在する"
+
+#, ruby
+msgid "Appear13"
+msgstr ""
+"この台地にも あと[Color name=\"red\"]3つ[Color name=\"unset\"]ほどあったはずじゃ\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]その全ての祠で [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたとき[PauseMid]\n"
+"お主に [Color name=\"blue\"]パラセール[Color name=\"unset\"]を渡してやろう[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Appear14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]うむ… 少し気が変わってのう[PauseMid]\n"
+"だが お主であれば そう大したことでもあるまい"
+
+#, ruby
+msgid "GoodBye00"
+msgstr "早う 行け"
+
+#, ruby
+msgid "Appear15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]わしは お宝とは言ったが 1つとは言っておらん[PauseMid]\n"
+"お主であれば 1つも4つも そう変わるまいて"
+
+#, ruby
+msgid "Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"年寄りは 何でも知っておるものじゃ\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]ほれ さっそく試してみんか？"
+
+#, ruby
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHwBQAAAAAAADQAAAAEAAAA2AAAAAIBAAAEAQAABgEAADABAABaAQAAhAEAAK4BAADYAQAAAgIAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAACAwAABAMAAC4DAABYAwAAggMAAKwDAACuAwAAsAMAANoDAAAEBAAALgQAAFgEAACCBAAArAQAANYEAAAABQAAAgUAAAQFAAAGBQAAMAUAAFoFAACEBQAArgUAANgFAADaBQAA3AUAAN4FAADgBQAA4gUAAOQFAADmBQAA6AUAAOoFAADsBQAA7gUAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

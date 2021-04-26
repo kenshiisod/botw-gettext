@@ -1,0 +1,286 @@
+msgid "FirstTalk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]그럼 이번에는 내 차례네[PauseShort]\n"
+"뭐 사고 싶은 거 없어?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "역시 그만둔다"
+
+msgid "5507"
+msgstr "모두 산다"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]어디 보여줘 봐"
+
+msgid "5508"
+msgstr "모두 판다"
+
+msgid "FirstTalk00_Rain"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]안녕, 여행 중인가?[PauseShort]\n"
+"비가 이렇게 오니 쫄딱 젖겠네\n"
+"나는 행상인이고 이름은 기로쵸라고 해[PauseShort]\n"
+"잘 부탁해\n"
+"[Sound1 unk1=\"5\" unk2=\"1\"]요즘 같이 흉흉한 때…[PauseShort]\n"
+"직접 숲에 들어가서 팔 물건을 모으고 있는데\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]더 안전한 방법이 없는 것도 아니야[PauseShort]\n"
+"그건 바로 여행자에게서 매입하는 것이지\n"
+"너…[PauseShort] 뭐 희귀한 거 없어?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 판다고?\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "팔고 싶어"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]오케이, 고마워"
+
+msgid "0001"
+msgstr "딱히…"
+
+msgid "Com_Talk_20"
+msgstr ""
+"이런 날씨에 모험을 강행하다니[PauseShort]\n"
+"뭐 소풍도 아니고 당연한가\n"
+"[Sound2 id=\"9\"]그 의지에 경의를 표하는 뜻으로\n"
+"아주 스페셜한 물건을 보여 줄게!"
+
+msgid "0002"
+msgstr "보여줘"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"2\"]어, 그렇구나"
+
+msgid "0003"
+msgstr "없어"
+
+msgid "Com_Talk_05"
+msgstr "뭐든지 매입할게"
+
+msgid "0004"
+msgstr "사고 싶어"
+
+msgid "Com_Talk_05b"
+msgstr "천천히 골라도 돼"
+
+msgid "Com_Talk_06"
+msgstr "뭐 사고 싶은 거 있어?"
+
+msgid "0005"
+msgstr "팔고 싶어"
+
+msgid "Com_Talk_05c"
+msgstr "오케이, 매입은 맡겨만 둬!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]미안하지만 그건 품절이야"
+
+msgid "0006"
+msgstr "안녕히"
+
+msgid "Com_Talk_05d"
+msgstr "뭘 팔아 줄건데?"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]루피가 부족한걸[PauseShort]\n"
+"미안하지만 할인은 안 돼"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]주머니가 꽉 찼네[PauseShort]\n"
+"빈 공간을 만들고 다시 사러 와줘"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"17\"]누구야?"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]오케이, 알았어[PauseShort]\n"
+"모험 중에 귀중한 시간 내 줘서… 고마워\n"
+"이 길도 몬스터가 눈에 띄게 늘어나서\n"
+"이렇게 숲을 걸을 때도 목숨을 걸어야 해\n"
+"너도 조심해라"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"0\"]안녕"
+
+msgid "GoodBye01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]오케이, 다음에도 부탁해"
+
+msgid "Near02"
+msgstr "Zzz... Zzz..."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]도움이 많이 됐어… 고마워"
+
+msgid "Com_Talk_10"
+msgstr "[02:0C name=\"Shop_SelectItemName\"][C9:07 bytes=\"020044C702007CB9\"] 산다고?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Axe00"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]이봐[PauseShort]\n"
+"내 도끼 어디로 가져갈 셈이야?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]고마워"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]고마워!"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]아, 너구나[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Axe01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]오케이, 너 줄게[PauseShort]\n"
+"불러 세워서 미안하다\n"
+"요즘 같이 흉흉한 때…[PauseShort]\n"
+"떨어진 걸 주워 가도 아무도 뭐라 안 해\n"
+"정말 중요한 물건이면\n"
+"손에 갖고 있거나 어디 넣어 두겠지"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"7\"]오케이, 다음에도 부탁해"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"9\"]자신있게 추천하는 라인업이야\n"
+"천천히 구경해!"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]더 필요한 거 있어?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Axe02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]아무튼…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"2\"]나는 행상인이고 이름은 기로쵸라고 해[PauseShort]\n"
+"잘 부탁해\n"
+"보다시피 이렇게 숲에서\n"
+"팔 물건을 모으고 있어\n"
+"여행자들한테서 매입도 하고 있는데[PauseShort]\n"
+"너… 뭐 희귀한 거 없어?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] 말이지?\n"
+"몇 개 팔건데?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020074C7020000AC\"] [02:0F name=\"Shop_TradeItemNum\"]개면\n"
+"총 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데 어때?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]이른 시간에 수고 많아"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020074C7020000AC\"] [02:0F name=\"Shop_TradeItemNum\"]개면\n"
+"총 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 산다고?\n"
+"몇 개 필요해?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]안녕, 또 만났네"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]그건 내가 매입할 수 없어"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]늦은 시간까지 고생이네"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"14\"]입고 있는 옷은 벗은 다음에 팔아 줘"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나?[PauseShort]\n"
+"그럼 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]야[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]비가 그칠 때까지 잠깐 쉬어야지"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 전부 다?[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]개에 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데 어때?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]난 몬스터 만큼이나 번개가 무서워…\n"
+"나한테 오지 말아라 오지 말아라"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] [02:0F name=\"Shop_TradeItemNum\"]개 전부?\n"
+"총 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]에 매입해도 될까?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]이런, 깜빡 졸았네"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]오케이, 이게 마지막이야\n"
+"많이 사 줘서 고마워!"
+
+msgid "Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]자, 어떻게 할래?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"2\"]네 덕분에 오늘은 팔 게 없어[PauseShort]\n"
+"입고예정 상품이라도 보고 갈래?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]오케이, 고마워"
+
+msgid "5500"
+msgstr "예"
+
+msgid "FirstTalk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]안녕, 여행 중인가?[PauseShort]\n"
+"괜찮다면 불 좀 쬐다 가\n"
+"나는 행상인이고 이름은 기로쵸라고 해[PauseShort]\n"
+"잘 부탁해\n"
+"[Sound1 unk1=\"5\" unk2=\"1\"]요즘 같이 흉흉한 때…[PauseShort]\n"
+"직접 숲에 들어가서 팔 물건을 모으고 있는데\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]더 안전한 방법이 없는 것도 아니야[PauseShort]\n"
+"그건 바로 여행자에게서 매입하는 것이지\n"
+"너…[PauseShort] 뭐 희귀한 거 없어?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]고마워, 오케이"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"][C9:07 bytes=\"020044C702007CB9\"] 하나?[PauseShort]\n"
+"그럼 [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]루피[Color name=\"unset\"]인데 어때?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "아니요"
+
+msgid "FirstTalk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]응, 오케이[PauseShort]\n"
+"그럼 뭐 사고 싶은 거 없어?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]고마워!"
+
+msgid "5502"
+msgstr "산다"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAFaBQAAAAAAAEQAAAAEAAAAGAEAADwBAABgAQAAYgEAAGQBAACIAQAArAEAAK4BAACwAQAA1AEAAPgBAAD6AQAA/AEAAP4BAAAiAgAARgIAAGoCAACOAgAAsgIAANYCAAD6AgAAHgMAAEIDAABmAwAAigMAAK4DAADSAwAA9gMAABoEAAAcBAAAHgQAACAEAAAiBAAAJAQAACYEAAAoBAAAKgQAACwEAAAuBAAAMAQAADIEAAA0BAAANgQAADgEAAA6BAAAPAQAAD4EAABABAAAQgQAAEQEAABGBAAAZgQAAIYEAACmBAAAxgQAAOYEAAAGBQAAJgUAAEYFAABIBQAASgUAAEwFAABOBQAAUAUAAFIFAABUBQAAVgUAAFgFAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADcAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADcAAAAAAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA3AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA3AAAAAAAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAAAAAAAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAANwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

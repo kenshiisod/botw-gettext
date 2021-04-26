@@ -1,0 +1,228 @@
+msgid "Near001"
+msgstr "芭～薩～庫。"
+
+msgid "Near002"
+msgstr "這裡有神奇的蘑菇哦～"
+
+msgid "Com_Talk_13"
+msgstr ""
+"要賣[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]對吧？\n"
+"……那我該收購幾個好呢？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]……\n"
+"總共是……[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]那東西……我這沒辦法收購耶。"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"10\"]你穿著的裝備我可沒興趣喔。"
+
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"27\"]薩伯塔！[PauseLong]\n"
+"客人一早就很有精神呢。[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"29\"]薩芭薩芭！\n"
+"\n"
+"氣溫變得涼爽些了呢。\n"
+"蘑菇在晚上就會變得有精神，\n"
+"慢慢看吧。[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]這是只有美女\n"
+"才看得見的神奇蘑菇哦～\n"
+"……[PauseLong]\n"
+"[Sound1 unk1=\"0\" unk2=\"19\"]仔細一看，是美女妳呀？\n"
+"因為妳上次把商品通通～買光，\n"
+"我沒東西可賣了，\n"
+"所以才這樣蒙混客人啦。[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "請收購東西"
+
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]偷偷跟妳說……[PauseLong]\n"
+"\n"
+"其實蘑菇呀，\n"
+"好像是世上最大的生物哦。\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]蘑菇還真是深奧呢……\n"
+"\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]但它實在太深奧了，\n"
+"阿姨不是很懂就是了……[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "0002"
+msgstr "再見"
+
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]我還會再進蘑菇的，\n"
+"如果賺到錢，還請再來光臨哦。"
+
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]薩庫薩庫！\n"
+"要多吃點才會長大哦！"
+
+msgid "0003"
+msgstr "買"
+
+msgid "Com_Talk_33"
+msgstr ""
+"1個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]哦，要賣嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]薩庫薩庫！\n"
+"\n"
+"需要鍋子的話，就去使用共同廚房吧。\n"
+"只要是芭伊，誰都能使用呢。\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]不過，\n"
+"這裡也只有芭伊就是了。"
+
+msgid "0004"
+msgstr "再見"
+
+msgid "Com_Talk_05b"
+msgstr "沒有其他東西了嗎？"
+
+msgid "Talk_17"
+msgstr "[Sound1 unk1=\"1\" unk2=\"28\"]薩芭庫！[PauseLong]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"22\"]總之先讓我看看吧。"
+
+msgid "Com_Talk_05c"
+msgstr ""
+"趁這個機會，\n"
+"一口氣都賣一賣吧。"
+
+msgid "Com_Talk_35"
+msgstr ""
+"要將[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全賣了嗎？\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，如何呢？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_18"
+msgstr "[Sound1 unk1=\"1\" unk2=\"29\"]薩芭薩芭！[PauseLong]"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]的話……\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以的話我就收購哦。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"只要能收購的，\n"
+"我全都收購哦！"
+
+msgid "Talk_19"
+msgstr "[Sound1 unk1=\"1\" unk2=\"30\"]芭薩庫！[PauseLong]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]薩庫薩庫。"
+
+msgid "Com_Talk_04"
+msgstr ""
+"[Sound2 id=\"4\"]搞什麼……\n"
+"拜託快點啊。"
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0B name=\"PlacedItemName\"][Color name=\"unset\"]是[Color name=\"red\"][02:10 name=\"PlacedItemPrice\"]盧比[Color name=\"unset\"]，[PauseLong]\n"
+"如何？很便宜對吧？[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]這東西真不錯，\n"
+"薩庫薩庫。"
+
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]那麼……\n"
+"妳還有其他想讓我收購的東西嗎？"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]呵呵，薩庫薩庫。"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]薩庫薩庫，\n"
+"妳讓我進了不錯的商品呢。"
+
+msgid "5500"
+msgstr "好"
+
+msgid "Com_Talk_53"
+msgstr ""
+"[Sound2 id=\"10\"]哎呀，不買了嗎？\n"
+"真是可惜呢。"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"28\"]薩芭庫！[PauseLong]\n"
+"\n"
+"今天也很熱呢。[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "買"
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]如果賺到錢，\n"
+"也看看我們的蘑菇吧。"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]偷偷跟妳說，\n"
+"格魯德的美麗肌膚就是這個蘑菇打造的哦，\n"
+"既然到了格魯德小鎮，\n"
+"這位美女，妳不買這個可就虧大了哦～"
+
+msgid "Talk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]神獸平靜下來了，\n"
+"我想小鎮也會重新恢復活力，\n"
+"這下得好好幹活了呢。[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"27\"]薩伯塔！[PauseLong]"
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]薩庫薩庫！"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]美女妳雖然瘦瘦小小，卻口袋飽飽呢。\n"
+"\n"
+"不過蘑菇很健康，\n"
+"所以多吃點也沒關係哦。"
+
+msgid "5508"
+msgstr "全賣了"
+
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]哎呀，客人，\n"
+"妳還有什麼事嗎？[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHCAwAAAAAAADEAAAAEAAAAzAAAAOYAAAAAAQAAGgEAABwBAAAeAQAAOAEAAFIBAABsAQAAhgEAAKABAAC6AQAA1AEAAO4BAAAIAgAAIgIAADwCAABWAgAAcAIAAIoCAACkAgAApgIAAKgCAADCAgAA3AIAAN4CAADgAgAA4gIAAOQCAADmAgAABgMAACYDAABGAwAAZgMAAIYDAACIAwAAigMAAIwDAACOAwAAkAMAAJIDAACUAwAAlgMAALYDAAC4AwAAugMAALwDAAC+AwAAwAMAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAAAAAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

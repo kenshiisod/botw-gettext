@@ -1,0 +1,258 @@
+msgid "0044"
+msgstr "Je vais essayer."
+
+msgid "0010"
+msgstr "Le grand mur..."
+
+msgid "0045"
+msgstr "Pas maintenant."
+
+msgid "0011"
+msgstr "Le grand four..."
+
+msgid "0012"
+msgstr "La grande tour..."
+
+msgid "0013"
+msgstr "La grande cour..."
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Si j'étais un chevalier formé aux arts\n"
+"de la guerre,[PauseShort] j'irais régler son compte\n"
+"à cette créature sans perdre un instant!"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]Comment ça tu ne me le fais pas dire?\n"
+"[PauseShort]Tu ne vois pas que c'est de toi que\n"
+"je parle?"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"1\"]Tu n'as pas remarqué ce monstre qui\n"
+"vole au-dessus de nous, [Color name=\"blue\"]Vah'Medoh[Color name=\"unset\"]?\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]À cause de cette créature, les habitants\n"
+"du village vivent dans la peur."
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]ZZZzzz..."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hmmf..."
+
+msgid "0030"
+msgstr "... du soleil"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"20\"]Alors, comme ça, ma sœur Della t'a dit\n"
+"de me demander les paroles du second\n"
+"couplet de la chanson du village?\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Quelle tête de linotte, celle-là...\n"
+"Je n'arrête pas de lui rafraîchir\n"
+"la mémoire!\n"
+"Bon, je veux bien te chanter notre\n"
+"chanson,[PauseLong] mais à une condition!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]Prouve-moi d'abord que tu sauras la\n"
+"retenir.[PauseShort] Récite-moi le premier couplet\n"
+"que ma sœur t'a chanté.[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near01"
+msgstr "Cui..."
+
+msgid "0031"
+msgstr "... de la lune"
+
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux que je te chante le deuxième\n"
+"couplet de la chanson du village?\n"
+"\n"
+"Alors, récite-moi la première partie\n"
+"sans t'emmêler les pédales.[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near02"
+msgstr "♪... La grande tour... ♪"
+
+msgid "0032"
+msgstr "... de la brume"
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Tu n'as pas vraiment la fibre musicale,\n"
+"c'est ça?"
+
+msgid "near03"
+msgstr "..."
+
+msgid "0033"
+msgstr "... de l'aigle"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Très bien, je t'écoute.[Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "near04"
+msgstr "ZZZzzz..."
+
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Tu n'es pas venu jusqu'ici pour admirer\n"
+"le paysage, n'est-ce pas? Tu veux\n"
+"entendre la chanson du village?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Oui!"
+
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]Tu veux que je te chante la chanson\n"
+"de notre village?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Non"
+
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Tu insistes tellement que j'ai bien envie\n"
+"de te dire non! [PauseLong]Mais allez, d'accord."
+
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"] ♪ La grande tour des Piafs, aussi noire\n"
+"que le jais,[Pause frames=\"20\"] au zénith du soleil[Pause frames=\"20\"] montre\n"
+"sa vraie nature  ♪[Pause frames=\"5\"]"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Et voilà, tu l'as entendue en entier.[PauseMid]\n"
+"C'est profond, pas vrai? Ça fait\n"
+"réfléchir."
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Bonjour."
+
+msgid "0005"
+msgstr "De quoi tu parles?"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Salut."
+
+msgid "0006"
+msgstr "J'te le fais pas dire."
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Bonsoir."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]OK."
+
+msgid "0020"
+msgstr "aussi rouge..."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]Mais tu es presque tout nu!\n"
+"\n"
+"\n"
+"N'approche pas ou j'appelle à l'aide!"
+
+msgid "0021"
+msgstr "aussi bleue..."
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]J'ai fini ma journée.[PauseLong] Repasse me voir\n"
+"demain."
+
+msgid "0022"
+msgstr "aussi blanche..."
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Et dire que dans une période pareille...\n"
+"[PauseShort]il se trouve encore des touristes en mal\n"
+"d'émotion pour venir nous rendre visite.[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0023"
+msgstr "aussi noire..."
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]De quoi je parle?"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]Vah'Medoh [Color name=\"unset\"]a plongé notre village dans\n"
+"l'angoisse."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Maintenant que [Color name=\"blue\"]Vah'Medoh [Color name=\"unset\"]est apaisée,\n"
+"le village a retrouvé la sérénité."
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Comme on peut à nouveau arpenter\n"
+"le ciel en toute sécurité, chacun ici\n"
+"prépare ses prochaines vacances!"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Désolée, mais tu t'es trompé.[PauseLong] Reviens\n"
+"quand tu connaîtras le premier couplet\n"
+"par cœur."
+
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]« ... des Piafs », c'est ça.[PauseLong] Et ensuite?[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]« ... que le jais », tout à fait.[PauseLong]\n"
+"La suite, « au zénith... »?[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0040"
+msgstr "... son vrai calcul."
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]C'est ça.[PauseLong] Et le dernier vers? [PauseLong]\n"
+"« Montre... »[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0041"
+msgstr "... sa vraie nature."
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hmm...[PauseShort] tu as bien mémorisé les paroles.\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]Chose promise, chose due![PauseLong] Je vais\n"
+"te chanter le deuxième couplet."
+
+msgid "0042"
+msgstr "... sa vraie valeur."
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]♪ Mais le cœur de la tour, pétrifié de\n"
+"sommeil,[Pause frames=\"20\"] seules les flammes réveillent\n"
+"[Pause frames=\"20\"]par leur vive morsure ♪[Pause frames=\"5\"]"
+
+msgid "0043"
+msgstr "... sa vraie parure."
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Voilà, c'était le deuxième couplet de\n"
+"notre chanson.[PauseMid]\n"
+"\n"
+"Cela fait réfléchir, n'est-ce pas?[PauseShort]\n"
+"Aujourd'hui plus encore que d'habitude."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAG8BgAAAAAAADoAAAAEAAAA8AAAABgBAABAAQAAaAEAAJABAACSAQAAlAEAAJYBAACYAQAAmgEAAJwBAACeAQAAoAEAAKIBAACkAQAApgEAAKgBAACqAQAArAEAAK4BAACwAQAAsgEAALQBAAC2AQAAuAEAALoBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAATAMAAHQDAACcAwAAxAMAAOwDAAAUBAAAPAQAAGQEAACMBAAAtAQAANwEAAAEBQAALAUAAFQFAAB8BQAApAUAAMwFAAD0BQAAHAYAAEQGAABsBgAAlAYAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

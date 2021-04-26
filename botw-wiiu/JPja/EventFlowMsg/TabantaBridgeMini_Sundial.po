@@ -1,0 +1,132 @@
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]ねぇ君！[PauseMid] 君なら あの塔にも登れそうだし…[PauseMid][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]僕の代わりに [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまへ\n"
+"おふせのルピーを お供えしてくれないかな？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]いやぁ ありがとう！\n"
+"君にお願いして 正解だったよ！！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]君は [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに お会いできたんだよね？\n"
+"うらやましいなぁ…\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]けど いいんだ！ 僕は [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに\n"
+"おふせを することができただけでも幸せさ！\n"
+"本当に ありがとうね！[Choice1 label=\"3\"]"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]ありがとう！[PauseShort] それじゃあ\n"
+"僕が貯めた [Color name=\"red\"]500ルピー[Color name=\"unset\"]を預けるよ！ "
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"1\"]え？ いや 別に何も…[PauseLong]\n"
+"あ？[PauseShort] まさか お礼が欲しいなんて言わないよね？\n"
+"[Sound1 unk1=\"8\" unk2=\"14\"]僕の代わりに [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまを 拝めたんだよ？！[PauseMid]\n"
+"それ以上 何が欲しいって言うの！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]あぁ [Color name=\"blue\"]大妖精[Color name=\"unset\"]さま…[PauseMid] せめて夢の中でもいいから\n"
+"僕のところに 現れてくれないかな…？"
+
+#, ruby
+msgid "talk04"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"2\" unk2=\"1\"][Color name=\"Gray\"]持ち逃げしないでね…[Color name=\"unset\"][Size percent=\"100\"]"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]いやぁ ありがとう！\n"
+"君にお願いして 正解だったよ！！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]君は [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに お会いできたんだよね？\n"
+"うらやましいなぁ…\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]けど いいんだ！ 僕は [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに\n"
+"おふせを することができただけでも幸せさ！\n"
+"本当に ありがとうね！"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]え？ ダメ？！[PauseShort] そっか…[PauseShort] 残念…[PauseMid][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]けど 気が変わったら また声をかけてよ！[PauseShort]\n"
+"きっとだよ！！"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]いいかい？[PauseShort] [Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]の先にある塔の上から\n"
+"[Color name=\"red\"]昼過ぎに 日が影を落とす方角[Color name=\"unset\"]を見下ろすんだよ\n"
+"雨が降ってたら 影が見えにくいけど\n"
+"影が落ちる方角くらい わかるよね？[Size percent=\"80\"][PauseMid][Size percent=\"100\"]\n"
+"[Color name=\"blue\"]大妖精[Color name=\"unset\"]さまへのおふせ よろしく頼むよ"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]あ 君！[PauseShort] やっぱり [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに\n"
+"おふせを してくれる気になったのかい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]いいかい？[PauseShort] [Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]の先にある塔の上から\n"
+"[Color name=\"red\"]昼過ぎに 日が影を落とす方角[Color name=\"unset\"]を見下ろすんだよ\n"
+"[Color name=\"blue\"]大妖精[Color name=\"unset\"]さまへのおふせ よろしく頼むね"
+
+msgid "Near00"
+msgstr "大妖精さま…"
+
+#, ruby
+msgid "Near01"
+msgstr "大妖精の泉…"
+
+#, ruby
+msgid "0000"
+msgstr "引き受けた！"
+
+msgid "0001"
+msgstr "ごめんなさい…"
+
+msgid "0002"
+msgstr "もちろん！"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]おぉ君！[PauseMid] [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまに\n"
+"[Color name=\"red\"]おふせ[Color name=\"unset\"]を 渡してくれたんだね？！[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "0003"
+msgstr "何か忘れてません？"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]あ[PauseShort] ごめんごめん…[PauseMid] 考え事してて…[PauseMid][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]大妖精[Color name=\"unset\"]さまは 君も知ってるよね？[PauseShort]\n"
+"ほら 昔話にも よく出てくる [Color name=\"blue\"]大妖精[Color name=\"unset\"]さま…[PauseMid]\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]僕は [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまは きっと実在する！[PauseShort] と信じて\n"
+"旅をしながら 探しているんだ\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]最近 [Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]の先に出現した塔の上から\n"
+"[Color name=\"red\"]昼過ぎに 日が影を落とす方角[Color name=\"unset\"]を眺めると…[PauseMid]\n"
+"それはそれは美しい[Color name=\"blue\"]大妖精[Color name=\"unset\"]さまの泉が見える[PauseShort] と\n"
+"風の噂で聞いて この馬宿まで 来てみたんだ"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"12\"]けど とてもじゃないけど あんな塔\n"
+"登れそうにないよ…[PauseMid]\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]せっかく [Color name=\"blue\"]大妖精[Color name=\"unset\"]さまが 大好きっていう\n"
+"ルピーを貯めたのに…"
+
+#, ruby
+msgid "talk14"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]あぁ…[PauseShort] [Color name=\"blue\"]大妖精[Color name=\"unset\"]さま… [PauseMid][Size percent=\"100\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAHAAwAAAAAAABQAAAAEAAAAWAAAAI4AAADEAAAA+gAAAPwAAAD+AAAANAEAAGoBAACgAQAA1gEAAAwCAABCAgAAeAIAAHoCAACwAgAA5gIAAOgCAAAeAwAAVAMAAIoDAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEAQgByAGkAZABnAGUASABhAHQAYQBnAG8AMAAwADUAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEAQgByAGkAZABnAGUASABhAHQAYQBnAG8AMAAwADUAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEAQgByAGkAZABnAGUASABhAHQAYQBnAG8AMAAwADUAAAAAAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAA1AAAAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEAQgByAGkAZABnAGUASABhAHQAYQBnAG8AMAAwADUAAABOAHAAYwBfAFQAYQBiAGEAbgB0AGEAQgByAGkAZABnAGUASABhAHQAYQBnAG8AMAAwADUAAAAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBCAHIAaQBkAGcAZQBIAGEAdABhAGcAbwAwADAANQAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBCAHIAaQBkAGcAZQBIAGEAdABhAGcAbwAwADAANQAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBCAHIAaQBkAGcAZQBIAGEAdABhAGcAbwAwADAANQAAAE4AcABjAF8AVABhAGIAYQBuAHQAYQBCAHIAaQBkAGcAZQBIAGEAdABhAGcAbwAwADAANQAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,73 @@
+#, ruby
+msgid "0002"
+msgstr "盾ポーチ"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ボクちん コログの森の帰り道[PauseShort]\n"
+"思い出したかも！\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]ありがとう キミちん！[PauseLong]\n"
+"今度こそ コログの森へ帰るよ\n"
+"じゃ コログの森で また会おうね！"
+
+#, ruby
+msgid "0003"
+msgstr "結構です"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]馬宿の人の話では[PauseShort]\n"
+"この辺は [Color name=\"blue\"]中央ハイラル[Color name=\"unset\"]っていうらしいねぇ\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]キュウウン… [PauseLong]だったらコログの森は\n"
+"まだまだもっと[Color name=\"red\"]北[Color name=\"unset\"]って事だよねぇ…\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]まぁ せっかくだし[PauseShort] もう少しここで\n"
+"ゆっくりさせてもらうとするよぉ\n"
+"[Sound1 unk1=\"6\" unk2=\"19\"]あ ちょっと待って…"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]キュルン♪\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"100\"]キミちん また会ったね！\n"
+"\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]ボクちん コログの森に帰りたいんだけど\n"
+"道に迷っちゃって…"
+
+#, ruby
+msgid "0000"
+msgstr "武器ポーチ"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"19\"]クンクン…[PauseShort] このニオイ…[PauseLong] [Color name=\"blue\"]コログのミ[Color name=\"unset\"]？\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]キミちん！ [PauseLong]森の子供達から[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ[Color name=\"unset\"] 取り返してくれたんだね！\n"
+"じゃあ その[Color name=\"blue\"]コログのミ[Color name=\"unset\"] くれたら[PauseShort]\n"
+"お礼に お好きな[Color name=\"blue\"]ポーチ[Color name=\"unset\"] 大きくしてあげる♪[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0001"
+msgstr "弓ポーチ"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]クンクン…[PauseShort]\n"
+"\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]はぁ… [Color name=\"blue\"][PauseLong]コログのミ[Color name=\"unset\"]… [PauseShort]持ってないかぁ\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]キミちん [PauseLong]森の子供達から\n"
+"[PauseShort][Color name=\"blue\"]コログのミ[Color name=\"unset\"] 取り返してくれたら\n"
+"こないだみたいに お好きな[Color name=\"blue\"]ポーチ[Color name=\"unset\"]\n"
+"大きくしてあげるからネ♪"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BwAAAAHeAAAAAAAAAAkAAAAEAAAALAAAAC4AAAAwAAAAMgAAADQAAABWAAAAeAAAAJoAAAC8AAAAAAAAAAAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAFIAdgBzAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAXwBSAHYAcwAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAF8AUgB2AHMAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAFIAdgBzAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAXwBSAHYAcwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

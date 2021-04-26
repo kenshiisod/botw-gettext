@@ -1,0 +1,551 @@
+#, ruby
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]物流[Color name=\"unset\"]と言えば… [PauseShort][Color name=\"red\"]リト族[Color name=\"unset\"]なら飛び回って[PauseShort]\n"
+"いろいろ仕入れられそうなもんだが…"
+
+#, ruby
+msgid "talk81"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…目にゴミが入っただけだ"
+
+#, ruby
+msgid "talk36"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]いよいよ 村らしくしたいのだが[PauseShort]\n"
+"そのためには 物流を作らないとな\n"
+"そんな訳で よろず屋を招きたいんだが[PauseShort]\n"
+"俺達にはそのノウハウも 物流のコネも無い\n"
+"なので  [Color name=\"red\"]物流[Color name=\"unset\"]も含めて[PauseShort]\n"
+"[Color name=\"red\"]よろず屋ができそうなヤツ[Color name=\"unset\"]を探してくれないか？[Choice1 label=\"96\"]"
+
+#, ruby
+msgid "talk82"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]さて [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]だが[PauseShort] すっかり村らしくなった\n"
+"\n"
+"全てはおまえのおかげだ [PauseShort]礼を言う"
+
+#, ruby
+msgid "talk37"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]そんなに都合よく 居るもんだろうか…"
+
+#, ruby
+msgid "talk83"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここの岩をどけている時に 出たものだ\n"
+"\n"
+"俺やパウダには こういうのは必要ない[PauseLong]\n"
+"持って行け"
+
+msgid "talk38"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ありがとう"
+
+#, ruby
+msgid "talk84"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…と思ったが[PauseShort]\n"
+"[Color name=\"blue\"]ダイヤモンド [Color name=\"unset\"][Color name=\"red\"]3個[Color name=\"unset\"]は 持てないみたいだな\n"
+"売るなり捨てるなりして また来るといい"
+
+#, ruby
+msgid "talk39"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]リト族を連れてきてくれたんだな[PauseShort]\n"
+"ありがとう\n"
+"早速 開業してもらった[PauseShort]\n"
+"実家が よろず屋らしいな\n"
+"名前もペーダで 申し分ない\n"
+"\n"
+"彼自身が飛び回り 仕入れた物を売っている[PauseLong]\n"
+"また見て行くといいだろう"
+
+msgid "talk85"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おまえか"
+
+msgid "talk86"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]やぁ"
+
+#, ruby
+msgid "talk87"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]俺はここでパウダと暮らす\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]おまえは…[PauseShort]\n"
+"やる事があるんだろう？[Choice2 label1=\"26\" label2=\"27\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk88"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]だったら 早く行け\n"
+"\n"
+"おまえは 世界を股に掛ける漢[PauseLong]\n"
+"こんな小さな村に 留まる器ではないはずだ"
+
+msgid "talk89"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]そうか…[PauseLong]\n"
+"だったら ゆっくりしていくといい"
+
+#, ruby
+msgid "0091"
+msgstr "もう少しヒントを…"
+
+msgid "0092"
+msgstr "キャンセル"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゴロン族を連れてきてくれたんだな[PauseShort]\n"
+"ありがとう\n"
+"流石ゴロン族だ… [PauseShort]確かな腕っぷし[PauseLong]\n"
+"すごい勢いで 岩を撤去してくれている\n"
+"名前もグレーダとププンダで 申し分ない\n"
+"\n"
+"岩を壊したら出た[Color name=\"blue\"]鉱石[Color name=\"unset\"]を ププンダが売り始めた[PauseLong]\n"
+"また 挨拶するといいだろう"
+
+#, ruby
+msgid "0094"
+msgstr "腕っぷし？"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]もっと人を呼ぶためには 住む家が必要だ[PauseLong]\n"
+"なので [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]20本[Color name=\"unset\"] 持って来てくれないか？"
+
+#, ruby
+msgid "0095"
+msgstr "お裁縫？"
+
+#, ruby
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]20本[Color name=\"unset\"] 持って来てくれたのか？[Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0096"
+msgstr "物流？"
+
+#, ruby
+msgid "talk24"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]取り急ぎ [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]20本[Color name=\"unset\"] 持って来てくれ"
+
+#, ruby
+msgid "0097"
+msgstr "神父？"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]裁縫が上手[Color name=\"unset\"]と言えば…[PauseLong]\n"
+"[Color name=\"red\"]ゲルド族[Color name=\"unset\"]を当たれば 居るかも知れないが…"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]一日中 作業をしていたら[PauseShort]\n"
+"すぐに作業着が 傷んでしまってな…\n"
+"なので [Color name=\"red\"]裁縫が上手なヤツ[Color name=\"unset\"]を\n"
+"探してくれないか？[Choice1 label=\"95\"]"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]サクラダ社長とカツラダが[PauseShort]\n"
+"来てくれたようだが 長旅の疲れが出たようだ\n"
+"式なら 別の日にやればいい"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]おまえも今日は 休むがいい\n"
+"\n"
+"宿なら そこのカポーダの宿に行けば[PauseShort]\n"
+"タダで 泊まらせてくれるだろう"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]社長[Color name=\"unset\"]とカツラダの事を考えて[PauseShort]\n"
+"式は別の日にする"
+
+#, ruby
+msgid "talk79"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…そうだ [PauseLong]これを受け取ってくれ"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]じゃ 早速だが[PauseShort]\n"
+"人を呼ぶにも 住む家が必要だ\n"
+"なので [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]10本[Color name=\"unset\"] 持って来てくれないか？"
+
+msgid "near00"
+msgstr "よっ！"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]それだけあれば 会社の在庫と合わせて\n"
+"新しい家を建てられるはずだ"
+
+msgid "near01"
+msgstr "ほっ！"
+
+#, ruby
+msgid "talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]10本[Color name=\"unset\"] 持って来てくれたのか？[Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near02"
+msgstr "ふんっ！"
+
+#, ruby
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]その[Color name=\"blue\"][Color name=\"red\"]薪の束[Color name=\"blue\"] [Color name=\"unset\"]もらってもいいのか？[Choice2 label1=\"14\" label2=\"15\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near03"
+msgstr "やっ！"
+
+#, ruby
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]取り急ぎ [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]10本[Color name=\"unset\"] 持って来てくれ"
+
+#, ruby
+msgid "talk60"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]承知した\n"
+"\n"
+"じゃ列に並んでくれ"
+
+msgid "near04"
+msgstr "…"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]今の会社の在庫だけでは[PauseShort]\n"
+"家が建てられんのでな"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]腕っぷしが強い[Color name=\"unset\"]と言えば[PauseShort]\n"
+"[Color name=\"red\"]ゴロン族[Color name=\"unset\"]が真っ先に挙がるが…"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ここらの岩をどかして[PauseShort]\n"
+"土地を作りたい\n"
+"なので ここの岩を壊せる様な[PauseShort]\n"
+"[Color name=\"red\"]腕っぷしの強いヤツ[Color name=\"unset\"]を探してくれないか？[Choice1 label=\"94\"]"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おっと それから…"
+
+#, ruby
+msgid "0020"
+msgstr "来賓？"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]サクラダ工務店の 社是に則り[PauseShort]\n"
+"[Color name=\"red\"]名前の最後が「ダ」[Color name=\"unset\"]で終わらないと ダメだ\n"
+"世界のどこかに そんなヤツが居たら[PauseShort]\n"
+"この[Color name=\"blue\"]イチカラ村[Color name=\"unset\"]に来るよう言ってくれ"
+
+msgid "0021"
+msgstr "なるほど"
+
+msgid "0022"
+msgstr "もちろん！"
+
+#, ruby
+msgid "0023"
+msgstr "お似合いですね！"
+
+#, ruby
+msgid "0024"
+msgstr "ちょっと待って"
+
+#, ruby
+msgid "0025"
+msgstr "泣いてるの？"
+
+msgid "0026"
+msgstr "はい"
+
+#, ruby
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]さて 次なんだが…[Choice1 label=\"9\"]"
+
+msgid "0027"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]また会ったな[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]サクラダ工務店の大工[PauseShort] エノキダだ[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]俺もだ[Choice2 label1=\"3\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]辞令により ここで一から村を作ることにした\n"
+"\n"
+"村の名前は…[PauseShort] [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]だ[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk50"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]この度 パウダと結婚する事になった"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]しかし…[Choice2 label1=\"5\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゾーラ族を連れてきてくれたんだな[PauseShort]\n"
+"ありがとう\n"
+"聞けば 彼は[PauseShort]\n"
+"現役時代 神父だったらしいな\n"
+"名前もカポーダで 申し分ない\n"
+"\n"
+"しかし… [PauseShort]よくもまぁ これだけ都合よく[PauseShort]\n"
+"名前の最後が「ダ」の者が 居たもんだ"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]会社の在庫で 家一軒 建てられたものの[PauseShort]\n"
+"村を作るには 何もかも足りない[Choice2 label1=\"6\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]後は 式を挙げるだけだが[PauseShort]\n"
+"来賓を招かないとな[Choice2 label1=\"20\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]人 [PauseShort]モノ [PauseShort]金[Choice2 label1=\"7\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk53"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]社長のサクラダと 後輩のカツラダだ[Choice2 label1=\"21\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……やめておけ[PauseShort] 得する事は何も無い[Choice2 label1=\"8\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]しかし 式の準備もあって 多忙でな…[PauseShort]\n"
+"代わりに 呼びに行ってくれないか？[Choice2 label1=\"91\" label2=\"22\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]助かる…"
+
+#, ruby
+msgid "talk55"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それじゃあ 頼んだぞ"
+
+#, ruby
+msgid "talk56"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]サクラダ社長と カツラダが来たら[PauseShort]\n"
+"式を開始する\n"
+"居場所は おそらくハテノ村だ[PauseLong]\n"
+"俺の代わりに 呼んできてくれないか"
+
+#, ruby
+msgid "0012"
+msgstr "持って来たよ！"
+
+#, ruby
+msgid "talk57"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]二人を誘ってくれたんだな [PauseShort]ありがとう"
+
+msgid "0013"
+msgstr "まだだった"
+
+#, ruby
+msgid "talk58"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]さて サクラダ社長とカツラダが[PauseShort]\n"
+"首を長くして 待っている\n"
+"式を始めるか[Choice2 label1=\"22\" label2=\"24\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0014"
+msgstr "いいよ！"
+
+#, ruby
+msgid "talk59"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]分かった[PauseShort]\n"
+"心の準備が出来たら 呼んでくれ"
+
+msgid "0015"
+msgstr "やっぱダメ"
+
+msgid "0016"
+msgstr "ウソ？！"
+
+#, ruby
+msgid "0017"
+msgstr "お相手は？"
+
+msgid "0018"
+msgstr "おめでとう！"
+
+#, ruby
+msgid "0019"
+msgstr "意外過ぎる…"
+
+#, ruby
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]もっと人を呼ぶためには さらに家が必要だ[PauseLong]\n"
+"なので [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]50本[Color name=\"unset\"] 持って来てくれないか？"
+
+#, ruby
+msgid "talk41"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]50本[Color name=\"unset\"] 持って来てくれたのか？[Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk42"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]取り急ぎ [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]50本[Color name=\"unset\"] 持って来てくれ"
+
+#, ruby
+msgid "talk43"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]さて次は 手前味噌なんだが…[Choice1 label=\"5\"]"
+
+#, ruby
+msgid "talk44"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]婚約した[Choice2 label1=\"16\" label2=\"18\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk90"
+msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]ほぅ"
+
+#, ruby
+msgid "0000"
+msgstr "誰だっけ？"
+
+#, ruby
+msgid "talk45"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]本当だ[Choice1 label=\"17\"]"
+
+msgid "talk91"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]どうも"
+
+msgid "0001"
+msgstr "さようなら"
+
+msgid "talk46"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]そこのパウダだ[Choice2 label1=\"23\" label2=\"19\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0002"
+msgstr "思い出した！"
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ありがとう[Choice1 label=\"17\"]"
+
+#, ruby
+msgid "0003"
+msgstr "何してるの？"
+
+#, ruby
+msgid "talk48"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]余計なお世話だ"
+
+#, ruby
+msgid "0004"
+msgstr "いいと思う！"
+
+#, ruby
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]しかし 式を挙げるにも[PauseShort]\n"
+"神父が居ない事には 話にならん\n"
+"なので  \n"
+"[Color name=\"red\"]神父ができそうなヤツ[Color name=\"unset\"]を 探してくれないか？[Choice1 label=\"97\"]"
+
+#, ruby
+msgid "talk95"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]おい…\n"
+"\n"
+"ヒントも何も [Color name=\"blue\"]社長[Color name=\"unset\"]とカツラダなら[PauseShort]\n"
+"ハテノ村に居るだろう？[Choice1 label=\"21\"]"
+
+msgid "0005"
+msgstr "どうしたの？"
+
+#, ruby
+msgid "0006"
+msgstr "例えば？"
+
+#, ruby
+msgid "0007"
+msgstr "手伝うよ！"
+
+msgid "0008"
+msgstr "いいから！"
+
+msgid "0009"
+msgstr "うんうん"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]神父[Color name=\"unset\"]ができそうな 神聖な種族と言えば[PauseShort]\n"
+"[Color name=\"red\"]ゾーラ族[Color name=\"unset\"]が 真っ先に挙がるが…"
+
+#, ruby
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゲルド族を 連れてきてくれたんだな[PauseShort]\n"
+"ありがとう\n"
+"早速 作業着を繕ってもらった[PauseLong]\n"
+"しかも いい匂いがする\n"
+"名前もパウダで 申し分ない\n"
+"\n"
+"彼女は裁縫の腕を活かし [Color name=\"blue\"]服屋[Color name=\"unset\"]を開業したようだ[PauseShort]\n"
+"また 挨拶するといいだろう"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]人を呼ぶためには さらに住む家が必要だ[PauseLong]\n"
+"なので [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]30本[Color name=\"unset\"] 持って来てくれないか？"
+
+#, ruby
+msgid "talk33"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]30本[Color name=\"unset\"] 持って来てくれたのか？[Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk34"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]取り急ぎ [Color name=\"red\"]薪の束[Color name=\"unset\"]を[Color name=\"red\"]30本[Color name=\"unset\"] 持って来てくれ"
+
+#, ruby
+msgid "talk80"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]参列してくれてありがとう[PauseLong]\n"
+"…[Size percent=\"80\"]グスン[Size percent=\"100\"][Choice2 label1=\"25\" label2=\"18\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "TwAAAAEuDQAAAAAAAG8AAAAEAAAAxAEAAOoBAAAQAgAANgIAAFwCAACCAgAAhAIAAIYCAACIAgAAigIAAIwCAACOAgAAkAIAAJICAACUAgAAlgIAAJgCAACaAgAAnAIAAJ4CAACgAgAAogIAAKQCAACmAgAAqAIAAKoCAACsAgAArgIAALACAACyAgAAtAIAALYCAAC4AgAAugIAALwCAAC+AgAAwAIAAMICAADoAgAADgMAADQDAABaAwAAgAMAAKYDAADMAwAA8gMAABgEAAA+BAAAZAQAAIoEAACwBAAA1gQAAPwEAAAiBQAAJAUAAEoFAABwBQAAlgUAALwFAADiBQAACAYAAC4GAAAwBgAAVgYAAHwGAACiBgAAyAYAAMoGAADwBgAAFgcAADwHAABiBwAAZAcAAIoHAACwBwAA1gcAAPwHAAAiCAAASAgAAG4IAACUCAAAuggAAOAIAAAGCQAALAkAAFIJAAB4CQAAngkAAMQJAADqCQAAEAoAADYKAABcCgAAggoAAKgKAADOCgAA9AoAABoLAABACwAAZgsAAIwLAACyCwAA2AsAAP4LAAAkDAAASgwAAHAMAACWDAAAvAwAAOIMAAAIDQAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMQAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

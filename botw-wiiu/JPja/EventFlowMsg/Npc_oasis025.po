@@ -1,0 +1,176 @@
+#, ruby
+msgid "0001"
+msgstr "遠慮します"
+
+#, ruby
+msgid "TerrorExplosion"
+msgstr "なんだ？ 賊か？！"
+
+#, ruby
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]本当は我々だけの力で\n"
+"やるべきことなのだが\n"
+"兵士達も 疲れ切っていてな…\n"
+"\n"
+"[Color name=\"red\"][Sound1 unk1=\"11\" unk2=\"0\"]カルサー谷[Color name=\"unset\"]に イーガ団のアジトがあるとは\n"
+"わかっていても なかなか踏み込めないんだ…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]手伝ってくれると言うなら 協力は惜しまぬ[PauseShort]\n"
+"兵士達からも 話を聞くといい"
+
+#, ruby
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ビューラ様から聞いたぞ！\n"
+"よくぞ 我が国の神器を取り戻してくれた！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]これで[Color name=\"blue\"]族長様[Color name=\"unset\"]も\n"
+"少しは 安堵されよう…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]残るは あの[Color name=\"blue\"]神獣[Color name=\"unset\"]のみか…\n"
+"\n"
+"本当の意味での安堵は\n"
+"まだ先になりそうだが\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ともかく 今回の一件\n"
+"心から感謝していること 忘れないでくれ"
+
+#, ruby
+msgid "TerrorFire"
+msgstr "あつっ 早く火を消せ"
+
+#, ruby
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"6\"]なんだ 貴様は！\n"
+"ここは[Color name=\"blue\"]族長様[Color name=\"unset\"]にお仕えする 兵士達の詰所\n"
+"特に今は賊のせいで\n"
+"いつも以上に 警戒状態にある\n"
+"一般人が 観光気分で\n"
+"入ってきていいところではないぞ！"
+
+#, ruby
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]勇敢なハイリアのヴァーイよ！\n"
+"\n"
+"お前であればすぐに隊長クラスだぞ！\n"
+"よかったら 我が隊に入らないか？ [Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Raimei_CK_001"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"19\"]サヴォーテン！[PauseLong]\n"
+"それは[Color name=\"blue\"]雷鳴の兜[Color name=\"unset\"]ではないか！\n"
+"それを被ることを許されるなど\n"
+"王族以外ではありえんことだ…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]確かにお前がいなければ\n"
+"今の平穏はなかったかもしれんが…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]お前は本当は何者だ…？[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]ふふっ しかし理由はどうであれ\n"
+"それを手にしたということは\n"
+"お前は 我らゲルドの仲間！\n"
+"\n"
+"いつでも我が隊に入隊できるよう\n"
+"お前の席をあけて 待っているからな！"
+
+#, ruby
+msgid "TerrorSword"
+msgstr "私に勝てるとでも？"
+
+#, ruby
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]はっはっは… それは心強い！\n"
+"\n"
+"しかし [Color name=\"blue\"]族長様[Color name=\"unset\"]から聞いているぞ[PauseShort]\n"
+"お前には 大事な使命があるのだろう？\n"
+"それが終わった時…[PauseShort]\n"
+"その時… [PauseShort]我々は喜んでお前を迎えよう！"
+
+msgid "Talk_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"29\"]サヴァサーバ！[PauseLong]"
+
+#, ruby
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]そうか… 残念だ…[PauseShort]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]しかし [Color name=\"blue\"]族長様[Color name=\"unset\"]から聞いているぞ[PauseShort]\n"
+"お前には 大事な使命があるのだろう？\n"
+"終わったらまた 顔を見せにきてくれ[PauseShort]\n"
+"我々はいつでもお前を迎えるぞ！"
+
+msgid "Talk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"28\"]サヴァーク！[PauseLong]"
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"27\"]サヴォッタ！[PauseLong]"
+
+#, ruby
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我らゲルド族が 戦いにおいて\n"
+"ハイリア人に学ぶことがあるとはな\n"
+"どうだ その腕を\n"
+"我が隊で活かしてみないか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]また 貴様か！\n"
+"\n"
+"兵士達は賊のせいで ピリピリしてるんだ！\n"
+"頼むから これ以上厄介事を増やさないでくれ"
+
+#, ruby
+msgid "Talk_17"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"2\"]みんな 聞いてくれ！[Size percent=\"100\"]\n"
+"\n"
+"このハイリアのヴァーイが\n"
+"我々に協力してくれることになった!\n"
+"しっかりサポートしてやってくれ！"
+
+msgid "TerrorBomb"
+msgstr "なんだ それは？！"
+
+#, ruby
+msgid "Talk_08"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]また 貴様か！\n"
+"何度言ったらわかるんだ！"
+
+#, ruby
+msgid "Talk_18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]これで今日からお前も\n"
+"我々の仲間も同然だ！\n"
+"わからないことがあれば\n"
+"兵士達から 話を聞くといい"
+
+#, ruby
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"19\"]なんだと？[PauseShort] ビューラ様が？[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]それはすまなかった！[PauseShort]\n"
+"私はここの兵士達を束ねている 隊長の[Color name=\"blue\"]チーク[Color name=\"unset\"]だ\n"
+"先日 イーガ団という賊に 我が国の神器が奪われ\n"
+"みな ピリピリしていてな…[PauseLong]\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]賊のアジトが [Color name=\"red\"]カルサー谷[Color name=\"unset\"]に[PauseShort]\n"
+"あることは つきとめたのだが…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]兵士達も 疲れ切っていて[PauseShort]\n"
+"ちょうど人手がないか 探していたのだ"
+
+#, ruby
+msgid "TerrorArrow"
+msgstr "それをどうする気だ？"
+
+#, ruby
+msgid "0000"
+msgstr "入ります！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAESAgAAAAAAABcAAAAEAAAAZAAAAH4AAACYAAAAsgAAAMwAAADmAAAAAAEAABoBAAA0AQAATgEAAGgBAACCAQAAnAEAALYBAAC4AQAAugEAANQBAADuAQAACAIAAAoCAAAMAgAADgIAABACAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADIANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMgA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAyADUAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

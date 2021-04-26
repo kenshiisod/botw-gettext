@@ -1,0 +1,388 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Oef...[PauseMid] Wat een verschrikkelijke ervaring!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]Wat heb je?"
+
+msgid "MSG_Futa_04_1"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Hé kerel![PauseShort] Wil je mijn vlees kopen?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"Je wilt dit verkopen? Daar geef ik je\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor, oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]Dank je! Wil je nog iets verkopen?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]Dat is jammer..."
+
+msgid "Com_Talk_10"
+msgstr "Dit is wat je wilt kopen, toch?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Ik koop alles!"
+
+msgid "Com_Talk_11"
+msgstr ""
+"[Sound2 id=\"2\"]Voor vlees moet je bij Mezer zijn...[PauseMid]\n"
+"Dat is alles wat je moet onthouden."
+
+msgid "MSG_Futa_01_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Als je vlees grilt, moet je zorgen dat het\n"
+"goed doorbakken is![PauseLong] Gebruik [Color name=\"blue\"]zoutkristal[Color name=\"unset\"]\n"
+"om het twee keer zo lekker te maken!"
+
+msgid "Com_Talk_06"
+msgstr "Wat wil je?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Color name=\"blue\"][Sound2 id=\"2\"]Wild XL [Color name=\"unset\"]en [Color name=\"blue\"]gevogelte XL[Color name=\"unset\"]...[PauseMid] Je mag jezelf\n"
+"af en toe best iets extra's gunnen!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Dank je! Daar kan ik iets mee!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"14\"]Sorry, dat heb ik niet meer."
+
+msgid "Com_Talk_13"
+msgstr "Hoeveel wil je er verkopen?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"2\"]Dank je!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"12\"]Je hebt niet genoeg rupees. Hou me niet\n"
+"voor de gek!"
+
+msgid "Com_Talk_14"
+msgstr "Dat is dan [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]in totaal. Oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]Op avontuur in dit weer? Niet slecht! Op\n"
+"dagen als vandaag verkoop ik wild XXL!"
+
+msgid "RetMSG_Futa_03_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]De [Color name=\"blue\"]Tweelingbergstal[Color name=\"unset\"] is daarginds.[PauseShort] Als je\n"
+"je een beetje futloos voelt, kan ik je een\n"
+"stuk vlees verkopen!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]Verder nog iets?"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Je hebt geen plek meer. Verkoop een\n"
+"paar voorwerpen of gooi ze weg."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Dat kan ik helaas niet van je kopen."
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Je hebt me gered![PauseLong] Hier is iets om je te\n"
+"bedanken."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]Je moet je kleren uitdoen voordat je ze\n"
+"verkoopt.[PauseShort] Alles wat in je zakken zit, hoef\n"
+"ik niet."
+
+msgid "Com_Talk_30"
+msgstr "Dat is dan [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Oké?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "Hoeveel wil je er hebben?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "RetMSG_Futa_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Als je me een plezier wilt doen, dan koop\n"
+"je mijn vlees!"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Grrr... [PauseShort]Monsters![PauseShort] Kom maar op!"
+
+msgid "Com_Talk_33"
+msgstr ""
+"Je verkoopt er eentje, dus dat is dan\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]...[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Stomme monsters...[PauseShort] Kom dan!"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Hier wil je alles van hebben. Dat kost je\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Je wilt ze allemaal kwijt. Voor [02:0F name=\"Shop_TradeItemNum\"] geef\n"
+"ik je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Ik ben helemaal door m'n voorraad heen.\n"
+"[PauseLong]Enorm bedankt voor je aankoop!"
+
+msgid "SavedLv1_00"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]Oef,[PauseShort] daar stond ik bijna zelf op het menu![PauseMid]\n"
+"MIJN vlees is helemaal niet lekker!"
+
+msgid "Com_Talk_05b"
+msgstr "Laat maar zien wat je wilt verkopen!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Dank je."
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Ik heb vandaag helemaal niks meer om te\n"
+"verkopen...[PauseLong] Wil je zien wat ik binnenkort\n"
+"weer heb?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Al mijn vlees is van topkwaliteit![PauseShort] Je zult\n"
+"geen spijt krijgen van je keuze![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"6\" unk2=\"18\"]Oef! [PauseMid]Zo gevaarlijk..."
+
+msgid "Com_Talk_05c"
+msgstr "Wil je iets verkopen?"
+
+msgid "Com_Talk_11c"
+msgstr ""
+"[Sound2 id=\"2\"]Laat het me weten als je vlees nodig\n"
+"hebt!"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Heb je nog iets nodig? Je hoeft je niet in\n"
+"te houden![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Laten we eens kijken!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]Bedankt, kameraad!"
+
+msgid "MSG_Futa_02_1"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"4\"]Kakariko [Color name=\"unset\"]ligt verder naar het noorden.[PauseLong]\n"
+"Als je iets wilt kopen, kan ik je vast ook\n"
+"wel helpen."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm?[PauseShort] Ik?[PauseMid] Ik moet rusten, want anders\n"
+"wordt mijn lichaam moe.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Mijn lichaam is het enige dat rust nodig\n"
+"heeft.[PageBreak]De zaken gaan altijd door. Ik verkoop... [PauseShort][Sound2 id=\"7\"][PauseShort]\n"
+"vlees."
+
+msgid "RetMSG_Futa_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Ik ben op weg naar mijn kamp,[PauseShort] maar voor\n"
+"een klant maak ik graag tijd!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als het weer slecht is, kun je maar beter\n"
+"rustig aan doen en een beetje uitrusten.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Dat is tenminste wat ik doe.[PageBreak]Mijn lichaam is het enige dat rust nodig\n"
+"heeft.[PauseShort] De zaken gaan altijd door. Ik\n"
+"verkoop... [PauseMid][Sound2 id=\"7\"][PauseShort]vlees."
+
+msgid "5500"
+msgstr "Ja."
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"18\"]Aaaah![PauseShort] Het regent![PauseMid] Ik denk dat ik\n"
+"eventjes moet schuilen.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Maar zelfs terwijl ik aan het schuilen ben,\n"
+"gaan de zaken door. Ik verkoop... [PauseShort][Sound2 id=\"7\"][PauseShort]vlees."
+
+msgid "Com_Talk_56"
+msgstr ""
+"Eentje hiervan kost je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].\n"
+"Oké?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Nee."
+
+msgid "0000"
+msgstr "Ik wil iets kopen!"
+
+msgid "5502"
+msgstr "Kopen."
+
+msgid "0001"
+msgstr "Ik wil iets verkopen."
+
+msgid "5503"
+msgstr "Laat maar."
+
+msgid "0002"
+msgstr "Tot ziens."
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]Biefstuk..."
+
+msgid "RetMSG_Futa_01_1"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]Heb je honger?[PauseLong] Ik verkoop vlees!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Verdorie! [PauseMid]Ik ben voer voor de monsters!"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]Kraakbeen..."
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]Verdorie![PauseShort] Ze komen waarschijnlijk af op\n"
+"het vlees!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]Biefstuk... Lever..."
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]Karbonade..."
+
+msgid "5507"
+msgstr "Alles kopen."
+
+msgid "MSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? [PauseShort]Wat is er? [PauseShort]Waarom kijk je zo?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Als je honger hebt en iets te eten wilt,\n"
+"ben je bij mij aan het juiste adres.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Ik ben tenslotte een vleesverkoper!"
+
+msgid "Near04"
+msgstr "Het regent..."
+
+msgid "5508"
+msgstr "Alles verkopen."
+
+msgid "MSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Hm?[PauseShort] Wat is er?[PauseShort] Vind je dat ik naar rauw\n"
+"vlees ruik? Dat klopt![PageBreak][Sound1 unk1=\"1\" unk2=\"4\"]Ik ben Mezer. [PauseShort]Een rondreizende\n"
+"vleesverkoper.[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Omdat je het goed hebt geraden, geef ik\n"
+"je een gratis advies over vleesgerechten:\n"
+"Zorg ervoor dat het vlees suddert!\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Als je de kans hebt, moet je ook eens\n"
+"een snufje [Color name=\"blue\"]zoutkristal [Color name=\"unset\"]toevoegen om het\n"
+"dubbel zo lekker te maken!"
+
+msgid "MSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Wat is er?[PauseShort] Ben je verdwaald?[PageBreak][Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]Kakariko [Color name=\"unset\"]is veel verder naar het noorden.[PauseMid]\n"
+"Wil je naar de [Color name=\"blue\"]Tweelingbergstal[Color name=\"unset\"]? Ik ga\n"
+"daarheen om vlees te verkopen!\n"
+"[Sound1 unk1=\"1\" unk2=\"4\"]Je kunt me daar binnenkort vinden, maar\n"
+"als je wilt, kan ik nu al spullen kopen of\n"
+"verkopen."
+
+msgid "RetMSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Wat?[PauseShort] Waarom kijk je me aan alsof je\n"
+"medelijden met me hebt?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Zelfs deze verlaten plek is een liefdevolle\n"
+"plek voor mij. Als je tijd hebt voor\n"
+"medelijden, kun je ook wel vlees kopen![PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Jij krijgt het voor een speciale prijs..."
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"22\"]Ren! Er komt een [Color name=\"blue\"]Wachter [Color name=\"unset\"]aan!"
+
+msgid "MSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Wat is er?[PauseShort] Wil je met iemand praten?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ik praat alleen graag over vlees.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Nou ja, eigenlijk vooral over het\n"
+"verkopen van vlees. Heb je daar wellicht\n"
+"interesse in?"
+
+msgid "RetMSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Wat is er? [PauseShort]Dat gezicht...[PauseShort] Heb je honger?\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Je kunt niet eropuit gaan met een lege\n"
+"maag.\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Van een stuk gebraden vlees krijg je\n"
+"energie. Wacht, ik verkoop je een stuk\n"
+"vlees!"
+
+msgid "MSG_Futa_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? [PauseShort]Je vraagt je wellicht af waarom ik\n"
+"niet in een stal slaap.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ik zou het liefst op een comfortabel bed\n"
+"slapen, maar ik heb niet genoeg geld om\n"
+"in een stal te overnachten.\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Waarom help je me niet een handje door\n"
+"mijn vlees te kopen?"
+
+msgid "RetMSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? [PauseShort]Wat is er? [PauseShort]Dat gezicht...[PauseShort] Wil je\n"
+"meer zout?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Dan is dit je geluksdag![PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Ik verkoop zoutkristal en vlees, dus\n"
+"waarom koop je niet wat van beide?"
+
+msgid "MSG_Futa_03_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Over vlees gesproken... Dat verkoop ik\n"
+"toevallig.[PauseShort] Dus als je het wilt kopen,\n"
+"kunnen we meteen ter zake komen!"
+
+msgid "RetMSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? Wat is er?[PauseShort] Ben je moe van het\n"
+"lopen?[PageBreak][Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"unset\"]De [Color name=\"blue\"]Tweelingbergstal [Color name=\"unset\"]is om de hoek.\n"
+"Als je niet genoeg energie hebt, moet je\n"
+"vlees eten.\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"]Ze verkopen vlees bij...[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]O, wacht... Ik verkoop vlees!"
+
+msgid "RetMSG_Futa_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? [PauseMid]Ben je hier om vlees te kopen?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Ik sta op het punt om te gaan slapen,[PauseShort]\n"
+"maar de zaken gaan voor.[PageBreak]En door wild en gevogelte te verkopen,[PauseShort]\n"
+"kan ik vis en groente eten."
+
+msgid "SavedLv3_00"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]O, jeetje...[PauseShort] Daar was ik zelf bijna als\n"
+"biefstukje geëindigd!"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]O, jeetje...[PauseShort] Maar gelukkig is het vlees in\n"
+"veiligheid."
+
+msgid "MSG_Futa_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Heb je honger?[PauseLong] Dan ben je bij mij aan\n"
+"het juiste adres voor een lekkere lap\n"
+"vlees!"
+
+msgid "RetMSG_Futa_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Als je niet genoeg zout binnenkrijgt, kan\n"
+"ik je zoutkristal verkopen.[PauseLong] Koop meteen\n"
+"een stukje vlees, nu je er toch bent!"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Tot ziens.[PauseShort] Jij ook veel succes!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Je bent zo langzaam! [PauseShort]Ik was er bijna\n"
+"geweest!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAFIBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAMQCAADkAgAA5gIAAOgCAADqAgAA7AIAAO4CAADwAgAA8gIAAAwDAAAmAwAAQAMAAFoDAAB0AwAAjgMAAKgDAADCAwAA3AMAAPYDAAAQBAAAKgQAAEQEAABeBAAAeAQAAJIEAACsBAAAxgQAAOAEAAD6BAAAFAUAAC4FAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

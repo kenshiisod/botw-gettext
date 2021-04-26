@@ -1,0 +1,235 @@
+msgid "Appear16"
+msgstr ""
+"Mira, como muestra de buena fe, te daré\n"
+"un consejo que te servirá para encontrar\n"
+"santuarios y otras cosas.[PageBreak]Cuando estés buscando algo, súbete\n"
+"a un [Color name=\"red\"]lugar elevado[Color name=\"unset\"] para observar mejor\n"
+"la zona.\n"
+"[Sound2 id=\"14\"]Hazme caso."
+
+msgid "Kotsu01"
+msgstr ""
+"Abre el [Color name=\"blue\"]mapa[Color name=\"unset\"] de la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah [Color name=\"unset\"]y\n"
+"selecciona el icono azul de esa torre.[PageBreak][Sound2 id=\"7\"]Se supone que eso te permitirá\n"
+"teletransportarte a lo alto.[PauseMid] Inténtalo."
+
+msgid "Appear17"
+msgstr ""
+"¿Por qué no vuelves a subir a la torre\n"
+"de antes?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear18"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]No hay por qué enfurruñarse.[PauseMid] Aún me\n"
+"queda otra cosilla por enseñarte."
+
+msgid "1000"
+msgstr "Cuánto sabes..."
+
+msgid "Appear19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Pero antes, [PauseMid]deja que te enseñe\n"
+"otra cosa."
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Intenta teletransportarte a lo alto\n"
+"de esa torre.[PauseMid] Desde allí podrás localizar\n"
+"los santuarios fácilmente.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "Adiós"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Venga, sube a lo alto de esa torre\n"
+"y busca los santuarios que faltan.[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "¿Cómo lo hago?"
+
+msgid "TerrorBomb"
+msgstr "¿Qué es eso?"
+
+msgid "TerrorEnemy"
+msgstr "¡Aaaay!"
+
+msgid "Appear01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Veo que has conseguido\n"
+"un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]símbolo de valía[Color name=\"unset\"].[PauseMid] ¡Buen trabajo![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"][Size percent=\"125\"]Soy vidente.[Size percent=\"100\"][PauseMid] O algo por el estilo..."
+
+msgid "TerrorArrow"
+msgstr "¡¿Qué haces?!"
+
+msgid "Appear03"
+msgstr ""
+"Con la edad, la vista se estropea,[PauseMid]\n"
+"pero también eres capaz de percibir\n"
+"otras cosas."
+
+msgid "Appear04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Pero a saber si a todo el mundo\n"
+"le ocurre lo mismo.[PauseMid] Jo, jo, jo."
+
+msgid "Appear05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Pero bueno, ¡qué impaciente![PauseMid]\n"
+"Deja que termine de hablar primero."
+
+msgid "Appear06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]No es casualidad que hayan aparecido\n"
+"esas torres y que se haya activado\n"
+"el santuario..."
+
+msgid "0000"
+msgstr "¿Cómo lo sabes?"
+
+msgid "Appear07"
+msgstr ""
+"[Sound2 id=\"14\"]Todo se debe a esa [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"] que\n"
+"llevas sujeta al cinto.[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "¿Y mi [C9:00 bytes=\"02010100\"]paravela?"
+
+msgid "Appear08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]En cuanto he visto la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"],\n"
+"esta historia me ha vuelto a la memoria..."
+
+msgid "0002"
+msgstr "¿Qué quieres decir?"
+
+msgid "Appear09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"][Size percent=\"125\"]¡Debes escuchar a los mayores![Size percent=\"100\"]"
+
+msgid "Appear20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Consulta el [Color name=\"blue\"]mapa[Color name=\"unset\"] de la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"]."
+
+msgid "0003"
+msgstr "¡Ese no era el trato!"
+
+msgid "Appear21"
+msgstr ""
+"[Sound2 id=\"2\"]¿Ves que el santuario del que acabas\n"
+"de salir y esa torre están señalados\n"
+"con un [Color name=\"blue\"]icono azul[Color name=\"unset\"]?"
+
+msgid "TerrorImpulse"
+msgstr "¡Aaagh!"
+
+msgid "TerrorInsect"
+msgstr "¡Vete, vete!"
+
+msgid "0004"
+msgstr "¿Ahora pides más?"
+
+msgid "Appear22"
+msgstr ""
+"La [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"] posee el poder\n"
+"de teletransportarte a esos lugares...[PauseShort]\n"
+"o eso dicen."
+
+msgid "0005"
+msgstr "¿Va en serio?"
+
+msgid "Appear23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]Quizá no funcione, al ser un artefacto\n"
+"tan antiguo,[PauseMid] pero no pierdes nada\n"
+"por probarlo."
+
+msgid "0006"
+msgstr "Vale"
+
+msgid "ClearTerrorEnemy"
+msgstr "Uf..."
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]Jo, jo, jo."
+
+msgid "TerrorExplosion"
+msgstr "¡Uaaah!"
+
+msgid "NakedPlayer"
+msgstr "Vas a coger frío..."
+
+msgid "TerrorSword"
+msgstr "¡Basta!"
+
+msgid "TerrorGuardian"
+msgstr "¡Un guardián!"
+
+msgid "TerrorFire"
+msgstr "¡Quema!"
+
+msgid "ClearTerrorGuardian"
+msgstr "Por los pelos..."
+
+msgid "Appear10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Antiguamente, en estas tierras habitaba\n"
+"una civilización muy avanzada conocida\n"
+"como los sheikah.\n"
+"Gracias a su gran sabiduría, consiguieron\n"
+"evitar que el cataclismo destruyera estas\n"
+"tierras en muchas ocasiones."
+
+msgid "Appear11"
+msgstr ""
+"Por desgracia, cuentan las leyendas\n"
+"que esa civilización desapareció hace\n"
+"muchísimos años...\n"
+"Es asombroso que hayas encontrado\n"
+"uno de sus legados dentro de ese\n"
+"santuario."
+
+msgid "Appear12"
+msgstr ""
+"[Sound2 id=\"0\"]Ahora escúchame bien, joven.[PauseMid]\n"
+"Hay más santuarios como este\n"
+"esparcidos por todo Hyrule."
+
+msgid "Appear13"
+msgstr ""
+"Sin ir más lejos, en esta meseta\n"
+"se encuentran otros [Color name=\"red\"]tres[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Obtén el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]símbolo de valía[Color name=\"unset\"] de cada\n"
+"santuario y recibirás mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"]\n"
+"como recompensa.[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]He cambiado de idea ligeramente.[PauseMid]\n"
+"¡Pero para un joven tan audaz como tú\n"
+"no debería suponer mucho problema!"
+
+msgid "GoodBye00"
+msgstr "Venga, rápido."
+
+msgid "Appear15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Bueno, tampoco dije que se tratara\n"
+"de un solo tesoro.[PauseMid] Para ti no creo que\n"
+"haya diferencia entre uno o cuatro."
+
+msgid "Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Jo, jo, jo.[PauseMid] Cuando llegues a mi edad,\n"
+"tú también serás muy sabio.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Vamos, prueba a ver si funciona."
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Jo, jo, jo.[PauseMid] Si quieres mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"],\n"
+"tendrás que ganártela."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHwBQAAAAAAADQAAAAEAAAA2AAAAAIBAAAEAQAABgEAADABAABaAQAAhAEAAK4BAADYAQAAAgIAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAACAwAABAMAAC4DAABYAwAAggMAAKwDAACuAwAAsAMAANoDAAAEBAAALgQAAFgEAACCBAAArAQAANYEAAAABQAAAgUAAAQFAAAGBQAAMAUAAFoFAACEBQAArgUAANgFAADaBQAA3AUAAN4FAADgBQAA4gUAAOQFAADmBQAA6AUAAOoFAADsBQAA7gUAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

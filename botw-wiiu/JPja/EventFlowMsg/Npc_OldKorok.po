@@ -1,0 +1,383 @@
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]その[Color name=\"blue\"]コログのミ[Color name=\"unset\"]くれたら[PauseShort]\n"
+"お礼に[Color name=\"blue\"]ポーチ 大きく[Color name=\"unset\"]したげるけど どう？[Choice4Flags label1=\"0\" flag1=\"Npc_OldKorok_Weapon11\" label2=\"1\" flag2=\"Npc_OldKorok_Bow08\" label3=\"2\" flag3=\"Npc_OldKorok_Shield16\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk62"
+msgstr ""
+"キュンキュン！ [PauseShort]承りましたッ！[PauseLong]\n"
+"じゃ いくよォ～♪"
+
+msgid "talk63"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]キュルン♪ [PauseShort]ではでは…"
+
+#, ruby
+msgid "talk64"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]キュンキュン！ [PauseShort]いい汗かいたね！"
+
+#, ruby
+msgid "talk65"
+msgstr "[Sound1 unk1=\"7\" unk2=\"16\"]キュンッ♪ [PauseShort]上手に踊れたカナ？"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]キュン…[PauseMid] さみしぃなァ～"
+
+msgid "talk66"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]キュルルルン♪ [PauseShort]サイコーッ！"
+
+#, ruby
+msgid "talk67"
+msgstr "[Sound1 unk1=\"7\" unk2=\"18\"]キュン！ [PauseShort]気持ちよかったァ～…"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]キュ！ キュルン…！[PauseLong] ハダカ！\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"26\"][Size percent=\"100\"]いーっしょいっしょ[PauseShort] ボクらと一緒！[PauseLong]\n"
+"パッパカパーの スッパダカー♪"
+
+msgid "talk68"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃまたねェ～♪"
+
+msgid "talk08"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"26\"][Size percent=\"100\"]ハダカッ♪ ハダカッ♪[PauseLong]\n"
+"パッパカパーの スッパダカー♪"
+
+#, ruby
+msgid "talk69"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]でも キミちん…[PauseLong]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"unset\"]全く持って無いみたい…"
+
+#, ruby
+msgid "talk53"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]コログのミ[Color name=\"unset\"] [PauseShort]取り返したら持って来てネ♪[PauseLong]\n"
+"お礼に [Color name=\"blue\"]ポーチ[Color name=\"unset\"]大きくしたげるからさァ～～～"
+
+#, ruby
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ポーチ[Color name=\"unset\"]も全部 大きくなっちゃったし[PauseShort]\n"
+"これあげる～♪"
+
+#, ruby
+msgid "talk58"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"26\"]森の子供達を 全員見つけちゃうなんて[PauseShort]\n"
+"すんすんごいごい すんごいす～♪"
+
+#, ruby
+msgid "talk59"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]どうどう？ [PauseLong]気に入ってくれたら嬉しいな♪\n"
+"\n"
+"それを持ってるとね [PauseLong]なんと…\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]ボクちんのダンスが いつでも見れま～す♪[PauseLong]\n"
+"キャッ♪\n"
+"だから いつでも話しかけてねェ～"
+
+#, ruby
+msgid "talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]だったら [Color name=\"red\"]ボクちんのお宝[Color name=\"unset\"] あげちゃうから[PauseShort]\n"
+"まずは[Color name=\"blue\"]ポーチ[Color name=\"unset\"]を大きくしてねェ～♪"
+
+#, ruby
+msgid "talk90"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]キュルン♪[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]キミちん！ [PauseShort]また会ったね！\n"
+"\n"
+"どうしたの黙っちゃって… [PauseShort]ボクちんだよ？[PauseLong]\n"
+"コログの森の音楽家 [PauseShort]ボックリン♪\n"
+"それにしても 迷いの森を抜けて[PauseShort]\n"
+"よくここまで 来られたねぇ…\n"
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"100\"]あっ そういえば！"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]キュ～～～ン…[PauseLong]\n"
+"これ以上[Color name=\"blue\"]盾ポーチ[Color name=\"unset\"]は増やせないからねェ～"
+
+#, ruby
+msgid "talk31"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]はてさて まだ[Color name=\"blue\"]ポーチ[Color name=\"unset\"]を大きくしちゃうカナ？[Choice4Flags label1=\"0\" flag1=\"Npc_OldKorok_Weapon11\" label2=\"1\" flag2=\"Npc_OldKorok_Bow08\" label3=\"2\" flag3=\"Npc_OldKorok_Shield16\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk32"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]キュンキュン！ [PauseShort]また来てねぇ～♪"
+
+msgid "talk33"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]メンゴ メンゴねぇ～♪"
+
+#, ruby
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]キュルン♪[PauseShort] イイネイイネ♪[PauseLong]\n"
+"じゃあ どの[Color name=\"blue\"]ポーチ[Color name=\"unset\"]を大きくしちゃう？[Choice4Flags label1=\"0\" flag1=\"Npc_OldKorok_Weapon11\" label2=\"1\" flag2=\"Npc_OldKorok_Bow08\" label3=\"2\" flag3=\"Npc_OldKorok_Shield16\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk80"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]45個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk81"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]55個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk22"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃ 大きくしちゃうよォ～！"
+
+#, ruby
+msgid "talk83"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]んっ？[PauseLong][PauseLong] フワッ？\n"
+"\n"
+"[Animation name=\"CustomSurpriseL\"][Sound1 unk1=\"10\" unk2=\"1\"][Size percent=\"125\"]フワワワワ～～ッ！[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"10\" unk2=\"1\"]ボ [PauseShort]ボクちん[PauseLong]\n"
+"コログの森への帰り道を 思い出したかも！\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]だから そろそろ帰ろうかな[PauseLong]\n"
+"[Color name=\"red\"]お爺ちゃん[Color name=\"unset\"]も待ってるだろうしねぇ～\n"
+"キミちん コログのミ ありがとね！[PauseLong]\n"
+"今度こそ コログの森へ帰るよ\n"
+"キミちんも いつかコログの森に 遊びに来てね♪\n"
+""
+
+#, ruby
+msgid "talk23"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]じゃ 他のポーチ 大きくしちゃう？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk84"
+msgstr "[Size percent=\"125\"][Pause frames=\"2\"]タン [Pause frames=\"11\"]タララ [Pause frames=\"11\"]ラ～～～～～～ン♪[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"0\"]キミちん！[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]隠れてた森の子供達[PauseShort]\n"
+"全員見つけたんだね？！[Choice1 label=\"8\"]\n"
+"[Size percent=\"125\"][Animation name=\"CustomSurpriseL\"][Sound1 unk1=\"10\" unk2=\"1\"]フワ！ [PauseLong]フワワワワッ！[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"26\"]すんすん ごいごい♪[PauseLong]\n"
+"すんごいよねェ～！"
+
+#, ruby
+msgid "talk85"
+msgstr ""
+"[Animation name=\"CustomSurpriseS\"][Sound1 unk1=\"5\" unk2=\"1\"]…フワッ？！[PauseShort] [Color name=\"blue\"]コログのミ[Color name=\"unset\"] 足りてないよォ～？[PauseLong]\n"
+"ちゃんと数えてェ～"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]な～ったなった おっきくなった [Color name=\"blue\"]武器ポーチ[Color name=\"unset\"][PauseLong]\n"
+"[Size percent=\"80\"]キャッ♪[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk86"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]4個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]な～ったなった おっきくなった [Color name=\"blue\"]弓ポーチ[Color name=\"unset\"][PauseLong]\n"
+"[Size percent=\"80\"]キャッ♪[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk87"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]10個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]な～ったなった おっきくなった [Color name=\"blue\"]盾ポーチ[Color name=\"unset\"][PauseLong]\n"
+"[Size percent=\"80\"]キャッ♪[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk88"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]15個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0000"
+msgstr "武器ポーチ"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]キュ～～～ン……[PauseLong]\n"
+"これ以上[Color name=\"blue\"]武器ポーチ[Color name=\"unset\"]は増やせないからねェ～"
+
+#, ruby
+msgid "talk89"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]20個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0001"
+msgstr "弓ポーチ"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]キュ～～～ン…[PauseLong]\n"
+"これ以上[Color name=\"blue\"]弓ポーチ[Color name=\"unset\"]は増やせないからねェ～"
+
+msgid "talk70"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]だったらァ～～～"
+
+#, ruby
+msgid "0002"
+msgstr "盾ポーチ"
+
+#, ruby
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]1個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0003"
+msgstr "結構です"
+
+#, ruby
+msgid "talk72"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]2個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0004"
+msgstr "お願いします"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Animation name=\"CustomSurpriseL\"][Sound1 unk1=\"10\" unk2=\"1\"]…キャッ！[PauseShort]\n"
+"キミ 全ての[Color name=\"blue\"]ポーチ[Color name=\"unset\"]を大きくしちゃった？！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]すんすん ごいごい！ [PauseLong]すんごいよねぇ～♪"
+
+#, ruby
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]3個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "near00"
+msgstr "踊りたい…"
+
+msgid "0005"
+msgstr "やっぱやめる"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]全ての[Color name=\"blue\"]ポーチ[Color name=\"unset\"]を大きくしちゃうなんて[PauseShort]\n"
+"すんごいよねぇ！\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]おかげで ボクちんのマラカスは[PauseShort]\n"
+"いつでもイイ音♪[PauseLong] ラン [PauseShort]リャン [PauseShort]ラン♪\n"
+"おヒマならぁ まだどこかに隠れてる[PauseShort]\n"
+"森の子供達 [PauseLong]全員見つけてみてぇ～？"
+
+#, ruby
+msgid "talk74"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]5個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near01"
+msgstr "ラン♪"
+
+msgid "0006"
+msgstr "は～い"
+
+#, ruby
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]8個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near02"
+msgstr "リャン♪"
+
+msgid "0007"
+msgstr "さようなら"
+
+#, ruby
+msgid "talk76"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]12個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0008"
+msgstr "その通り！"
+
+#, ruby
+msgid "talk77"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]17個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk78"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]25個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk79"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふんじゃ～あ[PauseShort]\n"
+"[Color name=\"blue\"]コログのミ [Color name=\"red\"]35個[Color name=\"blue\"][Color name=\"unset\"] ちょ～ら～い♪[Choice2 label1=\"6\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk60"
+msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]キュンキュン♪"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]キュルン♪[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]キミちん！ [PauseShort]また会ったね！\n"
+"\n"
+"どうしたの黙っちゃって… [PauseShort]ボクちんだよ？[PauseLong]\n"
+"コログの森の音楽家 [PauseShort]ボックリン♪\n"
+"それにしても 迷いの森を抜けて[PauseShort]\n"
+"よくここまで 来られたねぇ…\n"
+"[Sound1 unk1=\"0\" unk2=\"6\"]あの時の約束通り [Color name=\"blue\"]コログのミ[Color name=\"unset\"]集めて[PauseShort]\n"
+"持って来てくれたんでしょ？"
+
+#, ruby
+msgid "talk61"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"7\" unk2=\"0\"]ボックリンのミ[Color name=\"unset\"]持ってるなら[PauseShort]\n"
+"ボクちんと 踊ろ♪\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]さぁさぁ どのダンスで踊る？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAEeBwAAAAAAAEMAAAAEAAAAFAEAAC4BAABIAQAAYgEAAGQBAABmAQAAaAEAAGoBAABsAQAAbgEAAHABAAByAQAAdAEAAI4BAACoAQAAwgEAANwBAAD2AQAAEAIAACoCAABEAgAAXgIAAHgCAACSAgAArAIAAMYCAADgAgAA+gIAABQDAAAuAwAASAMAAGIDAAB8AwAAlgMAALADAADKAwAA5AMAAP4DAAAYBAAAMgQAAEwEAABmBAAAgAQAAJoEAAC0BAAAzgQAAOgEAAACBQAAHAUAADYFAABaBQAAdAUAAI4FAACoBQAAwgUAANwFAAD2BQAAEAYAACoGAABEBgAAXgYAAHgGAACcBgAAtgYAANAGAADqBgAABAcAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAXwBIAGUAbABwAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAF8ASABlAGwAcAAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawAAAE4AcABjAF8ATwBsAGQASwBvAHIAbwBrAAAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

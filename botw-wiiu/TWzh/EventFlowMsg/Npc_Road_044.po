@@ -1,0 +1,414 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]我怕得都快哭了啊，[PauseShort]真是的！"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]要賣哪個給我？"
+
+msgid "MSG_Ichika_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]你是冒險家吧？[PauseMid]\n"
+"那麼補給營養就很重要了。\n"
+"畢竟秘境裡可沒有販賣食材的店，[PauseShort]\n"
+"也沒有專屬的廚師陪伴在側。\n"
+"我要是你的雙親，\n"
+"大概會很擔心你的飲食吧。"
+
+msgid "Com_Talk_01"
+msgstr ""
+"嗯……[PauseShort][Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]的話，[PauseShort]\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔……[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Ichika_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是流浪廚師麥茨。[PauseMid]\n"
+"聽起來有點偉大，[PauseMid]沒辦法，因為真的有點偉大。\n"
+"常言道，空腹就是最好的調味料，[PauseShort]\n"
+"但如此一來，我們廚師不就贏不了飢餓了嗎？\n"
+"[Sound1 unk1=\"2\" unk2=\"14\"]可惡，我可不會認輸！[PauseMid]我自己是這麼想的啦。"
+
+msgid "RetMSG_Ichika_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]在這個世界，[PauseShort]\n"
+"昆蟲不是拿來製作料理，而是製作藥材。\n"
+"所以廚師和昆蟲幾乎無緣啊，[PauseLong]\n"
+"這對討厭昆蟲的我來說，反倒好。"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]謝啦！[PauseShort]\n"
+"還有什麼其他的嗎？"
+
+msgid "MSG_Ichika_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我正在[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]和[Color name=\"blue\"]一始村[Color name=\"unset\"]之間來回旅行，[PauseShort]\n"
+"尋找頂尖的食材。"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]這樣啊，知道了。"
+
+msgid "Com_Talk_10"
+msgstr "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]啊……[PauseShort]要買嗎？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "我什麼都收購喔……"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]謝啦！"
+
+msgid "Com_Talk_06"
+msgstr "要買哪個？"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"9\"]慢慢挑慢慢看啊！[PauseMid]\n"
+"每個商品都是一流的喔！"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"9\"]感謝惠顧，[PauseShort]謝啦！[PauseShort]\n"
+"其他的我也可以收購喔……"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]啊……[PauseShort]抱歉！[PauseShort]那東西現在賣完了[Size percent=\"80\"]……[Size percent=\"100\"]"
+
+msgid "Com_Talk_13"
+msgstr ""
+"想賣[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseMid]\n"
+"要賣幾個給我？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"2\"]謝啦！[PauseShort]\n"
+"……我還能繼續收購喔，如何？"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]哎呀呀……？[PauseShort]盧比啊……[PauseShort]\n"
+"好像不夠呢……"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][Size percent=\"80\"]……[PauseMid][Size percent=\"100\"]\n"
+"總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，如何？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]天氣不好時，我就會販賣壓箱寶……[PauseMid]\n"
+"[Color name=\"red\"]鼓隆的調味粉[Color name=\"unset\"]可是很珍貴的喔！"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"2\"]你真是位好客人啊，[PauseShort]\n"
+"要是你還有其他想賣的東西……"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]看來袋子已經滿啦？[PauseShort]\n"
+"得賣掉或丟掉裡頭的東西才行……"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"10\"]啊，這個啊……[PauseMid]\n"
+"我這不能收購喔。"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]這是一點感謝的心意，[PauseShort]別客氣。"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]要賣衣服是可以啦，\n"
+"但總不能還穿在身上……"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]……[PauseMid]\n"
+"嗯……是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]吧……？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Ichika_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]為尋求最棒的食材，我正自[Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"]的北邊，\n"
+"到[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]之間來回往返。"
+
+msgid "Com_Talk_31"
+msgstr ""
+"要買[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseMid]\n"
+"需要幾個？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Ichika_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]常言道，空腹就是最好的調味料，[PauseShort]\n"
+"或說料理就是愛情……\n"
+"就算如此，我還是會以廚師的身分努力。\n"
+"我要讓他們知道，那些都敵不過麥茨的料理啊！"
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"32\"]……呼哈，[PauseMid]\n"
+"憋氣久了，就好難受啊……"
+
+msgid "Com_Talk_33"
+msgstr ""
+"只賣1個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]？[PauseShort]\n"
+"OK～算你[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]如何？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"14\"]混帳怪物，可惡……[PauseMid]\n"
+"拿個堅硬的食材砸下去好了……"
+
+msgid "Com_Talk_34"
+msgstr ""
+"要將[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全買下嗎！？[PauseLong]OK～[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]個，總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"要將[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全賣掉嗎！？[PauseLong]\n"
+"你身上有[02:0F name=\"Shop_TradeItemNum\"]個，那我用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]跟你買！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Ichika_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"]裡，上好的食材\n"
+"正看起來很美味地游著泳。\n"
+"食材長出來、掉下來、天上飛……[PauseMid]\n"
+"這塊土地對我來說，就像是市場啊。"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]喔喔，都賣完啦！[PauseLong]\n"
+"看來你很中意我的食材啊！"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]哎呀～[PauseShort]得救啦！"
+
+msgid "Com_Talk_05b"
+msgstr "要我買什麼嗎？"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]真是多謝啦！"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"10\"]抱歉啊！[PauseShort]今天已經打烊了！[PauseLong]\n"
+"不過倒是可以看看我還在尋找的食材清單……[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Ichika_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]比方說，想要消除四肢疲勞時，\n"
+"就用能量蜂的蜂蜜和蘋果喔。"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]話說啊，來看看我收集的食材吧！[PauseMid]\n"
+"每個都很新鮮喔！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]謝謝你救了我！"
+
+msgid "Com_Talk_05c"
+msgstr "有沒有什麼想賣的？"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]謝啦！[PauseShort]真的感謝……"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]還有其他的嗎？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "我什麼都收購喔……[PauseShort]真的……"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"2\"]謝啦……"
+
+msgid "RetMSG_Ichika_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是流浪廚師麥茨。\n"
+"\n"
+"順道一提，在這個世界，[PauseShort]\n"
+"昆蟲不是拿來製作料理，而是製作藥材。\n"
+"所以廚師和昆蟲幾乎無緣啊。[PauseLong]\n"
+"對討厭昆蟲的我來說反倒好，[PauseShort][Sound2 id=\"7\"]哈哈哈。"
+
+msgid "RetMSG_Ichika_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]在這街道以南，\n"
+"一整面都是[Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"]，實在太棒了！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]不不不，[PauseShort]我不是說景色，[PauseShort]\n"
+"而是在說那些在湖裡游泳的食材。\n"
+"畢竟景色可不能吃吧？[PauseMid][Sound2 id=\"7\"]哈哈哈。"
+
+msgid "RetMSG_Ichika_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]我雖是個流浪廚師，[PauseShort]\n"
+"偶爾也會想要偷懶一下，\n"
+"所以不妨就在[Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"]悠閒地小睡片刻……\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]想是這麼想，[PauseShort]但我那些飢餓的客人\n"
+"已經在[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]等著我了。[PauseMid][Sound2 id=\"7\"]哈哈哈。"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]為了尋找能作出頂尖料理的食材，[PauseShort]\n"
+"我正在[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]與[Color name=\"blue\"]一始村[Color name=\"unset\"]之間來回往返喔。\n"
+"只要跟我打聲招呼，我也會販售東西給你喔！"
+
+msgid "RetMSG_Ichika_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是流浪廚師麥茨。\n"
+"\n"
+"所謂的料理不只能享受味道，\n"
+"當然也能回復體力與精神力……\n"
+"[Sound1 unk1=\"7\" unk2=\"11\"]還能耐暑、耐寒、耐電、耐火，兼靜音！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]正因為有料理，旅行才能繼續下去啊。"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]雨水滋養大地，大地滋養動物。[PauseMid]\n"
+"我的料理滋養人，吃料理的人花錢滋養我。\n"
+"[Sound1 unk1=\"1\" unk2=\"10\"]就是這麼回事，哈哈哈！"
+
+msgid "5500"
+msgstr "好"
+
+msgid "RetMSG_Ichika_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是流浪廚師麥茨喔。\n"
+"\n"
+"我正自[Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"]的北邊，到[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]之間，[PauseShort]\n"
+"專注地進行探索食材之旅。"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]真不想讓雨淋濕食材啊……[PauseLong]\n"
+"暫時留在這躲雨吧。"
+
+msgid "Com_Talk_56"
+msgstr ""
+"只買1個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]啊？[PauseShort]\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]！[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "0000"
+msgstr "買"
+
+msgid "5502"
+msgstr "買"
+
+msgid "0001"
+msgstr "賣"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "0002"
+msgstr "再見"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]蘑菇增添香氣……"
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]哎呀～[PauseShort]得救啦！[PauseMid]\n"
+"真是太感謝你了！"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]肉增強體力……"
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]怪物真是可怕啊！[PauseMid]\n"
+"謝謝你救了我！"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]魚增進健康……"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]水果要在飯後……"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "Near04"
+msgstr "真不想淋濕啊……"
+
+msgid "5508"
+msgstr "全賣了"
+
+msgid "RetMSG_Ichika_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]今天我要從東邊的[Color name=\"blue\"]阿卡萊湖[Color name=\"unset\"][PauseShort]\n"
+"流浪到西邊的[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]！\n"
+"沒錯，我就是流浪廚師啊！"
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"22\"]那個要來了！[PauseShort]快跑啊！"
+
+msgid "MSG_Ichika_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]肉料理能回復體力！[PauseMid]魚料理有特殊能力！[PauseLong]\n"
+"好好記住吧！"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]總算是保住性命了！"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]這些怪物，竟敢覬覦我的食材……[PauseMid]\n"
+"託你的福，我跟我的食材都得救了！"
+
+msgid "RetMSG_Ichika_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]煩惱的時候，總之就吃吧！[PauseShort]\n"
+"肚子餓的時候，總之就吃吧！\n"
+"除了必能回復體力與精神力外，[PauseShort]\n"
+"還能耐暑、耐寒、耐電、耐火……兼靜音！\n"
+"[Sound1 unk1=\"1\" unk2=\"11\"]哎呀～這世界的料理實在太棒了！"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]我是流浪廚師！[PauseMid]你可要記好啦！"
+
+msgid "MSG_Ichika_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]你在找流浪廚師麥茨？[PauseMid]\n"
+"那就是我啊，你可找到了呢，[PauseMid]哈哈哈！\n"
+"我正在[Color name=\"blue\"]南阿卡萊驛站[Color name=\"unset\"]和[Color name=\"blue\"]一始村[Color name=\"unset\"]之間[PauseShort]\n"
+"進行探索食材之旅。"
+
+msgid "MSG_Ichika_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]是誰呼喚我這流浪廚師……[PauseMid]\n"
+"啊，是我在呼喚自己嗎？[PauseMid]哈哈哈。\n"
+"說到料理啊，思考食材的組合\n"
+"真是既開心又有意義啊。\n"
+"比方說，想要消除四肢疲勞時，\n"
+"就用能量蜂的蜂蜜和蘋果……[PauseMid]之類的。"
+
+msgid "MSG_Ichika_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我要是你的雙親，可會擔心你的飲食啊，[PauseShort]\n"
+"只要看你的氣色，就能大概明白了。\n"
+"你現在做得還可以，[PauseLong]\n"
+"不過應該還能做得更好才對。"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]喂……[PauseShort]你沒事吧？[PauseMid]\n"
+"我可是走了一趟鬼門關啊……"
+
+msgid "MSG_Ichika_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我是流浪廚師麥茨。\n"
+"\n"
+"肉料理對回復體力有極佳效果，[PauseMid]\n"
+"而魚料理本來就附有特殊能力。\n"
+"活用食材各自的優點，\n"
+"製作出自己的身體當下渴求的料理吧。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAGYAwAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAKYCAACoAgAAqgIAAKwCAACuAgAAsAIAALICAAC0AgAAtgIAALgCAAC6AgAAvAIAANwCAAD8AgAA/gIAAAADAAACAwAABAMAAAYDAAAIAwAACgMAAAwDAAAOAwAAEAMAABIDAAAUAwAAFgMAABgDAAAaAwAAHAMAAB4DAAAgAwAAIgMAACQDAAA+AwAAQAMAAEIDAABEAwAARgMAAEgDAABKAwAAZAMAAH4DAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADQAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQANAAAAE4AcABjAF8AUgBvAGEAZABfADAANAA0AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

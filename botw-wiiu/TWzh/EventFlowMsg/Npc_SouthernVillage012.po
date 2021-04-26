@@ -1,0 +1,89 @@
+msgid "talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]興趣真奇怪呢……"
+
+msgid "0001"
+msgstr "沙漠？"
+
+msgid "0002"
+msgstr "我喜歡雨喔"
+
+msgid "0003"
+msgstr "故鄉？"
+
+msgid "talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]嗯～這裡的熱度剛剛好，很舒服呢，\n"
+"和沙漠的熾熱完全不同啊。\n"
+"你是來觀光的嗎？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk_10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]薩伯塔。"
+
+msgid "talk_11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]薩芭庫。"
+
+msgid "talk_01"
+msgstr "ZZzz……"
+
+msgid "talk_12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]薩芭薩芭。"
+
+msgid "talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]那裡可以看見一座叫[Color name=\"blue\"]塞哈特諾島[Color name=\"unset\"]的島。[PauseShort]\n"
+"我就是想去那邊，才來到這裡的。"
+
+msgid "talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]這裡以東的海面上有座很大的島，[PauseShort]\n"
+"叫[Color name=\"blue\"]塞哈特諾島[Color name=\"unset\"]。\n"
+"我就是想去那地方，\n"
+"才來到這裡的。"
+
+msgid "talk_03"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]要是我也有雙[Color name=\"red\"]翅膀[Color name=\"unset\"]的話就好了……[PauseShort]"
+
+msgid "talk_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]不過就算搭船，也很難抵達。[PauseShort]\n"
+"看來要是不長出[Color name=\"red\"]翅膀[Color name=\"unset\"]，可去不了那裡呢……"
+
+msgid "talk_05"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]呼，雨真是討厭呢。\n"
+"好懷念故鄉啊。[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Near00"
+msgstr "好遠啊……"
+
+msgid "talk_06"
+msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]這樣啊，至於我呢……[PauseShort]"
+
+msgid "Near01"
+msgstr "下雨了呢。"
+
+msgid "talk_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]啊，我的故鄉在格魯德小鎮，\n"
+"是個被沙漠圍繞的小鎮呢。"
+
+msgid "Near02"
+msgstr "昏昏欲睡……"
+
+msgid "talk_08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]是啊，我的故鄉是格魯德小鎮，\n"
+"是座被沙漠圍繞的小鎮。\n"
+"畢竟沙漠可就不會下雨了。\n"
+"\n"
+"一開始覺得新鮮所以還好，\n"
+"但下得這麼頻繁的話……"
+
+msgid "0000"
+msgstr "是的"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAFyAwAAAAAAABUAAAAEAAAAXAAAAIoAAAC4AAAA5gAAABQBAABCAQAAcAEAAJ4BAADMAQAA+gEAACgCAABWAgAAhAIAALICAADgAgAADgMAADwDAABqAwAAbAMAAG4DAABwAwAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

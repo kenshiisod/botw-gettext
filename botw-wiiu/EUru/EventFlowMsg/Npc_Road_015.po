@@ -1,0 +1,371 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"44\"]Ох... [PauseShort]Больно-то как..."
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]Что у тебя есть?"
+
+msgid "RetMSG_Firo_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Что ж, я запасся отборными фруктами\n"
+"и рыбой из [Color name=\"blue\"]Лурелин[Color name=\"unset\"], заодно сыграл\n"
+"в «Сундук удачи»...[PageBreak]Теперь направлюсь в [Color name=\"blue\"]конюшню\n"
+"«Подгорная» [Color name=\"unset\"]торговать."
+
+msgid "Com_Talk_01"
+msgstr "Возьму за [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"], не больше![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"2\"]Хороший у тебя товар!"
+
+msgid "MSG_Firo_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Южные фрукты и морепродукты![PauseShort]\n"
+"Два по цене трех и один бесплатно!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]Жаль, жаль..."
+
+msgid "Com_Talk_10"
+msgstr "Точно берешь?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Я рассмотрю любые предложения."
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"7\"]Спасибо за покупку!"
+
+msgid "MSG_Firo_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Подходи, налетай, покупай-продавай![PageBreak]Высококачественные продукты из\n"
+"[Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]![PauseShort] Монстров прошу\n"
+"не беспокоить!"
+
+msgid "Com_Talk_06"
+msgstr "Выбирай-покупай!"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]Все самое свежее и вкусное\n"
+"из [Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]![PauseShort] Выбирай!"
+
+msgid "MSG_Firo_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Торгуя свежайшими продуктами из\n"
+"[Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"], я научился отлично\n"
+"ориентироваться на местности![PageBreak]Не веришь?[PauseShort] К западу отсюда\n"
+"[Color name=\"blue\"]озеро Хайлия[Color name=\"unset\"].[PauseShort] А еще там рядом\n"
+"[Color name=\"blue\"]лес Финра[Color name=\"unset\"]![PauseShort] Впрочем, это неважно."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]Всегда рад помочь!"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound2 id=\"10\"]Сейчас проверю на Складе...[PauseShort]\n"
+"Склад говорит, что этого\n"
+"больше нет."
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько продаешь?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Firo_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Высококачественные продукты\n"
+"из [Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]!"
+
+msgid "MSG_Firo_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Весьма рекомендую посетить [Color name=\"blue\"]деревню\n"
+"Лурелин[Color name=\"unset\"], которая снабжает меня этими\n"
+"потрясающими товарами![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Тамошняя атмосфера умиротворяет,\n"
+"а желающие азарта могут сыграть\n"
+"в «Сундук удачи» и выиграть призы![PageBreak]О, и к вопросу о деньгах..."
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Большое спасибо!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Похоже, у тебя не хватает [Color name=\"red\"]рупий[Color name=\"unset\"].[PauseShort]\n"
+"В кредит не отпускаю, извини."
+
+msgid "Com_Talk_14"
+msgstr "Всего [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort] Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]Поздравляю, тебе очень повезло:\n"
+"в такую погоду ты можешь купить\n"
+"у меня [Color name=\"red\"]чудо-скрытницу[Color name=\"unset\"]!"
+
+msgid "MSG_Firo_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Только здесь и только сейчас![PauseShort]\n"
+"Сногсшибательные товары из\n"
+"[Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]![PageBreak]Налетай![PauseShort] Свежайшие южные\n"
+"фрукты и морепродукты!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]С тобой приятно иметь дело!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]У тебя этого и так полно.[PauseShort] Сначала\n"
+"съешь или продай то, что есть."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Нет-нет, такое я не покупаю..."
+
+msgid "MSG_Firo_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"blue\"]Лурелин [Color name=\"unset\"]не только снабжает меня\n"
+"свежайшими товарами![PauseShort] На этом\n"
+"чудесном курорте я тренирую удачу![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Как?[PauseShort] Играя в «Сундук удачи»,\n"
+"конечно же.[PauseShort] Очень рекомендую.[PauseShort]\n"
+"И да, к вопросу о торговле..."
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Вот, подарок от фирмы!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]Я с удовольствием куплю твою\n"
+"одежду, но сначала сними ее."
+
+msgid "Com_Talk_30"
+msgstr "Значит, [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort] С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько нужно?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"32\"]Только не моего осла,\n"
+"проклятые монстры!"
+
+msgid "Com_Talk_33"
+msgstr "И все?[PauseShort] Возьму за [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Firo_03_1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Склад — краеугольный камень любого\n"
+"торгового предприятия![PauseShort] Верно, Склад?[PauseShort]\n"
+"Куда я без тебя..."
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]Монстры![PauseShort] Буду стоять тут и не\n"
+"двигаться — вдруг обойдется..."
+
+msgid "Com_Talk_34"
+msgstr "Все, то есть [02:0F name=\"Shop_TradeItemNum\"]? С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr "Все — значит [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort] Дам [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Ты купил все, что было у меня\n"
+"на Складе![PauseShort] Большое спасибо!"
+
+msgid "MSG_Firo_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Каждый турист просто обязан\n"
+"сыграть в «Сундук удачи»![PauseShort]\n"
+"Настоятельно рекомендую![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]А раз уж мы заговорили о торговле..."
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Т-ты меня спас! [PauseShort]И моего осла тоже!"
+
+msgid "Com_Talk_05b"
+msgstr "Я могу хоть все у тебя купить."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"2\"]Товар свежий![PauseShort] Тебе понравится."
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Хм, товар-то у меня кончился.[PauseShort]\n"
+"Может, просто на цены взглянешь?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Мой осел Склад везет широчайший\n"
+"ассортимент деликатесов![PauseShort]\n"
+"Брать будешь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"][Sound2 id=\"17\"]Ого![PauseShort] Ты сам-то цел?"
+
+msgid "Com_Talk_05c"
+msgstr "Покажи еще что-нибудь."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Всегда рад тебе помочь!"
+
+msgid "RetMSG_Firo_00_1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]В окрестностях [Color name=\"blue\"]конюшни\n"
+"«Подгорная»[Color name=\"unset\"] много монстров,\n"
+"можно и шагу прибавить.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Кстати о торговле..."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Я могу тебе чем-нибудь помочь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Предложишь что-нибудь еще?"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]Приятно иметь с тобой дело!"
+
+msgid "MSG_Firo_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]К западу отсюда [Color name=\"blue\"]озеро Хайлия[Color name=\"unset\"].[PauseShort]\n"
+"А еще там рядом [Color name=\"blue\"]лес Финра[Color name=\"unset\"].[PauseShort]\n"
+"А теперь — самое интересное!"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Фрукты и рыба из [Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]\n"
+"и правда отменные.[PauseShort] Даже сам порой\n"
+"удержаться не могу."
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ну погода![PauseShort] Всех клиентов разогнала.[PauseShort]\n"
+"Ничего, отдохнуть тоже полезно..."
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Мне-то дождь нипочем, но вот мой\n"
+"осел Склад мокнуть не любит."
+
+msgid "Com_Talk_56"
+msgstr "Всего-то?[PauseShort] С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "0000"
+msgstr "Покажи товар"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "0001"
+msgstr "Я кое-что продаю"
+
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "0002"
+msgstr "Пока"
+
+msgid "Near00"
+msgstr "Лурелинская рыба!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Ух, еле спасся!"
+
+msgid "Near01"
+msgstr "Распродажа!"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]На волосок!"
+
+msgid "Near02"
+msgstr "Суперскидки!"
+
+msgid "RetMSG_Firo_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Товары получил, в «Сундук удачи»\n"
+"сыграл, теперь пора в путь."
+
+msgid "Near03"
+msgstr "Лурелинские фрукты!"
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "Near04"
+msgstr "Намокнет же все..."
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "Guardian00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Это же [Color name=\"blue\"]страж[Color name=\"unset\"]![PauseShort] Надо бежать!"
+
+msgid "RetMSG_Firo_01_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Как-то раз я пошел в [Color name=\"blue\"]Фаронские леса[Color name=\"unset\"]\n"
+"без карты и заблудился.[PauseShort] Не советую —\n"
+"себе дороже.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Раз уж мы о торговле..."
+
+msgid "MSG_Firo_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"blue\"]Деревня Лурелин[Color name=\"unset\"] — идиллический\n"
+"курорт для успокоения нервов![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]А желающие азарта могут сыграть\n"
+"в традиционную игру «Сундук удачи»\n"
+"и получить призы![PageBreak]И кстати о деньгах..."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"19\"]Живой?[PauseShort] Сам не получил?"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Ну ты даешь!"
+
+msgid "RetMSG_Firo_00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Как распространителю замечательных\n"
+"товаров из [Color name=\"blue\"]деревни Лурелин [Color name=\"unset\"]мне\n"
+"приходится много путешествовать.[PageBreak]Так что я знаю, что в окрестностях\n"
+"[Color name=\"blue\"]конюшни «Подгорная»[Color name=\"unset\"] много монстров,\n"
+"можно и шагу прибавить.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Ах да, к вопросу о торговле...."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Пока![PauseShort] Я всегда к твоим услугам!"
+
+msgid "RetMSG_Firo_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Как-то раз, когда я распространял\n"
+"чудесные товары из [Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"],\n"
+"я заблудился в [Color name=\"blue\"]Фаронских лесах[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Бесплатный совет от предприятия:\n"
+"никогда не суйся в лес без карты.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]А раз уж мы заговорили о торговле..."
+
+msgid "RetMSG_Firo_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Налетай-покупай![PauseShort] [Color name=\"blue\"]Конюшня «Озерная»[Color name=\"unset\"],\n"
+"твой час пробил![PauseShort] Свежайшие фрукты\n"
+"и рыба из [Color name=\"blue\"]деревни Лурелин[Color name=\"unset\"]![PauseShort] Ценопад!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"18\"]Вроде цел...[PauseShort]А я уж думал,\n"
+"конец моему предприятию."
+
+msgid "RetMSG_Firo_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Свежая рыба и южные фрукты\n"
+"из [Color name=\"blue\"]Лурелин[Color name=\"unset\"]![PauseShort] Налетай, покупай!"
+
+msgid "RetMSG_Firo_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Наисвежайшие фрукты и рыба из\n"
+"[Color name=\"blue\"]деревни Лурелин [Color name=\"unset\"]ждут покупателей\n"
+"прямо здесь, на моем осле![PauseShort] Налетай![PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Спаси животное от непомерной ноши![PauseShort]\n"
+"Килограмм рупий легче килограмма\n"
+"рыбы!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAH8BQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAI4CAACQAgAAkgIAAJQCAACuAgAAyAIAAOICAAD8AgAA/gIAAAADAAACAwAABAMAAAYDAAAIAwAACgMAAAwDAAAOAwAAEAMAABIDAAAUAwAAFgMAABgDAAA4AwAAWAMAAHgDAACYAwAAmgMAAJwDAACeAwAAoAMAAKIDAACkAwAApgMAAMADAADaAwAA9AMAAA4EAAAoBAAAQgQAAFwEAAB2BAAAkAQAAKoEAADEBAAA3gQAAPgEAAASBQAALAUAAEYFAABgBQAAegUAAJQFAACuBQAAyAUAAOIFAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

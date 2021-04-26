@@ -1,0 +1,123 @@
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Налетай-покупай![PauseShort] У меня\n"
+"лучшие бананы![PageBreak]Солнечно-желтые снаружи,\n"
+"снежно-белые внутри, а на\n"
+"вкус просто закачаешься![PageBreak]Не стесняйся, купи парочку![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"1\"]Налетай-покупай!"
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Тс-с! Тише ты![PauseShort] А то бананы\n"
+"услышат и сильно обидятся.[PauseShort]\n"
+"Они у меня необыкновенные![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]В общем, обсуждать тут нечего:\n"
+"ты купишь бананы — и точка![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Ну ладно![PauseShort] Может, в другой раз\n"
+"придешь![PauseShort] Хотя нет, не придешь..."
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"8\" unk2=\"7\"]Ты что, бананоненавистник?"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Налетай-покупай![PauseShort] У меня лучшие\n"
+"бананы![PauseShort] Ты только посмотри![PageBreak]Не стесняйся, купи парочку![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_10"
+msgstr "Берешь, значит?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Прекрасно! Замечательно!"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"22\"]Бананы — моя гордость!"
+
+msgid "0000"
+msgstr "С радостью!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Спасибо! Спасибо!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Всего один банан?\n"
+"С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Нет, не хочу"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]Я рад! И бананы рады!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Премного благодарен!"
+
+msgid "Com_Talk_06"
+msgstr ""
+"Бананы сладкие, вкусные!\n"
+"Покупай — не пожалеешь!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"7\"]Бананов больше нет!"
+
+msgid "Com_Talk_30"
+msgstr "За [02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" банан\" plural=\" бананов\" plural2=\" банана\"] с тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]Рупий у тебя не хватает, старик![PauseShort]\n"
+"Бананы на дороге не валяются,\n"
+"знаешь ли!"
+
+msgid "Com_Talk_31"
+msgstr "Скажи, сколько нужно![Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"4\"]Да у тебя в сумку больше\n"
+"ни один банан не влезет."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Все бананы?![PauseShort] Замечательно![PauseShort] За\n"
+"[02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" штуку\" plural=\" штук\" plural2=\" штуки\"] с тебя всего [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе конец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_36"
+msgstr "[Sound2 id=\"21\"]Видимо, ты очень любишь бананы..."
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Я отомщу за бана... за босса![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"7\"]Бананов у меня больше нет, но,\n"
+"может, хотя бы на цены взглянешь?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAHCAQAAAAAAAB8AAAAEAAAAhAAAAKYAAACoAAAAqgAAAMwAAADuAAAAEAEAADIBAABUAQAAdgEAAJgBAACaAQAAnAEAAJ4BAACgAQAAogEAAKQBAACmAQAAqAEAAKoBAACsAQAArgEAALABAACyAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

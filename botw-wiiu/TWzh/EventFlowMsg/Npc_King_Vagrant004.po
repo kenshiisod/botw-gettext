@@ -1,0 +1,428 @@
+msgid "1002"
+msgstr "你在做什麼？"
+
+msgid "1003"
+msgstr "再見"
+
+msgid "Cook00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"21\"]什麼……你、這！？\n"
+"\n"
+"這不是我構思的究極料理，\n"
+"[Color name=\"blue\"]辛辣海陸煎烤[Color name=\"unset\"]嗎！\n"
+"[Sound2 id=\"3\"]為什麼……你做得出來……？\n"
+"\n"
+"……算了，這不重要，\n"
+"食譜是什麼……？"
+
+msgid "Takibi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我有點累了……[PauseMid]\n"
+"所以才在營火旁取暖休息。"
+
+msgid "Cook01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"20\"]哦哦！\n"
+"\n"
+"原來如此……\n"
+"要放入海拉魯鱸魚是吧？\n"
+"[Sound2 id=\"9\"]很好！我認同你的料理品味了，\n"
+"這防寒衣就送你吧。"
+
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]你……肚子餓不餓啊？[PauseMid]\n"
+"我的料理鍋隨你用。[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]我很期待神廟裡的寶物喔。"
+
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]想要做料理的話，\n"
+"我的料理鍋隨你用。[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Cook03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]……\n"
+"\n"
+"剛剛已經給過你了啊……[PauseMid]\n"
+"我都忘了。\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]呵呵呵。[PauseMid]\n"
+"如果你想要[Color name=\"blue\"]滑翔傘[Color name=\"unset\"]，就好好加油吧。"
+
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]我的料理鍋隨你用。[PauseMid]\n"
+"記得做些有品味的料理。"
+
+msgid "Cook04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]打開袋子，將食材拿在手上，\n"
+"接著放進鍋裡就行了。"
+
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]唔……[PauseMid]\n"
+"沒事就別擾人清夢啊。"
+
+#, ruby
+msgid "Cook05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]まあ 食材どうしの相性を考えて\n"
+"出来上がりを 想像することじゃ\n"
+"料理はセンス… センスじゃよ[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+
+msgid "GoodBye03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]那就拜託你囉。"
+
+msgid "TerrorArrow"
+msgstr "你做什麼！"
+
+msgid "TerrorImpulse"
+msgstr "噫！"
+
+msgid "Cook06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]哦？這就是你做的料理嗎……[PauseMid]\n"
+"我嚐嚐……"
+
+msgid "Cook07"
+msgstr ""
+"[Sound2 id=\"7\"]品味還算及格，\n"
+"但料理本身挺普通的……"
+
+msgid "Cook08"
+msgstr ""
+"[Sound2 id=\"10\"]雖說失敗為成功之母，\n"
+"但你比我想像的還沒品味啊……"
+
+msgid "Cook09"
+msgstr ""
+"根據食材的搭配，\n"
+"還能做出更多不得了的料理……\n"
+"多多練習、多多嘗試吧。[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "Idou00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]我正打算\n"
+"到那裡去砍樹，\n"
+"別來礙事喔。"
+
+msgid "Idou01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我要回家了，[PauseMid]\n"
+"要一起來嗎？"
+
+msgid "Kikori00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我想把這棵樹砍倒……[PauseMid]\n"
+"然後做成木柴。"
+
+msgid "Idou02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我要回家了，[PauseMid]\n"
+"雖然家裡沒什麼好招待你……要一起來嗎？"
+
+msgid "Kikori01"
+msgstr ""
+"[Sound2 id=\"11\"]不過……[PauseMid]要讓樹朝指定的方向倒下，\n"
+"還真是非常折騰人的活兒啊。\n"
+"得讓身體面朝想讓樹倒下的方向，\n"
+"使勁劈砍才行。"
+
+msgid "Kikori02"
+msgstr ""
+"[Sound2 id=\"10\"]呼……[PauseMid]\n"
+"腰又開始痛了。"
+
+msgid "Hadaka00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]咦……[PauseMid]我！？"
+
+msgid "Kikori03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]仔細一瞧……[PauseMid]你\n"
+"帶著的不正是我的斧頭嗎？\n"
+"那把斧頭隨你用沒關係，\n"
+"不過可以來幫我砍樹嗎？"
+
+msgid "Cook04_Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]看來你對料理有興趣啊……[PauseMid]\n"
+"我很看好你，就教你點訣竅吧。[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Cook05_Vagrant004"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]總之，你要依據食材之間的相配度，\n"
+"來想像完成後的成果。\n"
+"順利的話，\n"
+"還能做出可補充精力的料理。\n"
+"料理靠的是品味，品味喔。[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "Kikori04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我有點累了……[PauseMid]\n"
+"要休息一下。"
+
+msgid "Cook04_Kotsu01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]好了好了……[PauseMid]\n"
+"[Sound2 id=\"4\"]還想知道其他訣竅嗎？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Cook05_Vagrant005"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]總之，你要依據食材之間的相配度，\n"
+"來想像完成後的成果。\n"
+"順利的話，\n"
+"還能做出有禦寒效果的料理。\n"
+"料理靠的是品味，品味喔。[PauseMid]\n"
+"[Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "Kikori05"
+msgstr ""
+"[Sound2 id=\"2\"]砍樹得用斧頭。[PauseMid]\n"
+"雖然用劍砍也行，但會嚴重磨損刀刃哦。"
+
+msgid "Cook04_Kotsu02"
+msgstr ""
+"儘管把能吃的東西都丟進鍋中就行了。[PauseMid]\n"
+"幸好這座台地的食材種類很豐富，\n"
+"使用的食材數量越多，\n"
+"就能做出恢復更多體力的料理。"
+
+msgid "Bed00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]不嫌棄的話，可以睡我的[Color name=\"red\"]床[Color name=\"unset\"]。"
+
+msgid "Kikori06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]到營火旁取個暖吧。[PauseMid]\n"
+"呵呵呵。"
+
+msgid "Cook04_Kotsu03"
+msgstr ""
+"基本原則就是肉類等主菜要搭上配菜，[PauseMid]\n"
+"放些香草或調味料也不錯。\n"
+"不過……[PauseMid]昆蟲或蜥蜴之類的\n"
+"就不能和食材混在一起，\n"
+"因為搭起來實在稱不上對味……"
+
+msgid "Cook04_Kotsu04"
+msgstr ""
+"也有些食材本身具有特殊效果，\n"
+"像是溫暖身體、增加精力之類的。\n"
+"如果拿來當成一種配料，\n"
+"就能從普通料理搖身變為具有效果的料理。\n"
+"[Sound2 id=\"2\"]不僅如此，\n"
+"\n"
+"如果把昆蟲或蜥蜴和怪物材料一起煮，\n"
+"有時還能獲得意想不到的效果，[PauseMid]這就是藥。"
+
+msgid "Bed02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]有點累了嗎？[PauseMid]\n"
+"不嫌棄的話，可以睡我的[Color name=\"red\"]床[Color name=\"unset\"]。"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵，[PauseMid]\n"
+"很暖很舒服喔。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Bed03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]這樣啊……[PauseMid]\n"
+"不嫌棄的話，可以睡我的[Color name=\"red\"]床[Color name=\"unset\"]。"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]夜晚怪物會變多，比較危險。[PauseMid]\n"
+"你可以在這休息到早上。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Bed04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]太操勞對身體不好……[PauseMid]\n"
+"不嫌棄的話，可以睡我的[Color name=\"red\"]床[Color name=\"unset\"]。"
+
+msgid "TerrorSword"
+msgstr "還不住手！"
+
+msgid "Tree_Cut_Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]呵呵呵，[PauseMid]\n"
+"你幫我把樹砍了啊。"
+
+msgid "Bed05"
+msgstr ""
+"和營火不同，睡在床上\n"
+"能讓疲憊的身體充分得到休息。"
+
+msgid "Tree_Cut_Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]砍倒的樹，\n"
+"你可以做成木柴帶走。"
+
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]還沒找到神廟的寶物？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]神廟的探索還順利嗎？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]你可以幫我砍樹嗎？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Sleep00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]我正打算要睡了……[PauseMid]\n"
+"不好意思，床就給我睡囉。"
+
+msgid "Sleep01"
+msgstr ""
+"要在床上休息的話，\n"
+"等我沒睡在上面時再來吧。"
+
+msgid "TerrorExplosion"
+msgstr "嗚哇！"
+
+msgid "Sleep02"
+msgstr ""
+"要打發時間的話，\n"
+"就去外面的營火旁取暖吧……"
+
+msgid "ClearTerrorEnemy"
+msgstr "唔……"
+
+msgid "Sleep03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]當然在睡覺啊……[PauseMid]\n"
+"不好意思，有事明天再說……"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]嗯？有事嗎？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵，[PauseMid]\n"
+"又見面了。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "TerrorEnemy"
+msgstr "噫！"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]哎，你啊……[PauseMid]\n"
+"打算一直維持那副模樣嗎？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near01"
+msgstr "喝！哈！"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]讓開、讓開！[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near02"
+msgstr "Zzz……Zzz……"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]今天也工作了一整天。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near03"
+msgstr "……"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]多虧有你幫忙砍樹，\n"
+"今天才能提早收工。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorBomb"
+msgstr "幹什麼？"
+
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]你啊……[PauseMid]\n"
+"我去哪你都打算跟著嗎？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]有事嗎……[PauseMid]\n"
+"我好不容易才睡著呢。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TalkBokangi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]有事嗎……[PauseMid]\n"
+"我好不容易才睡著呢。[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]哎，你啊……[PauseMid]\n"
+"你在那會害我分心的。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TalkBokangi01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"13\"]我明明睡得正香，你也真纏人……[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0001"
+msgstr "試著做了點料理"
+
+msgid "0002"
+msgstr "告訴我訣竅"
+
+msgid "0003"
+msgstr "再見"
+
+msgid "0004"
+msgstr "關於食材"
+
+msgid "Cook10"
+msgstr ""
+"我知道你偷看了我的日記。\n"
+"\n"
+"[Sound2 id=\"2\"]只要你能重現那道料理，\n"
+"我就將防寒衣送給你。"
+
+msgid "TerrorInsect"
+msgstr "噫！"
+
+msgid "0005"
+msgstr "關於搭配"
+
+msgid "Cook11"
+msgstr ""
+"想要[Color name=\"blue\"]獸肉[Color name=\"unset\"]的話，\n"
+"可以去台地北側的[Color name=\"blue\"]精靈森林[Color name=\"unset\"]打獵。"
+
+msgid "NakedPlayer"
+msgstr "你居然只穿一條內褲……"
+
+msgid "0006"
+msgstr "關於效果"
+
+msgid "Cook12"
+msgstr ""
+"想要[Color name=\"blue\"]獸肉[Color name=\"unset\"]的話，\n"
+"可以在這裡捕捉獵物。"
+
+msgid "Cook13"
+msgstr ""
+"[Color name=\"blue\"]暖暖草果[Color name=\"unset\"]的話，\n"
+"記得好像在[Color name=\"blue\"]時之神殿遺跡[Color name=\"unset\"]附近看過。"
+
+msgid "Cook14"
+msgstr ""
+"還有一項食材想不起來，\n"
+"只記得好像是在塔附近看到的……"
+
+msgid "TerrorFire"
+msgstr "好燙！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAGoDAAAAAAAAFkAAAAEAAAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAATAMAAHQDAACcAwAAxAMAAOwDAADuAwAA8AMAABgEAABABAAAaAQAAJAEAAC4BAAA4AQAAAgFAAAwBQAAWAUAAIAFAACoBQAA0AUAAPgFAAAgBgAASAYAAHAGAACYBgAAwAYAAOgGAADqBgAA7AYAAO4GAAAWBwAAPgcAAGYHAACOBwAAtgcAAN4HAADgBwAA4gcAAOQHAAAMCAAANAgAAFwIAACECAAArAgAANQIAAD8CAAAJAkAAEwJAAB0CQAAnAkAAMQJAADsCQAAFAoAADwKAABkCgAAjAoAALQKAADcCgAABAsAACwLAABUCwAAfAsAAKQLAADMCwAA9AsAABwMAABEDAAAbAwAAJQMAACWDAAAmAwAAJoMAACcDAAAngwAAKAMAACiDAAApAwAAKYMAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

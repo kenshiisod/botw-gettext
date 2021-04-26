@@ -1,0 +1,233 @@
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]如果想買東西的話，[PauseShort]\n"
+"就走到商品前，直接選就行了。"
+
+msgid "0001"
+msgstr "來買東西"
+
+msgid "0002"
+msgstr "來賣東西"
+
+msgid "0003"
+msgstr "再見"
+
+msgid "0004"
+msgstr "你是？"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[Sound2 id=\"2\"]要買[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseLong]\n"
+"要買幾個？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05b"
+msgstr "慢慢挑，慢慢選啊！"
+
+msgid "Com_Talk_05c"
+msgstr "收購就交給我吧！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"一個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]，[PauseShort]\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "盡量多賣點啊！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]謝謝你啊！"
+
+msgid "Com_Talk_34"
+msgstr ""
+"要買下所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]對吧？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]個總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]謝謝光臨！"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全賣了對吧？[PauseLong]\n"
+"那我總共用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]收購喔？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]OK～！"
+
+msgid "near00"
+msgstr "歡迎光臨！"
+
+msgid "near01"
+msgstr "還有那個……"
+
+msgid "near02"
+msgstr "還有這個……"
+
+msgid "5500"
+msgstr "好"
+
+msgid "near03"
+msgstr "♪～"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]唷，早安！"
+
+msgid "Com_Talk_00"
+msgstr "來啦！[PauseShort]你要賣什麼給我啊？"
+
+msgid "5502"
+msgstr "買"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]唷！"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要賣掉[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，可以嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]唷，辛苦了！"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]謝謝你！[PauseLong]\n"
+"還有其他要賣的嗎？"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]OK～！[PauseLong]那其他東西呢？"
+
+msgid "Com_Talk_50"
+msgstr ""
+"要買[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseLong]\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]沒問題！[PauseLong]還有想賣的東西嗎？"
+
+msgid "Com_Talk_51"
+msgstr ""
+"[Sound2 id=\"2\"][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]對吧，[PauseLong]\n"
+"要買幾個？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]謝謝惠顧！[PauseLong]還有其他的嗎？"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]噢……[PauseShort]真可惜。"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]，[PauseShort]\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "任何東西我都收購！"
+
+msgid "Com_Talk_53"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]哎，你不買了嗎？[PauseLong]\n"
+"真可惜。"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "Com_Talk_54"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]哎呀……[PauseLong]要是盧比不夠，我可不能賣啊。"
+
+msgid "5508"
+msgstr "全賣了"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]之後也請多關照！"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]嗯？[PauseShort]你的行李已經滿囉。[PauseLong]\n"
+"如果有不要的東西，我可以收購喔。"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]出手真大方呢！"
+
+msgid "Com_Talk_56"
+msgstr ""
+"要買1個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]對吧？[PauseLong]\n"
+"這樣是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]。[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]你還需要那個嗎？[PauseShort]那我再去進貨！"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]哦，[PauseShort]客人手頭挺寬的嘛！"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]客人，[PauseShort]你真是大手筆！"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]謝謝惠顧！"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]還需要什麼嗎？[Choice4 label1=\"1\" label2=\"2\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Sound2 id=\"23\"]要賣[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]嗎？[PauseLong]\n"
+"要賣幾個？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]我得回老位置去了。"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]個[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]，[PauseShort]\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]喔。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]哦！[PauseShort]有客人啊！[PauseLong]\n"
+"背對著你，真抱歉啊。"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]抱歉！那東西啊，[PauseShort]\n"
+"我這邊不能收購。"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]來啦！"
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"17\"]穿在身上的衣服，只要脫下來我就收購！"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]找我有事嗎？[Choice4 label1=\"1\" label2=\"2\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk18"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]我嗎！？"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我叫做阿喀恩佐。[PauseShort]\n"
+"\n"
+"我在這家[Color name=\"blue\"]伊斯特‧英德[Color name=\"unset\"][PauseShort]\n"
+"擔任店長。"
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]家裡有老婆、女兒跟兒子，[PauseLong]\n"
+"是個平凡的家庭喔。"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]哈特諾村的人都很親切，[PauseShort]\n"
+"你也別拘謹，儘管跟大家搭話吧。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KwAAAAFeBgAAAAAAAD4AAAAEAAAAAAEAACoBAABUAQAAfgEAAKgBAACqAQAArAEAAK4BAACwAQAA2gEAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAAqAwAAVAMAAH4DAACoAwAA0gMAAPwDAAAmBAAAUAQAAHoEAACkBAAApgQAAKgEAACqBAAArAQAAK4EAACwBAAAsgQAALQEAAC2BAAAuAQAALoEAADkBAAADgUAADgFAABiBQAAggUAAKIFAADCBQAA4gUAAAIGAAAiBgAAJAYAACYGAAAoBgAAKgYAACwGAAAuBgAAMAYAADIGAABSBgAAVAYAAFYGAABYBgAAWgYAAFwGAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAAAAAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADIAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

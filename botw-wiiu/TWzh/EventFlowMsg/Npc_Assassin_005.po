@@ -1,0 +1,129 @@
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]來買啊！快來買啊！\n"
+"快來看看我的香蕉～\n"
+"現在正黃得恰到好處，\n"
+"只要將皮剝下，就是雪白的肌膚，\n"
+"味道可是如夢似幻喔！\n"
+"來買啊！快來買啊！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"1\"]來買啊！"
+
+msgid "5507"
+msgstr "全買了"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]別說那種不解風情的話嘛。\n"
+"這樣會讓香蕉的心情變差喔。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]我賣你買，別婆婆媽媽的，\n"
+"乾脆地買下來吧！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]小哥，之後再請你關照啦！[PauseMid]\n"
+"……不過這只是謊言呢。"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"8\" unk2=\"7\"]……小哥，你討厭香蕉嗎？"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]來買啊！快來買啊！\n"
+"又見面了，小哥。\n"
+"來看看我的香蕉吧～\n"
+"來買啊！快來買啊！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_10"
+msgstr "來，買些香蕉吧。[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]賣出去了！又賣出去了！"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"22\"]來，這是我自傲的香蕉！"
+
+msgid "0000"
+msgstr "買了！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]謝謝惠顧！非常感謝！"
+
+msgid "Com_Talk_56"
+msgstr ""
+"只買1條就好嗎？\n"
+"總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，買下來吧！[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "不用了"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]香蕉也會很高興的！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]嘿！小哥買得好！"
+
+msgid "Com_Talk_06"
+msgstr ""
+"這裡有香甜美味的香蕉喔！\n"
+"來買啊！快來買啊！"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"7\"]托你的福，全都賣完了！"
+
+msgid "Com_Talk_30"
+msgstr ""
+"香蕉[02:0F name=\"Shop_TradeItemNum\"]條，\n"
+"總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，買下來吧！[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]哎呀呀，你的盧比不夠呢。\n"
+"我的香蕉可不會打折喔。"
+
+msgid "Com_Talk_31"
+msgstr "只要想買，都隨你挑～[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"4\"]哎呀呀，你的袋子已經滿了呢。\n"
+"這樣放不下香蕉喔。"
+
+msgid "Com_Talk_34"
+msgstr ""
+"買下所有的香蕉嗎？真是太感激了！\n"
+"[02:0F name=\"Shop_TradeItemNum\"]條，總共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]盧比[Color name=\"unset\"]，買下來吧！[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "好"
+
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]納命來！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_36"
+msgstr "[Sound2 id=\"21\"]小哥，你真的很喜歡香蕉呢。"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]香蕉……老大的仇敵！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"7\"]哎呀……[PauseMid]托小哥的福，\n"
+"我的香蕉全賣完了呢。\n"
+"要看看下次預定到貨的香蕉嗎？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "買！"
+
+msgid "5503"
+msgstr "還是算了"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAHCAQAAAAAAAB8AAAAEAAAAhAAAAKYAAACoAAAAqgAAAMwAAADuAAAAEAEAADIBAABUAQAAdgEAAJgBAACaAQAAnAEAAJ4BAACgAQAAogEAAKQBAACmAQAAqAEAAKoBAACsAQAArgEAALABAACyAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

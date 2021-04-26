@@ -1,0 +1,104 @@
+#, ruby
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]うむ 奥に[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]が映っている この絵……\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]昔 [Color name=\"blue\"]ハイラル城[Color name=\"unset\"]の南には 騎士の叙任式を行う\n"
+"式典場があったらしい\n"
+"今は廃墟になっているが……[PauseShort] この絵に\n"
+"描かれているのは おそらくその式典場だろう"
+
+#, ruby
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]そうかね[PauseShort] もし必要な時は言ってくれ\n"
+"キミには世話になったからな"
+
+#, ruby
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]ん？ キミは…？[PauseMid]\n"
+"失礼だが キミも旅をしているのかね？\n"
+"私は絵が趣味でね\n"
+"美しい風景を求めて旅をしているんだ\n"
+"[Sound2 id=\"2\"]実は この世界のどこかに それはそれは美しい\n"
+"[Color name=\"red\"]大妖精の泉[Color name=\"unset\"]というのがあるらしくてね\n"
+"その泉は美しいだけでなく\n"
+"不思議な力が 秘められているという…[PauseMid]\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]しかし 未だに見つけられなくてね[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]だが 最近カカリコ村の近くにあるという\n"
+"噂を聞いたんだ\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]カカリコ村は 私の故郷でね\n"
+"久しぶりに一度 帰ってみるかな…[PauseMid]"
+
+#, ruby
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]カカリコ村に [Color name=\"red\"]大妖精の泉[Color name=\"unset\"]……[PauseMid]\n"
+"果たして 本当にあるのだろうか……？"
+
+#, ruby
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]ただ……[PauseMid] あの辺りは 非常に危険な場所だ\n"
+"もし行くなら くれぐれも気を付けることだ"
+
+#, ruby
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]ん？ キミは…？[PauseMid]\n"
+"失礼だが 以前どこかで会ったかな？\n"
+"まぁいい ところでキミ\n"
+"[Color name=\"red\"]大妖精の泉[Color name=\"unset\"]というものを 見たことがあるかね？\n"
+"[Sound2 id=\"2\"]この世界のどこかに それはそれは美しい\n"
+"[Color name=\"red\"]大妖精の泉[Color name=\"unset\"]というのがあるらしくてね\n"
+"その泉は美しいだけでなく\n"
+"不思議な力が 秘められているという…[PauseMid]\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]しかし 未だに見つけられなくてね[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]だが 最近カカリコ村の近くにあるという\n"
+"噂を聞いたんだ\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]カカリコ村は 私の故郷でね\n"
+"久しぶりに一度 帰ってみるかな…[PauseMid]"
+
+#, ruby
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]やぁ キミか\n"
+"キミの絵を また見せてくれるのかな？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]やぁ また会ったな\n"
+"キミも 旅の途中かね？\n"
+"私もずっと あちこちと旅をしているのでな\n"
+"また教えてやれる場所が あるかもしれんぞ"
+
+#, ruby
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]む キミは[Color name=\"blue\"]大妖精の泉[Color name=\"unset\"]を見つけてくれた……[PauseMid]\n"
+"奇遇だな キミも旅をしているのか\n"
+"私もさらに あちこち旅をしているからな\n"
+"新たに教えてやれる場所があるかもしれん"
+
+#, ruby
+msgid "0000"
+msgstr "アルバムを見せる"
+
+msgid "0001"
+msgstr "やめておく"
+
+#, ruby
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"4\"]何とも趣のある造形だ……[PauseMid] 自然はなぜ\n"
+"こういったものを造り出せるのか……[PauseMid]"
+
+#, ruby
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]もし見て欲しい絵があれば 出してみなさい[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAGKAQAAAAAAAA0AAAAEAAAAPAAAAFoAAAB4AAAAlgAAAJgAAACaAAAAuAAAANYAAAD0AAAAEgEAADABAABOAQAAbAEAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAANQAAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAANQAAAE4AUABDAF8AYQByAHQAaQBzAHQAXwAwADAANQAAAAAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADUAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAABOAFAAQwBfAGEAcgB0AGkAcwB0AF8AMAAwADAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

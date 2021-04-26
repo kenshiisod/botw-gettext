@@ -1,0 +1,554 @@
+msgid "KyoukaiTalk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]歡迎光臨，這裡是[Color name=\"blue\"]驛站[Color name=\"unset\"]。\n"
+"\n"
+"可以登錄您捕捉的野生馬匹，\n"
+"也能寄放、領取自己的馬匹。\n"
+"如果想[Color name=\"red\"]投宿[Color name=\"unset\"]，\n"
+"請到店裡找櫃檯的服務人員。\n"
+"那麼，請問有什麼吩咐呢？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那麼，為證明這是您自己的馬，[PauseShort]\n"
+"請幫馬匹取名。\n"
+"[Sound1 unk1=\"10\" unk2=\"0\"]啊……請等一下。\n"
+"\n"
+"這不是傳說中的馬\n"
+"「[Color name=\"red\"]伊波娜[Color name=\"unset\"]」嗎……？\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]這匹馬可不能隨便取其他名字呢……\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]就叫「[Color name=\"red\"]伊波娜[Color name=\"unset\"]」可以嗎？[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]歡迎光臨，這裡是[Color name=\"blue\"]驛站[Color name=\"unset\"]。\n"
+"\n"
+"如果把野生馬匹捉來這裡，\n"
+"就能在此登錄那匹馬喔。\n"
+"如果想[Color name=\"red\"]投宿[Color name=\"unset\"]，\n"
+"請到店裡找櫃檯的服務人員。\n"
+"那麼，請問有什麼吩咐呢？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Register21"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]就算您這麼說，\n"
+"也沒辦法替這匹馬另外取名，\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]就用「[Color name=\"red\"]伊波娜[Color name=\"unset\"]」幫您登錄囉？[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk03"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]還有其他吩咐嗎？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]非常感謝。\n"
+"\n"
+"那麼，包含馬匹養護活動、\n"
+"驛站原創的[Color name=\"blue\"]馬鞍[Color name=\"unset\"]和[Color name=\"blue\"]韁繩[Color name=\"unset\"]等費用在內，\n"
+"將跟您收取[Color name=\"red\"]20盧比[Color name=\"unset\"]的登錄費，\n"
+"確定要登錄嗎？[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]哦～您又把野生馬匹捉來了呢！\n"
+"要馬上進行登錄嗎？[Choice2 label1=\"66\" label2=\"67\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register23"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]您要登錄這匹馬嗎？[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"2\"]歡迎光臨。[PauseLong]\n"
+"哎呀，這位客人打扮得還真有活力……\n"
+"由於氣溫會因入夜和下雨而驟降，\n"
+"還請多多保重。\n"
+"本驛站也備有鬆軟的床，\n"
+"歡迎在此投宿。"
+
+msgid "KyoukaiTalk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]這樣呀！真是失禮了……"
+
+msgid "Deliver00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]要領取馬匹是嗎？[PauseLong]\n"
+"要領取哪隻馬匹呢？"
+
+msgid "0040"
+msgstr "要"
+
+msgid "KyoukaiTalk06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]歡迎光臨[Color name=\"blue\"]驛站[Color name=\"unset\"]！\n"
+"無論登錄或領取馬匹，都能為您服務。\n"
+"[04:03]那麼，請問有什麼吩咐呢？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Deliver01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]您現在似乎還沒登錄任何馬匹呢。\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]若想登錄馬匹，請捕捉野生馬匹，[PauseShort]\n"
+"並將牠帶來這裡。\n"
+"完成登錄後，那匹馬就歸您所有了。"
+
+msgid "0041"
+msgstr "不要"
+
+msgid "KyoukaiTalk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]歡迎光臨[Color name=\"blue\"]驛站[Color name=\"unset\"]！\n"
+"\n"
+"如果把野生馬匹捉來這裡，\n"
+"就能在此登錄為自己的馬。\n"
+"[04:03]那麼，請問有什麼吩咐呢？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Deliver02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]確定要領取[Color name=\"red\"][StableHorse][Color name=\"unset\"]嗎？[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0042"
+msgstr "好"
+
+msgid "Deliver03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那麼，我這就幫您\n"
+"寄放[Color name=\"red\"][ActiveHorse][Color name=\"unset\"]，\n"
+"請稍待片刻。"
+
+msgid "0043"
+msgstr "我想換名字"
+
+msgid "Deliver04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]久等了，\n"
+"感謝您利用本服務。"
+
+msgid "Deliver05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那麼，我去辦理手續，\n"
+"請稍待片刻。"
+
+msgid "Deliver06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]那要換成其他馬匹嗎？"
+
+msgid "Deliver07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那麼，我去喚回\n"
+"您目前帶著的[Color name=\"red\"][ActiveHorse][Color name=\"unset\"]，\n"
+"請稍待片刻。"
+
+msgid "Register11"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]這樣呀……\n"
+"別離總是讓人備感寂寞……\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]但請您放心，[PauseLong]\n"
+"馬匹保護協會將會細心照料牠的。"
+
+msgid "Receive01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]您現在似乎沒有帶著自己的馬，[PauseLong]\n"
+"如果有帶自己的馬，這邊就能讓您寄放。"
+
+msgid "Register12"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]啊……[PauseShort]這次不登錄野生馬匹是嗎。\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]我明白了，[PauseLong]\n"
+"歡迎您再次利用本服務。"
+
+msgid "Receive02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]我會為您確實保管。"
+
+msgid "Register13"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]請您替這孩子\n"
+"取個合適的名字。"
+
+msgid "Receive03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]不需要服務了嗎…… \n"
+"我明白了。"
+
+msgid "0030"
+msgstr "放棄"
+
+msgid "Register14"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]非常感謝，[PauseLong]\n"
+"確實收到費用了。"
+
+msgid "Receive04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]好的……\n"
+"歡迎再次利用。"
+
+msgid "0031"
+msgstr "算了"
+
+msgid "Register15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]哎呀，真可惜，\n"
+"您手頭上似乎沒有[Color name=\"red\"]20盧比[Color name=\"unset\"]……\n"
+"沒有盧比的客人，\n"
+"也就無法取得騎乘馬匹的資格……\n"
+"實在非常抱歉。"
+
+msgid "Advice01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]只要在街道上，\n"
+"馬就會自然地沿著街道奔跑。\n"
+"若要穿越街道，不妨將路線交給馬決定，\n"
+"坐在馬背上欣賞一下沿途風景如何？"
+
+msgid "Receive05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]要寄放您帶的這匹[Color name=\"red\"][ActiveHorse][Color name=\"unset\"]是嗎？[PauseMid]\n"
+"確定嗎？[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0032"
+msgstr "要"
+
+msgid "Register16"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]您不打算登錄是嗎……[PauseShort]\n"
+"真可惜……"
+
+msgid "Advice02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"23\"]要是到了讓馬害怕、討厭的地方，\n"
+"無論怎麼擺動韁繩，馬都不會移動的。\n"
+"這時候可以一邊[Color name=\"red\"]注視[Color name=\"unset\"]，\n"
+"一邊用[Color name=\"red\"]踏步移動[Color name=\"unset\"]強行讓馬兒前進，\n"
+"但要小心別掉到山崖下。\n"
+""
+
+msgid "0033"
+msgstr "不要"
+
+msgid "Register17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那麼，為證明這是您自己的馬，[PauseShort]\n"
+"請幫馬匹取名。"
+
+msgid "Advice03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]在馬上要跟人說話時，\n"
+"請一邊[Color name=\"red\"]注視[Color name=\"unset\"]那個人一邊進行對話。\n"
+"但只有緩慢移動時才能進行對話，\n"
+"這點還請多加留意。"
+
+msgid "Register00_1"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]請……請等一下，這位客人，\n"
+"那匹馬……不是怪物嗎？\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]如此奇特的馬\n"
+"本驛站實在無法讓您寄放……"
+
+msgid "0034"
+msgstr "要"
+
+msgid "Register18"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]啊，對了……\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]當與自己的馬匹有一段距離時，\n"
+"只要吹口哨呼喚牠，牠就會飛奔而來！"
+
+msgid "Advice04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]與自己的馬匹有一段距離時，\n"
+"只要吹口哨呼喚牠，牠就會飛奔而來。"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "Register00_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我明白了……[PauseLong]\n"
+"……等等，\n"
+"[Sound1 unk1=\"10\" unk2=\"17\"]咦？那匹馬該不會是傳說中的霸主？\n"
+"\n"
+"[Sound2 id=\"40\"]咿～！請不要把他帶來，\n"
+"會遭天譴的！！"
+
+msgid "0035"
+msgstr "算了"
+
+msgid "Register19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]但要是離得太遠，馬就會聽不見口哨聲，\n"
+"這點還請多加留意！"
+
+msgid "Advice05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]馬匹的[Color name=\"red\"]精力[Color name=\"unset\"]可用來加速，\n"
+"進行高速奔跑。\n"
+"但在高速奔跑的狀態下，\n"
+"會變得很難轉彎，\n"
+"導致容易撞到障礙物，\n"
+"這點需要多加留意。\n"
+"要加速時，\n"
+"記得要在寬敞的地方。"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]早安，有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "Register00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]您真愛說笑……\n"
+"您目前沒有捕捉到野生馬匹呢……\n"
+"若想捕捉野生馬匹，請從背後緩緩靠近，\n"
+"再跳上去騎在馬背上。"
+
+msgid "Register00_3"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]好的，我明白了！\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]嗯？[Pause frames=\"30\"]我說這位客人……\n"
+"那不是馬吧……？\n"
+"如果不是馬匹，\n"
+"本驛站實在無法讓您寄放。"
+
+msgid "0036"
+msgstr "帶走"
+
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "Register01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]好的，我明白了！\n"
+"\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]不好意思，\n"
+"您已經超出登錄上限了……\n"
+"需要放棄其中一匹馬，\n"
+"請問您想如何處理？[Choice2 label1=\"30\" label2=\"31\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0037"
+msgstr "寄放"
+
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "Register02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]這樣呀，請問您要放棄哪匹馬呢？"
+
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]請問要投宿嗎？"
+
+msgid "Register03"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"]選擇放棄後，馬匹就再也不會回來了，\n"
+"確定要放棄嗎？[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]一般的床是[Color name=\"red\"]20盧比[Color name=\"unset\"]，\n"
+"鬆軟的床是[Color name=\"red\"]40盧比[Color name=\"unset\"]。[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0020"
+msgstr "領取"
+
+msgid "Register04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]那就換個心情，\n"
+"為您新帶來的野生馬匹進行登錄，\n"
+"請確認欲進行登錄的馬匹。"
+
+msgid "Talk16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]鬆軟的床是\n"
+"本驛站自豪的特製床，\n"
+"雖然稍貴了一些，但比起一般的床，\n"
+"在鬆軟的床睡醒後會更有活力喔。"
+
+msgid "0021"
+msgstr "算了"
+
+msgid "Register05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]我明白了。\n"
+"\n"
+"您欲進行登錄的馬匹是這匹馬，\n"
+"請確認是否無誤。"
+
+msgid "Register06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]確定要取名為[Color name=\"red\"][02:01 name=\"Horse_NewName\"][Color name=\"unset\"]嗎？[Choice2 label1=\"34\" label2=\"35\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]登錄完畢，[PauseLong]\n"
+"您要直接帶著牠上路嗎？[Choice2 label1=\"36\" label2=\"37\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]那麼，我這就幫您\n"
+"寄放[Color name=\"red\"][ActiveHorse][Color name=\"unset\"]。"
+
+msgid "Register09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]非常感謝，[PauseLong]\n"
+"歡迎再次利用本服務。"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]歡迎光臨，[PauseLong]\n"
+"請問要投宿嗎？"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]歡迎再來！"
+
+msgid "TalkHatu_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]歡迎光臨！[Pause frames=\"15\"]這裡是可以管理馬匹\n"
+"以及住宿的[Color name=\"blue\"]驛站[Color name=\"unset\"]。\n"
+"[04:03]……哎呀？[PauseShort]您是頭一次利用這服務吧？[PauseLong]\n"
+"請問您對[Color name=\"blue\"]驛站[Color name=\"unset\"]的系統還熟悉嗎？[Choice2 label1=\"50\" label2=\"51\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]這位客人……金額好像不夠，[PauseLong]\n"
+"這樣是無法投宿的。"
+
+msgid "TalkHatu_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]那就恕我冒昧說明了。\n"
+"\n"
+"這裡可以寄放或領取自己的馬，[PauseShort]\n"
+"另外，我想您在旅途中可能有看過[Color name=\"red\"]野生馬匹[Color name=\"unset\"]，[PauseShort]\n"
+"請捕捉野生馬匹，並帶來這裡。\n"
+"只要將野生馬匹帶來進行登錄，[PauseShort]\n"
+"就能歸您所有……成為您[Color name=\"red\"]自己的馬[Color name=\"unset\"]。\n"
+"一個人最多能擁有五匹馬，\n"
+"當然也能替換喜歡的馬匹。\n"
+"[04:03]請問要聽聽\n"
+"捕捉野生馬匹的方法嗎？[Choice2 label1=\"52\" label2=\"53\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]請問要休息到何時？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]那就恕我冒昧說明了。\n"
+"\n"
+"若想捕捉野生馬匹，只需從背後緩緩靠近，[PauseShort]\n"
+"趁馬不注意時跳上去騎在馬背上即可。\n"
+"其中也有[Color name=\"blue\"]悍馬[Color name=\"unset\"]，\n"
+"要是牠不停掙扎，請持續安撫，\n"
+"不久後牠就會靜下來了，\n"
+"到時再將牠帶來這裡。\n"
+"[Sound1 unk1=\"11\" unk2=\"4\"]不過，野生馬匹因在野外生活，\n"
+"無法立刻習慣與人接觸，\n"
+"有時會擅自改變方向或減速，\n"
+"騎乘時需要多費點心。\n"
+"如果牠往錯的方向前進，就要溫柔地\n"
+"指示牠\n"
+"「往這邊」，再好好安撫。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]這樣與馬匹不斷交流之後，\n"
+"自然就會被您馴服，願意聽您的話了。"
+
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]請問要休息到何時？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_04"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"0\"]這樣呀，真是失禮了。\n"
+"那麼再次請問……"
+
+msgid "0010"
+msgstr "寄放"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]請好好休息！"
+
+msgid "TalkHatu_05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]我能告訴您的就是這些了。\n"
+"那麼再次請問……"
+
+msgid "0011"
+msgstr "算了"
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]那麼，請好好休息！！"
+
+msgid "TalkHatu_06"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]這位旅行者，您打扮得還真有活力……"
+
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]早安，有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]有睡飽嗎？[PauseLong]\n"
+"路上請小心。"
+
+msgid "0000"
+msgstr "一般的床"
+
+msgid "0001"
+msgstr "鬆軟的床"
+
+msgid "0062"
+msgstr "領取"
+
+msgid "0002"
+msgstr "鬆軟的床是什麼？"
+
+msgid "0063"
+msgstr "寄放"
+
+msgid "0003"
+msgstr "不住了"
+
+msgid "0064"
+msgstr "登錄"
+
+msgid "0004"
+msgstr "到早上"
+
+msgid "0065"
+msgstr "再見"
+
+msgid "0005"
+msgstr "到中午"
+
+msgid "0066"
+msgstr "登錄"
+
+msgid "NakedPlayer"
+msgstr "您看來很冷呢……"
+
+msgid "0006"
+msgstr "到晚上"
+
+msgid "0067"
+msgstr "算了"
+
+msgid "0007"
+msgstr "還是算了"
+
+msgid "0050"
+msgstr "告訴我"
+
+msgid "0051"
+msgstr "已經知道了"
+
+msgid "0052"
+msgstr "我想捕捉馬"
+
+msgid "0053"
+msgstr "我已經知道了"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFqDAAAAAAAAG0AAAAEAAAAvAEAAOABAAAEAgAAKAIAAEwCAABOAgAAUAIAAFICAABUAgAAeAIAAJwCAADAAgAA5AIAAAgDAAAKAwAADAMAAA4DAAAQAwAANAMAAFgDAAB8AwAAoAMAAMQDAADoAwAADAQAADAEAABUBAAAeAQAAHoEAAB8BAAAoAQAAKIEAACkBAAAyAQAAOwEAAAQBQAANAUAAFgFAAB8BQAAoAUAAMQFAADGBQAAyAUAAMoFAADMBQAA8AUAAPIFAAD0BQAAGAYAADwGAABgBgAAYgYAAGQGAACIBgAArAYAANAGAAD0BgAAGAcAADwHAABgBwAAYgcAAGQHAACIBwAArAcAANAHAAD0BwAAGAgAADwIAABgCAAAhAgAAKgIAACqCAAArAgAANAIAAD0CAAAGAkAABoJAAAcCQAAQAkAAGQJAACICQAArAkAAK4JAACwCQAA1AkAAPgJAAAcCgAAHgoAACAKAABECgAAaAoAAIwKAACwCgAAsgoAALQKAADYCgAA2goAANwKAAAACwAAJAsAAEgLAABsCwAAkAsAALQLAADYCwAA/AsAACAMAABEDAAAaAwAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

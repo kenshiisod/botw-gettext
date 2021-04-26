@@ -1,0 +1,209 @@
+msgid "Npc_oasis015_003"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Прохладно у нас по ночам, да?[PauseShort]\n"
+"В такое время лучше сидеть в баре\n"
+"и болтать с подругами."
+
+msgid "Npc_oasis015_004"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Саак-саак, что обратилась ко мне![PauseShort]\n"
+"[Color name=\"blue\"]Топ герудо[Color name=\"unset\"] тебе очень идет.[PageBreak]Помни, что одежду можно\n"
+"покрасить в [Color name=\"blue\"]другой цвет[Color name=\"unset\"]![Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_006"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]А ты разве не знала, что\n"
+"одежду можно красить?[PageBreak][Sound1 unk1=\"7\" unk2=\"4\"]И не только одежду, но и доспехи,\n"
+"кстати![PauseShort] Сейчас это очень модно.[PageBreak]Покраской занимаются в [Color name=\"blue\"]красильне\n"
+"«Восточный ветер» [Color name=\"unset\"]в деревне Хатено.[PageBreak]Это очень далеко, но чего\n"
+"не сделаешь ради красоты!"
+
+msgid "Npc_oasis015_007"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Жарко у нас днем, да?[PauseShort] В это время\n"
+"лучше сидеть в баре и потягивать\n"
+"что-нибудь прохладное."
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_008"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Прекрасно!"
+
+msgid "Com_Talk_14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][02:0F name=\"Shop_TradeItemNum\"], значит?[PauseShort] Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_60"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Хочешь [Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Тогда с тебя [Color name=\"red\"][02:10 name=\"Shop_SelectItemPrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_oasis015_009"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Еще что-нибудь?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Прости, я не могу это купить."
+
+msgid "Com_Talk_61"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Понятно.[PauseShort] Я тоже долго думаю,\n"
+"прежде чем купить новую вещь."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Извини, но я не могу купить\n"
+"то, что еще на тебе."
+
+msgid "Talk_10"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Приходи в любое время!"
+
+msgid "Com_Talk_33"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Могу дать не больше [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Давай что-нибудь еще."
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Что именно?"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Все, то есть [02:0F name=\"Shop_TradeItemNum\"]?[PauseShort]\n"
+"Выходит [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Предложи еще что-нибудь."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Интересные у тебя вещи..."
+
+msgid "0007"
+msgstr "Пока"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Саак-саак."
+
+msgid "0008"
+msgstr "Другой цвет..."
+
+msgid "0009"
+msgstr "Я кое-что продаю"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Ничего страшного."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Спасибо. Я рада любому товару!"
+
+msgid "Npc_oasis015_010"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Чем еще могу помочь?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_Near01"
+msgstr "[Sound2 id=\"28\"]Модная одежда!"
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Что еще предложишь?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Я готова хоть все купить."
+
+msgid "Npc_oasis015_011"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"25\"]Савотта!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Благодарю!"
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "Npc_oasis015_012"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"26\"]Саваак!"
+
+msgid "5501"
+msgstr "Я передумала"
+
+msgid "Npc_oasis015_013"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"27\"]Сав'сааба!"
+
+msgid "Talk_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Саак-саак."
+
+msgid "Npc_oasis015_014"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Как же тебе идет этот наряд![PageBreak]Но советую тебе разнообразить\n"
+"гардероб, например покрасить\n"
+"одежду в [Color name=\"blue\"]другой цвет[Color name=\"unset\"]."
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Советую носить вещи из\n"
+"одного комплекта вместе."
+
+msgid "5503"
+msgstr "Я передумала"
+
+msgid "Npc_oasis015_015"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"28\"]Васаак![PauseShort] В гардеробе любой уважающей\n"
+"себя ваай должны быть вещи разного\n"
+"цвета.[PageBreak]Советую тебе купить несколько [Color name=\"blue\"]топов\n"
+"герудо[Color name=\"unset\"], перекрасить их и каждый день\n"
+"носить [Color name=\"blue\"]другой цвет[Color name=\"unset\"].[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_016"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Саак-саак, что все у меня купила![PageBreak]Если у тебя есть несколько [Color name=\"blue\"]топов\n"
+"герудо[Color name=\"unset\"], перекрась их и каждый день\n"
+"носи [Color name=\"blue\"]другой цвет[Color name=\"unset\"]![Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_017"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Малышка [Color name=\"blue\"]Наборис [Color name=\"unset\"]наконец\n"
+"успокоилась![PauseShort] Интересно,\n"
+"как так получилось?[PageBreak]Ну ладно, главное — теперь\n"
+"у меня торговля лучше пойдет![PageBreak]Слушай, а ты не хочешь освежить\n"
+"свой гардероб?[PauseShort] Одежду ведь можно\n"
+"покрасить в [Color name=\"blue\"]другой цвет[Color name=\"unset\"]![Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_018"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Малышка [Color name=\"blue\"]Наборис [Color name=\"unset\"]наконец\n"
+"успокоилась![PauseShort] Интересно,\n"
+"как так получилось?[PageBreak]Ну ладно, главное — у меня торговля\n"
+"лучше пойдет...[PauseShort] когда товар будет.[PageBreak]Может, сразу закажу\n"
+"одежду [Color name=\"blue\"]другого цвета[Color name=\"unset\"]...[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_019"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"28\"]Васаак!"
+
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Настоящие модницы покупают\n"
+"несколько одинаковых вещей\n"
+"и красят их в разные цвета."
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "Talk_08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Одежды много не бывает — ее всегда\n"
+"можно перекрасить в другой цвет!"
+
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Покупателям туда нельзя.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"][Size percent=\"80\"]Если ты состоишь в обществе,\n"
+"заходи через черный вход.[Size percent=\"100\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGgBAAAAAAAADEAAAAEAAAAzAAAAOYAAAAAAQAAGgEAADQBAABOAQAAaAEAAIIBAACcAQAAtgEAALgBAAC6AQAAvAEAANYBAADwAQAACgIAACQCAAA+AgAAWAIAAHICAACMAgAApgIAAMACAADaAgAA9AIAAA4DAAAoAwAASAMAAGgDAACIAwAAqAMAAMgDAADoAwAACAQAACgEAABIBAAAaAQAAIgEAACKBAAAjAQAAI4EAACQBAAAkgQAAJQEAACWBAAAmAQAAJoEAACcBAAAngQAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAAAAAAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

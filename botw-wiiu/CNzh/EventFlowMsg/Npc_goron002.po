@@ -1,0 +1,213 @@
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]谢谢你鼓咯！[PauseLong]因为那个只剩下展示品，\n"
+"我一直想卖便宜一点呢鼓咯！"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]非常感谢你的购买鼓咯！[PauseLong]\n"
+"我再去进货鼓咯！"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]谢谢惠顾鼓咯！"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]需要帮忙吗鼓咯～？[Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_13"
+msgstr ""
+"要卖[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗鼓咯？[PauseLong]\n"
+"要卖几个呢鼓咯？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "near00"
+msgstr "我这儿什么都有哦鼓咯～"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯！可以吗鼓咯？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]这东西无法在我这交易鼓咯……"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]谢谢你鼓咯！"
+
+msgid "Com_Talk_16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]希望你先把衣服脱下再卖鼓咯。"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]谢谢光临鼓咯！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]感谢你鼓咯～！"
+
+msgid "0001"
+msgstr "来卖东西"
+
+msgid "0002"
+msgstr "这里是？"
+
+msgid "0003"
+msgstr "再见"
+
+msgid "Com_Talk_33"
+msgstr ""
+"要卖1个[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]对吧鼓咯？[PauseLong]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0004"
+msgstr "買います"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]早上好鼓咯～！[PauseLong]\n"
+"杂货店[Color name=\"blue\"]旺盛屋[Color name=\"unset\"]从早上就开门了鼓咯～"
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]那么，让我看看你想卖的东西吧鼓咯。"
+
+msgid "Com_Talk_34"
+msgstr ""
+"要买下所有的[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]鼓咯？[PauseLong]\n"
+"那么[02:0F name=\"Shop_TradeItemNum\"]个总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]你好鼓咯～！[PauseLong]\n"
+"这里是杂货店，通称[Color name=\"blue\"]旺盛屋[Color name=\"unset\"]鼓咯～"
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]总之让我看看吧鼓咯。"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]来来，快选吧鼓咯！"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全卖掉吗鼓咯？[PauseLong]\n"
+"那我总共用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]收购鼓咯！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]这么晚还没睡，辛苦了鼓咯～！[PauseShort]\n"
+"这里是杂货店，通称[Color name=\"blue\"]旺盛屋[Color name=\"unset\"]鼓咯～"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要卖[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]鼓咯？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，可以吗鼓咯？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]让我多收购点吧鼓咯！"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]谢谢你鼓咯！[PauseLong]\n"
+"还想卖其他东西吗鼓咯？"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]来了鼓咯～[PauseShort]\n"
+"你要卖什么呢鼓咯？"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]从每天的饮食到护身的防具都有，\n"
+"为你忙碌的日子增添乐趣！\n"
+"……这是本杂货店的宗旨鼓咯～！"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]交易完成……[PauseShort]鼓咯！[PauseLong]\n"
+"还想卖其他东西吗鼓咯？"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]哎呀，真可惜鼓咯。"
+
+msgid "Com_Talk_50"
+msgstr ""
+"要买[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]的话，\n"
+"是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯！可以吗鼓咯？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]谢谢惠顾鼓咯！[PauseLong]还要多卖点吗鼓咯？"
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]任何东西我都收购鼓咯！"
+
+msgid "Com_Talk_51"
+msgstr ""
+"要买[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]鼓咯？\n"
+"要买几个鼓咯？[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]再见啦～！"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]OK～鼓咯！[PauseLong]\n"
+"其他东西呢鼓咯？"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯！可以吗鼓咯？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "好"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]哦？[PauseShort]已经卖完了鼓咯？[PauseLong]\n"
+"我再去进货鼓咯！"
+
+msgid "Com_Talk_53"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]哎呀，真可惜鼓咯。"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]感谢你鼓咯！[PauseLong]\n"
+"多亏了你，库存才能清空啊鼓咯！"
+
+msgid "Com_Talk_54"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]你的卢比不够了鼓咯。[PauseLong]\n"
+"先多赚点钱再来鼓咯。"
+
+msgid "5502"
+msgstr "买"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]你的袋子已经满了鼓咯。[PauseLong]\n"
+"你先清出空间再来吧鼓咯。"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]你的袋子已经满了鼓咯。[PauseLong]\n"
+"先清出空间再来鼓咯。"
+
+msgid "5503"
+msgstr "还是算了"
+
+msgid "Com_Talk_56"
+msgstr ""
+"要买1个[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]鼓咯？[PauseLong]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]鼓咯！[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5507"
+msgstr "全买了"
+
+msgid "5508"
+msgstr "全卖了"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAF0AwAAAAAAADQAAAAEAAAA2AAAAPIAAAD0AAAA9gAAAPgAAAD6AAAAFAEAAC4BAABIAQAAYgEAAHwBAACWAQAAsAEAAMoBAADkAQAA/gEAABgCAAAaAgAAHAIAAB4CAAAgAgAAIgIAACQCAAAmAgAAKAIAACoCAAAsAgAALgIAADACAABKAgAAZAIAAH4CAACYAgAAuAIAANgCAAD4AgAAGAMAADgDAAA6AwAAPAMAAD4DAABAAwAAQgMAAEQDAABGAwAASAMAAGgDAABqAwAAbAMAAG4DAABwAwAAcgMAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAAAAAAAAAAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMgAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADIAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMgAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADIAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMgAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADIAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMgAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADIAAABOAHAAYwBfAGcAbwByAG8AbgAwADAAMgAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAAyAAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADIAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

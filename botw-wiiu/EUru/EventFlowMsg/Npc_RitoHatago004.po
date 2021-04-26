@@ -1,0 +1,488 @@
+msgid "KyoukaiTalk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Добро пожаловать в нашу [Color name=\"blue\"]конюшню[Color name=\"unset\"]![PageBreak]Здесь ты можешь зарегистрировать\n"
+"дикую лошадь, а также взять или\n"
+"оставить одну из своих лошадей.[PageBreak]Если хочешь [Color name=\"red\"]отдохнуть[Color name=\"unset\"],\n"
+"подойди к стойке внутри.[PageBreak]Итак, чем могу помочь?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Теперь лошадь официально\n"
+"твоя.[PauseShort] Как ты ее назовешь?[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]Стоп, это ведь легендарная [Color name=\"red\"]Эпона[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Было бы неправильно\n"
+"давать ей другую кличку...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Пусть остается [Color name=\"red\"]Эпоной[Color name=\"unset\"], верно?[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Добро пожаловать в нашу [Color name=\"blue\"]конюшню[Color name=\"unset\"]![PageBreak]Если ты поймал дикую лошадь,\n"
+"можешь тут ее зарегистрировать.[PageBreak]Если хочешь [Color name=\"red\"]отдохнуть[Color name=\"unset\"],\n"
+"подойди к стойке внутри.[PageBreak]Итак, чем могу помочь?[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Register21"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Я все понимаю, но давать ей\n"
+"другую кличку неправильно.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Пусть остается [Color name=\"red\"]Эпоной[Color name=\"unset\"], верно?[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk03"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Чем еще могу помочь?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Register22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Сейчас все сделаю.[PageBreak]Регистрация не бесплатная, зато ты\n"
+"получишь [Color name=\"blue\"]седло[Color name=\"unset\"] и [Color name=\"blue\"]узду[Color name=\"unset\"], изготовленные\n"
+"в нашей конюшне.[PageBreak]Сбор составляет [Color name=\"red\"]20 рупий[Color name=\"unset\"].[PauseShort]\n"
+"Тебя это устраивает?[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KyoukaiTalk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Ого! Ты поймал дикую лошадь![PauseShort]\n"
+"Хочешь ее зарегистрировать?[Choice2 label1=\"66\" label2=\"67\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register23"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]Хочешь зарегистрировать эту лошадь?[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"2\"]Добро пожаловать![PauseShort] Ты чего в таком\n"
+"виде разгуливаешь?[PauseShort] Не стыдно?[PageBreak]Хочешь у нас остановиться?[PauseShort]\n"
+"Кровати удобные, теплые..."
+
+msgid "KyoukaiTalk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Вот как? Ну ладно."
+
+msgid "Deliver00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Какую лошадь хочешь взять?"
+
+msgid "0040"
+msgstr "Да"
+
+msgid "KyoukaiTalk06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Добро пожаловать в нашу [Color name=\"blue\"]конюшню[Color name=\"unset\"]![PageBreak]Здесь ты можешь зарегистрировать\n"
+"дикую лошадь, а также взять или\n"
+"оставить одну из своих лошадей.[PageBreak][04:03]Итак, чем могу помочь?[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Deliver01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Но сейчас на тебя не записано\n"
+"ни одной лошади![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Поймай дикую лошадь и зарегистрируй\n"
+"ее в конюшне — тогда она официально\n"
+"станет твоей."
+
+msgid "0041"
+msgstr "Нет"
+
+msgid "KyoukaiTalk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Добро пожаловать в нашу [Color name=\"blue\"]конюшню[Color name=\"unset\"]![PageBreak]Если ты поймал дикую лошадь,\n"
+"можешь тут ее зарегистрировать.[PageBreak][04:03]Итак, чем могу помочь?[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Deliver02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"6\"][Color name=\"red\"][StableHorse][Color name=\"unset\"], верно?[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0042"
+msgstr "Согласен"
+
+msgid "Deliver03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"][Color name=\"red\"][ActiveHorse][Color name=\"unset\"] останется у нас.[PauseShort]\n"
+"Не волнуйся за нее.[PauseShort] Секундочку..."
+
+msgid "0043"
+msgstr "Изменить кличку"
+
+msgid "Deliver04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Спасибо, что подождал![PauseShort]\n"
+"Обращайся еще."
+
+msgid "Deliver05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Надо все записать.[PauseShort] Секундочку..."
+
+msgid "Deliver06"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Хочешь взять другую лошадь?"
+
+msgid "Deliver07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"][Color name=\"red\"][ActiveHorse][Color name=\"unset\"] — красавица.[PauseShort]\n"
+"Сейчас я ее позову.[PauseShort] Секундочку..."
+
+msgid "Register11"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Расставаться с любимой\n"
+"лошадью всегда тяжело.[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Уверяю, мы о ней позаботимся."
+
+msgid "Receive01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Кажется, на тебя пока не записано ни\n"
+"одной лошади.[PauseShort] У нас можно оставлять\n"
+"только зарегистрированных лошадей."
+
+msgid "Register12"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Значит, регистрация отменяется.[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Ну ладно.[PauseShort] Если что, мы\n"
+"всегда к твоим услугам."
+
+msgid "Receive02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Мы о ней позаботимся."
+
+msgid "Register13"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Пожалуйста, дай своей\n"
+"лошади подходящую кличку."
+
+msgid "Receive03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Передумал, значит? Ну ладно."
+
+msgid "0030"
+msgstr "Отпущу другую"
+
+msgid "Register14"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Регистрационный сбор\n"
+"уплачен. Спасибо."
+
+msgid "Receive04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]До свидания.[PauseShort] Приходи еще."
+
+msgid "0031"
+msgstr "Я подумаю"
+
+msgid "Register15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Хм, но у тебя нет [Color name=\"red\"]20 рупий[Color name=\"unset\"],\n"
+"чтобы оплатить регистрацию.[PageBreak]Прости, но я не могу записать\n"
+"на тебя лошадь бесплатно."
+
+msgid "Advice01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Кстати, хорошо объезженная лошадь\n"
+"будет сама держаться дороги.[PageBreak]Можешь даже выпустить поводья\n"
+"из рук и наслаждаться пейзажем."
+
+msgid "Receive05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"red\"][ActiveHorse][Color name=\"unset\"] — красавица![PauseShort]\n"
+"Хочешь ее оставить, верно?[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0032"
+msgstr "Да"
+
+msgid "Register16"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Значит, регистрация\n"
+"отменяется.[PauseShort] Ясно..."
+
+msgid "Advice02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"23\"]Кстати, если лошадь испугается или\n"
+"ты заведешь ее в неудобное место,\n"
+"она встанет как вкопанная.[PageBreak]И как ни тяни поводья, она\n"
+"даже с места не сдвинется.[PageBreak]В таком случае используй [Color name=\"red\"]нацеливание[Color name=\"unset\"]\n"
+"и выведи лошадь куда нужно — [Color name=\"red\"]шаг за\n"
+"шагом[Color name=\"unset\"], очень медленно.[PageBreak]Будь осторожен: так можно легко\n"
+"сорваться с обрыва или скалы."
+
+msgid "0033"
+msgstr "Нет"
+
+msgid "Register17"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Теперь лошадь официально\n"
+"твоя.[PauseShort] Как ты ее назовешь?"
+
+msgid "Advice03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Кстати, ты можешь говорить со\n"
+"всеми, не слезая с лошади: просто\n"
+"используй [Color name=\"red\"]нацеливание[Color name=\"unset\"].[PageBreak]Правда, поговорить получится,\n"
+"только если лошадь стоит или\n"
+"идет очень медленно."
+
+msgid "Register00_1"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Но...[PauseShort] но это ведь не лошадь,\n"
+"а чудовище какое-то![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Извини, но такого «скакуна»\n"
+"я зарегистрировать не могу."
+
+msgid "0034"
+msgstr "Да"
+
+msgid "Register18"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Кстати...[PageBreak][Sound1 unk1=\"1\" unk2=\"0\"]Если отойдешь от лошади,\n"
+"можешь подозвать ее свистом."
+
+msgid "Advice04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Кстати, если отойдешь от лошади,\n"
+"можешь подозвать ее свистом."
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Надеюсь, тебе у нас понравилось.[PauseShort]\n"
+"Приходи еще!"
+
+msgid "Register00_2"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Сейчас все сдела...[PauseShort] Стоп![PageBreak][Sound1 unk1=\"10\" unk2=\"17\"]Это...[PauseShort] это ведь Горный владыка![PageBreak][Sound2 id=\"40\"]А-а![PauseShort] Зачем ты его привел![PauseShort]\n"
+"На нас падет проклятье!"
+
+msgid "0035"
+msgstr "Я передумал"
+
+msgid "Register19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Но помни: если ты будешь далеко,\n"
+"то она просто не услышит тебя."
+
+msgid "Advice05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Кстати, некоторые лошади очень\n"
+"[Color name=\"red\"]выносливы [Color name=\"unset\"]и могут долго бежать\n"
+"галопом.[PageBreak]Но будь осторожен: на полном скаку\n"
+"трудно поворачивать и объезжать\n"
+"препятствия.[PageBreak]Старайся пускать лошадь в галоп\n"
+"только на открытой местности."
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Доброе утро![PauseShort] Надеюсь, тебе у нас\n"
+"понравилось.[PauseShort] Желаю хорошего дня!"
+
+msgid "Register00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Хм, а где дикая лошадь, которую\n"
+"надо зарегистрировать?[PageBreak]Чтобы поймать дикую лошадь, нужно\n"
+"незаметно подобраться к ней сзади\n"
+"и запрыгнуть на нее."
+
+msgid "Register00_3"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Сейчас все сдела...[PauseShort] Стоп![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Это ведь не лошадь![PauseShort] Извини, но\n"
+"мы регистрируем только лошадей."
+
+msgid "0036"
+msgstr "Да, возьму"
+
+msgid "Talk12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Надеюсь, тебе у нас понравилось.[PauseShort]\n"
+"Желаю хорошего дня!"
+
+msgid "Register01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Сейчас все сдела...[PauseShort] Стоп.[PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]К сожалению, на тебя уже\n"
+"записано пять лошадей.[PageBreak]Если хочешь зарегистрировать еще\n"
+"одну лошадь, придется отпустить\n"
+"другую.[PauseShort] Что будешь делать?[Choice2 label1=\"30\" label2=\"31\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0037"
+msgstr "Оставлю здесь"
+
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Надеюсь, тебе у нас понравилось.[PauseShort]\n"
+"Приходи еще!"
+
+msgid "Register02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Какую лошадь хочешь отпустить?"
+
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Остановишься у нас?"
+
+msgid "Register03"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"]Если отпустишь эту лошадь,\n"
+"уже не сможешь вернуть ее.[PauseShort]\n"
+"Уверен, что хочешь отпустить?[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Обычная кровать стоит [Color name=\"red\"]20 рупий[Color name=\"unset\"],\n"
+"а мягкая — [Color name=\"red\"]40 рупий[Color name=\"unset\"].[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0020"
+msgstr "Верно"
+
+msgid "Register04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]Ну вот, теперь мы можем записать\n"
+"на тебя новую лошадь.[PauseShort] Итак..."
+
+msgid "Talk16"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Мягкая кровать — гордость\n"
+"нашей конюшни.[PageBreak]Она немного дороже обычной, зато\n"
+"на ней можно прекрасно выспаться\n"
+"и отдохнуть."
+
+msgid "0021"
+msgstr "Я передумал"
+
+msgid "Register05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Понятно, значит, регистрация..."
+
+msgid "Register06"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"red\"][02:01 name=\"Horse_NewName\"][Color name=\"unset\"]?[PauseShort] Такую\n"
+"кличку ты хочешь ей дать?[Choice2 label1=\"34\" label2=\"35\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]Регистрация завершена.[PauseMid]\n"
+"Возьмешь лошадь с собой?[Choice2 label1=\"36\" label2=\"37\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Хорошо.[PauseShort] [Color name=\"red\"][ActiveHorse][Color name=\"unset\"]\n"
+"останется у нас."
+
+msgid "Register09"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Спасибо за обращение![PauseShort] До свидания."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Добро пожаловать![PauseShort]\n"
+"Хочешь у нас остановиться?"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Приходи в любое время!"
+
+msgid "TalkHatu_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Добро пожаловать в нашу [Color name=\"blue\"]конюшню[Color name=\"unset\"].[PauseShort]\n"
+"Мы занимаемся всем, что связано\n"
+"с лошадьми.[PageBreak]А еще ты можешь у нас переночевать.[PageBreak][04:03]По-моему, ты у нас раньше не бывал.[PauseShort]\n"
+"Знаешь, как тут все устроено?[Choice2 label1=\"50\" label2=\"51\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]К сожалению, у тебя недостаточно\n"
+"денег.[PauseShort] Я не могу дать тебе кровать."
+
+msgid "TalkHatu_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]С удовольствием![PageBreak]В конюшнях ты можешь\n"
+"оставлять своих лошадей.[PageBreak]Оставив лошадь в одной из\n"
+"конюшен, ты можешь забрать\n"
+"ее в любой другой.[PageBreak]Если поймаешь [Color name=\"red\"]дикую лошадь[Color name=\"unset\"] —\n"
+"приводи: мы ее [Color name=\"red\"]зарегистрируем[Color name=\"unset\"],\n"
+"и она официально станет твоей.[PageBreak]Всего на тебя может быть\n"
+"записано до пяти лошадей.[PageBreak]Можешь брать и оставлять\n"
+"их в конюшнях когда угодно.[PageBreak][04:03]Хочешь знать, как ловят лошадей?[Choice2 label1=\"52\" label2=\"53\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Когда тебя разбудить?[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Давай расскажу.[PageBreak]Чтобы поймать дикую лошадь, нужно\n"
+"незаметно подобраться к ней сзади\n"
+"и запрыгнуть на нее.[PageBreak]Лошадь может оказаться [Color name=\"blue\"]строптивой[Color name=\"unset\"]:\n"
+"если она пытается тебя сбросить,\n"
+"похлопай ее, чтобы успокоить.[PageBreak]Когда лошадь успокоится, приведи\n"
+"ее в конюшню и зарегистрируй.[PageBreak][Sound1 unk1=\"11\" unk2=\"4\"]Помни, что некоторые лошади\n"
+"долго привыкают к наезднику.[PageBreak]Они могут не слушаться, сбиваться\n"
+"с пути, неожиданно останавливаться...[PageBreak]В таких случаях осторожно направь\n"
+"лошадь в нужную сторону и похвали,\n"
+"тихонько похлопав ее по шее.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Постепенно она начнет тебе\n"
+"доверять и станет послушной."
+
+msgid "Talk05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Когда тебя разбудить?[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "TalkHatu_04"
+msgstr "[Sound1 unk1=\"5\" unk2=\"0\"]Ну хорошо.[PauseShort] Тогда давай сначала..."
+
+msgid "0010"
+msgstr "Верно"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Приятных снов!"
+
+msgid "TalkHatu_05"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Вот, пожалуй, и все.[PauseShort]\n"
+"Теперь давай сначала..."
+
+msgid "0011"
+msgstr "Я передумал"
+
+msgid "Talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Приятных снов![PauseShort] Спи спокойно!"
+
+msgid "TalkHatu_06"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Хорошо выглядишь, путешественник!"
+
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Доброе утро![PauseShort] Надеюсь, тебе у нас\n"
+"понравилось.[PauseShort] Желаю хорошего дня!"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]Надеюсь, тебе у нас понравилось.[PauseShort]\n"
+"Желаю хорошего дня!"
+
+msgid "0000"
+msgstr "Возьму обычную"
+
+msgid "0001"
+msgstr "Хочу мягкую"
+
+msgid "0062"
+msgstr "Взять лошадь"
+
+msgid "0002"
+msgstr "А в чем разница?"
+
+msgid "0063"
+msgstr "Оставить лошадь"
+
+msgid "0003"
+msgstr "Ничего не надо"
+
+msgid "0064"
+msgstr "Зарегистрировать"
+
+msgid "0004"
+msgstr "Утром"
+
+msgid "0065"
+msgstr "До свидания"
+
+msgid "0005"
+msgstr "Днем"
+
+msgid "0066"
+msgstr "Зарегистрировать"
+
+msgid "NakedPlayer"
+msgstr "Тебе не холодно?"
+
+msgid "0006"
+msgstr "Вечером"
+
+msgid "0067"
+msgstr "Нет, не надо"
+
+msgid "0007"
+msgstr "Я передумал"
+
+msgid "0050"
+msgstr "Расскажи!"
+
+msgid "0051"
+msgstr "Знаю, знаю..."
+
+msgid "0052"
+msgstr "Как ловят лошадей?"
+
+msgid "0053"
+msgstr "Уже знаю"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFqDAAAAAAAAG0AAAAEAAAAvAEAAOABAAAEAgAAKAIAAEwCAABOAgAAUAIAAFICAABUAgAAeAIAAJwCAADAAgAA5AIAAAgDAAAKAwAADAMAAA4DAAAQAwAANAMAAFgDAAB8AwAAoAMAAMQDAADoAwAADAQAADAEAABUBAAAeAQAAHoEAAB8BAAAoAQAAKIEAACkBAAAyAQAAOwEAAAQBQAANAUAAFgFAAB8BQAAoAUAAMQFAADGBQAAyAUAAMoFAADMBQAA8AUAAPIFAAD0BQAAGAYAADwGAABgBgAAYgYAAGQGAACIBgAArAYAANAGAAD0BgAAGAcAADwHAABgBwAAYgcAAGQHAACIBwAArAcAANAHAAD0BwAAGAgAADwIAABgCAAAhAgAAKgIAACqCAAArAgAANAIAAD0CAAAGAkAABoJAAAcCQAAQAkAAGQJAACICQAArAkAAK4JAACwCQAA1AkAAPgJAAAcCgAAHgoAACAKAABECgAAaAoAAIwKAACwCgAAsgoAALQKAADYCgAA2goAANwKAAAACwAAJAsAAEgLAABsCwAAkAsAALQLAADYCwAA/AsAACAMAABEDAAAaAwAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAE4AcABjAF8AUgBpAHQAbwBIAGEAdABhAGcAbwAwADAANAAAAAAAAABOAHAAYwBfAFIAaQB0AG8ASABhAHQAYQBnAG8AMAAwADQAAAAAAAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAATgBwAGMAXwBSAGkAdABvAEgAYQB0AGEAZwBvADAAMAA0AAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

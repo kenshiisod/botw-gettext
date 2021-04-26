@@ -1,0 +1,119 @@
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]じゃあ [Color name=\"blue\"]燃えず薬[Color name=\"unset\"] 兄ちゃんなら特別に\n"
+"[Color name=\"red\"]60ルピー[Color name=\"unset\"]で売ってやるコロ！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]やぁハイラルの人！\n"
+"\n"
+"[Color name=\"blue\"]ルーダニア[Color name=\"unset\"]が大人しくなっても[PauseShort]\n"
+"まだまだ熱いコロね～\n"
+"そんな時は[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を 塗るといいコロ！[PauseLong]\n"
+"要るコロ？[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near00"
+msgstr "もももも…"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]ん？ [PauseShort]ルピーが足りないコロ！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]なんだよー… [PauseShort]シケてんなーコロ"
+
+msgid "near01"
+msgstr "スヤ… スヤ…"
+
+#, ruby
+msgid "talk04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]売ーれた売れた！ [PauseShort]はい どうぞコロ"
+
+msgid "near02"
+msgstr "ふぁぁぁ…"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]ハイリア人[Color name=\"unset\"]なら もっと要るはずコロ！[PauseShort]\n"
+"[Color name=\"blue\"]燃えず薬[Color name=\"unset\"] [Color name=\"red\"]60ルピー[Color name=\"unset\"]で買うコロ！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ん？ [PauseShort]ポーチがいっぱいコロ！[PauseLong]\n"
+"空きを作ってから また来てね"
+
+#, ruby
+msgid "talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]兄ちゃん 買って！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"3\" unk2=\"16\"]ハイリア人[Color name=\"unset\"]なら要るコロ？[PauseLong]\n"
+"[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]！[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk09"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]火傷したって 知らねーコロ！"
+
+#, ruby
+msgid "0000"
+msgstr "何を？"
+
+#, ruby
+msgid "0001"
+msgstr "結構です"
+
+#, ruby
+msgid "0002"
+msgstr "要るかも"
+
+#, ruby
+msgid "0003"
+msgstr "買います"
+
+#, ruby
+msgid "talk10"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"0\"]燃えず薬[Color name=\"unset\"] 要るコロ？[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0004"
+msgstr "やめとく"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]…んがんぐ[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ん？ [PauseShort]お客さん？！"
+
+#, ruby
+msgid "talk12"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]だったら起こすなコロ！"
+
+#, ruby
+msgid "talk00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"80\"][Color name=\"blue\"]ヒケシトカゲ[Color name=\"Gray\"]と[Color name=\"blue\"]魔物の素材[Color name=\"unset\"][Color name=\"Gray\"]を料理するだけなのに…[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]またね～！"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]へへ\n"
+"\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]しめしめ…[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"unset\"]じゃなくて"
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]はい どうぞコロ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAIIAAACcAAAAtgAAALgAAAC6AAAAvAAAAL4AAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

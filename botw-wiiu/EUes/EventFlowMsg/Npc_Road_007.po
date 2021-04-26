@@ -1,0 +1,400 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]¡No hay ataque que un goron curtido\n"
+"no pueda resistir!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]¿Qué me gorovendes?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"Puedo darte [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"si te gorovale.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]¡Gorogracias![PauseShort] ¿Alguna otra cosa?"
+
+msgid "MSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]El mineral que se extrae de la\n"
+"[Color name=\"blue\"]Montaña de la Muerte[Color name=\"unset\"] tiene una\n"
+"gorocalidad tremenda, ¿no crees?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]Vaya...[PauseMid] ¡Qué gorolástima!"
+
+msgid "Com_Talk_10"
+msgstr "¿Te llevas [C9:01][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "¡Te compro lo que sea!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]¡Gracias!"
+
+msgid "RetMSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hasta a los goron nos duele si nos cae\n"
+"encima un [Color name=\"blue\"]proyectil de lava[Color name=\"unset\"].[PauseLong] Ten cuidado\n"
+"si vas a la [Color name=\"blue\"]Montaña de la Muerte[Color name=\"unset\"]."
+
+msgid "Com_Talk_06"
+msgstr "¿Qué te gorointeresa?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]Tengo unos gorominerales muy\n"
+"interesantes.[PauseMid] ¡Echa un vistazo!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]¡Gorogracias!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]Vaya... [PauseShort]De eso no me queda."
+
+msgid "Com_Talk_13"
+msgstr "¿Qué cantidad me gorovendes?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]¡Muchas gracias!"
+
+msgid "Com_Talk_08"
+msgstr "[Sound2 id=\"14\"]Parece que no tienes suficientes rupias..."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Te puedo ofrecer [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"¿te parece?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]Como hace este tiempo, te voy a ofrecer\n"
+"algo diferente.[PauseMid] ¡Incluso pongo a la venta\n"
+"un [Color name=\"red\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"], y eso sí que es raro!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"7\"]¡Te lo goroagradezco!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Tienes la alforja llena.[PauseShort] Vende algo\n"
+"o tira lo que no goronecesites."
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Eso no te lo puedo comprar..."
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]¡Toma! Debo darte las gorogracias\n"
+"de alguna forma..."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]¡No puedo comprarte lo\n"
+"que llevas puesto!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"El total se pone en [MoneyVar name=\"ShopTradePrice\"] [Color name=\"red\"][SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"¿estamos?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "Muy bien. ¿Y qué cantidad va a ser?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Ah, qué fresquito hace en la\n"
+"[Color name=\"blue\"]posta de la montaña[Color name=\"unset\"],[PauseLong] sobre todo\n"
+"en comparación con [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]."
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"12\"]Estoy intentando hacerme pasar por\n"
+"una goropiedra, a ver si cuela..."
+
+msgid "Com_Talk_33"
+msgstr ""
+"De acuerdo, pues eso hace un gorototal\n"
+"de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"]. ¿Trato hecho?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"12\"]¿Habrá...[PauseMid] algún...[PauseMid] otro goromonstruo\n"
+"por ahí suelto?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"¿Todo? ¿En serio?[PauseLong] Pues... serán\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], si te parece bien.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"¿Todas tus goroexistencias?[PauseLong] Puedo\n"
+"darte [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], si te parece bien.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]¡Esa era mi última gorounidad![PauseLong]\n"
+"Gracias por comprar tantas cosas."
+
+msgid "MSG_Orud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si usas un poco de [Color name=\"red\"]elixir ignífugo[Color name=\"unset\"],\n"
+"podrás soportar este gorocalor.[PageBreak]Para elaborarlo solo tienes que\n"
+"mezclar [Color name=\"red\"][C9:00 bytes=\"01000000\"]lagarto ignífugo[Color name=\"unset\"] con otra\n"
+"cosa que ahora no recuerdo.\n"
+"En fin...[PauseShort] ¡Será mejor que sigamos\n"
+"hablando de negocios!"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]¡Qué miedo dan los goromonstruos!"
+
+msgid "Com_Talk_05b"
+msgstr ""
+"Estoy dispuesto a comprarte\n"
+"cualquier gorocosa."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]¡Muchas gorogracias!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"0\"]Vaya, parece que me he quedado\n"
+"sin existencias...[PauseLong] ¿Quieres ver qué\n"
+"minerales voy a traer de [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Yo soy de [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"], que está un\n"
+"poco más adelante, y vendo el mineral\n"
+"que recojo en la [Color name=\"blue\"]Montaña de la Muerte[Color name=\"unset\"]."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Bueno, echa un vistazo a ver si\n"
+"te interesa alguna gorocosa.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]¡Que sea goron no quiere decir\n"
+"que sea un monstruo!"
+
+msgid "Com_Talk_05c"
+msgstr ""
+"Si hay algo que no necesites, te lo\n"
+"compro encantado."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]¡Es un placer hacer negocios contigo!"
+
+msgid "MSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No parece que tu cuerpo esté hecho\n"
+"de roca, así que deberías buscar\n"
+"protección frente al fuego.\n"
+"Te recomiendo que uses [Color name=\"red\"]elixir ignífugo[Color name=\"unset\"],[PauseShort]\n"
+"¡es el no va más![PageBreak]Para elaborarlo basta con goromezclar\n"
+"[Color name=\"red\"][C9:00 bytes=\"01000000\"]lagarto ignífugo[Color name=\"unset\"] y... otro ingrediente.\n"
+"Ahora no recuerdo cuál era."
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Necesitas alguna gorocosa?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Si quieres, te puedo comprar algo."
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]¡Te lo agradezco!"
+
+msgid "MSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Me harté de trabajar en las termas,[PauseShort]\n"
+"así que dejé atrás [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]\n"
+"y me marché a ver mundo.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Me moría de ganas por ver sitios\n"
+"en los que hiciese frío, y lugares\n"
+"verdes y llenos de vegetación.\n"
+"¡No veas qué cambio!"
+
+msgid "RetMSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Hace un calor criminal, caen rocas\n"
+"por todas partes y acechan [C9:00 bytes=\"01000000\"]monstruos\n"
+"en cada esquina.\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]¡Así es [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]![PauseShort]\n"
+"Te gorodiriges allí, ¿verdad?[PauseShort]\n"
+"Ya casi has llegado.[PageBreak]Yo he dejado mi ciudad natal para\n"
+"hacerme gorovendedor ambulante."
+
+msgid "RetMSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]El [Color name=\"blue\"]camino de la montaña[Color name=\"unset\"] es peligroso por\n"
+"el calor que hace.[PauseLong] Si vas a [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"],\n"
+"equípate bien contra el gorofuego."
+
+msgid "MSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si vas a las famosas termas goron de\n"
+"[Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"],[PauseShort] ten cuidado con los\n"
+"proyectiles de gorolava.\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]Como ando lejos de allí, no sé si siguen\n"
+"cayendo, pero tú ve con cuidado."
+
+msgid "RetMSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]¿Cómo le irá la vida a [Color name=\"red\"]Yunobo[Color name=\"unset\"] por\n"
+"[Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]?[PauseMid] A veces lo echo de\n"
+"menos... ¡es tan gorosimpático!"
+
+msgid "MSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Se está muy a gusto en la\n"
+"[Color name=\"blue\"]posta de la montaña[Color name=\"unset\"]. [PauseMid]¡La brisa fresca\n"
+"de la zona me deja la goropiel muy tersa!\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Aunque...[PauseShort] pensándolo bien, igual para\n"
+"un hyliano en realidad hace más bien\n"
+"gorocalor, ¿no?"
+
+msgid "RetMSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]No sé si es muy normal que caigan\n"
+"proyectiles de lava así como así...[PauseShort]\n"
+"Nunca lo goroentenderé."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]¿Has estado alguna vez en mi hogar,\n"
+"[Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]?[PageBreak]Puede que parezca obvio, pero por\n"
+"si acaso te lo digo: es donde vive\n"
+"la tribu de los goron."
+
+msgid "RetMSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]En el [Color name=\"blue\"]camino que lleva al volcán[Color name=\"unset\"] hace\n"
+"tanto calor que solo los goron podemos\n"
+"soportarlo sin derretirnos.\n"
+"Si te acercas por [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"], procura\n"
+"llevar protección frente al fuego.[PauseShort] ¡No\n"
+"digas que no te avisé!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Nuestros gorocuerpos son tan duros\n"
+"y macizos como las piedras![PageBreak]Resisten al fuego, ganan a las tijeras,\n"
+"pierden contra el goropapel... O algo\n"
+"así."
+
+msgid "5500"
+msgstr "Sí"
+
+msgid "RetMSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Los goron vivimos de los minerales.[PauseMid]\n"
+"Unos los vendemos y otros se los\n"
+"zampan."
+
+msgid "Com_Talk_56"
+msgstr ""
+"¿Solo una unidad?[PauseShort] Se queda\n"
+"en [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿vale?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "No"
+
+msgid "RetMSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"] ya no está muy lejos de\n"
+"aquí. [PauseMid]Ay, es tan hermosa, con esos\n"
+"pedruscos y gorominerales por doquier..."
+
+msgid "0000"
+msgstr "¡Compro!"
+
+msgid "5502"
+msgstr "Compro"
+
+msgid "0001"
+msgstr "¡Vendo!"
+
+msgid "5503"
+msgstr "Déjalo"
+
+msgid "0002"
+msgstr "Adiós"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]¡Gorooo!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]¡Uf, qué gorosusto!"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]¡Gorogooooro!"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Menos mal que estoy gorosano y salvo."
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]¡Eooo!"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]Dubidú."
+
+msgid "5507"
+msgstr "Me lo llevo todo"
+
+msgid "Near04"
+msgstr "¡Que me mojo!"
+
+msgid "5508"
+msgstr "Te lo vendo todo"
+
+msgid "MSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo mío es viajar vendiendo mercancía\n"
+"por el goromundo, no trabajar en\n"
+"las [Color name=\"blue\"]termas goron[Color name=\"unset\"]."
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]¡Corre![PauseMid] ¡Los rayos de un [Color name=\"blue\"]guardián[Color name=\"unset\"]\n"
+"pueden destruir hasta las gororrocas!"
+
+msgid "RetMSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Los goron vivimos en estrecha relación\n"
+"con las piedras.[PageBreak]Yo me dedico a vender gorominerales,\n"
+"por eso de seguir con la tradición."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]No sé cómo ni por qué, pero estoy bien."
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]¡Vámonos de aquí antes de que la cosa\n"
+"vaya a goropeor!"
+
+msgid "RetMSG_Orud_01_1"
+msgstr "[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]¿Cómo le irá a [Color name=\"red\"]Yunobo[Color name=\"unset\"] en [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"]?[Size percent=\"100\"][PageBreak]Uy... [PauseShort]Ya estaba hablando solo otra vez."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]¡Hasta la goropróxima!"
+
+msgid "MSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si vas a las famosas termas goron\n"
+"de [Color name=\"blue\"]Ciudad Goron[Color name=\"unset\"],[PauseShort] ten cuidado por el\n"
+"camino:[PauseShort] a veces caen proyectiles de lava.\n"
+"Yo no me tengo que preocupar por eso\n"
+"desde que me hice gorovendedor."
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Como te atrevas a morderme,\n"
+"¡te quedarás sin goromuelas!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAE6BAAAAAAAAFUAAAAEAAAAXAEAAHYBAACQAQAAkgEAAJQBAACWAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAAvAEAAL4BAADAAQAAwgEAAMQBAADeAQAA4AEAAPoBAAAUAgAALgIAAEgCAABiAgAAZAIAAGYCAABoAgAAagIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAHgCAAB6AgAAfAIAAH4CAACAAgAAggIAAIQCAACGAgAAiAIAAIoCAACMAgAAjgIAAJACAACSAgAAlAIAAJYCAACYAgAAmgIAAJwCAACeAgAAoAIAAMACAADgAgAA4gIAAOQCAADmAgAA6AIAAOoCAADsAgAA7gIAAAgDAAAiAwAAJAMAACYDAAAoAwAAKgMAAEQDAABeAwAAeAMAAJIDAACsAwAAxgMAAOADAAD6AwAA/AMAAP4DAAAABAAAAgQAAAQEAAAGBAAAIAQAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,442 @@
+msgid "Npc_oasis039_R_Near"
+msgstr "やっとだね パフュー"
+
+#, ruby
+msgid "Npc_oasis039_S1_100"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]スナザラシ[Color name=\"unset\"]に乗り 決められたアーチを通って\n"
+"目的地に向かい時間を競い合う\n"
+"途中で[Color name=\"blue\"]スナザラシ[Color name=\"unset\"]から下りたり…\n"
+"コースエリアから 外れすぎたら 失格だよ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]チャンピオンの記録 [Color name=\"red\"][02:0E name=\"SunazarashiRace_BestTime_L\"]分[02:0E name=\"SunazarashiRace_BestTime_M\"]秒[Color name=\"unset\"]を切って\n"
+"ゴールできたら アンタの勝ちさ\n"
+"チャンピオンの名誉だけでなく\n"
+"受け継がれてきたトロフィーも アンタのもんさ[PauseLong]\n"
+"さっ もういいだろ？\n"
+"長い話は 嫌いなんだ\n"
+"[Sound2 id=\"2\"]1回[Color name=\"red\"]50ルピー[Color name=\"unset\"]だが\n"
+"ウチのチャンピオンと勝負するかい？[Choice3 label1=\"8\" label2=\"18\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_oasis039_S1_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"0\"]ゲルド伝統の競技\n"
+"[Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]！\n"
+"ウチのチャンピオン パフューに勝てば\n"
+"唯一無二のトロフィーゲット！\n"
+"1回[Color name=\"red\"]50ルピー[Color name=\"unset\"]だが挑戦するかい？[Choice3 label1=\"8\" label2=\"18\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Talk_0000"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]…[PauseShort]…[PauseLong]"
+
+#, ruby
+msgid "Npc_oasis039_S1_002"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]いいね～\n"
+"まれにみる 良い返事だ！\n"
+"じゃあ [Color name=\"red\"]50ルピー[Color name=\"unset\"]はいただくよ"
+
+#, ruby
+msgid "Npc_oasis039_S1_003"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ふふ このラリーが始まる前の緊張感…[PauseLong]\n"
+"\n"
+"何度 経験してもいいもんだね～"
+
+#, ruby
+msgid "Talk_0005"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]なんだい アンタは？[PauseLong]\n"
+"気軽にパフューに近づくんじゃないよ！\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]のヤツがいなくなって\n"
+"やっとコースが使えるようになったからね\n"
+"パフューは今 [Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]に向けて\n"
+"気を高めてるんだ！[PauseShort]\n"
+"[Sound1 unk1=\"0\" unk2=\"25\"]それとも…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]無敗の女王 パフューの記録に\n"
+"挑戦したいってのかい？[Choice4 label1=\"10\" label2=\"11\" label3=\"21\" label4=\"22\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0008"
+msgstr "始めます"
+
+#, ruby
+msgid "Npc_oasis039_S1_007"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"\n"
+"[Color name=\"blue\"]盾[Color name=\"unset\"]を持ってないじゃないか！\n"
+"スナザラシに乗るには [Color name=\"blue\"]盾[Color name=\"unset\"]がいるって\n"
+"学校で教わらなかったのかい？\n"
+"[Color name=\"blue\"]盾[Color name=\"unset\"]を装備してから\n"
+"出直してくるんだね"
+
+#, ruby
+msgid "Talk_0006"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"4\"]ちょいと ちょいと！\n"
+"パフューを呼び捨てにするんじゃないよ！\n"
+"パフューって言ったら\n"
+"[Color name=\"blue\"]スナザラシラリー世界チャンピオン[Color name=\"unset\"]の\n"
+"パフュー以外いないだろ！"
+
+#, ruby
+msgid "0009"
+msgstr "もう少し待って"
+
+#, ruby
+msgid "Npc_oasis038_Demo330_1_530"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]…たった3年か[PauseLong]"
+
+#, ruby
+msgid "Talk_0007"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"19\"]アンタ 世界的に有名な\n"
+"[Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]を知らないのかい？[PauseLong]"
+
+msgid "0010"
+msgstr "スナザラシラリー？"
+
+#, ruby
+msgid "Talk_0008"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]このパフューを 世界チャンピオンに\n"
+"育てあげたのは 何を隠そうこのアタシさ\n"
+"この子は 昔からシャイな子だけどね\n"
+"アタシだけには 心を開いてくれてんだ\n"
+"[Sound2 id=\"23\"]ねぇ パフュー？"
+
+msgid "0011"
+msgstr "パフュー？"
+
+#, ruby
+msgid "Talk_0009"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…っとに やっとラリーができるよ\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]がいる間は 何にもできなかったからね\n"
+"パフューの腕が\n"
+"なまっちまうところだったよ[Choice4 label1=\"10\" label2=\"11\" label3=\"21\" label4=\"22\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Npc_oasis039_Demo330_1_540"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"4\"]ん？[PauseLong]\n"
+"あんだって？[PauseLong]"
+
+#, ruby
+msgid "Talk_0010"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]アンタ！\n"
+"何 帰ろうとしてんだよ！\n"
+"パフューがやる気になってるんだから\n"
+"一勝負受けるのがヴァーイってモンだろ！"
+
+#, ruby
+msgid "Talk_0011"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]勝負はもちろん\n"
+"[Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]！"
+
+msgid "0014"
+msgstr "もちろん"
+
+#, ruby
+msgid "Talk_0012"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]スナザラシ[Color name=\"unset\"]に乗り 決められたアーチを通って\n"
+"目的地に向かい時間を競い合う\n"
+"ゲルド族伝統の競技だ！\n"
+"\n"
+"途中で [Color name=\"blue\"]スナザラシ[Color name=\"unset\"]から下りたり…\n"
+"コースエリアから 外れすぎたら 失格だよ"
+
+msgid "0015"
+msgstr "やめておきます"
+
+#, ruby
+msgid "Talk_0013"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]パフューの記録は[Color name=\"red\"][02:0E name=\"SunazarashiRace_BestTime_L\"]分[02:0E name=\"SunazarashiRace_BestTime_M\"]秒[Color name=\"unset\"]！\n"
+"\n"
+"この記録を破ることができたら\n"
+"あの[Color name=\"blue\"]トロフィー[Color name=\"unset\"]はアンタのもんさ"
+
+msgid "0016"
+msgstr "はい…"
+
+#, ruby
+msgid "Npc_oasis038_AfterGoal_010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]アーチは全部通ったようだけど…[PageBreak]チャンピオンの記録\n"
+"[Color name=\"red\"][02:0E name=\"SunazarashiRace_BestTime_L\"]分[02:0E name=\"SunazarashiRace_BestTime_M\"]秒[Color name=\"unset\"]に 届かなかったから失格だよ！"
+
+#, ruby
+msgid "Talk_0014"
+msgstr ""
+"[Sound2 id=\"2\"]それは 1万年前から 歴代チャンピオンに\n"
+"受け継がれてきた [Color name=\"blue\"]特別なトロフィー[Color name=\"unset\"]"
+
+#, ruby
+msgid "0017"
+msgstr "……困ります"
+
+#, ruby
+msgid "Talk_0015"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]そして今のチャンピオンこそ\n"
+"ここにいる パフューなんだ\n"
+"どうだい？\n"
+"パフューの記録に挑戦してみるかい？[Choice2 label1=\"14\" label2=\"15\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0018"
+msgstr "ルールを教えて"
+
+#, ruby
+msgid "Npc_oasis039_S3_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]おっと…[PauseLong]\n"
+"\n"
+"もうチャンピオンはアンタだったね[PauseLong]\n"
+"\n"
+"実はそのトロフィーは\n"
+"\n"
+"古代のお宝を探す鍵なんじゃないかって\n"
+"言い伝えもあるんだ\n"
+"アタシ達は まったく興味ないけどね"
+
+#, ruby
+msgid "Talk_0016"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"21\"]なっ！[PauseLong]\n"
+"\n"
+"…[PauseShort]…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁいいだろう… 闘志のない者と\n"
+"パフューを戦わせるわけにはいかないね\n"
+"[Sound1 unk1=\"8\" unk2=\"0\"]そんなチキン野郎は\n"
+"こっちから願い下げだよ "
+
+#, ruby
+msgid "0019"
+msgstr "もう一度挑戦する"
+
+#, ruby
+msgid "0020"
+msgstr "今はいいです"
+
+msgid "0021"
+msgstr "アナタは？"
+
+msgid "0022"
+msgstr "さよなら"
+
+#, ruby
+msgid "0023"
+msgstr "勝負したい"
+
+#, ruby
+msgid "Talk_0022"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]…言い忘れたけど\n"
+"チャンピオンの記録に挑戦できるんだ\n"
+"1勝負につき[Color name=\"red\"]50ルピー[Color name=\"unset\"]いただくよ[Choice2 label1=\"16\" label2=\"17\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_0023"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]良い払いっぷりだねぇ"
+
+#, ruby
+msgid "Npc_oasis038_AfterGoal_020"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]コースにある 全てのアーチを通らないと\n"
+"失格だよ\n"
+"アーチは[Color name=\"red\"]7つ[Color name=\"unset\"]！\n"
+"次は忘れるんじゃないよ！"
+
+#, ruby
+msgid "Talk_0025"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]スナザラシ[Color name=\"unset\"]に乗り 決められたアーチを通って\n"
+"目的地に向かう\n"
+"それが[Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]さ！\n"
+"\n"
+"途中で[Color name=\"red\"]スナザラシから下りたり…[Color name=\"unset\"]\n"
+"[Color name=\"red\"]コースエリアから 外れすぎたら[Color name=\"unset\"] 失格だよ"
+
+#, ruby
+msgid "Talk_0026"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"21\"]なっ！\n"
+"\n"
+"…[PauseShort]…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁいいだろう… 金のない者と\n"
+"パフューを戦わせるわけにはいかないね\n"
+"[Sound1 unk1=\"8\" unk2=\"0\"]そんなビンボー野郎は\n"
+"こっちから願い下げだよ "
+
+#, ruby
+msgid "Talk_0027"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]アンタ！\n"
+"何 帰ろうとしてんだよ！\n"
+"パフューがやる気になってるんだから\n"
+"一勝負受けるのがヴォーイってモンだろ！"
+
+#, ruby
+msgid "Talk_0028"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]またアンタかい！[PauseLong]\n"
+"気軽にパフューに近づくんじゃないよ！[PauseLong]\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]のヤツがいなくなって\n"
+"やっとコースが使えるようになったからね\n"
+"パフューは今 [Color name=\"blue\"]スナザラシラリー[Color name=\"unset\"]に向けて\n"
+"気を高めてるんだ！[PauseLong] \n"
+"[Sound1 unk1=\"0\" unk2=\"25\"]それとも…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]無敗の女王 パフューの記録に\n"
+"挑戦したいってのかい？[Choice4 label1=\"10\" label2=\"11\" label3=\"21\" label4=\"22\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Talk_0029"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"25\"]うんうん そうだね\n"
+"わかってるよ パフュー"
+
+#, ruby
+msgid "Npc_oasis038_S1_001"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]アンタも懲りないねぇ"
+
+#, ruby
+msgid "Talk_0030"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]またアンタかい！[PauseLong]\n"
+"闘志のない奴が\n"
+"スナザラシラリーのチャンピオン\n"
+"パフューに近づくんじゃないよ[PauseLong]\n"
+"[Sound1 unk1=\"0\" unk2=\"25\"]それとも…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]やっぱりチャンピオンの記録に\n"
+"挑戦したいってのかい？[Choice4 label1=\"10\" label2=\"23\" label3=\"21\" label4=\"22\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Talk_0031"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…っとに やっとラリーができるよ\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]がいる間は 何にもできなかったからね\n"
+"パフューの腕が\n"
+"なまっちまうところだったよ[Choice4 label1=\"10\" label2=\"23\" label3=\"21\" label4=\"22\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Talk_0032"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]そんな人間がいるとは\n"
+"驚きだねぇ パフュー"
+
+#, ruby
+msgid "Npc_oasis038_AfterGoal_030"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"7\"]…お前のファンキーなザラシテクニック\n"
+"また見せに来てくれ…"
+
+#, ruby
+msgid "Npc_oasis039_R_005"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]じゃあ再開といこうじゃないか！"
+
+#, ruby
+msgid "Npc_oasis039_Demo330_1_510"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Sound2 id=\"23\"]こんな記録が\n"
+"生きているうちに拝めるとはねぇ"
+
+#, ruby
+msgid "Npc_oasis039_S2_001"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Color name=\"red\"]スナザラシから降りたらダメ[Color name=\"unset\"]だって言っただろ！\n"
+"残念だが ここで終了だよ"
+
+#, ruby
+msgid "Npc_oasis039_S2_002"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"7\"]まだまだ 素人の走りだね…"
+
+#, ruby
+msgid "Npc_oasis039_S2_003"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Color name=\"red\"]コースを外れたら終了[Color name=\"unset\"]だって言っただろ！\n"
+"今回はここまでだよ！"
+
+#, ruby
+msgid "Npc_oasis039_S2_004"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"\n"
+"用があるんなら アタシが受けるよ\n"
+"\n"
+"なんてったって パフューは\n"
+"ウチのチャンピオンだからね\n"
+"素人が気軽に話せる\n"
+"存在じゃないんだよ！"
+
+#, ruby
+msgid "Talk_0040"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"\n"
+"なんだい 文無しかい？"
+
+msgid "Npc_oasis039_S2_005"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"2\"]まだやるかい？\n"
+"もちろん [Color name=\"red\"]50ルピー[Color name=\"unset\"]はいただくけどね[Choice2 label1=\"19\" label2=\"20\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_0041"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"1\"]そんなはした金しか持たず\n"
+"パフューと勝負しようだなんて\n"
+"厚かましいにも\n"
+"ほどがあるってもんだよ"
+
+#, ruby
+msgid "Npc_oasis038_S3_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]…[PauseShort]…[PauseLong]\n"
+"\n"
+"[Sound2 id=\"2\"]ファンキーな走りだったよ"
+
+#, ruby
+msgid "Npc_oasis039_S2_006"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Sound2 id=\"7\"]ふふっ [Color name=\"red\"][02:0E name=\"SunazarashiRace_BestTime_L\"]分[02:0E name=\"SunazarashiRace_BestTime_M\"]秒[Color name=\"unset\"]の壁の高さが\n"
+"わかっただろう？\n"
+"ウチのパフューは 世界チャンピオンなんだ\n"
+"次は もっと練習してから 来るんだね"
+
+#, ruby
+msgid "Talk_0042"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]長ったるい話はもう充分だろ！\n"
+"さっさと始めようじゃないか"
+
+#, ruby
+msgid "Npc_oasis038_S3_002"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]おぇい！[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]チャンピオンがアタシ以外と\n"
+"そんなにおしゃべりするなんて…\n"
+"ちょっと焼けるねぇ"
+
+#, ruby
+msgid "Npc_oasis039_Demo330_1_520"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Sound2 id=\"8\"]まったく… いい走りに興奮しすぎて\n"
+"寿命が3年は縮まったよ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "PQAAAAE4BgAAAAAAAEAAAAAEAAAACAEAACIBAAA8AQAAVgEAAHABAAByAQAAdAEAAHYBAAB4AQAAegEAAJQBAACuAQAAyAEAAOIBAAD8AQAAFgIAADACAABKAgAAZAIAAH4CAACYAgAAsgIAAMwCAADmAgAAAAMAAAIDAAAEAwAAHgMAADgDAAA6AwAAPAMAAFYDAABwAwAAigMAAKQDAAC+AwAA2AMAAPIDAAAMBAAAJgQAACgEAAAqBAAALAQAAEYEAABgBAAAegQAAJQEAACuBAAAyAQAAOIEAAD8BAAAFgUAADAFAABKBQAATAUAAE4FAABoBQAAggUAAJwFAAC2BQAA0AUAAOoFAAAEBgAAHgYAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA4AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAAAAAAAAAAAAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAAAAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAAAAAAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADgAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAAAAAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAzADkAAABOAHAAYwBfAG8AYQBzAGkAcwAwADMAOAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMwA5AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

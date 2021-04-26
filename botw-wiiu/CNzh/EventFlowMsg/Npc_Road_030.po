@@ -1,0 +1,384 @@
+msgid "RetMSG_Gerud_01_3"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]沙漠虽然是危险地带，\n"
+"但只要一想到前方有格鲁德族的女孩……"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]你也想和格鲁德族增进感情吧？[PauseShort]\n"
+"这可不是什么丢脸的事哦！\n"
+"据说她们既高又强大，既美又强大，[PauseMid]\n"
+"而且还[PauseShort]强大得不得了！"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]一路顺风啦！"
+
+msgid "RetMSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"21\"]最、[PauseShort]最重要的当然还是做生意！[PauseMid]\n"
+"恋爱什么的，都是次要的事！"
+
+msgid "Com_Talk_05b"
+msgstr "若有东西要卖，希望能给我看看！"
+
+msgid "Com_Talk_56"
+msgstr ""
+"买1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]啊？[PauseShort]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]虽说是工作，和格鲁德族的\n"
+"女孩说话真开心啊～\n"
+""
+
+msgid "Com_Talk_05c"
+msgstr "要卖点什么给我吗？"
+
+msgid "Com_Talk_05d"
+msgstr "总之，希望能给我看看啊！"
+
+msgid "RetMSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]有没有什么能进去小镇的办法呢……[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"100\"]噢！[PauseShort]我刚刚只是在大声地自言自语啦！"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，[PauseShort]\n"
+"这样是[PauseMid][Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]真想和格鲁德族的女性增进感情啊～[PauseShort]\n"
+"噢！[PauseShort]我是指，单纯以生意伙伴的立场啦！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]……我本来是这么想，所以才跑来这里……[PauseMid]\n"
+"结果她们却不让男人进入小镇呢～"
+
+msgid "Com_Talk_31"
+msgstr ""
+"要买[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"要买几个？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]你曾在这一带，看过超级无敌大的妖怪吗？[PauseShort]\n"
+"老实说，我怕得都不敢进沙漠了～[PauseMid]\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]但是！\n"
+"\n"
+"我实在太想和格鲁德族的女孩增进感情了，[PauseShort]\n"
+"所以就算闭着眼睛用冲的，我也要朝小镇前进！"
+
+msgid "MSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]唔呵呵呵～[PauseShort]能在[Color name=\"blue\"]卡拉卡拉集市[Color name=\"unset\"]\n"
+"和格鲁德族的女孩说话真开心啊～\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]噢！你可别误会！[PauseShort]这也是工作啦！[PauseMid]\n"
+"我只是把之前进货的粮食卖给她们而已啦！[PauseShort]\n"
+"像苹果之类的！"
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]不过还真是得救了啊！\n"
+"希望你能收下这个！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"卖1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]就好吗？[PauseShort]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]格鲁德族的女孩个个都比我高，\n"
+"高挑妙曼的身姿魅力十足！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]真想在[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]过着被女孩子包围的生活啊……[Size percent=\"100\"]"
+
+msgid "RetMSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]我听说[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]有盗贼出没，[PauseMid]\n"
+"所以才有点警戒啊～"
+
+msgid "Com_Talk_34"
+msgstr ""
+"买下所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]啊？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]个，这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]老实说，我怕得都不敢进沙漠了，[PauseMid]\n"
+"但为了女孩子，就算用冲的我也要朝小镇前进！"
+
+msgid "MSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]我一直觉得，假如能有更多\n"
+"格鲁德族的女孩来这座驿站就好了！\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]然后我想将苹果与爱，献给所有女性……[Size percent=\"100\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"要将[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全卖了！\n"
+"这样总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]这是最后的货了。[PauseShort]\n"
+"你买这么多，真让我开心啊！"
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]总算得救啦！[PauseShort]托你的福啊！"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"9\"]今天已经没东西卖啰。[PauseShort]\n"
+"谢谢你买这么多！\n"
+"要看看预定进货的商品清单吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]轻轻松松就解决了呢！[PauseShort]你真厉害！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"8\"]谢啦！"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]谢啦啦！"
+
+msgid "MSG_Gerud_04_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]能不能来更多的\n"
+"格鲁德族女孩呢……"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]哎呀～真是有几条命都不够用呢！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]谢啦啦啦！"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]既然是这种天气，那就优惠优惠！[PauseShort]\n"
+"来卖[Color name=\"blue\"]精力独角仙[Color name=\"unset\"]什么的吧！"
+
+msgid "RetMSG_Gerud_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]有没有什么能进去小镇的办法呢……[PageBreak][Sound1 unk1=\"4\" unk2=\"21\"][Size percent=\"100\"]噢！[PauseShort]没什么没什么！[PauseMid]\n"
+"我是在自言自语！[PauseShort]自言自语啦！"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]要是被怪物袭击，那就先逃先赢啊！"
+
+msgid "RetMSG_Gerud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]和[Color name=\"blue\"]卡拉卡拉集市[Color name=\"unset\"]之间\n"
+"会有[Color name=\"blue\"]神兽[Color name=\"unset\"]经过，是有点危险的地带呢。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]即使如此，我还是想接近格鲁德族的女孩，\n"
+"一个劲儿地在沙漠地带奔驰啦！"
+
+msgid "RetMSG_Gerud_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"][Color name=\"blue\"]卡拉卡拉集市[Color name=\"unset\"]有许多格鲁德族的女性，\n"
+"真是百花齐放啊！[PauseShort]\n"
+"让人忍不住嘴角扬起微笑……\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]说到微笑，我在卖微笑蚱蜢哦！[PauseMid]\n"
+"[Sound2 id=\"17\"]……噢不对，[PauseMid]跟[Color name=\"red\"]精力蚱蜢[Color name=\"unset\"]搞混了！"
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]非得被袭击的话，真想被女孩子袭击啊！"
+
+msgid "RetMSG_Gerud_03"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]哇喔！？[PauseMid]\n"
+"……什么啊，[PauseMid]原来是海利亚人啊～\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]我听说[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]有盗贼出没，[PauseMid]\n"
+"所以才被你吓了一跳啊～"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]哎，[PauseShort]先不管别的了，开店开店！[PauseMid]\n"
+"虽然只是些不起眼的小东西啦。[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]比起怪物小姐……[PauseMid]\n"
+"[Sound2 id=\"7\"]格鲁德族的女孩子还比较可怕啊！"
+
+msgid "Near00"
+msgstr "女孩子……"
+
+msgid "RetMSG_Gerud_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]这次我一定要进去[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]，\n"
+"让女孩子围着我……[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 unk1=\"4\" unk2=\"1\"]不，你误会了！[PauseMid]\n"
+"我是说我想让女孩子围着我，然后做生意啦！"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……那，还有其他的吗？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Near01"
+msgstr "格鲁德姑娘……"
+
+msgid "Near02"
+msgstr "受欢迎……"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]谢谢光临啦！"
+
+msgid "Near03"
+msgstr "后宫……"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]谢啦！"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"8\"]感谢啦！"
+
+msgid "Com_Talk_10"
+msgstr ""
+"要买[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"这样对吧？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"8\"]谢谢光临啦！"
+
+msgid "RetMSG_Gerud_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]唉～格鲁德族的女性真不错啊～[PauseMid]\n"
+"让人控制不住嘴角的笑意……"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]现在的商品只有这些！[PauseShort]\n"
+"请看！"
+
+msgid "MSG_Gerud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]真想和格鲁德族的女性增进感情啊。[PauseShort]\n"
+"……我本来是这么想，所以才跑来这里……[PauseMid]\n"
+"结果她们却不让男人进入小镇呢～"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]啊，[PauseShort]\n"
+"你要卖几个给我？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"哎，总共是……[PauseMid][Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]哦？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"10\"]这个我无法收购啦！"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]那个，你听着，[PauseMid]\n"
+"要卖的衣服不可以穿在身上啦！"
+
+msgid "MSG_Gerud_03_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]格鲁德族貌美如花！\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]真想在[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]过着被女孩子包围的生活啊……[Size percent=\"100\"]"
+
+msgid "0000"
+msgstr "买"
+
+msgid "5500"
+msgstr "好"
+
+msgid "0001"
+msgstr "卖"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]怪物小姐已经不在了吗？[PauseMid]\n"
+"那就趁现在快逃吧！"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "0002"
+msgstr "再见"
+
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]痛痛痛……[PauseMid]唉，痛归痛，[PauseMid]\n"
+"但还是被格鲁德族的女孩子踹比较痛……"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]要卖哪个给我？"
+
+msgid "5502"
+msgstr "买"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要卖[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]哦？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "还是算了"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]谢啦！\n"
+"还有没有其他想卖的啊？"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]那真可惜啦！"
+
+msgid "Com_Talk_05"
+msgstr "我什么都收购啦！"
+
+msgid "5507"
+msgstr "全买了"
+
+msgid "Com_Talk_06"
+msgstr "想要哪个啊？"
+
+msgid "5508"
+msgstr "全卖了"
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]再这样下去……[PauseShort]\n"
+"旅行的原订行程就会延迟了吧？"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]抱歉，那东西现在已经卖完啦！"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]要是跟怪物打……[PauseMid]\n"
+"不管有几条命都不够用哦！"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"10\"]卢比不够啊！[PauseShort]\n"
+"拜托别光看不买啊！"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"10\"]袋子已经满啦！[PauseMid]\n"
+"看你要卖还是要丢，总之清出空间啊！"
+
+msgid "RetMSG_Gerud_01_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]和[Color name=\"blue\"]卡拉卡拉集市[Color name=\"unset\"]之间\n"
+"会有[Color name=\"blue\"]神兽[Color name=\"unset\"]经过，是有点危险的地带。\n"
+"但只要一想到有格鲁德族的女孩在……"
+
+msgid "RetMSG_Gerud_01_2"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]沙漠不但有许多怪物，还有严重的沙尘暴，\n"
+"算是有点危险的地带吧。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]即使如此，我还是想接近格鲁德族的女孩，\n"
+"一个劲儿地在沙漠地带奔驰啦！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFIBQAAAAAAAFQAAAAEAAAAWAEAAHIBAACMAQAAjgEAAJABAACSAQAArAEAAK4BAACwAQAAsgEAALQBAAC2AQAAuAEAALoBAAC8AQAAvgEAAMABAADCAQAA3AEAAPYBAAAQAgAAKgIAACwCAAAuAgAAMAIAADICAAA0AgAANgIAADgCAAA6AgAAPAIAAD4CAABAAgAAQgIAAEQCAABGAgAASAIAAEoCAABMAgAATgIAAFACAABSAgAAVAIAAFYCAABYAgAAWgIAAFwCAABeAgAAYAIAAGICAABkAgAAhAIAAKQCAADEAgAA5AIAAOYCAADoAgAA6gIAAOwCAADuAgAA8AIAAPICAAAMAwAAJgMAAEADAABaAwAAdAMAAI4DAACoAwAAwgMAANwDAAD2AwAAEAQAACoEAABEBAAAXgQAAHgEAACSBAAArAQAAMYEAADgBAAA+gQAABQFAAAuBQAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMwAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

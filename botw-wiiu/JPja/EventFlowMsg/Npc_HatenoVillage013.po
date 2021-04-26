@@ -1,0 +1,153 @@
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]見たらわかるやろ[PauseLong] 牧場や\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"6\"]…ひょっとして[PauseLong] 上のけったいな建物の事か？\n"
+"\n"
+"あれは ウチのヤツちゃうで"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]アレはな… [PauseShort]アレや\n"
+"\n"
+"[Color name=\"blue\"]研究所[Color name=\"unset\"]や\n"
+"\n"
+"何や[Color name=\"blue\"]シーカー族の所長さん[Color name=\"unset\"]とやらが[PauseShort]\n"
+"けったいな事 しよるで"
+
+msgid "0000"
+msgstr "こんにちは！"
+
+msgid "0001"
+msgstr "さようなら"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]ワシが座ってからやったら[PauseShort]\n"
+"話 したってもええで"
+
+#, ruby
+msgid "talk21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他にも 用事か？[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0004"
+msgstr "お話が…"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"]ワシか？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]ただのジジィや\n"
+"\n"
+"逆立ちしても 何も出ぇへんで"
+
+#, ruby
+msgid "0005"
+msgstr "大厄災って？"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"][Color name=\"blue\"]大厄災[Color name=\"unset\"]？\n"
+"\n"
+"ウメさんにでも 入れ知恵されたんか？[PauseLong]\n"
+"100年前の話を嗅ぎ回って どうすんねや？\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]…まぁええわ[PauseShort]\n"
+"ワシの親父の受け売りでよかったら 教えたろ"
+
+msgid "0006"
+msgstr "ここって？"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]大厄災[Color name=\"unset\"]…\n"
+"\n"
+"アレは[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]を中心にして起こった 天災[PauseShort]\n"
+"…てなこと 親父は言うてたな\n"
+"昔 この世界には もっと町や村があったけど[PauseShort]\n"
+"その[Color name=\"blue\"]大厄災[Color name=\"unset\"]で跡形もなく 全部吹き飛んだんやと\n"
+"このハテノ村は [Color name=\"blue\"]ハイラル城[Color name=\"unset\"]から離れとるから[PauseShort]\n"
+"まだ被害は 少ない方やったらしいけどな\n"
+"でも そんなごっつい[Color name=\"blue\"]大厄災[Color name=\"unset\"]を[PauseShort]\n"
+"阻止しようとした命知らずが おったらしいで\n"
+"[Sound1 unk1=\"0\" unk2=\"12\"]名前は何や… [PauseShort]言うてたな[PauseLong]\n"
+"忘れたわ"
+
+msgid "0007"
+msgstr "あなたは？"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]はァァ～～ [PauseShort]\n"
+"相変わらず キレイな[Color name=\"blue\"]炎[Color name=\"unset\"]でんなぁ…"
+
+msgid "talk13"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]フガ…[Size percent=\"100\"]"
+
+msgid "0008"
+msgstr "やっぱいいです"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]その[Color name=\"blue\"]炎[Color name=\"unset\"]…[PauseLong]\n"
+"昔はプルアはんが よう運んどったなァ～"
+
+msgid "talk14"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]グゥ…[Size percent=\"100\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]…はい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]プルアはんはこれで 何をされとるんやろなァ…"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]はァ…"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]その[Color name=\"blue\"]炎[Color name=\"unset\"]…[PauseLong]\n"
+"昔は[Color name=\"blue\"]所長はん[Color name=\"unset\"]が よう運んどったなァ～"
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]はァ… [PauseShort]こんにちは"
+
+#, ruby
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]もう寝るさかいにな さいなら"
+
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]なんや？[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]もう寝るわ ほなな"
+
+msgid "near01"
+msgstr "フガ…"
+
+#, ruby
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]ワシなんぞに 何の用や？[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]今から いつものとこに行くんやから[PauseShort]\n"
+"そこどいてんか"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAEmBAAAAAAAAB0AAAAEAAAAfAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAA3gAAAAgBAAAyAQAAXAEAAIYBAACwAQAA2gEAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAAqAwAAVAMAAH4DAACoAwAA0gMAAPwDAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADMAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEAMwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

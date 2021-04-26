@@ -1,0 +1,227 @@
+msgid "5503"
+msgstr "Я передумал"
+
+msgid "Npc_kokiri004_Talk010"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Добро пожаловать в магазин\n"
+"[Color name=\"blue\"]«Веселый грибник»[Color name=\"unset\"]![PageBreak]Я продаю вкуснейшие, страннейшие\n"
+"и лучшайшие грибочки на любой вкус![PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Сам посмотри![PauseShort] И купи.\n"
+"Или ты что-то продаешь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "5507"
+msgstr "Беру все"
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Что именно?"
+
+msgid "5508"
+msgstr "Продаю все"
+
+msgid "Npc_kokiri004_Talk030"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"18\"]Спасибо, что купил все мои грибы.[PauseShort]\n"
+"Я и не знал, что герои так их любят.[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Ну ничего, я еще насобираю![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Может, хочешь что-то продать?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[04:03]Дорогой герой, за это\n"
+"я могу дать [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Я кое-что продаю"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]Спасибо!"
+
+msgid "0001"
+msgstr "Что это за место?"
+
+msgid "0002"
+msgstr "Пока"
+
+msgid "Npc_kokiri004_Talk050"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ты уже видел грибочки, которые\n"
+"светятся в темноте?[PauseShort] Рекомендую!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"2\"]Передумал? Ну ладно."
+
+msgid "Com_Talk_05"
+msgstr ""
+"[04:03]Я ведь не только грибы\n"
+"покупаю! Предлагай."
+
+msgid "Com_Talk_05b"
+msgstr ""
+"[04:03]Покажи мне что-нибудь\n"
+"еще, дорогой герой!"
+
+msgid "Npc_kokiri004_Talk070"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]Мы в животе у Древа Деку.[PauseShort]\n"
+"Уютно здесь, правда?[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Узнав, что к нам идет герой,\n"
+"мы решили открыть магазины\n"
+"и навести везде красоту![PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Правда, не рассчитывали,\n"
+"что ты такой здоровый.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Ты не спеши, выбирай,\n"
+"покупай, денежки давай!"
+
+msgid "Com_Talk_05c"
+msgstr "[04:03]Может, у тебя еще что-то есть?"
+
+msgid "Npc_kokiri004_Sell010"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Спасибо!"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"[04:03]Нюх-нюх... Я знаю, что у тебя\n"
+"еще что-то есть, дорогой герой!"
+
+msgid "Npc_kokiri004_Sell030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Спасибо, что покупаешь мои\n"
+"грибочки![PauseShort] Я еще насобираю."
+
+msgid "Npc_kokiri004_Talk000"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]О-хо-хо![PauseShort] Я тебя ждал![PauseShort] Древо Деку\n"
+"предупредило нас, что придет герой.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Я подумал, что ты будешь голодный,\n"
+"и насобирал для тебя самых...[PauseShort]\n"
+"вкусных...[PauseShort] грибов!"
+
+msgid "Npc_kokiri004_Near000"
+msgstr "Грибы! Свежие грибы!"
+
+msgid "Npc_kokiri004_Talk020"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Добро пожаловать в магазин\n"
+"[Color name=\"blue\"]«Веселый грибник»[Color name=\"unset\"]![PageBreak]Солнце уже закатилось, но мои\n"
+"грибочки от этого хуже не стали![PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Сам посмотри![PauseShort] И купи.\n"
+"Или ты что-то продаешь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri004_Near020"
+msgstr "Надо идти по грибы..."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]Благодарю тебя, дорогой герой!"
+
+msgid "Npc_kokiri004_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Если найдешь что-нибудь ненужное,\n"
+"неси мне![PauseShort] Даже если это не грибы!"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Спасибо, дорогой герой."
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]Премного благодарен!"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[04:03][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"А сколько продаешь?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri004_Talk060"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Приходи![PauseShort] Я обязательно\n"
+"насобираю для тебя еще\n"
+"грибов!"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[04:03]За [02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" штучку\" plural=\" штучек\" plural2=\" штучки\"] я готов\n"
+"выложить [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_kokiri004_Sell000"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Древо Деку предупредило\n"
+"нас, что придет герой.[PageBreak]Я подумал, что ты будешь голодный,\n"
+"и насобирал для тебя самых...[PauseShort]\n"
+"вкусных...[PauseShort] грибов![PageBreak]Если захочешь что-нибудь\n"
+"продать, я к твоим услугам!"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"2\"]Нет, это я покупать не буду."
+
+msgid "Com_Talk_16"
+msgstr "[Sound2 id=\"14\"]Может, сначала снимешь это с себя?"
+
+msgid "Com_Talk_33"
+msgstr "[04:03]Хм, как насчет [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупии\" plural=\" рупий\" plural2=\" рупий\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"6\"]Этот грибочек последний![PauseShort] Он\n"
+"обойдется тебе в [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[04:03][02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" штучку\" plural=\" штучек\" plural2=\" штучки\"], значит?[PauseShort]\n"
+"Тогда с тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_51"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"6\"][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseShort]\n"
+"Сколько штучек возьмешь?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri004_Sell010b"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Покорнейше благодарю,\n"
+"дорогой герой!"
+
+msgid "Npc_kokiri004_Sell020"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Спасибо, что покупаешь мои\n"
+"грибочки![PauseShort] Я еще насобираю.[PageBreak]Знаешь, Древо Деку предупредило\n"
+"нас, что ты придешь, дорогой герой.[PageBreak]Я подумал, что ты будешь голодный,\n"
+"потому и насобирал для тебя самых...[PauseShort]\n"
+"вкусных...[PauseShort] грибов![PageBreak]Если захочешь что-нибудь\n"
+"продать, я к твоим услугам!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[04:03]Сразу все?[PauseShort] То есть [02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" штучку\" plural=\" штучек\" plural2=\" штучки\"]...[PauseShort]\n"
+"Хорошо, я предлагаю [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[04:03]Всего [02:0F name=\"Shop_TradeItemNum\"][SPSwitch singular=\" штучку\" plural=\" штучек\" plural2=\" штучки\"]?[PauseShort]\n"
+"С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_kokiri004_Sell010c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Грибочки у меня вкуснейшие!"
+
+msgid "Com_Talk_53"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Передумал? Ну ладно."
+
+msgid "Npc_kokiri004_Sell010d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Кушай, поправляйся!"
+
+msgid "Com_Talk_54"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]У тебя рупий не хватает, дорогой\n"
+"герой, а бесплатно я грибы не отдам![PauseShort]\n"
+"Даже тебе."
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"6\"]У тебя этих грибов и так много.[PauseShort]\n"
+"Приходи, когда скушаешь!"
+
+msgid "5500"
+msgstr "Идет!"
+
+msgid "Com_Talk_56"
+msgstr "[04:03]Всего один?[PauseShort] С тебя [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Я передумал"
+
+msgid "5502"
+msgstr "Беру!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGoAwAAAAAAADMAAAAEAAAA1AAAAPAAAAAMAQAAKAEAAEQBAABGAQAASAEAAEoBAABmAQAAggEAAJ4BAAC6AQAA1gEAAPIBAAAOAgAAKgIAAEYCAABiAgAAfgIAAJoCAAC2AgAAuAIAALoCAAC8AgAAvgIAAMACAADgAgAAAAMAACADAABAAwAAYAMAAGIDAABkAwAAZgMAAGgDAABqAwAAbAMAAG4DAABwAwAAkAMAAJIDAACUAwAAlgMAAJgDAACaAwAAnAMAAJ4DAACgAwAAogMAAKQDAACmAwAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAA0AAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAAAAAAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAA0AAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAA0AAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAA0AAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAA0AAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAANAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADQAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

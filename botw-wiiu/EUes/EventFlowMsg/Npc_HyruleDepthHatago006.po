@@ -1,0 +1,160 @@
+msgid "1002"
+msgstr "Tengo que irme"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"7\"]Ji, ji, ji..."
+
+msgid "Near01"
+msgstr "¡Ah!"
+
+msgid "FirstTalk00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Por fin has llegado..."
+
+msgid "NomalSword00"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡¿No eres tú?![PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Es verdad, el héroe debe llevar\n"
+"la [Color name=\"red\"]espada legendaria[Color name=\"unset\"]... Está claro\n"
+"que me he equivocado de hyliano."
+
+msgid "FirstTalk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]¡Era cierto que podría reunirme con\n"
+"el gran héroe bajo este árbol![Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "NoSword00"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡No puede ser![PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Aunque... No veo que lleves espada\n"
+"y pareces bastante enclenque."
+
+msgid "NomalSword01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Ay, lo sabía! Llevo tanto esper...[PageBreak][Sound1 unk1=\"8\" unk2=\"15\"]Un momento... ¡A mí no me la pegas![PageBreak]No tienes la [Color name=\"red\"]espada legendaria[Color name=\"unset\"], ¿verdad?\n"
+"Se supone que el héroe debe llevarla,\n"
+"listillo."
+
+msgid "FirstGoodBye00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"2\"]¡Espera, por favor!"
+
+msgid "0000"
+msgstr "¿Qué héroe?"
+
+msgid "Run_Rain00"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]¡Ay! ¡Mi pelo!"
+
+msgid "NoSword01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Lo sabía! ¡Sabía que vendrías![PageBreak][Sound1 unk1=\"8\" unk2=\"15\"]Espera... ¡Si no llevas espada!\n"
+"¿Te creías que podrías engañarme?[PageBreak]La historia dice que el héroe porta\n"
+"la [Color name=\"red\"]espada legendaria[Color name=\"unset\"], y tú no la tienes.\n"
+"Eres más falso que una rupia cuadrada."
+
+msgid "FirstGoodBye01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]En tu viaje quizá encuentres\n"
+"por casualidad al héroe que porta\n"
+"la [Color name=\"red\"]espada legendaria[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Si lo ves, dile que lo espero aquí mismo."
+
+msgid "0001"
+msgstr "[Size percent=\"80\"]¿La espada legendaria?[Size percent=\"100\"]"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Ah, eres tú.\n"
+"¿Has encontrado a mi héroe?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0002"
+msgstr "Me voy"
+
+msgid "MasterTalk00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Ah, hola. ¿Has visto a mi héroe?[Choice2 label1=\"3\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Ji, ji, ji...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0003"
+msgstr "Yo soy ese héroe"
+
+msgid "MasterTalk01"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¿Cómo?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]¡¿Entonces sí que eras tú?![PageBreak]Es verdad, esa espada que llevas es\n"
+"la prueba. ¡Qué contenta estoy de\n"
+"conocerte!"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]¿Quién va a ser? ¡El héroe que salva\n"
+"Hyrule cuando el cataclismo amenaza\n"
+"con destruirnos!\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Es un gran guerrero que empuña\n"
+"la [Color name=\"red\"]espada legendaria[Color name=\"unset\"]. ¿No te parece\n"
+"extraordinario?"
+
+msgid "MasterTalk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]Por favor, acepta esto de parte\n"
+"de una gran admiradora."
+
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Dicen que la espada está oculta en\n"
+"algún lugar del bosque y que solo\n"
+"el héroe puede reclamarla.\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Ay, cómo me gustaría conocerlo..."
+
+msgid "MasterTalk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]¡Hace tanto tiempo que quería\n"
+"conocerte! Qué satisfacción, este\n"
+"deseo que se cumple...\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]Aunque me imaginaba que sería más\n"
+"emocionante, y al final ni siquiera eres\n"
+"mi tipo."
+
+msgid "MasterTalk02_PorchFull"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Vaya, parece que no tienes espacio\n"
+"en la alforja. Así no puedes aceptar\n"
+"mi pequeño regalo...\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Haz un poco de espacio, por favor.\n"
+"Te estaré esperando."
+
+msgid "MasterTalk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Qué se le va a hacer!\n"
+"¡Suerte y ya nos veremos por ahí!"
+
+msgid "MasterTalk05"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Oye, como héroe que eres, seguro\n"
+"que tienes muchas cosas que hacer.[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Como salvar el reino, por ejemplo.\n"
+"Así que ponte en marcha y no pierdas\n"
+"el tiempo estando de cháchara."
+
+msgid "MasterSword00"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡No hace falta que disimules conmigo![PageBreak]Esa espada que llevas es la prueba de\n"
+"tu identidad. ¡Solo el héroe puede\n"
+"empuñarla!"
+
+msgid "MasterSword01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Sabía que la insistencia\n"
+"daría sus frutos![PageBreak]He sabido quien eras en cuanto\n"
+"he visto esa espada. Solo el héroe\n"
+"tiene derecho a empuñarla."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¿Por qué tarda tanto el héroe?"
+
+msgid "1000"
+msgstr "Te confundes"
+
+msgid "1001"
+msgstr "Sí, soy el héroe"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EwAAAAF4BQAAAAAAACAAAAAEAAAAiAAAALoAAADsAAAA7gAAAPAAAADyAAAAJAEAAFYBAACIAQAAugEAAOwBAAAeAgAAUAIAAIICAAC0AgAA5gIAAOgCAADqAgAA7AIAAB4DAABQAwAAggMAAIQDAAC2AwAA6AMAABoEAABMBAAAfgQAALAEAADiBAAAFAUAAEYFAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAAAAAAAAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAAAAAAAAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAAAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADYAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANgAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA2AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

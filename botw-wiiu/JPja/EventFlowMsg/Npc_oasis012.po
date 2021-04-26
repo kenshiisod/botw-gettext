@@ -1,0 +1,104 @@
+#, ruby
+msgid "Npc_oasis012_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ごめんよ 今は訳あって\n"
+"[Color name=\"blue\"]ゲルド宝飾店[Color name=\"unset\"]は準備中なんだ\n"
+"[Sound1 unk1=\"3\" unk2=\"0\"][Color name=\"blue\"]ナボリス[Color name=\"unset\"]ってのが出てきて外は危険だし[PauseShort]\n"
+"宮殿も泥棒騒ぎで大変だし[PauseShort] その上 店も…[PauseLong]\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"10\"]そんなこんなで この街は\n"
+"最近トラブル続きなんだ…[PauseShort] まいったよ"
+
+#, ruby
+msgid "Npc_oasis012_002"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]お嬢ちゃんが火打ち石を\n"
+"持ってきてくれたんだってね\n"
+"いや～ 助かったよ\n"
+"\n"
+"[Size percent=\"80\"]お礼に オーナーの秘密教えてあげようか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"][Size percent=\"100\"]"
+
+msgid "Npc_oasis012_010"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"28\"]ヴァーサーク[PauseLong]"
+
+#, ruby
+msgid "Npc_oasis012_004"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]オーナーはさ…\n"
+"\n"
+"寝る時に身に着けるものはアクセサリー\n"
+"だけなんだって\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]お腹冷えないのかな…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Npc_oasis012_011"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ごめんよ 今は訳あって\n"
+"[Color name=\"blue\"]ゲルド宝飾店[Color name=\"unset\"]は準備中なんだ\n"
+"兜泥棒の騒ぎもおさまったし\n"
+"[Color name=\"blue\"]ナボリス[Color name=\"unset\"]ってのも大人しくなったとはいえ[PauseShort]\n"
+"[Sound1 unk1=\"3\" unk2=\"0\"][Sound2 id=\"10\"]店がこれじゃあね…[PauseLong]\n"
+"\n"
+"ほんと[PauseShort] まいったよ"
+
+msgid "Npc_oasis012_Near01"
+msgstr "まいったな…"
+
+#, ruby
+msgid "Npc_oasis012_005"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]オーナーの名前って 実は偽名でさ\n"
+"実は ジュエルって名前なんだ\n"
+"宝飾屋でジュエルなんて\n"
+"あからさますぎて 恥ずかしいんだってさ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]私は良い名前だと思うけどね…[Size percent=\"100\"]"
+
+#, ruby
+msgid "Npc_oasis012_006"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]オーナーって 何もしてないって言ってるけど\n"
+"週1 アローマさんのエステに通ってるんだ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]「何もしてない」なんて言ってる 美人ほど\n"
+"信用できないものはないよね[Size percent=\"100\"]"
+
+#, ruby
+msgid "0000"
+msgstr "教えて！"
+
+#, ruby
+msgid "Npc_oasis012_007"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"0\"]恋愛教室のワーシャ先生と\n"
+"ヴォーイを取り合った過去があるんだって\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁ どっちもまだ独身だから\n"
+"どっちも ダメだったんだろうね…[Size percent=\"100\"]"
+
+msgid "0001"
+msgstr "さよなら"
+
+#, ruby
+msgid "Npc_oasis012_008"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]お嬢ちゃんはこの店の恩人だ\n"
+"\n"
+"アンタの注文なら いつもより\n"
+"気合入れて作るから\n"
+"気に入ったアクセサリーがあったら\n"
+"遠慮なく手に取って見てってよ"
+
+#, ruby
+msgid "Npc_oasis012_009"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ごめんよ 今は訳あって\n"
+"[Color name=\"blue\"]ゲルド宝飾店[Color name=\"unset\"]は準備中なんだ\n"
+"兜泥棒の騒ぎはおさまったとはいえ\n"
+"[Color name=\"blue\"]ナボリス[Color name=\"unset\"]ってのが出てきて外は危険だし[PauseShort]\n"
+"[Sound1 unk1=\"3\" unk2=\"0\"]その上 店も…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"10\"]そんなこんなで この街は\n"
+"最近トラブル続きなんだ…[PauseShort] まいったよ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "CwAAAAF2AQAAAAAAAA0AAAAEAAAAPAAAAFYAAABwAAAAigAAAKQAAAC+AAAA2AAAAPIAAAD0AAAADgEAACgBAABCAQAAXAEAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADIAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEAMgAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

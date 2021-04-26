@@ -1,0 +1,374 @@
+msgid "Halt_03"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Deduco che tu abbia le tue ragioni.[PauseMid]\n"
+"In ogni caso, ti auguro il meglio!"
+
+msgid "0000"
+msgstr "Sì, sono fortissimo."
+
+msgid "0001_00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Acc...[PauseMid] non ci siamo, non ci siamo.\n"
+"Guarda che i mostri di queste parti\n"
+"sono belli tosti.[PauseShort]\n"
+"Che ne dici, vuoi [Color name=\"red\"]allenarti [Color name=\"unset\"]qui da me?[Choice3 label1=\"3\" label2=\"6\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "GameResult_01_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Vediamo... [Color name=\"red\"][PauseShort][02:0E name=\"MiniGame_HorsebackArchery_BreakTargetNum\"] [SPSwitch singular=\"centro\" plural=\"centri\"][Color name=\"unset\"].[PauseMid] Non male, ma\n"
+"a questo livello potresti trovarti in serio\n"
+"pericolo durante un combattimento vero.[PauseLong]\n"
+"Tirare con l'arco in movimento è difficile,[PauseShort]\n"
+"quindi cerca sempre di [Color name=\"red\"]agganciare[Color name=\"unset\"] la tua\n"
+"attenzione sul bersaglio.\n"
+"Ecco un regalo di addio da parte mia.[PauseShort]\n"
+"Fanne buon uso."
+
+msgid "0001"
+msgstr "Purtroppo no."
+
+msgid "WildHouse_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Uhm...[PauseShort] Ma il tuo cavallo non risulta\n"
+"[Color name=\"red\"]registrato al Consorzio Ippico[Color name=\"unset\"].\n"
+"\n"
+"Sono desolato, ma non posso farti\n"
+"svolgere l'[Color name=\"red\"]addestramento[Color name=\"unset\"] su un cavallo\n"
+"non registrato.[PauseLong]\n"
+"Pertanto dovrai tornare in un secondo\n"
+"momento.[PauseShort] Hai capito?[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0002"
+msgstr "Ho fretta."
+
+msgid "GameResult_00_00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Vediamo... [Color name=\"red\"][PauseShort][02:0E name=\"MiniGame_HorsebackArchery_BreakTargetNum\"] [SPSwitch singular=\"centro\" plural=\"centri\"][Color name=\"unset\"].[PauseMid]\n"
+"Non posso dire che sia un risultato\n"
+"impressionante.[PauseLong]\n"
+"Forse ti conviene allenarti prima\n"
+"[Color name=\"red\"]al passo e al trotto[Color name=\"unset\"].[PauseShort]"
+
+msgid "0003"
+msgstr "Certo!"
+
+msgid "0004"
+msgstr "Mettermi alla prova?"
+
+msgid "0005"
+msgstr "Non mi interessa."
+
+msgid "0006"
+msgstr "Allenarmi?"
+
+msgid "Explanation_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Conosci il [Color name=\"red\"]tiro con l'arco a cavallo[Color name=\"unset\"]?[PauseMid]\n"
+"È un'arte marziale delle terre orientali.\n"
+"\n"
+"Si tratta di una disciplina elegante,[PauseMid]\n"
+"che consiste nel colpire dei bersagli\n"
+"con arco e freccia mentre si cavalca.\n"
+"Ti troverai spesso a combattere mentre\n"
+"sei a cavallo...[PauseShort] quindi affinare questa\n"
+"tecnica è sicuramente una buona idea."
+
+msgid "Initial"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Salve, giovanotto.[PauseShort] Sembri uno che se la\n"
+"sa cavare con le armi,[PauseMid] ma conosci l'arte\n"
+"del combattimento a cavallo?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Explanation_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Sai che ti dico?[PauseMid] Se colpisci [Color name=\"red\"]più di 20[Color name=\"unset\"]\n"
+"bersagli, ti darò la mia [Color name=\"red\"]bardatura[Color name=\"unset\"]."
+
+msgid "Re_ask"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Te lo chiedo ancora una volta:[PauseMid]\n"
+"vuoi mettere alla prova la tua abilità\n"
+"oppure no?[Choice3 label1=\"7\" label2=\"8\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0007"
+msgstr "Lo voglio."
+
+msgid "Explanation_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo so...[PauseMid] Se colpisci [Color name=\"red\"]più di 23[Color name=\"unset\"]\n"
+"bersagli, ti darò la mia [Color name=\"red\"]bardatura[Color name=\"unset\"]."
+
+msgid "0008"
+msgstr "Spiegamelo di nuovo."
+
+msgid "MyHouse_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Benissimo, [PauseShort]vediamo come tu e il tuo\n"
+"cavallo preferito riuscite a muovervi\n"
+"come una cosa sola lì sul campo.[PauseShort]"
+
+msgid "0009"
+msgstr "Ecco a te."
+
+msgid "0010"
+msgstr "Non se ne parla!"
+
+msgid "Near00"
+msgstr "Mi devo allenare."
+
+msgid "0011"
+msgstr "Vado a registrarlo."
+
+msgid "Near01"
+msgstr "Che sonno..."
+
+msgid "Rain"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Allenarsi in un giorno piovoso come\n"
+"questo non è facile, ma di certo\n"
+"tempra il carattere!"
+
+msgid "NoHouse"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Ora...[PauseMid] non mi sembra che tu sia in groppa\n"
+"a un cavallo.[PauseMid] Capisci che non posso\n"
+"[Color name=\"red\"]allenarti [Color name=\"unset\"]in queste condizioni."
+
+msgid "0012"
+msgstr "Torno con un altro."
+
+msgid "Near02"
+msgstr "Anche se piove!"
+
+msgid "0013"
+msgstr "Voglio smettere."
+
+msgid "AskAgain"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Allora! [PauseShort]Vuoi [Color name=\"red\"]allenarti [Color name=\"unset\"]ancora un po'?[Choice2 label1=\"3\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0014"
+msgstr "Non è niente."
+
+msgid "0015"
+msgstr "Voglio smettere!"
+
+msgid "0016"
+msgstr "Va bene, continuo."
+
+msgid "0017"
+msgstr "Non serve."
+
+msgid "0018"
+msgstr "Sì, grazie!"
+
+msgid "0000_00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"6\"]E questa fiducia è ben riposta?[PauseMid]\n"
+"Sai, da giovani è facile fare gli sbruffoni.\n"
+"\n"
+"Sai che c'è?[PauseMid] Che ne dici di [Color name=\"red\"]mettere\n"
+"alla prova la tua abilità[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "New_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Perdona l'attesa.[PauseShort]\n"
+"Ricominciamo l'addestramento."
+
+msgid "0019"
+msgstr "Vorrei comprare."
+
+msgid "0020"
+msgstr "Vorrei vendere."
+
+msgid "0000_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Giovanotto,[PauseMid] sei venuto qui per [Color name=\"red\"]allenarti[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"6\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0021"
+msgstr "No, grazie."
+
+msgid "GameInit_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]La gioventù è l'età dell'avventatezza.[PauseMid]\n"
+"Mi piace il tuo carattere risoluto.\n"
+"Potrebbe salvarti la pelle un giorno."
+
+msgid "GameReady_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Bene, seguimi."
+
+msgid "GameEnd"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ferma![PauseMid]\n"
+"Torna qui."
+
+msgid "GameInit_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Però...[PauseMid] non mi piace dovertelo chiedere,\n"
+"ma...[PauseShort] mi dovresti dare [Color name=\"red\"]20 rupie [Color name=\"unset\"]per\n"
+"coprire i costi.[Choice2 label1=\"9\" label2=\"10\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "GameReady_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Vedi quei [Color name=\"red\"]bersagli [Color name=\"unset\"]sparsi in giro?[PauseShort]\n"
+"Misurerò la tua abilità in base a [Color name=\"red\"]quanti\n"
+"ne riesci a colpire [Color name=\"unset\"]con le tue frecce."
+
+msgid "GameInit_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Lo apprezzo molto.[PauseMid]\n"
+"Ti prometto che il mio [Color name=\"red\"]allenamento[Color name=\"unset\"]\n"
+"le vale tutte."
+
+msgid "GameReady_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ti avviserò io quando scadrà il tempo.\n"
+"Fino ad allora, concentrati sui bersagli!\n"
+"\n"
+"Forse è superfluo dirlo, ma ovviamente\n"
+"l'addestramento termina appena smonti\n"
+"da cavallo.[PauseMid]\n"
+"Dopotutto siamo qui proprio per valutare\n"
+"la tua abilità nell'equitazione!"
+
+msgid "GameResult_03_00"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Vediamo... [Color name=\"red\"][PauseShort][02:0E name=\"MiniGame_HorsebackArchery_BreakTargetNum\"] [SPSwitch singular=\"centro\" plural=\"centri\"][Color name=\"unset\"].[PauseMid]\n"
+"Mostri un grande talento per la tua età.[PauseLong]\n"
+"\n"
+"Cosa? [PauseShort]Non sei un giovanotto?![PauseShort] Come\n"
+"sarebbe a dire che hai più di cent'anni?[PauseMid]\n"
+"Ah ah ah![PauseShort] Sei pure simpatico![PauseMid]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]In ogni caso, ecco per te un piccolo\n"
+"regalo.[PauseMid] Grazie per la dimostrazione!"
+
+msgid "GameInit_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Giovanotto... [PauseMid]alla tua età, dovresti sapere\n"
+"quante rupie hai in borsa.[PauseShort] Torna da me\n"
+"quando potrai contribuire."
+
+msgid "GameReady_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ecco, forse era un po' lunga come\n"
+"spiegazione.[PauseMid] Ma ora possiamo\n"
+"cominciare.[PauseShort] Buona fortuna!"
+
+msgid "WhenFallFromHorse_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]Tu e il tuo cavallo preferito siete davvero\n"
+"dei fenomeni.[PauseShort] Ma questo non significa\n"
+"che non dobbiate essere prudenti!"
+
+msgid "GameInit_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Sai, io lo faccio per amore delle nuove\n"
+"generazioni, ma...[PauseMid] ho dei costi da\n"
+"sostenere. Non prendertela a male."
+
+msgid "GameReady_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ora, [PauseShort]prima della pratica, la teoria."
+
+msgid "GameInit_06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]Una decisione saggia.[PauseMid]\n"
+"La saggezza ti salverà la pelle, un giorno\n"
+"o l'altro..."
+
+msgid "GameReady_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Vuoi che ti rispieghi le regole?[Choice2 label1=\"17\" label2=\"18\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "GameReady_07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Adesso cominciamo.[PauseShort] Buona fortuna!"
+
+msgid "Accompany_00"
+msgstr ""
+"Capisco.[PauseMid] Anch'io penso che sia meglio\n"
+"seguire l'addestramento in groppa\n"
+"al tuo cavallo preferito."
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ti servono [Color name=\"red\"]frecce[Color name=\"unset\"] per questo\n"
+"addestramento.[PauseShort] Sei adeguatamente\n"
+"preparato?\n"
+"Se sei a corto di frecce, posso\n"
+"vendertene io. Cosa ne dici?[Choice3 label1=\"19\" label2=\"20\" label3=\"21\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Accompany_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Segui quel sentiero e troverai uno\n"
+"[Color name=\"red\"]stallaggio[Color name=\"unset\"].[PauseMid] Vai lì a prendere il tuo\n"
+"cavallo preferito."
+
+msgid "AskAgain_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Purtroppo devo chiederti altre [Color name=\"red\"]20 rupie[Color name=\"unset\"].[PauseMid]\n"
+"Ti va bene?[Choice2 label1=\"9\" label2=\"10\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Sleep"
+msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]Oh.[PauseMid] Ti piace fare le ore piccole, eh?[PauseMid]"
+
+msgid "Accompany_02"
+msgstr ""
+"Poi portalo qui,[PauseShort] e parla con me\n"
+"[Color name=\"red\"]senza smontare[PauseShort][Color name=\"unset\"]."
+
+msgid "AskAgain_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Capisco. [PauseShort]Allora torna a trovarmi![PauseMid]\n"
+"Mi troverai qui ogni giorno, che piova\n"
+"o tiri vento!"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hai bisogno di altro?[Choice3 label1=\"19\" label2=\"20\" label3=\"21\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "New"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Dai, vado a sistemare i bersagli.[PauseShort]\n"
+"Aspettami qui."
+
+msgid "Halt_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Sì? [PauseShort]Che c'è?[Choice2 label1=\"13\" label2=\"14\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Register_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Già,[PauseShort] penso anch'io che sia la cosa\n"
+"migliore da fare."
+
+msgid "Halt_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Capisco...[PauseShort] Di certo non posso\n"
+"restituirti le rupie che mi hai dato.[Choice2 label1=\"15\" label2=\"16\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0002_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ah, va bene.[PauseShort] Se pensi di sapere già\n"
+"tutto...[PauseMid] è ovvio che non sei interessato."
+
+msgid "Register_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Segui quel sentiero e troverai uno\n"
+"[Color name=\"red\"]stallaggio[Color name=\"unset\"].[PauseMid] Lì potrai [Color name=\"red\"]registrare[Color name=\"unset\"] il tuo\n"
+"cavallo.[PauseShort] Poi torna da me!"
+
+msgid "Halt_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Molto bene, [PauseShort]proprio quello che volevo\n"
+"sentire.[PauseMid] Comunque c'è ancora tempo,\n"
+"quindi buona fortuna!"
+
+msgid "GameResult_02_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Vediamo... [Color name=\"red\"][PauseShort][02:0E name=\"MiniGame_HorsebackArchery_BreakTargetNum\"] [SPSwitch singular=\"centro\" plural=\"centri\"][Color name=\"unset\"].[PauseMid] Sembri essere\n"
+"un giovanotto promettente![PauseLong]\n"
+"\n"
+"Se ti concentri a fondo, [Color name=\"red\"]ti sembrerà\n"
+"che i bersagli si fermino[Color name=\"unset\"].[PauseShort] Secondo me\n"
+"puoi raggiungere un tale livello di abilità.[PauseMid]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ecco, questo è un piccolo regalo. Spero \n"
+"ti possa essere utile nel tuo viaggio."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KwAAAAGsCAAAAAAAAEoAAAAEAAAAMAEAAFQBAAB4AQAAnAEAAJ4BAACgAQAAogEAAMYBAADqAQAA7AEAAO4BAADwAQAAFAIAABYCAAA6AgAAXgIAAIICAACEAgAAhgIAAKoCAADOAgAA8gIAABYDAAA6AwAAXgMAAIIDAACEAwAAhgMAAKoDAADOAwAA8gMAAPQDAAD2AwAAGgQAAD4EAABiBAAAhgQAAKoEAADOBAAA8gQAABYFAAA6BQAAXgUAAIIFAACmBQAAygUAAO4FAAASBgAANgYAAFoGAABcBgAAXgYAAGAGAABiBgAAhgYAAKoGAADOBgAA8gYAABYHAAA6BwAAXgcAAIIHAACmBwAAygcAAO4HAAASCAAANggAAFoIAAB+CAAAoggAAKQIAACmCAAAqAgAAKoIAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAAAAAAAAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAAAAAAAAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAAAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAAAAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADkAAAAAAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAAAAAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAE4AcABjAF8ARgBhAHIAbwBuAFcAbwBvAGQAcwAwADAAOQAAAAAAAAAAAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAA5AAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

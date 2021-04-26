@@ -1,0 +1,413 @@
+msgid "Failed01"
+msgstr "[Sound1 unk1=\"3\" unk2=\"44\"]Aua aua... [PauseMid]Das tat richtig weh!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]Was möchtest du denn verkaufen?"
+
+msgid "RetMSG_Firo_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]In [Color name=\"blue\"]Angelstedt [Color name=\"unset\"]hab ich frischen Fisch und\n"
+"Obst aufgeladen und mein Glück im\n"
+"Schatztruhen-Spiel versucht![PageBreak]Jetzt zieh ich zum [Color name=\"blue\"]Stall der Hochebene[Color name=\"unset\"], \n"
+"damit die Leute dort auch was vom\n"
+"Besten vom Besten abbekommen..."
+
+msgid "Com_Talk_01"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]?\n"
+"Dafür gibt's [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"][Color name=\"unset\"], mehr nicht![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"2\"]War mir ein Vergnügen.[PauseShort] Noch was?"
+
+msgid "MSG_Firo_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Frischfisch und Früchte aus dem\n"
+"südlichsten Süden!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]Tja, Pech gehabt."
+
+msgid "Com_Talk_10"
+msgstr "[C9:03][C9:02][02:0B name=\"Shop_SelectItemName\"] also?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr ""
+"Ich kaufe alles, aber nur zu meinen\n"
+"Preisen!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"7\"]Fein, danke!"
+
+msgid "MSG_Firo_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Kommt rüber, Leute![PauseShort] Nur bei mir gibt's\n"
+"das Beste vom Besten, das [Color name=\"blue\"]Angelstedt[Color name=\"unset\"]\n"
+"zu bieten hat!\n"
+"Aber nur für Hylianer![PauseShort] Monster können\n"
+"mir gestohlen bleiben!"
+
+msgid "Com_Talk_06"
+msgstr "Wofür kann ich dich begeistern?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]Bei mir gibt's Fisch und Obst aus\n"
+"[Color name=\"blue\"]Angelstedt[Color name=\"unset\"].[PauseMid] Lass dir ruhig Zeit!"
+
+msgid "MSG_Firo_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ich bring meine [Color name=\"blue\"]Angelstedter [Color name=\"unset\"]Waren\n"
+"überall unter die Leute und darum kenn\n"
+"ich mich auch überall aus![PauseShort]\n"
+"Oder hättest du etwa gewusst, dass\n"
+"da drüben im Westen der [Color name=\"blue\"]Finras-Wald[Color name=\"unset\"]\n"
+"und daneben der [Color name=\"blue\"]Hylia-See [Color name=\"unset\"]ist?"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"7\"]Danke!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]Tut mir echt leid... [PauseShort]Das ist alles alle."
+
+msgid "Com_Talk_13"
+msgstr ""
+"Aha, [C9:02][Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]![PauseShort]\n"
+"Für so was finde ich immer noch ein\n"
+"Plätzchen auf meinem Esel...[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Firo_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Kommt rüber, Leute![PauseShort] Nur bei mir gibt's\n"
+"das Beste vom Besten, das [Color name=\"blue\"]Angelstedt[Color name=\"unset\"]\n"
+"zu bieten hat!"
+
+msgid "MSG_Firo_02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Du weißt ja, dass meine Waren alle aus\n"
+"[Color name=\"blue\"]Angelstedt[Color name=\"unset\"] kommen, oder?[PauseMid] Da ist die\n"
+"Welt nämlich noch in Ordnung!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Wenn ich an unser schönes traditionelles\n"
+"Schatztruhen-Spiel denke, packt mich\n"
+"sogar ein klein wenig das Heimweh...[PageBreak]Aber genug geredet, kommen wir zum\n"
+"Geschäft!"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]Danke, sag ich, danke!"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Kannst gerne wiederkommen, wenn du\n"
+"genug [Color name=\"red\"]Rubine [Color name=\"unset\"]hast."
+
+msgid "Com_Talk_14"
+msgstr ""
+"Schön, schön... [02:0F name=\"Shop_TradeItemNum\"]-mal also...[PauseMid]\n"
+"Tja,[PauseShort] da würd ich dir [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"] [Color name=\"unset\"]für\n"
+"geben.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"2\"]Das einzig Gute an dem Wetter ist, dass\n"
+"ich meine Spezialwaren raushole![PauseShort]\n"
+"Hier, meine feine [Color name=\"red\"][C9:00 bytes=\"02010100\"]Maxi-Muschel[Color name=\"unset\"]!"
+
+msgid "MSG_Firo_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Nicht so zurückhaltend, wirf einen\n"
+"Blick auf das Beste vom Besten aus\n"
+"[Color name=\"blue\"]Angelstedt[Color name=\"unset\"]![PageBreak]Frischfisch und Früchte aus dem\n"
+"südlichsten Süden!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]Na bitte, geht doch!"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Deine Tasche ist voll.[PauseShort] Mit 'nem Esel wär\n"
+"dir das nicht passiert!"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]Nö... Das würde dir nicht mal der Esel\n"
+"abnehmen."
+
+msgid "MSG_Firo_04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]In [Color name=\"blue\"]Angelstedt [Color name=\"unset\"]gibt's nicht nur die Waren,\n"
+"die du bei mir kaufen kannst, sondern\n"
+"auch das beste Spiel aller Zeiten![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Das heißt Schatztruhen-Spiel und wer's\n"
+"nicht kennt, hat echt was verpasst![PageBreak]Aber genug gequasselt..."
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]Dies lasse ich dir als Dankeschön da."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]Musst schon erst mal die Sachen\n"
+"ablegen, die du mir verkaufen willst!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"] mal [02:0F name=\"Shop_TradeItemNum\"], das\n"
+"macht dann [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"][Color name=\"unset\"].\n"
+"Sind wir im Geschäft?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]?[PauseMid]\n"
+"Und denk dran, je mehr du kaufst, umso\n"
+"weniger muss der Esel schleppen![Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"5\" unk2=\"32\"]Der Esel... [PauseMid]Kann er noch grade laufen?"
+
+msgid "Com_Talk_33"
+msgstr ""
+"Bleibt es dabei?[PauseShort]\n"
+"Gut, macht dann genau [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Firo_03_1"
+msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]Was wäre ich nur ohne meinen Esel..."
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]In solchen Momenten hilft nur eines:[PauseShort]\n"
+"ganz, ganz still halten."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Du hast das Herz am rechten Fleck![PauseShort]\n"
+"Ich mache dir auch einen guten Preis:[PauseShort]\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] Rubine[Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Gleich alles auf einmal? [PauseMid]Na, dann schau\n"
+"ich mal, was ich dir dafür bieten kann...[PauseMid]\n"
+"Wie wäre es mit [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] Rubinen[Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Das war alles, was ich hatte.[PauseShort] Ich danke\n"
+"dir für das gute Geschäft!"
+
+msgid "MSG_Firo_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Das Schatztruhen-Spiel in [Color name=\"blue\"]Angelstedt[Color name=\"unset\"]\n"
+"ist das beste Spiel aller Zeiten![PauseMid] Wer's\n"
+"nicht kennt, hat echt was verpasst.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Aber genug gequasselt..."
+
+msgid "SavedLv1_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]Du hast mich gerettet! [PauseShort]Und den Esel\n"
+"noch dazu!"
+
+msgid "Com_Talk_05b"
+msgstr "Eigentlich wirst du bei mir alles los..."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"2\"]Danke dir!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]Für heute ist alles ausverkauft.[PauseShort] Nur noch\n"
+"Staub in den Packtaschen.[PauseShort] Aber willst du\n"
+"meine Liste fürs nächste Mal sehen?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Los geht's! [PauseMid]Der Esel ist vollgepackt\n"
+"mit allem, was dein Herz begehrt![PauseMid]\n"
+"Womit kann ich dir dienen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"5\" unk2=\"1\"][Sound2 id=\"17\"]Und du? [PauseShort]Hast du was abgekriegt?"
+
+msgid "Com_Talk_05c"
+msgstr "Wir wär's, wenn du mir was verkaufst?"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Na dann, danke!"
+
+msgid "RetMSG_Firo_00_1"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Zwischen hier und dem [Color name=\"blue\"]Stall der\n"
+"Hochebene [Color name=\"unset\"]gibt's so viele Monster,[PauseShort]\n"
+"da rennt selbst der Esel Galopp!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Da staunst du, was?[PauseMid] Jetzt aber genug\n"
+"gestaunt, kommen wir zum Geschäft!"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Gibt doch bestimmt noch was, womit ich\n"
+"dir behilflich sein kann, oder?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Deine Waren zu meinen Preisen!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]Dir sei gedankt!"
+
+msgid "MSG_Firo_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Drüben im Westen ist der [Color name=\"blue\"]Hylia-See[Color name=\"unset\"][PauseShort] und\n"
+"direkt daneben der [Color name=\"blue\"]Finras-Wald[Color name=\"unset\"].[PauseShort] Die Info\n"
+"war gratis, aber jetzt mal zum Geschäft!"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Fisch und Obst aus [Color name=\"blue\"]Angelstedt [Color name=\"unset\"]ist das\n"
+"Beste vom Besten,[PauseShort] da können selbst der\n"
+"Esel und ich nicht Nein sagen!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ich dachte, heut wird's schön...[PauseMid] Na ja,\n"
+"meine armen Knochen können auch mal\n"
+"'ne Pause gebrauchen..."
+
+msgid "5500"
+msgstr "Ist gut."
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Mir macht der Regen ja gar nichts aus,\n"
+"aber der Esel hier ist bei dem Wetter zu\n"
+"nichts zu gebrauchen!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Das reicht dir schon?[PauseShort] Tja, dann krieg ich\n"
+"auch nur [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"][Color name=\"unset\"]...[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Kannst du vergessen."
+
+msgid "0000"
+msgstr "Ich will was kaufen."
+
+msgid "5502"
+msgstr "Ja, das passt."
+
+msgid "0001"
+msgstr "Ich will verkaufen."
+
+msgid "5503"
+msgstr "Ach, doch nicht."
+
+msgid "0002"
+msgstr "Wiedersehen."
+
+msgid "Near00"
+msgstr "Frischfisch aus Angelstedt!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Puh,[PauseShort] das war knapp!"
+
+msgid "Near01"
+msgstr "Garantiert grätenfrei!"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]Das war Rettung in letzter Sekunde!"
+
+msgid "Near02"
+msgstr "Guter Fisch riecht nicht!"
+
+msgid "RetMSG_Firo_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Alles erledigt, und das Schatztruhen-\n"
+"Spiel war eine nette Ablenkung.[PauseShort] Ich\n"
+"werde mich dann wohl mal aufmachen."
+
+msgid "Near03"
+msgstr "Angelstedter Früchte!"
+
+msgid "5507"
+msgstr "Ach, ich nehm alles!"
+
+msgid "Near04"
+msgstr "Mein Fisch wird nass..."
+
+msgid "5508"
+msgstr "Alles verkaufen."
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"42\"]Bei [Color name=\"blue\"]Wächtern [Color name=\"unset\"]kenn ich nur eine\n"
+"Strategie! [PauseMid]Abhauen!"
+
+msgid "RetMSG_Firo_01_1"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]In den [Color name=\"blue\"]Wäldern von Phirone[Color name=\"unset\"] hab ich mich\n"
+"mal so übel verlaufen...[PauseMid] Ich sag dir,[PauseShort] da\n"
+"fing sogar der Esel an zu heulen![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Na ja, genug davon..."
+
+msgid "MSG_Firo_02_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"blue\"]Angelstedt[Color name=\"unset\"] ist ein schönes Fleckchen.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Dort wird noch immer das traditionelle\n"
+"Schatztruhen-Spiel gespielt, ach ja...[PageBreak]Aber genug geschwatzt!"
+
+msgid "SavedLv3_00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"19\"]Geht es dir gut?[PauseMid]\n"
+"Bist du auch nicht verletzt?"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Du hast's echt drauf!"
+
+msgid "RetMSG_Firo_00"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Ich komm ja richtig viel rum, wenn ich\n"
+"das Beste vom Besten aus [Color name=\"blue\"]Angelstedt [Color name=\"unset\"]an\n"
+"den Mann bringe...\n"
+"Und glaub mir,[PauseShort] zwischen hier und dem\n"
+"[Color name=\"blue\"]Stall der Hochebene [Color name=\"unset\"]gibt's so viele\n"
+"Monster[PauseShort], da rennt selbst der Esel Galopp![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Aber kommen wir zu was anderem..."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Bis dann."
+
+msgid "RetMSG_Firo_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ich bin ja ständig unterwegs und\n"
+"verkaufe das Beste vom Besten, was\n"
+"[Color name=\"blue\"]Angelstedt [Color name=\"unset\"]zu bieten hat.\n"
+"[Sound1 unk1=\"3\" unk2=\"0\"]In den [Color name=\"blue\"]Wäldern von Phirone[Color name=\"unset\"] hab ich mich\n"
+"trotzdem mal verlaufen...[PauseMid] Ich sag dir,[PauseShort] da\n"
+"fing sogar der Esel an zu heulen![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Na ja, genug davon..."
+
+msgid "RetMSG_Firo_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Das gab's noch nie, das gibt's nur heute![PauseShort]\n"
+"Auch wenn ihr vom [Color name=\"blue\"]Stall am See [Color name=\"unset\"]seid,\n"
+"kommt ran, ihr Leute!\n"
+"Der frischste Fisch und die südlichsten\n"
+"Früchte,[PauseShort] das Beste vom Besten aus\n"
+"[Color name=\"blue\"]Angelstedt[Color name=\"unset\"]!"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"18\"]Uiuiui... [PauseMid]Ich dachte wirklich, mein Ende\n"
+"wär gekommen!"
+
+msgid "RetMSG_Firo_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Der frischste Fisch und die südlichsten\n"
+"Früchte,[PauseShort] das Beste vom Besten aus\n"
+"[Color name=\"blue\"]Angelstedt[Color name=\"unset\"]!"
+
+msgid "RetMSG_Firo_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Der Esel hat sich die Mühe gemacht und\n"
+"die besten Früchte und Fische aus\n"
+"[Color name=\"blue\"]Angelstedt [Color name=\"unset\"]hergeschleppt!\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]Aber das ist noch nicht alles![PauseShort] Meine\n"
+"Taschen sind voller Rubine, die nur allzu\n"
+"gern ihren Besitzer wechseln würden!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAH8BQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAI4CAACQAgAAkgIAAJQCAACuAgAAyAIAAOICAAD8AgAA/gIAAAADAAACAwAABAMAAAYDAAAIAwAACgMAAAwDAAAOAwAAEAMAABIDAAAUAwAAFgMAABgDAAA4AwAAWAMAAHgDAACYAwAAmgMAAJwDAACeAwAAoAMAAKIDAACkAwAApgMAAMADAADaAwAA9AMAAA4EAAAoBAAAQgQAAFwEAAB2BAAAkAQAAKoEAADEBAAA3gQAAPgEAAASBQAALAUAAEYFAABgBQAAegUAAJQFAACuBQAAyAUAAOIFAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAxADUAAABOAHAAYwBfAFIAbwBhAGQAXwAwADEANQAAAE4AcABjAF8AUgBvAGEAZABfADAAMQA1AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

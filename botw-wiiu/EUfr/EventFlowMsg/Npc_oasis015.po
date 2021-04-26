@@ -1,0 +1,255 @@
+msgid "Npc_oasis015_003"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Pfiou, ce qu'il fait frais ce soir !\n"
+"\n"
+"\n"
+"J'irais bien boire un coup au bar,\n"
+"histoire de me réchauffer un peu !"
+
+msgid "Npc_oasis015_004"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Saksak de venir voir ma marchandise !\n"
+"Dis-moi, ce [Color name=\"blue\"][C9:00 bytes=\"01000000\"]corsage de damoiselle[Color name=\"unset\"] te\n"
+"va à ravir, ma jolie !\n"
+"Ça te dirait de m'acheter le même,\n"
+"mais dans un [Color name=\"blue\"]autre coloris[Color name=\"unset\"] ?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_006"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Bien sûr ! Tu savais pas qu'on pouvait\n"
+"changer la teinture des vêtements ?[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"4\"]En ce moment, c'est la mode chez\n"
+"les Gerudos !\n"
+"\n"
+"On peut les faire teindre au [Color name=\"blue\"]Levant[Color name=\"unset\"],\n"
+"à Elimith.\n"
+"\n"
+"Mais comme c'est pas la porte à côté,\n"
+"on a pas souvent l'occasion d'y aller...\n"
+"C'est bien dommage !"
+
+msgid "Npc_oasis015_007"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Pfiou, ce qu'il fait chaud, aujourd'hui !\n"
+"\n"
+"\n"
+"J'irais bien boire un coup au bar,\n"
+"histoire de me rafraîchir un peu !"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"Pourquoi pas ! Combien ?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_008"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Avec plaisir !"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Pour [02:0F name=\"Shop_TradeItemNum\"] exemplaires, je suis prête\n"
+"à te donner [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_60"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][C9:03][C9:01][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"Ça te fera [Color name=\"red\"][02:10 name=\"Shop_SelectItemPrice\"] rubis[Color name=\"unset\"]. Ça te va ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_oasis015_009"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Autre chose ?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Désolée, je n'en veux pas !\n"
+"C'est pas trop mon truc."
+
+msgid "Com_Talk_61"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Ce n'est pas grave ! Ça fait partie de\n"
+"mon travail d'attendre que tu aies fait\n"
+"ton choix !"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Désolée, mais je ne peux pas t'acheter\n"
+"ce que tu portes !"
+
+msgid "Talk_10"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]J'espère que tu nous seras fidèle !"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"C'est tout ?[PauseShort] Bien, je t'en donne\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça te semble honnête ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Saksak, ma jolie !"
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Quel article ?"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Ah oui ? Bien, je te prends le tout pour\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça marche ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Saksak d'avoir fait affaire avec moi !"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"] ?\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"], ça te semble honnête ?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Tu as vraiment des articles intéressants !"
+
+msgid "0007"
+msgstr "Non, merci !"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Saksaaak ![PauseShort] Autre chose ?"
+
+msgid "0008"
+msgstr "Un autre coloris ?"
+
+msgid "0009"
+msgstr "Achète-moi un truc !"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]D'accord, c'est toi qui vois..."
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]N'hésite surtout pas à me montrer tes\n"
+"articles !"
+
+msgid "Npc_oasis015_010"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Tu as besoin d'autre chose ?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_Near01"
+msgstr "[Sound2 id=\"28\"]Par ici, chère cliente !"
+
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"]Alors, tu veux que je t'achète autre\n"
+"chose ?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]C'est un plaisir de faire affaire avec toi !"
+
+msgid "Npc_oasis015_011"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"25\"]Savotta !"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]C'est un plaisir de faire affaire avec toi !\n"
+"Saksak !"
+
+msgid "5500"
+msgstr "Oui."
+
+msgid "Npc_oasis015_012"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"26\"]Savaak !!!"
+
+msgid "5501"
+msgstr "J'ai changé d'avis."
+
+msgid "Npc_oasis015_013"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"27\"]Savasaaba !!!"
+
+msgid "Talk_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Saksaaak !"
+
+msgid "Npc_oasis015_014"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]C'est fou ce que ce corsage te va bien !\n"
+"Il faut vraiment que tu m'en achètes un\n"
+"dans une [Color name=\"blue\"]autre couleur[Color name=\"unset\"] !"
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Quand une tenue se compose de\n"
+"plusieurs éléments, je te conseille\n"
+"de tous les porter en même temps."
+
+msgid "5503"
+msgstr "Laisse tomber."
+
+msgid "Npc_oasis015_015"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"28\"]C'est la dernière mode de composer\n"
+"sa garde-robe avec le [Color name=\"blue\"]même vêtement\n"
+"en différents coloris[Color name=\"unset\"] !\n"
+"Dis-moi, ça te dirait de m'acheter un\n"
+"[Color name=\"blue\"][C9:00 bytes=\"01000000\"]corsage de damoiselle[Color name=\"unset\"] dans une autre\n"
+"couleur ?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_016"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]J'ai vendu tous mes [Color name=\"blue\"]vêtements[Color name=\"unset\"] !\n"
+"\n"
+"\n"
+"Si tu aimes varier les plaisirs, ça vaut le\n"
+"coup d'avoir toute sa garde-robe dans\n"
+"[Color name=\"blue\"]plusieurs coloris différents[Color name=\"unset\"] ![Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_017"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]La petite [Color name=\"blue\"]Naboris[Color name=\"unset\"] s'est calmée, on dirait !\n"
+"Tu saurais pas pourquoi ?\n"
+"\n"
+"Enfin, peu importe ! Les affaires vont\n"
+"reprendre de plus belle maintenant !\n"
+"\n"
+"D'ailleurs, puisque tu es là, ça te dit\n"
+"pas de m'acheter une tenue dans un\n"
+"[Color name=\"blue\"]coloris original [Color name=\"unset\"]?[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_018"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]La petite [Color name=\"blue\"]Naboris[Color name=\"unset\"] s'est calmée, on dirait !\n"
+"Tu saurais pas pourquoi ?\n"
+"\n"
+"Enfin, peu importe ! Les affaires vont\n"
+"reprendre de plus belle maintenant !\n"
+"\n"
+"D'ailleurs, il faut absolument que je me\n"
+"réapprovisionne ! Les clientes vont se\n"
+"faire beaucoup plus nombreuses !\n"
+"Ce serait vraiment super si j'arrivais\n"
+"à mettre la main sur un stock de\n"
+"vêtements dans un[Color name=\"blue\"] coloris original[Color name=\"unset\"]...[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_oasis015_019"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"28\"]Vaasaak !!!"
+
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]En choisissant différents coloris pour les\n"
+"différents éléments d'une même tenue,\n"
+"tu peux créer de jolies combinaisons !"
+
+msgid "5508"
+msgstr "Je vends tout."
+
+msgid "Talk_08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Ce n'est pas grave d'avoir plusieurs fois\n"
+"le même élément d'une tenue, puisque\n"
+"tu peux l'avoir en différentes couleurs !"
+
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Ah, désolée ! Les clientes ne sont pas\n"
+"autorisées à entrer par là.\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Size percent=\"80\"]Mais si tu es membre du club, tu peux\n"
+"passer par la porte de derrière ![Size percent=\"100\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGgBAAAAAAAADEAAAAEAAAAzAAAAOYAAAAAAQAAGgEAADQBAABOAQAAaAEAAIIBAACcAQAAtgEAALgBAAC6AQAAvAEAANYBAADwAQAACgIAACQCAAA+AgAAWAIAAHICAACMAgAApgIAAMACAADaAgAA9AIAAA4DAAAoAwAASAMAAGgDAACIAwAAqAMAAMgDAADoAwAACAQAACgEAABIBAAAaAQAAIgEAACKBAAAjAQAAI4EAACQBAAAkgQAAJQEAACWBAAAmAQAAJoEAACcBAAAngQAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAAAAAAAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAG8AYQBzAGkAcwAwADEANQAAAE4AcABjAF8AbwBhAHMAaQBzADAAMQA1AAAATgBwAGMAXwBvAGEAcwBpAHMAMAAxADUAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,217 @@
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]あら…？[PauseLong]\n"
+"キミ [PauseShort]持ち物がいっぱいじゃない？\n"
+"要らない物は 売るなり捨てるなりしなさい"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]はい [PauseShort]じゃコレ"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]ゴロンシティに行くなら[PauseShort]\n"
+"私の[Color name=\"blue\"]燃えず薬 [Color name=\"unset\"]売ってあげようか？"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]ん… [PauseShort]まぁでも\n"
+""
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]燃えず薬[Color name=\"unset\"] [PauseShort]結構持ってるみたいだし[PauseShort]\n"
+"ゴロンシティまでなら なんとかなるかもね"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ゴロンシティまでは 旅慣れた人でも\n"
+"[Color name=\"red\"]最低3個[Color name=\"unset\"]は持ってくよ"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"blue\"]燃えず薬[Color name=\"unset\"][PauseShort]\n"
+"欲しけりゃ 売ってあげようか？"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]1個[Color name=\"red\"]60ルピー[Color name=\"unset\"] 2個だと[Color name=\"red\"]110ルピー[Color name=\"unset\"]\n"
+"3個だと[Color name=\"red\"]150ルピー [Color name=\"unset\"]だけど 買う？[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]それだけ持ってたら[PauseShort]\n"
+"ゴロンシティまでなら大丈夫かもね"
+
+#, ruby
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]もっと買ってった方が 身のためだと思うな"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]キミのその耐火対策なら\n"
+"ゴロンシティに たどり着けるかもね"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]キミのその耐火対策なら\n"
+"ゴロンシティに たどり着けるかもね\n"
+"健闘を祈るよ"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]おはよう"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ま[PauseShort] 私の持ってる[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]があれば\n"
+"話は別なんだけど"
+
+msgid "0000"
+msgstr "そうです"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]こんにちは！"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ま キミの事なんか 知ったこっちゃないけど[PauseShort]\n"
+"死なれちゃ困るし…\n"
+"[Sound1 unk1=\"0\" unk2=\"12\"]全く…  [PauseShort]しょうがないな\n"
+"\n"
+"少なくとも この[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を使えば「熱さ」は\n"
+"しのげるし [PauseShort]よかったら売ってあげようか？"
+
+msgid "0001"
+msgstr "ちがいます"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]こんばんは"
+
+#, ruby
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]もっと欲しかったら\n"
+"売ってあげるから 声かけてよね"
+
+msgid "0002"
+msgstr "はい"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]なんなら私の持ってる[Color name=\"blue\"]燃えず薬[Color name=\"unset\"][PauseShort]\n"
+"売ってあげようか？"
+
+msgid "0003"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"]キミも この山麓の馬宿に立ち寄ってる って事は[PauseShort]\n"
+"これから ゴロンシティに向かうの？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]燃えず薬[Color name=\"unset\"][PauseShort] 欲しかったら\n"
+"売ってあげるから 声かけてよね"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]だろうと思った"
+
+#, ruby
+msgid "0005"
+msgstr "結構です"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]そっか… [PauseMid]ま\n"
+"\n"
+"キミがどこに行こうと 知ったこっちゃないけど[PauseShort]\n"
+"ゴロンシティだけは 気を付けたほうがいいよ\n"
+"あそこは「暑い」と言うより 「熱い」から"
+
+#, ruby
+msgid "0006"
+msgstr "1個 欲しい"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]あぁ…"
+
+#, ruby
+msgid "0007"
+msgstr "2個 欲しい"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]それにしても… [PauseShort]キミ…[PauseShort]\n"
+"そんな格好でゴロンシティに行くつもり？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0008"
+msgstr "3個 欲しい"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]これだから素人は…[PauseShort]\n"
+"\n"
+"あそこは 絶壁も多いし [PauseShort][Color name=\"red\"]二合目[Color name=\"unset\"]からは\n"
+"体が燃えちゃうくらい「熱い」のよ？\n"
+"…"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]だって キミの耐火対策 [PauseShort]見りゃ分かんじゃん\n"
+"\n"
+"それならゴロンシティに たどり着けるかもね[PauseShort]\n"
+"健闘を祈るよ"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…そうだろうなぁ\n"
+"\n"
+"そんな耐火対策じゃ [PauseShort]ゴロンシティに行くまでに\n"
+"焼け死ぬだろうし"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]そうか\n"
+"\n"
+"それなら 悪い事は言わない[PauseShort]\n"
+"ゴロンシティに行くのは あきらめな"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]あら…？[PauseLong]\n"
+"キミ [PauseShort]ルピーが足りないようね\n"
+"その辺に転がってる素材とか売って[PauseShort]\n"
+"金策して来なさい"
+
+#, ruby
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]オッケー [PauseShort]じゃ これが[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HQAAAAGEBgAAAAAAACcAAAAEAAAApAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAA5AAAABQBAABEAQAAdAEAAKQBAADUAQAABAIAADQCAABkAgAAlAIAAMQCAAD0AgAAJAMAAFQDAACEAwAAtAMAAOQDAAAUBAAARAQAAHQEAACkBAAA1AQAAAQFAAA0BQAAZAUAAJQFAADEBQAA9AUAACQGAABUBgAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMwAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,242 @@
+msgid "Npc_kokiri003_Sell010b"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]I'm so glad I prepared a variety of\n"
+"items!"
+
+msgid "Npc_kokiri003_Sell030"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Thanks for letting me help you save\n"
+"Hyrule, Mr. Hero!\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]I'll make sure to prepare a variety of\n"
+"items again for next time."
+
+msgid "5503"
+msgstr "Never mind."
+
+msgid "Npc_kokiri003_Sell010c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Thanks!"
+
+msgid "Npc_kokiri003_Talk000"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Well, look who we have here! [PauseShort]Hello,\n"
+"Mr. Hero, and welcome to the\n"
+"[Color name=\"blue\"]General Shoppe[Color name=\"unset\"]!\n"
+"I sell a lot of stuff here—things that I\n"
+"gather in the forest...[PauseShort]things\n"
+"that I don't gather in the forest.\n"
+"Please choose anything you want!\n"
+"Or...[PauseShort]have you come to sell?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Sell010d"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]I was able to help Mr. Hero!\n"
+"Yesssssssss!"
+
+msgid "5507"
+msgstr "I'll take 'em all!"
+
+msgid "Npc_kokiri003_Talk020"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Good evening,[PauseShort] Mr. Hero.\n"
+"Would you like to sell something?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]What do you want to sell?"
+
+msgid "5508"
+msgstr "All of them."
+
+msgid "Npc_kokiri003_Near000"
+msgstr "Useful items here!"
+
+msgid "Com_Talk_01"
+msgstr "[Color name=\"blue\"][04:03][Color name=\"unset\"]Does [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"] sound OK?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "I want to sell."
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"7\"]Thank you very much!\n"
+"Would you like to sell anything else?"
+
+msgid "0001"
+msgstr "What do you sell?"
+
+msgid "Npc_kokiri003_Talk040"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]If there's anything you don't need,\n"
+"please let me see it.\n"
+"\n"
+"I love seeing things from outside the\n"
+"forest."
+
+msgid "0002"
+msgstr "Good-bye."
+
+msgid "Npc_kokiri003_Near020"
+msgstr "My shop is empty..."
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]Oh, you changed your mind? OK."
+
+msgid "Com_Talk_05"
+msgstr "[04:03]If you're selling, I'm buying."
+
+msgid "Npc_kokiri003_Talk060"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"25\"]Thank you kindly.[PauseMid]\n"
+"I'll need to restock my wares."
+
+msgid "Com_Talk_05b"
+msgstr ""
+"[04:03]Do you have things from outside the \n"
+"forest?"
+
+msgid "Com_Talk_05c"
+msgstr "[04:03]What will you sell me?"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"[04:03]Aha! [PauseMid]So this is the inside of \n"
+"Mr. Hero's stash!"
+
+msgid "Npc_kokiri003_Sell000"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]I heard you'd be coming, Mr. Hero.\n"
+"That's why I opened the\n"
+"[Color name=\"blue\"]General Shoppe[Color name=\"unset\"]!\n"
+"You're my only customer, so if you want\n"
+"to buy or sell something, just let me\n"
+"know!"
+
+msgid "Npc_kokiri003_Sell020"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Yaaaay! Thanks for letting me help\n"
+"you save Hyrule!\n"
+"\n"
+"I heard you'd be coming, Mr. Hero.\n"
+"That's why I opened the\n"
+"[Color name=\"blue\"]General Shoppe[Color name=\"unset\"]!\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]You're my only customer, so if you want\n"
+"to buy or sell something, just let me\n"
+"know!"
+
+msgid "Npc_kokiri003_Talk010"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Welcome to the [Color name=\"blue\"]General Shoppe[Color name=\"unset\"]![PauseMid]\n"
+"Please browse to your heart's desire.\n"
+"\n"
+"Or... [PauseShort]Would you rather sell something?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_kokiri003_Talk030"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]I'm sorry...[PauseShort] We're completely sold out at\n"
+"the moment. But if you want to sell\n"
+"something, I'm all ears![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Will you sell me more things?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]I want more of Mr. Hero's things!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound2 id=\"7\"]I'm so happy I can buy things from \n"
+"Mr. Hero!"
+
+msgid "Npc_kokiri003_Talk050"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"18\"]Mr. Hero![PauseShort] Please be careful walking\n"
+"through the forest at night. Night tends\n"
+"to bring out the nastier monsters."
+
+msgid "Com_Talk_13"
+msgstr "[Color name=\"blue\"][04:03][Color name=\"unset\"]How many would you like to sell?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[04:03]If you want to sell [02:0F name=\"Shop_TradeItemNum\"]...\n"
+"How does [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees [Color name=\"unset\"]sound?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]Oh, I can't do anything with that at this\n"
+"shop."
+
+msgid "Npc_kokiri003_Talk070"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]I've prepared some arrows and food[PauseShort] that\n"
+"I thought may prove useful to you,\n"
+"Mr. Hero!\n"
+"If you use a [Color name=\"blue\"]shock arrow[Color name=\"unset\"] when it's\n"
+"raining, it does extra damage.\n"
+"I highly recommend it."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"2\"]I'll need you to take that off before\n"
+"selling it to me."
+
+msgid "Com_Talk_33"
+msgstr "[04:03]I can give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_50"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"6\"][Color name=\"unset\"]That'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_34"
+msgstr ""
+"[04:03]OK.[PauseShort] I've got [02:0F name=\"Shop_TradeItemNum\"] of them, so that'll be\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"], please![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_51"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"6\"][Color name=\"unset\"]How many were you thinking?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[04:03]You want to sell all of them?\n"
+"I'll buy [02:0F name=\"Shop_TradeItemNum\"] of them off you for\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[Color name=\"blue\"][04:03][Color name=\"unset\"]So [02:0F name=\"Shop_TradeItemNum\"]?\n"
+"That'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_53"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Oh?[PauseShort] You changed your mind?\n"
+"OK."
+
+msgid "Com_Talk_54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]It looks like you don't have enough\n"
+"rupees..."
+
+msgid "Npc_kokiri003_Sell010"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Thank you!"
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]You're already carrying too much stuff.\n"
+"Don't hurt yourself!"
+
+msgid "5500"
+msgstr "OK."
+
+msgid "Com_Talk_56"
+msgstr "[04:03]That'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Never mind."
+
+msgid "5502"
+msgstr "Buy."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGoAwAAAAAAADMAAAAEAAAA1AAAAPAAAAAMAQAAKAEAAEQBAABGAQAASAEAAEoBAABmAQAAggEAAJ4BAAC6AQAA1gEAAPIBAAAOAgAAKgIAAEYCAABiAgAAfgIAAJoCAAC2AgAAuAIAALoCAAC8AgAAvgIAAMACAADgAgAAAAMAACADAABAAwAAYAMAAGIDAABkAwAAZgMAAGgDAABqAwAAbAMAAG4DAABwAwAAkAMAAJIDAACUAwAAlgMAAJgDAACaAwAAnAMAAJ4DAACgAwAAogMAAKQDAACmAwAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAAAAAAAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAABOAHAAYwBfAGsAbwBrAGkAcgBpADAAMAAzAAAATgBwAGMAXwBrAG8AawBpAHIAaQAwADAAMwAAAE4AcABjAF8AawBvAGsAaQByAGkAMAAwADMAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

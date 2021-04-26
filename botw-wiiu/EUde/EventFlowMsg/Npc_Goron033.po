@@ -1,0 +1,96 @@
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Die [Color name=\"blue\"]Brandschutz-[C9:00 bytes=\"02040400\"]Medizin[Color name=\"unset\"] bekommst du\n"
+"für [Color name=\"red\"]60 Rubine[Color name=\"unset\"]. Weil du es bist![Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Hallo, Hylianer![PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] tobt zwar nicht mehr rum,[PauseShort] aber\n"
+"Feuer fangen kann man hier immer noch![PageBreak]Aber keine Angst: Ein bisschen\n"
+"[Color name=\"blue\"]Brandschutz-[C9:00 bytes=\"02040400\"]Medizin[Color name=\"unset\"] hinter die\n"
+"Ohren, und du bist gewappnet![PageBreak]Willst du welche?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near00"
+msgstr "Kuller..."
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Hm? [PauseShort]Du hast nicht genug Rubine![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Na super... [PauseShort]Ein Zechpreller."
+
+msgid "near01"
+msgstr "ZZZzzz..."
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Jippie! Ich hab was verkauft!\n"
+"[PauseShort]Hier, bitte!"
+
+msgid "near02"
+msgstr "Gähn..."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als [Color name=\"blue\"]Hylianer[Color name=\"unset\"] solltest du mehr davon\n"
+"mitnehmen![PauseShort] Komm schon,\n"
+"[Color name=\"blue\"]Brandschutz-[C9:00 bytes=\"02040400\"]Medizin[Color name=\"unset\"] für [Color name=\"red\"]60 Rubine[Color name=\"unset\"]![Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hm? [PauseShort]Deine Tasche ist voll![PauseLong]\n"
+"Schaff erst mal etwas freien Platz."
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Los, kauf schon![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Als [Color name=\"blue\"]Hylianer[Color name=\"unset\"] brauchst du die, oder?[PauseLong]\n"
+"[Color name=\"blue\"]Brandschutz-[C9:00 bytes=\"02040400\"]Medizin[Color name=\"unset\"], meine ich![Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Pfff. Dann verbrenn dich doch!"
+
+msgid "0000"
+msgstr "Was soll ich kaufen?"
+
+msgid "0001"
+msgstr "Nein, danke."
+
+msgid "0002"
+msgstr "Kann sein..."
+
+msgid "0003"
+msgstr "Nehme ich!"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Brauchst du [Color name=\"blue\"]Brandschutz-[C9:00 bytes=\"02040400\"]Medizin[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0004"
+msgstr "Brauch ich nicht."
+
+msgid "talk11"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]...Hmbl.[PageBreak][Size percent=\"100\"][Sound1 unk1=\"0\" unk2=\"0\"]Oh! [PauseShort]Ein Kunde?!"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Dann weck mich doch nicht!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"80\"][Color name=\"Gray\"]Einfach eine[Color name=\"unset\"][Color name=\"blue\"] [C9:00 bytes=\"02010100\"]Löschechse[Color name=\"unset\"][Color name=\"Gray\"] und [Color name=\"blue\"]Monsterzutaten[Color name=\"Gray\"]\n"
+"zusammen kochen...[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Bis später!"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"Gray\"][Size percent=\"80\"]Den hab ich an der Leine![Size percent=\"100\"][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"unset\"]Ähm, ich meine...\n"
+""
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Hier, bitte!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAIIAAACcAAAAtgAAALgAAAC6AAAAvAAAAL4AAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

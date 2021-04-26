@@ -1,0 +1,408 @@
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]走遍世界的……不，走遍这一带的[PauseShort]\n"
+"宝物猎人！[PauseLong]那就是我[PauseMid]贝黎斯！"
+
+msgid "MSG_Futa_02_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]我的血液其实是机械用的油……\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]每天搬运[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，[PauseShort]\n"
+"搬着搬着，就有这种感觉呢。"
+
+msgid "Rest_00"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"6\" unk2=\"1\"]哈特诺堡垒[Color name=\"unset\"]附近有[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，[PauseShort]\n"
+"我正从里面捡拾还能用的古代零件……\n"
+"[Sound1 unk1=\"1\" unk2=\"25\"]这东西看来也能卖个好价钱！\n"
+""
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]中古零件商一到雨天就没辙了。[PauseMid]\n"
+"虽说是些破铜烂铁，生锈了还是很可惜。"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]雨下得真大啊……[PauseMid]\n"
+"只能在这里等雨停了。"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]那么，[PauseShort]再会……"
+
+msgid "Com_Talk_05b"
+msgstr "我可要大肆收购哦！"
+
+msgid "Com_Talk_56"
+msgstr ""
+"买1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，可以吗？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05c"
+msgstr "各种物品我都收购哦！"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"我什么都收购，\n"
+"不限古代零件！"
+
+msgid "RetMSG_Futa_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]从这里往西走便是[Color name=\"blue\"]哈特诺堡垒[Color name=\"unset\"]了！[PauseLong]\n"
+"若要前往，可要小心视线死角的怪物。"
+
+msgid "Guardian00"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"4\" unk2=\"22\"]守护者[Color name=\"unset\"]还在动！[PauseMid]\n"
+"先逃先赢！"
+
+msgid "RetMSG_Futa_04_1"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]从哈特诺堡垒[Color name=\"unset\"]的[Color name=\"blue\"]守护者[Color name=\"unset\"]身上能捡到古代零件，[PauseShort]\n"
+"你可别抢在我之前去捡！"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"[Color name=\"red\"]总共是[MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，可以吗？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Futa_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]距离这里极远的北方，有间[Color name=\"blue\"]阿卡莱古代研究所[Color name=\"unset\"]。\n"
+"那里有个收购[Color name=\"blue\"]守护者[Color name=\"unset\"]零件的男人。"
+
+msgid "Com_Talk_31"
+msgstr ""
+"要买[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseLong]\n"
+"要买几个呢？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]请务必收下这份谢礼！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"卖1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseShort]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_34"
+msgstr ""
+"要买下所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseShort]\n"
+"那么，[02:0F name=\"Shop_TradeItemNum\"]个总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]。[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"要卖出所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseLong]\n"
+"一共[02:0F name=\"Shop_TradeItemNum\"]个，我用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]收购吧！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Futa_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]这个村庄的学者……[PauseShort]\n"
+"到底去了哪里呢？"
+
+msgid "RetMSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]你问我在做些什么？[PauseMid]\n"
+"好问题！\n"
+"[Sound1 unk1=\"7\" unk2=\"11\"]我一直在捡拾搜集古代零件的残骸！[PauseShort]\n"
+"没错！[PauseShort]我就是宝物猎人！\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]这一带有很多[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，\n"
+"多少让我有点兴奋！"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]哦哦，都卖完了！[PauseLong]\n"
+"谢谢你买了这么多！"
+
+msgid "RetMSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]从这里往西走便是[Color name=\"blue\"]哈特诺堡垒[Color name=\"unset\"]了！\n"
+"\n"
+"[Sound2 id=\"14\"]……再过去的话，嗯，[PauseMid]就没什么情报了！"
+
+msgid "SavedLv1_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]托你的福，我才捡回一命！[PauseMid]\n"
+"……这么说会太夸张吗？"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"23\"]已经没有库存了，中古零件商暂停营业。[PauseLong]\n"
+"要看看挖宝的预定表吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "RetMSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]我想问一下，你觉得我的工作……[PauseShort]\n"
+"看起来会不会只是在捡破烂？\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]其实这是个与危险为邻的辛苦工作，[PauseMid]\n"
+"有时还会被怪物袭击。"
+
+msgid "SavedLv1_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]我身为宝物猎人，[PauseShort]\n"
+"竟然被你给救了！"
+
+msgid "Com_Talk_11b"
+msgstr ""
+"[Sound2 id=\"9\"]上啦！[PauseMid]\n"
+"不对，我是说谢啦！"
+
+msgid "RetMSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]你问我搜集来的[Color name=\"blue\"]守护者[Color name=\"unset\"]零件[PauseShort]\n"
+"都怎么处理？\n"
+"[Sound1 unk1=\"1\" unk2=\"11\"][Color name=\"blue\"]阿卡莱古代研究所[Color name=\"unset\"]的学者[PauseShort]\n"
+"会用漂亮的价格收购！\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]不过……等等。\n"
+"\n"
+"[Sound1 unk1=\"4\" unk2=\"20\"]他该不会要修复[Color name=\"blue\"]守护者[Color name=\"unset\"]吧！"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]非常感谢！"
+
+msgid "RetMSG_Futa_04"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"25\"]哈特诺堡垒[Color name=\"unset\"]附近有[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，[PauseShort]\n"
+"我要从里面捡拾还能用的古代零件！\n"
+"……OK？"
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]好险……[PauseMid]刚才真不妙……[PauseMid]\n"
+"真的幸好有你在！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"2\"]嗯嗯，[PauseShort]谢谢！"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"23\"]天气不太好，给你一点小优惠！[PauseMid]\n"
+"就把我珍藏的古代零件卖你吧！"
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"18\"]真是惊魂未定！[PauseLong]\n"
+"谢谢你救了我！"
+
+msgid "RetMSG_Futa_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]这一带有很多[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，[PauseShort]\n"
+"所以狩猎起宝物也格外顺利！"
+
+msgid "SavedLv3_00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]有种总算得救了的感觉！[PauseMid]\n"
+"当然，这都是托你的福！"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]……话说回来！[PauseShort]\n"
+"\n"
+"你对守护者的残骸之类的\n"
+"有没有兴趣啊？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"11\"]托你的福，我才捡回一命！[PauseMid]\n"
+"……不，[PauseShort]这么说绝不夸张！"
+
+msgid "Near00"
+msgstr "古代材料啊……"
+
+msgid "Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]还有其他的吗？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Near01"
+msgstr "古代螺丝……"
+
+msgid "Near02"
+msgstr "古代齿轮……"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"2\"]谢谢！"
+
+msgid "RetMSG_Futa_03_1"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"blue\"]阿卡莱古代研究所[Color name=\"unset\"]的学者愿意收购\n"
+"[Color name=\"blue\"]守护者[Color name=\"unset\"]的零件，[PauseShort]这样好是好……\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]但万一他是在修复[Color name=\"blue\"]守护者[Color name=\"unset\"]，那就糟了……"
+
+msgid "Near03"
+msgstr "古代核心……"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"9\"]非常感谢！"
+
+msgid "MSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]……你发现了吗？[PauseMid]\n"
+"这一带有特别多[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸……\n"
+"那是村民所留下来的，[PauseShort]\n"
+"他们深信这样就能防止敌人入侵……"
+
+msgid "Near04"
+msgstr "下雨了……"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]谢啦！"
+
+msgid "MSG_Futa_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]守护者[Color name=\"unset\"]是防止敌人入侵的兵器……[PauseLong]\n"
+"至少村民是这么相信的……"
+
+msgid "MSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]在距离这里极远的北方，[PauseShort][Color name=\"blue\"]阿卡莱地区[Color name=\"unset\"]的边界\n"
+"有个收购[Color name=\"blue\"]守护者[Color name=\"unset\"]零件的男人。\n"
+"我之所以能成为宝物猎人，[PauseShort]\n"
+"也是托那家伙的福。"
+
+msgid "MSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]……你喜欢油的气味吗？[PauseMid]\n"
+"我不是说料理用的油，而是机械用的油。\n"
+"我从早到晚都在搬运[Color name=\"blue\"]守护者[Color name=\"unset\"]的残骸，\n"
+"油的气味几乎都快渗进我的身体里了。"
+
+msgid "Com_Talk_10"
+msgstr "要买[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]话说回来，这还真可悲啊……[PauseShort]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]守护者[Color name=\"unset\"]本是制作出来保护人们的，\n"
+"如今却遭人们如此嫌恶……"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"2\"]谢谢！"
+
+msgid "MSG_Futa_04"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]我听说这个村庄也有位学者，[PauseShort]\n"
+"但最近似乎都没见到人。\n"
+"本来想问他要不要\n"
+"收购[Color name=\"blue\"]守护者[Color name=\"unset\"]的零件……"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"23\"]中意哪个呢？"
+
+msgid "Com_Talk_13"
+msgstr ""
+"要卖[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseMid]\n"
+"要卖几个？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Futa_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]守护者[Color name=\"unset\"]本是制作出来保护人们的，[PauseShort]\n"
+"如今却被人们嫌恶……"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"][Size percent=\"80\"]……[PauseMid][Size percent=\"100\"]\n"
+"那我总共用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]收购，可以吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]这个我不方便收购哦！"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]穿在身上的衣服\n"
+"要先脱下才能卖，这应该是常识吧？"
+
+msgid "0000"
+msgstr "有兴趣"
+
+msgid "5500"
+msgstr "好"
+
+msgid "0001"
+msgstr "想卖"
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"9\" unk2=\"42\"]怪物已经不在了吧？[PauseLong]是吧？"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "0002"
+msgstr "再见"
+
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]痛痛痛……[PauseShort]\n"
+"我这宝物猎人从未如此失策……"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]要卖哪个给我？"
+
+msgid "5502"
+msgstr "买"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要卖[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，可以吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "还是算了"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]谢谢！[PauseShort]\n"
+"还有其他的吗！"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]那还真可惜！"
+
+msgid "RetMSG_Futa_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]我的这份工作……[PauseShort]宝物猎人啊，\n"
+"看来不起眼，但可是非常辛苦。\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]无法获得周围理解真让人悲伤……"
+
+msgid "Com_Talk_05"
+msgstr "我什么都收购哦！"
+
+msgid "5507"
+msgstr "全买了"
+
+msgid "Com_Talk_06"
+msgstr "要买哪个呢？"
+
+msgid "5508"
+msgstr "全卖了"
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]我虽然是宝物猎人，[PauseShort]\n"
+"但可没受过干掉怪物的训练……"
+
+msgid "Com_Talk_07"
+msgstr ""
+"[Sound2 id=\"10\"]抱歉啊！[PauseShort]\n"
+"这东西已经卖完啦！"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]要是与怪物为敌，\n"
+"不管有几条命都不够用！"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]你的卢比好像不够！[PauseShort]\n"
+"等你多赚一点再来找我吧！"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"4\"]袋子好像已经满了！[PauseShort]\n"
+"等你清出袋子的空间再来吧！"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]嗨！[PauseShort]我是宝物猎人贝黎斯！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAG8AwAAAAAAAFgAAAAEAAAAaAEAAIIBAACcAQAAngEAAKABAACiAQAAvAEAAL4BAADAAQAAwgEAAMQBAADGAQAAyAEAAMoBAADMAQAAzgEAANABAADqAQAA7AEAAAYCAAAgAgAAOgIAAFQCAABuAgAAcAIAAHICAACMAgAAjgIAAJACAACSAgAAlAIAAJYCAACYAgAAmgIAAJwCAACeAgAAoAIAAKICAACkAgAApgIAAKgCAACqAgAArAIAAK4CAACwAgAAsgIAALQCAAC2AgAAuAIAALoCAAC8AgAAvgIAAMACAADCAgAAxAIAAOQCAAAEAwAABgMAAAgDAAAKAwAADAMAAA4DAAAQAwAAEgMAACwDAABGAwAASAMAAEoDAABMAwAATgMAAFADAABSAwAAVAMAAFYDAABYAwAAWgMAAFwDAABeAwAAYAMAAGIDAABkAwAAZgMAAGgDAABqAwAAbAMAAG4DAACIAwAAogMAAE4AcABjAF8AUgBvAGEAZABfADAAMgAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAwAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMAAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,195 @@
+msgid "near02"
+msgstr "ハァハァ…"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]それにしても[PauseShort]\n"
+"ああ くたびれた…[PauseMid]\n"
+"ソテツおじさんの村案内は\n"
+"けっこう くたびれるんだ[PauseMid]\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]ダイエットも兼ねてる事は 秘密にしておこう…[Size percent=\"100\"][Color name=\"unset\"]"
+
+#, ruby
+msgid "near03"
+msgstr "少し痩せないと…"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"34\"]今日はもう 休むとしますわ[PauseMid]\n"
+"また今度 ぜひ案内させてくださいな"
+
+msgid "near04"
+msgstr "グオオォォ…"
+
+msgid "talk09"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]ギリギリギリ…[Size percent=\"100\"]"
+
+#, ruby
+msgid "0000"
+msgstr "お願いします"
+
+#, ruby
+msgid "0001"
+msgstr "結構です"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]雨が降ったら濡れればよし…[PauseShort]\n"
+"そんな考えで生きております\n"
+"そちらも同じお考えでしたら\n"
+"今から ハテノ村をご案内しましょうか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0002"
+msgstr "雨降ってますけど…"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]おやおや これは旅の人…[PauseShort]\n"
+"初めてのハテノ村で お困りのご様子[PauseShort]\n"
+"しかたないですな[PauseShort]\n"
+"この私が 案内役を買って出ましょう[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]その[Color name=\"blue\"]青い炎[Color name=\"unset\"]…[PauseShort]\n"
+"プルアの お婆様の炎では？"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]まだ到着してないですよっ！[PauseLong]\n"
+"慌てない 慌てない…"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]その[Color name=\"blue\"]青い炎[Color name=\"unset\"]… [PauseShort]\n"
+"早くプルアの お婆様に届けたほうが…"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]移動中は 話しかけないで…[PauseLong]\n"
+"こういうのは テンポが大切ですからね"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]これはこれは 旅の人…[PauseShort]\n"
+"慣れないハテノ村で お困りのご様子[PauseShort]\n"
+"しかたないですな[PauseShort]\n"
+"この私が 案内役を買って出ましょう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]さてさて ソテツおじさんの村案内…[PauseShort]\n"
+"そろそろ お次にまいりましょう！"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]ソテツおじさんの村案内[PauseShort]\n"
+"ご利用ありがとうございました\n"
+"次回の開催は 体力が回復した時にでも…"
+
+msgid "talk01"
+msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]シュン…[Size percent=\"100\"]"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]ソテツおじさんの村案内は 閉店です[PauseLong]\n"
+"また次の機会にでも…\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]ああ疲れた…[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]オッケーイ！[PauseShort] \n"
+"まっか [PauseShort]せっな [PauseShort]さーい！"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]ここは [Color name=\"blue\"]よろず屋「イースト・ウィンド」[Color name=\"unset\"]さん[PauseShort]\n"
+"売ってないもの以外は 何だって売ってるよ！"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"0\"]ソテツおじさんの村案内は 閉店です[PauseLong]\n"
+"また 必ずや！\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]ああ ねむ…[Size percent=\"100\"][Color name=\"unset\"]"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"3\" unk2=\"36\"]ハァ… [PauseShort]ハァ…[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"4\"]こちら [Color name=\"blue\"]ハテノ染め[Color name=\"unset\"]の[Color name=\"blue\"]「東風屋」[Color name=\"unset\"]さん[PauseShort]\n"
+"着ている服を 好きな色に染めてくれますよ\n"
+"でっしぇまっしぇ調のご主人は[PauseShort]\n"
+"クセは強いが 気のいい人でしてね"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]その[Color name=\"blue\"]青い炎[Color name=\"unset\"]…[PauseShort]\n"
+"[Color name=\"blue\"]研究所[Color name=\"unset\"]の[Color name=\"blue\"]所長さん[Color name=\"unset\"]の炎では？"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"3\" unk2=\"36\"]ハァ… [PauseShort]ハァ…[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]ここが [Color name=\"blue\"]宿屋「トンプー亭」[Color name=\"unset\"]さん[PauseShort]\n"
+"旅人に人気の宿泊施設ですな[PauseShort]\n"
+"[Sound1 unk1=\"0\" unk2=\"9\"]ここだけの話…[PauseShort]\n"
+"フロントの女性が なかなかの美人さんでねぇ"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]その[Color name=\"blue\"]青い炎[Color name=\"unset\"]… [PauseShort]\n"
+"早く[Color name=\"blue\"]研究所[Color name=\"unset\"]に届けたほうが…"
+
+msgid "near01"
+msgstr "♪～～"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"3\" unk2=\"36\"]ハァ… [PauseShort]ハァ…[Size percent=\"100\"]\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]えー ここは [Color name=\"blue\"]服屋「ヴェント・エスト」[Color name=\"unset\"]さん[PauseShort]\n"
+"私も着てるが ここの服はオススメですよ\n"
+"この店のオーナーがまた いい男でね[PauseMid]\n"
+"名前はソテツといって 村の案内が大好きで…[PauseShort]\n"
+"[Sound1 unk1=\"7\" unk2=\"10\"]ワハハ その通り！[PauseMid]\n"
+"ここは この私の店なんですわ！[PauseShort]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]もしも色に飽きたら[PauseShort]\n"
+"[Color name=\"blue\"]東風屋[Color name=\"unset\"]さんで 別の色に染めてくださいね！"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]店は娘に任せてあるので[PauseShort]\n"
+"私はヒマでしてな…[PauseShort]\n"
+"生まれ育ったこの村への恩返しとして[PauseShort]\n"
+"せめて 案内役を買って出てるというわけで[PauseShort]\n"
+"…では 案内しますんで[PauseShort]\n"
+"ちゃんと 付いて来てくださいよ[PauseMid]\n"
+"[Sound1 unk1=\"7\" unk2=\"10\"]このあと私…[PauseMid]\n"
+"予想外の行動を起こしますからね"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "FwAAAAH0BAAAAAAAAB4AAAAEAAAAgAAAAKoAAADUAAAA/gAAACgBAAAqAQAALAEAAC4BAABYAQAAggEAAKwBAADWAQAAAAIAACoCAABUAgAAfgIAAKgCAADSAgAA/AIAACYDAABQAwAAegMAAKQDAADOAwAA+AMAACIEAABMBAAAdgQAAKAEAADKBAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAAAAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA0AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

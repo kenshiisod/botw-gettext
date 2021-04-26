@@ -1,0 +1,53 @@
+msgid "near01"
+msgstr "Fa paura, eh?"
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Ogni volta che sento un tuono, mi\n"
+"viene una strizza...[PauseMid]\n"
+"\n"
+"Ehi, amico... Tu conosci la storia?[PauseShort]\n"
+"Si dice che il rumore dei tuoni sia\n"
+"causato dall'ira di un dragone divino.\n"
+"Però chissà se esiste davvero una cosa\n"
+"del genere.[PauseShort] Io di certo non l'ho mai vista."
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Ehi, amico... [PauseShort]Hai una [Color name=\"blue\"]mappa[Color name=\"unset\"], per caso?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0000"
+msgstr "Sì, ce l'ho."
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Che razza di svitato! Se ne va in giro\n"
+"senza una mappa!"
+
+msgid "near00"
+msgstr "Quanto piove..."
+
+msgid "0001"
+msgstr "No, non ce l'ho."
+
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bene...[PauseShort] E sulla tua mappa sono segnati\n"
+"i [Color name=\"blue\"]Monti Gemelli[Color name=\"unset\"], a nord di qui?\n"
+"\n"
+"Te lo chiedo perché ho sentito dire che\n"
+"molto tempo fa costituivano un'unica,\n"
+"grande montagna.\n"
+"Secondo la leggenda, un dragone divino\n"
+"la divise in due per creare un passaggio.\n"
+"\n"
+"Ultimamente, alcuni giurano di aver visto\n"
+"l'ombra di una creatura gigantesca sulla\n"
+"superficie del [Color name=\"blue\"]lago di Floria[Color name=\"unset\"].[PauseShort]\n"
+"Così dicono le voci, ma chissà quanto\n"
+"c'è di vero in tutto questo..."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "BwAAAAEEAQAAAAAAAAgAAAAEAAAAKAAAAEwAAABwAAAAcgAAAHQAAACYAAAAvAAAAOAAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADMAAABOAHAAYwBfAEYAYQByAG8AbgBXAG8AbwBkAHMAMAAwADMAAAAAAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMAAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

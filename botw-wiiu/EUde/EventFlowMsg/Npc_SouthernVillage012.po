@@ -1,0 +1,88 @@
+msgid "talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wirklich? [PauseShort]Na, du bist ja seltsam."
+
+msgid "0001"
+msgstr "Wüste?"
+
+msgid "0002"
+msgstr "Ich mag den Regen."
+
+msgid "0003"
+msgstr "Heimat?"
+
+msgid "talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ach, das Wetter ist hier schön warm,\n"
+"nicht so heiß wie in der Wüste! [PauseShort]Machst\n"
+"du hier Urlaub?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk_10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]Savotta!"
+
+msgid "talk_11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]Savaaq!"
+
+msgid "talk_01"
+msgstr "Zzz..."
+
+msgid "talk_12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]Sav'saaba!"
+
+msgid "talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Das dort ist die Insel [Color name=\"blue\"]Jotwerde[Color name=\"unset\"].[PauseShort]\n"
+"Und da will ich hin."
+
+msgid "talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Die Insel im Meer östlich von hier,[PauseShort]\n"
+"die heißt [Color name=\"blue\"]Jotwerde[Color name=\"unset\"].[PageBreak]Ich bin hierhergekommen, weil ich\n"
+"sie besuchen will."
+
+msgid "talk_03"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Wenn ich nur [Color name=\"red\"]Flügel[Color name=\"unset\"] hätte...[PauseShort]"
+
+msgid "talk_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Aber mit dem Boot ist sie nur schwer\n"
+"zu erreichen.[PauseShort] Es wäre besser, sich [Color name=\"red\"]Flügel[Color name=\"unset\"]\n"
+"wachsen zu lassen..."
+
+msgid "talk_05"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Dieser furchtbare Regen...[PauseShort]\n"
+"Ich vermisse meine Heimat.[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Near00"
+msgstr "So weit weg..."
+
+msgid "talk_06"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]Klingt nett.[PauseShort] Ich bin ja nicht nur\n"
+"hergekommen, um am Strand zu liegen."
+
+msgid "Near01"
+msgstr "Es fängt an zu regnen."
+
+msgid "talk_07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]Ich komme aus Gerudo-Stadt, inmitten\n"
+"der Wüste."
+
+msgid "Near02"
+msgstr "Hrmm..."
+
+msgid "talk_08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ich komme aus Gerudo-Stadt, inmitten\n"
+"der Wüste. [PauseShort]Dort regnet es nie.[PageBreak]Am Anfang fand ich es noch schön,\n"
+"aber irgendwann ist man es echt leid..."
+
+msgid "0000"
+msgstr "Genau."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAFyAwAAAAAAABUAAAAEAAAAXAAAAIoAAAC4AAAA5gAAABQBAABCAQAAcAEAAJ4BAADMAQAA+gEAACgCAABWAgAAhAIAALICAADgAgAADgMAADwDAABqAwAAbAMAAG4DAABwAwAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQAyAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEAMgAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADIAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

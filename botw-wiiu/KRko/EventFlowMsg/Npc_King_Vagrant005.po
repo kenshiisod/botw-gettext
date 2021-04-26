@@ -1,0 +1,247 @@
+msgid "Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]사당의 보물은 아직인가?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "NakedPlayer"
+msgstr "알몸이라…"
+
+msgid "TerrorBomb"
+msgstr "뭔가?"
+
+msgid "Talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]사당 탐색은 순조롭게 진행되고 있는가?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "요리해 봤어요"
+
+msgid "0002"
+msgstr "비법을 알려 주세요"
+
+msgid "TerrorExplosion"
+msgstr "으헉~!"
+
+msgid "0003"
+msgstr "안녕히"
+
+msgid "0004"
+msgstr "비법을 알려 주세요"
+
+msgid "0005"
+msgstr "안녕히"
+
+msgid "Takibi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]허리가 너무 아파서…[PauseMid]\n"
+"휴식 중이라네"
+
+msgid "Takibi01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]그런데 자네… 배고프진 않은가?[PauseMid]\n"
+"내 요리 냄비를 마음껏 써도 좋다네"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]허허허"
+
+msgid "TerrorImpulse"
+msgstr "히익~!"
+
+msgid "Takibi02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]요리가 하고 싶다면\n"
+"내 요리 냄비를 마음껏 써도 좋다네[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near01"
+msgstr "사냥감은 어디냐…"
+
+msgid "TerrorFire"
+msgstr "으읏"
+
+msgid "Takibi03"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]내 요리 냄비라면 마음껏 써도 좋다네[PauseMid]\n"
+"또 센스 있는 요리를 만들어 보게나"
+
+msgid "Sleep00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]내일도 일찍 일어나야 하니…[PauseMid]\n"
+"자네도 여기서 쉬었다 가게나"
+
+msgid "Near02"
+msgstr "살금… 살금…"
+
+msgid "Sleep01"
+msgstr ""
+"시간 때우기엔\n"
+"화톳불이 제일이지…"
+
+msgid "Near03"
+msgstr "Zzz... Zzz..."
+
+msgid "Takibi05"
+msgstr ""
+"불은 저 화톳불에서\n"
+"옮겨 와 주면 된다네[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Near04"
+msgstr "……"
+
+msgid "TerrorSword"
+msgstr "그만두게!"
+
+msgid "ClearTerrorEnemy"
+msgstr "흠…"
+
+msgid "Sleep03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]사냥을 못 했으니\n"
+"잘 수밖에 없지 않은가?"
+
+msgid "TerrorArrow"
+msgstr "무슨 짓인가!"
+
+msgid "Kari00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]보고도 모르겠나?\n"
+"사냥하는 중일세…\n"
+"그런 곳에 서 있으면 사냥감이 눈치채지 않나\n"
+"웅크리고 조용히 해 주게나"
+
+msgid "KariKotsu00"
+msgstr ""
+"사냥은 검으로도 할 수 있지만\n"
+"사냥감의 움직임이 좀 빨라야지…\n"
+"[Sound2 id=\"2\"]우선은 멀리서 노릴 수 있는\n"
+"활을 손에 넣는 것부터 해 봅세\n"
+"비법은 그다음이네"
+
+msgid "TalkBokangi00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]뭔가…[PauseMid]\n"
+"모처럼 잠에 들었거늘[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari02"
+msgstr "얼른 웅크리지 않고 뭐 하나…"
+
+msgid "KariKotsu01"
+msgstr ""
+"우선은 사냥감에게 들키지 않도록\n"
+"웅크린 채 조용히 다가가야 하네…\n"
+"[Sound2 id=\"18\"]아슬아슬한 곳까지 다가가\n"
+"재빨리 활을 쏘는 게 비법이지\n"
+"잘만 하면 한 번에 해치울 수 있어\n"
+"어딜 노리면 좋을진 잘 생각해 보게나"
+
+msgid "TerrorEnemy"
+msgstr "히익~!"
+
+msgid "TalkBokangi01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"13\"]자고 있었다는데 끈질기구먼…[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Kari03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]사냥 중이라고 했지 않나…[PauseMid]\n"
+"너무 웅크려서 허리가 아플 지경이구먼[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu02"
+msgstr ""
+"[Sound2 id=\"17\"]자네… 내 활을 갖고 있군[PauseMid]\n"
+"좋아, 활 솜씨를 보여 보게나"
+
+msgid "Kari04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]조용히 하라니까…[PauseMid]\n"
+"사냥 중이라고 했지 않나[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "KariKotsu03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]난 조금 지쳐서…[PauseMid]\n"
+"잠깐 쉬도록 하겠네"
+
+msgid "KariKotsu04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]허리가 아파 와서…[PauseMid]\n"
+"오늘 사냥은 끝이구먼"
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]사당의 보물, 기대하고 있겠네"
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]허허허[PauseMid]\n"
+"[Color name=\"blue\"]패러세일[Color name=\"unset\"]이 갖고 싶다면 열심히 해 보게나"
+
+msgid "GoodBye02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"5\"]흠…[PauseMid]\n"
+"용건도 없이 깨우지 말게나"
+
+msgid "1002"
+msgstr "뭐 하세요?"
+
+msgid "Hadaka00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]뭣…[PauseMid] 나 말인가?!"
+
+msgid "1003"
+msgstr "안녕히"
+
+msgid "Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]음? 뭔가?[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]허허허[PauseMid]\n"
+"또 만났군[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]헌데 자네…[PauseMid]\n"
+"언제까지 그 꼴로 있을 셈인가[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]비키게나, 비켜[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]허허허[PauseMid]\n"
+"또 사냥감을 놓쳐 버렸구먼[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]자네가 사냥터를 어지럽힌 덕분에\n"
+"아무것도 잡히지 않는구먼…[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorInsect"
+msgstr "히익~!"
+
+msgid "Talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]조용하구먼…[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]뭔가…[PauseMid]\n"
+"모처럼 잠에 들었거늘[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"15\"]쉿…[PauseMid]\n"
+"조용히 하게나[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]나무를 베려면 딴 곳에서 해 주게…[PauseMid]\n"
+"사냥감을 놓칠지도 모르니까[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]조용히 해 주겠나…[PauseMid]\n"
+"사냥감을 놓칠지도 모르니까[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]저녁은 몬스터도 늘어 위험해[PauseMid]\n"
+"아침까지 여기서 쉬었다 가게나[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KwAAAAGmBwAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAAJgMAACgDAABQAwAAeAMAAKADAADIAwAA8AMAABgEAABABAAAQgQAAEQEAABsBAAAlAQAALwEAADkBAAADAUAADQFAABcBQAAhAUAAKwFAACuBQAAsAUAALIFAADaBQAAAgYAACoGAABSBgAAegYAAKIGAADKBgAA8gYAABoHAABCBwAAagcAAJIHAACUBwAAlgcAAJgHAACaBwAAnAcAAJ4HAACgBwAAogcAAKQHAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

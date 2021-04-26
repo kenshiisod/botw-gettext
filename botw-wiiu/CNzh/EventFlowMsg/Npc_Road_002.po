@@ -1,0 +1,432 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]可恶……[PauseMid]\n"
+"真是倒霉透顶！"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]有什么？"
+
+msgid "MSG_Futa_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]小哥，[PauseShort]\n"
+"要不要买点我的肉？"
+
+msgid "Com_Talk_01"
+msgstr ""
+"要卖[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，可以吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]谢啦！\n"
+"还有其他东西想卖吗？"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"14\"]那还真可惜……"
+
+msgid "Com_Talk_10"
+msgstr ""
+"你要买[02:0B name=\"Shop_SelectItemName\"]……[PauseMid]\n"
+"是这样对吧？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "任何东西我都收购！"
+
+msgid "Com_Talk_11"
+msgstr ""
+"[Sound2 id=\"2\"]说到肉就是本戈……[PauseMid]\n"
+"记住这点再回去！"
+
+msgid "MSG_Futa_01_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]料理肉的基础就是彻底地烤！[PauseLong]\n"
+"再加点[Color name=\"blue\"]岩盐[Color name=\"unset\"]，更是美味大增！\n"
+"想要肉的话，来找我就对了！"
+
+msgid "Com_Talk_06"
+msgstr "想要哪个？"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"][Color name=\"blue\"]高级兽肉[Color name=\"unset\"]加上[Color name=\"blue\"]高级禽肉[Color name=\"unset\"]……[PauseMid]\n"
+"不妨买来犒赏自己？"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]多谢啦，帮了我大忙！"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"14\"]抱歉，这个已经卖完了。"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"你要卖几个给我？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"2\"]多谢！"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"12\"]卢比不购。\n"
+"可别光看不买。"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]这种天气还出来冒险，真是佩服。\n"
+"这种日子啊，我就会贩卖顶级兽肉！"
+
+msgid "RetMSG_Futa_03_1"
+msgstr ""
+"若要去[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"blue\"]双子驿站[Color name=\"unset\"]，就在前方不远处。[PauseShort]\n"
+"要是体力不够，我卖点肉给你吧。"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]还有什么吗？"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]袋子已经满了。\n"
+"看你要卖还是要丢，总之清出空间吧。"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]这我不方便收购，[PauseShort]\n"
+"真抱歉……"
+
+msgid "Thanks00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]谢谢你救了我，[PauseLong]\n"
+"收下这份谢礼吧！"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]身上的衣服，先脱下来再卖我！[PauseShort]\n"
+"抱歉，衣服下的东西我可不要。"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]，\n"
+"总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr ""
+"要买[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？\n"
+"需要几个？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "RetMSG_Futa_00_1"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]同情我的话，就买点肉吧！"
+
+msgid "Atacked00"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]可恶……[PauseShort]混账怪物～[PauseShort]\n"
+"我来当你的对手！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"只卖1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]吗？[PauseShort]\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]……[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]混账怪物……[PauseShort]\n"
+"随时放马过来！"
+
+msgid "Com_Talk_34"
+msgstr ""
+"买下所有的[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]是吗？[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]个总共是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"]个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]全卖掉是吗？[PauseLong]\n"
+"那我总共用[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]收购咯？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]这是最后的货了，[PauseLong]\n"
+"真开心你买了这么多！"
+
+msgid "SavedLv1_00"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]呼，[PauseShort]差点就被吃掉了！[PauseMid]\n"
+"就说我的肉一点也不好吃！"
+
+msgid "Com_Talk_05b"
+msgstr "若想卖东西，就让我看看吧！"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]多谢！"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"14\"]今天我手上已经没有商品了……[PauseLong]\n"
+"要看看预定进货的商品吗？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]当然，我卖的肉全都是高级货！[PauseShort]\n"
+"不会让你吃亏的！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]呼！[PauseMid]\n"
+"好险……[PauseShort]好险……"
+
+msgid "Com_Talk_05c"
+msgstr "愿意卖点什么给我吗？"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"2\"]想买肉的时候，随时叫我一声！"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"1\"]其他的如何？\n"
+"你可别客气！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "总之给我看看吧！"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"9\"]小哥多谢了。"
+
+msgid "MSG_Futa_02_1"
+msgstr ""
+"要去[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"blue\"]卡卡利科村[Color name=\"unset\"]，还得往北走一段。[PauseLong]\n"
+"想要肉的话，就在这里买卖也行。"
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？[PauseShort]我吗？[PauseMid]\n"
+"不偶尔休息一下，身体会受不了的。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]当然，休息的只有我的身体，[PauseShort]\n"
+"生意还是照做，不会休息的。\n"
+"我可是……[PauseShort][Sound2 id=\"7\"][PauseShort]卖肉的。"
+
+msgid "RetMSG_Futa_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]我正要回我的窝休息，[PauseShort]\n"
+"但既然有客人，就是客人优先。"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]天气不好就休息，不用勉强。[PauseShort]\n"
+"至少我是这样做的。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]当然，休息的只有我的身体，[PauseShort]\n"
+"生意还是照做，不会休息的。\n"
+"我可是……[PauseShort][Sound2 id=\"7\"][PauseShort]卖肉的。"
+
+msgid "5500"
+msgstr "好"
+
+msgid "Rest_02"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"18\"]呀～！[PauseShort]下雨了！[PauseMid]\n"
+"这下子只能先躲雨了。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]当然，就算是一边躲雨，[PauseShort]\n"
+"生意还是照做，不会休息的。\n"
+"我可是……[PauseShort][Sound2 id=\"7\"][PauseShort]卖肉的。"
+
+msgid "Com_Talk_56"
+msgstr ""
+"只买1个[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]吗？\n"
+"这样是[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]卢比[Color name=\"unset\"]，成吗？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "不好"
+
+msgid "0000"
+msgstr "那我买吧"
+
+msgid "5502"
+msgstr "买"
+
+msgid "0001"
+msgstr "那我卖吧"
+
+msgid "5503"
+msgstr "还是算了"
+
+msgid "0002"
+msgstr "再见"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]肩里脊肉……"
+
+msgid "RetMSG_Futa_01_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"6\"]肚子饿了吧？[PauseLong]\n"
+"我来卖点肉给你吧。"
+
+msgid "SavedLv2_00"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]可恶！[PauseMid]\n"
+"对怪物来说，我是食物吗！？"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]腱子肉……"
+
+msgid "SavedLv2_01"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]可恶！[PauseShort]\n"
+"是被商品的肉味引来的吗！？"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]肩里脊肉……肝脏……"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]西冷……"
+
+msgid "5507"
+msgstr "全买了"
+
+msgid "MSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？[PauseShort]怎么啦？[PauseShort]\n"
+"怎么露出这种表情……[PauseShort]\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]如果你是肚子饿了，想要分点吃的，\n"
+"那叫我就对了。\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]毕竟我可是卖肉的旅行商人！"
+
+msgid "Near04"
+msgstr "下雨啦……"
+
+msgid "5508"
+msgstr "全卖了"
+
+msgid "MSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]嗯？[PauseShort]怎么了？[PauseShort]\n"
+"我的身上有生肉的味道？\n"
+"[Sound1 unk1=\"1\" unk2=\"4\"]那你可就说对了！[PauseMid]\n"
+"我是本戈……[PauseShort]正在四处行商，兜售肉品。\n"
+"为了犒赏你答对，我就教你料理肉的基础吧！[PauseMid]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]就是，滋滋滋地烤个彻底！\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]然后，如果你有带在身上的话…[PauseShort]\n"
+"再加点[Color name=\"blue\"]岩盐[Color name=\"unset\"]，更是美味大增！"
+
+msgid "MSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]怎么了？[PauseShort]迷路了吗？\n"
+"\n"
+"要去[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]卡卡利科村[Color name=\"unset\"]，还得往北走一段。[PauseMid]\n"
+"不过若要找[Color name=\"blue\"]双子驿站[Color name=\"unset\"]，就在不远处。\n"
+"[Sound1 unk1=\"1\" unk2=\"4\"]我平常都在驿站卖肉，[PauseMid]\n"
+"但如果你需要，就在这里买卖也行。"
+
+msgid "RetMSG_Futa_00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]什么啊……[PauseShort]干嘛一副怜悯的表情？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]就算这地方又破旧又不咋样，[PauseShort]\n"
+"对我来说却是个舒适的空间。\n"
+"同情我的话，就买点肉吧！[PauseMid]\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]……我会便宜卖你的。"
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]喂～喂～喂～喂！快逃！\n"
+"[Color name=\"blue\"]守护者[Color name=\"unset\"]要来了！"
+
+msgid "MSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]怎么了？[PauseShort]想找人说说话吗？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]我只懂肉的话题！\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]与其说是肉的话题，不如说是卖肉话题啦。[PauseShort]\n"
+"若你不介意，我们就来聊聊吧……"
+
+msgid "RetMSG_Futa_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]怎么了？[PauseShort]\n"
+"你那表情……[PauseShort]是肚子饿了吗？\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]空着肚子可没办法冒险……[PauseMid]\n"
+"烤点肉来吃，精神自然就来了。\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]等我一下，\n"
+"我来卖点肉给你……"
+
+msgid "MSG_Futa_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？[PauseShort]你问我不在驿站休息吗？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]我当然也想睡在软绵绵的床上，\n"
+"但我的收入不允许让我在驿站过夜。\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]还是说小哥……[PauseMid]\n"
+"你要帮忙买点肉吗？"
+
+msgid "RetMSG_Futa_02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？[PauseShort]怎么了？[PauseShort]\n"
+"你那表情……[PauseShort]是盐分摄取不足吗？\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]若是这样正好！[PauseMid]\n"
+"我这边刚好有卖岩盐，\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]还有卖肉。\n"
+"要不要一起买下？"
+
+msgid "MSG_Futa_03_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]与其说是肉的话题，不如说是卖肉话题啦。[PauseShort]\n"
+"若你不介意，我们就来聊聊吧……"
+
+msgid "RetMSG_Futa_03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？怎么了？[PauseShort]\n"
+"是走太久，累了吗？\n"
+"若要去[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]双子驿站[Color name=\"unset\"]，就在前方不远处。[PauseShort]\n"
+"要是体力不够，就吃点肉吧！\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"]我记得这一带的确有个家伙在卖肉……\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]啊，不就是我吗！"
+
+msgid "RetMSG_Futa_04"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]嗯？[PauseMid]你来买肉吗？\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]我正要回我的窝休息，[PauseShort]\n"
+"不过当然还是生意优先。\n"
+"而且，卖掉野兽和鸡的肉，[PauseShort]\n"
+"我就能吃到鱼和蔬菜了。"
+
+msgid "SavedLv3_00"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]哎呀呀……[PauseShort]\n"
+"刚刚我差点也成为肉泥了！"
+
+msgid "SavedLv3_01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"18\"]哎呀呀……[PauseShort]\n"
+"真是千钧一发，商品的肉也没事！"
+
+msgid "MSG_Futa_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]肚子饿了吗？[PauseLong]\n"
+"那就交给我这个卖肉的旅行商人吧！"
+
+msgid "RetMSG_Futa_02_1"
+msgstr ""
+"若是[Sound1 unk1=\"1\" unk2=\"4\"]盐分摄取不足，我来卖点岩盐给你吧。[PauseLong]\n"
+"顺便也买点肉？"
+
+msgid "GoodBye00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]再来啊！[PauseShort]\n"
+"彼此都加油吧！"
+
+msgid "Failed00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]你来得也太慢了……[PauseShort]\n"
+"我刚刚差点就被干掉了！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAFIBQAAAAAAAFYAAAAEAAAAYAEAAHoBAACUAQAAlgEAAJgBAACaAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAMIBAADEAQAAxgEAAMgBAADiAQAA5AEAAP4BAAAYAgAAMgIAAEwCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAIICAACEAgAAhgIAAIgCAACKAgAAjAIAAI4CAACQAgAAkgIAAJQCAACWAgAAmAIAAJoCAACcAgAAngIAAKACAACiAgAApAIAAMQCAADkAgAA5gIAAOgCAADqAgAA7AIAAO4CAADwAgAA8gIAAAwDAAAmAwAAQAMAAFoDAAB0AwAAjgMAAKgDAADCAwAA3AMAAPYDAAAQBAAAKgQAAEQEAABeBAAAeAQAAJIEAACsBAAAxgQAAOAEAAD6BAAAFAUAAC4FAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAAMgAAAE4AcABjAF8AUgBvAGEAZABfADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

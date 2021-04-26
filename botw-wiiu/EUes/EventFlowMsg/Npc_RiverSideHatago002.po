@@ -1,0 +1,367 @@
+msgid "0010"
+msgstr "¡Zora!"
+
+msgid "talk_sellWeaponShield00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah, ese escudo..."
+
+msgid "0011"
+msgstr "¡Otra!"
+
+msgid "talk_sellWeaponShield01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me lo darías a cambio de un [C9:00 bytes=\"01000000\"]rubí?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Alguna vez has ido al castillo\n"
+"que se ve hacia el norte?[PageBreak]Es el castillo de Hyrule... Bueno, lo que\n"
+"queda de él al menos. Se dice que fue\n"
+"destruido hace cien años.\n"
+"En su interior se esconden multitud de\n"
+"armas ancestrales y otro tipo de tesoros.[PageBreak]Antes iba por allí a menudo para\n"
+"aprovisionarme.[PageBreak]Se dice que también hay una serie de\n"
+"armas que conformaban la [Color name=\"red\"]gama de\n"
+"la guardia real hyliana[Color name=\"unset\"].\n"
+"Son muy apreciadas en el mundillo\n"
+"de los coleccionistas, [PauseMid]y por eso me\n"
+"encantaría llegar a verlas algún día.\n"
+"[Sound1 unk1=\"11\" unk2=\"16\"]Pero desde que apareció esa niebla rara\n"
+"en el castillo, los monstruos y los trastos\n"
+"mecánicos lo están destrozando todo.\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]Ahora no me atrevo a poner un pie allí\n"
+"ni de broma... Y tú tampoco deberías."
+
+msgid "0012"
+msgstr "¡Gerudo!"
+
+msgid "talk_hintGoron"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Goron, ¿eh? Muy bien.[PageBreak]Es una técnica recomendable si crees\n"
+"que destacas por tener agallas y ser\n"
+"más duro que una roca.\n"
+"¡Entrar es facilísimo! Solo tienes\n"
+"que meterte directamente por la\n"
+"puerta principal del castillo.\n"
+"La clave reside en aprovisionarte\n"
+"de alimentos para poder recuperar\n"
+"energía y resistencia fácilmente."
+
+msgid "talk_sellWeaponShield02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Qué me dices de intercambiarlo por\n"
+"un [C9:00 bytes=\"01000000\"]zafiro?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Seguro que aún quedan montones\n"
+"de tesoros escondidos en algún\n"
+"rincón del castillo de Hyrule."
+
+msgid "0013"
+msgstr "¡Sheikah!"
+
+msgid "talk_sellWeaponShield03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Te doy un [C9:00 bytes=\"01000000\"]topacio a cambio.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0014"
+msgstr "¡Otra distinta!"
+
+msgid "talk_hintShiekah"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Sheikah, ¿eh? Es la técnica que uso yo.[PageBreak]Vigila con atención y luego cuélate\n"
+"por una de las entradas secundarias,\n"
+"donde hay pocos enemigos.\n"
+"[Sound2 id=\"7\"][Sound1 unk1=\"7\" unk2=\"1\"]Por lo que sé, hay varias entradas\n"
+"que puedes usar.[PageBreak]La primera es un túnel situado\n"
+"en la zona este.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Debes cruzar el puente de Helm,\n"
+"al este, dejar el castillo a la izquierda\n"
+"y luego trepar por la colina.\n"
+"Si te fijas, verás la entrada de un túnel\n"
+"en medio del castillo. Las gemas brillan\n"
+"por la noche, así que es fácil de detectar.\n"
+"Ahora, la segunda entrada.[PageBreak]Es otro túnel, esta vez al oeste. Mira en\n"
+"esa dirección cuando estés frente al\n"
+"castillo y verás la entrada sobre el foso.\n"
+"Aquí también hay gemas que brillan\n"
+"en la oscuridad, así que lo localizarás\n"
+"sin problema.\n"
+"Y por último, la tercera entrada:\n"
+"el embarcadero ubicado al norte.[PageBreak]En la isla situada al oeste encontrarás\n"
+"una balsa en un pequeño muelle.[PageBreak]Rema en dirección norte hasta que\n"
+"llegues al embarcadero situado en\n"
+"la parte subterránea del castillo.\n"
+"[Sound2 id=\"7\"][Sound1 unk1=\"7\" unk2=\"1\"]¡Y esos son todos los accesos\n"
+"que conozco! No está mal, ¿eh?"
+
+msgid "talk_sellWeaponShield04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me lo cambiarías por un [C9:00 bytes=\"01000000\"]diamante?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_hintRito"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Orni, ¿eh? Fantástico.[PageBreak]Si conoces algún modo de planear\n"
+"por el aire, esta es la técnica\n"
+"perfecta para ti.\n"
+"Primero debes dirigirte al este o al oeste\n"
+"de esta llanura y rodear la montaña que\n"
+"está al norte del castillo.\n"
+"A continuación, solo tendrás que planear\n"
+"hacia abajo, cruzar el foso y aterrizar con\n"
+"total seguridad dentro del recinto."
+
+msgid "talk_showWeaponBow"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]¡Un minuto! ¿Me podrías enseñar\n"
+"ese arco que tienes ahí?"
+
+msgid "talk_showWeaponShield"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]¡Eh, espera! ¿Me enseñas\n"
+"ese escudo que tienes ahí?"
+
+msgid "talk_sellPorchFull"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es una pena que no te quepa\n"
+"nada más en la alforja. ¡Avísame\n"
+"cuando hayas hecho un poco de sitio!"
+
+msgid "0000"
+msgstr "¡Te la cambio!"
+
+msgid "talk_showWeaponSword"
+msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]Un segundo... ¿Me enseñas esa espada?"
+
+msgid "talk_showWeaponLSword"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]¡Un momento! ¿Me enseñas\n"
+"ese mandoble que tienes ahí?"
+
+msgid "0001"
+msgstr "¡Te lo cambio!"
+
+msgid "talk_sleep00"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]¿A qué viene esto? ¡¿Cómo se te\n"
+"ocurre venir a despertarme mientras\n"
+"duermo?!\n"
+"Justo ahora que estaba soñando\n"
+"con el castillo..."
+
+msgid "talk_hintSelf"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Te veo muy seguro de ti mismo, ¿eh?\n"
+"Entonces te recomiendo que uses\n"
+"la técnica heroica.\n"
+"[Sound2 id=\"8\"]Es decir, entrar directamente como si\n"
+"fueses un héroe de tomo y lomo y\n"
+"cepillarte a los guardianes en un pispás.\n"
+"[Sound1 unk1=\"2\" unk2=\"1\"]Qué va, ¡es broma! Sería una temeridad."
+
+msgid "0002"
+msgstr "¡Te la cambio!"
+
+msgid "talk_sellWeaponSpear00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Atiende, esa lanza..."
+
+msgid "talk_sleep01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]¡Déjame dormir, pesado!"
+
+msgid "0003"
+msgstr "¡Te lo cambio!"
+
+msgid "talk_sellWeaponSword00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oye, esa espadita..."
+
+msgid "talk_sellWeaponSpear01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la darías a cambio de un [C9:00 bytes=\"01000000\"]rubí?[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sleep02"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"21\"]¡¿Cómo se te ocurre andar por ahí\n"
+"medio desnudo y despertando a\n"
+"los demás?!\n"
+"[Sound1 unk1=\"8\" unk2=\"14\"]¡Eres más raro que un perro verde!"
+
+msgid "talk_hintZora"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Zora, ¿eh? Genial.[PageBreak]Si te encuentras en situación de\n"
+"ascender por cascadas, te recomiendo\n"
+"que utilices esta técnica.\n"
+"El castillo está rodeado por un foso.\n"
+"No es fácil cruzarlo a nado, pero hay\n"
+"alguna que otra cascada alrededor.\n"
+"Si escalas alguna de ellas, podrás\n"
+"llegar al castillo sin problema."
+
+msgid "0004"
+msgstr "¡Te lo cambio!"
+
+msgid "talk_sellWeaponSword01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambiarías por un [C9:00 bytes=\"01000000\"]rubí?[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponSpear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Te doy un [C9:00 bytes=\"01000000\"]zafiro por ella![Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sleep03"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"14\"]¡Si vas a venir a molestarme en plena\n"
+"noche, al menos ten la decencia\n"
+"de vestirte!"
+
+msgid "talk_hintSelect00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Y si pruebas siguiendo alguna de\n"
+"las técnicas propias de cada tribu?"
+
+msgid "0005"
+msgstr "No hay trato"
+
+msgid "talk_sellWeaponSword02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambiarías por un [C9:00 bytes=\"01000000\"]zafiro?[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponSpear03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambias por un [C9:00 bytes=\"01000000\"]topacio?[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0006"
+msgstr "¡Cuéntame!"
+
+msgid "talk_hintSelect01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Con «otra» te refieres a..."
+
+msgid "talk_sellWeaponSword03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambiarías por un [C9:00 bytes=\"01000000\"]topacio?[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponSpear04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambiarías por un [C9:00 bytes=\"01000000\"]diamante?[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0007"
+msgstr "No hace falta"
+
+msgid "talk_hintSelect02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Quieres que te hable de otras técnicas?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponSword04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me la cambiarías por un [C9:00 bytes=\"01000000\"]diamante?[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_hintSelect03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Goron? ¿Orni? ¿Zora?\n"
+"¿O alguna otra?[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" selectednum=\"0\" cancelnum=\"4\"]"
+
+msgid "0008"
+msgstr "¡Goron!"
+
+msgid "0009"
+msgstr "¡Orni!"
+
+msgid "talk_hintSelect04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Gerudo? ¿Sheikah? ¿Otra distinta?[Choice3 label1=\"12\" label2=\"13\" label3=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk_sellWeaponLSword00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Mira, ese mandoble..."
+
+msgid "talk_sellWeaponLSword01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Estarías dispuesto a dármelo\n"
+"a cambio de un [C9:00 bytes=\"01000000\"]rubí?[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponLSword02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me lo cambias por un [C9:00 bytes=\"01000000\"]zafiro?[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellDone"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡¿En serio?! ¡No sabes cuánto\n"
+"te lo agradezco!"
+
+msgid "talk_sellDiamond"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]Parece que ya he conseguido todas\n"
+"las armas de la gama de la guardia\n"
+"real hyliana. ¡Muchas gracias!\n"
+"Si me traes más armas de la misma\n"
+"gama, a partir de ahora te las cambiaré\n"
+"por [C9:00 bytes=\"01000000\"]rubís.\n"
+"Sí, ya sé que tengo la colección al\n"
+"completo, pero es que son tan bonitas..."
+
+msgid "talk_sellWeaponLSword03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Te doy un [C9:00 bytes=\"01000000\"]topacio por él.[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_showWeaponSpear"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]¡Espera! ¿Me puedes enseñar\n"
+"esa lanza que tienes ahí?"
+
+msgid "talk_sellWeaponLSword04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me lo cambiarías por un [C9:00 bytes=\"01000000\"]diamante?[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_notSell"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"12\"]Es una pena... Quizás si tuviese algo\n"
+"más tentador, te habría convencido."
+
+msgid "talk_showWeapon00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"18\"]No es posible...[PauseMid]\n"
+"[Pause frames=\"30\"]¡Inaudito!"
+
+msgid "talk_hintGerudo"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Gerudo, ¿eh? Estupendo.[PageBreak]Si te consideras valiente y espabilado,\n"
+"utiliza esta técnica.[PageBreak]Alrededor del castillo merodean unos\n"
+"monstruos con aspecto de máquinas\n"
+"denominados guardianes.\n"
+"Te apuntarán con su rayo, pero no debes\n"
+"dejarte amilanar. Sigue galopando desde\n"
+"la ciudadela hasta que los dejes atrás.\n"
+"[Sound2 id=\"7\"]Es una ruta bastante peligrosa, pero\n"
+"si sabes manejar bien el arco y apuntas\n"
+"a los ojos de los guardianes, se pararán."
+
+msgid "talk_showWeapon01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Gracias por enseñarme algo\n"
+"tan increíble![PageBreak]Debería lanzarme a la aventura y tratar\n"
+"de conseguir un arma de ese tipo para\n"
+"mi colección."
+
+msgid "talk_sellWeaponBow00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Mmm, ese arco..."
+
+msgid "talk_hint00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"20\"]¿Estás pensando en ir al castillo?\n"
+"Yo conozco un par de formas de\n"
+"entrar... ¿Te las cuento?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_showWeapon02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Aquí tienes un detallito a cambio."
+
+msgid "talk_sellWeaponBow01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Te desharías de él a cambio\n"
+"de un [C9:00 bytes=\"01000000\"]rubí?[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_hint01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Quieres saber cómo entrar\n"
+"en el castillo?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponBow02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Te lo quito de las manos por un [C9:00 bytes=\"01000000\"]zafiro.[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_hint02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es un lugar extremadamente peligroso,\n"
+"pero si estás tan convencido, lo mejor\n"
+"es que te prepares a conciencia."
+
+msgid "talk_sellWeaponBow03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Te doy un [C9:00 bytes=\"01000000\"]topacio por él.[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk_sellWeaponBow04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Me lo cambiarías por un [C9:00 bytes=\"01000000\"]diamante?[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGECwAAAAAAAEgAAAAEAAAAKAEAAFYBAACEAQAAsgEAAOABAAAOAgAAEAIAABICAABAAgAAbgIAAHACAAByAgAAdAIAAHYCAACkAgAA0gIAANQCAADWAgAA2AIAAAYDAAA0AwAAYgMAAJADAAC+AwAA7AMAABoEAABIBAAAdgQAAKQEAADSBAAAAAUAAC4FAABcBQAAigUAAIwFAACOBQAAkAUAAJIFAACUBQAAlgUAAMQFAADyBQAAIAYAAE4GAAB8BgAAqgYAANgGAAAGBwAANAcAAGIHAACQBwAAvgcAAOwHAAAaCAAASAgAAHYIAACkCAAA0ggAAAAJAAAuCQAAXAkAAIoJAAC4CQAA5gkAABQKAABCCgAAcAoAAJ4KAADMCgAA+goAACgLAABWCwAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAAAAAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

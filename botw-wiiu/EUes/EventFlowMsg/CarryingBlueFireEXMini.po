@@ -1,0 +1,522 @@
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"19\"]Bueno,[PauseShort] dejémonos de rollos y vayamos\n"
+"al grano. Voy a explicarte cómo está\n"
+"el tema. Ejem..."
+
+msgid "talk62"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]A ver, a ver...[PauseShort] ¡Qué nervios!"
+
+msgid "talk02"
+msgstr ""
+"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"Scare_00\"]¡¿No?![Size percent=\"100\"][PageBreak]Qué fuerte me parece...\n"
+"Eso no me lo esperaba de ti."
+
+msgid "talk63"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]¡No te hagas de rogar y enséñame\n"
+"la foto!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"Scare_01\"]Eh... [PauseShort]No suenas muy convencido."
+
+msgid "talk64"
+msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]¿Te ha salido bien la foto esta vez?"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Hace cien años,[PauseShort] [Color name=\"blue\"]Ganon[Color name=\"unset\"] te dio una buena\n"
+"tunda cuando te enfrentaste a él.[PageBreak]Por suerte, allí estaba yo para llevarte\n"
+"al [Color name=\"blue\"]santuario de la vida[Color name=\"unset\"].[PageBreak]No solo eso; también me encargué\n"
+"de dejarte en la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"].[PauseShort]\n"
+"¡Estabas hecho una piltrafa!\n"
+"Y, a pesar de todo lo que hice por ti,[PauseShort]\n"
+"¿no te acuerdas de nada?[Choice2 label1=\"2\" label2=\"16\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Sácame bien mona![PauseShort] Puedes [Color name=\"blue\"]acercar[Color name=\"unset\"]\n"
+"y [Color name=\"blue\"]alejar[Color name=\"unset\"] la vista si hace falta."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]¡Ji, ji! ¿A que no te lo esperabas?[PageBreak]Quien dirige el laboratorio no es Symon.[PauseShort]\n"
+"La jefa soy yo,[PauseShort] Prunia.[PauseShort] ¡Tacháaan!"
+
+msgid "talk66"
+msgstr ""
+"[Animation name=\"Activate\"]Se va a registrar el laboratorio de\n"
+"Hatelia como punto de teletransporte."
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Esto es muy importante,\n"
+"así que pon la oreja, ¿vale?"
+
+msgid "talk67"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Alguna preguntita más?[Choice4 label1=\"9\" label2=\"10\" label3=\"11\" label4=\"12\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"Understand_00\"][Size percent=\"80\"]Nota:[PauseShort] El sujeto experimenta pérdida de memoria[PauseShort]\n"
+"tras pasar cien años en la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"].[Size percent=\"100\"]"
+
+msgid "talk68"
+msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"11\"]¡Uoooh![PauseLong] ¡Si ya estás aquí![Size percent=\"100\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]¡Nuestro héroe despierta después\n"
+"de cien años![PageBreak][Sound1 unk1=\"8\" unk2=\"1\"]Con sus fuerzas recuperadas, regresa\n"
+"para derrotar a [Color name=\"blue\"]Ganon[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"7\" unk2=\"9\"]¡Y también para salvar a la [Color name=\"blue\"]princesa\n"
+"Zelda[Color name=\"unset\"]![PageBreak]Suponiendo que poseas el coraje\n"
+"necesario, claro.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Si es así, yo, la inimitable Prunia,[PauseShort]\n"
+"recuperaré los [Color name=\"red\"]módulos[Color name=\"unset\"] que le faltan\n"
+"a tu [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"]. ¿De acuerdo?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk69"
+msgstr "[Sound1 unk1=\"6\" unk2=\"1\"][Animation name=\"CustomGreeting_00\"]¡Chupi!"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]¡Viva![PauseShort] Esto será divertido."
+
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]¿Por qué no probamos si funciona\n"
+"la [Color name=\"red\"][C9:00 bytes=\"02010100\"]cámara de fotos[Color name=\"unset\"]?[PauseShort] Sácame una,\n"
+"a ver qué tal queda."
+
+msgid "talk51"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Perdona...[PauseLong] Te estoy dando la lata\n"
+"con tanta preguntita, ¿no?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Bueno, dejaré que te vengues.\n"
+"¿Quieres preguntarme tú algo a mí?[Choice1 label=\"17\"]"
+
+msgid "talk52"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]¡Qué falta de tacto![PageBreak][Sound1 unk1=\"3\" unk2=\"1\"][Size percent=\"80\"]Aunque, es lógico que lo preguntes.[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Think_00\"]El caso es que la lie un poco con un\n"
+"experimento que hice...[PauseLong] Pero en cierta\n"
+"manera también tuvo su parte de éxito.[PageBreak]Lo apunté todo en mi [Color name=\"blue\"]diario[Color name=\"unset\"] para dejar\n"
+"constancia, pero es privado, ¿vale?[PauseShort]\n"
+"¡Nada de leerlo a escondidas!"
+
+msgid "talk53"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Uy, pero con la que está cayendo,\n"
+"no podrás llevarte la llama."
+
+msgid "talk54"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Será mejor que esperes en la [Color name=\"blue\"]posada[Color name=\"unset\"]\n"
+"del pueblo a que pare de llover."
+
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Esperemos un poquillo a que pare\n"
+"de llover.[PauseShort] Después nos ponemos manos\n"
+"a la obra con la [Color name=\"blue\"]llama azul[Color name=\"unset\"]."
+
+msgid "talk56"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]¡Venga![PauseLong] Respira hondo y sácame\n"
+"una foto bien mona, Link."
+
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es como los otros [Color name=\"red\"]módulos[Color name=\"unset\"].[PauseLong]\n"
+"Seguro que viste alguna vez cómo\n"
+"lo utilizaba la princesa Zelda."
+
+msgid "talk58"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Se usa del mismo modo que\n"
+"las [Color name=\"blue\"][C9:00 bytes=\"02030301\"]bombas remotas[Color name=\"unset\"] y demás.[PauseShort]\n"
+"Te equipas con ella y ¡clic!"
+
+msgid "talk59"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Se usa del mismo modo que\n"
+"el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]témpano[Color name=\"unset\"] y demás.[PauseShort]\n"
+"Te equipas con ella y ¡clic!"
+
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Esto...[PageBreak]Quería decirte algo más, pero se me\n"
+"ha olvidado[PauseShort].[PauseShort].[PauseShort].[PageBreak][Sound1 unk1=\"10\" unk2=\"19\"]¡Ah, sí![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Es algo por lo que no hace falta que\n"
+"te preocupes hasta que hayas visto\n"
+"a Impa.[PageBreak]¿Podrías obtener [Color name=\"red\"]materiales ancestrales[Color name=\"unset\"]\n"
+"y traérnoslos a [Color name=\"red\"]mí[Color name=\"unset\"] o a mi colega [Color name=\"red\"]Rotver[Color name=\"unset\"],\n"
+"en el [Color name=\"red\"]laboratorio de Akkala[Color name=\"unset\"]?\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Nos harías un gran favor,[PauseShort] y a cambio\n"
+"de esos [Color name=\"red\"]materiales [Color name=\"unset\"]te daremos [Color name=\"red\"]cosas\n"
+"muy chulis[Color name=\"unset\"]."
+
+msgid "talk42"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Podrías usar la [Color name=\"blue\"]llama azul[Color name=\"unset\"] que arde\n"
+"en el [Color name=\"blue\"]generador ancestral[Color name=\"unset\"][PauseShort] para\n"
+"encenderlo, porfa?"
+
+msgid "talk44"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Entonces se activará esta [Color name=\"blue\"]piedra guía[Color name=\"unset\"]\n"
+"tan chachi y recuperaremos los [Color name=\"red\"]módulos[Color name=\"unset\"]\n"
+"que le faltan a tu piedra sheikah.\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]¿Seguirán diciendo «chachi» las muchachitas\n"
+"de hoy en día?[PauseLong] Bueno, qué más da.[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "talk45"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¡Ya está todo a punto para que podamos\n"
+"recuperar los [Color name=\"red\"]módulos[Color name=\"unset\"] de la [Color name=\"blue\"]piedra\n"
+"sheikah[Color name=\"unset\"]!"
+
+msgid "talk46"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Hasta pronto!"
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Chupi chuli!"
+
+msgid "0020"
+msgstr "La [C9:00 bytes=\"02010100\"]cámara de fotos..."
+
+msgid "talk48"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_00\"]Mmm... Está la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]cámara de fotos[Color name=\"unset\"],\n"
+"la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]enciclopedia hyliana[Color name=\"unset\"],[PauseShort] el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]álbum[Color name=\"unset\"]...[PauseLong]\n"
+"Sí, parece que están todos."
+
+msgid "0021"
+msgstr "Aún no"
+
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_00\"]Mmm... Está la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]cámara de fotos[Color name=\"unset\"],[PauseShort]\n"
+"la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]enciclopedia hyliana[Color name=\"unset\"],[PauseShort] el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]álbum[Color name=\"unset\"]\n"
+"y el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]sensor sheikah[Color name=\"unset\"].[PauseLong] ¡Todo en orden!"
+
+msgid "0022"
+msgstr "Sí, pero..."
+
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]¡Mira,[PauseShort] parece que la [Color name=\"blue\"]piedra guía[Color name=\"unset\"] empieza\n"
+"a reaccionar![PauseLong] ¡No te asustes, es su forma\n"
+"natural de funcionar!\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"LaughBad_00\"][Size percent=\"80\"]Ji, ji, ji...[PauseShort] Qué mona es mi [Color name=\"blue\"]piedra guía[Color name=\"unset\"].[PauseLong] ¡Hace que\n"
+"se emocione mi corazoncito de investigadora![Size percent=\"100\"]"
+
+msgid "0023"
+msgstr "Exacto"
+
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Vamos a celebrarlo como es debido.[PauseShort]\n"
+"¡Repite conmigo![PauseShort] [Animation name=\"CustomGreeting\"]«¡Chupi!».[Choice3 label1=\"13\" label2=\"14\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk32"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Jo...[PauseShort] Qué poco entusiasmo le has puesto."
+
+msgid "talk33"
+msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"LaughBad_00\"]¡Ji, ji, ji! Sabía que volverías..."
+
+msgid "0026"
+msgstr "¿Qué es una foto?"
+
+msgid "talk34"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"10\"]¡Yuju![PauseShort] ¡Muy bien![PauseLong] ¿Qué tal?[PauseShort]\n"
+"¿Ha funcionado?"
+
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Mmm...[PageBreak]¿Mmm?[PageBreak][Sound1 unk1=\"10\" unk2=\"21\"]¡Eh! [PauseShort]¡Si soy yo! Ji, ji, ji.[PageBreak][Sound1 unk1=\"9\" unk2=\"1\"]Perdón. Qué despiste...[PauseShort] Ha sido sin\n"
+"querer."
+
+msgid "talk36"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"]Un momento...[PageBreak][Sound1 unk1=\"0\" unk2=\"6\"]¿Te has fijado en que ya hay algunas\n"
+"[Color name=\"red\"]imágenes de paisajes[Color name=\"unset\"] en el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]álbum[Color name=\"unset\"]?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Ahora recuerdo que la princesa Zelda\n"
+"me contó que usaba la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]cámara de fotos[Color name=\"unset\"]\n"
+"a menudo...\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Link, tú eras su caballero acompañante,\n"
+"¿no?[PauseShort] Seguro que [Color name=\"red\"]fuiste con ella a todos\n"
+"estos sitios[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ah, pero no te acuerdas de nada\n"
+"de esa época...[PauseShort] Mmm...[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]¡Un momento![PauseMid] ¡Quizás estas [Color name=\"red\"]imágenes[Color name=\"unset\"]\n"
+"podrían serte de ayuda para recuperar\n"
+"los recuerdos!\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"]Deberías hablar con [Color name=\"red\"]Impa[Color name=\"unset\"].[PauseLong] Ella conocía\n"
+"a la princesa mejor que nadie y sabrá\n"
+"aconsejarte."
+
+msgid "talk37"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]Pues...[PauseShort] No ha salido muy bien que\n"
+"digamos..."
+
+msgid "0010"
+msgstr "¿Algún consejo?"
+
+msgid "talk38"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]¿Ya has hecho la [Color name=\"red\"]foto[Color name=\"unset\"]?[PauseShort]\n"
+"¿Me has sacado guapa?[Choice4Flags label1=\"19\" label2=\"20\" label3=\"26\" label4=\"21\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0011"
+msgstr "¿Y esas pintas?"
+
+msgid "talk39"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Sí, señor! ¡Con entusiasmo!"
+
+msgid "0012"
+msgstr "No, nada"
+
+msgid "talk20"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Nota:[PauseLong] El sujeto de la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"]\n"
+"manifiesta una conducta arrogante y presuntuosa.[Size percent=\"100\"]"
+
+msgid "0013"
+msgstr "¡Chupi!"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ji, ji,[PauseShort] y yo que creía que los jóvenes\n"
+"erais todos unos inocentones.[PageBreak]Aunque en realidad tienes más\n"
+"de cien años,[PauseShort] así que..."
+
+msgid "0014"
+msgstr "Chupi..."
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Es igual...[PauseShort] Te explicaré en qué consiste.[PageBreak]¿Te has fijado en ese [Color name=\"blue\"]generador[Color name=\"unset\"] sin\n"
+"encender que está en el muro exterior\n"
+"del laboratorio?"
+
+msgid "0015"
+msgstr "Paso"
+
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Inténtalo otra vez,[PauseShort] ¡venga!"
+
+msgid "0016"
+msgstr "Ah..."
+
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Eres el primer caso documentado\n"
+"de alguien que sale de una\n"
+"[Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"]."
+
+msgid "0017"
+msgstr "¿Eres una niña?"
+
+msgid "talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"TalkPositive_01\"]¿El [Color name=\"blue\"]generador ancestral[Color name=\"unset\"]?[PauseShort] Está en\n"
+"una [Color name=\"red\"]colina[Color name=\"unset\"] detrás de la casa de Rendell.[PageBreak]Al salir del [Color name=\"blue\"]laboratorio[Color name=\"unset\"], camina hacia\n"
+"la izquierda hasta que llegues al borde\n"
+"del barranco.\n"
+"Allí usa el catalejo de la [C9:00 bytes=\"02010100\"]piedra sheikah\n"
+"e intenta divisar una [Color name=\"blue\"]llama azul[Color name=\"unset\"].[PauseLong]\n"
+"¡Ese es el [Color name=\"blue\"]generador ancestral[Color name=\"unset\"]!"
+
+msgid "talk26"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿En qué puedo ayudarte?[Choice4 label1=\"9\" label2=\"10\" label3=\"11\" label4=\"12\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "0019"
+msgstr "¡He hecho una!"
+
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Aunque sea una [Color name=\"blue\"]llama azul[Color name=\"unset\"], no tiene\n"
+"ninguna propiedad especial.[PauseShort] Si se moja,\n"
+"se apagará como todas.\n"
+"Yo que tú prendería los [Color name=\"blue\"]candelabros[Color name=\"unset\"]\n"
+"que hay de camino hasta aquí,[PauseShort] por si\n"
+"las moscas.\n"
+"Y vuelve por donde la [Color name=\"red\"]pendiente sea\n"
+"poco pronunciada[Color name=\"unset\"]."
+
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Es mi conjunto de jefa del laboratorio!\n"
+"¿A que es divino?"
+
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Una [Color name=\"blue\"][C9:00 bytes=\"02010100\"]antorcha[Color name=\"unset\"] te puede resultar de lo\n"
+"más útil para traer la [Color name=\"blue\"]llama azul[Color name=\"unset\"][PauseShort] desde\n"
+"el generador ancestral.\n"
+"Debe de haber alguna cerca de\n"
+"la entrada.[PauseShort] Cógela si te hace falta."
+
+msgid "talk70"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]Vaya, esto me ha cogido por sorpresa.[PageBreak]La [Color name=\"blue\"]piedra guía[Color name=\"unset\"] se ha activado de repente\n"
+"y encima ha llegado Link.[PauseShort] Espera, espera...[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Oye, Link,[PauseShort] ¿no habrás encendido tú\n"
+"el [Color name=\"blue\"]generador[Color name=\"unset\"] con la [Color name=\"blue\"]llama azul[Color name=\"unset\"] por\n"
+"un casual?[Choice1 label=\"22\"]\n"
+"¿Entonces lo has hecho por pura\n"
+"intuición?[PauseShort] Vaya... [PauseShort]Ya veo que sigues\n"
+"siendo tan espabilado como siempre.\n"
+"[Sound1 unk1=\"10\" unk2=\"0\"]¡Ay, este momento es tan emocionante\n"
+"que casi se me olvida presentarme![PageBreak][Sound1 unk1=\"6\" unk2=\"0\"]Soy Prunia,[PauseShort] la jefa del laboratorio\n"
+"de Hatelia."
+
+msgid "0002"
+msgstr "No me acuerdo"
+
+msgid "talk10"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Nota:[PauseShort] La habilidad de comprensión del sujeto[PauseShort]\n"
+"parece haberse visto afectada tras su paso\n"
+"por la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"].[Size percent=\"100\"]"
+
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"1\"]En fin, por la cara que pones deduzco\n"
+"que aún estás algo perdido.[PageBreak]Permíteme que te oriente, ji, ji.[PageBreak][Color name=\"blue\"]Impa[Color name=\"unset\"] te ha dicho que vinieras a verme\n"
+"para que te repare la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"],\n"
+"¿verdad?[Choice1 label=\"23\"]\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]Te prometo que lo haré,[PauseShort] pero antes\n"
+"quiero saber un poco de ti."
+
+msgid "0003"
+msgstr "Claro... que sí"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Jo, pues vale..."
+
+msgid "talk72"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Uy,[PauseShort] no debí decirte tan pronto que\n"
+"soy la jefa.[PauseShort] Quería mantener el misterio\n"
+"un poquito más..."
+
+msgid "0004"
+msgstr "¡Sí, por favor!"
+
+msgid "talk12"
+msgstr ""
+"[Animation name=\"Understand_00\"][Size percent=\"80\"]Nota:[PauseShort] Tras despertar en la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"],\n"
+"el sujeto manifiesta una tendencia a contestar\n"
+"preguntas de forma arrogante.[Size percent=\"100\"]"
+
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Como ya sabías, porque Symon me\n"
+"ha delatado enseguida. Yo que quería\n"
+"mantener el misterio un poquito más..."
+
+msgid "near00"
+msgstr "No cuentes mi secreto."
+
+msgid "0005"
+msgstr "¿Me repites el rollo?"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Si cambias de idea,[PauseShort] ya sabes\n"
+"dónde estoy."
+
+msgid "talk74"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Al sacar una foto,[PauseShort] debes situar lo que\n"
+"quieras fotografiar justo en el [Color name=\"red\"]centro[Color name=\"unset\"]\n"
+"de la imagen."
+
+msgid "near01"
+msgstr "Mmm..."
+
+msgid "0006"
+msgstr "No hace falta"
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Pero primero... [PauseShort]necesito que\n"
+"me hagas un [Color name=\"red\"]recado[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]¿Qué pasa? [PauseShort]¿Por qué me miras así?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]¿De verdad creías que te iba a\n"
+"arreglar la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]piedra sheikah[Color name=\"unset\"] solo\n"
+"por tu cara bonita?[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Las [Color name=\"blue\"]fotos[Color name=\"unset\"] son como imágenes de\n"
+"la realidad que quedan plasmadas\n"
+"con la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]cámara de fotos[Color name=\"unset\"].\n"
+"Las [Color name=\"blue\"]fotos [Color name=\"unset\"]de animales, materiales\n"
+"y demás se registrarán automáticamente\n"
+"en la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]enciclopedia hyliana[Color name=\"unset\"].\n"
+"¡Así que intenta sacar fotos de\n"
+"todo lo que se te ocurra!"
+
+msgid "near02"
+msgstr "¡Hazme una foto!"
+
+msgid "0007"
+msgstr "Pues claro"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿Cómo?[PauseShort] Ah, ¿te refieres a mi aspecto\n"
+"juvenil?[PauseLong] Bueno,[PauseShort] es una historia muy\n"
+"larga.[PageBreak][Sound1 unk1=\"0\" unk2=\"12\"]Que no te pienso contar porque son\n"
+"asuntos privados.[PageBreak]¡Y ni se te ocurra cotillear en el [Color name=\"blue\"]diario\n"
+"que guardo en mi habitación[Color name=\"unset\"]!"
+
+msgid "talk76"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Oye, una cosita..."
+
+msgid "near03"
+msgstr "¡Cuento contigo!"
+
+msgid "0008"
+msgstr "Ya suponía que no"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]Venga...[PauseShort] ¡Ve a por esa [Color name=\"blue\"]llama azul[Color name=\"unset\"]!"
+
+msgid "near04"
+msgstr "¿Mmm?"
+
+msgid "0009"
+msgstr "Sobre el generador"
+
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Link![PauseShort] Mira ahí,[PauseShort] ¡fíjate!"
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]¿En serio tengo que repetírtelo?\n"
+"Menudo tostón..."
+
+msgid "talk19"
+msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]¿Eh?[PauseLong] ¡Te ha vuelto a salir mal!"
+
+msgid "talk60"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Se usa del mismo modo que\n"
+"el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]paralizador[Color name=\"unset\"] y demás.[PauseShort]\n"
+"Te equipas con ella y ¡clic!"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]Cuéntame, ¿te ha sentado bien el largo\n"
+"descanso en la [Color name=\"blue\"]cámara regeneradora[Color name=\"unset\"]?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Porque yo te veo fenomenal.[PauseShort] Estás\n"
+"clavadito a como eras hace cien años.\n"
+"¡No te ha salido ni una arruga!\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]Por cierto,[PauseLong] te acuerdas de mí, ¿no?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "talk61"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Se usa del mismo modo que el [Color name=\"blue\"][C9:00 bytes=\"01000000\"]imán[Color name=\"unset\"]\n"
+"y demás.[PauseShort] Te equipas con ella y ¡clic!\n"
+"¡Listo!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAECDQAAAAAAAGYAAAAEAAAAoAEAAMQBAADoAQAADAIAADACAABUAgAAVgIAAFgCAABaAgAAXAIAAF4CAABgAgAAYgIAAGQCAABmAgAAaAIAAGoCAABsAgAAbgIAAHACAAByAgAAdAIAAHYCAAB4AgAAegIAAHwCAAB+AgAAgAIAAKQCAADIAgAA7AIAABADAAA0AwAAWAMAAHwDAACgAwAAxAMAAOgDAAAMBAAAMAQAAFQEAAB4BAAAnAQAAMAEAADkBAAACAUAACwFAABQBQAAdAUAAJgFAAC8BQAA4AUAAAQGAAAoBgAATAYAAHAGAACUBgAAuAYAANwGAAAABwAAJAcAAEgHAABsBwAAkAcAALQHAADYBwAA/AcAACAIAABECAAAaAgAAIwIAACwCAAA1AgAAPgIAAAcCQAAQAkAAGQJAACICQAArAkAANAJAAD0CQAAGAoAADwKAABgCgAAhAoAAKgKAADMCgAA8AoAABQLAAA4CwAAXAsAAIALAACaCwAAvgsAAOILAAAGDAAAKgwAAE4MAAByDAAAlgwAALoMAADeDAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAAABOAFAAQwBfAEQAUgBDAFYAbwBpAGMAZQAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

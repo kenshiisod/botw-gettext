@@ -1,0 +1,449 @@
+#, ruby
+msgid "Talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]みたいな 雪深い場所だと\n"
+"雪に足をとられて 歩きづらいだろ？\n"
+"でもこの[Color name=\"blue\"]スノーブーツ[Color name=\"unset\"]があれば\n"
+"雪深い所でもいつも通り…\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"]いや…[PauseShort] [Sound2 id=\"9\"]いつも以上に早く歩けるんだ！\n"
+"\n"
+"これも もう作り手がいなくて\n"
+"貴重な物だから あげることはできないけど…"
+
+#, ruby
+msgid "0010"
+msgstr "八人目の英雄？"
+
+#, ruby
+msgid "Talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あと これ… よかったら使ってよ\n"
+"きっと君の役に立つと思うんだ"
+
+#, ruby
+msgid "Talk34"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あとさ [Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]みたいな雪深い場所だと\n"
+"雪に足をとられて 歩きづらいだろ？\n"
+"だから雪でも快適に歩ける 僕の[Color name=\"blue\"]スノーブーツ[Color name=\"unset\"]を\n"
+"貸してあげようと思ったんだけど…[PauseLong]\n"
+"荷物がいっぱいみたいだから\n"
+"荷物に空きが出来たらまたおいでよ\n"
+"[Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]に行くなら\n"
+"絶対[Color name=\"blue\"]スノーブーツ[Color name=\"unset\"]はあった方がいいからさ"
+
+msgid "0011"
+msgstr "サンドブーツください"
+
+#, ruby
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"16\"]なんだ男かよ…[PauseLong]\n"
+"\n"
+"[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]を履けばゲルド女子にモテるって\n"
+"聞いたから ずっと走ってアピールしてるのに…[PauseLong]\n"
+"誰一人 声をかけてくれないんだよ…\n"
+"ガセネタだったのかなぁ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk35"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]も もしかして\n"
+"僕に会いに来てくれたのかな？\n"
+"よ よかったらお茶でも…[Choice2 label1=\"14\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0012"
+msgstr "サンドブーツの事"
+
+#, ruby
+msgid "Talk36"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"4\"]そっ…[PauseShort] そうだよね\n"
+"お茶なんかしてる暇ないよね…[PauseLong]\n"
+"これが[Color name=\"blue\"]スノーブーツ[Color name=\"unset\"]だよ"
+
+#, ruby
+msgid "0013"
+msgstr "八人目の英雄の事"
+
+msgid "0014"
+msgstr "スノーブーツちょうだい"
+
+#, ruby
+msgid "Talk37"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]これも貴重なブーツだから\n"
+"貸してあげることしかできないけど…\n"
+"そ [PauseShort]それよりさ\n"
+"まだ時間あるなら\n"
+"よ よかったら [Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]や\n"
+"[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]について\n"
+"ゆっくり語り合わないかい？[Choice3 label1=\"12\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]ゲルド地方に伝わる\n"
+"『七人の英雄伝説』…\n"
+"だけど… 本当は…\n"
+"[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]が 存在したらしいんだ…\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]彼女がなぜ 歴史から葬られてしまったのか…\n"
+"それは 誰もわからないんだけど\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]噂はあれど 誰も見た事がない幻の英雄…\n"
+"子供の頃からの憧れだったんだ\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]だからその[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]を見せてもらえたら\n"
+"この[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]をキミに譲ってあげてもいいよ[Choice2 label1=\"9\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0015"
+msgstr "さようなら"
+
+#, ruby
+msgid "Talk38"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]でも キミ…\n"
+"まだ荷物が いっぱいみたいじゃないか\n"
+"欲張りな女の子も 嫌いじゃないけど\n"
+"荷物がそんなんじゃ 貸せないよ…\n"
+"そ [PauseShort]それよりさ\n"
+"もし時間あるなら\n"
+"よ よかったら [Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]や\n"
+"[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]について\n"
+"ゆっくり語り合わないかい？[Choice3 label1=\"12\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]八人目の英雄の事は色んな人が調べてるけど\n"
+"まだ謎が解けていない都市伝説だ\n"
+"[Color name=\"Gray\"]謎を調べている間に仲良くなって…\n"
+"そして… [Color name=\"unset\"][Size percent=\"100\"][Color name=\"Gray\"][PauseLong][Color name=\"unset\"]\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]ふふっ"
+
+#, ruby
+msgid "Talk39"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]じゃあ話は早いね\n"
+"\n"
+"噂はあれど 誰も見た事がない幻の英雄…\n"
+"子供の頃からの憧れだったんだ\n"
+"だからその[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]を見せてもらえたら\n"
+"この[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]をキミに譲ってあげてもいいよ[Choice2 label1=\"9\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]よかった！[PauseShort]\n"
+"無事だったんだね！[PauseLong]\n"
+"なかなか帰ってこないし\n"
+"心配していたんだ…[PauseLong]\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]実は[Color name=\"blue\"]八人目の英雄[Color name=\"unset\"]なんて 単なる都市伝説で\n"
+"実在しないものなんだ…\n"
+"僕… [PauseShort]\n"
+"キミとお近づきになりたくて\n"
+"無理なことを言って\n"
+"キミを引き留めておきたかっただけなんだけど…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]結果的にキミを 危ない目に遭わせることに\n"
+"なったんじゃないかって 不安で不安で…\n"
+"でも もうキミを危ない目には遭わせないよ！\n"
+"これからは 僕がキミを守…[Choice1 label=\"2\"]"
+
+#, ruby
+msgid "Talk06"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]僕を心配させまいと\n"
+"慰めてくれてるのかい？\n"
+"キミは優しいんだね[PauseLong]\n"
+"\n"
+"でも そんな気遣いは無用さ\n"
+"これからは 僕がキミを…[Choice1 label=\"8\"]"
+
+#, ruby
+msgid "Talk07"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ぼ 僕はボテンサ\n"
+"35歳 独身 趣味はジョギング！\n"
+"皆からは良くも悪くもがんばり屋さんだね！\n"
+"って言われます\n"
+"き キミは一人なのかな？\n"
+"良かったら僕と一緒に…[PauseLong][Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk08"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"][Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]は 砂の上でも普通に歩ける\n"
+"砂漠の民にとって憧れの一品！\n"
+"でも もう作り手がいなくなっちゃって\n"
+"今一番 入手困難な 超レアなブーツなんだ！\n"
+"どうだい？ うらやましいだろ！[Choice2 label1=\"5\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk09"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]あっ… [Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]に気づいちゃった？\n"
+"\n"
+"これさえあれば砂漠の砂に足をとられず\n"
+"普通に歩けるようになるからね\n"
+"ジョギングだって楽々さ！\n"
+"\n"
+"だから 良かったら一緒に…[Choice2 label1=\"5\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk21"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ちょ 調子はどうだい？\n"
+"\n"
+"よ よかったら [Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]や\n"
+"[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]について\n"
+"ゆっくり語り合わないかい？[Choice3 label1=\"12\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Talk22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]よ よかったら もっとゆっくり\n"
+"[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]や[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]について\n"
+"語り合わないかい？[Choice3 label1=\"12\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0000"
+msgstr "サンドブーツ？"
+
+msgid "Talk23"
+msgstr "[Sound1 unk1=\"9\" unk2=\"4\"]そ [PauseShort]そうだったね…[PauseLong]"
+
+msgid "0001"
+msgstr "さようなら"
+
+#, ruby
+msgid "Talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]よし 装着完了！\n"
+"\n"
+"ただ これだと砂漠では走りづらいし\n"
+"走りっぱなしで 実はかなり疲れててね\n"
+"ゲルドの街の入口に テントみたいなのあったし\n"
+"しばらく そこで体を休めとくよ\n"
+"よかったら キミも一緒に…[Choice1 label=\"1\"]"
+
+#, ruby
+msgid "Talk25"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"19\"]えっ？[PauseLong]\n"
+"\n"
+"いや… これは…\n"
+"この[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]は超レアもので…\n"
+"譲ってあげたいのは山々なんだけど…\n"
+"\n"
+"[Sound1 unk1=\"4\" unk2=\"19\"]……[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]…でもこれは仲良くなれるチャンスかも[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"25\"][Size percent=\"100\"]そうだね… 譲ってあげてもいいよ\n"
+"でも その代りにお願いがあるんだ！\n"
+"キミは[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]の噂を知ってるかい？[Choice2 label1=\"10\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0002"
+msgstr "見つけたよ"
+
+msgid "Talk26"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]サササ サヴォッタ！"
+
+#, ruby
+msgid "0004"
+msgstr "砂漠なのによく走れるね"
+
+msgid "Talk27"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]サササ サヴァサーヴァ！"
+
+#, ruby
+msgid "0005"
+msgstr "サンドブーツ欲しい"
+
+msgid "Talk28"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]サササ サヴァーク！"
+
+#, ruby
+msgid "Talk40"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ややや やあ\n"
+"また話しかけてくれるなんて！\n"
+"キミもヒマしてるのかな？\n"
+"良かったら僕と一緒に…[PauseLong][Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk29"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ままま また会ったね\n"
+"偶然も運命って言うから\n"
+"もしかしたら僕たちは…[Choice3 label1=\"4\" label2=\"5\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0006"
+msgstr "知ってる"
+
+msgid "0007"
+msgstr "やめときます"
+
+#, ruby
+msgid "0008"
+msgstr "これ見て！"
+
+#, ruby
+msgid "Talk42"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…っと[PauseLong]\n"
+"キミ 荷物がいっぱいじゃないか…\n"
+"欲張りな女の子も 嫌いじゃないけど\n"
+"それじゃあ 渡せないよ…\n"
+"荷物整理ができたら\n"
+"また声かけてよ！\n"
+"僕は キミが見つけやすいように\n"
+"いつでもここを走ってるからさ！[PauseLong]\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]き… [PauseShort]決まった～！！[Size percent=\"100\"][Color name=\"unset\"][PauseLong]"
+
+#, ruby
+msgid "0009"
+msgstr "探してきます"
+
+#, ruby
+msgid "Talk43"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]まさか都市伝説とばかり思っていた\n"
+"[Color name=\"blue\"]八人目の英雄[Color name=\"unset\"]を拝めるなんて\n"
+"思ってもみなかったよ…\n"
+"\n"
+"でも これってキミと僕しか知らない\n"
+"2人だけの秘密ってことだよね！\n"
+"よ よかったら\n"
+"これを機に僕と…[Choice1 label=\"11\"]"
+
+msgid "Near00"
+msgstr "ホッ ハッ ホッ ハッ"
+
+#, ruby
+msgid "Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]しかしまあ[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]もないのに\n"
+"よくこの砂漠を歩き回ってられるもんだね\n"
+"僕には考えられないよ"
+
+#, ruby
+msgid "Talk45"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]僕だと思って大切にしてね\n"
+"\n"
+"じゃあ[Color name=\"blue\"]スノーブーツ[Color name=\"unset\"]返してもらっていいかな？\n"
+"このままじゃ 僕 裸足になっちゃうし"
+
+msgid "Talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]えっ…？[PauseLong]\n"
+"ああ…\n"
+"[Sound1 unk1=\"9\" unk2=\"4\"]さ… さよなら"
+
+#, ruby
+msgid "Talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ちょっと待ってね\n"
+"すぐ 脱ぐから…"
+
+#, ruby
+msgid "Talk13"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"6\"]えっ？ 僕の話聞いてた？\n"
+"この[Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]は超レアものなんだ\n"
+"女の子ならともかく\n"
+"男のお前なんかに譲るわけないだろ\n"
+"僕は忙しいんだ\n"
+"あっちいけよ！"
+
+#, ruby
+msgid "Talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]す…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]すごいじゃないか！[Size percent=\"100\"]\n"
+"\n"
+"今まで都市伝説と思われていた\n"
+"あの[Color name=\"blue\"]八人目の英雄[Color name=\"unset\"]が本当にいたなんて！\n"
+"これが世間に知れたら\n"
+"すごい騒ぎになるよ！！[PauseLong]\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…でもさ \n"
+"僕は誰にも言わないよ…\n"
+"[Sound1 unk1=\"7\" unk2=\"0\"]そうすれば これはキミと僕\n"
+"2人だけの秘密ってことだよね！\n"
+"よ よかったら\n"
+"これを機に僕と…[Choice1 label=\"11\"]"
+
+#, ruby
+msgid "Talk15"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"Gray\"]やった！[Color name=\"unset\"][PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"25\"][Color name=\"red\"]八人目の英雄[Color name=\"unset\"]は彼女を慕う者達によって\n"
+"今でも[Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]に祀られてるって噂があるのと\n"
+"赤褐色の巨神って異名を持つこと以外のことは\n"
+"よくわかってないんだ…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]『七人の英雄伝説』の事なら 詳しい人が\n"
+"[Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]にいるって聞いた事はあるけど…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ともかく 絵でも何でもいいんだ[PauseShort]\n"
+"見つけたら教えてくれるかい？[PauseLong]\n"
+"ただし 絵ならせめて\n"
+"上半身がわかるもので頼んだよ"
+
+#, ruby
+msgid "Talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"25\"]ゲルド地方に伝わる\n"
+"『七人の英雄伝説』…\n"
+"だけど… 本当は…\n"
+"[Color name=\"red\"]八人目の英雄[Color name=\"unset\"]が存在したらしいんだ…\n"
+"彼女を慕う者達によって\n"
+"今でも[Color name=\"blue\"]ゲルド高地[Color name=\"unset\"]に祀られてるって噂があるのと\n"
+"赤褐色の巨神って異名を持つこと以外のことは\n"
+"よくわかってないんだ…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]『七人の英雄伝説』の事なら 詳しい人が\n"
+"[Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]にいるって聞いたことはあるけど…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ともかく 絵でもなんでもいいんだ[PauseShort]\n"
+"見つけたら教えてくれるかな？\n"
+"ただし 絵ならせめて\n"
+"上半身がわかるもので頼んだよ"
+
+#, ruby
+msgid "Talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]またキミか… 悪いけど \n"
+"僕は女の子にしか興味ないんだ\n"
+"それにサンドブーツのアピールで\n"
+"走り回って疲れてるんだ\n"
+"用があるなら\n"
+"さっさと済ませてくれるかな？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"][Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]は 砂の上でも普通に歩ける\n"
+"砂漠の民にとって憧れの一品！\n"
+"でも もう作り手がいなくなっちゃって\n"
+"今一番 入手困難な 超レアなブーツなんだ！\n"
+"どうだい？ うらやましいだろ！[Choice2 label1=\"5\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk30"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"][Color name=\"blue\"]サンドブーツ[Color name=\"unset\"]は 砂の上でも普通に歩ける\n"
+"砂漠の民にとって憧れの一品！\n"
+"でも もう作り手がいなくなっちゃって\n"
+"今一番 入手困難な 超レアなブーツなんだ！"
+
+#, ruby
+msgid "Talk31"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]ややや やぁ\n"
+"こんなに僕に 何度も話しかけてくれるなんて…[PauseLong]\n"
+"もしかしたら キミも僕のこと…[Choice3 label1=\"4\" label2=\"5\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAEcBwAAAAAAADgAAAAEAAAA6AAAAA4BAAA0AQAAWgEAAFwBAABeAQAAhAEAAKoBAADQAQAA9gEAAPgBAAD6AQAA/AEAAP4BAAAAAgAAJgIAAEwCAAByAgAAmAIAAL4CAADkAgAACgMAAAwDAAAyAwAANAMAAFoDAACAAwAApgMAAMwDAADOAwAA0AMAAPYDAAAcBAAAHgQAAEQEAABqBAAAkAQAALYEAADcBAAAAgUAACgFAABOBQAAUAUAAHYFAAB4BQAAngUAAKAFAADGBQAA7AUAABIGAAA4BgAAXgYAAIQGAACqBgAA0AYAAPYGAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAAAAAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAAAAAAAAAAAAAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAAAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAAAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAATgBwAGMAXwBPAGEAcwBpAHMASAB5AGwAaQBhAF8AMAAwADIAAABOAHAAYwBfAE8AYQBzAGkAcwBIAHkAbABpAGEAXwAwADAAMgAAAE4AcABjAF8ATwBhAHMAaQBzAEgAeQBsAGkAYQBfADAAMAAyAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

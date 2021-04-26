@@ -1,0 +1,231 @@
+msgid "5503"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]どれを売ってくれるゴロ？"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ゴロね\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]でいいゴロか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0000"
+msgstr "買いに来た"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]ありがとゴロ！ [PauseShort]っと"
+
+#, ruby
+msgid "0001"
+msgstr "売りに来た"
+
+msgid "0002"
+msgstr "ここって？"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あら 残念ゴロ"
+
+msgid "0003"
+msgstr "さようなら"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]防具屋 [Color name=\"blue\"]ガッチムッチ[Color name=\"unset\"]へようこそゴロ！[PauseShort]\n"
+"俺っちに 御用ゴロ？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]どれを売るゴロ？"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]遅くまで お疲れゴロ！[PauseShort]\n"
+"防具屋 [Color name=\"blue\"]ガッチムッチ[Color name=\"unset\"]は24時間営業ゴロ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に売るもん あるゴロ？"
+
+#, ruby
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]また来るゴロ！"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]もっと売るゴロ？"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]まいど ご来店[PauseShort] ありがとうございますゴロ\n"
+"\n"
+"ウチで防具をそろえれば\n"
+"ゴロンシティより熱い場所でも ヘッチャラゴロ "
+
+#, ruby
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他はどうするゴロ？"
+
+#, ruby
+msgid "talk21"
+msgstr "[Sound1 unk1=\"10\" unk2=\"1\"]早くウチの防具買って 装備するゴロ！"
+
+msgid "Com_Talk_60"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ゴロね？[PauseLong]\n"
+"[Color name=\"red\"][02:10 name=\"Shop_SelectItemPrice\"]ルピー[Color name=\"unset\"]で いいゴロ？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"42\"]さよならはいいけど その格好！ [PauseShort]\n"
+"早くなんとかするゴロよ！"
+
+#, ruby
+msgid "Com_Talk_61"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あら 残念ゴロ"
+
+#, ruby
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]見ての通り [Color name=\"blue\"]防具屋[Color name=\"unset\"]ゴロ！"
+
+#, ruby
+msgid "talk23"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]お話ししてる場合じゃないと思うゴロけど…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に御用はあるゴロ？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk24"
+msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]分かったら お客さん… [PauseShort]早くそれ着るゴロよ！"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]とはいえ 俺っち達 普段は裸だから[PauseShort]\n"
+"観光客向けに [Color name=\"red\"]耐火用の防具[Color name=\"unset\"]を売ってるゴロ\n"
+"特にオススメは [Color name=\"blue\"]耐火の石靴[Color name=\"unset\"]！[PauseLong]\n"
+"ここで採れる[Color name=\"blue\"]宝石[Color name=\"unset\"]を ふんだんに使ってるゴロ！\n"
+"[Color name=\"red\"]耐火性能[Color name=\"unset\"]は まぁまぁゴロが…[PauseShort] 履くだけで\n"
+"世界のセレブからも一目置かれる 一品ゴロ！"
+
+#, ruby
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]買い取り完了ゴロ！ [PauseShort]っと"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]りょーかいゴロ！ [PauseShort]っと"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]まいどゴロ！ [PauseShort]っと"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ゴロね？[PauseLong]\n"
+"いくつゴロ？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]なら[02:0F name=\"Shop_TradeItemNum\"]個で[PauseShort]\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]ゴロ！[PauseShort][PauseShort]売るゴロ？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]やー [PauseShort]売り切れだゴロ！[PauseLong]\n"
+"またブロハンの爺さんから 仕入れなきゃゴロ"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]悪いけどそれは あつかってないゴロ"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]まいど～ゴロ！"
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]今着てない服しか 買い取れないゴロ"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]を1つゴロ？[PauseShort]\n"
+"それなら [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]ゴロ！[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk12"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]ありがとゴロ！"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]いやいや お客さん！ [PauseLong]\n"
+"そんな事を 言ってる場合じゃないゴロ！"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\"]個 全部ゴロ？[PauseLong]\n"
+"そんなら 合わせて[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]で買い取るゴロ[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"1\"]お客さんの格好なら…\n"
+"\n"
+"ゴロンシティより熱い場所に行くのは\n"
+"止めた方がいいゴロ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ま そんな場所は そもそも\n"
+"ゴロン族以外 立入禁止だけどね"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]パッと見 お客さんの格好なら\n"
+"[Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]でも 大丈夫ゴロ\n"
+"ま 観光客が行くような所では ないけどね"
+
+msgid "near00"
+msgstr "らっしゃいゴロ～"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]それにしても お客さんの熱さ対策は\n"
+"バッチリゴロね！\n"
+"[Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]でも どこでも[PauseShort]\n"
+"行ってくるがいいゴロ"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"22\"]お客さん！ [PauseLong]その格好はマズいゴロ！\n"
+"\n"
+"早く ウチで装備を整えないと\n"
+"焼け死ぬゴロよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "5501"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk18"
+msgstr "[Sound1 unk1=\"10\" unk2=\"22\"]分かったから早く売るゴロ！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAG2AwAAAAAAADAAAAAEAAAAyAAAAOIAAADkAAAA5gAAAOgAAADqAAAABAEAAB4BAAA4AQAAUgEAAGwBAACGAQAAoAEAALoBAADUAQAA7gEAAAgCAAAiAgAAPAIAAFYCAABwAgAAigIAAKQCAAC+AgAA2AIAAPICAAD0AgAA9gIAAPgCAAD6AgAA/AIAAP4CAAAAAwAAAgMAAAQDAAAGAwAACAMAACgDAABIAwAAaAMAAIgDAACoAwAAqgMAAKwDAACuAwAAsAMAALIDAAC0AwAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAAAAAAAAAAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAABOAHAAYwBfAGcAbwByAG8AbgAwADAANAAAAE4AcABjAF8AZwBvAHIAbwBuADAAMAA0AAAATgBwAGMAXwBnAG8AcgBvAG4AMAAwADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

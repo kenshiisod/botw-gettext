@@ -1,0 +1,243 @@
+msgid "Near001"
+msgstr "Vaasaak, vaasaak!"
+
+msgid "Near002"
+msgstr "Champis mystérieux!"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"],\n"
+"c'est ça? Et combien espères-tu\n"
+"m'en vendre?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"] exemplaires... Ça nous fait\n"
+"un total de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"10\"]Désolée... Je n'achète pas\n"
+"ce genre de choses."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"10\"]Je ne m'intéresse pas à ce que tu portes,\n"
+"tu sais."
+
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"27\"]Savotta![PauseLong] Ce que tu es matinale!\n"
+"Et tu as l'air d'être en forme.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"29\"]Savasaaba!\n"
+"\n"
+"\n"
+"Il fait bien plus frais qu'en journée.\n"
+"\n"
+"\n"
+"Les champignons retrouvent toute leur\n"
+"vigueur la nuit, alors n'hésite pas à jeter\n"
+"un coup d'œil.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_12"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"4\"]Arrivage exclusif! Des champignons\n"
+"aussi rares que mystérieux, seulement\n"
+"visibles par les plus belles vaïs!\n"
+"...[PauseLong][Sound1 unk1=\"0\" unk2=\"19\"] Ah, c'est toi, ma grande!\n"
+"\n"
+"\n"
+"Tu m'as tout acheté, alors je n'ai\n"
+"plus rien à vendre.\n"
+"\n"
+"Du coup, je n'ai pas d'autre choix que\n"
+"de faire croire que j'ai de la marchandise,\n"
+"tu comprends.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "Achète-moi un truc!"
+
+msgid "Talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]D'après ce qu'on dit...[PauseLong]\n"
+"\n"
+"\n"
+"Les champignons seraient les organismes\n"
+"vivants les plus gros au monde.\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]Aaaah... Il y a tant de choses\n"
+"intéressantes à découvrir sur\n"
+"les champignons...\n"
+"[Color name=\"Gray\"][Size percent=\"80\"]Tellement que je m'y perds moi-même...[Size percent=\"100\"][Color name=\"unset\"]"
+
+msgid "0002"
+msgstr "Au revoir!"
+
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Je me réapprovisionnerai bientôt en\n"
+"champignons, alors reviens me voir plus\n"
+"tard si tu as envie de dépenser tes rubis."
+
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Saksak! Mange bien pour devenir\n"
+"grande et forte!"
+
+msgid "0003"
+msgstr "J'achète."
+
+msgid "Com_Talk_33"
+msgstr ""
+"Je t'en donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].\n"
+"Ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Saksak! N'hésite pas à te servir des\n"
+"marmites, là-bas, si tu veux cuisiner.\n"
+"Elles sont à la disposition des vaïs.\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]Enfin, je sais bien qu'il n'y a que des\n"
+"vaïs ici, mais tu m'as comprise..."
+
+msgid "0004"
+msgstr "Au revoir."
+
+msgid "Com_Talk_05b"
+msgstr "Tu veux vendre autre chose?"
+
+msgid "Talk_17"
+msgstr "[Sound1 unk1=\"1\" unk2=\"28\"]Savaak![PauseLong]"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"22\"]Montre-moi ce que tu as."
+
+msgid "Com_Talk_05c"
+msgstr ""
+"Je suis prête à t'acheter un paquet de\n"
+"choses, alors montre-moi ce que tu as!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Je t'en donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].\n"
+"Ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_18"
+msgstr "[Sound1 unk1=\"1\" unk2=\"29\"]Savasaaba![PauseLong]"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[C9:03][C9:02][Color name=\"blue\"][C9:04][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?\n"
+"Je t'en donne [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Ça te va?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr ""
+"Tant que ça m'intéresse, je veux bien\n"
+"acheter ce que tu proposes!"
+
+msgid "Talk_19"
+msgstr "[Sound1 unk1=\"1\" unk2=\"30\"]Vaasaak![PauseLong]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Saksak."
+
+msgid "Com_Talk_04"
+msgstr ""
+"[Sound2 id=\"4\"]Qu'est-ce que tu fabriques? Je n'ai pas\n"
+"que ça à faire, tu sais. Si on pouvait\n"
+"régler ça vite..."
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][C9:03][C9:02][Color name=\"blue\"][C9:04][02:0B name=\"PlacedItemName\"][Color name=\"unset\"]?[PauseMid]\n"
+"Ça coûte [Color name=\"red\"][02:10 name=\"PlacedItemPrice\"] rubis[Color name=\"unset\"].[PauseShort] C'est honnête![Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"23\"]Ça, c'est une bonne affaire! Saksak!"
+
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Bien... Veux-tu te débarrasser\n"
+"d'autre chose?"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Héhé, saksak!"
+
+msgid "Com_Talk_02d"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Saksak de m'avoir permis de mettre\n"
+"la main sur un si bel objet."
+
+msgid "5500"
+msgstr "Oui."
+
+msgid "Com_Talk_53"
+msgstr "[Sound2 id=\"10\"]Tu as changé d'avis? Dommage."
+
+msgid "5501"
+msgstr "Laisse tomber."
+
+msgid "Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"28\"]Savaak![PauseLong]\n"
+"\n"
+"\n"
+"Pfiou, il fait chaud, aujourd'hui.[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "J'achète."
+
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Si tu as des rubis, n'hésite pas à jeter\n"
+"un coup d'œil à mes champignons."
+
+msgid "5503"
+msgstr "Non, merci."
+
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]D'après ce qu'on dit, ce sont ces\n"
+"champignons qui donnent aux Gerudos\n"
+"leur si belle peau.\n"
+"Profite donc de ta venue dans notre cité\n"
+"pour en acheter quelques-uns, tu ne le\n"
+"regretteras pas."
+
+msgid "Talk_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Maintenant que la créature divine\n"
+"s'est calmée, la cité devrait s'animer à\n"
+"nouveau. C'est bon pour les affaires![Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk_05"
+msgstr "[Sound1 unk1=\"1\" unk2=\"27\"]Savotta![PauseLong]"
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Saksak!"
+
+msgid "5507"
+msgstr "J'achète tout."
+
+msgid "Talk_07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"23\"]Tu es toute menue, ma grande, et\n"
+"pourtant, tu as un appétit d'ogre!\n"
+"\n"
+"Mais c'est bon pour la santé, alors\n"
+"n'hésite pas à tout manger!"
+
+msgid "5508"
+msgstr "Je vends tout."
+
+msgid "Talk_09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]Oui? Tu as encore besoin de moi?[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHCAwAAAAAAADEAAAAEAAAAzAAAAOYAAAAAAQAAGgEAABwBAAAeAQAAOAEAAFIBAABsAQAAhgEAAKABAAC6AQAA1AEAAO4BAAAIAgAAIgIAADwCAABWAgAAcAIAAIoCAACkAgAApgIAAKgCAADCAgAA3AIAAN4CAADgAgAA4gIAAOQCAADmAgAABgMAACYDAABGAwAAZgMAAIYDAACIAwAAigMAAIwDAACOAwAAkAMAAJIDAACUAwAAlgMAALYDAAC4AwAAugMAALwDAAC+AwAAwAMAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAE4AcABjAF8AbwBhAHMAaQBzADAANAAzAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAAAAAAAATgBwAGMAXwBvAGEAcwBpAHMAMAA0ADMAAABOAHAAYwBfAG8AYQBzAGkAcwAwADQAMwAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

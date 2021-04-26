@@ -1,0 +1,620 @@
+#, ruby
+msgid "Npc_HighMountain011_Talk23"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"blue\"]ネルドラ[Color name=\"unset\"]と言えば [Color name=\"blue\"]ラネール山[Color name=\"unset\"]だな[PageBreak][Color name=\"blue\"]ラネール参道の東側[Color name=\"unset\"]の辺りでも\n"
+"目撃されてるってウワサだぜ\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]雪山は リト族の俺には大したことないが[PauseShort]\n"
+"ハイリア人のアンタには 少々キビシイかもな\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]もし 行くってんなら\n"
+"しっかり防寒対策するべきだな"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]さてと…\n"
+"\n"
+"傷も癒えてきた事だし[PauseShort] 俺はそろそろ\n"
+"チューリを連れて [Color name=\"blue\"]飛行訓練場[Color name=\"unset\"]に行こうと思う\n"
+"チューリにはリーバル様のような\n"
+"立派な戦士になってもらいたいんでな[Choice4 label1=\"10\" label2=\"30\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk24"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]構わねぇよ[PauseMid]\n"
+"しっかし [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]には参ったぜ[Choice3 label1=\"18\" label2=\"27\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]さてと…[PauseLong] チューリを連れて\n"
+"[Color name=\"blue\"]飛行訓練場[Color name=\"unset\"]に行くとするか[Choice4 label1=\"10\" label2=\"30\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "Npc_HighMountain011_Talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]ん… [PauseShort]アンタか"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]他に聞きたいことある？[Choice4 label1=\"23\" label2=\"24\" label3=\"25\" label4=\"26\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk15"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]四つの的を刹那に射る[Color name=\"unset\"] ？[PauseShort]\n"
+"そういう詩を聴いて来たのか？\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…四つの的に 一瞬で矢を当てるって事だよな？\n"
+"そんなこと 誰に…[PauseMid] いや待てよ\n"
+"そういや[PauseShort] 昔[Color name=\"blue\"]リーバル様[Color name=\"unset\"]が[Color name=\"red\"]飛行訓練場[Color name=\"unset\"]で そういう\n"
+"芸当をやってみせたって話を 聞いた事がある\n"
+"…リンク[PauseMid] お前もそれに挑戦するつもりだな？\n"
+"目を見れば分かる"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk01"
+msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]ん？[PauseShort] 旅の人かい？"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]俺はこの間まで [Color name=\"blue\"]ククジャ谷[Color name=\"unset\"]の辺りに\n"
+"現れるっていう[Color name=\"blue\"]龍[Color name=\"unset\"]を見張りに行ってたんだ\n"
+"間近で見ると スゲェ迫力だったぜ[PageBreak][Sound1 unk1=\"11\" unk2=\"6\"]アンタは 村のてっぺんの[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]\n"
+"見に来たんだろ？[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ホゥ…？[PauseShort] 末裔様…[PauseShort]\n"
+"何かを聞きたそうな目をしていらっしゃる[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ん？ まだ何かあるのか？[Choice3 label1=\"10\" label2=\"30\" label3=\"11\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]こんなところで会うとはな[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Near00"
+msgstr "見張りも楽じゃないぜ"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk27"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]この村 こないだまで [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]っつー[PauseShort]\n"
+"デカいのが飛んでてな\n"
+"いろいろあって[PauseShort]\n"
+"やっと最近 落ちついたところなんだよ"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk21"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"20\"]あ いえ…[PauseMid] 何でもありません[PauseShort]\n"
+"失礼しました\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ところで[PauseShort] 私に何かご用でしたか？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]おまえか…[PauseLong] しばらくだな\n"
+"\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]が落ち着いた今[PauseShort]\n"
+"チューリの訓練を 再開したんだ\n"
+"なんだったら チューリに[PauseShort]\n"
+"おまえの弓捌きを 見せてやってくれないか？\n"
+"多少言葉遣いが 俺に似てしまったが…[PauseLong]\n"
+"悪気は無いはずだ[Choice4 label1=\"15\" label2=\"31\" label3=\"17\" label4=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]俺は 族長からの指示で\n"
+"この辺りに現れる [Color name=\"blue\"]龍[Color name=\"unset\"]を見張りに来たんだ"
+
+#, ruby
+msgid "Npc_HighMountain011_Near01"
+msgstr "そろそろ休むか"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]しかも俺は その後 [Color name=\"blue\"]ククジャ谷[Color name=\"unset\"]の辺りに\n"
+"現れるっていう[Color name=\"blue\"]龍[Color name=\"unset\"]を見張りに行ってよ\n"
+"[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]だ [Color name=\"blue\"]龍[Color name=\"unset\"]だって[PauseShort]\n"
+"ったく 大変だったぜ[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk18"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを[PauseShort]\n"
+"見せてやってくれないか？\n"
+"上級者の動きを 見て盗む…[PauseShort]\n"
+"そういう訓練も あるはずだからな[Choice4 label1=\"15\" label2=\"31\" label3=\"17\" label4=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk04"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"16\"]デカいな…[PauseShort] 暴れないとは分かっていても\n"
+"身体が小刻みに震えちまう…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk29"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に質問ある？[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk19"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを見せてやってくれ[PauseLong]\n"
+"何かの参考になるかも知れん[Choice4 label1=\"15\" label2=\"31\" label3=\"17\" label4=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]近ごろ頻繁に目撃されるようになってな[PauseMid]\n"
+"村まで来るんじゃないかと 心配してるのさ\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]の件があったからな[PauseShort]\n"
+"不安になるのも無理はないぜ\n"
+"特に 危険もなさそうなんで[PauseShort]\n"
+"そろそろ 村に戻ろうかね"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]そういや… [PauseMid]角が光らなくなってるな\n"
+"ありゃ いったい何だったんだ？"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ホゥ…？[PauseShort] 末裔様…[PauseShort]\n"
+"何かを聞きたそうな目をしていらっしゃる[Choice3 label1=\"4\" label2=\"28\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Npc_HighMountain011_Talk07"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]おぅ"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"blue\"]リーバル様[Color name=\"unset\"]のことをお尋ねで？[PauseMid]\n"
+"ホッ ホゥ…[PauseShort] これはなんという偶然でしょう\n"
+"実は少し前 [Color name=\"blue\"]リーバル様の日記[Color name=\"unset\"]が発見されまして[PauseShort]\n"
+"我らが英傑様の日記ですから 皆はもう大喜び…[PauseShort]\n"
+"しかし 誰もが簡単に見てよいものでは\n"
+"ありませんので…[PauseShort]\n"
+"私の判断で [Color name=\"blue\"]リーバル様[Color name=\"unset\"]を師と仰ぐ\n"
+"[Color name=\"blue\"]テバ[Color name=\"unset\"]に管理を任せました[Choice1 label=\"29\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]俺に何か用かい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Npc_HighMountain004_Talk02"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]ホッ ホゥ…"
+
+msgid "Npc_HighMountain004_Near00"
+msgstr "ホッ ホゥ"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk04"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]私に答えられる事なら なんなりと[Choice3 label1=\"4\" label2=\"6\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]何についてお話ししましょう？[Choice4 label1=\"7\" label2=\"8\" label3=\"9\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 何かございますかな？[Choice3 label1=\"4\" label2=\"6\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0030"
+msgstr "四つの的の試練知ってる？"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]私に答えられる事なら なんなりと[Choice4 label1=\"4\" label2=\"16\" label3=\"6\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0031"
+msgstr "四つの的の試練知ってる？"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 何かございますかな？[Choice4 label1=\"4\" label2=\"16\" label3=\"6\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0010"
+msgstr "リーバルのこと教えて"
+
+msgid "0011"
+msgstr "なんでもない"
+
+#, ruby
+msgid "0012"
+msgstr "行ってらっしゃい！"
+
+#, ruby
+msgid "0013"
+msgstr "待って！"
+
+msgid "0014"
+msgstr "わかった"
+
+#, ruby
+msgid "0015"
+msgstr "リーバルのこと教えて"
+
+msgid "0016"
+msgstr "テバは？"
+
+msgid "0017"
+msgstr "カーンは？"
+
+#, ruby
+msgid "0018"
+msgstr "神獣 ヴァ・メドー？"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk30"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に質問ある？[Choice3 label1=\"18\" label2=\"27\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk20"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]さて…[PauseShort] チューリに おまえの弓捌きを\n"
+"見せてやってくれないか？[Choice4 label1=\"15\" label2=\"31\" label3=\"17\" label4=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0019"
+msgstr "龍は？"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]知ってるか？[PauseShort] この間の龍は\n"
+"[Color name=\"blue\"]オルドラ[Color name=\"unset\"]っつー 名前なんだってよ"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk21"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]四つの的を刹那に射る[Color name=\"unset\"] ？[PauseShort]\n"
+"そういう詩を聴いて来たのか？\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…四つの的に 一瞬で矢を当てるって事だよな？\n"
+"そんなこと 誰に…[PauseMid] いや待てよ\n"
+"そういや[PauseShort] 昔[Color name=\"blue\"]リーバル様[Color name=\"unset\"]が ここでそういう\n"
+"芸当をやってみせたって話を 聞いた事がある\n"
+"…リンク[PauseMid] お前もそれに挑戦するつもりだな？\n"
+"目を見れば分かる"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]そのときの龍は\n"
+"[Color name=\"blue\"]オルドラ[Color name=\"unset\"]っつー 名前なんだってよ"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]しかも あんなのが あと2体もいるらしいぜ[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]たしか 残りは…[PauseShort]\n"
+"[Color name=\"blue\"]フロドラ[Color name=\"unset\"]と[Color name=\"blue\"]ネルドラ[Color name=\"unset\"]だったかな[Choice2 label1=\"21\" label2=\"22\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]近ごろ頻繁に目撃されるようになってな[PauseMid]\n"
+"村まで来るんじゃないかと 心配してるのさ\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]の件があったからな[PauseShort]\n"
+"不安になるのも無理はないぜ\n"
+"今のところ 危険はなさそうだが[PauseShort]\n"
+"まぁ[PauseMid] もうしばらく見張っているかね"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]ん？[PauseMid] どうした…？[PauseMid]\n"
+"何か言いたそうだが[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk11"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]そういや… [PauseMid][Color name=\"blue\"]龍[Color name=\"unset\"]のヤツは 夜中になると\n"
+"決まって この谷を通るんだが…\n"
+"そのとき [Color name=\"red\"]角が光り出す[Color name=\"unset\"]んだ[PauseMid]\n"
+"何かを誘うかのような 魅惑的な輝きなんだぜ…"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk01"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]…リンク[PauseMid] 俺達リト族や鳥は 羽ばたきで前に進み[PauseShort]\n"
+"翼が風を受けて生まれる揚力で飛んでいる\n"
+"だから 自力で垂直に上昇することは出来ない…[PauseMid]\n"
+"昔のリト族は[PauseShort] それが当たり前と思い込んでいた\n"
+"[Sound1 unk1=\"1\" unk2=\"4\"]だが[PauseShort] その思い込みを打ち砕いたのが\n"
+"[Color name=\"blue\"]リーバル様[Color name=\"unset\"]だ\n"
+"あの人は 自ら上昇気流を発生させ\n"
+"一気に垂直上昇する技を持っていたんだ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]戦闘において 即座に相手の上を取れることが\n"
+"どれだけ有利なことかは お前にも分かるだろ？\n"
+"そんなことが出来る奴に 俺は勝てる気がしない[PauseMid]\n"
+"…だが[PauseShort] 今に俺は [Color name=\"blue\"]リーバル様[Color name=\"unset\"]を超えてみせる\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]その為に あの技…[PauseMid]\n"
+"[Color name=\"blue\"]リーバルの猛り[Color name=\"unset\"]を いつか必ず会得してやる"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]俺は 族長からの指示で\n"
+"あの[Color name=\"blue\"]龍[Color name=\"unset\"]を見張ってるんだ"
+
+msgid "Npc_ValleyVillage010_Talk02"
+msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]そうか"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk13"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]そういや… [PauseMid][Color name=\"blue\"]龍[Color name=\"unset\"]のヤツは この時間帯になると\n"
+"決まってこの谷を通るんだが\n"
+"見てみろよ[PauseShort] [Color name=\"red\"]角が光ってる[Color name=\"unset\"]だろ？[PauseMid]\n"
+"何かを誘うかのような 魅惑的な輝きだ…"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]さてと…\n"
+"\n"
+"傷も癒えてきた事だし[PauseShort] 俺はそろそろ\n"
+"チューリを連れて [Color name=\"blue\"]飛行訓練場[Color name=\"unset\"]に行こうと思う\n"
+"チューリにはリーバル様のような\n"
+"立派な戦士になってもらいたいんでな[Choice3 label1=\"10\" label2=\"12\" label3=\"13\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]こうして近くで見てみると 相当デカいが\n"
+"おとなしいやつでな[PauseShort] 危険はなさそうだ"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"18\"]さてと…[PauseLong] チューリを連れて\n"
+"[Color name=\"blue\"]飛行訓練場[Color name=\"unset\"]に行くとするか[Choice3 label1=\"10\" label2=\"12\" label3=\"13\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]しかし…[PageBreak]こうもデカいとよ[PauseShort] 暴れないとは分かっていても\n"
+"身体が小刻みに震えちまうぜ…"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]おまえか…[PauseLong] しばらくだな\n"
+"\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]が落ち着いた今[PauseShort]\n"
+"チューリの訓練を 再開したんだ\n"
+"なんだったら チューリに[PauseShort]\n"
+"おまえの弓捌きを 見せてやってくれないか？\n"
+"多少言葉遣いが 俺に似てしまったが…[PauseLong]\n"
+"悪気は無いはずだ[Choice3 label1=\"15\" label2=\"17\" label3=\"14\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]村まで来るんじゃないかと\n"
+"心配してるみたいだが\n"
+"特に 危険はなさそうなんで[PauseShort]\n"
+"そろそろ 村に戻ろうかね"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk10"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]ホゥ…？[PauseShort] [Color name=\"blue\"]テバ[Color name=\"unset\"]ですか…[PauseMid]\n"
+"家にはいませんでしたか？\n"
+"彼は リトの英傑 [Color name=\"blue\"]リーバル様[Color name=\"unset\"]に憧れ[PauseShort]\n"
+"この村の戦士になりました\n"
+"息子のチューリも [Color name=\"blue\"]リーバル様[Color name=\"unset\"]のような\n"
+"立派な戦士に…[PauseShort] と 望んでいるようです\n"
+"[Sound1 unk1=\"11\" unk2=\"4\"][Color name=\"blue\"]テバの妻の サキ[Color name=\"unset\"]なら\n"
+"所在を知っているのではないでしょうか\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"blue\"]テバの家[Color name=\"unset\"]でしたら 拙宅の[Color name=\"blue\"]すぐ隣[Color name=\"unset\"]です[PageBreak][Color name=\"blue\"]サキ[Color name=\"unset\"]も出かけているかもしれませんが[PauseShort]\n"
+"この村のどこかには いると思いますよ"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk06"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを[PauseShort]\n"
+"見せてやってくれないか？\n"
+"上級者の動きを 見て盗む…[PauseShort]\n"
+"そういう訓練も あるはずだからな[Choice3 label1=\"15\" label2=\"17\" label3=\"14\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk17"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]村のてっぺんの[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]\n"
+"見に来たんだろ？[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk07"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]チューリに おまえの弓捌きを見せてやってくれ[PauseLong]\n"
+"何かの参考になるかも知れん[Choice3 label1=\"15\" label2=\"17\" label3=\"14\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk18"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]村のてっぺんの[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]\n"
+"見に来たんだろ？[Choice3 label1=\"18\" label2=\"27\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk12"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]私に答えられる事なら なんなりと[Choice4 label1=\"4\" label2=\"28\" label3=\"6\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk08"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]頼んだぞ\n"
+"チューリがそこで待ってるからな"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk19"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]ああ[PauseShort] 龍の見張りは終わりだ[PauseShort]\n"
+"特に危険はなさそうだったんでな\n"
+"こうして村に戻ってきたってワケさ[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]そうそう[PauseShort] 村に戻ってきてから龍について\n"
+"色々と調べてみたんだが…"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk13"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]何についてお話ししましょう？[Choice4 label1=\"16\" label2=\"7\" label3=\"8\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk09"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"][Color name=\"blue\"]族長[Color name=\"unset\"]か？[PauseShort] [Color name=\"blue\"]族長[Color name=\"unset\"]なら [Color name=\"blue\"]リトの村[Color name=\"unset\"]の自宅だろう\n"
+"いつものように 揺り椅子に揺られているはずだ\n"
+"そういや[PauseShort] 族長からチューリに [Color name=\"blue\"]リーバル様[Color name=\"unset\"]の話を\n"
+"してもらおうと思っていたのを 忘れていたな\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]だが[PauseShort] 今はチューリの訓練が先決か"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 何かございますかな？[Choice4 label1=\"4\" label2=\"28\" label3=\"6\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"red\"]炎をまといし龍[Color name=\"unset\"]ですか…[PauseMid][PageBreak]実はこのところ [Color name=\"red\"]ククジャ谷[Color name=\"unset\"]の付近で\n"
+"頻繁に目撃されているのですが…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]何やら普段とは 様子が異なるらしく\n"
+"村に危害が及ばぬか 不安を抱えておりました\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]今[PauseShort] 調査のために 村の門番の[Color name=\"blue\"]ナズリー[Color name=\"unset\"]を\n"
+"見張りに行かせているところです"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 何かございますかな？[Choice3 label1=\"4\" label2=\"28\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk17"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"4\"]ホッホゥ…[PauseShort] [Color name=\"blue\"]リーバル様の日記[Color name=\"unset\"]は\n"
+"彼が愛した[Color name=\"blue\"]飛行訓練場[Color name=\"unset\"]で見つかったそうです\n"
+"[Color name=\"blue\"]テバ[Color name=\"unset\"]が持ち帰り\n"
+"[Color name=\"blue\"]自宅[Color name=\"unset\"]に保管しているはずですよ"
+
+#, ruby
+msgid "Npc_HighMountain004_Talk19"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"20\"]あ いえ…[PauseMid] 何でもありません[PauseShort]\n"
+"失礼しました\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ところで[PauseShort] 私に何かご用でしたか？[Choice3 label1=\"4\" label2=\"28\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0020"
+msgstr "さようなら"
+
+#, ruby
+msgid "0021"
+msgstr "詳しく聞かせて"
+
+#, ruby
+msgid "0022"
+msgstr "また今度"
+
+msgid "0023"
+msgstr "オルドラのこと"
+
+msgid "0024"
+msgstr "フロドラのこと"
+
+#, ruby
+msgid "0000"
+msgstr "ここで何しているの？"
+
+msgid "0025"
+msgstr "ネルドラのこと"
+
+msgid "0001"
+msgstr "さようなら"
+
+#, ruby
+msgid "0026"
+msgstr "他のこと"
+
+#, ruby
+msgid "0027"
+msgstr "龍のこと"
+
+#, ruby
+msgid "0028"
+msgstr "炎をまといし龍って？"
+
+#, ruby
+msgid "0004"
+msgstr "リーバルのこと教えて"
+
+#, ruby
+msgid "0029"
+msgstr "日記？"
+
+msgid "0005"
+msgstr "さようなら"
+
+#, ruby
+msgid "0006"
+msgstr "他のことが聞きたい"
+
+#, ruby
+msgid "0007"
+msgstr "退魔の剣って？"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk20"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]お[PauseShort] アンタも龍について\n"
+"興味が湧いてきたかい？[Choice4 label1=\"23\" label2=\"24\" label3=\"25\" label4=\"26\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "0008"
+msgstr "オオワシの弓って？"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk10"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]さて…[PauseShort] チューリに おまえの弓捌きを\n"
+"見せてやってくれないか？[Choice3 label1=\"15\" label2=\"17\" label3=\"14\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk21"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"blue\"]オルドラ[Color name=\"unset\"]っつーのは 俺が[Color name=\"blue\"]ククジャ谷[Color name=\"unset\"]まで\n"
+"見張りに行ってた龍のことだな\n"
+"[Color name=\"blue\"]オルディン山脈[Color name=\"unset\"]の付近でも\n"
+"目撃されているらしいぜ\n"
+"特に [Color name=\"blue\"]オルディンの大化石[Color name=\"unset\"]っつー 巨大な化石の\n"
+"上から眺めるのが 通の楽しみ方なんだとよ\n"
+"[Sound1 unk1=\"1\" unk2=\"9\"]ホントかどうかは 分からねぇがな"
+
+msgid "0009"
+msgstr "メドーって？"
+
+#, ruby
+msgid "Npc_HighMountain011_Talk22"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"blue\"]フロドラ[Color name=\"unset\"]は [Color name=\"blue\"]ハイリア湖[Color name=\"unset\"]や[Color name=\"blue\"]フロリア湖[Color name=\"unset\"]で\n"
+"目撃されているらしいぜ\n"
+"特に[Color name=\"blue\"]ハイリア大橋[Color name=\"unset\"]のド真ん中[PauseMid]\n"
+"噴水のある辺りからの眺めが絶景なんだとさ\n"
+"[Sound1 unk1=\"6\" unk2=\"0\"]一度 見に行ってみたいもんだね"
+
+#, ruby
+msgid "Npc_ValleyVillage010_Talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]ん？[PauseMid] どうした…？[PauseMid]\n"
+"何か言いたそうだが[Choice3 label1=\"10\" label2=\"30\" label3=\"11\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "QwAAAAHKDQAAAAAAAGkAAAAEAAAArAEAAK4BAACwAQAA2AEAAAACAAAoAgAAUAIAAHgCAACgAgAAyAIAAPACAAAYAwAAQAMAAGgDAACQAwAAuAMAAOADAAAIBAAAMAQAAFgEAACABAAAggQAAIQEAACGBAAAiAQAAIoEAACMBAAAjgQAAJAEAACSBAAAlAQAALwEAADkBAAADAUAADQFAABcBQAAhAUAAKwFAADUBQAA/AUAACQGAABMBgAAdAYAAJwGAADEBgAA7AYAABQHAAA8BwAAPgcAAEAHAABCBwAARAcAAEYHAABIBwAASgcAAEwHAABOBwAAdgcAAJ4HAADGBwAA7gcAABYIAAA+CAAAZggAAI4IAAC2CAAA3ggAAAYJAAAuCQAAVgkAAH4JAACmCQAAzgkAAPYJAAAeCgAARgoAAEgKAABKCgAATAoAAE4KAABQCgAAegoAAKQKAADOCgAA+AoAACILAABMCwAAdgsAAKALAADKCwAA9AsAAPYLAAD4CwAA+gsAAPwLAAAmDAAAUAwAAHoMAACkDAAAzgwAAPgMAAAiDQAATA0AAHYNAACgDQAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMQAxAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADEAMQAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAxADEAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADAANAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAwADQAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMAA0AAAAAAAAAAAAAAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAAAAAAAAAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAATgBwAGMAXwBWAGEAbABsAGUAeQBWAGkAbABsAGEAZwBlADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

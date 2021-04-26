@@ -1,0 +1,241 @@
+msgid "talk02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]'n Abend, Freund!"
+
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Könntest du bitte davon absehen, da\n"
+"hochzusteigen?"
+
+msgid "Com_Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Aber gerne doch! Insgesamt kämen wir\n"
+"dann auf [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"Rubin\" plural=\"Rubine\" plural2=\"Rubin\"][Color name=\"unset\"]. Was sagst du\n"
+"dazu?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hi!"
+
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Ich bitte dich...[PauseShort]\n"
+"Komm einfach runter."
+
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]Was möchtest du verkaufen?"
+
+msgid "Com_Talk_15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]So etwas kann ich leider nicht kaufen."
+
+msgid "talk04"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Kann ich dir helfen, Freund?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Sag mal...[PauseShort]\n"
+"Hast du keine Erziehung genossen?"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][C9:03][C9:02][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]?\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"Rubin\" plural=\"Rubine\" plural2=\"Rubin\"] [Color name=\"unset\"]gebe ich dir dafür.\n"
+"Sind wir im Geschäft?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]Ich kann dir doch nicht die Kleider vom\n"
+"Leib kaufen. Erst ausziehen, bitte!"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"21\"]Oh! [PauseShort]Endlich mal wieder ein Kunde!\n"
+"Kaum zu glauben!"
+
+msgid "Com_Talk_02"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Besten Dank, Freund!"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Ich hoffe, du kommst bald wieder,\n"
+"Freund!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"3\" unk2=\"0\"]Das ist schlecht."
+
+msgid "Com_Talk_05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Möchtest du noch etwas verkaufen?"
+
+msgid "5500"
+msgstr "Einverstanden!"
+
+msgid "5501"
+msgstr "Lieber nicht."
+
+msgid "5503"
+msgstr "Hab's mir überlegt..."
+
+msgid "5508"
+msgstr "Alles!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Alles ausverkauft!"
+
+msgid "Com_Talk_11c"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Ich sehe zu, dass ich mein Lager wieder\n"
+"auffülle."
+
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Verkauf mir doch noch was!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Lecker!"
+
+msgid "Com_Talk_05c"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Lass mal sehen, was du verkaufen willst!"
+
+msgid "Attention00"
+msgstr "Kletter da nicht rauf..."
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ich kaufe fast alles, was du mir anbietest!"
+
+msgid "Attention01"
+msgstr "Bleib unten..."
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"][C9:03][C9:02][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]\n"
+"für nur [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"Rubin\" plural=\"Rubine\" plural2=\"Rubin\"][Color name=\"unset\"]!\n"
+"Da kannst du nicht Nein sagen, oder?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Attention02"
+msgstr "W-wa..."
+
+msgid "Attention03"
+msgstr "He! Nicht da rumklettern!"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]Gut, also, wenn du mir [02:0F name=\"Shop_TradeItemNum\"] gibst, dann\n"
+"geb ich dir... [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"Rubin\" plural=\"Rubine\" plural2=\"Rubin\"][Color name=\"unset\"]. Ja?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_53"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Das ist schlecht."
+
+msgid "0000"
+msgstr "Ich möchte kaufen."
+
+msgid "0001"
+msgstr "Ich möchte verkaufen."
+
+msgid "0002"
+msgstr "Was ist das hier?"
+
+msgid "0003"
+msgstr "Wiedersehen."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]Wenn du etwas von mir willst,\n"
+"dann komm erst da runter..."
+
+msgid "Com_Talk_02b"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Danke!"
+
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Hier in Goronia ist es einfach zu heiß.[PauseShort]\n"
+"Man braucht die Sachen bloß auf den\n"
+"Boden zu legen, um sie zu braten!\n"
+"[Sound1 unk1=\"9\" unk2=\"0\"]Als die Leute das herausgefunden haben,[PauseShort]\n"
+"kam niemand mehr zu uns.[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Also kauf wenigstens du schön viel!"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Alles klaaar!"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Mehr nicht?[PauseShort] Gut, dann gibt das\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"][Color name=\"unset\"] auf die Hand![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Hier brutzeln die Sachen schon, wenn\n"
+"man sie nur auf den Boden legt. Danke,\n"
+"dass du trotzdem lieber bei uns kaufst!\n"
+"[Sound1 unk1=\"1\" unk2=\"0\"]Es gibt nicht mehr viele, die eine gute\n"
+"Touristenabzo... äh, einen guten Grill\n"
+"zu schätzen wissen!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ein guter Handel, was?"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Gut![PauseShort]\n"
+"Ich erkläre es dir gerne so oft du willst."
+
+msgid "Com_Talk_35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Alle? Ganz ehrlich?[PauseShort] Na dann...[PauseShort]\n"
+"Ich geb dir [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" Rubin\" plural=\" Rubine\" plural2=\" Rubin\"] [Color name=\"unset\"]dafür![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"2\"]Willkommen bei [Color name=\"blue\"]Muskelfleisch[Color name=\"unset\"], dem\n"
+"Grill mit dem heißen Stein!"
+
+msgid "talk25"
+msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Sonst noch einen Wunsch?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]In letzter Zeit regnen gar keine[PauseShort]\n"
+"[Color name=\"blue\"]Lavabrocken[Color name=\"unset\"] mehr herunter...[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Die haben uns oft die Steaks zerhauen![PauseLong]\n"
+"Bin ich froh, dass das jetzt nicht mehr\n"
+"passiert!"
+
+msgid "near00"
+msgstr "Gegrilltes gefällig?"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Wie du siehst, verkaufen wir hier\n"
+"Gegrilltes![PageBreak]Eigentlich essen wir Goronen nur Steine,\n"
+"aber für Touristen brutzeln wir auch ein\n"
+"wenig."
+
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Nicht schon wieder![PauseShort]\n"
+"Nicht schon WIEDER!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Danke, Freund!"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Morgen, Freund!"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ja, iss nur fleißig, dann bekommst du\n"
+"bald auch so einen Luxuskörper wie\n"
+"wir Goronen!"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tag, Freund!"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]He-[PauseShort]he-[PauseShort]he-[PauseLong]heee!"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][C9:03][C9:02][Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]...[PauseLong]\n"
+"Wie viel von deinem Vorrat willst du\n"
+"denn loswerden?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "LwAAAAHKBAAAAAAAADoAAAAEAAAA8AAAAAoBAAAkAQAAPgEAAFgBAAByAQAAdAEAAHYBAAB4AQAAegEAAJQBAACuAQAAyAEAAOIBAAD8AQAAFgIAADACAABKAgAAZAIAAH4CAACYAgAAsgIAAMwCAADmAgAAAAMAABoDAAA0AwAATgMAAGgDAACCAwAAnAMAAJ4DAACgAwAAogMAAKQDAACmAwAAqAMAAKoDAACsAwAArgMAALADAACyAwAAzAMAAOYDAAAABAAAGgQAADoEAABaBAAAegQAAJoEAAC6BAAAvAQAAL4EAADABAAAwgQAAMQEAADGBAAAyAQAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMAA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAwADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADAANQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

@@ -1,0 +1,131 @@
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Moi ? Ben, j'suis un Goron ! Et mon p'tit\n"
+"nom, c'est Pelgo !"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Yunobo est rentré au [Color name=\"blue\"]village Goron[Color name=\"unset\"].\n"
+"\n"
+"\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]Il a changé... Il a l'air beaucoup plus sûr\n"
+"de lui. [PauseShort]Qu'est-ce qui s'est passé sur la\n"
+"[Color name=\"blue\"]montagne de la Mort[Color name=\"unset\"] ?"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]À la prochaine !"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tu sais que tu en as de la chance, toi ?\n"
+"C'est vraiment le meilleur moment pour\n"
+"venir visiter la région !\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Ouaip, depuis que [Color name=\"blue\"]Rudania[Color name=\"unset\"] s'est calmé,\n"
+"le coin est carrément tranquille ![PauseShort] Alors\n"
+"profite bien de ton passage chez nous !"
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]La [Color name=\"blue\"]montagne de la Mort[Color name=\"unset\"] est infestée de\n"
+"monstres depuis que ce [Color name=\"blue\"]lézard géant[Color name=\"unset\"] s'y\n"
+"est installé.\n"
+"Alors je surveille qu'ils se ramènent\n"
+"pas par ici."
+
+msgid "talk06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Bonjour ![PauseShort] Quelle belle matinée !"
+
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"0\"]Ah !!! Un Hylien ![PauseLong] Qu'est-ce que tu viens\n"
+"faire par ici ?\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Tout ce qu'il y a, par là-bas, c'est une\n"
+"mine abandonnée...[PauseLong] et des monstres !\n"
+"C'est bien trop dangereux !"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Bonjour ![PauseShort] Il fait beau !"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Bonsoir ![PauseShort] On voit drôlement bien la lune !"
+
+msgid "0000"
+msgstr "Je me suis perdu..."
+
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Yunobo est allé dans la [Color name=\"red\"]mine abandonnée\n"
+"du nord[Color name=\"unset\"]."
+
+msgid "0001"
+msgstr "Qui es-tu ?"
+
+msgid "talk21"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Yunobo est retourné chez le [Color name=\"red\"]boss[Color name=\"unset\"]."
+
+msgid "0002"
+msgstr "À plus !"
+
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Rudania[Color name=\"unset\"] est encore sorti de son trou...\n"
+"\n"
+"\n"
+"Alors, j'imagine qu'il va soigner les reins\n"
+"du [Color name=\"blue\"]boss[Color name=\"unset\"], [PauseShort]puis qu'ils iront repousser le\n"
+"lézard tous les deux, comme d'habitude !"
+
+msgid "0003"
+msgstr "Où est Yunobo ?"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]Yunobo est allé au [Color name=\"red\"]pont d'Ordinn[Color name=\"unset\"].\n"
+"\n"
+"\n"
+"Où ça se trouve ? C'est touuuuuuut\n"
+"au bout de ce chemin ![PauseLong] Au-delà des\n"
+"pentes rocailleuses et du [Color name=\"blue\"]pont Goron[Color name=\"unset\"]...\n"
+"C'est même encore beaucoup plus loin\n"
+"que les [Color name=\"blue\"]sources chaudes Gorons[Color name=\"unset\"] !"
+
+msgid "0004"
+msgstr "C'est le boss..."
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Qu'est-ce qu'il y a ?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Au fait, qu'est-ce que t'es venu\n"
+"faire ici ?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Ah ![PauseShort][PauseShort] Un Hylien !"
+
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Pourquoi un Hylien comme toi viendrait\n"
+"fourrer son nez dans les affaires de\n"
+"Yunobo ?[Choice1 label=\"4\"][PageBreak][Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"0\"]L-L-Le... [PauseLong]Le boss ?![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Si le boss le cherche... [PauseShort]je vais te dire\n"
+"où il est parti, et je vais même te le dire\n"
+"tout de suite !"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]Ça m'étonne pas vraiment. Quand\n"
+"on connaît pas, cet endroit peut\n"
+"ressembler à un vrai labyrinthe !\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]Le mieux à faire, dans ce genre de\n"
+"situation, c'est d'aller le plus haut\n"
+"possible et d'observer les environs."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux autre chose ?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAGoAAABsAAAAbgAAAHAAAAByAAAAjAAAAKYAAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

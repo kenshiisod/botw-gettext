@@ -1,0 +1,143 @@
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Allez, allez, achète! Allez, achète!\n"
+"Regarde un peu mes jolies banounettes!\n"
+"\n"
+"Laisse-toi séduire par leur belle peau\n"
+"d'un jaune éclatant qui dissimule une\n"
+"chair blanche comme neige.\n"
+"Et leur goût te transportera dans un\n"
+"monde de saveurs presque irréelles.\n"
+"Allez, allez, achète! Allez, achète![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Near00"
+msgstr "[Sound2 id=\"1\"]Allez, allez! Achète!"
+
+msgid "5507"
+msgstr "Je les achète toutes."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"17\"]Allons, ne dis pas une chose pareille,\n"
+"tu vas froisser mes banounettes.\n"
+"\n"
+"[Sound1 unk1=\"1\" unk2=\"1\"]Je suis le vendeur, tu es l'acheteur,\n"
+"alors ne discute pas et achète![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]Au plaisir de refaire des affaires avec toi,\n"
+"l'ami![PauseMid]... Non, en fait je t'ai banané!"
+
+msgid "Talk03"
+msgstr "[Sound1 unk1=\"8\" unk2=\"7\"]... Eh, l'ami! Serais-tu bananophobe?"
+
+msgid "Talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"3\"]Allez, allez, achète! Allez, achète!\n"
+"Tiens, comme on se retrouve, l'ami!\n"
+"\n"
+"Jette un œil à ces belles banounettes!\n"
+"Allez, allez, achète! Allez, achète![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_10"
+msgstr "Allez, achète ces jolies banounettes.[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr ""
+"[Sound2 id=\"9\"]Oui, oui, j'en ai vendu!\n"
+"J'en ai venduuu!"
+
+msgid "Com_Talk_12"
+msgstr "[Sound2 id=\"22\"]Ces banounettes sont ma fierté!"
+
+msgid "0000"
+msgstr "J'achète!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Merci, merci et encore merci!"
+
+msgid "Com_Talk_56"
+msgstr ""
+"Juste un lot? Ça fera [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"].\n"
+"Allez, achète![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0001"
+msgstr "J'en veux pas."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]Mes banounettes sont ravies!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Ouah! Tu es terrible, l'ami!"
+
+msgid "Com_Talk_06"
+msgstr ""
+"Mes banounettes sont délicieuses!\n"
+"Allez, achète, achète!"
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"7\"]Tu as acheté tout mon stock!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"[02:0F name=\"Shop_TradeItemNum\"] lots de banounettes, ça fera\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]. Allez, achète![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"4\"]Mais dis-moi, tu n'as pas assez de rubis.\n"
+"Il est hors de question que je vende mes\n"
+"banounettes au rabais."
+
+msgid "Com_Talk_31"
+msgstr "Dis-moi combien tu veux en acheter.[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"4\"]Oh, mais ta sacoche est pleine.\n"
+"Il n'y a pas de place pour mes jolies\n"
+"banounettes."
+
+msgid "Com_Talk_34"
+msgstr ""
+"Toutes mes banounettes? Toi, tu ne\n"
+"rigoles pas, hein! Voyons, ça nous fait\n"
+"[02:0F name=\"Shop_TradeItemNum\"] lots, pour un total de [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rubis[Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "Oui."
+
+msgid "Henshin00"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Prépare-toi à mourir![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"21\"]Eh bien, tu as l'air de beaucoup aimer\n"
+"les banounettes."
+
+msgid "5501"
+msgstr "Non."
+
+msgid "Henshin01"
+msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger les ba... le patron![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"7\"]Eh bien...[PauseMid] Grâce à toi, l'ami, je suis en\n"
+"rupture de stock de banounettes.\n"
+"\n"
+"Tu veux savoir quand je vais recevoir \n"
+"des banounettes?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5502"
+msgstr "J'achète!"
+
+msgid "5503"
+msgstr "J'ai changé d'avis."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "HwAAAAHCAQAAAAAAAB8AAAAEAAAAhAAAAKYAAACoAAAAqgAAAMwAAADuAAAAEAEAADIBAABUAQAAdgEAAJgBAACaAQAAnAEAAJ4BAACgAQAAogEAAKQBAACmAQAAqAEAAKoBAACsAQAArgEAALABAACyAQAAtAEAALYBAAC4AQAAugEAALwBAAC+AQAAwAEAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAAAAAAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAE4AcABjAF8AQQBzAHMAYQBzAHMAaQBuAF8AMAAwADUAAABOAHAAYwBfAEEAcwBzAGEAcwBzAGkAbgBfADAAMAA1AAAATgBwAGMAXwBBAHMAcwBhAHMAcwBpAG4AXwAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

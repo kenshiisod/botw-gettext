@@ -1,0 +1,351 @@
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"7\"][Size percent=\"125\"]ヒーヒー言わしたろか ボケェ[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Size percent=\"100\"]なーんてね うっふふ[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]すぐにお金が必要ってなら\n"
+"何か買い取ってあげましょうか？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Npc_SmallOasis008_006"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]あら アナタ…[PauseLong]\n"
+"また来ちゃったの？[PauseLong]"
+
+#, ruby
+msgid "Npc_SmallOasis008_007"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ふふ…[PauseLong]\n"
+"また来ると思ってたわ"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]どの品を買い取ってほしいの？"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]？\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]になるけど… いい？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"22\"]ふふ… アナタのお役にたてたかしら？"
+
+#, ruby
+msgid "0002"
+msgstr "着替え"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"21\"]ふふ… 悩む姿も可愛いわね"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]それにしても… その恰好…\n"
+"\n"
+"せっかくアナタを 女にしてあげたのに\n"
+"着替えちゃうなんて 悲しいわぁ～\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]私がもう一回\n"
+"お着替えさせて あげましょうか？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "0003"
+msgstr "服が欲しい"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]さあ どうする？\n"
+"他にもまだ何かあるかしら？"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]うん… アナタ…\n"
+"やっぱり すっごく可愛いわ～[PauseLong]"
+
+#, ruby
+msgid "0004"
+msgstr "淑女のマスク"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr ""
+"他にはもういいの？\n"
+"遠慮なく 私に言ってね"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]あら… 残念[PauseLong]\n"
+"\n"
+"あの服を着ているアナタ\n"
+"本当に かわいかったのに…\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ホント…[PauseLong]"
+
+#, ruby
+msgid "0005"
+msgstr "淑女の服"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr ""
+"売りたいものがあったら\n"
+"遠慮せず 何でも言ってね"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]それにしても アナタ…[PauseLong]\n"
+"やっぱり そのお洋服 良く似合ってるわ\n"
+"ふふ…[PauseLong]"
+
+#, ruby
+msgid "talk20"
+msgstr "[Sound1 unk1=\"7\" unk2=\"8\"]食べちゃいたいぐらい！"
+
+#, ruby
+msgid "0006"
+msgstr "淑女のパンツ"
+
+#, ruby
+msgid "Com_Talk_05d"
+msgstr ""
+"もう終わり？\n"
+"いくらでも買い取ってあげるわよ"
+
+#, ruby
+msgid "0007"
+msgstr "お願いします"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"8\"]…食べちゃいたいぐらいにね[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]ふふっ 冗談よ\n"
+"サヴォーク！"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]お着替えにする？\n"
+"それとも… お洋服にする？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0008"
+msgstr "けっこうです"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]んふ… ちょっと待ってね"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"7\"][Size percent=\"125\"]ええ加減にしとけや ゴラァ[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Size percent=\"100\"]なーんてね ウフフ"
+
+msgid "Near_00"
+msgstr "ちょっと 暑いわね…"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"6\"]あら… イケない子ね\n"
+"もうお着替えしてるじゃない？"
+
+msgid "0009"
+msgstr "やっぱりいらない"
+
+msgid "talk23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]フフ… もういいのかしら？\n"
+"\n"
+"スッキリできたなら\n"
+"また いらっしゃい"
+
+msgid "Near_01"
+msgstr "ちょっと 寒いわね…"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"13\"]なくしちゃうなんて悪い子ね\n"
+"どのお洋服がほしいの？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Near_02"
+msgstr "ここの眺めは最高ね…"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]お金がないのにお買い物なんて イケない子…\n"
+"親切なお姉さんをからかうなんて…[PauseLong]"
+
+#, ruby
+msgid "Near_03"
+msgstr "移動したわね…"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]淑女のマスク[Color name=\"unset\"]は\n"
+"[Color name=\"red\"]200ルピー[Color name=\"unset\"]だけどいいかしら？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Near_04"
+msgstr "もう動かないのかしら"
+
+#, ruby
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"22\"]ありがとう\n"
+"ゲルド語なら「サークサーク」ね"
+
+#, ruby
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"2\"]ありがとう\n"
+"いい買い物させてもらったわ"
+
+#, ruby
+msgid "0010"
+msgstr "お願いします"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"2\"]ふふっ…"
+
+msgid "0011"
+msgstr "けっこうです"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ね？\n"
+"いくつ？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]が[02:0F name=\"Shop_TradeItemNum\"]個ね[PauseShort]\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]でいいかしら？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]淑女の服[Color name=\"unset\"]は\n"
+"[Color name=\"red\"]200ルピー[Color name=\"unset\"]だけどいいかしら？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]それは私では 扱い切れないわ"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]淑女のパンツ[Color name=\"unset\"]は\n"
+"[Color name=\"red\"]200ルピー[Color name=\"unset\"]だけどいいかしら？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"7\"]それはダメ… 服は自分で脱ぐものよ\n"
+"それとも私に脱がして欲しいの？"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]をひとつだけね？[PauseShort]\n"
+"それなら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけどいい？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]ふふ… 大事にしてね\n"
+"\n"
+"まだ 欲しいの？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"6\"]あら… やめちゃうの？\n"
+"\n"
+"もう 欲しくないの？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\"]個全部ね？\n"
+"なら合わせて[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]でどうかしら？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]フフ… もういいのかしら？\n"
+"\n"
+"満足したなら\n"
+"またいらっしゃい"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]ふふ… \n"
+"恥じらう姿も可愛いわね\n"
+"私は いつでもここにいるから\n"
+"女になりたいなら いつでもいらっしゃい\n"
+"お着替えも 私が手伝って\n"
+"あ [PauseShort]げ [PauseShort]る[PauseShort] か[PauseShort] ら[PauseLong]"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]アナタ… [PauseLong]ポーチがパンパンではちきれそうよ[PauseShort]\n"
+"ふふ…[PauseShort] やっぱり男の子なのね\n"
+"スッキリさせたいなら[PauseShort]\n"
+"お姉さんがお手伝いするわよ？[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "Npc_SmallOasis008_001"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]私は この辺りで困っている商人でも見つけて\n"
+"商売しようと 思ってたんだけど…\n"
+"何故だか\n"
+"あの[Color name=\"blue\"]神獣[Color name=\"unset\"]から 目が離せなくてね…"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"13\"]あら… [PauseShort]もう終わりなんて[PauseShort]\n"
+"残念だわ"
+
+msgid "5501"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"8\"]食べちゃいたいぐらい…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]やだっ 冗談よ！\n"
+"\n"
+"[PauseShort]私は いつでもここにいるから\n"
+"お着替えしたいなら 遠慮なく声かけてね"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAF2BgAAAAAAAD8AAAAEAAAABAEAACgBAABMAQAAcAEAAJQBAAC4AQAA3AEAAAACAAAkAgAASAIAAEoCAABMAgAAcAIAAJQCAAC4AgAA3AIAAAADAAAkAwAASAMAAGwDAABuAwAAcAMAAJQDAAC4AwAA3AMAAAAEAAACBAAABAQAAAYEAAAIBAAACgQAAAwEAAAwBAAAVAQAAHgEAACcBAAAwAQAAOQEAAAIBQAALAUAAFAFAAB0BQAAmAUAAJoFAACcBQAAngUAAKAFAACiBQAAwgUAAOIFAAACBgAAIgYAAEIGAABEBgAARgYAAEgGAABKBgAATAYAAE4GAABuBgAAcAYAAHIGAAB0BgAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAA4AAAAAAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAOAAAAAAAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAABOAHAAYwBfAFMAbQBhAGwAbABPAGEAcwBpAHMAMAAwADgAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

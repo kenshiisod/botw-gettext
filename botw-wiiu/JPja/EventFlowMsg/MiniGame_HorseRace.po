@@ -1,0 +1,394 @@
+#, ruby
+msgid "talk40"
+msgstr ""
+"良い記録を出したら\n"
+"なにか賞品をあげるよ [PauseShort]"
+
+#, ruby
+msgid "talk29"
+msgstr "もっと速く…"
+
+#, ruby
+msgid "talk41"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]馬に乗って行う 障害物競争さ！[PauseShort]\n"
+"\n"
+"10個ある障害物を すべて飛び越えて[PauseShort]\n"
+"ゴールまで行く時間を競うんだ！\n"
+"この競技には 高い乗馬技術が必要でね[PauseShort]\n"
+"馬術の腕を磨くには ぴったりなのさ"
+
+#, ruby
+msgid "talk42"
+msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]さあ 競技の説明をするよ！"
+
+#, ruby
+msgid "talk43"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]競技の説明は必要かい？[Choice2 label1=\"8\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk44"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ さっそく始めようか！"
+
+#, ruby
+msgid "talk45"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]障害物は 正面からでないと飛びにくいのさ[PauseMid]\n"
+"馬の気持ちを考えることだね"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"21\"]まさか ぼくの記録が破られるなんて…[PauseMid]\n"
+"自信失うよ…\n"
+"約束通り ぼくの自慢の[Color name=\"red\"]馬装備[Color name=\"unset\"]をあげるよ"
+
+#, ruby
+msgid "talk46"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]速く走ればいいってもんじゃないのさ[PauseShort]\n"
+"状況に応じて 速度を加減しないとね"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"23\"]良い記録だね！[PauseMid]\n"
+"だいぶ 腕を上げたじゃないか！\n"
+"これは 約束の[Color name=\"red\"]馬装備[Color name=\"unset\"]だ！[PauseShort]\n"
+"ぼくの記録を目指して 頑張ってくれよ！"
+
+#, ruby
+msgid "talk47"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]障害物の前で 急に拍車をかけても\n"
+"馬は反応できないよ！"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"9\"]馬術の腕を磨いて[PauseShort]\n"
+"また 挑戦しにきなよ"
+
+#, ruby
+msgid "talk48"
+msgstr ""
+"障害物は[Color name=\"red\"]10個[Color name=\"unset\"]ある[PauseShort]\n"
+"すべて飛び越えなければ ゴールはできない"
+
+#, ruby
+msgid "talk13"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]ルピーが足りないようだね…[PauseMid]\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]用意して また来なよ！"
+
+#, ruby
+msgid "talk49"
+msgstr ""
+"飛び越えたら ここに戻ってこい[PauseShort]\n"
+"そうしたら ゴールだ！"
+
+#, ruby
+msgid "talk14"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]もう一回やるかい？[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]挑戦したかったら\n"
+"まずは馬に乗ってこないとね！\n"
+"準備が整ったら \n"
+"馬に乗って 話しかけてくれよ！"
+
+#, ruby
+msgid "talk16"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]キミが乗っている その馬[PauseShort]\n"
+"まだ[Color name=\"red\"]登録[Color name=\"unset\"]が済んでいないようだね\n"
+"挑戦するのは\n"
+"この馬宿で [Color name=\"red\"]登録[Color name=\"unset\"]を済ませてからにしなよ！"
+
+#, ruby
+msgid "talk17"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]参加費は返せないけど…[PauseMid]\n"
+"いいのかい？[Choice2 label1=\"5\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk18"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]なら早く行きなよ！[PauseShort]\n"
+"そんな余裕ないだろう！"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]ならば仕方ない[PauseShort]\n"
+"また挑戦しに来いよ！"
+
+#, ruby
+msgid "talk30"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]悪いな 今日は もう寝るんだ[PauseShort]\n"
+"用があるなら また明日にしてくれるか"
+
+#, ruby
+msgid "talk31"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]馬から降りたら 失格さ[PauseShort]\n"
+"これは当然だね"
+
+#, ruby
+msgid "0000"
+msgstr "挑戦する"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"13\"]あいかわらず速いね…[PauseMid]\n"
+"自信失うよ…\n"
+"[Color name=\"red\"]ゴージャスなくら[Color name=\"unset\"]は 君にあげてしまったから\n"
+"代わりに これをあげるよ"
+
+#, ruby
+msgid "0001"
+msgstr "説明してほしい"
+
+#, ruby
+msgid "talk33"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"23\"]良い記録だね！[PauseMid]\n"
+"だいぶ 腕を上げたじゃないか！\n"
+"[Color name=\"red\"]ゴージャスな手綱[Color name=\"unset\"]は 君にあげてしまったから\n"
+"代わりに これをあげるよ"
+
+msgid "0002"
+msgstr "やめておく"
+
+#, ruby
+msgid "talk34"
+msgstr ""
+"良い記録を出したら\n"
+"ぼくの自慢の[Color name=\"red\"]馬装備[Color name=\"unset\"]をあげるよ[PauseShort]"
+
+#, ruby
+msgid "0003"
+msgstr "払います"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]やあ 旅の人かな[PauseShort]\n"
+"この草原には 馬がたくさんいるだろう\n"
+"ぼくは ここで 馬とともに 生まれ育ったんだ[PauseShort]\n"
+"だから 馬術には 自信がある…[PauseMid]\n"
+"馬術の腕を競うのに ぴったりな競技があってね[PauseShort]\n"
+"その競技で ぼくに勝てる人は そうはいないよ[PauseMid]\n"
+"どうだい\n"
+"ぼくの記録に挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"9\"]なかなか速いじゃないか[PauseMid]\n"
+"まだまだ ぼくの記録には 届かないけどね！\n"
+"これ 賞品だよ！\n"
+"また挑戦してくれ！"
+
+msgid "0004"
+msgstr "やめておく"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]どうだい もう一度\n"
+"ぼくの記録に 挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk36"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"0\"]悔しいな…[PauseMid]\n"
+"キミの記録[PauseShort] いつか抜き返してみせるよ"
+
+msgid "0005"
+msgstr "やめたい"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]じゃあ 参加料をいただくよ[PauseShort]\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]だ！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk37"
+msgstr ""
+"[Sound2 id=\"7\"]ぼくの記録は[Color name=\"red\"]1分15秒[Color name=\"unset\"]\n"
+"勝てるかな？"
+
+msgid "0006"
+msgstr "なんでもない"
+
+#, ruby
+msgid "talk38"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_HorseRace_ResultMinute\"]分[02:0E name=\"MiniGame_HorseRace_ResultSecond\"]秒[02:01 name=\"ScoreStringBuffer\"][Color name=\"unset\"]か…[PauseMid]"
+
+msgid "0007"
+msgstr "やっぱりやる"
+
+#, ruby
+msgid "talk04"
+msgstr "[Sound1 unk1=\"6\" unk2=\"9\"]さあ 頑張ってくれよ！"
+
+#, ruby
+msgid "talk50"
+msgstr ""
+"競技中に どこへ行くんだ！[PauseShort]\n"
+"戻ってこい！"
+
+#, ruby
+msgid "0008"
+msgstr "必要ない"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]そうか 残念だね[PauseShort]\n"
+"気が向いたら いつでも来なよ！"
+
+#, ruby
+msgid "talk51"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ならば仕方ない"
+
+#, ruby
+msgid "Near00"
+msgstr "もっと速く…"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]この草原を ぐるっと一周[PauseShort]\n"
+"障害物を飛び越えながら 馬で走るんだ！"
+
+#, ruby
+msgid "talk52"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]また挑戦しに来いよ！"
+
+msgid "Near01"
+msgstr "ぐーぐー"
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"7\"]どうしたんだい？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk53"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]キミが乗っているのは 馬ではないね[PauseShort]\n"
+"挑戦したかったら 馬に乗ってきなよ"
+
+#, ruby
+msgid "Near02"
+msgstr "もう寝るか"
+
+#, ruby
+msgid "talk54"
+msgstr "まずは [Color name=\"red\"]1分30秒[Color name=\"unset\"]を目指すといいよ"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"13\"]まだまだだね[PauseMid]\n"
+"もっと 馬術の腕を 磨くといいよ！"
+
+msgid "Near03"
+msgstr "雨はいやだな"
+
+#, ruby
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"9\"]なかなか速いじゃないか[PauseMid]\n"
+"まだまだ ぼくの記録には 届かないけどね！\n"
+"これ 頑張った相棒に\n"
+"食べさせてあげなよ！"
+
+#, ruby
+msgid "talk55"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"13\"]あいかわらず速いね…[PauseMid]\n"
+"自信失うよ…\n"
+"約束通り ぼくの自慢の[Color name=\"red\"]馬装備[Color name=\"unset\"]をあげるよ"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]どうだい？[PauseShort]\n"
+"挑戦してみるかい？[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk56"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]この競技の難しいところはね[PauseShort]\n"
+"速く走るだけじゃダメなところなのさ\n"
+"障害物を飛ぶには ゆっくり走って\n"
+"馬を正確にコントロールすることが重要なんだ"
+
+#, ruby
+msgid "talk21"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]ふふ またきたね[PauseShort]\n"
+"ぼくの記録に挑戦してみる気になったかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk57"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]これは なかなか難しい競技だろう？[PauseShort]\n"
+"良い記録を出すには 速く走るだけじゃダメさ\n"
+"障害物を飛ぶには ゆっくり走って\n"
+"馬を正確にコントロールすることが重要なんだ"
+
+msgid "talk22"
+msgstr "よし ゴールしたな！[PauseShort]"
+
+#, ruby
+msgid "talk23"
+msgstr ""
+"馬から降りたら 失格だ！[PauseShort]\n"
+"戻ってくるんだ！"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"13\"]どうした そんなことじゃ\n"
+"ぼくの記録には 到底及ばないよ"
+
+#, ruby
+msgid "talk25"
+msgstr ""
+"ちょっと時間が かかりすぎだな！[PauseShort]\n"
+"戻ってくるんだ！"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]雨の日に走っても\n"
+"気持ちよくないだろ！\n"
+"記録に挑戦したかったら\n"
+"雨が止んでから 来いよ！"
+
+#, ruby
+msgid "talk27"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]雨の日は 馬に乗っても 気持ちよく走れない[PauseShort]\n"
+"はやく 止んでくれないかな…"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]悪いな[PauseShort]\n"
+"今日は もう寝るんだ\n"
+"夜は 視界も悪いし 良い記録は出ない[PauseShort]\n"
+"記録に挑戦したかったら また明日来いよ"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAGeCQAAAAAAAEUAAAAEAAAAHAEAAEABAABkAQAAiAEAAKwBAADQAQAA9AEAABgCAAA8AgAAYAIAAIQCAACoAgAAzAIAAPACAAAUAwAAOAMAAFwDAACAAwAApAMAAMgDAADsAwAAEAQAADQEAABYBAAAfAQAAKAEAADEBAAA6AQAAAwFAAAwBQAAVAUAAHgFAACcBQAAwAUAAOQFAAAIBgAALAYAAFAGAAB0BgAAmAYAALwGAADgBgAABAcAACgHAABMBwAAcAcAAJQHAAC4BwAA3AcAAAAIAAAkCAAASAgAAGwIAACQCAAAtAgAANgIAAD8CAAAIAkAAEQJAABoCQAAjAkAAI4JAACQCQAAkgkAAJQJAACWCQAAmAkAAJoJAACcCQAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAATgBwAGMAXwBGAGEAcgBvAG4AVwBvAG8AZABzADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

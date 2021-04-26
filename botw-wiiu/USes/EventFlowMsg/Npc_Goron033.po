@@ -1,0 +1,108 @@
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]Vamos a hacer un trato: te vendo\n"
+"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"] por [Color name=\"red\"]60 rupias[Color name=\"unset\"],\n"
+"¿trato hecho?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk15"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Mira, ¡el hyliano otra vez![PageBreak]Tal vez [Color name=\"blue\"]Rudania[Color name=\"unset\"] se habrá calmado,[PauseShort]\n"
+"¡pero no se puede decir lo mismo\n"
+"de las temperaturas!\n"
+"Cuando ya no puedas soportar el calor,\n"
+"échate un poco de [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"] y ya\n"
+"verás, ¡como nuevo![PauseLong] ¿Te vendo un poco?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "near00"
+msgstr "Fiuuu..."
+
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]¿Quééé?[PauseShort] ¡Te faltan rupias![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Supongo que [PauseShort]no en todas partes hay\n"
+"tanta prosperidad como en esta ciudad..."
+
+msgid "near01"
+msgstr "Zzz... zzz..."
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"0\"]¡Me encanta vender cosas![PauseShort]\n"
+"Aquí tienes."
+
+msgid "near02"
+msgstr "Qué sueñooo..."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]A un [Color name=\"blue\"]hyliano[Color name=\"unset\"] como tú le harán falta\n"
+"uno que otro más.[PauseShort] ¡Hazme caso![PageBreak]Vamos, solo [Color name=\"red\"]60 rupias[Color name=\"unset\"] por otro.\n"
+"¿Qué me dices?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ahí va...[PauseShort] ¡Tu alforja está llena![PauseLong]\n"
+"Así no se puede hacer un trato.\n"
+"Haz un poco de espacio, anda."
+
+msgid "talk07"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Oye, tú! ¡Cómprame algo![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"16\"]Tengo algo ideal para un [Color name=\"blue\"]hyliano[Color name=\"unset\"]\n"
+"como tú...[PauseLong] ¡un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"]!\n"
+"¿Te interesa?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]No me vengas a llorar si luego\n"
+"comienzas a echar humo, ¿eh?"
+
+msgid "0000"
+msgstr "¿Qué?"
+
+msgid "0001"
+msgstr "No, gracias"
+
+msgid "0002"
+msgstr "Quizás"
+
+msgid "0003"
+msgstr "¡Compro!"
+
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Tienes cara de necesitar\n"
+"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"], ¿verdad?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "0004"
+msgstr "Mejor no"
+
+msgid "talk11"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"][Size percent=\"80\"]Dududú...[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¡Cenizas![PauseShort] ¡Un cliente!"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]¿Entonces para qué me molestas?\n"
+"[PauseShort]¿No sabes que el tiempo es goro?"
+
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"80\"][Color name=\"Gray\"]Si se cocina algún [Color name=\"blue\"][C9:00 bytes=\"01000000\"]lagarto humero[Color name=\"Gray\"] con\n"
+"[Color name=\"blue\"]ingredientes monstruosos[Color name=\"Gray\"], pasará algo\n"
+"muy interesante...[Color name=\"unset\"][Size percent=\"100\"]"
+
+msgid "talk13"
+msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]¡Hasta la vista!"
+
+msgid "talk01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"Gray\"][Size percent=\"80\"]Todo salió mejor de lo que esperaba.[Size percent=\"100\"][Color name=\"unset\"][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Nada, nada... No decía nada."
+
+msgid "talk14"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ahí tienes."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAIIAAACcAAAAtgAAALgAAAC6AAAAvAAAAL4AAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

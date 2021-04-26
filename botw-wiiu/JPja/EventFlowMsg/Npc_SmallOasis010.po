@@ -1,0 +1,286 @@
+#, ruby
+msgid "Talk_17"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]ゲルド族の衣装を好んで着るなんざ\n"
+"アンタも 変わった趣味だねぇ\n"
+"それで まだアタシに何か用かい？[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5503"
+msgstr "やっぱりやめる"
+
+#, ruby
+msgid "Talk_19"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]ん…？[PauseLong]\n"
+"\n"
+"なんだい なんだい？\n"
+"いかにも「用がある」って顔して[Choice3 label1=\"3\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "5507"
+msgstr "ぜんぶ買う"
+
+#, ruby
+msgid "Com_Talk_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]さっさと選んでくれるかい？"
+
+#, ruby
+msgid "5508"
+msgstr "ぜんぶ売る"
+
+msgid "Com_Talk_01"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]なら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]\n"
+"それでいいかい？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"11\"]はいよ サークサーク[PauseLong]"
+
+msgid "0001"
+msgstr "買い取って！"
+
+msgid "0002"
+msgstr "さようなら"
+
+#, ruby
+msgid "Com_Talk_04"
+msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ここで悩むんじゃないよ…"
+
+#, ruby
+msgid "0003"
+msgstr "怪しい商人知らない？"
+
+#, ruby
+msgid "Com_Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]サクッと済ませてくれたら\n"
+"助かるんだけどねぇ…"
+
+#, ruby
+msgid "Com_Talk_05b"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]まさか まだ何かあるのかい？"
+
+#, ruby
+msgid "Com_Talk_05c"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]他にもあるなら\n"
+"ちゃちゃっと頼むよ"
+
+#, ruby
+msgid "Talk_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"][Size percent=\"80\"]…ったく 年寄りに\n"
+"こんな過酷な労働させるんじゃないよ[Size percent=\"100\"]"
+
+msgid "Com_Talk_05d"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]もう いいんじゃないかい？"
+
+#, ruby
+msgid "Talk_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]……買うなら一度に全部[PauseShort]\n"
+"買ってほしいもんだがねぇ[PauseLong]"
+
+#, ruby
+msgid "Talk_20"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]怪しい商人ね…[PauseLong]\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]アタシらからみたら\n"
+"ゲルド族以外の商人はみんな怪しいってもんさ…\n"
+"だけど…\n"
+"そうだね…\n"
+"最近うろついてる ゲルドの装束を着た\n"
+"ヴァーイの商人…\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]アレは なんか裏がある気がするよ\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]よろず屋[Color name=\"unset\"]に\n"
+"よく出入りしてるみたいだけどね…\n"
+"だけど アタシの知ったこっちゃないよ\n"
+"\n"
+"怪しいもんとは\n"
+"関わり合いは持ちたくないんでね"
+
+#, ruby
+msgid "Talk_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"blue\"]ひんやり料理[Color name=\"unset\"]なしで砂漠を渡るのは\n"
+"命を捨てるようなもんだよ…\n"
+"にしてもなんで みんな\n"
+"あんな暑い所に行きたがるのかねぇ…"
+
+#, ruby
+msgid "Talk_21"
+msgstr ""
+"[Sound1 unk1=\"2\" unk2=\"4\"]なんだい… [PauseLong]用がないなら\n"
+"「用がある」って顔するんじゃないよ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]まぁ…\n"
+"厄介事を持ち込まれても困るけどねぇ "
+
+msgid "Talk_05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"16\"]はぁ…[PauseLong]\n"
+"なんでわざわざ ウチでやるかねぇ…[PauseLong]"
+
+msgid "Talk_06"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]サークサーク…"
+
+#, ruby
+msgid "Talk_07"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]はぁ… また仕入れとかないとねぇ…"
+
+#, ruby
+msgid "Near001"
+msgstr "面倒だねぇ…"
+
+#, ruby
+msgid "Talk_09"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]終わったかい？\n"
+"\n"
+"今度からは\n"
+"ヨソでやってほしいもんだねぇ…"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"11\"]…サークサーク"
+
+#, ruby
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"0\"]確かに金は払ったよ"
+
+#, ruby
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"0\"]はいよ これでもう満足だろ？"
+
+msgid "Com_Talk_13"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]？\n"
+"いいけど いくつだい？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_14"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\"]個…\n"
+"まぁ[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]ってとこで どうだい？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_15"
+msgstr ""
+"[Sound2 id=\"14\"]そんな面倒そうなモンは\n"
+"ごめんだよ "
+
+#, ruby
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"0\"]面倒がるんじゃないよ…\n"
+"着てる服を売るなんて非常識だろ！"
+
+msgid "Com_Talk_33"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]が1つぽっちか…[PauseShort]\n"
+"それなら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だよ[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_50"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]なら\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だよ[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"][Size percent=\"80\"]…ったく こんな夜遅くまで\n"
+"婆さんを働かせるんじゃないよ[Size percent=\"100\"]"
+
+#, ruby
+msgid "Com_Talk_51"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]だね？\n"
+"で… いくつ欲しいんだい？[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "Com_Talk_34"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を 全部 買うのかい？[PauseShort]\n"
+"それなら[02:0F name=\"Shop_TradeItemNum\"]個で[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]になるよ？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Talk_11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…ん？\n"
+"\n"
+"ああ [PauseShort][Sound2 id=\"28\"]ヴァーサーク…\n"
+"\n"
+"[Color name=\"blue\"]ヒンヤリメロン[Color name=\"unset\"]の品数なら\n"
+"[Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]にだって負けやしないよ\n"
+"どうせなら 沢山買っていっとくれ[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_52"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]が[02:0F name=\"Shop_TradeItemNum\"]個だね…\n"
+"だったら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だよ[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_35"
+msgstr ""
+"[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を[02:0F name=\"Shop_TradeItemNum\"]個 全部かい？\n"
+"それなら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]でどうだい？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_53"
+msgstr "[Sound2 id=\"12\"]冷やかしなら 帰っとくれ"
+
+#, ruby
+msgid "Com_Talk_54"
+msgstr "[Sound2 id=\"12\"]稼いでから 出直してきな…"
+
+#, ruby
+msgid "Talk_13"
+msgstr "どこに足乗せてんだい"
+
+#, ruby
+msgid "Talk_14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]ああ アンタかい？\n"
+"ヴァーサーク…\n"
+"今はもう売れるもんは残っちゃいないよ\n"
+"\n"
+"[Color name=\"blue\"]ヒンヤリメロン[Color name=\"unset\"]が欲しいなら\n"
+"[Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]に行くか\n"
+"その辺に生えてるのを探すんだね[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound2 id=\"10\"]ポーチがいっぱいじゃないか…[PauseLong]\n"
+"面倒だねぇ… 出直してきな…"
+
+msgid "5500"
+msgstr "はい"
+
+#, ruby
+msgid "Talk_15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]なんだい…\n"
+"まだアタシに何か用かい？[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_56"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]が1つぽっちか…[PauseShort]\n"
+"それなら[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だよ[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "いいえ"
+
+#, ruby
+msgid "Talk_16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]……いっそ買い占めてくれたらねぇ[PauseLong]"
+
+msgid "5502"
+msgstr "買う"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "KQAAAAGUBAAAAAAAADQAAAAEAAAA2AAAAPwAAAAgAQAARAEAAGgBAACMAQAAsAEAANQBAAD4AQAAHAIAAEACAABkAgAAiAIAAKwCAADQAgAA9AIAABgDAAAaAwAAHAMAAB4DAABCAwAARAMAAEYDAABIAwAASgMAAEwDAABsAwAAjAMAAKwDAADMAwAA7AMAAO4DAADwAwAA8gMAAPQDAAD2AwAA+AMAABgEAAAaBAAAHAQAAB4EAAAgBAAAIgQAACQEAABEBAAAZAQAAGYEAABoBAAAagQAAGwEAABuBAAAcAQAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAAAAAAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADEAMAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMQAwAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

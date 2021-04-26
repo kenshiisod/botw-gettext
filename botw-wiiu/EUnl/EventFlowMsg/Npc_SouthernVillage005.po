@@ -1,0 +1,210 @@
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Heb je iets nodig voor het\n"
+"avondeten?"
+
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Heb je zin in een\n"
+"nachtelijke snack?"
+
+msgid "Com_Talk_10"
+msgstr "Is dat wat je wilt?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]Sorry, maar ik heb vandaag niets meer\n"
+"te verkopen. Maar ik kan wel nog steeds\n"
+"spullen van jou kopen. Geïnteresseerd?[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Dank je!"
+
+msgid "Com_Talk_13"
+msgstr "Hoeveel wil je ervan verkopen?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_14"
+msgstr ""
+"Je wilt er [02:0F name=\"Shop_TradeItemNum\"] kwijt? Dat is dan in totaal\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"]. Oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Dat kan ik helaas niet van je kopen..."
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]Ik kan iets dat je draagt, niet kopen![PauseShort] Doe\n"
+"het eerst uit en verkoop het me dan!"
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"7\"]Bedankt!"
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"9\"]Bedankt voor je hulp!"
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Heel erg bedankt!"
+
+msgid "0000"
+msgstr "Kopen."
+
+msgid "0001"
+msgstr "Verkopen."
+
+msgid "0002"
+msgstr "Stoppen."
+
+msgid "Com_Talk_33"
+msgstr ""
+"Eentje maar?[PauseShort] Daar geef ik je\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"] voor.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Jij bent nieuw hier!"
+
+msgid "Com_Talk_05b"
+msgstr "Ik koop alles van je!"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Je wilt ze allemaal? Het zijn er [02:0F name=\"Shop_TradeItemNum\"], dus\n"
+"dat kost je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Wat zeg je\n"
+"ervan?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Tot de volgende keer! Je weet me\n"
+"te vinden!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"4\"]Wat wil je verkopen?"
+
+msgid "Com_Talk_05c"
+msgstr "Aarzel niet om me spullen te verkopen!"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Je wilt ze allemaal aan me verkopen? Het\n"
+"zijn er [02:0F name=\"Shop_TradeItemNum\"], dus ik kan je er\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] voor geven.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk02"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Bedankt!"
+
+msgid "Com_Talk_01"
+msgstr "Wat denk je van [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Ik koop alles wat je maar kwijt wilt!"
+
+msgid "talk03"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ik heb verse vis![PauseShort] Kijk maar even rond![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02"
+msgstr ""
+"[Sound2 id=\"9\"]Dank je![PauseShort] Heb je verder nog iets te\n"
+"verkopen?"
+
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"4\"]Als je iets wilt hebben, kun je er\n"
+"simpelweg voor gaan staan en het\n"
+"selecteren."
+
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]Heb je nog meer nodig? Binnenkort komt\n"
+"er een nieuwe levering binnen."
+
+msgid "Near00"
+msgstr "Goedkoop en lekker!"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"10\"]O, dat is jammer."
+
+msgid "Com_Talk_50"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]Dat is dan [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"]. Akkoord?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02b"
+msgstr ""
+"[Sound2 id=\"7\"]Dank je![PauseShort] Ik koop alles wat je niet meer\n"
+"nodig hebt."
+
+msgid "Near01"
+msgstr "Dat wordt lastig!"
+
+msgid "Com_Talk_05"
+msgstr "Ik koop alles!"
+
+msgid "Com_Talk_51"
+msgstr "Hoeveel wil je er?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr ""
+"[Sound2 id=\"7\"]Je maakt me gelukkig![PauseShort] Ik blijf alles kopen\n"
+"wat je maar kwijt wilt!"
+
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Fijn dat je even langskomt\n"
+"op deze regenachtige dag!"
+
+msgid "Com_Talk_52"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je wilt er [02:0F name=\"Shop_TradeItemNum\"]? Dat is dan in totaal\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"]. Oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"9\"]Hartelijk bedankt![PauseShort] Heb je nog iets nodig?"
+
+msgid "5500"
+msgstr "Ja."
+
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Ik heb vanochtend toevallig\n"
+"verse waar binnengekregen!"
+
+msgid "Com_Talk_53"
+msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]O, je hebt je bedacht? Jammer..."
+
+msgid "5501"
+msgstr "Nee."
+
+msgid "talk09"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, welkom![PauseShort] Wat denk je van een visje\n"
+"op een warme dag als vandaag?"
+
+msgid "Com_Talk_54"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Je hebt niet genoeg rupees![PauseShort] Kom maar\n"
+"een andere keer terug!"
+
+msgid "5502"
+msgstr "Kopen."
+
+msgid "Com_Talk_55"
+msgstr ""
+"[Sound1 unk1=\"5\" unk2=\"16\"]Je hebt te veel spullen! Je kunt niks meer\n"
+"dragen![PauseShort] Maak ruimte en kom dan terug!"
+
+msgid "5503"
+msgstr "Laat maar."
+
+msgid "Com_Talk_56"
+msgstr ""
+"Je wilt er maar eentje?[PauseShort] Dat is dan\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5507"
+msgstr "Alles kopen."
+
+msgid "5508"
+msgstr "Alles verkopen."
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAG4BQAAAAAAADUAAAAEAAAA3AAAAAoBAAA4AQAAZgEAAJQBAADCAQAA8AEAAB4CAABMAgAAegIAAKgCAADWAgAABAMAADIDAABgAwAAYgMAAGQDAABmAwAAhgMAAKYDAADGAwAA5gMAAAYEAAAmBAAARgQAAGYEAACGBAAApgQAAMYEAADmBAAA6AQAAOoEAADsBAAA7gQAAPAEAADyBAAAEgUAABQFAAAWBQAAGAUAABoFAAAcBQAAHgUAAEwFAAB6BQAAqAUAAKoFAACsBQAArgUAALAFAACyBQAAtAUAALYFAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

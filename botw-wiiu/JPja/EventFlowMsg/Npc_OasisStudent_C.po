@@ -1,0 +1,106 @@
+#, ruby
+msgid "0001"
+msgstr "似合ってます"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]料理を作るときに [Color name=\"blue\"]虫[Color name=\"unset\"]とか[Color name=\"blue\"]魔物の素材[Color name=\"unset\"]を入れると\n"
+"[Color name=\"blue\"]微妙な料理[Color name=\"unset\"]になるそうだ[PauseLong]\n"
+"[Sound1 unk1=\"11\" unk2=\"0\"]私的には微妙というよりも\n"
+"完全にアウトなんだが…[PauseMid]"
+
+#, ruby
+msgid "TerrorExplosion"
+msgstr "な 何？！"
+
+#, ruby
+msgid "0002"
+msgstr "微妙な料理？"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]お前もヴォーイを落としたいなら\n"
+"まずは胃袋をつかむんだな！[PauseLong]\n"
+"まぁ これは先生の受け売りだがな"
+
+msgid "talk08"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！"
+
+msgid "0003"
+msgstr "さよなら"
+
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！"
+
+#, ruby
+msgid "TerrorFire"
+msgstr "ちょっ あっち行けよ"
+
+msgid "TerrorSword"
+msgstr "なっ！"
+
+msgid "talk10"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]どうだ！この口紅！\n"
+"私から 恋愛運を感じるだろう？\n"
+"ピンク色のもの を身につけると\n"
+"恋愛運が アップするらしいぞ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]今から我々は 料理教室に行くんだ\n"
+"いいヴァーイになるのも 大変なんだ\n"
+"ハイリアのヴァーイも一緒にどうだい？"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]お前 知ってるか？\n"
+"\n"
+"ヴォーイは 完璧なヴァーイを求めつつ\n"
+"ちょっと オッチョコチョイなのが いいらしいぞ\n"
+"[Color name=\"blue\"]微妙な料理[Color name=\"unset\"]も 練習しとかないとな[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "TerrorBomb"
+msgstr "おいっ！"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"0\"]今からはワーシャ先生の\n"
+"恋愛教室の時間なんだ\n"
+"正直… 恋ってのは面倒だが\n"
+"いいヴォーイを見つけるためには 頑張らんとな"
+
+#, ruby
+msgid "talk04"
+msgstr ""
+"[Sound1 unk1=\"8\" unk2=\"6\"]そ… それはこれから勉強するんだ…\n"
+"\n"
+"とりあえず 下がるよりは\n"
+"上がったが方いいだろ！"
+
+msgid "TerrorArrow"
+msgstr "やっ！"
+
+msgid "0000"
+msgstr "アップすると？"
+
+#, ruby
+msgid "talk05"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"9\"]そうだろう そうだろう！\n"
+"なんてったって 恋愛運アップだからな！"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "DQAAAAEMAgAAAAAAABQAAAAEAAAAWAAAAH4AAACkAAAAygAAAPAAAADyAAAA9AAAABoBAABAAQAAZgEAAIwBAACOAQAAkAEAALYBAADcAQAAAgIAAAQCAAAGAgAACAIAAAoCAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

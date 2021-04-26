@@ -1,0 +1,547 @@
+msgid "talk01"
+msgstr "[Sound1 unk1=\"2\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]フン…"
+
+#, ruby
+msgid "talk62"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]…フン[PauseShort] これは俺一人の問題だ[PauseLong]\n"
+"部外者にゃ関係ねぇ"
+
+#, ruby
+msgid "talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]で [PauseShort]リンクさんよ\n"
+"\n"
+"ウチの[Color name=\"blue\"]族長[Color name=\"unset\"]に 会ってるって事は[PauseShort]\n"
+"俺を連れ戻しに 来たんだろ？[Choice1 label=\"1\"]\n"
+"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"15\"]全く… [PauseShort][Color name=\"blue\"]族長[Color name=\"unset\"]のお人好しにも 参ったもんだ[Size percent=\"100\"]\n"
+"\n"
+"どうせ [Color name=\"blue\"]メドー[Color name=\"unset\"]にやられて怪我する前に[PauseShort]\n"
+"連れ帰って欲しいとか 言われたんだろ\n"
+"残念だが… [PauseLong]\n"
+"俺は ここを動くつもりは無いからな\n"
+"俺だって リトの戦士の端くれ[PauseLong]\n"
+"仲間がやられて おめおめ帰る訳にはいかねぇさ\n"
+"…しかしな[PauseLong] 一つだけ[PauseShort]\n"
+"俺をリトの村に 帰らせる方法があるぜ[Choice1 label=\"0\"]\n"
+"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"4\"][Size percent=\"100\"]それは [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]が沈黙し[PauseLong]\n"
+"ヤツが空から消えた時…[PauseLong] つまり"
+
+#, ruby
+msgid "talk63"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]俺達リトの戦士は この谷の[Color name=\"red\"]上昇気流[Color name=\"unset\"]を利用して[PauseShort]\n"
+"空中戦を想定した [Color name=\"red\"]弓矢[Color name=\"unset\"]の訓練をする\n"
+"ここの[Color name=\"red\"]上昇気流[Color name=\"unset\"]は 頭上で[Color name=\"red\"]布を開く[Color name=\"unset\"]だけで[PauseShort]\n"
+"人一人が 簡単に浮かぶくらい 凄まじい\n"
+"[Sound1 unk1=\"6\" unk2=\"4\"]だから おまえが リトの訓練法で[PauseShort]\n"
+"どこまでできるか 見せてもらおう\n"
+"宙を舞いながら この谷に仕掛けてある[PauseShort]\n"
+"[Color name=\"red\"]的を5個[Color name=\"unset\"] [PauseShort][Color name=\"red\"]3分以内[Color name=\"unset\"]に壊してみろ[Choice3 label1=\"2\" label2=\"5\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk03"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"8\" unk2=\"1\"]神獣 ヴァ・メドー[Color name=\"unset\"]を ぶっ潰す…\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]それが 今すぐ達成できりゃ[PauseShort]\n"
+"村に 帰ってやってもいいぜ？[Choice2 label1=\"22\" label2=\"16\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk64"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]弓の使い方は 空中でも同じだ\n"
+"\n"
+"当然 弓も 長距離を狙える物の方が\n"
+"いいだろうな\n"
+"矢で [Color name=\"red\"]3分以内[Color name=\"unset\"]に [Color name=\"red\"]的を5個[Color name=\"unset\"]壊す…[PauseShort]\n"
+"これくらいできないと [Color name=\"blue\"]メドー[Color name=\"unset\"]には対抗できない"
+
+#, ruby
+msgid "talk65"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomInjury\"]おまえか…[PauseLong]\n"
+"俺とした事が 情けねぇ"
+
+#, ruby
+msgid "talk05"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]…何か用か？[PauseLong] 俺は忙しいんだ[Choice2 label1=\"24\" label2=\"16\" selectednum=\"0\" cancelnum=\"1\"]"
+
+#, ruby
+msgid "talk66"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"1\"][Animation name=\"CustomInjury\"]すまねぇが [PauseShort]脚が動かねぇんだ[PauseLong]\n"
+"よりによって こんな時に…"
+
+#, ruby
+msgid "talk06"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"6\"]手伝います？ [PauseLong]何を？[Choice1 label=\"15\"]\n"
+"\n"
+"[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"0\"]…待て[Size percent=\"100\"]\n"
+"\n"
+"[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]を知る 客人か…[PauseLong]\n"
+"さては [Color name=\"blue\"]族長[Color name=\"unset\"]や[Color name=\"blue\"]妻[Color name=\"unset\"]の仕業だな？\n"
+"だとしたら 俺の事も 聞いているだろう？[PauseLong]\n"
+"俺が テバだ\n"
+"客人の名を 聞いておこうか[Choice1 label=\"12\"]\n"
+"\n"
+"[Sound1 unk1=\"5\" unk2=\"16\"]フム… [PauseShort]リンク…[PauseLong]\n"
+"どこかで聞いたような 名だな"
+
+#, ruby
+msgid "talk67"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomInjury\"]脚は動かねぇし [Color name=\"blue\"]バクダン矢[Color name=\"unset\"]も尽きた[PauseLong]\n"
+"万事休すか…"
+
+#, ruby
+msgid "talk07"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"6\"]分かってます？\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"9\"]ハハッ！[PauseLong]\n"
+"俺の性格まで 村のヤツらに教えられたか！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]…でもな [PauseShort][Color name=\"blue\"]族長[Color name=\"unset\"]が言ってたぜ\n"
+"\n"
+"[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]を 本当に止めるには[PauseShort]\n"
+"ヤツの[Color name=\"red\"]内部[Color name=\"unset\"]に入らないと ダメだってな\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]まさか おまえ… [PauseLong]\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]の中に 入れるとか？[Choice1 label=\"17\"]"
+
+#, ruby
+msgid "talk68"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomInjury\"]すまねぇが 俺はここで治療に専念する\n"
+"\n"
+"このまま黙って 村に帰るワケには\n"
+"いかねぇだろ…"
+
+#, ruby
+msgid "talk08"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]じゃ 行け[PauseLong]\n"
+"矢で[Color name=\"red\"]的を5個[Color name=\"unset\"]だぞ"
+
+#, ruby
+msgid "talk09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]フン…[PauseShort] 臆したか"
+
+#, ruby
+msgid "talk50"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"11\"]ほぅ…[PauseShort] なかなかやるじゃないか[PauseLong]\n"
+"ただの [Color name=\"blue\"]ハイリア人[Color name=\"unset\"]ではなさそうだな"
+
+#, ruby
+msgid "talk51"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]手こずったようだが なかなかの腕だ"
+
+msgid "talk56"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]フム…"
+
+#, ruby
+msgid "talk40"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]弓[Color name=\"unset\"]が無くなったのか？！[PauseMid]\n"
+"一旦 引き返すぞ！"
+
+#, ruby
+msgid "talk41"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]バクダン矢[Color name=\"unset\"]が無くなったのか？！[PauseMid]\n"
+"一旦 引き返すぞ！"
+
+#, ruby
+msgid "talk42"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"16\"]神獣 ヴァ・メドー[Color name=\"unset\"]…[PauseShort]\n"
+"ただデカいだけじゃなさそうだ\n"
+"準備が整ったら また声をかけてくれ"
+
+#, ruby
+msgid "talk43"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]フン…[PauseShort] その格好はともかく[PauseShort]\n"
+"弓の腕は確かなようだな"
+
+#, ruby
+msgid "talk44"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]リンクか…[PauseLong] 気に入ったぜ\n"
+"\n"
+"今度はこっちが お願いする番だ[PauseLong]\n"
+"俺に ついて来てくれ\n"
+"そして [Color name=\"blue\"]メドー[Color name=\"unset\"]へ… [PauseLong]\n"
+"ヤツの[Color name=\"red\"]砲台[Color name=\"unset\"]へ 渾身の一撃を ブっ放してくれ\n"
+"[Sound1 unk1=\"0\" unk2=\"4\"]…そうだ[PauseLong] そこの宝箱に\n"
+"俺が調整した[Color name=\"blue\"]弓[Color name=\"unset\"]が入っている [PauseLong]持って行きな\n"
+"準備ができたら 声をかけてくれ"
+
+#, ruby
+msgid "talk46"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]さぁ 準備ができたら行くぞ[Choice4 label1=\"19\" label2=\"10\" label3=\"29\" label4=\"20\" selectednum=\"0\" cancelnum=\"3\"]"
+
+msgid "talk47"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]だろうな…"
+
+#, ruby
+msgid "0020"
+msgstr "ちょっと待って"
+
+#, ruby
+msgid "talk48"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]謙遜するな [PauseLong]見りゃ分かるさ"
+
+#, ruby
+msgid "talk49"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"23\"]おまえ… 相当な弓使いだな[PauseLong]\n"
+"矢を放つ瞬間 時間が止まっているようだったぜ"
+
+#, ruby
+msgid "0022"
+msgstr "分かってます"
+
+#, ruby
+msgid "0024"
+msgstr "手伝います！"
+
+#, ruby
+msgid "talk32"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]いよいよ[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]を 止めに行く\n"
+"\n"
+"[Color name=\"red\"]砲台[Color name=\"unset\"]は普通の矢じゃ 歯が立たねぇ[PauseLong]\n"
+"だから[Color name=\"blue\"]バクダン矢[Color name=\"unset\"]で ぶっ壊すんだ"
+
+#, ruby
+msgid "0025"
+msgstr "ゼルダを救うため"
+
+#, ruby
+msgid "talk33"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]メドー[Color name=\"unset\"]の攻撃は 俺が引き付ける[PauseLong]\n"
+"その間に おまえはヤツの[Color name=\"red\"]砲台[Color name=\"unset\"]を壊すんだ\n"
+"[Color name=\"red\"]砲台[Color name=\"unset\"]は[Color name=\"red\"]合計４つ[Color name=\"unset\"][PauseLong]\n"
+"本体は[Color name=\"blue\"]バリア[Color name=\"unset\"]で包まれてるから 狙うだけ無駄だ\n"
+"とりあえず [Color name=\"red\"]砲台を全部[Color name=\"unset\"]ぶっ壊してくれ[PauseShort]\n"
+"話はそれからだ"
+
+#, ruby
+msgid "0026"
+msgstr "村を救いたい"
+
+#, ruby
+msgid "0027"
+msgstr "見ちゃいられない"
+
+#, ruby
+msgid "talk35"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]…おいおい [Color name=\"blue\"]弓[Color name=\"unset\"]を持ってないじゃないか[PauseLong]\n"
+"待っててやるから 早く調達して来いよ"
+
+msgid "0028"
+msgstr "なんとなく"
+
+#, ruby
+msgid "0029"
+msgstr "準備って？"
+
+#, ruby
+msgid "0010"
+msgstr "作戦は？"
+
+#, ruby
+msgid "talk38"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]さぁ [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]を止めに行くぜ[PauseLong]\n"
+"[Color name=\"red\"]寒さ対策[Color name=\"unset\"]と[Color name=\"red\"]バクダン矢[Color name=\"unset\"]の準備はいいか？？[Choice4 label1=\"19\" label2=\"10\" label3=\"29\" label4=\"20\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk80"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]おいおい…[PauseMid] そうは言うものの[PauseShort]\n"
+"[Color name=\"blue\"]バクダン矢[Color name=\"unset\"]が 足りないんじゃないか\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]に挑むなら \n"
+"[Color name=\"red\"]10本以上[Color name=\"unset\"]は 用意した方がいいと思うぜ"
+
+msgid "0012"
+msgstr "リンクです"
+
+#, ruby
+msgid "talk20"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]弓[Color name=\"unset\"]が無くなったか？！[PauseLong]\n"
+"一旦 戻って来い！"
+
+#, ruby
+msgid "talk81"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]…よし [PauseShort]そろそろ行くぞ[PauseShort]\n"
+"乗りな"
+
+#, ruby
+msgid "talk22"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"10\"]ハハッ！ [PauseLong][Color name=\"blue\"]メドー[Color name=\"unset\"]に到達するための 翼も無い上に[PauseShort]\n"
+"無知ときたか！\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ 教えてやろう\n"
+"\n"
+"[Color name=\"blue\"]神獣[Color name=\"unset\"]の中に入れるのは 100年前に実在した[PauseShort]\n"
+"[Color name=\"blue\"]英傑[Color name=\"unset\"]と呼ばれる 5人だけだ\n"
+"そして その[Color name=\"blue\"]英傑様[Color name=\"unset\"]は全員[PauseShort]\n"
+"その当時に 亡くなっている\n"
+"[Color name=\"red\"]ガノン[Color name=\"unset\"]の手によってな\n"
+"\n"
+"…まぁいい\n"
+"\n"
+"[Sound1 unk1=\"6\" unk2=\"0\"]とにかく [Color name=\"blue\"]メドー[Color name=\"unset\"]に入れようが 入れまいが[PauseShort]\n"
+"ヤツを黙らせる事ができれば それでいい\n"
+"ただな… [PauseShort]無暗に[Color name=\"blue\"]メドー[Color name=\"unset\"]に近づくと[PauseShort]\n"
+"ヤツの[Color name=\"red\"]砲台[Color name=\"unset\"]の 餌食になるだけだぜ\n"
+"なので 試させてもらう"
+
+#, ruby
+msgid "0015"
+msgstr "神獣 ヴァ・メドーを…"
+
+#, ruby
+msgid "talk23"
+msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]分かってんなら 行きな"
+
+msgid "0016"
+msgstr "さようなら"
+
+#, ruby
+msgid "talk24"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]メドー[Color name=\"unset\"]の砲台を ぶっ壊すための[PauseShort]\n"
+"[Color name=\"red\"]バクダン矢[Color name=\"unset\"]を 忘れるな[Color name=\"blue\"][Color name=\"unset\"]\n"
+"それと 上空はここよりも寒い[PauseMid]\n"
+"[Color name=\"red\"]寒さ対策[Color name=\"unset\"]も 忘れるなよ\n"
+"リトの村なら[Color name=\"red\"]バクダン矢[Color name=\"unset\"]も[PauseShort]\n"
+"[Color name=\"red\"]耐寒用の装備[Color name=\"unset\"]も 売っている\n"
+"耐寒装備が無けりゃ そこの鍋で[PauseShort]\n"
+"温かい料理でも作って 持って行く事だな"
+
+msgid "0017"
+msgstr "ええ…"
+
+#, ruby
+msgid "talk25"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ おまえの腕前 [PauseShort]見せてもらおうか[Choice3 label1=\"2\" label2=\"5\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "0018"
+msgstr "少しは"
+
+#, ruby
+msgid "talk26"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]フン…[PauseShort] それじゃあ [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]は潰せねぇ[PauseLong]\n"
+"挑戦したくなったら また来るがいい"
+
+msgid "0019"
+msgstr "オッケー！"
+
+#, ruby
+msgid "talk27"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]時間切れだ！ 戻って来い！"
+
+msgid "0000"
+msgstr "それは…"
+
+#, ruby
+msgid "talk28"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]…その勢いは 認めてやるが[PauseShort]\n"
+"[Color name=\"blue\"]弓[Color name=\"unset\"]を持ってないじゃないか\n"
+"[Color name=\"blue\"]弓[Color name=\"unset\"]くらいは 自分で調達して来るんだな"
+
+msgid "0001"
+msgstr "そうです"
+
+#, ruby
+msgid "talk29"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]バクダン矢[Color name=\"unset\"]ならリトの村でも 売ってるはずだ\n"
+"\n"
+"買うのがイヤなら どっかで拾って来るこったな"
+
+#, ruby
+msgid "talk70"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomInjury\"]脚の傷は 思ったより深そうだ\n"
+"\n"
+"[Sound1 unk1=\"2\" unk2=\"0\"]もう少しで [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]を[PauseShort]\n"
+"止められるってのに…[PauseShort] チクショウ！"
+
+#, ruby
+msgid "0002"
+msgstr "望むところだ！"
+
+#, ruby
+msgid "talk10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]すまなかった リンク…[PauseLong]\n"
+"俺はおまえを 勘違いしていたようだ\n"
+"あの弓捌き[PauseLong]\n"
+"かなりの修羅場を くぐって来たんだろ？[Choice2 label1=\"7\" label2=\"18\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk71"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"][Color name=\"blue\"]ゼルダ[Color name=\"unset\"]…？\n"
+"\n"
+"100年前の 村の[Color name=\"blue\"]英傑[Color name=\"unset\"] リーバル様がお仕えした[PauseShort]\n"
+"[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]の姫様と 同じ名前だな\n"
+"その人と 今の [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]が[PauseShort]\n"
+"どう関係あるのかは 知らねぇ\n"
+"理由はどうあれ リンクは俺と一緒に[PauseShort]\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]をぶっ潰してくれる [PauseLong]そうだろ？"
+
+msgid "0003"
+msgstr "やめとく"
+
+#, ruby
+msgid "talk11"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"12\"]おいおい…[PauseMid] そうは言うものの[PauseShort]\n"
+"[Color name=\"blue\"]バクダン矢[Color name=\"unset\"]を持ってないじゃないか\n"
+"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"blue\"]メドー[Color name=\"unset\"]に挑むなら \n"
+"[Color name=\"red\"]10本以上[Color name=\"unset\"]は用意した方がいいと思うぜ"
+
+#, ruby
+msgid "talk72"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"]俺達の村を…？[PauseLong]\n"
+"救ったところで 何も出んぜ\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]言っておくが 間近で[Color name=\"blue\"]メドー[Color name=\"unset\"]を見て[PauseShort]\n"
+"「やーめた」は 無しだぜ"
+
+msgid "0004"
+msgstr "はい"
+
+#, ruby
+msgid "talk12"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]おいおい…[PauseMid] そうは言うものの[PauseShort]\n"
+"矢が足りないんじゃないか？\n"
+"単純計算で[Color name=\"red\"]的を５コ[Color name=\"unset\"]壊すなら[PauseShort]\n"
+"矢は５本は必要だろ？"
+
+#, ruby
+msgid "talk73"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"6\"]見ちゃいられない？\n"
+"\n"
+"[Sound1 unk1=\"3\" unk2=\"12\"]伝統ある リトの戦士も[PauseShort]\n"
+"見くびられたもんだぜ…"
+
+msgid "near00"
+msgstr "ハァ… ハァ…"
+
+#, ruby
+msgid "0005"
+msgstr "ヒント教えて"
+
+#, ruby
+msgid "talk74"
+msgstr ""
+"[Sound1 unk1=\"10\" unk2=\"20\"]なんとなくだと？\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"0\"]フフッ…[PauseShort]\n"
+"命が賭かっていると言うのに 物好きなヤツだ"
+
+msgid "near01"
+msgstr "……"
+
+msgid "0006"
+msgstr "いいえ"
+
+#, ruby
+msgid "talk14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]どうした [PauseShort]リンクさんとやら[PauseLong]\n"
+"おまえの腕前を 見せてもらおうか[Choice3 label1=\"2\" label2=\"5\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk75"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]貴重なもんだから 今回だけしかやれねぇが…[PauseShort]\n"
+"この[Color name=\"blue\"]バクダン矢[Color name=\"unset\"]を持って行け"
+
+#, ruby
+msgid "0007"
+msgstr "その通り"
+
+#, ruby
+msgid "talk15"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]場外だ！[PauseLong] 一旦 戻って来い！"
+
+msgid "talk16"
+msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]どうした？[PauseShort] もう やめるのか？[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"2\" cancelnum=\"2\"]"
+
+#, ruby
+msgid "talk77"
+msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]バクダン矢[Color name=\"unset\"]を忘れるなよ"
+
+#, ruby
+msgid "talk17"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]フン… その程度か…"
+
+#, ruby
+msgid "talk78"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]それと 上空はクソ寒い\n"
+"\n"
+"[Color name=\"red\"]寒さ対策[Color name=\"unset\"]や 食べ物の準備は[PauseShort]\n"
+"できてるんだろうな？[Choice4 label1=\"19\" label2=\"10\" label3=\"29\" label4=\"20\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk18"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]よし OKだ！ [PauseShort]戻って来い！"
+
+#, ruby
+msgid "talk79"
+msgstr ""
+"[Sound1 unk1=\"9\" unk2=\"0\"]おいおい…[PauseMid] そうは言うものの[PauseShort]\n"
+"矢を 持ってないじゃないか\n"
+"単純計算で [Color name=\"red\"]的を５コ[Color name=\"unset\"]壊すなら[PauseShort]\n"
+"[Color name=\"red\"]矢は５本[Color name=\"unset\"]は 必要だろ？\n"
+"調達してから また来る事だな"
+
+#, ruby
+msgid "talk19"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]矢が無くなったか？[PauseLong]\n"
+"一旦 戻って来い！"
+
+#, ruby
+msgid "talk60"
+msgstr ""
+"[Sound1 unk1=\"6\" unk2=\"0\"]よし…\n"
+"\n"
+"だが その前に一つ 俺から質問させてくれ\n"
+"\n"
+"リンク… [PauseLong]おまえは なぜそこまでして[PauseShort]\n"
+"[Color name=\"blue\"]メドー[Color name=\"unset\"]討伐に 協力してくれるんだ？[Choice4Flags label1=\"25\" flag1=\"Wind_Relic_NPC10_HelpYou\" label2=\"26\" label3=\"27\" label4=\"28\" selectednum=\"0\" cancelnum=\"3\"]"
+
+#, ruby
+msgid "talk00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"19\"]ほぅ…[PauseShort] こんな寒い所で素っ裸とはな\n"
+"\n"
+"ともかく俺は忙しいんだ 邪魔しないでくれ[Choice2 label1=\"24\" label2=\"16\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "talk61"
+msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]まぁいい…"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "OwAAAAFADAAAAAAAAFgAAAAEAAAAaAEAAJIBAAC8AQAAvgEAAMABAADCAQAAxAEAAMYBAADIAQAAygEAAMwBAADOAQAA0AEAANIBAADUAQAA1gEAANgBAADaAQAA3AEAAN4BAADgAQAA4gEAAOQBAADmAQAA6AEAAOoBAAAUAgAAPgIAAGgCAACSAgAAvAIAAOYCAAAQAwAAOgMAAGQDAACOAwAAuAMAAOIDAAAMBAAANgQAAGAEAACKBAAAtAQAAN4EAAAIBQAAMgUAAFwFAACGBQAAsAUAANoFAAAEBgAALgYAAFgGAACCBgAArAYAANYGAAAABwAAKgcAAFQHAAB+BwAAqAcAANIHAAD8BwAAJggAAFAIAAB6CAAApAgAAM4IAAD4CAAAIgkAAEwJAAB2CQAAoAkAAMoJAAD0CQAAHgoAAEgKAAByCgAAnAoAAMYKAADwCgAAGgsAAEQLAABuCwAAmAsAAMILAADsCwAAFgwAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAE4AcABjAF8AVgBhAGwAbABlAHkAVgBpAGwAbABhAGcAZQAwADEAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAzADEAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAABOAHAAYwBfAFYAYQBsAGwAZQB5AFYAaQBsAGwAYQBnAGUAMAAxADAAAAAAAAA="
+
+msgid "_ReadOnly_Version"
+msgstr "1"

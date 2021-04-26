@@ -1,0 +1,217 @@
+msgid "Appear16"
+msgstr ""
+"相對地，我就教你尋找神廟的技巧吧。\n"
+"\n"
+"不只是神廟，無論你想找什麼東西，\n"
+"[Color name=\"red\"]從高處環顧四周[Color name=\"unset\"]是最好的方法。\n"
+"[Sound2 id=\"14\"]對了……"
+
+msgid "Kotsu01"
+msgstr ""
+"打開[Color name=\"blue\"]希卡之石[Color name=\"unset\"]的[Color name=\"blue\"]地圖[Color name=\"unset\"]，\n"
+"選擇標有藍色印記的塔。\n"
+"[Sound2 id=\"7\"]這麼一來，就能瞬間移動到那個場所……[PauseMid]\n"
+"你不妨試試看。"
+
+msgid "Appear17"
+msgstr "你再爬上剛才那座塔看看如何？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear18"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵。\n"
+"\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]不必慌張，[PauseMid]\n"
+"我再告訴你一件好事。"
+
+msgid "1000"
+msgstr "你真清楚"
+
+msgid "Appear19"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]不必慌張，[PauseMid]\n"
+"我再告訴你一件好事。"
+
+msgid "Talk00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]你試著傳送到塔上吧。[PauseMid]\n"
+"從那裡往下眺望，很快就能找到神廟了。[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1001"
+msgstr "再見"
+
+msgid "Talk01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]好了，你快到塔上尋找剩下的神廟吧。[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "1002"
+msgstr "我該怎麼做？"
+
+msgid "TerrorBomb"
+msgstr "幹什麼？"
+
+msgid "TerrorEnemy"
+msgstr "噫！"
+
+msgid "Appear01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]看來你已經拿到[Color name=\"blue\"]考驗通過證[Color name=\"unset\"]了……[PauseMid]\n"
+"首先，我要誇你做得好。[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear02"
+msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]這就是所謂的[Size percent=\"125\"]千里眼[Size percent=\"100\"][PauseMid]……"
+
+msgid "TerrorArrow"
+msgstr "你做什麼！"
+
+msgid "Appear03"
+msgstr ""
+"上了年紀後，雖看不清眼前的東西，[PauseMid]\n"
+"但對於藏起來的東西反倒一覽無遺。"
+
+msgid "Appear04"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]不過這也不是人人都會的技巧就是了。[PauseMid]\n"
+"呵呵呵。"
+
+msgid "Appear05"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"9\"]等等！我不是說了首先嗎……[PauseMid]\n"
+"真是個性急的傢伙。"
+
+msgid "Appear06"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]不過，塔的出現也好，這座神廟也好，\n"
+"一切似乎都跟你腰上的……"
+
+msgid "0000"
+msgstr "你怎麼知道……"
+
+msgid "Appear07"
+msgstr "[Sound2 id=\"14\"][Color name=\"blue\"]希卡之石[Color name=\"unset\"]有某種關聯。[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "0001"
+msgstr "滑翔傘呢？"
+
+msgid "Appear08"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]說到[Color name=\"blue\"]希卡之石[Color name=\"unset\"]，\n"
+"我想起了一些事……"
+
+msgid "0002"
+msgstr "什麼意思？"
+
+msgid "Appear09"
+msgstr "[Sound1 unk1=\"0\" unk2=\"14\"][Size percent=\"125\"]好好聽別人說話！[Size percent=\"100\"]"
+
+msgid "Appear20"
+msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]你可以看看[Color name=\"blue\"]希卡之石[Color name=\"unset\"]上的[Color name=\"blue\"]地圖[Color name=\"unset\"]。"
+
+msgid "0003"
+msgstr "言而無信！"
+
+msgid "Appear21"
+msgstr ""
+"[Sound2 id=\"2\"]你方才踏出的神廟，\n"
+"還有塔的地點都標有[Color name=\"blue\"]藍色印記[Color name=\"unset\"]對吧？"
+
+msgid "TerrorImpulse"
+msgstr "噫！"
+
+msgid "TerrorInsect"
+msgstr "噫！"
+
+msgid "0004"
+msgstr "數量變多了？"
+
+msgid "Appear22"
+msgstr ""
+"聽說只要使用[Color name=\"blue\"]希卡之石[Color name=\"unset\"]的力量，\n"
+"就能傳送到那些地方……"
+
+msgid "0005"
+msgstr "不會……吧？"
+
+msgid "Appear23"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"13\"]不過那也是以前的事了……[PauseMid]\n"
+"不知道究竟是真是假。"
+
+msgid "0006"
+msgstr "我知道了！"
+
+msgid "ClearTerrorEnemy"
+msgstr "唔……"
+
+msgid "Near00"
+msgstr "[Animation name=\"CustomLaugh\"]呵呵呵。"
+
+msgid "TerrorExplosion"
+msgstr "嗚哇！"
+
+msgid "NakedPlayer"
+msgstr "你居然只穿一條內褲……"
+
+msgid "TerrorSword"
+msgstr "還不住手！"
+
+msgid "TerrorGuardian"
+msgstr "是守護者！"
+
+msgid "TerrorFire"
+msgstr "好燙！"
+
+msgid "ClearTerrorGuardian"
+msgstr "真是好險……"
+
+msgid "Appear10"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]從前，這片土地上居住著\n"
+"名為希卡族的擁有高度文明的種族。\n"
+"他們靠著智慧的力量，\n"
+"一次次將威脅此地的災厄驅除。"
+
+msgid "Appear11"
+msgstr ""
+"聽說……他們的文明在很久以前就已經滅絕，[PauseMid]\n"
+"沒想到其遺物居然會藏在這樣的神廟之中……"
+
+msgid "Appear12"
+msgstr ""
+"[Sound2 id=\"0\"]聽好了，[PauseMid]\n"
+"這片大地上還存在著許多同樣的神廟。"
+
+msgid "Appear13"
+msgstr ""
+"這座台地上應該還有[Color name=\"red\"]三座[Color name=\"unset\"]神廟。\n"
+"\n"
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]當你從所有的神廟中拿到[Color name=\"blue\"]考驗通過證[Color name=\"unset\"]後，[PauseMid]\n"
+"我就將[Color name=\"blue\"]滑翔傘[Color name=\"unset\"]交給你。[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Appear14"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"4\"]嗯……我稍微改變心意了。[PauseMid]\n"
+"不過以你的能耐，這點要求算不上什麼。"
+
+msgid "GoodBye00"
+msgstr "快去吧！"
+
+msgid "Appear15"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]我說拿寶物來換，但可沒說只要一個。[PauseMid]\n"
+"以你的能耐，一個跟四個也沒什麼差別。"
+
+msgid "Kotsu00"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵，[PauseMid]\n"
+"老人家什麼都知道。\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]好了，不立刻試試嗎？"
+
+msgid "GoodBye01"
+msgstr ""
+"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]呵呵呵。[PauseMid]\n"
+"如果你想要[Color name=\"blue\"]滑翔傘[Color name=\"unset\"]，就好好加油吧。"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "JQAAAAHwBQAAAAAAADQAAAAEAAAA2AAAAAIBAAAEAQAABgEAADABAABaAQAAhAEAAK4BAADYAQAAAgIAAAQCAAAuAgAAWAIAAIICAACsAgAA1gIAAAADAAACAwAABAMAAC4DAABYAwAAggMAAKwDAACuAwAAsAMAANoDAAAEBAAALgQAAFgEAACCBAAArAQAANYEAAAABQAAAgUAAAQFAAAGBQAAMAUAAFoFAACEBQAArgUAANgFAADaBQAA3AUAAN4FAADgBQAA4gUAAOQFAADmBQAA6AUAAOoFAADsBQAA7gUAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAANAAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADQAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"

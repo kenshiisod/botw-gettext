@@ -1,0 +1,376 @@
+msgid "Failed01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"2\"]Gorons hebben een dikke huid, dus ze\n"
+"kunnen veel hebben, goro!"
+
+msgid "Com_Talk_00"
+msgstr "[Sound2 id=\"2\"]Wat wil je me verkopen, goro?"
+
+msgid "Com_Talk_01"
+msgstr "Daar geef ik je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] voor, goro.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_02"
+msgstr "[Sound2 id=\"9\"]Dank je, goro![PauseShort] Verder nog iets, goro?"
+
+msgid "MSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"11\"]Heb je interesse in het erts dat ik heb\n"
+"verzameld op de [Color name=\"blue\"]Berg des Doods[Color name=\"unset\"]?"
+
+msgid "Com_Talk_04"
+msgstr "[Sound2 id=\"17\"]O...[PauseMid] Dat is jammer, goro!"
+
+msgid "Com_Talk_10"
+msgstr "Is dit wat je wilt kopen?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_05"
+msgstr "Ik koop zo goed als alles, goro!"
+
+msgid "Com_Talk_11"
+msgstr "[Sound2 id=\"9\"]Dank je, goro!"
+
+msgid "RetMSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Zelfs wij vinden het niet prettig om een\n"
+"lavasteen op ons hoofd te krijgen.[PageBreak]Je kunt maar beter voorzichtig zijn als je\n"
+"de [Color name=\"blue\"]Berg des Doods[Color name=\"unset\"] gaat beklimmen."
+
+msgid "Com_Talk_06"
+msgstr "Wat wil je bekijken, goro?"
+
+msgid "Com_Talk_12"
+msgstr ""
+"[Sound2 id=\"2\"]Ik heb een paar kostbare mineralen in de\n"
+"aanbieding![PauseMid] Kijk maar even rustig rond,\n"
+"goro!"
+
+msgid "Com_Talk_02b"
+msgstr "[Sound2 id=\"9\"]Dank je, goro."
+
+msgid "Com_Talk_07"
+msgstr "[Sound2 id=\"10\"]Dat heb ik op het moment niet, goro."
+
+msgid "Com_Talk_13"
+msgstr "Hoeveel wil je er verkopen, goro?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_02c"
+msgstr "[Sound2 id=\"7\"]Heel erg bedankt, goro."
+
+msgid "Com_Talk_08"
+msgstr ""
+"[Sound2 id=\"14\"]Je hebt niet genoeg rupees.[PauseShort] Verzamel er\n"
+"een paar en kom dan terug, goro!"
+
+msgid "Com_Talk_14"
+msgstr ""
+"Dus je wilt er [02:0F name=\"Shop_TradeItemNum\"] verkopen? Ik kan je er\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] voor geven.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_20"
+msgstr ""
+"[Sound2 id=\"9\"]Omdat het weer zo slecht is, geef ik je\n"
+"korting, goro![PauseMid] Ik verkoop je zelfs een\n"
+"[Color name=\"red\"]diamant[Color name=\"unset\"], die je normaal niet kunt kopen!"
+
+msgid "Com_Talk_02d"
+msgstr "[Sound2 id=\"7\"]Enorm bedankt, goro."
+
+msgid "Com_Talk_09"
+msgstr ""
+"[Sound2 id=\"14\"]Je hebt geen plek meer. Verkoop spullen\n"
+"of gooi ze weg om plaats te maken, goro!"
+
+msgid "Com_Talk_15"
+msgstr "[Sound2 id=\"14\"]Dat kan ik niet kopen, goro."
+
+msgid "Thanks00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Hier, dit is om je te bedanken!"
+
+msgid "Com_Talk_16"
+msgstr ""
+"[Sound2 id=\"14\"]Ik kan je kleren niet kopen als je ze\n"
+"draagt, goro!"
+
+msgid "Com_Talk_30"
+msgstr ""
+"Je wilt er [02:0F name=\"Shop_TradeItemNum\"]? Dat is dan [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].\n"
+"Goed?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_31"
+msgstr "Hoeveel precies, goro?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "MSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"1\" unk2=\"9\"]Ah, het is heerlijk koel bij de\n"
+"[Color name=\"blue\"]bergvoetstal[Color name=\"unset\"].[PauseLong] Misschien is [Color name=\"blue\"]Goron-stad[Color name=\"unset\"]\n"
+"ook wel gewoon té warm, goro."
+
+msgid "Atacked00"
+msgstr "[Sound1 unk1=\"4\" unk2=\"12\"]Ik doe alsof ik een steen ben, goro!"
+
+msgid "Com_Talk_33"
+msgstr ""
+"Eentje maar? Daar geef ik je\n"
+"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor, goro![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Atacked01"
+msgstr "[Sound1 unk1=\"4\" unk2=\"12\"]Zijn...[PauseMid] er nog meer monsters, goro?"
+
+msgid "Com_Talk_34"
+msgstr ""
+"Die allemaal? Het zijn er zo te zien [02:0F name=\"Shop_TradeItemNum\"],\n"
+"dus daar wil ik [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" \"][Color name=\"unset\"] voor\n"
+"hebben.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_35"
+msgstr ""
+"Je wilt alles kwijt? Het zijn er [02:0F name=\"Shop_TradeItemNum\"], dus\n"
+"wat zeg je van [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupees\" plural=\" rupees\"][Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "Com_Talk_36"
+msgstr ""
+"[Sound2 id=\"9\"]Dat was m'n laatste![PauseLong] Bedankt voor je\n"
+"aankoop!"
+
+msgid "MSG_Orud_01_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je een [Color name=\"red\"]brandwerend drankje [Color name=\"unset\"]gebruikt,\n"
+"dat is gemaakt van [Color name=\"red\"]doofhagedissen [Color name=\"unset\"]en\n"
+"iets anders, kun je deze hitte weerstaan."
+
+msgid "SavedLv1_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Monsters zijn eng, goro!"
+
+msgid "Com_Talk_05b"
+msgstr "Ik koop graag iets van je, goro."
+
+msgid "Com_Talk_11b"
+msgstr "[Sound2 id=\"9\"]Enorm bedankt, goro!"
+
+msgid "Com_Talk_37"
+msgstr ""
+"[Sound2 id=\"0\"]Ik ben door mijn voorraad heen![PauseLong] Wil je\n"
+"zien welk erts ik wil gaan halen in\n"
+"[Color name=\"blue\"]Goron-stad[Color name=\"unset\"]?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "MSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Goron-stad[Color name=\"unset\"], de vijfde stop, is waar ik\n"
+"vandaan kom.[PageBreak]Ik loop rond en verkoop de stenen die ik\n"
+"heb opgegraven op de [Color name=\"blue\"]Berg des Doods[Color name=\"unset\"]."
+
+msgid "Talk01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Hm...[PauseShort] Ik zal meteen ter zake komen.[PauseLong] Kijk\n"
+"maar eens naar mijn koopwaar, goro![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "SavedLv1_01"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Wij zijn geen monsters, goro!"
+
+msgid "Com_Talk_05c"
+msgstr "Ik koop wat je kwijt wilt, goro."
+
+msgid "Com_Talk_11c"
+msgstr "[Sound2 id=\"7\"]Bedankt, goro!"
+
+msgid "MSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Je ziet er niet uit alsof je van steen bent,\n"
+"dus ik moet je waarschuwen...[PauseShort]Je zult je\n"
+"moeten beschermen tegen vuur.\n"
+"Ik raad je een [Color name=\"red\"]brandwerend drankje [Color name=\"unset\"]aan.[PauseShort]\n"
+"Je kunt het maken door een [Color name=\"red\"]doofhagedis[Color name=\"unset\"]\n"
+"te mengen met... iets anders."
+
+msgid "Talk02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"1\"]Dank je, goro![PauseMid] Heb je verder nog iets\n"
+"nodig, goro?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+
+msgid "Com_Talk_05d"
+msgstr "Ik wil iets kopen, goro."
+
+msgid "Com_Talk_11d"
+msgstr "[Sound2 id=\"7\"]Je bent geweldig, goro!"
+
+msgid "MSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Ik was mijn baantje bij de Goron-bronnen\n"
+"helemaal zat, [PauseShort]dus ik ben weggegaan uit\n"
+"[Color name=\"blue\"]Goron-stad[Color name=\"unset\"].\n"
+"[Sound1 unk1=\"0\" unk2=\"1\"]Ik wil koele, groene oorden zien!"
+
+msgid "RetMSG_Orud_00"
+msgstr ""
+"[Sound1 unk1=\"3\" unk2=\"12\"]Verzengende hitte, vallende rotsen en\n"
+"vervaarlijke monsters zijn heel eng...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Maar dat is niet waarom ik uit\n"
+"[Color name=\"blue\"]Goron-stad[Color name=\"unset\"], de vijfde stop, ben\n"
+"weggegaan, goro!\n"
+"Ik ben weggegaan omdat ik een carrière\n"
+"als reizende verkoper ben begonnen,\n"
+"goro!"
+
+msgid "RetMSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Het bergpad is gevaarlijk omdat het er zo\n"
+"heet is.[PauseLong] Als je naar [Color name=\"blue\"]Goron-stad [Color name=\"unset\"]gaat,\n"
+"moet je je goed voorbereiden."
+
+msgid "MSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je naar de beroemde Goron-bronnen\n"
+"in [Color name=\"blue\"]Goron-stad [Color name=\"unset\"]gaat, moet je uitkijken\n"
+"voor de lavastenen!\n"
+"[Sound1 unk1=\"11\" unk2=\"1\"]Ik ben al een tijdje weg van huis, dus ik\n"
+"weet niet of ze nog steeds vallen, maar..."
+
+msgid "RetMSG_Orud_01"
+msgstr ""
+"[Sound1 unk1=\"11\" unk2=\"16\"]Ik vraag me af hoe het met [Color name=\"red\"]Yunobo [Color name=\"unset\"]uit\n"
+"[Color name=\"blue\"]Goron-stad[Color name=\"unset\"] gaat...[PauseMid] Ik vond hem altijd wel\n"
+"een toffe peer."
+
+msgid "MSG_Orud_04"
+msgstr ""
+"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"unset\"]Bij de [Color name=\"blue\"]bergvoetstal [Color name=\"unset\"]is het lekker koel![PauseMid]\n"
+"Die koele lucht voelt heerlijk op de huid![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]O! [PauseShort]Is het hier misschien warm voor een\n"
+"Hyliaan?"
+
+msgid "RetMSG_Orud_02"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik vraag me af of het normaal is dat die\n"
+"lavastenen blijven vallen...[PauseShort] Ik snap het\n"
+"niet."
+
+msgid "Rest_00"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"6\"]Ken je [Color name=\"blue\"]Goron-stad[Color name=\"unset\"], goro?[PauseMid] Dat is waar de\n"
+"Gorons leven en waar ik vandaan kom,\n"
+"goro!"
+
+msgid "RetMSG_Orud_03"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]De [Color name=\"blue\"]weg naar de vulkaan[Color name=\"unset\"] is gevaarlijk als\n"
+"je geen Goron bent.[PageBreak]Als je per se naar [Color name=\"blue\"]Goron-stad [Color name=\"unset\"]wilt, moet\n"
+"je je beschermen tegen vuur. Je bent\n"
+"gewaarschuwd!"
+
+msgid "Rest_01"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Gorons hebben een keihard lichaam,\n"
+"goro! Sterk tegen een schaar en zwak\n"
+"tegen papier.\n"
+"Sorry, ik moest aan steen, papier, schaar\n"
+"denken."
+
+msgid "5500"
+msgstr "Ja."
+
+msgid "RetMSG_Orud_04"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Gorons verdienen hun brood met het\n"
+"verzamelen van erts...[PauseMid] Sommigen\n"
+"verkopen het, anderen eten het op."
+
+msgid "Com_Talk_56"
+msgstr "[04:03]Eentje kost je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"], goro![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+
+msgid "5501"
+msgstr "Nee."
+
+msgid "RetMSG_Orud_00_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Goron-stad [Color name=\"unset\"]is de vijfde stop.[PauseMid] Je vindt er\n"
+"heel veel rotsen en heel veel erts."
+
+msgid "0000"
+msgstr "Kopen."
+
+msgid "5502"
+msgstr "Kopen."
+
+msgid "0001"
+msgstr "Verkopen."
+
+msgid "5503"
+msgstr "Laat maar."
+
+msgid "0002"
+msgstr "Tot ziens."
+
+msgid "Near00"
+msgstr "[Sound2 id=\"24\"]Goro, gorooo!"
+
+msgid "SavedLv2_00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Dat scheelde weinig, goro!"
+
+msgid "Near01"
+msgstr "[Sound2 id=\"24\"]Gorogooooro!"
+
+msgid "SavedLv2_01"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Gelukkig! Ik ben gered, goro!"
+
+msgid "Near02"
+msgstr "[Sound2 id=\"24\"]Gooorogoro!"
+
+msgid "Near03"
+msgstr "[Sound2 id=\"24\"]Goro, goro!"
+
+msgid "5507"
+msgstr "Alles kopen."
+
+msgid "Near04"
+msgstr "Ik word nat, goro!"
+
+msgid "5508"
+msgstr "Alles verkopen."
+
+msgid "MSG_Orud_02_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Ik ben beter als rondreizende verkoper\n"
+"dan als klusjesman bij de\n"
+"[Color name=\"blue\"]Goron-bronnen[Color name=\"unset\"]."
+
+msgid "Guardian00"
+msgstr ""
+"[Sound1 unk1=\"4\" unk2=\"22\"]Ren, goro![PauseMid] De stralen van [Color name=\"blue\"]Wachters [Color name=\"unset\"]zijn\n"
+"sterk genoeg om rotsen te breken, goro!"
+
+msgid "RetMSG_Orud_04_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Het leven van Gorons is onlosmakelijk\n"
+"verbonden met stenen.[PauseLong] Ik verkoop erts\n"
+"om mijn brood te verdienen."
+
+msgid "SavedLv3_00"
+msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ik heb het overleefd, goro!"
+
+msgid "SavedLv3_01"
+msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Laten we maken dat we wegkomen, goro!"
+
+msgid "RetMSG_Orud_01_1"
+msgstr ""
+"[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"16\"]Ik vraag me af hoe het met [Color name=\"red\"]Yunobo [Color name=\"unset\"]uit [Color name=\"blue\"]Goron-stad[Color name=\"unset\"]\n"
+"gaat...[Size percent=\"100\"]\n"
+"Oeps... [PauseShort]Ik praat weer tegen mezelf."
+
+msgid "GoodBye00"
+msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Ik hoop je snel weer te zien, goro!"
+
+msgid "MSG_Orud_03_1"
+msgstr ""
+"[Sound1 unk1=\"0\" unk2=\"0\"]Als je naar de beroemde Goron-bronnen\n"
+"in [Color name=\"blue\"]Goron-stad [Color name=\"unset\"]gaat, moet je uitkijken\n"
+"voor de lavastenen!\n"
+"Sinds ik een verkoper ben, hoef ik me\n"
+"geen zorgen meer te maken over de\n"
+"lavastenen."
+
+msgid "Failed00"
+msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Je bijt je tanden stuk op me, goro!"
+
+msgid "_ReadOnly_MsbtExtras"
+msgstr "NQAAAAE6BAAAAAAAAFUAAAAEAAAAXAEAAHYBAACQAQAAkgEAAJQBAACWAQAAsAEAALIBAAC0AQAAtgEAALgBAAC6AQAAvAEAAL4BAADAAQAAwgEAAMQBAADeAQAA4AEAAPoBAAAUAgAALgIAAEgCAABiAgAAZAIAAGYCAABoAgAAagIAAGwCAABuAgAAcAIAAHICAAB0AgAAdgIAAHgCAAB6AgAAfAIAAH4CAACAAgAAggIAAIQCAACGAgAAiAIAAIoCAACMAgAAjgIAAJACAACSAgAAlAIAAJYCAACYAgAAmgIAAJwCAACeAgAAoAIAAMACAADgAgAA4gIAAOQCAADmAgAA6AIAAOoCAADsAgAA7gIAAAgDAAAiAwAAJAMAACYDAAAoAwAAKgMAAEQDAABeAwAAeAMAAJIDAACsAwAAxgMAAOADAAD6AwAA/AMAAP4DAAAABAAAAgQAAAQEAAAGBAAAIAQAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAwADcAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADAANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMAA3AAAAAAAA"
+
+msgid "_ReadOnly_Version"
+msgstr "1"
