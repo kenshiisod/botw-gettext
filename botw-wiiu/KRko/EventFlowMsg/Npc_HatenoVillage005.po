@@ -1,56 +1,56 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]오, 여행자… [PauseShort]무슨 일이야?[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]오, 여행자… [PauseShort]무슨 일이야?[PauseMid]\n"
 "아하, 길을 잃었군?"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]또 궁금한 거 있어?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]또 궁금한 거 있어?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "쿨… 쿨…"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]나는 그 프루아 할머니 [PauseShort]싫지 않아"
+msgstr "[Sound1 bytes=\"0009\"]나는 그 프루아 할머니 [PauseShort]싫지 않아"
 
 msgid "near01"
 msgstr "자야지…"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"4\" unk2=\"45\"]따… [PauseShort]딱히라니…"
+msgstr "[Sound1 bytes=\"042D\"]따… [PauseShort]딱히라니…"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]나는 그 [Color name=\"blue\"]소장님[Color name=\"unset\"] [PauseShort]싫지 않아"
+msgstr "[Sound1 bytes=\"0009\"]나는 그 [Color name=\"blue\"]소장님[Color name=\"unset\"] [PauseShort]싫지 않아"
 
 msgid "near02"
 msgstr "자, 이제…"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]어디로 가려고 했지?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0601\"]어디로 가려고 했지?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]분명 세상 사람들을 위한[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]분명 세상 사람들을 위한[PauseShort]\n"
 "연구를 하고 계실 거야"
 
 msgid "near03"
 msgstr "~~♪"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]응? [PauseLong]뭐 문제 있는 거 같은데"
+msgstr "[Sound1 bytes=\"0006\"]응? [PauseLong]뭐 문제 있는 거 같은데"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"] 빨리 갖다 드려[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"] 빨리 갖다 드려[PauseShort]\n"
 "아마 연구에 쓸 것 같은데"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]자, 그럼 [PauseShort]나는 슬슬 자야겠어[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]자, 그럼 [PauseShort]나는 슬슬 자야겠어[PauseMid]\n"
 "내일 보자구"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]오늘도 참 힘들었다…[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]오늘도 참 힘들었다…[PauseShort]\n"
 "하지만 힘든만큼 수확이 기대가 되지"
 
 msgid "0002"
@@ -60,34 +60,34 @@ msgid "0003"
 msgstr "굉장히 이상한 곳"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]쿠울…"
+msgstr "[Sound1 bytes=\"0021\"]쿠울…"
 
 msgid "0004"
 msgstr "쉴 수 있는 곳"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]쿨 쿨…"
+msgstr "[Sound1 bytes=\"0021\"]쿨 쿨…"
 
 msgid "0005"
 msgstr "딱히…"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]이상한 곳이라면…[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]이상한 곳이라면…[PauseShort]\n"
 "셔셔 쇼쇼 말하는 건가?[PauseShort]\n"
 "아니, [PauseShort]가게 이름이 셔셔 쇼쇼가 아니라[PauseShort]\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]다리 근처에 있는 [Color name=\"blue\"]염색숍[Color name=\"unset\"] 말인데 정말 이상해[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]다리 근처에 있는 [Color name=\"blue\"]염색숍[Color name=\"unset\"] 말인데 정말 이상해[PauseShort]\n"
 "주인장인 세지씨는 옷 염색의 달인이긴 하지만[PauseShort]\n"
 "너무 독특하고 특이한 사람이라…"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]이봐, [PauseShort]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseMid]\n"
+"[Sound1 bytes=\"0613\"]이봐, [PauseShort]그 [Color name=\"blue\"]푸른 불꽃[Color name=\"unset\"]…[PauseMid]\n"
 "[Color name=\"blue\"]연구소[Color name=\"unset\"] 것 아니야?"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]굉장히 이상한 곳이라면[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]굉장히 이상한 곳이라면[PauseShort]\n"
 "역시 거기 맞지?\n"
 "마을 가장 동쪽의… [PauseShort]언덕 위에 있는[PauseShort]\n"
 "[Color name=\"blue\"]하테노 고대 연구소[Color name=\"unset\"] 맞지?\n"
@@ -98,13 +98,13 @@ msgstr ""
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]쉴 수 있는 곳 하면 보통 [Color name=\"blue\"]여관[Color name=\"unset\"]을 말하지…[PauseShort]\n"
+"[Sound1 bytes=\"0610\"]쉴 수 있는 곳 하면 보통 [Color name=\"blue\"]여관[Color name=\"unset\"]을 말하지…[PauseShort]\n"
 "근데 다른 데 가려고 했던 거지?[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]설마…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]설마…[PauseMid]\n"
 "[Color name=\"blue\"]만물상 뒤에 [Color name=\"unset\"]있는 모델 하우스?[PauseShort]\n"
 "볼슨 건설이 전시 중인 곳인데\n"
 "침대나 가구도 꽤 좋은 걸 썼더라구…[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]나무 냄새 나는 신축 건물에서 천천히 쉬는 것도[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]나무 냄새 나는 신축 건물에서 천천히 쉬는 것도[PauseShort]\n"
 "분명 기분 좋을 거야…"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -3,13 +3,13 @@ msgstr "Tot ziens."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Bedankt voor het terugbrengen van mijn\n"
+"[Sound1 bytes=\"0000\"]Bedankt voor het terugbrengen van mijn\n"
 "maracas!♪[PageBreak]Zodra we afscheid hebben genomen, ga\n"
 "ik terug naar het Korok-woud!"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Het Korok-woud ligt ten noorden van\n"
+"[Sound1 bytes=\"0000\"]Het Korok-woud ligt ten noorden van\n"
 "hier...[PauseShort][PageBreak]Mijn [Color name=\"red\"]opa[Color name=\"unset\"] zei altijd: \"Als je bent \n"
 "verdwaald, volg dan de [Color name=\"blue\"]Hylia-rivier[Color name=\"unset\"] in\n"
 "noordelijke richting.\"\n"
@@ -21,45 +21,45 @@ msgstr "Joep..."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ik ben[PauseLong] [Color name=\"blue\"]Hestu[Color name=\"unset\"]!♪[PageBreak]Ik ben de muzikant van het Korok-woud!\n"
+"[Sound1 bytes=\"0000\"]Ik ben[PauseLong] [Color name=\"blue\"]Hestu[Color name=\"unset\"]!♪[PageBreak]Ik ben de muzikant van het Korok-woud!\n"
 "Heb je zin om met me te dansen?"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]Huh? [PauseShort]O, ja... Ik kan je eigenlijk wel een\n"
+"[Sound1 bytes=\"0013\"]Huh? [PauseShort]O, ja... Ik kan je eigenlijk wel een\n"
 "beetje meer over mezelf vertellen!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"26\"]Paaam [PauseShort]paaam![PauseLong] Pam paka pam!♪"
+msgstr "[Sound1 bytes=\"071A\"]Paaam [PauseShort]paaam![PauseLong] Pam paka pam!♪"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Korok-zaadjes[Color name=\"unset\"]...[PauseShort] zijn een soort kleine,\n"
-"harde nootjes... Kleine Koroks, uh...[PageBreak][Animation name=\"CustomSurpriseS\"][Sound1 unk1=\"0\" unk2=\"1\"]Meer kan ik je er niet over vertellen. Niet\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]Korok-zaadjes[Color name=\"unset\"]...[PauseShort] zijn een soort kleine,\n"
+"harde nootjes... Kleine Koroks, uh...[PageBreak][Animation name=\"CustomSurpriseS\"][Sound1 bytes=\"0001\"]Meer kan ik je er niet over vertellen. Niet\n"
 "hardop in ieder geval..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Wil je nog een praatje maken?[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0601\"]Wil je nog een praatje maken?[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "Korok-woud?"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Joepels!♪ [PauseLong]Wil je nog een praatje maken?[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Joepels!♪ [PauseLong]Wil je nog een praatje maken?[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0001"
 msgstr "Wie ben jij?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Bezoek me in het Korok-woud als je\n"
+"[Sound1 bytes=\"0002\"]Bezoek me in het Korok-woud als je\n"
 "meer [Color name=\"blue\"]Korok-zaadjes[Color name=\"unset\"] hebt verzameld.♪"
 
 msgid "0002"
 msgstr "Korok-zaadjes?"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tot zieeens!♪"
+msgstr "[Sound1 bytes=\"0000\"]Tot zieeens!♪"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAHYAQAAAAAAAA8AAAAEAAAARAAAAGgAAABqAAAAbAAAAG4AAABwAAAAlAAAALgAAADcAAAAAAEAACQBAABIAQAAbAEAAJABAAC0AQAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAXwBIAGUAbABwAAAAAAAAAAAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAAAAAAA="

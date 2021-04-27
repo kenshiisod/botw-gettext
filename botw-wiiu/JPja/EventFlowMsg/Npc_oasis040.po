@@ -1,7 +1,7 @@
 #, ruby
 msgid "Npc_oasis040_003"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]バレッタちゃん…\n"
+"[Sound1 bytes=\"0900\"]バレッタちゃん…\n"
 "こんなに長い間 帰ってこないなんて…\n"
 "もしや賊に捕まってる…？\n"
 "\n"
@@ -17,14 +17,14 @@ msgstr "兜いいなぁ"
 #, ruby
 msgid "Npc_oasis040_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]えーっと 忘れ物はないかしら…\n"
+"[Sound1 bytes=\"0B00\"]えーっと 忘れ物はないかしら…\n"
 "[Color name=\"blue\"]ヒンヤリメロン[Color name=\"unset\"]は忘れないようにしないとね…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]あとは… ヒンヤリの薬と… 日焼け止め… っと"
+"[Sound1 bytes=\"0000\"]あとは… ヒンヤリの薬と… 日焼け止め… っと"
 
 #, ruby
 msgid "Npc_oasis040_002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"blue\"]バレッタ[Color name=\"unset\"]ちゃんが無事に帰って来てくれて\n"
+"[Sound1 bytes=\"0700\"][Color name=\"blue\"]バレッタ[Color name=\"unset\"]ちゃんが無事に帰って来てくれて\n"
 "本当によかったよー！\n"
 "バナナ食べながら戻ってきたんだけど\n"
 "どこで見つけたのかな…？"

@@ -19,7 +19,7 @@ msgstr ""
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]I planted flowers around the shrine.\n"
+"[Sound1 bytes=\"0008\"]I planted flowers around the shrine.\n"
 "Please be careful where you step. You\n"
 "don't want to hurt them, do you?"
 
@@ -28,26 +28,26 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]ARGGG!! NOOOOOOO!![Size percent=
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"]No! [Color name=\"red\"]You must not hurt the flowers[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0B11\"]No! [Color name=\"red\"]You must not hurt the flowers[Color name=\"unset\"]![PauseShort]\n"
 "They are screaming out in pain!"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]How many times do I have to say it?!\n"
+"[Sound1 bytes=\"080E\"]How many times do I have to say it?!\n"
 "[Color name=\"red\"]Please treat the flowers with care[Color name=\"unset\"]!\n"
 "They're living things, you know!"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Look! Aren't they lovely? [PauseShort]I wanted to see\n"
+"[Sound1 bytes=\"0113\"]Look! Aren't they lovely? [PauseShort]I wanted to see\n"
 "how the shrine would look with flowers\n"
 "around it, and it's wonderful!\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Please, feel free to take a closer look.[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]Please, feel free to take a closer look.[PauseMid]\n"
 "Just don't step on them!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Please take some time to really admire\n"
+"[Sound1 bytes=\"0008\"]Please take some time to really admire\n"
 "the flowers. I worked so hard to plant\n"
 "them..."
 
@@ -62,7 +62,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Hey! What do you think you're doing?!\n"
+"[Sound1 bytes=\"080E\"]Hey! What do you think you're doing?!\n"
 "[Color name=\"red\"]You must not harm the flowers[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

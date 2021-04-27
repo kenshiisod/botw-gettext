@@ -2,16 +2,16 @@ msgid "TerrorEnemy"
 msgstr "噫！"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]我很期待神廟裡的寶物喔。"
+msgstr "[Sound1 bytes=\"0001\"]我很期待神廟裡的寶物喔。"
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]呵呵呵。[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]呵呵呵。[PauseMid]\n"
 "如果你想要[Color name=\"blue\"]滑翔傘[Color name=\"unset\"]，就好好加油吧。"
 
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]不過……[PauseMid]你連防寒衣都沒穿，\n"
+"[Sound1 bytes=\"0001\"]不過……[PauseMid]你連防寒衣都沒穿，\n"
 "居然還到得了這裡。\n"
 "[Sound2 id=\"7\"]好吧……[PauseMid]\n"
 "為了表揚你的勇氣，這件防寒衣就送你吧。"
@@ -36,27 +36,27 @@ msgstr "好燙！"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]呵呵呵，[PauseMid]\n"
-"這真是絕景啊。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]呵呵呵，[PauseMid]\n"
+"這真是絕景啊。[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "風景不錯呢"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵。[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]呵呵呵。[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "再見"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]太陽升起來了。"
+msgstr "[Sound1 bytes=\"0002\"]太陽升起來了。"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]夜晚的山裡可冷的。"
+msgstr "[Sound1 bytes=\"0002\"]夜晚的山裡可冷的。"
 
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]嗯……這裡完全沒有遮蔽物，[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]嗯……這裡完全沒有遮蔽物，[PauseMid]\n"
 "是能夠將這座台地一覽無遺的絕佳場所。"
 
 msgid "Nagameru01"
@@ -66,17 +66,17 @@ msgstr ""
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]……還沒找到神廟的寶物嗎？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]……還沒找到神廟的寶物嗎？[PauseMid]\n"
 "我已經等不及啦。"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……找到剩下的神廟了嗎？"
+msgstr "[Sound1 bytes=\"0000\"]……找到剩下的神廟了嗎？"
 
 msgid "TerrorArrow"
 msgstr "你做什麼！"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]呵呵呵。"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]呵呵呵。"
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]呵呵呵。"

@@ -12,7 +12,7 @@ msgstr "就是說啊"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]這已經是一年前的事了……[PauseLong]\n"
+"[Sound1 bytes=\"0B00\"]這已經是一年前的事了……[PauseLong]\n"
 "那天晚上我走在這附近的街道上……\n"
 "眼前突然一亮，於是我抬頭一看……[PauseLong]\n"
 "發現有個可疑的發光物浮在空中。\n"
@@ -24,11 +24,11 @@ msgid "0005"
 msgstr "……"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]你覺得呢？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]你覺得呢？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"13\"]這樣啊……[PauseLong]\n"
+"[Sound1 bytes=\"0B0D\"]這樣啊……[PauseLong]\n"
 "那麼，這是最近發生的事……\n"
 "我好像聽到有人在叫我，於是睜開眼一看……[PauseLong]\n"
 "發現自己躺在一張從沒見過的床上。\n"
@@ -39,31 +39,31 @@ msgstr ""
 "當我意識到時，人就出現在這裡了……"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]你覺得呢？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]你覺得呢？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]沒錯……我說的就是你……[PauseLong]\n"
+"[Sound1 bytes=\"0100\"]沒錯……我說的就是你……[PauseLong]\n"
 "海利亞的英傑大人。"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]納命來！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]納命來！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]那麼……海利亞的英傑大人。"
+msgstr "[Sound1 bytes=\"0000\"]那麼……海利亞的英傑大人。"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"14\"]（嘀咕……）"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]風景真美啊……[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0019\"]風景真美啊……[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]將它好好烙印在你的腦海中吧……[PauseMid]\n"
+"[Sound1 bytes=\"0101\"]將它好好烙印在你的腦海中吧……[PauseMid]\n"
 "因為這將是……你臨終前的風景。"
 
 msgid "0000"

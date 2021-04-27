@@ -1,64 +1,64 @@
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Whaaa?! You don't remember meeee?\n"
+"[Sound1 bytes=\"030D\"]Whaaa?! You don't remember meeee?\n"
 "That's not what I expected froooom...[PauseMid]\n"
 "the hero."
 
 msgid "Henshin00"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"]Nooow...you must DIIIIE![PauseAuto frames=\"60\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"]Nooow...you must DIIIIE![PauseAuto frames=\"60\"][Size percent=\"100\"]"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Begone, enemy of my maaaaster![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Begone, enemy of my maaaaster![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Heeeey! You there![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]Heeeey! You there![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Yeaaaah, you! [PauseMid]I'm talkin' to YOU!"
+msgstr "[Sound1 bytes=\"0704\"]Yeaaaah, you! [PauseMid]I'm talkin' to YOU!"
 
 msgid "TerrorArrow"
 msgstr "Yooou! Hey, yooou!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Hey there...[PauseShort]friend."
+msgstr "[Sound1 bytes=\"0800\"]Hey there...[PauseShort]friend."
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]Waaait uuup!"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Come oooon, I'm not some creeper![PauseMid]\n"
+"[Sound1 bytes=\"0101\"]Come oooon, I'm not some creeper![PauseMid]\n"
 "I just wanna taaaalk, my frieeend!\n"
-"Whaddaya say?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"Whaddaya say?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Me?"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Oh, jooooy! Thaaaank you![PauseMid]\n"
+"[Sound1 bytes=\"0700\"]Oh, jooooy! Thaaaank you![PauseMid]\n"
 "Now then, let me start oooover...\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"0\"]That thiiiing hanging on your hip...[PauseMid]\n"
-"Is thaaaaat...a [Color name=\"blue\"]Sheikah Slate[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0500\"]That thiiiing hanging on your hip...[PauseMid]\n"
+"Is thaaaaat...a [Color name=\"blue\"]Sheikah Slate[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Whaaaat?! Why would you refuuuse?[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]Whaaaat?! Why would you refuuuse?[PauseMid]\n"
 "See, you're the reeeeeal creeper\n"
 "heeeeere...\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Now...that thiiiing hanging on your hip...[PauseMid]\n"
-"Is thaaaaat...a [Color name=\"blue\"]Sheikah Slate[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Now...that thiiiing hanging on your hip...[PauseMid]\n"
+"Is thaaaaat...a [Color name=\"blue\"]Sheikah Slate[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "OK..."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Seeee! I kneeeew it![PauseMid]\n"
+"[Sound1 bytes=\"0709\"]Seeee! I kneeeew it![PauseMid]\n"
 "Well then!"
 
 msgid "0003"
@@ -66,7 +66,7 @@ msgstr "I refuse!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"6\"]Whaaaa—?! You say it's noooot, but...[PauseMid]\n"
+"[Sound1 bytes=\"0406\"]Whaaaa—?! You say it's noooot, but...[PauseMid]\n"
 "Even stiiiiill..."
 
 msgid "0004"
@@ -74,15 +74,15 @@ msgstr "Yes, it is."
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Long tiiiime no see, riiiiight?\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]Don't you remember meee?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Long tiiiime no see, riiiiight?\n"
+"[Sound1 bytes=\"0B01\"]Don't you remember meee?[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "No, it's not."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Oooh, now that's what I'd expeeect...[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]Oooh, now that's what I'd expeeect...[PauseMid]\n"
 "from the hero..."
 
 msgid "0006"

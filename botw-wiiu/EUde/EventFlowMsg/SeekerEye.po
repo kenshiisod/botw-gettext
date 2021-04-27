@@ -9,7 +9,7 @@ msgstr ""
 
 msgid "Talk_016"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Siehst du, was ich meine, junger Mann?[PageBreak]Ich würde mir das ja zu gern aus\n"
+"[Sound1 bytes=\"0009\"]Siehst du, was ich meine, junger Mann?[PageBreak]Ich würde mir das ja zu gern aus\n"
 "der Nähe ansehen, wenn ich dort\n"
 "hingelangen könnte."
 
@@ -20,8 +20,8 @@ msgstr ""
 
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Hm?[PageBreak]Du wirkst wie ein aufgeweckter junger\n"
-"Mann.[PauseShort] Was gibt es denn?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]Hm?[PageBreak]Du wirkst wie ein aufgeweckter junger\n"
+"Mann.[PauseShort] Was gibt es denn?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_018"
 msgstr ""
@@ -29,11 +29,11 @@ msgstr ""
 "Der sieht künstlich aus!"
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Nicht Besonderes, es ist nur so..."
+msgstr "[Sound1 bytes=\"0004\"]Nicht Besonderes, es ist nur so..."
 
 msgid "Talk_019"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Wenn ich einer dieser wackeren\n"
+"[Sound1 bytes=\"0009\"]Wenn ich einer dieser wackeren\n"
 "Abenteurer wäre, würde ich dort\n"
 "hochklettern und mir das mal ansehen!"
 
@@ -58,7 +58,7 @@ msgstr "Ach, schon gut."
 
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Weißt du, junger Mann...[PageBreak]Für meinen Bruder und mich ist es\n"
+"[Sound1 bytes=\"0009\"]Weißt du, junger Mann...[PageBreak]Für meinen Bruder und mich ist es\n"
 "wichtiger, Rätsel zu lösen, als im Stall\n"
 "zu arbeiten."
 

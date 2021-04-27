@@ -1,137 +1,137 @@
 msgid "talk07"
-msgstr "[Sound1 unk1=\"10\" unk2=\"42\"]Oh...[PauseShort] Gute Güte..."
+msgstr "[Sound1 bytes=\"0A2A\"]Oh...[PauseShort] Gute Güte..."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"0\"]Kannst du... [PauseShort]dir nicht bitte etwas\n"
+"[Sound1 bytes=\"0400\"]Kannst du... [PauseShort]dir nicht bitte etwas\n"
 "anziehen?"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"20\"]Uh... [PauseShort]Runter vom Pferd![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Tut... [PauseShort]Tut mir leid...[PauseMid]\n"
+"[Sound1 bytes=\"0814\"]Uh... [PauseShort]Runter vom Pferd![PageBreak][Sound1 bytes=\"0601\"]Tut... [PauseShort]Tut mir leid...[PauseMid]\n"
 "Aber du erschreckst sonst die Schafe!"
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Regnet das jetzt den ganzen Tag?"
+msgstr "[Sound1 bytes=\"0B00\"]Regnet das jetzt den ganzen Tag?"
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Dieser Regen...[PauseShort] Meine Schafe..."
+msgstr "[Sound1 bytes=\"0B00\"]Dieser Regen...[PauseShort] Meine Schafe..."
 
 msgid "0000"
 msgstr "Ja."
 
 msgid "talk20"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"1\"]Puh... [PauseLong]Du schaffst das...[PageBreak][Size percent=\"100\"][Sound1 unk1=\"6\" unk2=\"1\"]Ich bin Kaifa.[PageBreak]Ich bin... [PauseShort]die älteste Tochter.[PauseLong] Und..."
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0B01\"]Puh... [PauseLong]Du schaffst das...[PageBreak][Size percent=\"100\"][Sound1 bytes=\"0601\"]Ich bin Kaifa.[PageBreak]Ich bin... [PauseShort]die älteste Tochter.[PauseLong] Und..."
 
 msgid "0002"
 msgstr "Wo sind wir hier?"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"9\" unk2=\"1\"]Tut mir leid..."
+msgstr "[Sound1 bytes=\"0901\"]Tut mir leid..."
 
 msgid "0003"
 msgstr "Wer bist du?"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Sei vorsichtig da draußen."
+msgstr "[Sound1 bytes=\"0001\"]Sei vorsichtig da draußen."
 
 msgid "0004"
 msgstr "Nichts."
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]Du erschreckst die Schafe, also reite\n"
+"[Sound1 bytes=\"0610\"]Du erschreckst die Schafe, also reite\n"
 "hier bitte nicht."
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Das sollten wir wohl auch tun..."
+msgstr "[Sound1 bytes=\"0B01\"]Das sollten wir wohl auch tun..."
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Der [Color name=\"blue\"]Stall von Ost-Akkala[Color name=\"unset\"] im Norden\n"
+"[Sound1 bytes=\"0601\"]Der [Color name=\"blue\"]Stall von Ost-Akkala[Color name=\"unset\"] im Norden\n"
 "heuert angeblich Soldaten als Schutz an."
 
 msgid "0006"
 msgstr "Verdächtige Gestalt?"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Brauchst du etwas von mir?[Choice4 label1=\"2\" label2=\"6\" label3=\"3\" label4=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Brauchst du etwas von mir?[Choice4 label1=\"2\" label2=\"6\" label3=\"3\" label4=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Niemand von uns ist besonders gut im\n"
+"[Sound1 bytes=\"0001\"]Niemand von uns ist besonders gut im\n"
 "Kämpfen, also fühle ich mich nicht so\n"
 "ganz wohl..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Morgen."
+msgstr "[Sound1 bytes=\"0000\"]Guten Morgen."
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"Gray\"][Size percent=\"80\"]Der schon wieder...[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Sound1 bytes=\"0001\"][Color name=\"gray\"][Size percent=\"80\"]Der schon wieder...[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]War sonst noch etwas?[Choice4 label1=\"2\" label2=\"6\" label3=\"3\" label4=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]War sonst noch etwas?[Choice4 label1=\"2\" label2=\"6\" label3=\"3\" label4=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Tag."
+msgstr "[Sound1 bytes=\"0000\"]Guten Tag."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Auf Wiedersehen."
+msgstr "[Sound1 bytes=\"0601\"]Auf Wiedersehen."
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Man munkelt, dass nördlich von hier am\n"
+"[Sound1 bytes=\"0000\"]Man munkelt, dass nördlich von hier am\n"
 "[Color name=\"red\"]Totenkopf-Teich[Color name=\"unset\"] eine verdächtige Gestalt\n"
 "namens [Color name=\"red\"]Kilton[Color name=\"unset\"] ihr Unwesen treibt..."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Abend."
+msgstr "[Sound1 bytes=\"0000\"]Guten Abend."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"10\" unk2=\"21\"]Was?[PauseShort] Ich?[PageBreak]Nach mir fragt sonst niemand...[PageBreak]Darauf war ich jetzt nicht vorbereitet."
+msgstr "[Sound1 bytes=\"0A15\"]Was?[PauseShort] Ich?[PageBreak]Nach mir fragt sonst niemand...[PageBreak]Darauf war ich jetzt nicht vorbereitet."
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]In letzter Zeit treibt eine verdächtige\n"
+"[Sound1 bytes=\"0000\"]In letzter Zeit treibt eine verdächtige\n"
 "Gestalt namens [Color name=\"red\"]Kilton [Color name=\"unset\"]ihr Unwesen\n"
 "[Color name=\"red\"]im ganzen Land[Color name=\"unset\"], heißt es..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"19\"]Ah..."
+msgstr "[Sound1 bytes=\"0613\"]Ah..."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Das hier ist der [Color name=\"blue\"]Stall von Süd-Akkala[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0000\"]Das hier ist der [Color name=\"blue\"]Stall von Süd-Akkala[Color name=\"unset\"]."
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"6\" unk2=\"16\"]Schon seit morgens so ein Wetter..."
+msgstr "[Sound1 bytes=\"0610\"]Schon seit morgens so ein Wetter..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"16\"]Äh..."
+msgstr "[Sound1 bytes=\"0610\"]Äh..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ich bekomme immer wieder zu hören\n"
+"[Sound1 bytes=\"0000\"]Ich bekomme immer wieder zu hören\n"
 "„Ist das nicht mehr ein [Color name=\"blue\"]Schafstall[Color name=\"unset\"] als\n"
-"ein Pferdestall, hahaha?“[PageBreak][Sound1 unk1=\"9\" unk2=\"1\"]Ich hab nun mal kein Händchen für\n"
+"ein Pferdestall, hahaha?“[PageBreak][Sound1 bytes=\"0901\"]Ich hab nun mal kein Händchen für\n"
 "Pferde...[PauseLong] Und es kamen hier eben viele\n"
-"Schafe auf die Welt...[PageBreak][Sound1 unk1=\"8\" unk2=\"14\"]Ich meine, wo genau ist denn das\n"
-"Problem?![PageBreak]...[PageBreak]... ...[PageBreak][Sound1 unk1=\"10\" unk2=\"19\"]Oh! [PauseShort]Verzeihung![PageBreak]Da ist es wohl wieder mit mir\n"
+"Schafe auf die Welt...[PageBreak][Sound1 bytes=\"080E\"]Ich meine, wo genau ist denn das\n"
+"Problem?![PageBreak]...[PageBreak]... ...[PageBreak][Sound1 bytes=\"0A13\"]Oh! [PauseShort]Verzeihung![PageBreak]Da ist es wohl wieder mit mir\n"
 "durchgegangen..."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Du bist... [PauseShort]ein Gast, oder?[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0B06\"]Du bist... [PauseShort]ein Gast, oder?[Choice1 label=\"0\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Meinetwegen kannst du das hier auch \n"
+"[Sound1 bytes=\"0900\"]Meinetwegen kannst du das hier auch \n"
 "„[Color name=\"blue\"]Schafstall von Süd-Akkala[Color name=\"unset\"]“ nennen..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dann ist ja gut."
+msgstr "[Sound1 bytes=\"0000\"]Dann ist ja gut."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Er soll einen Laden haben, einen\n"
+"[Sound1 bytes=\"0B00\"]Er soll einen Laden haben, einen\n"
 "[Color name=\"blue\"]Monsterladen[Color name=\"unset\"]...[PauseShort] Außerdem erscheint er\n"
 "wohl nur [Color name=\"red\"]nachts[Color name=\"unset\"]."
 

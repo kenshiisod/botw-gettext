@@ -1,12 +1,12 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ich habe Purah wirklich schon eine\n"
+"[Sound1 bytes=\"0001\"]Ich habe Purah wirklich schon eine\n"
 "Weile nicht mehr gesehen...[PauseShort] Ob wohl\n"
-"alles in Ordnung bei ihr ist?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"alles in Ordnung bei ihr ist?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Nur nicht schüchtern, Reisender![PauseShort]\n"
+"[Sound1 bytes=\"0002\"]Nur nicht schüchtern, Reisender![PauseShort]\n"
 "Streck in unserem Gasthaus die\n"
 "müden Knochen aus!"
 
@@ -15,21 +15,21 @@ msgstr "Übernachtungen! Hier!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]Ja? [PauseShort]Dann bin ich beruhigt.[PageBreak]Einige im Dorf hatten sich schon\n"
+"[Sound1 bytes=\"010B\"]Ja? [PauseShort]Dann bin ich beruhigt.[PageBreak]Einige im Dorf hatten sich schon\n"
 "Sorgen gemacht."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Was für ein Wetterchen..."
+msgstr "[Sound1 bytes=\"000C\"]Was für ein Wetterchen..."
 
 msgid "near01"
 msgstr "Hah..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Gut, man sieht sich..."
+msgstr "[Sound1 bytes=\"0001\"]Gut, man sieht sich..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Wenn du übernachten möchtest,[PauseShort] sprich\n"
+"[Sound1 bytes=\"0001\"]Wenn du übernachten möchtest,[PauseShort] sprich\n"
 "mit dem Mädchen am [Color name=\"red\"]Empfang[Color name=\"unset\"]."
 
 msgid "near02"
@@ -37,7 +37,7 @@ msgstr "Puh..."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Wenn du übernachten möchtest,[PauseShort] sprich\n"
+"[Sound1 bytes=\"0001\"]Wenn du übernachten möchtest,[PauseShort] sprich\n"
 "mit der Kollegin am [Color name=\"red\"]Empfang[Color name=\"unset\"]."
 
 msgid "near03"
@@ -45,28 +45,28 @@ msgstr "Mal sehen..."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Wann immer du ein Päuschen\n"
+"[Sound1 bytes=\"0001\"]Wann immer du ein Päuschen\n"
 "brauchst:[PauseShort] Das [Color name=\"blue\"]Sahel[Color name=\"unset\"] in Hateno\n"
 "ist für dich da!"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Ein Kind...?[PageBreak][Sound1 unk1=\"4\" unk2=\"11\"]Ah!"
+msgstr "[Sound1 bytes=\"0B06\"]Ein Kind...?[PageBreak][Sound1 bytes=\"040B\"]Ah!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Du bist aber schon früh auf!"
+msgstr "[Sound1 bytes=\"0000\"]Du bist aber schon früh auf!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Guten Tag!"
+msgstr "[Sound1 bytes=\"0000\"]Guten Tag!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Du läufst aber noch spät herum!"
+msgstr "[Sound1 bytes=\"0000\"]Du läufst aber noch spät herum!"
 
 msgid "0000"
 msgstr "Ihr geht's glänzend."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Du verwechselst da was![PauseShort] Ich hatte schon\n"
+"[Sound1 bytes=\"0001\"]Du verwechselst da was![PauseShort] Ich hatte schon\n"
 "gehört, dass wohl Purahs Enkeltochter\n"
 "zu Besuch sei.\n"
 "Das erklärt auch, warum manche in der\n"
@@ -81,38 +81,38 @@ msgstr "Wiedersehen."
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Du hältst dich wacker in diesem\n"
+"[Sound1 bytes=\"0000\"]Du hältst dich wacker in diesem\n"
 "Mistwetter, sehe ich!"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Willkommen im Gasthaus [Color name=\"blue\"]Sahel[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0000\"]Willkommen im Gasthaus [Color name=\"blue\"]Sahel[Color name=\"unset\"]!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Oh! Diese [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseLong]\n"
+"[Sound1 bytes=\"0B06\"]Oh! Diese [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseLong]\n"
 "Die gehörte doch dem [Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"],\n"
 "oder?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Oh! Diese [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseLong]\n"
+"[Sound1 bytes=\"0B06\"]Oh! Diese [Color name=\"blue\"]blaue Flamme[Color name=\"unset\"]...[PauseLong]\n"
 "Die gehörte doch der alten Purah, oder?"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Sind die im Institut jetzt schon so\n"
+"[Sound1 bytes=\"000C\"]Sind die im Institut jetzt schon so\n"
 "schlecht zu Fuß, dass sie andere damit\n"
 "herumlaufen lassen?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Ist Purah jetzt schon so schlecht \n"
+"[Sound1 bytes=\"000C\"]Ist Purah jetzt schon so schlecht \n"
 "zu Fuß,[PauseShort] dass sie Jungspunde wie\n"
 "dich das Feuer holen lässt?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Das Wetter wird immer schlechter.[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]Das Wetter wird immer schlechter.[PauseLong]\n"
 "Du solltest dich hier einquartieren,\n"
 "bis die Sonne wieder scheint!"
 

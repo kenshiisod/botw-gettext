@@ -1,59 +1,59 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"44\"]くそう [PauseShort]魔物のやつめ…"
+msgstr "[Sound1 bytes=\"032C\"]くそう [PauseShort]魔物のやつめ…"
 
 #, ruby
 msgid "MSG_Rane_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]北東にアッカレ地方と呼ばれる地域がある！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]北東にアッカレ地方と呼ばれる地域がある！[PauseShort]\n"
 "地図を持ってるなら ドクロの形の池を探せ！"
 
 #, ruby
 msgid "RetMSG_Rane_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ハイラル城の西側には[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ハイラル城の西側には[PauseShort]\n"
 "秘密の洞窟があるらしいぞ！\n"
 "お宝目当てに 潜入した奴もいるらしいが[PauseShort]\n"
 "生きて戻ったという話は聞いたことがないな！"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]お礼をしないとな！"
+msgstr "[Sound1 bytes=\"0100\"]お礼をしないとな！"
 
 #, ruby
 msgid "MSG_Rane_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]鉱石は高く売れるって知っているか？\n"
+"[Sound1 bytes=\"0000\"]鉱石は高く売れるって知っているか？\n"
 "\n"
 "もしも余っているなら どんどん売って[PauseShort]\n"
 "お金に替えた方が有意義かもな！"
 
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]ふぅ… [PauseShort]ヤバかったな…"
+msgstr "[Sound1 bytes=\"0012\"]ふぅ… [PauseShort]ヤバかったな…"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"5\" unk2=\"32\"]しーっ… [PauseShort]まだ 魔物の気配がする…"
+msgstr "[Sound1 bytes=\"0520\"]しーっ… [PauseShort]まだ 魔物の気配がする…"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]さすがは冒険者だな！ [PauseShort]助かったよ！"
+msgstr "[Sound1 bytes=\"070B\"]さすがは冒険者だな！ [PauseShort]助かったよ！"
 
 #, ruby
 msgid "MSG_Rane_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ドクロ池に行く予定はあるか？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ドクロ池に行く予定はあるか？[PauseShort]\n"
 "もし行ったなら マモノ屋に会うことだ！\n"
 "…俺は会ったこと ないけどな！"
 
 #, ruby
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]ありがとう！ [PauseShort]君の腕前を見ることもできた！"
+msgstr "[Sound1 bytes=\"070B\"]ありがとう！ [PauseShort]君の腕前を見ることもできた！"
 
 #, ruby
 msgid "RetMSG_Rane_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]城下町の裏にある入り江から[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]城下町の裏にある入り江から[PauseShort]\n"
 "ハイラル城内に侵入できるという情報がある！\n"
 "だが あくまでも噂だ！[PauseMid]\n"
 "盗賊を一網打尽にするガセネタかもしれん！"
@@ -61,7 +61,7 @@ msgstr ""
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]俺にしては珍しく声を潜めて話すが[PauseShort]\n"
+"[Sound1 bytes=\"0013\"]俺にしては珍しく声を潜めて話すが[PauseShort]\n"
 "冒険者よ…[PauseShort]\n"
 "夜だけ商売するマモノ屋というやつがいて[PauseShort]\n"
 "特別な品が手に入るらしいぞ…"
@@ -69,19 +69,19 @@ msgstr ""
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]とくに何もないよ 冒険者さん[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]とくに何もないよ 冒険者さん[PauseShort]\n"
 "しゃべりたくない時だって あるのさ"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]冒険者ともなれば[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]冒険者ともなれば[PauseShort]\n"
 "雨の日の崖が滑る事くらいは知ってるよな"
 
 #, ruby
 msgid "RetMSG_Rane_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]もし アッカレ地方に行くなら[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]もし アッカレ地方に行くなら[PauseShort]\n"
 "それなりの装備が必要だ！\n"
 "北に デスマウンテンという山があるから[PauseShort]\n"
 "その麓をめざせばいいぞ！"
@@ -92,7 +92,7 @@ msgstr "空気がうまい！"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]ああ 命拾いしたよ！"
+msgstr "[Sound1 bytes=\"0700\"]ああ 命拾いしたよ！"
 
 msgid "Near01"
 msgstr "ハイヨー！"
@@ -100,7 +100,7 @@ msgstr "ハイヨー！"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]旅に危険はつきものとはいえ[PauseShort]\n"
+"[Sound1 bytes=\"0112\"]旅に危険はつきものとはいえ[PauseShort]\n"
 "かなりヤバかったよ！"
 
 msgid "Near02"
@@ -115,44 +115,44 @@ msgstr "よし いいコだ…"
 #, ruby
 msgid "MSG_Rane_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！[PauseShort]\n"
 "北東にアッカレ地方と呼ばれる地域がある！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]地図を持ってるなら ドクロの形の池を探せ！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]地図を持ってるなら ドクロの形の池を探せ！[PauseShort]\n"
 "そこが まさにアッカレ地方だ！"
 
 #, ruby
 msgid "MSG_Rane_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！[PauseShort]\n"
 "ドクロ池に行く予定はあるか？\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]もし行ったなら マモノ屋に会うことだ！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]もし行ったなら マモノ屋に会うことだ！[PauseShort]\n"
 "…俺は会ったこと ないけどな！"
 
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"32\"][Color name=\"blue\"]ガーディアン[Color name=\"unset\"]は しつこいぞ！[PauseShort]\n"
+"[Sound1 bytes=\"0520\"][Color name=\"blue\"]ガーディアン[Color name=\"unset\"]は しつこいぞ！[PauseShort]\n"
 "ここにいたら ヤバそうだ！"
 
 #, ruby
 msgid "MSG_Rane_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！[PauseMid]\n"
 "俺は 南西のリバーサイド馬宿に行く！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]南東に進めば カカリコ村にも行ける！[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]南東に進めば カカリコ村にも行ける！[PauseMid]\n"
 "地図を見れば わかるぞ！"
 
 #, ruby
 msgid "MSG_Rane_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]俺は 南西のリバーサイド馬宿に行くが[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]俺は 南西のリバーサイド馬宿に行くが[PauseShort]\n"
 "南東に進めば カカリコ村もあるぞ！"
 
 #, ruby
 msgid "RetMSG_Rane_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]もし アッカレ地方に行くなら[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]もし アッカレ地方に行くなら[PauseShort]\n"
 "それなりの装備が必要だ！\n"
 "北に デスマウンテンという山があるから[PauseShort]\n"
 "その麓をめざせばいいぞ！"
@@ -160,17 +160,17 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！[PauseMid]\n"
 "リバーサイド馬宿までは けっこうな距離だ！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]歩いて行けないこともないが[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]歩いて行けないこともないが[PauseShort]\n"
 "地図と馬くらいは 揃えておいた方がいいぞ！"
 
 #, ruby
 msgid "RetMSG_Rane_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"0\"]ハイラル城をめざしているのかもしれないが[PauseShort]\n"
+"[Sound1 bytes=\"0500\"]ハイラル城をめざしているのかもしれないが[PauseShort]\n"
 "あそこほど危険な場所を 俺は知らない！\n"
 "命を捨てるくらいの覚悟がないなら[PauseShort]\n"
 "城での宝探しは やめたほうがいいぞ！"
@@ -178,7 +178,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]なあ 冒険者…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]なあ 冒険者…[PauseMid]\n"
 "鉱石は高く売れるって知っているか？\n"
 "もしも余っているなら どんどん売って[PauseShort]\n"
 "お金に替えた方が有意義かもな！"
@@ -186,9 +186,9 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ハイラル城の西側には[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ハイラル城の西側には[PauseShort]\n"
 "秘密の洞窟があるらしいぞ！\n"
 "お宝目当てに 潜入した奴もいるらしいが[PauseShort]\n"
 "生きて戻ったという話は聞いたことがないな！"
@@ -196,9 +196,9 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]やあ 冒険者！\n"
+"[Sound1 bytes=\"0100\"]やあ 冒険者！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]城下町の裏にある入り江から[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]城下町の裏にある入り江から[PauseShort]\n"
 "ハイラル城内に侵入できるという情報がある！\n"
 "だが あくまでも噂だ！[PauseMid]\n"
 "盗賊を一網打尽にするガセネタかもしれん！"
@@ -206,7 +206,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]旅先で鉱石を見つけたら\n"
+"[Sound1 bytes=\"0000\"]旅先で鉱石を見つけたら\n"
 "採集しておくことだ！\n"
 "鉱石は高く売れるから [PauseShort]\n"
 "それを元手に 旅の装備を整えるといいぞ！"
@@ -214,23 +214,23 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]冒険者よ！[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]冒険者よ！[PauseMid]\n"
 "旅先で鉱石を見つけたら 採集しておくことだ！\n"
 "鉱石は高く売れるから [PauseShort]\n"
 "それを元手に 旅の装備を整えるといいぞ！"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]魔物の顔を見たら 足がすくんだよ！"
+msgstr "[Sound1 bytes=\"0112\"]魔物の顔を見たら 足がすくんだよ！"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"5\" unk2=\"32\"]今のうちに この場を去った方がいいな！"
+msgstr "[Sound1 bytes=\"0520\"]今のうちに この場を去った方がいいな！"
 
 #, ruby
 msgid "RetMSG_Rane_01_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ハイラル城をめざしているのかもしれないが[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]ハイラル城をめざしているのかもしれないが[PauseShort]\n"
 "あそこほど危険な場所を 俺は知らない！\n"
 "命を捨てるくらいの覚悟がないなら[PauseShort]\n"
 "城での宝探しは やめたほうがいいぞ！"
@@ -238,14 +238,14 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]リバーサイド馬宿までは\n"
+"[Sound1 bytes=\"0000\"]リバーサイド馬宿までは\n"
 "けっこうな距離だ！\n"
 "歩いて行けないこともないが[PauseShort]\n"
 "地図と馬くらいは 揃えておいた方がいいぞ！"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"44\"]うう… [PauseShort]タフな戦いだった"
+msgstr "[Sound1 bytes=\"032C\"]うう… [PauseShort]タフな戦いだった"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "NQAAAAGwAwAAAAAAACgAAAAEAAAAqAAAAKoAAACsAAAArgAAALAAAACyAAAAtAAAALYAAAC4AAAAugAAALwAAADWAAAA2AAAAPIAAAAMAQAAJgEAAEABAABaAQAAdAEAAI4BAACoAQAAwgEAANwBAAD2AQAAEAIAACoCAABEAgAAXgIAAHgCAACSAgAArAIAAMYCAADgAgAA+gIAABQDAAAuAwAASAMAAGIDAAB8AwAAlgMAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAAAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAyADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADIAMwAAAE4AcABjAF8AUgBvAGEAZABfADAAMgAzAAAAAAAA"

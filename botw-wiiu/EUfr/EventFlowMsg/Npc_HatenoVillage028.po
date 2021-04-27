@@ -1,50 +1,50 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Trop fatigué... Vais au dodo..."
+msgstr "[Sound1 bytes=\"0012\"]Trop fatigué... Vais au dodo..."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Je rentre, moi."
+msgstr "[Sound1 bytes=\"0000\"]Je rentre, moi."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Faut que tu rentres chez toi aussi..."
+msgstr "[Sound1 bytes=\"0012\"]Faut que tu rentres chez toi aussi..."
 
 msgid "near01"
 msgstr "Ouah !"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]Marf marf marf...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]Marf marf marf...[Size percent=\"100\"]"
 
 msgid "near02"
 msgstr "..."
 
 msgid "talk05"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Groumf, groumf...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Groumf, groumf...[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "Hmm..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hé, hé, hé ![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Hé, hé, hé ![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near04"
 msgstr "Mmmpff... mmmpff..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]D'aaaccord !"
+msgstr "[Sound1 bytes=\"0001\"]D'aaaccord !"
 
 msgid "near05"
 msgstr "Je suis là !"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]J'ai trouvé un truc super incroyable ![PauseShort]\n"
-"Tu veux voir ?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0009\"]J'ai trouvé un truc super incroyable ![PauseShort]\n"
+"Tu veux voir ?[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near06"
 msgstr "Juste là !"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Hé...[PauseShort] T'étais en train de parler\n"
+"[Sound1 bytes=\"0B06\"]Hé...[PauseShort] T'étais en train de parler\n"
 "à la statue ? [Choice1 label=\"4\"]"
 
 msgid "0000"
@@ -57,31 +57,31 @@ msgid "0002"
 msgstr "Fais-moi voir !"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]D'accord ![PauseShort] Alors tu dois me suivre !"
+msgstr "[Sound1 bytes=\"0701\"]D'accord ![PauseShort] Alors tu dois me suivre !"
 
 msgid "0004"
 msgstr "Ben..."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"10\"]C'est par ici !"
+msgstr "[Sound1 bytes=\"000A\"]C'est par ici !"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Et voilà, tadaaam ! C'est trop bien, non ?"
+msgstr "[Sound1 bytes=\"070A\"]Et voilà, tadaaam ! C'est trop bien, non ?"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"11\"]La [Color name=\"blue\"]flamme bleue[Color name=\"unset\"]..."
+msgstr "[Sound1 bytes=\"060B\"]La [Color name=\"blue\"]flamme bleue[Color name=\"unset\"]..."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]T'as vu ?[PauseShort] On dirait la [Color name=\"blue\"]statue [Color name=\"unset\"]qu'il y a\n"
+"[Sound1 bytes=\"0B10\"]T'as vu ?[PauseShort] On dirait la [Color name=\"blue\"]statue [Color name=\"unset\"]qu'il y a\n"
 "chez le [Color name=\"blue\"]chef[Color name=\"unset\"].[PauseShort] C'est quoi, à ton avis ?"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Elle te brûle pas, ta [Color name=\"blue\"]flamme bleue[Color name=\"unset\"] ?"
+msgstr "[Sound1 bytes=\"0B06\"]Elle te brûle pas, ta [Color name=\"blue\"]flamme bleue[Color name=\"unset\"] ?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Ouah ! [PauseLong]C'est possible de parler avec les\n"
+"[Sound1 bytes=\"0A00\"]Ouah ! [PauseLong]C'est possible de parler avec les\n"
 "statues ? Trop fou !"
 
 msgid "_ReadOnly_MsbtExtras"

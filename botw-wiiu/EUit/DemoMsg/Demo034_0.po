@@ -1,7 +1,7 @@
 msgid "talk07"
 msgstr ""
 "In cambio di [Color name=\"red\"]quattro [Color name=\"unset\"][Color name=\"blue\"]emblemi del trionfo[Color name=\"unset\"]\n"
-"io ti conferirò il potere cui tanto aneli.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"io ti conferirò il potere cui tanto aneli.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk08"
 msgstr "Ti concederò il potere che desideri."
@@ -100,7 +100,7 @@ msgstr ""
 msgid "talk14"
 msgstr ""
 "Capisco...\n"
-"Bene allora, quale potere desideri?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"Bene allora, quale potere desideri?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk27"
 msgstr ""
@@ -140,7 +140,7 @@ msgstr ""
 "altri [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portavigore[Color name=\"unset\"]."
 
 msgid "talk04"
-msgstr "Desideri un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portacuore [Color name=\"unset\"]in più?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Desideri un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portacuore [Color name=\"unset\"]in più?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk17"
 msgstr ""
@@ -151,13 +151,13 @@ msgstr ""
 "quello che hai già."
 
 msgid "talk05"
-msgstr "Desideri un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portavigore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Desideri un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portavigore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
-msgstr "Vuoi aumentare i tuoi [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portacuore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Vuoi aumentare i tuoi [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portacuore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
-msgstr "Vuoi aumentare i tuoi [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portavigore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Vuoi aumentare i tuoi [Color name=\"blue\"][C9:00 bytes=\"01000000\"]portavigore[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAEIAAAAAAAAACAAAAAAAAAAAAAA"

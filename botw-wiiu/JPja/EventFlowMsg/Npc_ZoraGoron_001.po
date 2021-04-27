@@ -4,7 +4,7 @@ msgstr "さようなら"
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]ってとこゴロ\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]ってとこゴロ\n"
 "\n"
 "[Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]の途中にある 町ゴロよ～"
 
@@ -14,7 +14,7 @@ msgstr "デスマウンテンって？"
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]しっかし[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]は すごいゴロね～[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]しっかし[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]は すごいゴロね～[PauseLong]\n"
 "水が降ってくるゴロね～"
 
 #, ruby
@@ -23,76 +23,76 @@ msgstr "石を食べるの？"
 
 #, ruby
 msgid "talk08"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]ここと違って すっごい熱いゴロよ～"
+msgstr "[Sound1 bytes=\"080E\"]ここと違って すっごい熱いゴロよ～"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]ええ～！\n"
+"[Sound1 bytes=\"0A16\"]ええ～！\n"
 "キミ [Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]を知らないゴロ？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]晴れてる日なら[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]晴れてる日なら[PauseShort]\n"
 "ハイラル全土のどこからでも見える 火山ゴロ！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ボク達ゴロン族は 石を食べるからね[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]ボク達ゴロン族は 石を食べるからね[PauseLong]\n"
 "[Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]近くが 住みやすいゴロよ"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]やぁ"
+msgstr "[Sound1 bytes=\"0002\"]やぁ"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]そうゴロ！ [PauseLong]美味しいゴロよ～！\n"
+"[Sound1 bytes=\"070B\"]そうゴロ！ [PauseLong]美味しいゴロよ～！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"19\"]あっ… [PauseShort]石は石でも 宝石って呼ばれてる[PauseShort]\n"
+"[Sound1 bytes=\"0013\"]あっ… [PauseShort]石は石でも 宝石って呼ばれてる[PauseShort]\n"
 "キラキラしたヤツは マズいゴロ\n"
-"[Sound1 unk1=\"11\" unk2=\"12\"]あれはもう 売っちゃうか…[PauseShort]\n"
+"[Sound1 bytes=\"0B0C\"]あれはもう 売っちゃうか…[PauseShort]\n"
 "工房で 加工の材料として使うしかないゴロね…"
 
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]でもボクは [Color name=\"blue\"]電気の矢[Color name=\"unset\"]は触れるけど[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]でもボクは [Color name=\"blue\"]電気の矢[Color name=\"unset\"]は触れるけど[PauseShort]\n"
 "体重が重たいから\n"
 "「キミを背中に乗せるのは 無理だゾ！」\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"12\"]って シド王子に言われたゴロ…\n"
+"[Sound1 bytes=\"090C\"]って シド王子に言われたゴロ…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]なんか失礼な話だよねぇ？"
+"[Sound1 bytes=\"0009\"]なんか失礼な話だよねぇ？"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]他に聞きたい事 あるゴロ？[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0006\"]他に聞きたい事 あるゴロ？[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ハイリア人だね[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]ハイリア人だね[PauseLong]\n"
 "この辺では 珍しいね"
 
 #, ruby
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]やぁ いい天気だねぇ"
+msgstr "[Sound1 bytes=\"0002\"]やぁ いい天気だねぇ"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]ボクは旅の途中で 近くを通りかかったところを[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]ボクは旅の途中で 近くを通りかかったところを[PauseShort]\n"
 "シド王子に ここまで誘導されたゴロ"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]やぁ [PauseShort]水が気持ちいいゴロねぇ"
+msgstr "[Sound1 bytes=\"0002\"]やぁ [PauseShort]水が気持ちいいゴロねぇ"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]おヒマなら お話でもするゴロ？[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0006\"]おヒマなら お話でもするゴロ？[Choice4Flags label1=\"3\" flag1=\"Npc_ZoraGoron001_Stone\" label2=\"2\" flag2=\"Npc_ZoraGoron001_DeathMt\" label3=\"0\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0000"
 msgstr "どこから来たの？"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]またゴロ～"
+msgstr "[Sound1 bytes=\"0004\"]またゴロ～"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAFQAgAAAAAAABIAAAAEAAAAUAAAAFIAAABUAAAAVgAAAFgAAAB8AAAAoAAAAMQAAADoAAAADAEAADABAABUAQAAeAEAAJwBAADAAQAA5AEAAAgCAAAsAgAAAAAAAAAAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAABOAHAAYwBfAFoAbwByAGEARwBvAHIAbwBuAF8AMAAwADEAAAAAAAA="

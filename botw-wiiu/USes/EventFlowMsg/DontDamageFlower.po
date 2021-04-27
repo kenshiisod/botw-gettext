@@ -17,7 +17,7 @@ msgstr "¿Cómo es posible que no entiendas?[Pause frames=\"30\"]"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Planté estas flores con todo mi amor\n"
+"[Sound1 bytes=\"0008\"]Planté estas flores con todo mi amor\n"
 "y cariño; procura no pisarlas."
 
 msgid "Fail_Run_St2"
@@ -25,26 +25,26 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]¡AAAAAAAARRRRRG![Size percent=\
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"]¡[Color name=\"red\"]No dañes a las flores[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0B11\"]¡[Color name=\"red\"]No dañes a las flores[Color name=\"unset\"]![PauseShort]\n"
 "¿No ves cuánto sufren?"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]¡¿Cuántas veces tengo que repetírtelo?!\n"
+"[Sound1 bytes=\"080E\"]¡¿Cuántas veces tengo que repetírtelo?!\n"
 "¡[Color name=\"red\"]Ten cuidado con las flores[Color name=\"unset\"]! ¿O es que\n"
 "te gusta ver sufrir a los seres vivos?"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Fíjate, ¿no te parece una hermosura?[PauseShort]\n"
+"[Sound1 bytes=\"0113\"]Fíjate, ¿no te parece una hermosura?[PauseShort]\n"
 "Planté unas flores alrededor del\n"
 "santuario.\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Puedes acercarte un poco para apreciar\n"
+"[Sound1 bytes=\"0001\"]Puedes acercarte un poco para apreciar\n"
 "su belleza. ¡Pero no las pises!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Me costó muchísimo mucho trabajo\n"
+"[Sound1 bytes=\"0008\"]Me costó muchísimo mucho trabajo\n"
 "plantarlas, así que admíralas bien."
 
 msgid "Fail_3"
@@ -58,7 +58,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Pero ¡¿qué haces, bruto?!\n"
+"[Sound1 bytes=\"080E\"]Pero ¡¿qué haces, bruto?!\n"
 "¡[Color name=\"red\"]No aplastes las flores[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

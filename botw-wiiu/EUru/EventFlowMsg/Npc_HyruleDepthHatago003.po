@@ -1,7 +1,7 @@
 msgid "Challenge04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
-"Это...[PauseMid] мясо![PauseShort] Но не рулька...[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Жаль.[PauseShort] Я не люблю филе, огузки\n"
+"[Sound1 bytes=\"0B13\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
+"Это...[PauseMid] мясо![PauseShort] Но не рулька...[PageBreak][Sound1 bytes=\"0300\"]Жаль.[PauseShort] Я не люблю филе, огузки\n"
 "и всякое такое.[PauseShort] Да и рульки ем\n"
 "только сырыми..."
 
@@ -10,7 +10,7 @@ msgstr "Кто ты?"
 
 msgid "Challenge05"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Правда?![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Я скупиться не буду и дам тебе\n"
+"[Sound1 bytes=\"0A00\"]Правда?![PageBreak][Sound1 bytes=\"0001\"]Я скупиться не буду и дам тебе\n"
 "за нее [Color name=\"red\"]100 рупий[Color name=\"unset\"] — все равно\n"
 "здесь деньги тратить негде."
 
@@ -22,7 +22,7 @@ msgstr "Опять дождь..."
 
 msgid "Challenge06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]Эх, так хочется сырой рульки,\n"
+"[Sound1 bytes=\"090C\"]Эх, так хочется сырой рульки,\n"
 "что даже ее запах мерещится."
 
 msgid "2004"
@@ -30,28 +30,28 @@ msgstr "Сырая рулька..."
 
 msgid "Challenge07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]Спасибо![PauseShort] Теперь мне намного лучше.\n"
+"[Sound1 bytes=\"070B\"]Спасибо![PauseShort] Теперь мне намного лучше.\n"
 "Даже настроение поднялось![PageBreak]Если раздобудешь еще\n"
 "сырую рульку, неси мне!"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Пока."
+msgstr "[Sound1 bytes=\"0109\"]Пока."
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"][Sound2 id=\"0\"]Пока![PauseShort] Никому не говори\n"
+"[Sound1 bytes=\"0109\"][Sound2 id=\"0\"]Пока![PauseShort] Никому не говори\n"
 "про мой перерыв, ладно?"
 
 msgid "NearChallenge00"
 msgstr "[Sound2 id=\"11\"]Эх..."
 
 msgid "FirstTalk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"13\"]Эх, добро пожаловать...[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"030D\"]Эх, добро пожаловать...[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Answer00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Спасибо![PageBreak]Эй, ты чего дразнишься?[PauseShort]\n"
-"У тебя же нет сырой рульки![PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]А я так обрадовался...[PauseMid] Ну, если\n"
+"[Sound1 bytes=\"0709\"]Спасибо![PageBreak]Эй, ты чего дразнишься?[PauseShort]\n"
+"У тебя же нет сырой рульки![PageBreak][Sound1 bytes=\"0300\"]А я так обрадовался...[PauseMid] Ну, если\n"
 "раздобудешь сырую рульку, неси\n"
 "мне."
 
@@ -62,13 +62,13 @@ msgstr ""
 "в эту дыру...[PauseShort] Ну ладно, это\n"
 "я еще могу пережить.[PageBreak][Sound2 id=\"15\"]Так ведь работать заставляют\n"
 "почти круглосуточно![PauseShort] Вот и не\n"
-"высыпаюсь...[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"высыпаюсь...[Choice2 label1=\"1002\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Ask00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Чем могу помочь?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Чем могу помочь?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Answer01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Спасибо![PageBreak]Погоди![PauseShort] Она ведь жареная![PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Рульки я ем только сырыми..."
+msgstr "[Sound1 bytes=\"0709\"]Спасибо![PageBreak]Погоди![PauseShort] Она ведь жареная![PageBreak][Sound1 bytes=\"0300\"]Рульки я ем только сырыми..."
 
 msgid "1000"
 msgstr "Устал?"
@@ -82,10 +82,10 @@ msgid "FirstGoodBye00"
 msgstr "[Sound2 id=\"10\"]Приходи еще..."
 
 msgid "Ask01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Еще что-нибудь?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Еще что-нибудь?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Answer02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Спасибо![PauseShort] [Color name=\"red\"]100 рупий[Color name=\"unset\"] тебя устроят?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0709\"]Спасибо![PauseShort] [Color name=\"red\"]100 рупий[Color name=\"unset\"] тебя устроят?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1001"
 msgstr "Пока"
@@ -110,7 +110,7 @@ msgstr ""
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Мне стало лучше.[PauseShort] Спасибо![PauseShort]\n"
+"[Sound1 bytes=\"0709\"]Мне стало лучше.[PauseShort] Спасибо![PauseShort]\n"
 "Если раздобудешь еще сырую\n"
 "рульку, неси!"
 
@@ -119,7 +119,7 @@ msgstr "Вот сырая рулька"
 
 msgid "Answer04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]На сегодня мне хватит![PauseShort]\n"
+"[Sound1 bytes=\"0104\"]На сегодня мне хватит![PauseShort]\n"
 "Приноси завтра."
 
 msgid "ChallengeAnswer01"
@@ -131,25 +131,25 @@ msgstr ""
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]Я решил сделать небольшой перерыв.[PauseShort]\n"
+"[Sound1 bytes=\"0012\"]Я решил сделать небольшой перерыв.[PauseShort]\n"
 "Только об этом никому, ладно?"
 
 msgid "0001"
 msgstr "Что это за место?"
 
 msgid "Answer05"
-msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]Нет?[PauseShort] Я в печали..."
+msgstr "[Sound1 bytes=\"090C\"]Нет?[PauseShort] Я в печали..."
 
 msgid "ChallengeAnswer02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Ты тоже любишь есть\n"
+"[Sound1 bytes=\"0709\"]Ты тоже любишь есть\n"
 "рульки сырыми?[PauseShort] Класс![PageBreak]Эх, вот бы поохотиться на [Color name=\"blue\"]горе\n"
-"Сатори [Color name=\"unset\"]у Хайрульского увалья![PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]Иногда там [Color name=\"red\"]полно зверья[Color name=\"unset\"], но у меня\n"
+"Сатори [Color name=\"unset\"]у Хайрульского увалья![PageBreak][Sound1 bytes=\"0301\"]Иногда там [Color name=\"red\"]полно зверья[Color name=\"unset\"], но у меня\n"
 "столько работы, что даже на охоту\n"
 "некогда сходить."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Промокнешь ведь.[PauseShort] Лучше внутрь зайди."
+msgstr "[Sound1 bytes=\"0002\"]Промокнешь ведь.[PauseShort] Лучше внутрь зайди."
 
 msgid "0002"
 msgstr "Где поохотиться?"
@@ -166,7 +166,7 @@ msgstr "Конечно!"
 
 msgid "Answer07"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]У Хайрульского увалья\n"
+"[Sound1 bytes=\"0B00\"]У Хайрульского увалья\n"
 "есть [Color name=\"blue\"]гора Сатори[Color name=\"unset\"].[PageBreak]Иногда там [Color name=\"red\"]полно всякой живности[Color name=\"unset\"].[PauseShort]\n"
 "Кое-кто даже видел там Горного\n"
 "владыку![PauseShort] Интересно, он вкусный?.."
@@ -176,37 +176,37 @@ msgstr "Нет"
 
 msgid "Challenge00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Эх, добро пожаловать...[PauseShort] Я бы\n"
+"[Sound1 bytes=\"030D\"]Эх, добро пожаловать...[PauseShort] Я бы\n"
 "все отдал за сырую рульку..."
 
 msgid "ChallengeAsk00"
-msgstr "[Sound2 id=\"10\"]Чем могу помочь?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound2 id=\"10\"]Чем могу помочь?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]Добро пожаловать!"
 
 msgid "Challenge01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"13\"]Я бы все отдал за сырую рульку..."
+msgstr "[Sound1 bytes=\"030D\"]Я бы все отдал за сырую рульку..."
 
 msgid "ChallengeAsk01"
-msgstr "Чем еще могу помочь?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "Чем еще могу помочь?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near01"
 msgstr "[Sound2 id=\"16\"]Уф!"
 
 msgid "Challenge02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
-"Это...[PauseMid] сырая рулька![PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Платят мне мало, но ради мяса\n"
-"я готов на все.[PauseShort] Продашь ее мне?[Choice2 label1=\"2000\" label2=\"2001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B13\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
+"Это...[PauseMid] сырая рулька![PageBreak][Sound1 bytes=\"0300\"]Платят мне мало, но ради мяса\n"
+"я готов на все.[PauseShort] Продашь ее мне?[Choice2 label1=\"2000\" label2=\"2001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "2000"
 msgstr "Конечно!"
 
 msgid "Challenge03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
-"Это...[PauseMid] рулька![PauseShort] Но жареная...[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Жаль.[PauseShort] А мне так хотелось\n"
+"[Sound1 bytes=\"0B13\"]М-м?[PauseShort] Узнаю этот запах.[PauseShort]\n"
+"Это...[PauseMid] рулька![PauseShort] Но жареная...[PageBreak][Sound1 bytes=\"0300\"]Жаль.[PauseShort] А мне так хотелось\n"
 "сырой рульки..."
 
 msgid "2001"

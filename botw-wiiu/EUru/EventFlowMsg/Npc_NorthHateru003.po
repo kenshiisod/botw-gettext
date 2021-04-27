@@ -1,6 +1,6 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Хе-хе-хе![PauseShort] Не веришь, да?[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]Хе-хе-хе![PauseShort] Не веришь, да?[PauseLong]\n"
 "Тогда сам посмотри!"
 
 msgid "near00"
@@ -8,7 +8,7 @@ msgstr "А-оп!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Он называется...[PageBreak][Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"10\"]Осветитель Дна![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Или Просветитель Тьмы? Забыл...[PageBreak]А теперь иди, не мешай.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Он называется...[PageBreak][Size percent=\"125\"][Sound1 bytes=\"070A\"]Осветитель Дна![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0000\"]Или Просветитель Тьмы? Забыл...[PageBreak]А теперь иди, не мешай.[PauseShort]\n"
 "Мне нужно тренироваться!"
 
 msgid "near01"
@@ -16,7 +16,7 @@ msgstr "Ха-а!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"10\"]Ха-ха-ха![PauseLong] Всемогущий\n"
+"[Sound1 bytes=\"000A\"]Ха-ха-ха![PauseLong] Всемогущий\n"
 "меч Осветлитель Врак!"
 
 msgid "near02"
@@ -24,7 +24,7 @@ msgstr "Р-р-ра!"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ха-ха-ха! Не мешайся![PageBreak]Или ты хочешь испытать на себе\n"
+"[Sound1 bytes=\"0000\"]Ха-ха-ха! Не мешайся![PageBreak]Или ты хочешь испытать на себе\n"
 "горячий нрав моего клинка?"
 
 msgid "near03"
@@ -34,16 +34,16 @@ msgid "near04"
 msgstr "Тренировка!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Здорово![PauseLong] Ты что, путешественник?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Здорово![PauseLong] Ты что, путешественник?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Слушай, интересный у тебя\n"
-"меч![PauseShort] А как он называется?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0B00\"]Слушай, интересный у тебя\n"
+"меч![PauseShort] А как он называется?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Что?![PauseLong] Окружить[PauseShort] Осла?[PageBreak]Ха-ха![PauseLong] Ты хотел сказать Совершитель\n"
+"[Sound1 bytes=\"0006\"]Что?![PauseLong] Окружить[PauseShort] Осла?[PageBreak]Ха-ха![PauseLong] Ты хотел сказать Совершитель\n"
 "Благ?[PauseShort] Только проблема в том, что он\n"
 "у меня![PageBreak]Только я, великий герой Йолеро,\n"
 "могу носить Согреватель Глаз!"
@@ -62,7 +62,7 @@ msgstr "Нет"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Это точно.[PageBreak]Твой меч просто меркнет на фоне\n"
+"[Sound1 bytes=\"0000\"]Это точно.[PageBreak]Твой меч просто меркнет на фоне\n"
 "моего великолепного клинка под\n"
 "названием Разрушитель Драк!"
 
@@ -71,21 +71,21 @@ msgstr "Сокрушитель Зла"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]А теперь иди, не мешай.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]А теперь иди, не мешай.[PauseShort]\n"
 "Мне нужно тренироваться!"
 
 msgid "0005"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Меч как меч..."
+msgstr "[Sound1 bytes=\"0000\"]Меч как меч..."
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ладно, неважно, кто ты.[PauseShort] Сейчас\n"
-"ты услышишь нечто потрясающее![PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Я наконец-то нашел легендарный меч![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]Ладно, неважно, кто ты.[PauseShort] Сейчас\n"
+"ты услышишь нечто потрясающее![PageBreak][Sound1 bytes=\"0700\"]Я наконец-то нашел легендарный меч![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Ха-ха-ха! Что, завидно![PauseShort]\n"
-"А ты слышал об этом мече?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Лишь избранный герой\n"
+"[Sound1 bytes=\"0709\"]Ха-ха-ха! Что, завидно![PauseShort]\n"
+"А ты слышал об этом мече?[PageBreak][Sound1 bytes=\"0000\"]Лишь избранный герой\n"
 "может его носить!"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -3,18 +3,18 @@ msgstr "ひぃーっ！"
 
 #, ruby
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]祠のお宝 楽しみにしておるぞ"
+msgstr "[Sound1 bytes=\"0001\"]祠のお宝 楽しみにしておるぞ"
 
 #, ruby
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
 
 #, ruby
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]それにしても…[PauseMid] 防寒着も着ずに\n"
+"[Sound1 bytes=\"0001\"]それにしても…[PauseMid] 防寒着も着ずに\n"
 "よくぞ ここまで たどり着いたものじゃ\n"
 "[Sound2 id=\"7\"]いいだろう…[PauseMid]\n"
 "その勇気をたたえて 防寒着を くれてやろう"
@@ -41,31 +41,31 @@ msgstr "あちゃっ"
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"絶景じゃのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"絶景じゃのう[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "1002"
 msgstr "いい眺めだね"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "さようなら"
 
 #, ruby
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]日の出じゃのう"
+msgstr "[Sound1 bytes=\"0002\"]日の出じゃのう"
 
 #, ruby
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]夜の山は 冷えるのう"
+msgstr "[Sound1 bytes=\"0002\"]夜の山は 冷えるのう"
 
 #, ruby
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]うむ… ここには 何一つ 遮るものはない[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]うむ… ここには 何一つ 遮るものはない[PauseMid]\n"
 "この台地を一望するに もってこいの場所じゃ"
 
 #, ruby
@@ -77,19 +77,19 @@ msgstr ""
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…して 祠のお宝は まだか？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]…して 祠のお宝は まだか？[PauseMid]\n"
 "待ちくたびれたぞ"
 
 #, ruby
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…して 残りの祠は 見つかったか？"
+msgstr "[Sound1 bytes=\"0000\"]…して 残りの祠は 見つかったか？"
 
 #, ruby
 msgid "TerrorArrow"
 msgstr "何をする！"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"

@@ -39,27 +39,27 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]Restauration terminée."
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Tchaka!"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Tchaka!"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]Le détecteur Sheikah a été amélioré."
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Pff...[PauseLong] Ça manque un peu d'enthousiasme.[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]Pff...[PauseLong] Ça manque un peu d'enthousiasme.[PauseShort]\n"
 "Bah, tant pis!"
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]Le Cinetis a été amélioré."
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ça marche![PauseShort] Merci bien!"
+msgstr "[Sound1 bytes=\"0709\"]Ça marche![PauseShort] Merci bien!"
 
 msgid "Demo032_0_Text008"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Déverrouillage de la [Color name=\"blue\"]pierre guide[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0001\"]Déverrouillage de la [Color name=\"blue\"]pierre guide[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Allez,[PauseShort] elle t'attend!"
+msgstr "[Sound1 bytes=\"010B\"]Allez,[PauseShort] elle t'attend!"
 
 msgid "Demo032_0_Text020"
 msgstr ""
@@ -82,7 +82,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]C'est parti mon kiki![PauseShort]\n"
+"[Sound1 bytes=\"0001\"]C'est parti mon kiki![PauseShort]\n"
 "Restaurons ta [Color name=\"blue\"]tablette Sheikah[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text023"
@@ -90,7 +90,7 @@ msgstr "[Animation name=\"Activate\"]Des modules ont été ajoutés."
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
+"[Sound1 bytes=\"0101\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
 "amélioration à ton [Color name=\"blue\"]détecteur Sheikah[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text024"
@@ -100,7 +100,7 @@ msgstr ""
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
+"[Sound1 bytes=\"0101\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
 "amélioration à tes [Color name=\"blue\"]bombes à distance[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text000"
@@ -108,7 +108,7 @@ msgstr "[Animation name=\"Activate\"]Tablette Sheikah reconnue."
 
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
+"[Sound1 bytes=\"0101\"]C'est parti mon kiki![PauseShort] Donnons une petite\n"
 "amélioration à ton [Color name=\"blue\"]Cinetis[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

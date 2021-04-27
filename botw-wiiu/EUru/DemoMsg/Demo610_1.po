@@ -1,6 +1,6 @@
 msgid "Npc_Musician_AoC_HeroRitoRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]К счастью, [Color name=\"blue\"]Тэба[Color name=\"unset\"] и [Color name=\"blue\"]Канели[Color name=\"unset\"], наш\n"
+"[Sound1 bytes=\"0001\"]К счастью, [Color name=\"blue\"]Тэба[Color name=\"unset\"] и [Color name=\"blue\"]Канели[Color name=\"unset\"], наш\n"
 "старейшина, многое поведали\n"
 "мне о нашем Воине."
 
@@ -12,7 +12,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_101"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]Даже не верится, что это одно из тех\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]Даже не верится, что это одно из тех\n"
 "мест. Меня переполняют чувства."
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_102"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_105"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]Позволь спеть тебе об испытаниях,\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]Позволь спеть тебе об испытаниях,\n"
 "что проходил [Color name=\"blue\"]Воин рито Ревали[Color name=\"unset\"]![PageBreak][PauseAuto frames=\"40\"]Кхм-кхм..."
 
 msgid "Npc_DungeonPriest_HeroRitoRelief_001"
@@ -45,34 +45,34 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_201"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]Чтобы управлять [Color name=\"blue\"]Чудищем[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0501\"]Чтобы управлять [Color name=\"blue\"]Чудищем[Color name=\"unset\"],\n"
 "нужна немалая отвага."
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_003"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"6\"]О![PauseShort] Я даже не заметил,\n"
+"[Sound1 bytes=\"0406\"]О![PauseShort] Я даже не заметил,\n"
 "как ты подкрался!"
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_202"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]Я обязан завершить эту песню...[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]Я обязан завершить эту песню...[PauseShort]\n"
 "Мечта моего учителя стала моей\n"
 "мечтой."
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_004"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Рад встрече, друг![PauseShort] Я тут, как обычно,\n"
+"[Sound1 bytes=\"0101\"]Рад встрече, друг![PauseShort] Я тут, как обычно,\n"
 "сам с собой болтаю. Ты не обращай\n"
 "внимания, ладно?"
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]И чтобы ее исполнить, мне нужно\n"
+"[Sound1 bytes=\"0001\"]И чтобы ее исполнить, мне нужно\n"
 "узнать о Воинах как можно больше."
 
 msgid "Npc_Musician_AoC_HeroRitoRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Я скучаю по семье и друзьям, но,\n"
+"[Sound1 bytes=\"0001\"]Я скучаю по семье и друзьям, но,\n"
 "пока песня учителя не окончена,\n"
 "домой я вернуться не могу."
 

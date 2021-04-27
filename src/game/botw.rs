@@ -1,4 +1,4 @@
-use crate::msbtw::{Node, Tag, Param, ParamKind};
+use crate::msbtw::{Tag, Param, Value};
 use phf::{phf_map};
 
 pub const MARKER_START: u16 = 0x0E;
@@ -49,119 +49,128 @@ fn new_tag(name: &str, bytes: &[u8]) -> Tag {
     tag
 }
 
+pub const FONT_FACES: [(&str, &str); 2] = [
+    ("0", "hylian"), ("65535", "unset")
+];
+
+pub const COLOR_NAMES: [(&str, &str); 7] = [
+    ("0", "red"), ("1", "green"), ("2", "blue"), ("3", "gray"),
+    ("4", "white"), ("5", "orange"), ("65535", "unset")
+];
+
 fn new_tag_params(tag: &Tag) -> Vec<Param> {
-    let mut params = Vec::new();
     let group_byte = tag.bytes[0];
     let tag_byte = tag.bytes[2];
     match group_byte {
         0x00 => match tag_byte {
-            0x00 => {
-                params.push(Param::new("width", ParamKind::U16));
-                params.push(Param::new("rt", ParamKind::String));
-            },
-            0x01 => {
-                params.push(Param::new_mapped("face", ParamKind::U16, &[
-                    ("0", "hylian"), ("65535", "unset")
-                ]));
-            },
-            0x02 => params.push(Param::new("percent", ParamKind::U16)),
-            0x03 => params.push(Param::new_mapped("name", ParamKind::U16, &[
-                ("0", "red"), ("1", "green"), ("2", "blue"), ("3", "Gray"),
-                ("4", "white"), ("5", "orange"), ("65535", "unset")
-            ])),
-            _ => ()
+            0x00 => vec![
+                Param::new("width", Value::U16(0)),
+                Param::new("rt", Value::String("".to_string()))
+            ],
+            0x01 => vec![
+                Param::new_mapped("face", Value::U16(0), &FONT_FACES)
+            ],
+            0x02 => vec![
+                Param::new("percent", Value::U16(0))
+            ],
+            0x03 => vec![
+                Param::new_mapped("name", Value::U16(0), &COLOR_NAMES)
+            ],
+            _ => vec![]
         },
         0x01 => match tag_byte {
-            0x00 | 0x03 => {
-                params.push(Param::new("frames", ParamKind::U16));
-                params.push(Param::new_stubbed(ParamKind::U16, "0"));
-            },
-            0x04 => {
-                params.push(Param::new("label1", ParamKind::U16));
-                params.push(Param::new("label2", ParamKind::U16));
-                params.push(Param::new("selectednum", ParamKind::U8));
-                params.push(Param::new("cancelnum", ParamKind::U8));
-            },
-            0x05 => {
-                params.push(Param::new("label1", ParamKind::U16));
-                params.push(Param::new("label2", ParamKind::U16));
-                params.push(Param::new("label3", ParamKind::U16));
-                params.push(Param::new("selectednum", ParamKind::U8));
-                params.push(Param::new("cancelnum", ParamKind::U8));
-            },
-            0x06 => {
-                params.push(Param::new("label1", ParamKind::U16));
-                params.push(Param::new("label2", ParamKind::U16));
-                params.push(Param::new("label3", ParamKind::U16));
-                params.push(Param::new("label4", ParamKind::U16));
-                params.push(Param::new("selectednum", ParamKind::U8));
-                params.push(Param::new("cancelnum", ParamKind::U8));
-            },
-            0x07 => {
-                params.push(Param::new("id", ParamKind::U8));
-                params.push(Param::new_stubbed(ParamKind::Bytes(1), "CD"));
-            },
-            0x08 => {
-                params.push(Param::new("label1", ParamKind::U16));
-                params.push(Param::new("flag1", ParamKind::String));
-                params.push(Param::new("label2", ParamKind::U16));
-                params.push(Param::new("flag2", ParamKind::String));
-                params.push(Param::new("label3", ParamKind::U16));
-                params.push(Param::new("flag3", ParamKind::String));
-                params.push(Param::new("label4", ParamKind::U16));
-                params.push(Param::new("flag4", ParamKind::String));
-                params.push(Param::new("selectednum", ParamKind::U8));
-                params.push(Param::new("cancelnum", ParamKind::U8));
-            },
-            0x09 => {
-                params.push(Param::new("label1", ParamKind::U16));
-                params.push(Param::new("flag1", ParamKind::String));
-                params.push(Param::new("label2", ParamKind::U16));
-                params.push(Param::new("flag2", ParamKind::String));
-                params.push(Param::new("label3", ParamKind::U16));
-                params.push(Param::new("flag3", ParamKind::String));
-                params.push(Param::new("label4", ParamKind::U16));
-                params.push(Param::new("flag4", ParamKind::String));
-                params.push(Param::new("unk5", ParamKind::U16));
-                params.push(Param::new("name5", ParamKind::String));
-            },
-            0x0A => {
-                params.push(Param::new("label", ParamKind::U16));
-                params.push(Param::new_stubbed(ParamKind::Bytes(2), "01CD"));
-            },
-            _ => ()
+            0x00 | 0x03 => vec![
+                Param::new("frames", Value::U16(0)),
+                Param::new_stubbed(Value::U16(0))
+            ],
+            0x04 => vec![
+                Param::new("label1", Value::U16(0)),
+                Param::new("label2", Value::U16(0)),
+                Param::new("select_idx", Value::U8(0)),
+                Param::new("cancel_idx", Value::U8(0))
+            ],
+            0x05 => vec![
+                Param::new("label1", Value::U16(0)),
+                Param::new("label2", Value::U16(0)),
+                Param::new("label3", Value::U16(0)),
+                Param::new("select_idx", Value::U8(0)),
+                Param::new("cancel_idx", Value::U8(0))
+            ],
+            0x06 => vec![
+                Param::new("label1", Value::U16(0)),
+                Param::new("label2", Value::U16(0)),
+                Param::new("label3", Value::U16(0)),
+                Param::new("label4", Value::U16(0)),
+                Param::new("select_idx", Value::U8(0)),
+                Param::new("cancel_idx", Value::U8(0))
+            ],
+            0x07 => vec![
+                Param::new("id", Value::U8(0)),
+                Param::new_stubbed(Value::Bytes(1, vec![0xCD])),
+            ],
+            0x08 => vec![
+                Param::new("label1", Value::U16(0)),
+                Param::new("flag1", Value::String("".to_string())),
+                Param::new("label2", Value::U16(0)),
+                Param::new("flag2", Value::String("".to_string())),
+                Param::new("label3", Value::U16(0)),
+                Param::new("flag3", Value::String("".to_string())),
+                Param::new("label4", Value::U16(0)),
+                Param::new("flag4", Value::String("".to_string())),
+                Param::new("select_idx", Value::U8(0)),
+                Param::new("cancel_idx", Value::U8(0))
+            ],
+            0x09 => vec![
+                Param::new("label1", Value::U16(0)),
+                Param::new("flag1", Value::String("".to_string())),
+                Param::new("label2", Value::U16(0)),
+                Param::new("flag2", Value::String("".to_string())),
+                Param::new("label3", Value::U16(0)),
+                Param::new("flag3", Value::String("".to_string())),
+                Param::new("label4", Value::U16(0)),
+                Param::new("flag4", Value::String("".to_string())),
+                Param::new("unk5", Value::U16(0)),
+                Param::new("name5", Value::String("".to_string()))
+            ],
+            0x0A => vec![
+                Param::new("label", Value::U16(0)),
+                Param::new_stubbed(Value::Bytes(2, vec![0x01, 0xCD]))
+            ],
+            _ => vec![]
         },
         0x02 => match tag_byte {
-            0x01 | 0x02 | 0x09 | 0x0B | 0x0C | 0x0E | 0x0F | 0x10 | 0x11 | 0x12 | 0x13 => {
-                params.push(Param::new("name", ParamKind::String));
-                params.push(Param::new_stubbed(ParamKind::U16, "0"));
-            },
-            _ => ()
+            0x01 | 0x02 | 0x09 | 0x0B | 0x0C | 0x0E |
+            0x0F | 0x10 | 0x11 | 0x12 | 0x13 => vec![
+                Param::new("name", Value::String("".to_string())),
+                Param::new_stubbed(Value::U16(0))
+            ],
+            _ => vec![]
         },
         0x04 => match tag_byte {
-            0x01 => {
-                params.push(Param::new("id", ParamKind::U8));
-                params.push(Param::new_stubbed(ParamKind::Bytes(1), "CD"));
-            },
-            0x02 => params.push(Param::new("name", ParamKind::String)),
-            _ => ()
+            0x01 => vec![
+                Param::new("id", Value::U8(0)),
+                Param::new_stubbed(Value::Bytes(1, vec![0xCD]))
+            ],
+            0x02 => vec![
+                Param::new("name", Value::String("".to_string()))
+            ],
+            _ => vec![]
         },
         0xC9 => match tag_byte {
-            0x05 => {
-                params.push(Param::new("masculine", ParamKind::String));
-                params.push(Param::new("feminine", ParamKind::String));
-                params.push(Param::new("unk", ParamKind::String));
-            },
-            0x06 => {
-                params.push(Param::new("singular", ParamKind::String));
-                params.push(Param::new("plural", ParamKind::String));
-                params.push(Param::new("plural2", ParamKind::String));
-            },
-            _ => ()
+            0x05 => vec![
+                Param::new("masculine", Value::String("".to_string())),
+                Param::new("feminine", Value::String("".to_string())),
+                Param::new("unk", Value::String("".to_string()))
+            ],
+            0x06 => vec![
+                Param::new("singular", Value::String("".to_string())),
+                Param::new("plural", Value::String("".to_string())),
+                Param::new("plural2", Value::String("".to_string()))
+            ],
+            _ => vec![]
         },
-        _ => ()
-    };
-    params
+        _ => vec![]
+    }
 }
 
 pub fn new_tag_by_name(name: &str) -> Option<Tag> {

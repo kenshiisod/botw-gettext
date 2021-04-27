@@ -1,9 +1,9 @@
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ну, как видишь, это ферма.[PageBreak][Sound1 unk1=\"0\" unk2=\"6\"]Или ты про то здание на холме?"
+msgstr "[Sound1 bytes=\"0001\"]Ну, как видишь, это ферма.[PageBreak][Sound1 bytes=\"0006\"]Или ты про то здание на холме?"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Это...[PauseMid] В общем, это наш [Color name=\"blue\"]институт[Color name=\"unset\"].[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Это...[PauseMid] В общем, это наш [Color name=\"blue\"]институт[Color name=\"unset\"].[PauseShort]\n"
 "Там свой [Color name=\"blue\"]профессор [Color name=\"unset\"]есть.[PauseShort] [Color name=\"blue\"]Шиика[Color name=\"unset\"],\n"
 "между прочим![PageBreak]А что там изучают, я не знаю."
 
@@ -15,96 +15,96 @@ msgstr "До свидания"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Я б с тобой поболтал, но дай\n"
+"[Sound1 bytes=\"0001\"]Я б с тобой поболтал, но дай\n"
 "сначала до места дойти."
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Еще вопросы?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Еще вопросы?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "Подскажите кое-что"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]Я-то?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Я просто старик."
+msgstr "[Sound1 bytes=\"0606\"]Я-то?[PageBreak][Sound1 bytes=\"0001\"]Я просто старик."
 
 msgid "0005"
 msgstr "Великое Бедствие..."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Хочешь поговорить\n"
+"[Sound1 bytes=\"0B06\"]Хочешь поговорить\n"
 "о [Color name=\"blue\"]Великом Бедствии[Color name=\"unset\"]?[PageBreak]Тебе что, Ума всякого наболтала?[PauseShort]\n"
 "Ну вот зачем тебе, парень, знать,\n"
-"что произошло сто лет назад, а?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ладно.[PauseShort] Расскажу то, что узнал от отца."
+"что произошло сто лет назад, а?[PageBreak][Sound1 bytes=\"0001\"]Ладно.[PauseShort] Расскажу то, что узнал от отца."
 
 msgid "0006"
 msgstr "Что это за место?"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Великое Бедствие[Color name=\"unset\"]...[PageBreak]Так называют то, что случилось\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]Великое Бедствие[Color name=\"unset\"]...[PageBreak]Так называют то, что случилось\n"
 "с королевством и [Color name=\"blue\"]замком Хайрул[Color name=\"unset\"].[PageBreak]Отец говорил, что раньше деревень\n"
 "и городов было намного больше.[PageBreak]Но [Color name=\"blue\"]Великое Бедствие[Color name=\"unset\"] разрушило\n"
 "многие из них.[PauseShort] К счастью, Хатено от\n"
 "замка далеко и почти не пострадала.[PageBreak]Кстати, какой-то храбрец хотел\n"
-"остановить [Color name=\"blue\"]Великое Бедствие[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"12\"]Как же его звали-то...[PauseLong]\n"
+"остановить [Color name=\"blue\"]Великое Бедствие[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"000C\"]Как же его звали-то...[PauseLong]\n"
 "Нет, не помню уже."
 
 msgid "0007"
 msgstr "Кто вы?"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Эх, [Color name=\"blue\"]синий огонь[Color name=\"unset\"]...[PauseShort] Красиво горит."
+msgstr "[Sound1 bytes=\"0000\"]Эх, [Color name=\"blue\"]синий огонь[Color name=\"unset\"]...[PauseShort] Красиво горит."
 
 msgid "talk13"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Хн-н-н...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Хн-н-н...[Size percent=\"100\"]"
 
 msgid "0008"
 msgstr "До свидания"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Раньше этот огонь только\n"
+"[Sound1 bytes=\"0000\"]Раньше этот огонь только\n"
 "Пуре разрешалось носить."
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Хр-р-р...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Хр-р-р...[Size percent=\"100\"]"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Слушаю?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Слушаю?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Интересно, зачем он Пуре?"
+msgstr "[Sound1 bytes=\"0000\"]Интересно, зачем он Пуре?"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Эх..."
+msgstr "[Sound1 bytes=\"0001\"]Эх..."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Раньше этот огонь только [Color name=\"blue\"]профессору\n"
+"[Sound1 bytes=\"0000\"]Раньше этот огонь только [Color name=\"blue\"]профессору\n"
 "института[Color name=\"unset\"] разрешалось носить."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Привет, привет..."
+msgstr "[Sound1 bytes=\"000C\"]Привет, привет..."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Пора на боковую."
+msgstr "[Sound1 bytes=\"0022\"]Пора на боковую."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Слушаю?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]Слушаю?[Choice2 label1=\"4\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Надо поспать..."
+msgstr "[Sound1 bytes=\"0022\"]Надо поспать..."
 
 msgid "near01"
 msgstr "Хр-р-р..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ну спрашивай.[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Ну спрашивай.[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Слушай, не приставай ко мне, а?[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Слушай, не приставай ко мне, а?[PauseShort]\n"
 "Дай сначала до места дойти."
 
 msgid "_ReadOnly_MsbtExtras"

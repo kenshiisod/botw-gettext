@@ -10,7 +10,7 @@ msgstr ""
 "出土した記録の中には この遺物の名を示す\n"
 "資料は発見されず プルアの命名案が採択された\n"
 "シーカー族の造った石状の遺物だから\n"
-"シーカーストーン… 少し安直な気もする…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"シーカーストーン… 少し安直な気もする…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0004"
 msgstr "やめる"
@@ -25,7 +25,7 @@ msgstr ""
 "今更ながら 古代シーカー族の技術の高さに\n"
 "驚かされる…\n"
 "シーカーストーンは 勇導石を操作する為の\n"
-"機能も有していると推測される… 研究を急ごう[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"機能も有していると推測される… 研究を急ごう[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -39,7 +39,7 @@ msgstr ""
 "意外と言うと失礼だが ミファーがソツ無く熟し\n"
 "ダルケルが最初 少しだけ苦戦していた\n"
 "ウルボザやリーバルも 神獣との相性は良い様だ\n"
-"厄災に対する光明が見えてきた[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"厄災に対する光明が見えてきた[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0006"
@@ -57,7 +57,7 @@ msgstr ""
 "城の地下をいくら捜索しても 柱は発見出来ない\n"
 "恐らく相当深い位置に埋まっているのだろう\n"
 "その柱は厄災ガノンの出現を感知して出現する\n"
-"仕組みになっているのだろうか？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"仕組みになっているのだろうか？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Diary_07"
@@ -69,7 +69,7 @@ msgstr ""
 "シーカーストーンが起動の鍵なのでは？という\n"
 "プルアの推測に 私も賛成だが…反応は全く無い\n"
 "厄災に対抗する手立ては 全て万全を\n"
-"期しておきたい… 諦める訳にはいかないのだ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"期しておきたい… 諦める訳にはいかないのだ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Diary_08"
@@ -85,11 +85,11 @@ msgstr ""
 "それに私達が あれを完全な状態で稼働する\n"
 "ところまで調整出来ていない事にも不安は残る\n"
 "もし厄災ガノンが復活しても 回生の祠を\n"
-"使う様な闘いにならない事を祈るばかりだ…[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"1\"]"
+"使う様な闘いにならない事を祈るばかりだ…[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Diary_00"
-msgstr "ゼルダの研究録を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "ゼルダの研究録を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -103,7 +103,7 @@ msgstr ""
 "インパから プルアとロベリーを 紹介された\n"
 "共にインパ同様 シーカー族との事\n"
 "明日は彼等と 発掘調査に赴く予定\n"
-"勇導石を操作する為の遺物発見が急務だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"勇導石を操作する為の遺物発見が急務だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"
@@ -119,7 +119,7 @@ msgstr ""
 "素材は不明だが おそらく各地に点在する祠と\n"
 "同じ物質で造られていると推察している\n"
 "インパの進言により 私が預かる事になった\n"
-"これが研究の進展に繋がれば良いのだが[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"これが研究の進展に繋がれば良いのだが[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAFaAgAAAAAAAA8AAAAEAAAARAAAAEYAAABIAAAASgAAAEwAAABOAAAAUAAAAIoAAADEAAAA/gAAADgBAAByAQAArAEAAOYBAAAgAgAAAAAAAAAAAAAAAAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAANAAAAFQAdwBuAE8AYgBqAF8ASAB5AHIAdQBsAGUAQwBhAHMAdABsAGUAQgBvAG8AawBfAEEAXwAwADQAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAA0AAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAANAAAAFQAdwBuAE8AYgBqAF8ASAB5AHIAdQBsAGUAQwBhAHMAdABsAGUAQgBvAG8AawBfAEEAXwAwADQAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAA0AAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAANAAAAFQAdwBuAE8AYgBqAF8ASAB5AHIAdQBsAGUAQwBhAHMAdABsAGUAQgBvAG8AawBfAEEAXwAwADQAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAA0AAAAAAAA"

@@ -3,45 +3,45 @@ msgstr "Deja que me prepare"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]¡Empezaremos en cuanto\n"
-"estés preparado![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]¡Empezaremos en cuanto\n"
+"estés preparado![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "Volvamos a tierra"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Listo? ¡Vamos![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]¿Listo? ¡Vamos![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0003"
 msgstr "Sí"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Mmm...[PauseShort] ¿Seguimos entonces?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0600\"]Mmm...[PauseShort] ¿Seguimos entonces?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "No"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]La última vez no nos acompañó la suerte,\n"
+"[Sound1 bytes=\"0000\"]La última vez no nos acompañó la suerte,\n"
 "pero ahora lo conseguiremos.[PauseLong] ¿Tienes\n"
 "suficientes [Color name=\"blue\"]flechas explosivas[Color name=\"unset\"]?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]¡Aquí estamos, al fin![PageBreak]Uf, sí que hace frío aquí arriba.\n"
+"[Sound1 bytes=\"0600\"]¡Aquí estamos, al fin![PageBreak]Uf, sí que hace frío aquí arriba.\n"
 "Casi se me congelan las plumas."
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hace un frío terrible.[PauseLong] Haz lo que\n"
+"[Sound1 bytes=\"0000\"]Hace un frío terrible.[PauseLong] Haz lo que\n"
 "tengas que hacer para [Color name=\"blue\"]conservar el\n"
-"calor [Color name=\"unset\"]antes de que alcemos el vuelo.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"calor [Color name=\"unset\"]antes de que alcemos el vuelo.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Bien...[PauseShort] Esa monstruosidad que ves\n"
-"ahí es la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Animation name=\"CustomLaughNose\"]La [Color name=\"blue\"]barrera [Color name=\"unset\"]que la protege es\n"
+"[Sound1 bytes=\"0000\"]Bien...[PauseShort] Esa monstruosidad que ves\n"
+"ahí es la [Color name=\"blue\"][C9:00 bytes=\"02010100\"]bestia divina Vah Medoh[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0201\"][Animation name=\"CustomLaughNose\"]La [Color name=\"blue\"]barrera [Color name=\"unset\"]que la protege es\n"
 "un auténtico estorbo...[PageBreak]¿Qué te pasa?[PauseLong] Estás muy callado.\n"
 "Vamos a repasar el plan."
 
@@ -73,21 +73,21 @@ msgstr "¡Apresúrate!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Atraeré la atención de la bestia para que\n"
+"[Sound1 bytes=\"0600\"]Atraeré la atención de la bestia para que\n"
 "me dispare con los [Color name=\"red\"]cañones[Color name=\"unset\"].[PauseLong] Lánzales\n"
 "[Color name=\"blue\"]flechas explosivas [Color name=\"unset\"]para [Color name=\"red\"]destruirlos[Color name=\"unset\"].\n"
 "¡Cuento contigo, compañero!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]¿Se puede saber qué te pasa?[PauseMid]\n"
-"¿Seguro que quieres volver?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0900\"]¿Se puede saber qué te pasa?[PauseMid]\n"
+"¿Seguro que quieres volver?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "¡Al ataque!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Está bien.[PauseMid] Volvamos a tierra un rato."
+msgstr "[Sound1 bytes=\"0600\"]Está bien.[PauseMid] Volvamos a tierra un rato."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEIAAAAAAAAABIAAAAAAAAAAAAA"

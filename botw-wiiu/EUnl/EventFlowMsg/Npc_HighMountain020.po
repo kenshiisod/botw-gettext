@@ -1,18 +1,18 @@
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ben je erg nat geworden in de regen?"
+msgstr "[Sound1 bytes=\"0000\"]Ben je erg nat geworden in de regen?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jij bent nog laat op!"
+msgstr "[Sound1 bytes=\"0000\"]Jij bent nog laat op!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Leuk dat je er bent!"
+msgstr "[Sound1 bytes=\"0000\"]Leuk dat je er bent!"
 
 msgid "0002"
 msgstr "'s Ochtends."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Welkom in [Color name=\"blue\"]Het Zwaluwnest[Color name=\"unset\"], de herberg\n"
+"[Sound1 bytes=\"0001\"]Welkom in [Color name=\"blue\"]Het Zwaluwnest[Color name=\"unset\"], de herberg\n"
 "van het Rito-dorp."
 
 msgid "0003"
@@ -20,7 +20,7 @@ msgstr "'s Middags."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Prima, dan maak ik je morgenochtend\n"
+"[Sound1 bytes=\"0001\"]Prima, dan maak ik je morgenochtend\n"
 "wakker.[PauseLong] Slaap lekker!"
 
 msgid "0004"
@@ -28,7 +28,7 @@ msgstr "'s Avonds."
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Prima, dan maak ik je morgenmiddag\n"
+"[Sound1 bytes=\"0001\"]Prima, dan maak ik je morgenmiddag\n"
 "wakker.[PauseLong] Slaap lekker!"
 
 msgid "0005"
@@ -36,7 +36,7 @@ msgstr "Laat maar..."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Prima, dan maak ik je morgenavond\n"
+"[Sound1 bytes=\"0001\"]Prima, dan maak ik je morgenavond\n"
 "wakker.[PauseLong] Slaap lekker!"
 
 msgid "0006"
@@ -44,7 +44,7 @@ msgstr "Een normaal bed!"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Goedemorgen![PauseShort] Heb je lekker geslapen in\n"
+"[Sound1 bytes=\"0009\"]Goedemorgen![PauseShort] Heb je lekker geslapen in\n"
 "het Rito-verenbed?"
 
 msgid "0007"
@@ -52,13 +52,13 @@ msgstr "Een Rito-verenbed!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Het kost [Color name=\"red\"]20 rupees[Color name=\"unset\"] om te overnachten in\n"
+"[Sound1 bytes=\"0001\"]Het kost [Color name=\"red\"]20 rupees[Color name=\"unset\"] om te overnachten in\n"
 "een normaal bed en het kost [Color name=\"red\"]80 rupees[Color name=\"unset\"]\n"
-"om te overnachten in een Rito-verenbed.[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"om te overnachten in een Rito-verenbed.[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Hoe beviel het Rito-verenbed? Ik hoop\n"
+"[Sound1 bytes=\"0009\"]Hoe beviel het Rito-verenbed? Ik hoop\n"
 "dat je lekker hebt geslapen!"
 
 msgid "near00"
@@ -69,52 +69,52 @@ msgstr "Een Rito-verenbed?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Oké.[PauseShort] Kom nog eens terug wanneer je\n"
+"[Sound1 bytes=\"0001\"]Oké.[PauseShort] Kom nog eens terug wanneer je\n"
 "moe bent!"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Het is al avond.[PauseLong] Op zo'n Rito-verenbed\n"
+"[Sound1 bytes=\"0009\"]Het is al avond.[PauseLong] Op zo'n Rito-verenbed\n"
 "gaat de tijd enorm snel voorbij, vind je\n"
 "niet?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"8\"]Hmm?[PauseShort] Je hebt niet genoeg rupees.\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Misschien kun je beter terugkomen als je\n"
+"[Sound1 bytes=\"0B08\"]Hmm?[PauseShort] Je hebt niet genoeg rupees.\n"
+"[Sound1 bytes=\"0001\"]Misschien kun je beter terugkomen als je\n"
 "genoeg rupees hebt gespaard."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Wanneer wil je wakker worden?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Wanneer wil je wakker worden?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Het Rito-verenbed is gemaakt van\n"
+"[Sound1 bytes=\"0004\"]Het Rito-verenbed is gemaakt van\n"
 "Rito-dons.[PageBreak]Het is een enorm zacht bed.[PageBreak]Je zult er heerlijk in slapen. Nog beter\n"
 "dan in de bedden die je in elke stal kunt\n"
 "vinden.[PauseShort]\n"
-"[Sound1 unk1=\"7\" unk2=\"9\"]Je wordt de volgende dag vast boordevol\n"
+"[Sound1 bytes=\"0709\"]Je wordt de volgende dag vast boordevol\n"
 "energie wakker! Probeer het maar eens!"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oké dan."
+msgstr "[Sound1 bytes=\"0000\"]Oké dan."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Goedemorgen![PauseShort] Lekker geslapen?"
+msgstr "[Sound1 bytes=\"0001\"]Goedemorgen![PauseShort] Lekker geslapen?"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Hallo![PauseLong] De zon staat al hoog aan de\n"
+"[Sound1 bytes=\"0001\"]Hallo![PauseLong] De zon staat al hoog aan de\n"
 "hemel."
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Lekker geslapen?[PauseShort] Je hebt vast een goede\n"
+"[Sound1 bytes=\"0001\"]Lekker geslapen?[PauseShort] Je hebt vast een goede\n"
 "reden om zo laat op te staan..."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Het was in dit weer vast geen pretje om\n"
+"[Sound1 bytes=\"0000\"]Het was in dit weer vast geen pretje om\n"
 "buiten te zijn."
 
 msgid "_ReadOnly_MsbtExtras"

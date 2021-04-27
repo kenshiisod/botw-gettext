@@ -1,58 +1,58 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]我了解了。"
+msgstr "[Sound1 bytes=\"0001\"]我了解了。"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]多谢您的关心♪"
+msgstr "[Sound1 bytes=\"0109\"]多谢您的关心♪"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]如果您要住宿，[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]如果您要住宿，[PauseShort]\n"
 "还请隔着柜台和我说话。"
 
 msgid "talk18"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"4\" unk2=\"0\"][Color name=\"Gray\"]他突然在问些什么啊？[PauseLong]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0400\"][Color name=\"gray\"]他突然在问些什么啊？[PauseLong]\n"
 "这种时候还是随便回答吧……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]那个……[PauseLong]我喜欢的是[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]那个……[PauseLong]我喜欢的是[PauseShort]\n"
 "……[Color name=\"red\"]蚱蜢[Color name=\"unset\"]。[PauseLong]\n"
 "我的梦想是身边围绕着\n"
 "[Color name=\"red\"]100只精力蚱蜢[Color name=\"unset\"]陪我度日。"
 
 msgid "talk20"
-msgstr "[Size percent=\"80\"][Color name=\"Gray\"]怎么可能嘛……[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Color name=\"gray\"]怎么可能嘛……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "talk21"
-msgstr "[Size percent=\"80\"][Color name=\"Gray\"]真是缠人的客人啊……[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Color name=\"gray\"]真是缠人的客人啊……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "talk22"
-msgstr "[Color name=\"Gray\"][Size percent=\"80\"][Sound1 unk1=\"5\" unk2=\"1\"]最起码不会是万作吧……[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Color name=\"gray\"][Size percent=\"80\"][Sound1 bytes=\"0501\"]最起码不会是万作吧……[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "talk23"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"5\" unk2=\"0\"][Color name=\"Gray\"]我正在工作啊……[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0500\"][Color name=\"gray\"]我正在工作啊……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "talk24"
-msgstr "[Color name=\"Gray\"][Size percent=\"80\"]真要说的话，大概像是西默茨凯先生吧……[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Color name=\"gray\"][Size percent=\"80\"]真要说的话，大概像是西默茨凯先生吧……[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]一般的床是[Color name=\"red\"]20卢比[Color name=\"unset\"]，[PauseMid]\n"
-"松软的床则是[Color name=\"red\"]40卢比[Color name=\"unset\"]。[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]一般的床是[Color name=\"red\"]20卢比[Color name=\"unset\"]，[PauseMid]\n"
+"松软的床则是[Color name=\"red\"]40卢比[Color name=\"unset\"]。[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "near00"
 msgstr "……"
 
 msgid "talk26"
-msgstr "[Size percent=\"80\"][Color name=\"Gray\"]咦……[PauseShort]他突然在问些什么啊？[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Color name=\"gray\"]咦……[PauseShort]他突然在问些什么啊？[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "near01"
 msgstr "哎呀……"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]那个……[PauseShort]应该是[PauseLong]\n"
+"[Sound1 bytes=\"0019\"]那个……[PauseShort]应该是[PauseLong]\n"
 "有包容力的人吧？"
 
 msgid "near02"
@@ -60,29 +60,29 @@ msgstr "欢迎光临。"
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]那个……[PauseShort]应该是[PauseLong]\n"
+"[Sound1 bytes=\"0019\"]那个……[PauseShort]应该是[PauseLong]\n"
 "温柔的人吧？"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"0\"]客人，[PauseShort]您手上拿的[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0400\"]客人，[PauseShort]您手上拿的[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"][PauseShort]\n"
 "可能会对其他客人造成困扰。\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]请您先将它丢掉或处理掉后再光临本店。"
+"[Sound1 bytes=\"0001\"]请您先将它丢掉或处理掉后再光临本店。"
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]那个……[PauseShort]应该是[PauseLong]\n"
+"[Sound1 bytes=\"0019\"]那个……[PauseShort]应该是[PauseLong]\n"
 "喜欢小孩的人吧？"
 
 msgid "0000"
 msgstr "一般的床"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]欢迎光临[Color name=\"blue\"]东风亭[Color name=\"unset\"]。"
+msgstr "[Sound1 bytes=\"0000\"]欢迎光临[Color name=\"blue\"]东风亭[Color name=\"unset\"]。"
 
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]那个……[PauseShort]应该是[PauseLong]\n"
+"[Sound1 bytes=\"0019\"]那个……[PauseShort]应该是[PauseLong]\n"
 "勤勉的人吧？"
 
 msgid "0001"
@@ -90,56 +90,56 @@ msgstr "松软的床"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]我了解了。[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]我了解了。[PauseShort]\n"
 "期待您下次光临。"
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]早上好。"
+msgstr "[Sound1 bytes=\"0004\"]早上好。"
 
 msgid "0002"
 msgstr "算了"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]那么，在此要向您收取订金。\n"
+"[Sound1 bytes=\"0001\"]那么，在此要向您收取订金。\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"17\"]……不好意思，[PauseShort]\n"
+"[Sound1 bytes=\"0B11\"]……不好意思，[PauseShort]\n"
 "您的卢比好像不够。\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]期待您下次光临。"
+"[Sound1 bytes=\"0001\"]期待您下次光临。"
 
 msgid "talk32"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]您好。"
+msgstr "[Sound1 bytes=\"0004\"]您好。"
 
 msgid "0003"
 msgstr "早上"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]我了解了。[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]我了解了。[PauseShort]\n"
 "房间要一般的床，[PauseShort]单人住一晚对吧。\n"
-"您希望睡到什么时候？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"您希望睡到什么时候？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk33"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]晚上好。"
+msgstr "[Sound1 bytes=\"0004\"]晚上好。"
 
 msgid "0004"
 msgstr "中午"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"10\"]我了解了。[PauseShort]\n"
+"[Sound1 bytes=\"000A\"]我了解了。[PauseShort]\n"
 "房间要松软的床，[PauseShort]单人住一晚对吧。\n"
-"您希望睡到什么时候？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"您希望睡到什么时候？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk34"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]外面下雨，您辛苦了。"
+msgstr "[Sound1 bytes=\"0004\"]外面下雨，您辛苦了。"
 
 msgid "0005"
 msgstr "晚上"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]我了解了。\n"
+"[Sound1 bytes=\"0000\"]我了解了。\n"
 "\n"
 "这段时间还请您好好休息。"
 
@@ -147,26 +147,26 @@ msgid "0006"
 msgstr "还是算了"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]早上好。"
+msgstr "[Sound1 bytes=\"0001\"]早上好。"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]睡得还好吗？"
+msgstr "[Sound1 bytes=\"0001\"]睡得还好吗？"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]您要出发了吗？"
+msgstr "[Sound1 bytes=\"0001\"]您要出发了吗？"
 
 msgid "0009"
 msgstr "辛苦了！"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"10\"]诚挚期待您下次光临。"
+msgstr "[Sound1 bytes=\"000A\"]诚挚期待您下次光临。"
 
 msgid "0010"
 msgstr "没什么……"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"43\"]客人，[PauseShort]您这样的行为[PauseShort]\n"
+"[Sound1 bytes=\"042B\"]客人，[PauseShort]您这样的行为[PauseShort]\n"
 "会对其他客人造成困扰。\n"
 "请您别这么做。"
 
@@ -174,16 +174,16 @@ msgid "0011"
 msgstr "你喜欢什么东西？"
 
 msgid "talk12"
-msgstr "[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"2\" unk2=\"1\"]真受不了……[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0201\"]真受不了……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "0012"
 msgstr "你理想的对象类型是？"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]……客人？[PauseShort]有什么我能效劳的吗？[Choice4Flags label1=\"12\" flag1=\"HatenoNPC014_Ride_Favorite\" label2=\"11\" flag2=\"HatenoNPC014_Favorite\" label3=\"9\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]……客人？[PauseShort]有什么我能效劳的吗？[Choice4Flags label1=\"12\" flag1=\"HatenoNPC014_Ride_Favorite\" label2=\"11\" flag2=\"HatenoNPC014_Favorite\" label3=\"9\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"2\" unk2=\"1\"]真缠人……[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0201\"]真缠人……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAEeBwAAAAAAADEAAAAEAAAAzAAAAPYAAAAgAQAASgEAAEwBAABOAQAAUAEAAFIBAABUAQAAVgEAAFgBAABaAQAAXAEAAF4BAABgAQAAigEAALQBAADeAQAACAIAADICAABcAgAAhgIAALACAADaAgAABAMAAC4DAABYAwAAggMAAKwDAADWAwAAAAQAACoEAABUBAAAfgQAAKgEAADSBAAA/AQAACYFAABQBQAAegUAAKQFAADOBQAA+AUAACIGAABMBgAAdgYAAKAGAADKBgAA9AYAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADEANAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAxADQAAAAAAAA="

@@ -15,22 +15,22 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_000"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]哦？\n"
+"[Sound1 bytes=\"0B06\"]哦？\n"
 "在這樣的高地上竟會遇見人……[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]詩中的英傑開口對我訴說，\n"
+"[Sound1 bytes=\"030C\"]詩中的英傑開口對我訴說，\n"
 "希望我務必完成這首詩……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_002"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]哎呀，真不好意思，\n"
+"[Sound1 bytes=\"0300\"]哎呀，真不好意思，\n"
 "我在邊境之地旅行時，總會自言自語……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]慶幸的從[Color name=\"blue\"]格魯德[Color name=\"unset\"]的[Color name=\"blue\"]族長[Color name=\"unset\"]與[Color name=\"blue\"]護衛[Color name=\"unset\"]那裡,\n"
+"[Sound1 bytes=\"0000\"]慶幸的從[Color name=\"blue\"]格魯德[Color name=\"unset\"]的[Color name=\"blue\"]族長[Color name=\"unset\"]與[Color name=\"blue\"]護衛[Color name=\"unset\"]那裡,\n"
 "我得以聽見有關英傑的寶貴故事。"
 
 msgid "Npc_DungeonPriest_HeroGerudoRelief_001"
@@ -43,17 +43,17 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]啊啊……能在[Color name=\"blue\"]神獸[Color name=\"unset\"]守望之地\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]啊啊……能在[Color name=\"blue\"]神獸[Color name=\"unset\"]守望之地\n"
 "吟唱這首詩歌，真是幸福……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_205"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]不枉我為了進入[Color name=\"blue\"]格魯德小鎮[Color name=\"unset\"]，\n"
+"[Sound1 bytes=\"0601\"]不枉我為了進入[Color name=\"blue\"]格魯德小鎮[Color name=\"unset\"]，\n"
 "費了一番難以啟齒的工夫啊。"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]師父留下來的……\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]師父留下來的……\n"
 "挑戰考驗的[Color name=\"blue\"]英傑烏爾波扎之章[Color name=\"unset\"]。\n"
 "[PauseAuto frames=\"40\"]就讓我吟唱給你聽吧。"
 
@@ -64,7 +64,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_206"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]為此，我必須先更加深入\n"
+"[Sound1 bytes=\"0000\"]為此，我必須先更加深入\n"
 "了解英傑的事蹟……"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -1,23 +1,23 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Vamos a hacer un gorotrato: te vendo\n"
-"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"] por [Color name=\"red\"]60 rupias[Color name=\"unset\"], ¿vale?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]Vamos a hacer un gorotrato: te vendo\n"
+"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"] por [Color name=\"red\"]60 rupias[Color name=\"unset\"], ¿vale?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Anda, ¡el hyliano otra vez![PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] se habrá gorocalmado,[PauseShort]\n"
+"[Sound1 bytes=\"0600\"]Anda, ¡el hyliano otra vez![PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] se habrá gorocalmado,[PauseShort]\n"
 "¡pero no se puede decir lo mismo\n"
 "de las temperaturas!\n"
 "Cuando ya no puedas soportar el calor,\n"
 "usa un poco de [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"] y ya verás;\n"
-"¡como nuevo![PauseLong] Necesitas más, ¿a que sí?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"¡como nuevo![PauseLong] Necesitas más, ¿a que sí?[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near00"
 msgstr "Fiuuu..."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]¿Quéee?[PauseShort] ¡Te faltan gororrupias![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Supongo que [PauseShort]no en todas partes\n"
+"[Sound1 bytes=\"0B00\"]¿Quéee?[PauseShort] ¡Te faltan gororrupias![PageBreak][Sound1 bytes=\"0000\"]Supongo que [PauseShort]no en todas partes\n"
 "hay tanta pasta como en esta ciudad..."
 
 msgid "near01"
@@ -25,7 +25,7 @@ msgstr "Zzz... zzz..."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]¡Me encanta gorovender cosas![PauseShort]\n"
+"[Sound1 bytes=\"0700\"]¡Me encanta gorovender cosas![PauseShort]\n"
 "Aquí tienes."
 
 msgid "near02"
@@ -33,26 +33,26 @@ msgstr "Qué sueñooo..."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]A un [Color name=\"blue\"]hyliano[Color name=\"unset\"] como tú le hará gorofalta\n"
+"[Sound1 bytes=\"0000\"]A un [Color name=\"blue\"]hyliano[Color name=\"unset\"] como tú le hará gorofalta\n"
 "alguno más.[PauseShort] ¡Hazme caso![PageBreak]Venga, solo [Color name=\"red\"]60 gororrupias[Color name=\"unset\"] por otro.\n"
-"¿Qué me dices?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"¿Qué me dices?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ahí va...[PauseShort] ¡Tu alforja está gorollena![PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Ahí va...[PauseShort] ¡Tu alforja está gorollena![PauseMid]\n"
 "Haz un poco de hueco, anda."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Oye, tú! ¡Cómprame algo![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0700\"]¡Oye, tú! ¡Cómprame algo![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]Tengo algo goroideal para un [Color name=\"blue\"]hyliano[Color name=\"unset\"]\n"
-"como tú...[PauseMid] ¡un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"]![Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0310\"]Tengo algo goroideal para un [Color name=\"blue\"]hyliano[Color name=\"unset\"]\n"
+"como tú...[PauseMid] ¡un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"]![Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Como luego empieces a echar gorohumo\n"
+"[Sound1 bytes=\"0800\"]Como luego empieces a echar gorohumo\n"
 "no me vengas llorando, ¿eh?"
 
 msgid "0000"
@@ -69,32 +69,32 @@ msgstr "¡Compro!"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Tienes gorocara de necesitar\n"
-"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"], ¿a que sí?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]Tienes gorocara de necesitar\n"
+"un [Color name=\"blue\"]elixir ignífugo[Color name=\"unset\"], ¿a que sí?[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0004"
 msgstr "Déjalo"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"][Size percent=\"80\"]Dududú...[Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¡Ostras![PauseShort] ¡Un gorocliente!"
+msgstr "[Sound1 bytes=\"0900\"][Size percent=\"80\"]Dududú...[Size percent=\"100\"][PageBreak][Sound1 bytes=\"0000\"]¡Ostras![PauseShort] ¡Un gorocliente!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]¿Entonces para qué me goromolestas?"
+msgstr "[Sound1 bytes=\"0800\"]¿Entonces para qué me goromolestas?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"80\"][Color name=\"Gray\"]Si se cocina algún [Color name=\"blue\"][C9:00 bytes=\"01000000\"]lagarto ignífugo[Color name=\"Gray\"] con\n"
-"[Color name=\"blue\"]ingredientes monstruosos[Color name=\"Gray\"], pasará algo\n"
+"[Sound1 bytes=\"0100\"][Size percent=\"80\"][Color name=\"gray\"]Si se cocina algún [Color name=\"blue\"][C9:00 bytes=\"01000000\"]lagarto ignífugo[Color name=\"gray\"] con\n"
+"[Color name=\"blue\"]ingredientes monstruosos[Color name=\"gray\"], pasará algo\n"
 "muy interesante...[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]¡Hasta la gorovista!"
+msgstr "[Sound1 bytes=\"0104\"]¡Hasta la gorovista!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"Gray\"][Size percent=\"80\"]Todo ha salido a pedir de boca.[Size percent=\"100\"][Color name=\"unset\"][PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Nada, nada... No decía nada."
+msgstr "[Sound1 bytes=\"0109\"][Color name=\"gray\"][Size percent=\"80\"]Todo ha salido a pedir de boca.[Size percent=\"100\"][Color name=\"unset\"][PageBreak][Sound1 bytes=\"0601\"]Nada, nada... No decía nada."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Ahí tienes."
+msgstr "[Sound1 bytes=\"0700\"]Ahí tienes."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAIIAAACcAAAAtgAAALgAAAC6AAAAvAAAAL4AAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADMAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMwAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAzAAAAAAAA"

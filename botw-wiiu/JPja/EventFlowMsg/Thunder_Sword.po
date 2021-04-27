@@ -9,7 +9,7 @@ msgstr "天の稲妻…"
 #, ruby
 msgid "Npc_Musician_005_R_021"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]おや？[PauseShort] こんな雨の中\n"
+"[Sound1 bytes=\"0413\"]おや？[PauseShort] こんな雨の中\n"
 "よく このような場所まで…[PauseMid]"
 
 #, ruby
@@ -21,14 +21,14 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_005_R_051"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]何やら謎めいていますね\n"
+"[Sound1 bytes=\"0510\"]何やら謎めいていますね\n"
 "私には意味までは分かりかねますが…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では あなたの旅路に光がありますよう…"
+"[Sound1 bytes=\"0001\"]では あなたの旅路に光がありますよう…"
 
 #, ruby
 msgid "Npc_LakeSideHatago005_R_011"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"23\"]フロリア湖[Color name=\"unset\"]に流れ落ちる滝は見事だろう[PageBreak]あの[Color name=\"red\"]大きな滝の上[Color name=\"unset\"]に\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0017\"]フロリア湖[Color name=\"unset\"]に流れ落ちる滝は見事だろう[PageBreak]あの[Color name=\"red\"]大きな滝の上[Color name=\"unset\"]に\n"
 "何か奇妙なものがあるんだ"
 
 #, ruby
@@ -50,13 +50,13 @@ msgstr "聞かせて"
 #, ruby
 msgid "Npc_Musician_005_F_021"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"4\"]まさか [Color name=\"red\"]落雷で壊れる岩[Color name=\"unset\"]の中に\n"
+"[Sound1 bytes=\"0A04\"]まさか [Color name=\"red\"]落雷で壊れる岩[Color name=\"unset\"]の中に\n"
 "祠が隠されているとは…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]わが身が雷で撃たれたかと思うほど\n"
+"[Sound1 bytes=\"0001\"]わが身が雷で撃たれたかと思うほど\n"
 "衝撃的な出来事でした\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]あなたの行いは\n"
+"[Sound1 bytes=\"0109\"]あなたの行いは\n"
 "新たな伝説の詩にできそうですね\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では あなたの旅路に光がありますよう…"
+"[Sound1 bytes=\"0001\"]では あなたの旅路に光がありますよう…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAFiAQAAAAAAAAoAAAAEAAAAMAAAAFwAAACIAAAAtAAAANYAAAD4AAAAGgEAADwBAAA+AQAAQAEAAE4AcABjAF8ATABhAGsAZQBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAA1AAAATgBwAGMAXwBMAGEAawBlAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADUAAABOAHAAYwBfAEwAYQBrAGUAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAANQAAAE4AcABjAF8ATQB1AHMAaQBjAGkAYQBuAF8AMAAwADUAAABOAHAAYwBfAE0AdQBzAGkAYwBpAGEAbgBfADAAMAA1AAAATgBwAGMAXwBNAHUAcwBpAGMAaQBhAG4AXwAwADAANQAAAE4AcABjAF8ATQB1AHMAaQBjAGkAYQBuAF8AMAAwADUAAAAAAAAATgBwAGMAXwBNAHUAcwBpAGMAaQBhAG4AXwAwADAANQAAAAAAAA=="

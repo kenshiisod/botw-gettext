@@ -4,7 +4,7 @@ msgstr "こわいねえ"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]雷は こわいねえ…[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]雷は こわいねえ…[PauseMid]\n"
 "\n"
 "あんちゃん 聞いたことあるか？[PauseShort]\n"
 "雷は 龍神様が怒ってる標だって\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #, ruby
 msgid "talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]おぅ あんちゃん[PauseShort] [Color name=\"blue\"]地図[Color name=\"unset\"]持ってるか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]おぅ あんちゃん[PauseShort] [Color name=\"blue\"]地図[Color name=\"unset\"]持ってるか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"
@@ -22,7 +22,7 @@ msgstr "持ってる"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]地図も持たずに 旅するなんて\n"
+"[Sound1 bytes=\"0000\"]地図も持たずに 旅するなんて\n"
 "気がしれないな"
 
 #, ruby
@@ -36,7 +36,7 @@ msgstr "持ってない"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]だったら ここから北に[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]だったら ここから北に[PauseShort]\n"
 "[Color name=\"blue\"]双子山[Color name=\"unset\"]ってのが載ってるだろ？\n"
 "あそこ [PauseShort]昔は1つの山だったらしいけど\n"
 "\n"

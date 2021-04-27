@@ -1,23 +1,23 @@
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]你的材料不足啊！"
+msgstr "[Sound1 bytes=\"000E\"]你的材料不足啊！"
 
 msgid "0002"
 msgstr "进行转换"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]你的钱不够啊！"
+msgstr "[Sound1 bytes=\"000E\"]你的钱不够啊！"
 
 msgid "0003"
 msgstr "改选其他项"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]你的东西太多，装不下了！"
+msgstr "[Sound1 bytes=\"000E\"]你的东西太多，装不下了！"
 
 msgid "talk09"
 msgstr "好的～"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]欢迎光临，[PauseLong]哇哩。"
+msgstr "[Sound1 bytes=\"0002\"]欢迎光临，[PauseLong]哇哩。"
 
 msgid "talk10"
 msgstr "欢迎！"
@@ -35,14 +35,14 @@ msgstr "请放入材料。"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]谢谢惠顾。[PauseShort]\n"
+"[Sound1 bytes=\"000B\"]谢谢惠顾。[PauseShort]\n"
 "还请再度光临，[PauseLong]哇哩。"
 
 msgid "near02"
 msgstr "没有异常。"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"16\"]要转换为[02:0B name=\"Shop_SelectItemName\"]吗？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0610\"]要转换为[02:0B name=\"Shop_SelectItemName\"]吗？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "运作中。"
@@ -53,7 +53,7 @@ msgstr ""
 "转换中……[PauseShort][Size percent=\"80\"]噗哩噗哩噗～[Size percent=\"100\"]"
 
 msgid "talk05"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"11\"]完成了～！[PauseShort]换下一件～[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"000B\"]完成了～！[PauseShort]换下一件～[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEgAwAAAAAAABEAAAAEAAAATAAAAHwAAACsAAAA3AAAAAwBAAAOAQAAEAEAAEABAABwAQAAoAEAANABAAAAAgAAMAIAAGACAACQAgAAwAIAAPACAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAAAAAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAAAAA"

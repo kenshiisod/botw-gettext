@@ -15,7 +15,7 @@ msgstr "Почему ты не понимаешь?..[Pause frames=\"30\"]"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Я посадила цветы вокруг святилища![PauseShort]\n"
+"[Sound1 bytes=\"0008\"]Я посадила цветы вокруг святилища![PauseShort]\n"
 "Пожалуйста, не топчи их."
 
 msgid "Fail_Run_St2"
@@ -23,24 +23,24 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]Р-р-р! Не-е-е-ет!!![Siz
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"]Пожалуйста, [Color name=\"red\"]не топчи цветы[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0B11\"]Пожалуйста, [Color name=\"red\"]не топчи цветы[Color name=\"unset\"],\n"
 "им ведь очень больно!"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Я же говорила: [Color name=\"red\"]будь осторожнее\n"
+"[Sound1 bytes=\"080E\"]Я же говорила: [Color name=\"red\"]будь осторожнее\n"
 "с цветами[Color name=\"unset\"]![PauseShort] Они все-таки живые!"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Ты только посмотри, какая\n"
+"[Sound1 bytes=\"0113\"]Ты только посмотри, какая\n"
 "красота![PauseShort] Это я посадила\n"
-"цветы вокруг святилища.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Можешь любоваться, но\n"
+"цветы вокруг святилища.[PageBreak][Sound1 bytes=\"0001\"]Можешь любоваться, но\n"
 "не вздумай их топтать!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Полюбуйся цветами![PauseShort]\n"
+"[Sound1 bytes=\"0008\"]Полюбуйся цветами![PauseShort]\n"
 "Я сажала их с любовью!"
 
 msgid "Fail_3"
@@ -53,7 +53,7 @@ msgstr ""
 "ты обижаешь их...[Pause frames=\"16\"]"
 
 msgid "Fail_4"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]Эй! Ты что делаешь![PauseShort] [Color name=\"red\"]Не топчи цветы[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"080E\"]Эй! Ты что делаешь![PauseShort] [Color name=\"red\"]Не топчи цветы[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAFkAgAAAAAAAA4AAAAEAAAAQAAAAGoAAACUAAAAvgAAAOgAAAASAQAAPAEAAGYBAACQAQAAugEAAOQBAADmAQAAEAIAADoCAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAABOAHAAYwBfAEMAaABhAGwAbABlAG4AZwBlADAAOQAzAEwAYQBkAHkAAAAAAE4AcABjAF8AQwBoAGEAbABsAGUAbgBnAGUAMAA5ADMATABhAGQAeQAAAE4AcABjAF8AQwBoAGEAbABsAGUAbgBnAGUAMAA5ADMATABhAGQAeQAAAE4AcABjAF8AQwBoAGEAbABsAGUAbgBnAGUAMAA5ADMATABhAGQAeQAAAAAAAA=="

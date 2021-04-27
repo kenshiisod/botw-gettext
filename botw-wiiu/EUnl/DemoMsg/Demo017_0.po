@@ -1,6 +1,6 @@
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Mijn vrienden zitten ook her en der\n"
+"[Sound1 bytes=\"0000\"]Mijn vrienden zitten ook her en der\n"
 "verborgen.[PageBreak]Dus zie je iets verdachts, bekijk het dan\n"
 "eens van dichtbij!"
 
@@ -8,15 +8,15 @@ msgid "CompTalk02"
 msgstr "Je hebt alle verborgen Koroks gevonden!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]Woehoe! Je hebt me gevonden!"
+msgstr "[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]Woehoe! Je hebt me gevonden!"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Tot later!"
+msgstr "[Sound1 bytes=\"0700\"]Tot later!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]Waah! Je hebt me gevonden![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Huh?[PauseShort] Jij bent Hestu niet![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Maar jij kunt...[PauseMid] me zien? Ik wist helemaal\n"
-"niet dat jouw soort mijn soort kon zien![PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Nou ja,[PauseShort] als je Hestu tegenkomt, geef dit\n"
+"[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]Waah! Je hebt me gevonden![PageBreak][Sound1 bytes=\"0B00\"]Huh?[PauseShort] Jij bent Hestu niet![PageBreak][Sound1 bytes=\"0000\"]Maar jij kunt...[PauseMid] me zien? Ik wist helemaal\n"
+"niet dat jouw soort mijn soort kon zien![PageBreak][Sound1 bytes=\"0700\"]Nou ja,[PauseShort] als je Hestu tegenkomt, geef dit\n"
 "dan aan hem terug."
 
 msgid "CompTalk01"

@@ -1,5 +1,5 @@
 msgid "talk_09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]兴趣真奇怪呢……"
+msgstr "[Sound1 bytes=\"0000\"]兴趣真奇怪呢……"
 
 msgid "0001"
 msgstr "沙漠？"
@@ -12,59 +12,59 @@ msgstr "故乡？"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]嗯～这里的热度刚刚好，很舒服呢，\n"
+"[Sound1 bytes=\"0000\"]嗯～这里的热度刚刚好，很舒服呢，\n"
 "和沙漠的高温完全不同。\n"
-"你是来观光的吗？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"你是来观光的吗？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]沙沃塔。"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]沙沃塔。"
 
 msgid "talk_11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]沙瓦库。"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]沙瓦库。"
 
 msgid "talk_01"
 msgstr "ZZzz……"
 
 msgid "talk_12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]沙瓦沙巴。"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]沙瓦沙巴。"
 
 msgid "talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]那里可以看见一座叫[Color name=\"blue\"]塞哈特诺岛[Color name=\"unset\"]的岛。[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]那里可以看见一座叫[Color name=\"blue\"]塞哈特诺岛[Color name=\"unset\"]的岛。[PauseShort]\n"
 "我就是想去那边，才来到这里的。"
 
 msgid "talk_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]这里以东的海面上有座很大的岛，[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]这里以东的海面上有座很大的岛，[PauseShort]\n"
 "叫[Color name=\"blue\"]塞哈特诺岛[Color name=\"unset\"]。\n"
 "我就是想去那地方，\n"
 "才来到这里的。"
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]要是我也有双[Color name=\"red\"]翅膀[Color name=\"unset\"]的话就好了……[PauseShort]"
+msgstr "[Sound1 bytes=\"0B00\"]要是我也有双[Color name=\"red\"]翅膀[Color name=\"unset\"]的话就好了……[PauseShort]"
 
 msgid "talk_04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]不过就算搭船，也很难抵达。[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]不过就算搭船，也很难抵达。[PauseShort]\n"
 "看来要是不长出[Color name=\"red\"]翅膀[Color name=\"unset\"]，可去不了那里呢……"
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]呼，雨真是讨厌呢。\n"
-"好怀念故乡啊。[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0900\"]呼，雨真是讨厌呢。\n"
+"好怀念故乡啊。[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near00"
 msgstr "好远啊……"
 
 msgid "talk_06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]这样啊，至于我呢……[PauseShort]"
+msgstr "[Sound1 bytes=\"0604\"]这样啊，至于我呢……[PauseShort]"
 
 msgid "Near01"
 msgstr "下雨了。"
 
 msgid "talk_07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"4\"]啊，我的故乡在格鲁德小镇，\n"
+"[Sound1 bytes=\"0604\"]啊，我的故乡在格鲁德小镇，\n"
 "是个被沙漠围绕的小镇呢。"
 
 msgid "Near02"
@@ -72,7 +72,7 @@ msgstr "昏昏欲睡……"
 
 msgid "talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]是啊，我的故乡是格鲁德小镇，\n"
+"[Sound1 bytes=\"0000\"]是啊，我的故乡是格鲁德小镇，\n"
 "是座被沙漠围绕的小镇。\n"
 "毕竟沙漠可就不会下雨了。\n"
 "\n"

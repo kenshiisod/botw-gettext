@@ -1,50 +1,50 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Jammer... Ik weet dat het ergens richting\n"
+"[Sound1 bytes=\"0900\"]Jammer... Ik weet dat het ergens richting\n"
 "het zuidwesten is...[PageBreak]Was mijn richtingsgevoel maar net zo\n"
 "goed ontwikkeld als mijn reukzin..."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Echt niet?[PageBreak]Ik weet zeker dat ik je eerder heb gezien\n"
+"[Sound1 bytes=\"0B00\"]Echt niet?[PageBreak]Ik weet zeker dat ik je eerder heb gezien\n"
 "in de buurt van de woestijn..."
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Jij bent...[PauseMid][Sound2 id=\"7\"] Link, toch?"
+msgstr "[Sound1 bytes=\"0101\"]Jij bent...[PauseMid][Sound2 id=\"7\"] Link, toch?"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Gelukkig! Ik dacht al dat je het me niet\n"
+"[Sound1 bytes=\"0001\"]Gelukkig! Ik dacht al dat je het me niet\n"
 "wilde vertellen."
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Daar ben je weer, Link."
+msgstr "[Sound1 bytes=\"0109\"]Daar ben je weer, Link."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je leven is voorbij![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je leven is voorbij![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Sorry... Weet jij toevallig hoe ik bij de\n"
-"Gerudo-woestijn kom?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0900\"]Sorry... Weet jij toevallig hoe ik bij de\n"
+"Gerudo-woestijn kom?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Ja."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Sterf, vijand van de baas![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Sterf, vijand van de baas![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "Geen idee."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Ik ben blij dat ik je ben tegengekomen. Ik\n"
+"[Sound1 bytes=\"0700\"]Ik ben blij dat ik je ben tegengekomen. Ik\n"
 "was verdwaald.[PauseShort] En nou kan ik ook nog\n"
 "een mooi souvenir meenemen..."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"7\"]Jouw hoofd!"
+msgstr "[Sound1 bytes=\"0101\"][Sound2 id=\"7\"]Jouw hoofd!"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"11\"]Ik ben verdwaald..."

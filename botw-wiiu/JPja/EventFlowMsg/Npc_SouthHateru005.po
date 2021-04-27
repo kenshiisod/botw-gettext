@@ -1,11 +1,11 @@
 #, ruby
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]ぼくらの出番ってこと！"
+msgstr "[Sound1 bytes=\"070B\"]ぼくらの出番ってこと！"
 
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]ヒヒーン！[PauseShort]\n"
+"[Sound1 bytes=\"070A\"]ヒヒーン！[PauseShort]\n"
 "ようこそ [Color name=\"blue\"]双子馬宿[Color name=\"unset\"]へ！\n"
 "正確には…[PauseShort]\n"
 "ようこそ[Color name=\"blue\"]双子馬宿[Color name=\"unset\"]の馬小屋前へ！"
@@ -13,7 +13,7 @@ msgstr ""
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]目を見ればわかるんだ！\n"
+"[Sound1 bytes=\"0000\"]目を見ればわかるんだ！\n"
 "\n"
 "お兄ちゃん\n"
 "馬のことで頭がいっぱいだよね？"
@@ -21,7 +21,7 @@ msgstr ""
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そう！ [PauseShort]目を見ればわかるんだ！\n"
+"[Sound1 bytes=\"0000\"]そう！ [PauseShort]目を見ればわかるんだ！\n"
 "\n"
 "お兄ちゃんの今の頭の中って[PauseShort]\n"
 "馬 馬 馬 馬 飯 馬 馬… [PauseShort]だよね？"
@@ -29,66 +29,66 @@ msgstr ""
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]だったら ぼくらがお役に立てるよ！[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]だったら ぼくらがお役に立てるよ！[PauseShort]\n"
 "馬のことならぼくらに聞いて！"
 
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]しゃがんでそぉ～っと近づけば…\n"
+"[Sound1 bytes=\"0510\"]しゃがんでそぉ～っと近づけば…\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"10\"]気づかれにくいんだ！"
+"[Sound1 bytes=\"070A\"]気づかれにくいんだ！"
 
 #, ruby
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]でも[Color name=\"blue\"]単色種[Color name=\"unset\"]って スタミナが多くて\n"
+"[Sound1 bytes=\"0B00\"]でも[Color name=\"blue\"]単色種[Color name=\"unset\"]って スタミナが多くて\n"
 "走るのも速いんでしょ？"
 
 #, ruby
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]最初は大変だって父ちゃん言ってたけど\n"
+"[Sound1 bytes=\"0601\"]最初は大変だって父ちゃん言ってたけど\n"
 "[Color name=\"blue\"]単色種[Color name=\"unset\"]は慣れるとすごく重宝するんだって"
 
 #, ruby
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]父ちゃんは初心者なら\n"
+"[Sound1 bytes=\"0000\"]父ちゃんは初心者なら\n"
 "まずは[Color name=\"blue\"]ブチ種[Color name=\"unset\"]にしとけって言ってたけど \n"
 "オレは大きくなったらまず[Color name=\"blue\"]単色種[Color name=\"unset\"]に乗るんだ！"
 
 #, ruby
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]でも やみくもに なだめても\n"
+"[Sound1 bytes=\"0B00\"]でも やみくもに なだめても\n"
 "ダメって父ちゃん言ってたよ"
 
 #, ruby
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]ちゃんと いう事を聞いたときに\n"
+"[Sound1 bytes=\"0601\"]ちゃんと いう事を聞いたときに\n"
 "なだめてあげるんだよ\n"
 "お馬さんに乗る時とか… 降りる前とか… [PauseShort]\n"
 "「ありがとう」の代わりにするんだよ！"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]じゃあね バイバイ！[PauseShort]\n"
+"[Sound1 bytes=\"0704\"]じゃあね バイバイ！[PauseShort]\n"
 "またね ヒヒーン！"
 
 #, ruby
 msgid "talk27"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]あっ 双子じゃないお兄ちゃんだよ シーバ！"
+msgstr "[Sound1 bytes=\"0004\"]あっ 双子じゃないお兄ちゃんだよ シーバ！"
 
 #, ruby
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]あっ 双子じゃないお兄ちゃんだね！ ダート！"
+msgstr "[Sound1 bytes=\"0004\"]あっ 双子じゃないお兄ちゃんだね！ ダート！"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"][Size percent=\"80\"]ねえ シーバ…\n"
+"[Sound1 bytes=\"0006\"][Size percent=\"80\"]ねえ シーバ…\n"
 "\n"
 "そこに立ってるお兄ちゃん\n"
 "馬に興味があるのかな？[Size percent=\"100\"]"
@@ -96,14 +96,14 @@ msgstr ""
 #, ruby
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]父ちゃんにいっぱい教えてもらったんだ！\n"
-"お馬さんの事ならオレ達に任せてよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0109\"]父ちゃんにいっぱい教えてもらったんだ！\n"
+"お馬さんの事ならオレ達に任せてよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "捕まえ方"
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"][Size percent=\"80\"]ねむくなっちゃった…[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0922\"][Size percent=\"80\"]ねむくなっちゃった…[Size percent=\"100\"]"
 
 msgid "Near_01"
 msgstr "スピー…"
@@ -114,7 +114,7 @@ msgstr "いい馬は？"
 #, ruby
 msgid "talk31"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]ブチ種さんが1匹…[PauseLong]\n"
+"[Sound1 bytes=\"0021\"][Size percent=\"80\"]ブチ種さんが1匹…[PauseLong]\n"
 "ブチ種さんが2匹…[Size percent=\"100\"]"
 
 msgid "Near_02"
@@ -129,82 +129,82 @@ msgstr "けっこうです"
 #, ruby
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]今日はダートより早く\n"
+"[Sound1 bytes=\"0000\"]今日はダートより早く\n"
 "お馬さんの所に行くんだ！"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"][Size percent=\"80\"]そうだね ダート…\n"
+"[Sound1 bytes=\"0010\"][Size percent=\"80\"]そうだね ダート…\n"
 "\n"
 "馬に乗りたくてしかたないって目をしてるよね[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk34"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]父ちゃんはお馬さんのチャンピオンの\n"
+"[Sound1 bytes=\"0709\"]父ちゃんはお馬さんのチャンピオンの\n"
 "次のチャンピオンなんだ！"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]野生のお馬さんは 臆病だから\n"
+"[Sound1 bytes=\"0004\"]野生のお馬さんは 臆病だから\n"
 "人間に気付くと すぐに逃げちゃうんだ！\n"
 "後ろから そぉ～っと近づいて\n"
 "近くまで行ったら…\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]ひょいって 飛び乗るんだよ！"
+"[Sound1 bytes=\"0700\"]ひょいって 飛び乗るんだよ！"
 
 #, ruby
 msgid "talk35"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]やった！ 今日はダートより早く着いたぞ！"
+msgstr "[Sound1 bytes=\"0700\"]やった！ 今日はダートより早く着いたぞ！"
 
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ブチがあるお馬さんは [Color name=\"blue\"]ブチ種[Color name=\"unset\"]っていって\n"
+"[Sound1 bytes=\"0004\"]ブチがあるお馬さんは [Color name=\"blue\"]ブチ種[Color name=\"unset\"]っていって\n"
 "おとなしくて 人になつきやすいんだ\n"
 "逆に 黒や白とか一色のお馬は[Color name=\"blue\"]単色種[Color name=\"unset\"]っていって\n"
 "気性が荒くて 手なずけにくいんだよ"
 
 msgid "talk36"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]すごいだろー！"
+msgstr "[Sound1 bytes=\"0700\"]すごいだろー！"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]野生だから なついてない間は\n"
+"[Sound1 bytes=\"0004\"]野生だから なついてない間は\n"
 "変な方向にいったり 時には暴れたりするんだ\n"
 "そんなときは なだめてあげるといいんだって"
 
 #, ruby
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]お兄ちゃん わかった？ "
+msgstr "[Sound1 bytes=\"010A\"]お兄ちゃん わかった？ "
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]父ちゃんにいっぱい教えてもらったんだ！\n"
-"お馬さんの事なら任せてよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0709\"]父ちゃんにいっぱい教えてもらったんだ！\n"
+"お馬さんの事なら任せてよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]もう馬が気になりすぎて\n"
+"[Sound1 bytes=\"0001\"][Size percent=\"80\"]もう馬が気になりすぎて\n"
 "馬以外のことは どうでもよくなりかけてる目だよね[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]馬をヒヒーンと乗りこなすための\n"
+"[Sound1 bytes=\"0709\"]馬をヒヒーンと乗りこなすための\n"
 "ヒヒーントがいっぱい！\n"
 "[Size percent=\"80\"]…あ [PauseShort]今のはぼくじゃなくて\n"
-"父ちゃんが考えたダジャレだからね！[Size percent=\"100\"][Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"父ちゃんが考えたダジャレだからね！[Size percent=\"100\"][Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Size percent=\"80\"]…ってことは？[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0101\"][Size percent=\"80\"]…ってことは？[Size percent=\"100\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Size percent=\"80\"]…ってことは？[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0101\"][Size percent=\"80\"]…ってことは？[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAHoBQAAAAAAACYAAAAEAAAAoAAAAMoAAADwAAAAGgEAAEABAABqAQAAlAEAALoBAADkAQAACgIAADQCAABaAgAAXAIAAF4CAABgAgAAYgIAAIgCAACyAgAA2AIAAAIDAAAoAwAATgMAAHQDAACeAwAAxAMAAO4DAAAUBAAAOgQAAGAEAACKBAAAtAQAANoEAAAEBQAAKgUAAFAFAAB2BQAAnAUAAMIFAABOAHAAYwBfAEgAdQB0AGEAZwBvAEgAYQB0AGEAZwBvAF8AMAAwADIAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8ASAB1AHQAYQBnAG8ASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBIAHUAdABhAGcAbwBIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBIAHUAdABhAGcAbwBIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAEgAdQB0AGEAZwBvAEgAYQB0AGEAZwBvAF8AMAAwADIAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8ASAB1AHQAYQBnAG8ASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAAAAAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8ASAB1AHQAYQBnAG8ASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBIAHUAdABhAGcAbwBIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBIAHUAdABhAGcAbwBIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAEgAdQB0AGEAZwBvAEgAYQB0AGEAZwBvAF8AMAAwADIAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAEgAdQB0AGEAZwBvAEgAYQB0AGEAZwBvAF8AMAAwADIAAABOAHAAYwBfAEgAdQB0AGEAZwBvAEgAYQB0AGEAZwBvAF8AMAAwADIAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8ASAB1AHQAYQBnAG8ASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAE4AcABjAF8AUwBvAHUAdABoAEgAYQB0AGUAcgB1ADAAMAA1AAAATgBwAGMAXwBTAG8AdQB0AGgASABhAHQAZQByAHUAMAAwADUAAABOAHAAYwBfAFMAbwB1AHQAaABIAGEAdABlAHIAdQAwADAANQAAAAAAAA=="

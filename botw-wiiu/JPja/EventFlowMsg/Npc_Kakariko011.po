@@ -1,11 +1,11 @@
 #, ruby
 msgid "Talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]ぐっすり 眠れる… [PauseMid]のに…"
+msgstr "[Sound1 bytes=\"0004\"]ぐっすり 眠れる… [PauseMid]のに…"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]昼… [PauseShort]だね…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]昼… [PauseShort]だね…[PauseShort]\n"
 "わかった…\n"
 "[Size percent=\"80\"]お… [PauseShort]起きられるかな…[Size percent=\"100\"]"
 
@@ -15,7 +15,7 @@ msgstr "Zzz…"
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]夜… [PauseShort]だね…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]夜… [PauseShort]だね…[PauseShort]\n"
 "わかった…\n"
 "[Size percent=\"80\"]お… [PauseShort]起きられるかな…[Size percent=\"100\"]"
 
@@ -25,7 +25,7 @@ msgstr "普通のベッド"
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]お… [PauseShort]おはよ…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]お… [PauseShort]おはよ…[PauseShort]\n"
 "あ… こんにちは… [PauseShort]かな…"
 
 msgid "0001"
@@ -33,14 +33,14 @@ msgstr "ふかふかベッド"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]お… [PauseShort]おはよ…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]お… [PauseShort]おはよ…[PauseShort]\n"
 "あ… こんばんは… [PauseShort]かな"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ふ… [PauseShort]普通のベッドなら [Color name=\"red\"]20ルピー[Color name=\"unset\"][PauseLong]\n"
-"ふ… [PauseMid]ふかふかベッドなら [Color name=\"red\"]40ルピー[Color name=\"unset\"]で…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]ふ… [PauseShort]普通のベッドなら [Color name=\"red\"]20ルピー[Color name=\"unset\"][PauseLong]\n"
+"ふ… [PauseMid]ふかふかベッドなら [Color name=\"red\"]40ルピー[Color name=\"unset\"]で…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0002"
@@ -48,7 +48,7 @@ msgstr "何が違うの？"
 
 #, ruby
 msgid "Talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]いつ… [PauseShort]お… [PauseShort]起こしたらいい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]いつ… [PauseShort]お… [PauseShort]起こしたらいい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0003"
@@ -57,8 +57,8 @@ msgstr "朝"
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]あ… ありがとう…[PauseShort]\n"
-"それで… [PauseShort]いつ 起こしたらいい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]あ… ありがとう…[PauseShort]\n"
+"それで… [PauseShort]いつ 起こしたらいい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0004"
@@ -71,7 +71,7 @@ msgstr "夜"
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]また来て… [PauseShort]ね[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]また来て… [PauseShort]ね[PauseShort]\n"
 "お… [PauseShort]おやすみ…"
 
 msgid "0006"
@@ -80,13 +80,13 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]朝…[PauseShort] だね…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]朝…[PauseShort] だね…[PauseShort]\n"
 "わかった…\n"
 "[Size percent=\"80\"]おれ… [PauseShort]起きられるかな…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]あ… [PauseShort]お金ないん…[PauseShort] だね"
+msgstr "[Sound1 bytes=\"0004\"]あ… [PauseShort]お金ないん…[PauseShort] だね"
 
 msgid "0007"
 msgstr "ありがとう"
@@ -96,33 +96,33 @@ msgstr "やめとく"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]えー…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]えー…[PauseShort]\n"
 "まあ… [PauseShort]いいけど…"
 
 msgid "0009"
 msgstr "さようなら"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]お… [PauseShort]おはよ…"
+msgstr "[Sound1 bytes=\"0004\"]お… [PauseShort]おはよ…"
 
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"45\"]わわ… [PauseLong]\n"
+"[Sound1 bytes=\"0A2D\"]わわ… [PauseLong]\n"
 "お… [PauseShort]お客さん… [PauseShort]かな…？[PauseLong]\n"
-"[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"0\" unk2=\"0\"]び… ビックリした…[Color name=\"unset\"][Size percent=\"100\"]"
+"[Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0000\"]び… ビックリした…[Color name=\"unset\"][Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]んー…[PauseShort] でも まぁ…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]んー…[PauseShort] でも まぁ…[PauseShort]\n"
 "初めてだし… [PauseShort]\n"
-"今日だけは 無料で… [PauseShort]いいかなと…[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+"今日だけは 無料で… [PauseShort]いいかなと…[Choice2 label1=\"7\" label2=\"8\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]ふかふかベッドは… コッコの羽毛で[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]ふかふかベッドは… コッコの羽毛で[PauseShort]\n"
 "作った… [PauseShort]んだったかな…\n"
 "ふ… [PauseShort]普通のベッドで寝るのと… 違って…[PauseShort]\n"
 "いつも以上に… 元気になる… [PauseShort]んだったかな…"

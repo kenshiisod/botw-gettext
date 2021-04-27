@@ -1,35 +1,35 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おっは～～～♪"
+msgstr "[Sound1 bytes=\"0000\"]おっは～～～♪"
 
 msgid "talk15"
 msgstr "[Animation name=\"Happy_01\"]うぃッス！"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ちゃお～～～♪"
+msgstr "[Sound1 bytes=\"0000\"]ちゃお～～～♪"
 
 #, ruby
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]カツラダ！ [PauseLong]戻るワよ！"
+msgstr "[Sound1 bytes=\"0003\"]カツラダ！ [PauseLong]戻るワよ！"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ばんわ～～～♪"
+msgstr "[Sound1 bytes=\"0000\"]ばんわ～～～♪"
 
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]お話なら ちょっと待って[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]お話なら ちょっと待って[PauseLong]\n"
 "腰を下ろしてから… [PauseShort]ね？"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]アタシに 用かしら？\n"
+"[Sound1 bytes=\"0000\"]アタシに 用かしら？\n"
 "\n"
 "[Size percent=\"80\"]グゥ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]悪いけど アタシ達 今から寝るから…"
+msgstr "[Sound1 bytes=\"0000\"]悪いけど アタシ達 今から寝るから…"
 
 #, ruby
 msgid "TerrorArrow"
@@ -37,11 +37,11 @@ msgstr "危ないわ！"
 
 #, ruby
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ごめんなさい もう寝るの… [PauseShort]またね"
+msgstr "[Sound1 bytes=\"0000\"]ごめんなさい もう寝るの… [PauseShort]またね"
 
 #, ruby
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]エノキダに話して さっさと式を始めましょう"
+msgstr "[Sound1 bytes=\"0000\"]エノキダに話して さっさと式を始めましょう"
 
 msgid "0000"
 msgstr "そうですね！"
@@ -53,17 +53,17 @@ msgstr "何なの？！"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]来てるワよ[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]来てるワよ[PauseShort]\n"
 "エノキダに話して 式を始めるといいワ"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]二人とも ステキだったワね[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0000\"]二人とも ステキだったワね[Choice1 label=\"0\"]"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]愛… [PauseShort]それは気高く 尊き物\n"
+"[Sound1 bytes=\"0009\"]愛… [PauseShort]それは気高く 尊き物\n"
 "\n"
 "最大の賛辞を二人に贈るワ"
 
@@ -72,22 +72,22 @@ msgid "TerrorSword"
 msgstr "片付けなさい！"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ハ～イ♪"
+msgstr "[Sound1 bytes=\"0000\"]ハ～イ♪"
 
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]さて… [PauseShort]結婚式も終わったし[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]さて… [PauseShort]結婚式も終わったし[PauseShort]\n"
 "アタシ達はそろそろハテノ村へ 戻るワね"
 
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ワォ♪[PauseShort] 刺激的ね[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]ワォ♪[PauseShort] 刺激的ね[PauseLong]\n"
 "さて…"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃ…"
+msgstr "[Sound1 bytes=\"0000\"]じゃ…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAHqAgAAAAAAABUAAAAEAAAAXAAAAF4AAABgAAAAYgAAAGQAAACKAAAAsAAAANYAAAD8AAAAIgEAAEgBAABuAQAAlAEAALoBAADgAQAABgIAACwCAABSAgAAeAIAAJ4CAADEAgAAAAAAAAAAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADIAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAzADAAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADMAMgAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMwAyAAAAAAAA"

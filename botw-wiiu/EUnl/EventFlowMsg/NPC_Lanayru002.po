@@ -1,6 +1,6 @@
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Maak je geen zorgen.[PauseShort] De details zijn niet\n"
+"[Sound1 bytes=\"0109\"]Maak je geen zorgen.[PauseShort] De details zijn niet\n"
 "zo belangrijk!"
 
 msgid "0003"
@@ -8,41 +8,41 @@ msgstr "Niks voor mij."
 
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Mijn beste vriend staat daar onder die\n"
+"[Sound1 bytes=\"0601\"]Mijn beste vriend staat daar onder die\n"
 "boom.[PauseShort] Hij brengt je de fijne kneepjes wel\n"
 "bij!"
 
 msgid "Talk_03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Oké, daar gaan we dan![Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0601\"]Oké, daar gaan we dan![Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Wat is er met jou?[PauseShort] Met het verkeerde\n"
+"[Sound1 bytes=\"030C\"]Wat is er met jou?[PauseShort] Met het verkeerde\n"
 "been uit bed gestapt?[PageBreak]Ik hoor het wel als je een keertje in de\n"
 "stemming bent!"
 
 msgid "Talk_05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Ja![PauseShort] Zo mag ik het horen!"
+msgstr "[Sound1 bytes=\"010B\"]Ja![PauseShort] Zo mag ik het horen!"
 
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, kerel![PauseShort] Wil je nog een keer\n"
+"[Sound1 bytes=\"0102\"]Hé, kerel![PauseShort] Wil je nog een keer\n"
 "[Color name=\"red\"]schildsurfen[Color name=\"unset\"]?"
 
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hé, kerel! Je bent nu vast verslingerd\n"
-"aan [Color name=\"red\"]schildsurfen[Color name=\"unset\"], hè?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Hé, kerel! Je bent nu vast verslingerd\n"
+"aan [Color name=\"red\"]schildsurfen[Color name=\"unset\"], hè?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Mijn vriend staat onder die boom daar!"
+msgstr "[Sound1 bytes=\"0601\"]Mijn vriend staat onder die boom daar!"
 
 msgid "0000"
 msgstr "Wat is dat?"
 
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hé![PauseShort] [Color name=\"blue\"]Russ [Color name=\"unset\"]heeft me alles verteld![PauseShort] Je bent\n"
+"[Sound1 bytes=\"0102\"]Hé![PauseShort] [Color name=\"blue\"]Russ [Color name=\"unset\"]heeft me alles verteld![PauseShort] Je bent\n"
 "hier om te [Color name=\"red\"]schildsurfen[Color name=\"unset\"], hè?"
 
 msgid "near_00"
@@ -53,8 +53,8 @@ msgstr "Nee."
 
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hé![PauseShort] Zei je nou dat je hier was om te\n"
-"[Color name=\"red\"]schildsurfen[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Hé![PauseShort] Zei je nou dat je hier was om te\n"
+"[Color name=\"red\"]schildsurfen[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Ik ben er klaar voor!"

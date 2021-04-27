@@ -1,47 +1,47 @@
 msgid "Talk21"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]А теперь только одна...[PageBreak]Как же они без меня?[PauseShort] Ведь им,\n"
+"[Sound1 bytes=\"091F\"]А теперь только одна...[PageBreak]Как же они без меня?[PauseShort] Ведь им,\n"
 "наверное, страшно и одиноко...[PageBreak]Скорее найди остальных![PageBreak][Size percent=\"80\"]Мне их так не хватает...[Size percent=\"100\"]"
 
 msgid "Talk22"
-msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]Правда?!"
+msgstr "[Sound1 bytes=\"0A14\"]Правда?!"
 
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Клунечки мои маленькие...[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Клунечки мои маленькие...[PauseShort]\n"
 "Как же вы совсем одни...[PageBreak][Size percent=\"80\"]Эх...[Size percent=\"100\"]"
 
 msgid "Talk23"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Клунечки мои маленькие...[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Клунечки мои маленькие...[PauseShort]\n"
 "Как же вы совсем одни...[PageBreak]Эх, ладно, надо о работе думать."
 
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Мы, шиика, поколениями служили\n"
-"королевскому роду Хайрула.[PageBreak][Sound1 unk1=\"5\" unk2=\"12\"]Но, когда пришло Бедствие и король\n"
+"[Sound1 bytes=\"0004\"]Мы, шиика, поколениями служили\n"
+"королевскому роду Хайрула.[PageBreak][Sound1 bytes=\"050C\"]Но, когда пришло Бедствие и король\n"
 "погиб, гармония шиика была нарушена.[PageBreak]Некоторые стали [Color name=\"blue\"]бандитами Ига[Color name=\"unset\"]\n"
 "и теперь хотят добраться до нашей\n"
-"старейшины — госпожи Импы.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Наша задача — не допустить,\n"
-"чтобы она пострадала.[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"старейшины — госпожи Импы.[PageBreak][Sound1 bytes=\"0000\"]Наша задача — не допустить,\n"
+"чтобы она пострадала.[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk12"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"31\"]Клуньки...[Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"091F\"]Клуньки...[Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk13"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]Спасибо большое![Size percent=\"100\"][PageBreak]Всего у меня было [Color name=\"red\"]десять[Color name=\"unset\"] кокко.[PageBreak]Пожалуйста, найди всех!"
+msgstr "[Sound1 bytes=\"0700\"][Size percent=\"125\"]Спасибо большое![Size percent=\"100\"][PageBreak]Всего у меня было [Color name=\"red\"]десять[Color name=\"unset\"] кокко.[PageBreak]Пожалуйста, найди всех!"
 
 msgid "Talk01"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"3\" unk2=\"1\"]Линк...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0301\"]Линк...[Size percent=\"100\"]"
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]А теперь не осталось ни одной...[PageBreak]Как же они без меня?[PauseShort] Ведь им,\n"
+"[Sound1 bytes=\"091F\"]А теперь не осталось ни одной...[PageBreak]Как же они без меня?[PauseShort] Ведь им,\n"
 "наверное, страшно и одиноко...[PageBreak]Скорее найди их![PageBreak][Size percent=\"80\"]Мне их так не хватает...[Size percent=\"100\"]"
 
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Каждая кокко мне очень дорога.[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Каждая кокко мне очень дорога.[PauseShort]\n"
 "Всего их у меня было [Color name=\"red\"]десять[Color name=\"unset\"]..."
 
 msgid "Near00"
@@ -49,28 +49,28 @@ msgstr "Как же так..."
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"1\"]С тех пор как от меня ушла жена,\n"
+"[Sound1 bytes=\"0901\"]С тех пор как от меня ушла жена,\n"
 "кокко — моя единственная радость\n"
 "в жизни...[PageBreak][Size percent=\"80\"]О-ох...[Size percent=\"100\"]"
 
 msgid "Talk03"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"21\"]Что?![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0A15\"]Что?![Size percent=\"100\"]"
 
 msgid "Near01"
 msgstr "Мои клунечки..."
 
 msgid "Talk17"
-msgstr "[Sound1 unk1=\"9\" unk2=\"31\"][Size percent=\"125\"]Уа-а-а![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"091F\"][Size percent=\"125\"]Уа-а-а![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "Я могу их поискать"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"]Понятно.[PageBreak][Size percent=\"80\"]Скорее бы домой![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0A01\"]Понятно.[PageBreak][Size percent=\"80\"]Скорее бы домой![Size percent=\"100\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"1\"]Мои кокко...[Size percent=\"100\"][PauseShort]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0901\"]Мои кокко...[Size percent=\"100\"][PauseShort]\n"
 "Все мои клунечки..."
 
 msgid "0001"
@@ -78,16 +78,16 @@ msgstr "Они вернутся!"
 
 msgid "Talk18"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Клуньки мои...[PauseShort] Им, наверное,\n"
-"страшно и одиноко...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Нет, нельзя об этом думать.[PauseShort] Надо\n"
+"[Sound1 bytes=\"0900\"]Клуньки мои...[PauseShort] Им, наверное,\n"
+"страшно и одиноко...[PageBreak][Sound1 bytes=\"0000\"]Нет, нельзя об этом думать.[PauseShort] Надо\n"
 "сосредоточиться на работе!"
 
 msgid "Talk19"
-msgstr "[Sound1 unk1=\"9\" unk2=\"31\"][Size percent=\"125\"]Они пропали...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"091F\"][Size percent=\"125\"]Они пропали...[Size percent=\"100\"]"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Эх, Линк...[PageBreak]А вдруг мои клуньки\n"
+"[Sound1 bytes=\"0900\"]Эх, Линк...[PageBreak]А вдруг мои клуньки\n"
 "тоже меня разлюбили?[PageBreak]Клунечки мои ненаглядные...[PageBreak]Крошечки вы мои пернатые..."
 
 msgid "0002"
@@ -95,7 +95,7 @@ msgstr "Я нашел всех кокко!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Каждая кокко мне очень дорога.[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Каждая кокко мне очень дорога.[PauseShort]\n"
 "Всего их у меня было [Color name=\"red\"]десять[Color name=\"unset\"]..."
 
 msgid "0003"
@@ -103,17 +103,17 @@ msgstr "Понятно"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Каждая кокко мне очень дорога.[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Каждая кокко мне очень дорога.[PauseShort]\n"
 "Всего их у меня было [Color name=\"red\"]десять[Color name=\"unset\"]..."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Я и про жену думал, что вернется...[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Я и про жену думал, что вернется...[PauseShort]\n"
 "А она так и не вернулась.[PauseShort] Ха-ха-ха...[PageBreak][Size percent=\"80\"]Эх...[Size percent=\"100\"]"
 
 msgid "Talk20"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]А теперь только [02:0F name=\"Kakariko_Kokko_Counter\"]...[PageBreak]Как же кокко без меня?[PauseShort]\n"
+"[Sound1 bytes=\"091F\"]А теперь только [02:0F name=\"Kakariko_Kokko_Counter\"]...[PageBreak]Как же кокко без меня?[PauseShort]\n"
 "В страхе и одиночестве...[PageBreak]Скорее найди кокко![PageBreak][Size percent=\"80\"]Клуньки мои маленькие...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"

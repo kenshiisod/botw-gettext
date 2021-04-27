@@ -1,7 +1,7 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]悔しいな…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]悔しいな…[PauseMid]\n"
 "俺があと20歳 若かったらなぁ…"
 
 #, ruby
@@ -11,7 +11,7 @@ msgstr "[Sound2 id=\"2\"]とりあえず見せてみなよ"
 #, ruby
 msgid "MSG_Futa_04_1"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]忍びスーツ[Color name=\"unset\"]は そーっと歩けるようになって\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"]忍びスーツ[Color name=\"unset\"]は そーっと歩けるようになって\n"
 "魔物にも気づかれにくくなるからさ\n"
 "今一番ほしい服なんだよ…[PauseMid]\n"
 "まぁ 店のねぇちゃんと同じ位 高嶺の花だけどよ"
@@ -20,7 +20,7 @@ msgstr ""
 msgid "Com_Talk_01"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]なら\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]で買うけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]で買うけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_02"
@@ -33,7 +33,7 @@ msgstr "[Sound2 id=\"2\"]そうか わかった"
 
 #, ruby
 msgid "Com_Talk_10"
-msgstr "[02:0B name=\"Shop_SelectItemName\"]を買うんだな？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[02:0B name=\"Shop_SelectItemName\"]を買うんだな？[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_05"
@@ -45,7 +45,7 @@ msgstr "[Sound2 id=\"2\"]ほんと ありがとな"
 #, ruby
 msgid "MSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]この辺りの 険しい崖を見ると\n"
+"[Sound1 bytes=\"0000\"]この辺りの 険しい崖を見ると\n"
 "登山家の血が騒ぐんだ"
 
 #, ruby
@@ -72,7 +72,7 @@ msgstr "[Sound2 id=\"14\"]すまんが それは品切れだ"
 msgid "Com_Talk_13"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"] だな？[PauseShort]\n"
-"いくつ 売ってくれるんだ？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+"いくつ 売ってくれるんだ？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Com_Talk_02c"
@@ -88,7 +88,7 @@ msgstr "[Sound2 id=\"14\"]言いにくいが… [PauseMid]ルピーが足りな�
 msgid "Com_Talk_14"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を [02:0F name=\"Shop_TradeItemNum\"]個で…[PauseShort]\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]になるけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]になるけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_20"
@@ -99,7 +99,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]雨の日は 崖に登りにくくなるからな\n"
+"[Sound1 bytes=\"0000\"]雨の日は 崖に登りにくくなるからな\n"
 "無理せず どこかで雨宿りするといいぜ"
 
 #, ruby
@@ -122,7 +122,7 @@ msgstr ""
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]ほんの気持ちだ [PauseShort]受け取ってくれ"
+msgstr "[Sound1 bytes=\"0101\"]ほんの気持ちだ [PauseShort]受け取ってくれ"
 
 #, ruby
 msgid "Com_Talk_16"
@@ -134,48 +134,48 @@ msgstr ""
 msgid "Com_Talk_30"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]が[02:0F name=\"Shop_TradeItemNum\"]個だから\n"
-"全部で[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど… [PauseShort]いいか？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+"全部で[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど… [PauseShort]いいか？[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_31"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を買ってくれるのか？\n"
-"いくつ必要だ？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+"いくつ必要だ？[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "RetMSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]若いころは よくこの双子馬宿を\n"
+"[Sound1 bytes=\"0000\"]若いころは よくこの双子馬宿を\n"
 "山登りの拠点にしてたもんだよ"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]おい… [PauseShort]魔物はまだいるみたいだな\n"
+"[Sound1 bytes=\"032A\"]おい… [PauseShort]魔物はまだいるみたいだな\n"
 "崖の上を進んだ方が安全かな？"
 
 msgid "Com_Talk_33"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]をひとつだけ？[PauseShort]\n"
-"それなら [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だ[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"それなら [Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だ[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]山登りで鍛えた俺だけど\n"
+"[Sound1 bytes=\"032A\"]山登りで鍛えた俺だけど\n"
 "魔物とやりあうのは話が別だ"
 
 #, ruby
 msgid "Com_Talk_34"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を あるだけ全部だな？[PauseShort]\n"
-"[02:0F name=\"Shop_TradeItemNum\"]個で [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[02:0F name=\"Shop_TradeItemNum\"]個で [Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_35"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]を [02:0F name=\"Shop_TradeItemNum\"]個全部だな？[PauseMid]\n"
-"合計[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]で買い取るけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]で買い取るけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_36"
@@ -185,7 +185,7 @@ msgstr ""
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]助かった！ [PauseShort]ちょっと ヤバかったな！"
+msgstr "[Sound1 bytes=\"0104\"]助かった！ [PauseShort]ちょっと ヤバかったな！"
 
 #, ruby
 msgid "Com_Talk_05b"
@@ -198,18 +198,18 @@ msgstr "[Sound2 id=\"2\"]ありがとな"
 msgid "Com_Talk_37"
 msgstr ""
 "おかげ様で 今日は売るものがないんだ[PauseMid]\n"
-"仕入れる予定の品物でよければ 見ていくか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"仕入れる予定の品物でよければ 見ていくか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ところで… [PauseMid]旅先で仕入れた商品が ここにある[PauseMid]\n"
-"見るだけならタダだぜ？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0101\"]ところで… [PauseMid]旅先で仕入れた商品が ここにある[PauseMid]\n"
+"見るだけならタダだぜ？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]おい！[PauseMid] 若いの！[PauseShort]\n"
+"[Sound1 bytes=\"0102\"]おい！[PauseMid] 若いの！[PauseShort]\n"
 "大丈夫だったか？"
 
 #, ruby
@@ -221,7 +221,7 @@ msgid "Com_Talk_11c"
 msgstr "[Sound2 id=\"9\"]兄ちゃんは いい客だよ"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]それで どうする？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0101\"]それで どうする？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Com_Talk_05d"
@@ -234,32 +234,32 @@ msgstr "[Sound2 id=\"9\"]俺も助かるよ"
 #, ruby
 msgid "MSG_Futa_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]橋の北にある[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は近いけど[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]橋の北にある[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は近いけど[PauseShort]\n"
 "東の[Color name=\"blue\"]ハテノ村[Color name=\"unset\"]までは かなりの道のりだ\n"
 "ガンバリ食材が あったほうがいいな"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]兄ちゃんも ひと休みか？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]兄ちゃんも ひと休みか？[PauseShort]\n"
 "それはいい心がけだ\n"
 "俺は登山家だから よくわかるが[PauseShort]\n"
 "がんばるだけが冒険じゃない\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]「がんばるだけ」で思い出したけど[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]「がんばるだけ」で思い出したけど[PauseShort]\n"
 "「ガンバリダケ」というキノコは オススメだ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]こいつを使った料理を食べると 精がつく[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]こいつを使った料理を食べると 精がつく[PauseMid]\n"
 "いつもより がんばれるようになるんだ"
 
 #, ruby
 msgid "RetMSG_Futa_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]怪しい泉ってのは気になるが[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]怪しい泉ってのは気になるが[PauseShort]\n"
 "行くなら 山に登るくらいの覚悟が必要かもな"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]お兄ちゃん もしかして雨男か？[PauseMid]\n"
+"[Sound1 bytes=\"0010\"]お兄ちゃん もしかして雨男か？[PauseMid]\n"
 "俺はごらんの通り 山男だ\n"
 "雨の日の山登りは危険だから\n"
 "早く晴れてほしいと思ってるんだ"
@@ -270,13 +270,13 @@ msgstr "はい"
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]しばらくここで 雨宿りかなぁ…[PauseLong]\n"
+"[Sound1 bytes=\"0010\"]しばらくここで 雨宿りかなぁ…[PauseLong]\n"
 "なあ兄ちゃん 精がつくもの欲しくないか？"
 
 msgid "Com_Talk_56"
 msgstr ""
 "[Color name=\"blue\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]をひとつだな？[PauseShort]\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]だけど いいか？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5501"
 msgstr "いいえ"
@@ -305,12 +305,12 @@ msgstr "朝日が眩しい…"
 #, ruby
 msgid "RetMSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬宿まではもうすぐだな\n"
+"[Sound1 bytes=\"0000\"]馬宿まではもうすぐだな\n"
 "早くゆっくりしたいよ"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]見かけによらず 強いんだな"
+msgstr "[Sound1 bytes=\"0700\"]見かけによらず 強いんだな"
 
 #, ruby
 msgid "Near01"
@@ -319,7 +319,7 @@ msgstr "日差しが眩しい…"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]兄ちゃんのおかげで 助かったよ[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]兄ちゃんのおかげで 助かったよ[PauseShort]\n"
 "ありがとうな"
 
 #, ruby
@@ -337,7 +337,7 @@ msgstr "ぜんぶ買う"
 #, ruby
 msgid "MSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]カカリコ村には行ったことあるか？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]カカリコ村には行ったことあるか？[PauseMid]\n"
 "うまい食べ物や新品の服が 待ってるぜ\n"
 "もちろん ルピーは必要だけどな"
 
@@ -352,7 +352,7 @@ msgstr "ぜんぶ売る"
 #, ruby
 msgid "MSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]おう！[PauseShort]若いの！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]おう！[PauseShort]若いの！[PauseMid]\n"
 "崖登りに 挑んだことはあるか？\n"
 "この辺りの 険しい崖を見ると\n"
 "登山家の血が 騒ぎ出してな…"
@@ -360,7 +360,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]橋の北にある[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は近いけど[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]橋の北にある[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は近いけど[PauseShort]\n"
 "東の[Color name=\"blue\"]ハテノ村[Color name=\"unset\"]までは かなりの道のりだ\n"
 "精がつくもの… [PauseShort]つまり ガンバリ食材が\n"
 "あったほうがいいな"
@@ -368,20 +368,20 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ここいらで いちばん賑わってるのが[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ここいらで いちばん賑わってるのが[PauseShort]\n"
 "ここ 双子馬宿だ\n"
 "俺は若いころ 山登りの拠点にしてたんだ"
 
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"22\"]おい！[PauseMid]すぐに逃げるぞ！[PauseMid]\n"
+"[Sound1 bytes=\"0416\"]おい！[PauseMid]すぐに逃げるぞ！[PauseMid]\n"
 "[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]に かなうわけがない！"
 
 #, ruby
 msgid "MSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]手足の疲れを感じたら ガンバリの食材で\n"
+"[Sound1 bytes=\"0004\"]手足の疲れを感じたら ガンバリの食材で\n"
 "いつでも元気を取り戻せるんだ\n"
 "旅を続けるのなら この先きっと必要になる[PauseShort]\n"
 "常にいくつか 持っていたい食材だな"
@@ -389,7 +389,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ここなら 馬宿まではもうすぐだ[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]ここなら 馬宿まではもうすぐだ[PauseMid]\n"
 "ひと休みするにしても まだ旅は続くんだろ？\n"
 "精のつくものは 持っておくべきかもな[PauseMid]\n"
 "備えあれば 憂いなしだ"
@@ -397,67 +397,67 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]カカリコ村の服屋のねえちゃんは かわいいけど[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]カカリコ村の服屋のねえちゃんは かわいいけど[PauseShort]\n"
 "俺にとっては高嶺の花だな[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]その服屋で売ってる[Color name=\"blue\"]忍びスーツ[Color name=\"unset\"]は[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]その服屋で売ってる[Color name=\"blue\"]忍びスーツ[Color name=\"unset\"]は[PauseShort]\n"
 "魔物に見つかりにくくなるけど 高値の服だ[PauseShort]\n"
 "どっちも 手に入れたいんだけどな"
 
 #, ruby
 msgid "RetMSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]もしもハテノ村方面をめざしてるなら\n"
+"[Sound1 bytes=\"0004\"]もしもハテノ村方面をめざしてるなら\n"
 "橋を渡って東に進めばいい"
 
 #, ruby
 msgid "MSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]手足の疲れには ガンバリの食材が効くんだよ\n"
+"[Sound1 bytes=\"0000\"]手足の疲れには ガンバリの食材が効くんだよ\n"
 "旅を続けるのなら この先きっと必要になるぜ"
 
 #, ruby
 msgid "RetMSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]雨の日の壁のぼりは ベテランの俺でも難しい[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]雨の日の壁のぼりは ベテランの俺でも難しい[PauseMid]\n"
 "無理せず どこかで雨宿りするといいかもな"
 
 #, ruby
 msgid "RetMSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]この村の山の中腹に 怪しげな泉があるらしいぜ\n"
+"[Sound1 bytes=\"0B10\"]この村の山の中腹に 怪しげな泉があるらしいぜ\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]冒険するなら どんな道のりでも大丈夫なように\n"
+"[Sound1 bytes=\"0001\"]冒険するなら どんな道のりでも大丈夫なように\n"
 "壁登り用の食材が必要かもな"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"12\"]俺の命の恩人よ…"
+msgstr "[Sound1 bytes=\"010C\"]俺の命の恩人よ…"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]兄ちゃん… [PauseShort]タダ者じゃないよな？[PauseMid]\n"
+"[Sound1 bytes=\"0414\"]兄ちゃん… [PauseShort]タダ者じゃないよな？[PauseMid]\n"
 "いや答えなくていい"
 
 #, ruby
 msgid "MSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]カカリコ村には そこでしか買えない\n"
+"[Sound1 bytes=\"0000\"]カカリコ村には そこでしか買えない\n"
 "食べ物や服もあるんだよ"
 
 #, ruby
 msgid "RetMSG_Futa_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ハテノ村方面なら橋を渡って東だぜ[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ハテノ村方面なら橋を渡って東だぜ[PauseMid]\n"
 "まぁ 歩くとなると けっこう距離あるけどな"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]それじゃあな！"
+msgstr "[Sound1 bytes=\"0104\"]それじゃあな！"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]魔物は去ったのか？[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]魔物は去ったのか？[PauseMid]\n"
 "今のうちにこの場を離れるぞ！"
 
 msgid "_ReadOnly_MsbtExtras"

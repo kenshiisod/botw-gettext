@@ -1,11 +1,11 @@
 #, ruby
 msgid "Text006"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]命芽吹く大地とは ここの事でしょうか\n"
+"[Sound1 bytes=\"0501\"]命芽吹く大地とは ここの事でしょうか\n"
 "二本の槍を携えし獣とは 一体…[PauseMid]\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]きっと 私には思いもよらない\n"
+"[Sound1 bytes=\"0510\"]きっと 私には思いもよらない\n"
 "秘密が隠されているのでしょうね\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では あなたの旅路に光がありますように…[PauseMid]"
+"[Sound1 bytes=\"0001\"]では あなたの旅路に光がありますように…[PauseMid]"
 
 #, ruby
 msgid "Npc_Musician_014_Near"
@@ -14,13 +14,13 @@ msgstr "二本の槍…"
 #, ruby
 msgid "Npc_Musician_014_R_008"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]なるほど 二本の槍とは 角のこと\n"
+"[Sound1 bytes=\"0510\"]なるほど 二本の槍とは 角のこと\n"
 "角を持つ獣… [Color name=\"red\"]雄のヤマシカ[Color name=\"unset\"]のことでしたか\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]それに跨るあなたは\n"
+"[Sound1 bytes=\"0101\"]それに跨るあなたは\n"
 "さながら 森の王でしたよ\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]あなたの行いは\n"
+"[Sound1 bytes=\"0109\"]あなたの行いは\n"
 "新たな伝説の詩にできそうですね\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では あなたの旅路に光がありますよう…[PauseMid]"
+"[Sound1 bytes=\"0001\"]では あなたの旅路に光がありますよう…[PauseMid]"
 
 #, ruby
 msgid "Text004"
@@ -31,7 +31,7 @@ msgstr ""
 #, ruby
 msgid "Text005"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]おっと すみません[PauseShort]\n"
+"[Sound1 bytes=\"0413\"]おっと すみません[PauseShort]\n"
 "誰もいないと思って つい…[PauseMid]"
 
 msgid "_ReadOnly_MsbtExtras"

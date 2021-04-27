@@ -1,19 +1,19 @@
 #, ruby
 msgid "Talk_020"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]今日も[Color name=\"blue\"]メドー[Color name=\"unset\"]が ずっといたよ～…\n"
+"[Sound1 bytes=\"0900\"]今日も[Color name=\"blue\"]メドー[Color name=\"unset\"]が ずっといたよ～…\n"
 "どっか行ってくれないかなぁ…"
 
 #, ruby
 msgid "Talk_110"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]みんなで歌うよ～\n"
+"[Sound1 bytes=\"0700\"]みんなで歌うよ～\n"
 "お兄ちゃんも 聞きに来てね～！"
 
 #, ruby
 msgid "Talk_200"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]る～～らら～～～！！[Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0700\"][Size percent=\"125\"]る～～らら～～～！！[Size percent=\"100\"]\n"
 "\n"
 "パパ帰ってきたよ～！\n"
 "みんなで 歌っちゃうよ～！"
@@ -21,22 +21,22 @@ msgstr ""
 #, ruby
 msgid "Talk_000"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]あぶないから\n"
+"[Sound1 bytes=\"0900\"]あぶないから\n"
 "村の外へ出ちゃダメなんだって…\n"
 "お姉ちゃん達と\n"
 "[Color name=\"red\"]兄弟岩[Color name=\"unset\"]のお歌 練習したいのに…\n"
-"[Sound1 unk1=\"8\" unk2=\"0\"][Size percent=\"125\"][Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]のおばか～～！！[Size percent=\"100\"]"
+"[Sound1 bytes=\"0800\"][Size percent=\"125\"][Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]のおばか～～！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk_201"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]パパとみんなで お歌を歌うよ～！\n"
+"[Sound1 bytes=\"0700\"]パパとみんなで お歌を歌うよ～！\n"
 "聞きに来てね～！"
 
 #, ruby
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"][Animation name=\"SurpriseS_01\"]これ！ [PauseShort]キールったら！[PauseShort]\n"
+"[Sound1 bytes=\"0201\"][Animation name=\"SurpriseS_01\"]これ！ [PauseShort]キールったら！[PauseShort]\n"
 "おばか なんて言ってはいけませんよ！"
 
 msgid "Talk_030"
@@ -44,34 +44,34 @@ msgstr "[Sound2 id=\"31\"]すピヨ…"
 
 #, ruby
 msgid "Talk_202"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]みんなで歌うの 楽しいな～"
+msgstr "[Sound1 bytes=\"0000\"]みんなで歌うの 楽しいな～"
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]だぁってぇ…"
+msgstr "[Sound1 bytes=\"0900\"]だぁってぇ…"
 
 #, ruby
 msgid "Talk_120"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]だんだんお歌 うまくなってきたよ～！\n"
+"[Sound1 bytes=\"0000\"]だんだんお歌 うまくなってきたよ～！\n"
 "明日もがんばろ～！"
 
 #, ruby
 msgid "Talk_003"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ねえ お兄ちゃん…\n"
+"[Sound1 bytes=\"0900\"]ねえ お兄ちゃん…\n"
 "[Color name=\"blue\"]メドー[Color name=\"unset\"]に どっか行け～！ [PauseShort]って言ってよ～\n"
 "[Color name=\"red\"]兄弟岩[Color name=\"unset\"]で お歌の練習したいよ～…"
 
 #, ruby
 msgid "Talk_010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]兄弟岩[Color name=\"unset\"]を 見に行くよ～！\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]兄弟岩[Color name=\"unset\"]を 見に行くよ～！\n"
 "今日は 行けるかな？"
 
 #, ruby
 msgid "Talk_100"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"blue\"]ゾクチョーさま[Color name=\"unset\"]に ホコラがゴゴゴって\n"
+"[Sound1 bytes=\"0700\"][Color name=\"blue\"]ゾクチョーさま[Color name=\"unset\"]に ホコラがゴゴゴって\n"
 "出てきたって教えてあげたら おどろいてたよ～\n"
 "ホコラって\n"
 "かくれんぼが好きなのかな？"
@@ -79,9 +79,9 @@ msgstr ""
 #, ruby
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そういえば パパのお歌でも\n"
+"[Sound1 bytes=\"0000\"]そういえば パパのお歌でも\n"
 "ホコラのこと 歌ってたな～\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]パパ… [PauseShort]帰ってこないな…[PauseShort]\n"
+"[Sound1 bytes=\"0901\"]パパ… [PauseShort]帰ってこないな…[PauseShort]\n"
 "パパのお歌… [PauseShort]聞きたいな…"
 
 msgid "_ReadOnly_MsbtExtras"

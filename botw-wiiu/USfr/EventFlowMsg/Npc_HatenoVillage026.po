@@ -2,18 +2,18 @@ msgid "near02"
 msgstr "..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hé, hé![PauseLong] Toi, le visiteur![Choice2 label1=\"0\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Hé, hé![PauseLong] Toi, le visiteur![Choice2 label1=\"0\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "Zzz... zzz..."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Hahaha! Tu connais pas? [PauseShort]\n"
+"[Sound1 bytes=\"070A\"]Hahaha! Tu connais pas? [PauseShort]\n"
 "Troooop plate!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]J'en étais sûre. [PauseShort]Tout le monde connaît."
+msgstr "[Sound1 bytes=\"0009\"]J'en étais sûre. [PauseShort]Tout le monde connaît."
 
 msgid "0000"
 msgstr "Quoi?"
@@ -23,7 +23,7 @@ msgstr "Je connais!"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Le charpentier travaille sur un truc\n"
+"[Sound1 bytes=\"0000\"]Le charpentier travaille sur un truc\n"
 "derrière l'épicerie?"
 
 msgid "0002"
@@ -31,14 +31,14 @@ msgstr "C'est quoi, ça?"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Bon, allez, je vais te montrer.[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]Bon, allez, je vais te montrer.[PauseLong]\n"
 "Regarde bien, surtout!"
 
 msgid "0003"
 msgstr "À la prochaine!"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou architecte?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou architecte?[Size percent=\"100\"]"
 
 msgid "0004"
 msgstr "Sérasieh?"
@@ -47,62 +47,62 @@ msgid "talk10"
 msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Cha-quiiiiine![Size percent=\"100\"]"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou contremaître?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou contremaître?[Size percent=\"100\"]"
 
 msgid "0005"
 msgstr "Quelle danse?"
 
 msgid "talk11"
-msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Cha-quiiiine![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Cha-quiiiine![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou directeur?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou directeur?[Size percent=\"100\"]"
 
 msgid "0006"
 msgstr "J'aime pas la danse."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]T'as vu? [PauseShort]C'est trop facile, pas vrai?"
+msgstr "[Sound1 bytes=\"0101\"]T'as vu? [PauseShort]C'est trop facile, pas vrai?"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou associé?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Hein? [PauseShort]Mais il est charpentier [PauseShort]ou associé?[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Quel nono!"
+msgstr "[Sound1 bytes=\"0800\"]Quel nono!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Hahaha! Tu connais toujours pas\n"
+"[Sound1 bytes=\"030C\"]Hahaha! Tu connais toujours pas\n"
 "la danse de Sérasieh?[PauseLong]\n"
 "T'es pas très bien informé!"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Toute façon, on s'en fiche![PauseShort] Moi, ce que\n"
+"[Sound1 bytes=\"0601\"]Toute façon, on s'en fiche![PauseShort] Moi, ce que\n"
 "je veux, c'est que Sérasieh te montre sa\n"
 "danse!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Qu'est-ce que c'est?"
+msgstr "[Sound1 bytes=\"0414\"]Qu'est-ce que c'est?"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hé, tu connais ça?"
+msgstr "[Sound1 bytes=\"0000\"]Hé, tu connais ça?"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]C'est beauuu!"
+msgstr "[Sound1 bytes=\"0700\"]C'est beauuu!"
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Maman...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Maman...[Size percent=\"100\"]"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]C'est l'heure d'aller au lit!"
+msgstr "[Sound1 bytes=\"0900\"]C'est l'heure d'aller au lit!"
 
 msgid "talk16"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Mmm...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Mmm...[Size percent=\"100\"]"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Si je rentre pas avant que la nuit tombe,\n"
+"[Sound1 bytes=\"0900\"]Si je rentre pas avant que la nuit tombe,\n"
 "je me fais disputer!"
 
 msgid "talk17"
@@ -112,7 +112,7 @@ msgid "near00"
 msgstr "Hahaha!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Au revoir!"
+msgstr "[Sound1 bytes=\"0000\"]Au revoir!"
 
 msgid "talk18"
 msgstr "[Sound2 id=\"38\"][Size percent=\"80\"]Ouh[Size percent=\"100\"] ah, [Size percent=\"80\"]ouh[Size percent=\"100\"] ah!"
@@ -122,13 +122,13 @@ msgstr "Quoiiii?"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hé, hé, hé! [PauseLong]Toi, le visiteur!\n"
+"[Sound1 bytes=\"0000\"]Hé, hé, hé! [PauseLong]Toi, le visiteur!\n"
 "\n"
 "\n"
-"Tu connais la danse de Sérasieh?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"Tu connais la danse de Sérasieh?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hé, tu connais la danse de Sérasieh?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Hé, tu connais la danse de Sérasieh?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAHEBQAAAAAAACYAAAAEAAAAoAAAAMoAAAD0AAAAHgEAAEgBAABKAQAATAEAAE4BAABQAQAAUgEAAFQBAABWAQAAgAEAAKoBAADUAQAA/gEAACgCAABSAgAAfAIAAKYCAADQAgAA+gIAACQDAABOAwAAeAMAAKIDAADMAwAA9gMAACAEAABKBAAAdAQAAJ4EAADIBAAA8gQAABwFAABGBQAAcAUAAJoFAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAAAAAA=="

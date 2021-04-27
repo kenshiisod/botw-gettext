@@ -1,15 +1,15 @@
 #, ruby
 msgid "Talk_07"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"10\" unk2=\"21\"]モルドラジークの肝[Color name=\"unset\"]！！"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0A15\"]モルドラジークの肝[Color name=\"unset\"]！！"
 
 #, ruby
 msgid "Talk_08"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"1\"]ほ… 本当にもらっていいのか？[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0A01\"]ほ… 本当にもらっていいのか？[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]こんな形でしかお礼できないけど\n"
+"[Sound1 bytes=\"0100\"]こんな形でしかお礼できないけど\n"
 "コレ 受け取ってくれないか"
 
 #, ruby
@@ -22,31 +22,31 @@ msgstr "お願いします…"
 
 #, ruby
 msgid "Talk_10"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]これであの人も… グスッ[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0B01\"][Size percent=\"80\"]これであの人も… グスッ[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "Talk_12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]…アタシがきっと [PauseShort]…アナタの病気を…[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]…アタシがきっと [PauseShort]…アナタの病気を…[Size percent=\"100\"]"
 
 msgid "Talk_13"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Sound2 id=\"25\"][Size percent=\"80\"]サヴォッタ…[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0301\"][Sound2 id=\"25\"][Size percent=\"80\"]サヴォッタ…[Size percent=\"100\"][PauseLong]"
 
 msgid "0001"
 msgstr "さよなら"
 
 msgid "Talk_14"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Sound2 id=\"27\"][Size percent=\"80\"]サヴァサーバ…[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0301\"][Sound2 id=\"27\"][Size percent=\"80\"]サヴァサーバ…[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アタシさ…\n"
+"[Sound1 bytes=\"0002\"]アタシさ…\n"
 "やっと運命のヴォーイを見つけて\n"
 "最近 結婚したばっかりなんだ…\n"
 "\n"
 "幸せってやつを やっと見つけたところなんだ…\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]なのに 旦那がちょっとやっかいな病に\n"
+"[Sound1 bytes=\"0900\"]なのに 旦那がちょっとやっかいな病に\n"
 "かかっちゃってね…\n"
 "[Color name=\"blue\"]モルドラジークの肝[Color name=\"unset\"]がないと\n"
 "治らないってんだよ…\n"
@@ -60,19 +60,19 @@ msgstr ""
 "立ち向かえばタダでは済まない…\n"
 "こんな他人のために\n"
 "誰も行きたがらないのは当たり前だ…\n"
-"[Sound1 unk1=\"9\" unk2=\"16\"]…せっかく街を出られたと思ったのに\n"
-"こんなにすぐに戻ってくるなんて…[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0910\"]…せっかく街を出られたと思ったのに\n"
+"こんなにすぐに戻ってくるなんて…[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "モルドラジークって？"
 
 msgid "Talk_15"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Sound2 id=\"26\"][Size percent=\"80\"]サヴァーク…[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0301\"][Sound2 id=\"26\"][Size percent=\"80\"]サヴァーク…[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"4\"]…くっ[PauseLong]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0904\"]…くっ[PauseLong]\n"
 "こうしてる間にもあの人は…[Size percent=\"100\"]"
 
 msgid "0003"
@@ -81,13 +81,13 @@ msgstr "これどうぞ"
 #, ruby
 msgid "Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アタシさ…\n"
+"[Sound1 bytes=\"0002\"]アタシさ…\n"
 "やっと運命のヴォーイを見つけて\n"
 "最近 結婚したばっかりなんだ…\n"
 "\n"
 "幸せってやつを やっと見つけたところなんだ…\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]なのに 旦那がちょっとやっかいな病に\n"
+"[Sound1 bytes=\"0900\"]なのに 旦那がちょっとやっかいな病に\n"
 "かかっちゃってね…\n"
 "[Color name=\"blue\"]モルドラジークの肝[Color name=\"unset\"]がないと\n"
 "治らないってんだよ…\n"
@@ -99,64 +99,64 @@ msgstr ""
 "立ち向かえばタダでは済まない…\n"
 "こんな他人のために\n"
 "誰も行きたがらないのは当たり前だ…\n"
-"[Sound1 unk1=\"9\" unk2=\"16\"]…せっかく街を出られたと思ったのに\n"
-"こんなにすぐに戻ってくるなんて…[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0910\"]…せっかく街を出られたと思ったのに\n"
+"こんなにすぐに戻ってくるなんて…[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]旦那はこんなアタシを可愛いって言ってくれた\n"
+"[Sound1 bytes=\"0900\"]旦那はこんなアタシを可愛いって言ってくれた\n"
 "唯一のヴォーイなんだ…[PauseLong]\n"
 "だから アタシは[Color name=\"blue\"]モルドラジークの肝[Color name=\"unset\"]を\n"
 "とってきてくれる人を\n"
-"何が何でも 探さないといけないんだ…[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"何が何でも 探さないといけないんだ…[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_17"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"][Color name=\"blue\"]モルドラジーク[Color name=\"unset\"]は凶暴だからね…\n"
+"[Sound1 bytes=\"0900\"][Color name=\"blue\"]モルドラジーク[Color name=\"unset\"]は凶暴だからね…\n"
 "立ち向かえばタダでは済まない…\n"
 "こんな他人のために\n"
 "誰も行きたがらないのは当たり前だ…\n"
 "でもあの人の病気を治すためには\n"
 "[Color name=\"blue\"]モルドラジークの肝[Color name=\"unset\"]が必要なんだ\n"
 "せっかく見つけた運命のヴォーイだ…\n"
-"アタシはあきらめないよ[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"アタシはあきらめないよ[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ああ アンタかい…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]ああ アンタかい…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]旦那はこんなアタシを可愛いって言ってくれた\n"
+"[Sound1 bytes=\"0900\"]旦那はこんなアタシを可愛いって言ってくれた\n"
 "唯一のヴォーイなんだ…[PauseLong]\n"
 "だから アタシは何が何でも\n"
 "[Color name=\"blue\"]モルドラジークの肝[Color name=\"unset\"]を手に入れないと…\n"
-"[Sound2 id=\"10\"]でも… アタシの力では…[Choice2 label1=\"3\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound2 id=\"10\"]でも… アタシの力では…[Choice2 label1=\"3\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_05"
 msgstr "これって…"
 
 msgid "Talk_18"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"0\"]サークサーク！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0100\"]サークサーク！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk_06"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"2\"]モルドラジーク[Color name=\"unset\"]はバケモンさ…\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0002\"]モルドラジーク[Color name=\"unset\"]はバケモンさ…\n"
 "魔物ですら奴らには近づかない…\n"
 "ここから西の[Color name=\"blue\"]ルマリン砂丘[Color name=\"unset\"]や南の方に\n"
 "よく出没するようだ\n"
 "奴らは[Color name=\"red\"]振動に敏感[Color name=\"unset\"]でな 近づくモノなら何であれ\n"
 "襲い掛かる習性がある…\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]近づくのもダメ 動くのもダメ…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]近づくのもダメ 動くのもダメ…[PauseLong]\n"
 "誰かをおとりにさせるわけにもいかない…\n"
 "アタシはどうしたら…"
 
 #, ruby
 msgid "Talk_19"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"2\"]モルドラジーク[Color name=\"unset\"]の棲んでる辺りは\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0002\"]モルドラジーク[Color name=\"unset\"]の棲んでる辺りは\n"
 "[Color name=\"red\"]極暑地帯[Color name=\"unset\"]でね…\n"
 "暑さに強い ゲルド族でさえ\n"
 "普通の装備では 命を落としかねない場所だ…\n"

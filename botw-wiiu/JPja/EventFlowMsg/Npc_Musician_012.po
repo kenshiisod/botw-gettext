@@ -5,7 +5,7 @@ msgstr "危ないっ！"
 #, ruby
 msgid "Challenge000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]おぉ あなたは……[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]おぉ あなたは……[PauseMid]\n"
 "よく こんなところまで 登ってこられましたね！"
 
 msgid "TerrorFire"
@@ -21,11 +21,11 @@ msgstr "うわーっ！"
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"][Color name=\"red\"]生まれ出でし姿[Color name=\"unset\"]とは 生まれたままの姿\n"
+"[Sound1 bytes=\"0501\"][Color name=\"red\"]生まれ出でし姿[Color name=\"unset\"]とは 生まれたままの姿\n"
 "すなわち裸だったのですね……[PauseMid]\n"
-"[Sound1 unk1=\"7\" unk2=\"11\"]裸で堂々と 台座に立たれる姿\n"
+"[Sound1 bytes=\"070B\"]裸で堂々と 台座に立たれる姿\n"
 "まさに古の勇者を 彷彿とさせましたよ\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]では あなたの旅路に 光がありますように……[PauseMid]"
+"[Sound1 bytes=\"0101\"]では あなたの旅路に 光がありますように……[PauseMid]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BQAAAAFsAAAAAAAAAAYAAAAEAAAAIAAAAEIAAABkAAAAZgAAAGgAAABqAAAATgBwAGMAXwBNAHUAcwBpAGMAaQBhAG4AXwAwADEAMgAAAE4AcABjAF8ATQB1AHMAaQBjAGkAYQBuAF8AMAAwADUAAAAAAAAAAAAAAAAAAA=="

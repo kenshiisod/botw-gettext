@@ -1,45 +1,45 @@
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]それは そうでしょう[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]それは そうでしょう[PauseMid]\n"
 "知らない方が いいこともありますよね…"
 
 #, ruby
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]今日が あなたの 命日になるなんてね！"
+msgstr "[Sound1 bytes=\"010A\"]今日が あなたの 命日になるなんてね！"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]相変わらず\n"
+"[Sound1 bytes=\"0B00\"]相変わらず\n"
 "苦難の相が お顔に出ていらっしゃるようで…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]あなたの運勢が知りたければ\n"
-"ぜひ 占ってあげましょう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]あなたの運勢が知りたければ\n"
+"ぜひ 占ってあげましょう[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]では…[PauseMid] 心して聞いてください\n"
+"[Sound1 bytes=\"0001\"]では…[PauseMid] 心して聞いてください\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]黒い色が見えます…\n"
+"[Sound1 bytes=\"0B00\"]黒い色が見えます…\n"
 "\n"
 "深く深く 吸い込まれるような黒…"
 
 #, ruby
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]あなたは 今日 無に帰するのです！"
+msgstr "[Sound1 bytes=\"010A\"]あなたは 今日 無に帰するのです！"
 
 #, ruby
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]お命 ちょうだい する！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]お命 ちょうだい する！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]もし… 旅の方\n"
+"[Sound1 bytes=\"0B00\"]もし… 旅の方\n"
 "苦難の相が お顔に出ていらっしゃるようで…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]これからの あなたの運勢が知りたければ\n"
-"ぜひ 占ってあげましょう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]これからの あなたの運勢が知りたければ\n"
+"ぜひ 占ってあげましょう[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"
@@ -47,7 +47,7 @@ msgstr "お願いします"
 
 #, ruby
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "けっこうです"
@@ -55,15 +55,15 @@ msgstr "けっこうです"
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]では…[PauseMid] 心して聞いてください\n"
+"[Sound1 bytes=\"0001\"]では…[PauseMid] 心して聞いてください\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]赤い色が見えます…\n"
+"[Sound1 bytes=\"0B00\"]赤い色が見えます…\n"
 "\n"
 "それはそれは 美しい赤…"
 
 #, ruby
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]あなたの血の色です！"
+msgstr "[Sound1 bytes=\"010A\"]あなたの血の色です！"
 
 #, ruby
 msgid "Near00"

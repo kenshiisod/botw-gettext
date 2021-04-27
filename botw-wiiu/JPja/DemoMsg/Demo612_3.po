@@ -1,11 +1,11 @@
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudo_000"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]この地方を巡って\n"
+"[Sound1 bytes=\"0601\"]この地方を巡って\n"
 "[Color name=\"blue\"]英傑ウルボザ[Color name=\"unset\"]の逸話を聞いているうちに…\n"
 "[Animation name=\"TalkPositive_00\"]師匠の[Color name=\"blue\"]未完の詩[Color name=\"unset\"]とは別に\n"
 "私も彼女を表現してみたくなりました\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]そこで [Color name=\"blue\"]ウルボザ[Color name=\"unset\"]が操ったという\n"
+"[Sound1 bytes=\"0001\"]そこで [Color name=\"blue\"]ウルボザ[Color name=\"unset\"]が操ったという\n"
 "この[Color name=\"blue\"]神獣 ヴァ・ナボリス[Color name=\"unset\"]の元で…"
 
 #, ruby
@@ -19,19 +19,19 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudo_500"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Understand_00\"]…強い戦士であると同時に\n"
+"[Sound1 bytes=\"0001\"][Animation name=\"Understand_00\"]…強い戦士であると同時に\n"
 "母性に溢れた女性だったのでしょうね"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudo_001"
 msgstr ""
-"[PauseAuto frames=\"110\"][Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Understand_01\"]こんな詩を作ってみました\n"
+"[PauseAuto frames=\"110\"][Sound1 bytes=\"0001\"][Animation name=\"Understand_01\"]こんな詩を作ってみました\n"
 "ありし日の [Color name=\"blue\"]英傑ウルボザ[Color name=\"unset\"]の姿を描く詩…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudo_501"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Sigh_00\"]いかがでしたか？\n"
+"[Sound1 bytes=\"0001\"][Animation name=\"Sigh_00\"]いかがでしたか？\n"
 "[Color name=\"blue\"]英傑ウルボザの詩[Color name=\"unset\"]\n"
 "彼女の強さを詩に出来たことで\n"
 "師匠に一歩近づけたような気がします"

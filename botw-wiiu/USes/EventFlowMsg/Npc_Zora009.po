@@ -1,38 +1,38 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]¡Buenas noches!"
+msgstr "[Sound1 bytes=\"0102\"]¡Buenas noches!"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]¿O me necesitas para alguna cosa más?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0704\"]¿O me necesitas para alguna cosa más?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]¡Adelante!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]¡Bienvenido al Multicentro Mirta! ♪"
+msgstr "[Sound1 bytes=\"0101\"]¡Bienvenido al Multicentro Mirta! ♪"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]En la parte delantera está la tienda de\n"
+"[Sound1 bytes=\"0101\"]En la parte delantera está la tienda de\n"
 "artículos varios: El arrecife coralino.[PageBreak]Por detrás encontrarás la tienda de\n"
 "grabados: El cabezamartillo."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Sííí?"
+msgstr "[Sound1 bytes=\"0000\"]¿Sííí?"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]¿Necesitas algo? Mirta está aquí para\n"
-"ayudarte.[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0701\"]¿Necesitas algo? Mirta está aquí para\n"
+"ayudarte.[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]¡Nos vemos!"
+msgstr "[Sound1 bytes=\"010A\"]¡Nos vemos!"
 
 msgid "0010"
 msgstr "¿Multicentro Mirta?"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Sí! ♪[PageBreak]Es el nombre que le di a la combinación\n"
+"[Sound1 bytes=\"0709\"]¡Sí! ♪[PageBreak]Es el nombre que le di a la combinación\n"
 "de los dos negocios.[PauseMid] ¿Verdad que suena\n"
 "moderno? ♪"
 
@@ -41,9 +41,9 @@ msgstr "Háblame de la tienda"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_00\"]El Multicentro Mirta es más,[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Animation name=\"Humming_00\"]El Multicentro Mirta es más,[PauseLong]\n"
 "el Multicentro Mirta es el mejor,[PauseLong]\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_01\"]el Multicentro Mirta es para tiiiii... ♪[PageBreak][Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]¡Zin-pon! ♪[Size percent=\"100\"]"
+"[Sound1 bytes=\"0101\"][Animation name=\"Humming_01\"]el Multicentro Mirta es para tiiiii... ♪[PageBreak][Sound1 bytes=\"070B\"][Size percent=\"125\"]¡Zin-pon! ♪[Size percent=\"100\"]"
 
 msgid "0012"
 msgstr "Háblame del taller"
@@ -53,20 +53,20 @@ msgstr "Adiós"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]¿Qué te parece la canción oficial?[PauseShort]\n"
+"[Sound1 bytes=\"0701\"]¿Qué te parece la canción oficial?[PauseShort]\n"
 "Es de esas que se le pegan a uno\n"
 "en la cabeza, ¿no lo crees?"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]El que se encarga de trabajar las armas[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]El que se encarga de trabajar las armas[PauseShort]\n"
 "es Dagio, mi abuelo.[PageBreak]Se cuenta que fue el responsable de\n"
 "reparar la famosa [Color name=\"blue\"][C9:00 bytes=\"02010100\"]lanza de la escama[Color name=\"unset\"]\n"
 "que perteneció a Mipha."
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]La tienda de artículos varios tiene una\n"
+"[Sound1 bytes=\"0104\"]La tienda de artículos varios tiene una\n"
 "historia de más de cien años.[PauseShort] Es una\n"
 "trayectoria digna de admirarse.\n"
 "El dueño, Heran, es un tipo responsable.[PauseShort]\n"
@@ -74,19 +74,19 @@ msgstr ""
 "el día pensando en el príncipe Sidon."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]¡Buenos días!"
+msgstr "[Sound1 bytes=\"0102\"]¡Buenos días!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"6\"]¿Hay algo más que quieras saber?\n"
-"Ven y pregúntaselo a Mirta.[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0106\"]¿Hay algo más que quieras saber?\n"
+"Ven y pregúntaselo a Mirta.[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]¡Hola!"
+msgstr "[Sound1 bytes=\"0102\"]¡Hola!"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]¿Te la canto otra vez?[PauseLong]\n"
+"[Sound1 bytes=\"0704\"]¿Te la canto otra vez?[PauseLong]\n"
 "¡Con mucho gusto!"
 
 msgid "_ReadOnly_MsbtExtras"

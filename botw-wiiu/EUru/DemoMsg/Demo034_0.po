@@ -1,7 +1,7 @@
 msgid "talk07"
 msgstr ""
 "За [Color name=\"red\"]четыре[Color name=\"unset\"] [Color name=\"blue\"]сферы духа[Color name=\"unset\"] я дам\n"
-"тебе то, что пожелаешь.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"тебе то, что пожелаешь.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk08"
 msgstr "Да будет так."
@@ -79,7 +79,7 @@ msgstr ""
 "и получает [Color name=\"blue\"]сферы духа[Color name=\"unset\"]..."
 
 msgid "talk14"
-msgstr "Чего же ты желаешь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Чего же ты желаешь?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk27"
 msgstr ""
@@ -109,7 +109,7 @@ msgstr ""
 "просить [Color name=\"blue\"]капсулы энергии[Color name=\"unset\"]."
 
 msgid "talk04"
-msgstr "Тебе нужна [Color name=\"blue\"]капсула сердца[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Тебе нужна [Color name=\"blue\"]капсула сердца[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk17"
 msgstr ""
@@ -117,13 +117,13 @@ msgstr ""
 "более просить моего благословения."
 
 msgid "talk05"
-msgstr "Тебе нужна [Color name=\"blue\"]капсула энергии[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Тебе нужна [Color name=\"blue\"]капсула энергии[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
-msgstr "Тебе нужна [Color name=\"blue\"]капсула сердца[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Тебе нужна [Color name=\"blue\"]капсула сердца[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
-msgstr "Тебе нужна [Color name=\"blue\"]капсула энергии[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Тебе нужна [Color name=\"blue\"]капсула энергии[Color name=\"unset\"]?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAEIAAAAAAAAACAAAAAAAAAAAAAA"

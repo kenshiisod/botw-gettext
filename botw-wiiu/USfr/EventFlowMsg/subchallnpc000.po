@@ -1,38 +1,38 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]J'y suis presque...[PauseMid] Encore un peu et\n"
+"[Sound1 bytes=\"0B01\"]J'y suis presque...[PauseMid] Encore un peu et\n"
 "j'aurai résolu cette énigme..."
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Pas vrai?!"
+msgstr "[Sound1 bytes=\"0000\"]Pas vrai?!"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Ouah, génial, frangin! C'est trop bien\n"
-"que tu aies presque réussi![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]Ouah, génial, frangin! C'est trop bien\n"
+"que tu aies presque réussi![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Euh... Ouais, ouais...[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]Euh... Ouais, ouais...[PauseLong]\n"
 "J'y suis presque..."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ouais, raconte pas n'importe quoi!"
+msgstr "[Sound1 bytes=\"0800\"]Ouais, raconte pas n'importe quoi!"
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]« À la source céleste des flots qui\n"
+"[Sound1 bytes=\"0B00\"]« À la source céleste des flots qui\n"
 "coulent sous un pont jeune[PauseShort] se déverse\n"
 "une cascade couleur d'argent. »"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]Peuh... Comme si on allait croire\n"
+"[Sound1 bytes=\"0414\"]Peuh... Comme si on allait croire\n"
 "tes salades!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"]C'est impossible que t'aies pu résoudre\n"
+"[Sound1 bytes=\"0801\"]C'est impossible que t'aies pu résoudre\n"
 "l'énigme avant mon frère!"
 
 msgid "0000"
@@ -40,7 +40,7 @@ msgstr "Moi, j'ai trouvé."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]Mon frère a pas besoin que tu\n"
+"[Sound1 bytes=\"020E\"]Mon frère a pas besoin que tu\n"
 "l'encourages pour résoudre l'énigme!\n"
 "Il y est presque, de toute façon!"
 
@@ -49,7 +49,7 @@ msgstr "Bon courage..."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Euh... Ouais, ouais...[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]Euh... Ouais, ouais...[PauseLong]\n"
 "J'y suis presque..."
 
 msgid "_ReadOnly_MsbtExtras"

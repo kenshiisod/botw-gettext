@@ -1,57 +1,57 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]¿Eres un viajero, por casualidad?[PauseLong]\n"
+"[Sound1 bytes=\"0006\"]¿Eres un viajero, por casualidad?[PauseLong]\n"
 "No te habrás perdido, ¿no?"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Querías alguna cosa más?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]¿Querías alguna cosa más?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "Zzz..."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Esa tal Prunia no me cae mal, la verdad."
+msgstr "[Sound1 bytes=\"0009\"]Esa tal Prunia no me cae mal, la verdad."
 
 msgid "near01"
 msgstr "Debo dormir."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah, entiendo. [PauseShort]Bueno, lo que tú digas."
+msgstr "[Sound1 bytes=\"0000\"]Ah, entiendo. [PauseShort]Bueno, lo que tú digas."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]A decir verdad, la [Color name=\"blue\"]jefa[Color name=\"unset\"] no me cae mal."
+msgstr "[Sound1 bytes=\"0009\"]A decir verdad, la [Color name=\"blue\"]jefa[Color name=\"unset\"] no me cae mal."
 
 msgid "near02"
 msgstr "Ajá."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]¿Buscas algún sitio en particular?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0601\"]¿Buscas algún sitio en particular?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Seguro que esa \"investigación\" tan\n"
+"[Sound1 bytes=\"0001\"]Seguro que esa \"investigación\" tan\n"
 "importante[PauseShort] es por el bien de la aldea."
 
 msgid "near03"
 msgstr "Loroló. ♪"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Quieres saber algo más?"
+msgstr "[Sound1 bytes=\"0006\"]¿Quieres saber algo más?"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]¡Deberías devolver esa [Color name=\"blue\"]llama azul[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0000\"]¡Deberías devolver esa [Color name=\"blue\"]llama azul[Color name=\"unset\"]![PauseShort]\n"
 "Si no, a ver cómo siguen adelante\n"
 "con esa supuesta \"investigación\"."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hora de dormir.[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]Hora de dormir.[PauseLong]\n"
 "Nos vemos mañana."
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Lo di todo hoy.[PauseShort] Pero cuando llegue\n"
+"[Sound1 bytes=\"0009\"]Lo di todo hoy.[PauseShort] Pero cuando llegue\n"
 "la hora de recoger la cosecha,\n"
 "lo agradeceré."
 
@@ -62,22 +62,22 @@ msgid "0003"
 msgstr "Un sitio muy raro"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Zzz..."
+msgstr "[Sound1 bytes=\"0021\"]Zzz..."
 
 msgid "0004"
 msgstr "Un sitio calmado"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Zzz... Zzz..."
+msgstr "[Sound1 bytes=\"0021\"]Zzz... Zzz..."
 
 msgid "0005"
 msgstr "No..."
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Un sitio raro...[PauseShort] ¿Te refieres al\n"
+"[Sound1 bytes=\"0B06\"]Un sitio raro...[PauseShort] ¿Te refieres al\n"
 "establecimiento de ese tipo raro?[PageBreak]Ya sé que vestirse de forma peculiar\n"
-"no significa que seas raro...[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Pero Matik, el de la [Color name=\"blue\"]tintorería[Color name=\"unset\"] que hay\n"
+"no significa que seas raro...[PageBreak][Sound1 bytes=\"0601\"]Pero Matik, el de la [Color name=\"blue\"]tintorería[Color name=\"unset\"] que hay\n"
 "junto al puente, no es muy normal\n"
 "que digamos.\n"
 "Es un as en lo suyo...[PauseMid] pero lo suyo son\n"
@@ -85,11 +85,11 @@ msgstr ""
 "que un perro verde."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Esa [Color name=\"blue\"]llama azul[Color name=\"unset\"]...[PauseLong] ¿No es del [Color name=\"blue\"]laboratorio[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0B00\"]Esa [Color name=\"blue\"]llama azul[Color name=\"unset\"]...[PauseLong] ¿No es del [Color name=\"blue\"]laboratorio[Color name=\"unset\"]?"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Un sitio muy raro...[PauseShort] Pues no te creas\n"
+"[Sound1 bytes=\"0006\"]Un sitio muy raro...[PauseShort] Pues no te creas\n"
 "que hay tantos candidatos en la aldea.[PageBreak]Tiene que ser por fuerza donde\n"
 "tú ya sabes.[PageBreak]Sí, el [Color name=\"blue\"]laboratorio de Hatelia[Color name=\"unset\"], esa\n"
 "construcción tan rara que está en el\n"
@@ -103,14 +103,14 @@ msgstr ""
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]Si buscas calma, [PauseShort]la [Color name=\"blue\"]posada[Color name=\"unset\"] es una\n"
-"apuesta segura.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Aunque ahora que lo pienso[PauseMid] también\n"
+"[Sound1 bytes=\"0610\"]Si buscas calma, [PauseShort]la [Color name=\"blue\"]posada[Color name=\"unset\"] es una\n"
+"apuesta segura.[PageBreak][Sound1 bytes=\"0001\"]Aunque ahora que lo pienso[PauseMid] también\n"
 "están esas casas que hay [Color name=\"blue\"]detrás de la\n"
 "tienda[Color name=\"unset\"].\n"
 "Ya sabes, esas que construyeron\n"
 "y amueblaron los de Construcciones\n"
 "Karud...\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]Están impecables, con ese olor a casa\n"
+"[Sound1 bytes=\"0009\"]Están impecables, con ese olor a casa\n"
 "nueva. ¡Ya me gustaría a mí tener una\n"
 "casa así!"
 

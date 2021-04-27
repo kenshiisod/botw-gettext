@@ -11,35 +11,35 @@ msgid "0004"
 msgstr "Cosa?!"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Sniff, sniff...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Sniff, sniff...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "... ..."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Sniff, sniff...[PauseLong]\n"
-"Lo voglio...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"032A\"]Sniff, sniff...[PauseLong]\n"
+"Lo voglio...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Il salmone[PauseLong] grigliato.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Il salmone[PauseLong] grigliato.[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]E voglio anche..."
+msgstr "[Sound1 bytes=\"0001\"]E voglio anche..."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Sniff, sniff...[PauseLong]\n"
+"[Sound1 bytes=\"032A\"]Sniff, sniff...[PauseLong]\n"
 "Ciò che voglio veramente è..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]La vita dell'eroe![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]La vita dell'eroe![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Sniff, sniff...[PauseMid] Non lo vedrò mai più..."
+msgstr "[Sound1 bytes=\"032A\"]Sniff, sniff...[PauseMid] Non lo vedrò mai più..."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Vendicherò il maestro Koga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Vendicherò il maestro Koga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"40\"]Sniff, sniff..."

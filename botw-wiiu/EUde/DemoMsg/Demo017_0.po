@@ -1,6 +1,6 @@
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Meine Freunde verstecken sich übrigens\n"
+"[Sound1 bytes=\"0000\"]Meine Freunde verstecken sich übrigens\n"
 "auch an den verschiedensten Orten.[PageBreak]Wenn dir irgendetwas auffällig erscheint,\n"
 "solltest du dort suchen!"
 
@@ -8,15 +8,15 @@ msgid "CompTalk02"
 msgstr "Du hast alle versteckten Krogs gefunden!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]Ui! Du hast mich entdeckt!"
+msgstr "[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]Ui! Du hast mich entdeckt!"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Tschüssi!"
+msgstr "[Sound1 bytes=\"0700\"]Tschüssi!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]Ui! Du hast mich entdeckt![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Nanu? [PauseShort]Du bist ja gar nicht Maronus![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Kannst du mich etwa sehen?![PauseMid]\n"
-"Ich bin ein Krog, ein Waldgeist![PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Hier, ich habe etwas für dich![PauseShort]\n"
+"[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]Ui! Du hast mich entdeckt![PageBreak][Sound1 bytes=\"0B00\"]Nanu? [PauseShort]Du bist ja gar nicht Maronus![PageBreak][Sound1 bytes=\"0000\"]Kannst du mich etwa sehen?![PauseMid]\n"
+"Ich bin ein Krog, ein Waldgeist![PageBreak][Sound1 bytes=\"0700\"]Hier, ich habe etwas für dich![PauseShort]\n"
 "Wenn du Maronus siehst, gib es\n"
 "ihm doch bitte zurück!"
 

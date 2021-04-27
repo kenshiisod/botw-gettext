@@ -1,14 +1,14 @@
 #, ruby
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おやおや 雨に降られたのかい？"
+msgstr "[Sound1 bytes=\"0000\"]おやおや 雨に降られたのかい？"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]夜分まで お疲れさんだねぇ"
+msgstr "[Sound1 bytes=\"0000\"]夜分まで お疲れさんだねぇ"
 
 #, ruby
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]よく来てくれたね"
+msgstr "[Sound1 bytes=\"0000\"]よく来てくれたね"
 
 #, ruby
 msgid "0002"
@@ -16,7 +16,7 @@ msgstr "朝まで"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]ここはリトの御宿 [Color name=\"blue\"]ツバメの巣[Color name=\"unset\"]だよ"
+msgstr "[Sound1 bytes=\"0001\"]ここはリトの御宿 [Color name=\"blue\"]ツバメの巣[Color name=\"unset\"]だよ"
 
 #, ruby
 msgid "0003"
@@ -25,7 +25,7 @@ msgstr "昼まで"
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]じゃ 朝になったら起こしてやるから[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]じゃ 朝になったら起こしてやるから[PauseLong]\n"
 "それまで ゆっくり休んでいきな"
 
 #, ruby
@@ -35,7 +35,7 @@ msgstr "夜まで"
 #, ruby
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]じゃ 昼になったら起こしてやるから[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]じゃ 昼になったら起こしてやるから[PauseLong]\n"
 "それまで ゆっくり休んでいきな"
 
 msgid "0005"
@@ -44,7 +44,7 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]じゃ 夜になったら起こしてやるから[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]じゃ 夜になったら起こしてやるから[PauseLong]\n"
 "それまで ゆっくり休んでいきな"
 
 #, ruby
@@ -54,7 +54,7 @@ msgstr "普通のベッド"
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]おはよう[PauseShort] \n"
+"[Sound1 bytes=\"0009\"]おはよう[PauseShort] \n"
 "リトの羽毛ベッドは よく眠れただろう？"
 
 #, ruby
@@ -64,13 +64,13 @@ msgstr "リトの羽毛ベッド"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]普通のベッドなら[Color name=\"red\"]20ルピー[Color name=\"unset\"][PauseShort]\n"
-"リトの羽毛ベッドなら[Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0001\"]普通のベッドなら[Color name=\"red\"]20ルピー[Color name=\"unset\"][PauseShort]\n"
+"リトの羽毛ベッドなら[Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]リトの羽毛ベッドは どうだった？[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]リトの羽毛ベッドは どうだった？[PauseLong]\n"
 "熟睡できただろう？"
 
 msgid "near00"
@@ -83,59 +83,59 @@ msgstr "リトの羽毛ベッド？"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]わかった[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]わかった[PauseShort]\n"
 "疲れを感じたら いつでも来なよ"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]もう 夜だよ[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]もう 夜だよ[PauseLong]\n"
 "リトの羽毛ベッドだと ずっと寝られるだろう？"
 
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"8\"]ん？[PauseShort] ルピー 足りないみたいだね\n"
+"[Sound1 bytes=\"0B08\"]ん？[PauseShort] ルピー 足りないみたいだね\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]しっかり稼いでから また来なよ"
+"[Sound1 bytes=\"0001\"]しっかり稼いでから また来なよ"
 
 #, ruby
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]いつまで寝るんだい？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]いつまで寝るんだい？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]リトの羽毛ベッドは 我らリト族の繊毛を使った[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]リトの羽毛ベッドは 我らリト族の繊毛を使った[PauseShort]\n"
 "ふわふわのベッドだよ\n"
 "そこら辺の馬宿のベッドとは[PauseShort]\n"
 "比べ物にならないほど休まるよ\n"
-"[Sound1 unk1=\"7\" unk2=\"9\"]朝起きたら 元気間違いなし！[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]朝起きたら 元気間違いなし！[PauseLong]\n"
 "一度お試しあれ"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃ 気を付けて"
+msgstr "[Sound1 bytes=\"0000\"]じゃ 気を付けて"
 
 #, ruby
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]おはよう[PauseShort] よく眠れたかい？"
+msgstr "[Sound1 bytes=\"0001\"]おはよう[PauseShort] よく眠れたかい？"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]こんにちは[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]こんにちは[PauseLong]\n"
 "とっくに お日さんは上ってるよ"
 
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]よく眠れたかい？[PauseShort] こんな夜に起きるなんて\n"
+"[Sound1 bytes=\"0001\"]よく眠れたかい？[PauseShort] こんな夜に起きるなんて\n"
 "何か理由が あるんだろうけど……"
 
 #, ruby
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]こんな天気の中 お疲れさんだねぇ"
+msgstr "[Sound1 bytes=\"0000\"]こんな天気の中 お疲れさんだねぇ"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAHOAwAAAAAAABwAAAAEAAAAeAAAAKAAAACiAAAApAAAAKYAAACoAAAAqgAAAKwAAACuAAAA1gAAAP4AAAAmAQAATgEAAHYBAACeAQAAxgEAAO4BAAAWAgAAPgIAAGYCAACOAgAAtgIAAN4CAAAGAwAALgMAAFYDAAB+AwAApgMAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAAAAAA"

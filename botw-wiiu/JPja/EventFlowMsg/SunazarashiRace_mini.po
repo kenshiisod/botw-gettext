@@ -1,7 +1,7 @@
 #, ruby
 msgid "Npc_oasis038_R_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ふふ…\n"
+"[Sound1 bytes=\"0700\"]ふふ…\n"
 "こんなパフュー久々だねぇ\n"
 "まだ駆け出しのレーサーで\n"
 "無我夢中で 練習していた頃を思い出すねぇ\n"
@@ -9,13 +9,13 @@ msgstr ""
 
 msgid "Npc_oasis039_R_006"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]ふふっ \n"
+"[Sound1 bytes=\"0701\"]ふふっ \n"
 "そうこなくっちゃね"
 
 #, ruby
 msgid "Npc_oasis038_R_005"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ちょいちょいちょいちょい！！！\n"
+"[Sound1 bytes=\"0A00\"]ちょいちょいちょいちょい！！！\n"
 "\n"
 "なに澄ました顔して\n"
 "話しかけてるんだよ！\n"
@@ -25,7 +25,7 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis039_R_007"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Sound1 bytes=\"0800\"]ちょいちょいちょい！\n"
 "\n"
 "[Color name=\"red\"]100ルピー[Color name=\"unset\"]も持ってないのかい？\n"
 "\n"
@@ -37,15 +37,15 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis038_R_006"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]まさかとは思ったが…\n"
+"[Sound1 bytes=\"0B01\"]まさかとは思ったが…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"9\"]ふふ… 選ばれし者に負けたのであれば\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"9\"]ふふ… 選ばれし者に負けたのであれば\n"
 "むしろ光栄といったところだな"
 
 #, ruby
 msgid "Npc_oasis039_R_008"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"9\"]でもまぁ そうだねぇ…\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"9\"]でもまぁ そうだねぇ…\n"
 "\n"
 "3年は縮んだが\n"
 "新チャンピオン打倒という目標が出来たからね\n"
@@ -56,7 +56,7 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis038_R_007"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょっとパフュー\n"
+"[Sound1 bytes=\"0800\"]ちょっとパフュー\n"
 "アンタまで何 澄ました顔してるんだい？\n"
 "…アタシゃ 驚いて\n"
 "腰が抜けそうだったよ\n"
@@ -65,18 +65,18 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis039_R_009"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]なんだい？\n"
+"[Sound1 bytes=\"0000\"]なんだい？\n"
 "\n"
 "新チャンピオンになったからって\n"
 "パフューを笑いに来たんじゃないだろうね！"
 
 #, ruby
 msgid "Npc_oasis038_R_008"
-msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]…たった3年か[PauseLong]"
+msgstr "[Sound1 bytes=\"0501\"]…たった3年か[PauseLong]"
 
 msgid "Npc_oasis038_R_009"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"4\"]…ん？\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"4\"]…ん？\n"
 "あんだって？[PauseLong]"
 
 #, ruby
@@ -102,7 +102,7 @@ msgstr "今はいいです"
 #, ruby
 msgid "Npc_oasis039_R_010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]…[PauseShort]…[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]…[PauseShort]…[PauseLong]\n"
 "\n"
 "[Sound2 id=\"12\"]待って師匠…[PauseLong]\n"
 "こいつはそんなスカした奴じゃないよ…\n"
@@ -112,80 +112,80 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis039_R_011"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]それで 乗ってくのかい？\n"
+"[Sound1 bytes=\"0000\"]それで 乗ってくのかい？\n"
 "\n"
 "チャンピオンといえども\n"
-"1回[Color name=\"red\"]100ルピー[Color name=\"unset\"]は払ってもらうよ？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"1回[Color name=\"red\"]100ルピー[Color name=\"unset\"]は払ってもらうよ？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_oasis039_R_012"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]それもそうだねぇ[PauseLong]\n"
+"[Sound1 bytes=\"0B00\"]それもそうだねぇ[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]でも チャンピオンといえども\n"
+"[Sound1 bytes=\"0000\"]でも チャンピオンといえども\n"
 "料金はキッチリもらうよ\n"
 "1ラリー [Color name=\"red\"]100ルピー[Color name=\"unset\"]だよ\n"
-"走ってくかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"走ってくかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_oasis039_R_013"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]また来たのかい？\n"
+"[Sound1 bytes=\"0800\"]また来たのかい？\n"
 "何度でも挑戦していいが\n"
 "こう何度も来られちゃ\n"
 "こっちが練習できないじゃないか"
 
 msgid "Npc_oasis039_R_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"14\"]まぁ [PauseShort]パフューがそういうなら\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"14\"]まぁ [PauseShort]パフューがそういうなら\n"
 "アタシゃいいけどさ[PauseLong]"
 
 #, ruby
 msgid "Npc_oasis039_R_014"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"23\"]…師匠\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"23\"]…師匠\n"
 "\n"
 "チャンピオンの走りを見ることも\n"
 "勉強だと思うが…"
 
 #, ruby
 msgid "Npc_oasis039_Miss01"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]チャンピオンの名が 泣いちまうよ…"
+msgstr "[Sound1 bytes=\"0900\"]チャンピオンの名が 泣いちまうよ…"
 
 #, ruby
 msgid "Npc_oasis039_R_015"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]さあ 長話はここまでだ\n"
+"[Sound1 bytes=\"0000\"]さあ 長話はここまでだ\n"
 "\n"
 "せっかくだ\n"
 "一乗りどうだい？\n"
 "チャンピオンといえども\n"
-"[Color name=\"red\"]100ルピー [Color name=\"unset\"]はいただくがね[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"red\"]100ルピー [Color name=\"unset\"]はいただくがね[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_oasis039_R_002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Sound2 id=\"7\"]相変わらず いい返事だね\n"
+"[Sound1 bytes=\"0700\"][Sound2 id=\"7\"]相変わらず いい返事だね\n"
 "じゃあ [Color name=\"red\"]100ルピー[Color name=\"unset\"]いただこうかね"
 
 #, ruby
 msgid "Npc_oasis039_S1_001"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Sound1 bytes=\"0800\"]ちょいちょいちょい！\n"
 "[Color name=\"red\"]スナザラシから降りたらダメ[Color name=\"unset\"]だって言っただろ！\n"
 "残念だが ここで終了だよ"
 
 #, ruby
 msgid "Npc_oasis039_Miss02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]アンタの本気 楽しみにしてるからね"
+msgstr "[Sound1 bytes=\"0001\"]アンタの本気 楽しみにしてるからね"
 
 msgid "Npc_oasis038_R_001"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]…[PauseShort]…[PauseLong]"
+msgstr "[Sound1 bytes=\"0001\"]…[PauseShort]…[PauseLong]"
 
 #, ruby
 msgid "Npc_oasis039_R_003"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Sound1 bytes=\"0800\"]ちょいちょいちょい！\n"
 "\n"
 "[Color name=\"red\"]盾[Color name=\"unset\"]を持ってないじゃないか！\n"
 "\n"
@@ -196,17 +196,17 @@ msgstr ""
 
 msgid "Npc_oasis039_Miss03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"2\"]まだやるかい？\n"
-"もちろん [Color name=\"red\"]100ルピー[Color name=\"unset\"]はいただくけどね[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"2\"]まだやるかい？\n"
+"もちろん [Color name=\"red\"]100ルピー[Color name=\"unset\"]はいただくけどね[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_oasis038_R_002"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"SurpriseS_01\"]感動した！[Size percent=\"100\"][PauseLong]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0001\"][Animation name=\"SurpriseS_01\"]感動した！[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "Npc_oasis039_R_004"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]スナザラシ[Color name=\"unset\"]に乗り 決められたアーチを通って\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]スナザラシ[Color name=\"unset\"]に乗り 決められたアーチを通って\n"
 "目的地に向かい時間を競い合う\n"
 "途中で[Color name=\"red\"]スナザラシから下りたり[Color name=\"unset\"]…\n"
 "[Color name=\"red\"]コースエリアから 外れすぎたら[Color name=\"unset\"]失格だよ\n"
@@ -215,26 +215,26 @@ msgstr ""
 "さっ もういいだろ？\n"
 "長い話は嫌いなんだ\n"
 "1回[Color name=\"red\"]100ルピー[Color name=\"unset\"]だが\n"
-"やってくかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"やってくかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_oasis039_S1_003"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょいちょいちょい！\n"
+"[Sound1 bytes=\"0800\"]ちょいちょいちょい！\n"
 "[Color name=\"red\"]コースを外れたらダメ[Color name=\"unset\"]だって言っただろ！\n"
 "今回はここまでだよ！"
 
 #, ruby
 msgid "Npc_oasis038_R_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"9\"]…これからは\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"9\"]…これからは\n"
 "私がお前の背中を… 追いかける\n"
 "覚悟しておくんだな"
 
 #, ruby
 msgid "Npc_oasis039_R_005"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Sound2 id=\"4\"]チャンピオンのくせに\n"
+"[Sound1 bytes=\"0000\"][Sound2 id=\"4\"]チャンピオンのくせに\n"
 "ビビッてんのかい？\n"
 "でも またあの走りを見せてくれるなら\n"
 "いくらでも待ってやるさ"
@@ -242,7 +242,7 @@ msgstr ""
 #, ruby
 msgid "Npc_oasis039_AfterGoal_040"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]最高記録の\n"
+"[Sound1 bytes=\"0019\"]最高記録の\n"
 "[Color name=\"red\"][02:0E name=\"SunazarashiRace_BestTime_L\"]分[02:0E name=\"SunazarashiRace_BestTime_M\"]秒[02:0E name=\"SunazarashiRace_BestTime_S\"][Color name=\"unset\"]には 届かなかったようだが…\n"
 "アンタの走りは\n"
 "見ていて気持ちがいいねぇ\n"

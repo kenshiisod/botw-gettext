@@ -1,6 +1,6 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]Tu vas être trempé si tu restes sous\n"
+"[Sound1 bytes=\"0300\"]Tu vas être trempé si tu restes sous\n"
 "la pluie![PauseMid] Viens donc te mettre à l'abri\n"
 "au relais."
 
@@ -9,7 +9,7 @@ msgstr "[Sound2 id=\"1\"]À table!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]Avec cette pluie, tu ne pourras rien\n"
+"[Sound1 bytes=\"0312\"]Avec cette pluie, tu ne pourras rien\n"
 "cuisiner sur le feu.[PauseMid] Que dirais-tu de\n"
 "passer la nuit ici?"
 
@@ -21,7 +21,7 @@ msgstr "Zzz..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]Excuse-moi,[PauseMid] mais je m'apprêtais\n"
+"[Sound1 bytes=\"0312\"]Excuse-moi,[PauseMid] mais je m'apprêtais\n"
 "justement à aller me coucher..."
 
 msgid "Near_Sleep01"
@@ -29,7 +29,7 @@ msgstr "[Sound2 id=\"32\"]Il est déjà tard!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Allez, mange tes légumes, d'accord?[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Allez, mange tes légumes, d'accord?[PauseMid]\n"
 "Comme une grande."
 
 msgid "Near_RunRain00"
@@ -40,8 +40,8 @@ msgstr "Encore la pluie..."
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux utiliser notre récipient\n"
-"de cuisson?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]Tu veux utiliser notre récipient\n"
+"de cuisson?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Un récipient?"
@@ -51,13 +51,13 @@ msgstr "Non, non."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Au relais, chacun cuisine son propre\n"
+"[Sound1 bytes=\"0000\"]Au relais, chacun cuisine son propre\n"
 "repas. [PauseMid]Si tu veux te préparer quelque\n"
 "chose, utilise notre récipient!"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Si tu as besoin de quelque chose, parle\n"
+"[Sound1 bytes=\"0000\"]Si tu as besoin de quelque chose, parle\n"
 "directement à Ibreauvor, c'est le\n"
 "propriétaire du relais.[PauseMid]\n"
 "Si tu veux préparer ton itinéraire, va\n"

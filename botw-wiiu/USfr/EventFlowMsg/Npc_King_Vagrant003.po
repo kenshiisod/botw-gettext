@@ -3,17 +3,17 @@ msgstr "Hééé!"
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]J'ai hâte de voir ce que\n"
+"[Sound1 bytes=\"0001\"]J'ai hâte de voir ce que\n"
 "tu vas me ramener!"
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Hohoho...[PauseMid] Si tu veux la [Color name=\"blue\"]paravoile[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Hohoho...[PauseMid] Si tu veux la [Color name=\"blue\"]paravoile[Color name=\"unset\"],\n"
 "il va falloir la mériter!"
 
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Tout de même...[PauseMid] Ce n'est pas rien\n"
+"[Sound1 bytes=\"0001\"]Tout de même...[PauseMid] Ce n'est pas rien\n"
 "d'arriver jusqu'ici sans aucune\n"
 "protection contre le froid...\n"
 "[Sound2 id=\"7\"]Une telle prouesse mérite récompense![PauseMid]\n"
@@ -40,31 +40,31 @@ msgstr "Ça brûle!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Hohoho...[PauseMid]\n"
-"Quelle vue exceptionnelle![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Hohoho...[PauseMid]\n"
+"Quelle vue exceptionnelle![Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "Quelle belle vue!"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Hohoho...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Hohoho...[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "Au revoir!"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]On dirait que le soleil va bientôt\n"
+"[Sound1 bytes=\"0002\"]On dirait que le soleil va bientôt\n"
 "se lever."
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]La nuit, la température chute vite dans\n"
+"[Sound1 bytes=\"0002\"]La nuit, la température chute vite dans\n"
 "ces montagnes."
 
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]D'ici, il n'y a rien qui gêne le regard.[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]D'ici, il n'y a rien qui gêne le regard.[PauseMid]\n"
 "C'est le meilleur endroit pour pouvoir\n"
 "admirer le plateau entier."
 
@@ -76,18 +76,18 @@ msgstr ""
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Alors, as-tu récupéré le trésor du\n"
+"[Sound1 bytes=\"0000\"]Alors, as-tu récupéré le trésor du\n"
 "sanctuaire? Je commence à perdre\n"
 "patience, tu sais..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]As-tu trouvé les sanctuaires restants?"
+msgstr "[Sound1 bytes=\"0000\"]As-tu trouvé les sanctuaires restants?"
 
 msgid "TerrorArrow"
 msgstr "Qu'est-ce que tu fais?"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Hohoho..."
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Hohoho..."
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]Hohoho..."

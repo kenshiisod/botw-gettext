@@ -2,11 +2,11 @@ msgid "0003"
 msgstr "Terugkeren."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wil je het blijven proberen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Wil je het blijven proberen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"32\"]Je hebt geen [Color name=\"blue\"]bogen[Color name=\"unset\"] meer?![PauseMid]\n"
+"[Sound1 bytes=\"0020\"]Je hebt geen [Color name=\"blue\"]bogen[Color name=\"unset\"] meer?![PauseMid]\n"
 "Dan gaan we nu terug!"
 
 msgid "0004"
@@ -14,45 +14,45 @@ msgstr "Niet terugkeren."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Wat is er aan de hand?[PauseLong]\n"
-"Je wilt terug? Echt?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"000C\"]Wat is er aan de hand?[PauseLong]\n"
+"Je wilt terug? Echt?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"2\"]"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"32\"]Je hebt geen [Color name=\"blue\"]bompijlen[Color name=\"unset\"] meer?![PauseMid]\n"
+"[Sound1 bytes=\"0020\"]Je hebt geen [Color name=\"blue\"]bompijlen[Color name=\"unset\"] meer?![PauseMid]\n"
 "Dan gaan we nu terug!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]O, oké...[PauseShort] Je wilt dus gewoon verdergaan?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]O, oké...[PauseShort] Je wilt dus gewoon verdergaan?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"32\"]Het weer werkt niet bepaald mee![PauseLong]\n"
-"Ben je voldoende [Color name=\"blue\"]bestand tegen de kou[Color name=\"unset\"]?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0020\"]Het weer werkt niet bepaald mee![PauseLong]\n"
+"Ben je voldoende [Color name=\"blue\"]bestand tegen de kou[Color name=\"unset\"]?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"32\"]Kijk uit![PauseShort] Wil je het blijven proberen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0020\"]Kijk uit![PauseShort] Wil je het blijven proberen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "Natuurlijk!"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Goed, tijd om die [Color name=\"red\"]kanonnen [Color name=\"unset\"]uit te\n"
+"[Sound1 bytes=\"0000\"]Goed, tijd om die [Color name=\"red\"]kanonnen [Color name=\"unset\"]uit te\n"
 "schakelen!"
 
 msgid "0001"
 msgstr "Ik ben nog niet zover."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Begrepen![PauseShort] Doe voorzichtig."
+msgstr "[Sound1 bytes=\"0600\"]Begrepen![PauseShort] Doe voorzichtig."
 
 msgid "0002"
 msgstr "Ik moet meer trainen."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Geen probleem.[PauseShort] Kom, we gaan terug naar\n"
+"[Sound1 bytes=\"0000\"]Geen probleem.[PauseShort] Kom, we gaan terug naar\n"
 "de grond."
 
 msgid "_ReadOnly_MsbtExtras"

@@ -2,19 +2,19 @@ msgid "near02"
 msgstr "..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah! [PauseLong]Reiziger![Choice2 label1=\"0\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Ah! [PauseLong]Reiziger![Choice2 label1=\"0\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "Zzz... zzz..."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Je kent het dansje van Bolson niet?\n"
+"[Sound1 bytes=\"070A\"]Je kent het dansje van Bolson niet?\n"
 "[PauseLong]Reizigers zijn niet cool!"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Ja, dat dacht ik al.[PauseShort] Dat weet toch\n"
+"[Sound1 bytes=\"0009\"]Ja, dat dacht ik al.[PauseShort] Dat weet toch\n"
 "iedereen."
 
 msgid "0000"
@@ -25,20 +25,20 @@ msgstr "Ja, natuurlijk."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]De timmerman die iets aan het doen is\n"
+"[Sound1 bytes=\"0000\"]De timmerman die iets aan het doen is\n"
 "achter de winkel?"
 
 msgid "0002"
 msgstr "Ken ik niet."
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Oké, ik zal het je leren.[PauseLong] Let goed op!"
+msgstr "[Sound1 bytes=\"0000\"]Oké, ik zal het je leren.[PauseLong] Let goed op!"
 
 msgid "0003"
 msgstr "Tot ziens."
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een ontwerper?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een ontwerper?[Size percent=\"100\"]"
 
 msgid "0004"
 msgstr "Bolson?"
@@ -48,61 +48,61 @@ msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Schuddeeeeeeen![Size percent=\"1
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een spiritueel\n"
+"[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een spiritueel\n"
 "leider?[Size percent=\"100\"]"
 
 msgid "0005"
 msgstr "Dans?"
 
 msgid "talk11"
-msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Schuddeeeeeeen![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Schuddeeeeeeen![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een president?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een president?[Size percent=\"100\"]"
 
 msgid "0006"
 msgstr "Ik wilde je stoppen."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]En? [PauseShort]Ontzettend makkelijk, toch?"
+msgstr "[Sound1 bytes=\"0101\"]En? [PauseShort]Ontzettend makkelijk, toch?"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een aannemer?[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Huh? [PauseShort]Hij is geen timmerman, [PauseShort]maar een aannemer?[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Sufferd!"
+msgstr "[Sound1 bytes=\"0800\"]Sufferd!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Je kent het dansje van Bolson nog steeds\n"
+"[Sound1 bytes=\"030C\"]Je kent het dansje van Bolson nog steeds\n"
 "niet?[PauseLong] Dat is niet cool!"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Nou ja, wat hij ook is, ik wil dat Bolson je\n"
+"[Sound1 bytes=\"0601\"]Nou ja, wat hij ook is, ik wil dat Bolson je\n"
 "zijn dansje leert!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Wat is dat?"
+msgstr "[Sound1 bytes=\"0414\"]Wat is dat?"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Weet je wat dit is?"
+msgstr "[Sound1 bytes=\"0000\"]Weet je wat dit is?"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Wat mooi!"
+msgstr "[Sound1 bytes=\"0700\"]Wat mooi!"
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Mama...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Mama...[Size percent=\"100\"]"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Het is tijd om naar bed te gaan!"
+msgstr "[Sound1 bytes=\"0900\"]Het is tijd om naar bed te gaan!"
 
 msgid "talk16"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Hm...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Hm...[Size percent=\"100\"]"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Als ik 's avonds niet op tijd thuis ben,\n"
+"[Sound1 bytes=\"0900\"]Als ik 's avonds niet op tijd thuis ben,\n"
 "vindt mama dat niet leuk!"
 
 msgid "talk17"
@@ -112,7 +112,7 @@ msgid "near00"
 msgstr "Ha ha ha!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tot ziens!"
+msgstr "[Sound1 bytes=\"0000\"]Tot ziens!"
 
 msgid "talk18"
 msgstr "[Sound2 id=\"38\"][Size percent=\"80\"]Uh-[Size percent=\"100\"]Ah![Size percent=\"125\"] [Size percent=\"100\"][Size percent=\"80\"]Uh-[Size percent=\"100\"]Ah!"
@@ -122,11 +122,11 @@ msgstr "Wat?!"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hallo! [PauseLong]Reiziger! Heb je het dansje van\n"
-"Bolson geleerd?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]Hallo! [PauseLong]Reiziger! Heb je het dansje van\n"
+"Bolson geleerd?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hm? Ken je het dansje van Bolson?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Hm? Ken je het dansje van Bolson?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAHEBQAAAAAAACYAAAAEAAAAoAAAAMoAAAD0AAAAHgEAAEgBAABKAQAATAEAAE4BAABQAQAAUgEAAFQBAABWAQAAgAEAAKoBAADUAQAA/gEAACgCAABSAgAAfAIAAKYCAADQAgAA+gIAACQDAABOAwAAeAMAAKIDAADMAwAA9gMAACAEAABKBAAAdAQAAJ4EAADIBAAA8gQAABwFAABGBQAAcAUAAJoFAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAAAAAA=="

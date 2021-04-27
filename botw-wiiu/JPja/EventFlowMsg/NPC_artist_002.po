@@ -1,19 +1,19 @@
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"4\"]うん[PauseShort] たまには動物たちを\n"
+"[Sound1 bytes=\"0B04\"]うん[PauseShort] たまには動物たちを\n"
 "じっくり眺めるのも 悪くない……[PauseMid]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"4\"]うむ これは……[PauseMid] [Color name=\"blue\"]古代石柱群[Color name=\"unset\"]だな[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]すぐそこにある [Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"] を渡ると\n"
+"[Sound1 bytes=\"0B04\"]うむ これは……[PauseMid] [Color name=\"blue\"]古代石柱群[Color name=\"unset\"]だな[PageBreak][Sound1 bytes=\"0001\"]すぐそこにある [Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"] を渡ると\n"
 "南に大きな崖がある[PauseMid] その上にある遺跡だ"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]右側に描かれている [Color name=\"red\"]祠[Color name=\"unset\"]にも見覚えがある\n"
+"[Sound1 bytes=\"0004\"]右側に描かれている [Color name=\"red\"]祠[Color name=\"unset\"]にも見覚えがある\n"
 "まず 間違いないだろう"
 
 msgid "_ReadOnly_MsbtExtras"

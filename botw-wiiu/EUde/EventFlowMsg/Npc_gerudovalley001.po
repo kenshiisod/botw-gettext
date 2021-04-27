@@ -3,21 +3,21 @@ msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]Zzzz... Zzzz...[Size percent=\"10
 
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Ah, auf dich kann ich mich immer\n"
+"[Sound1 bytes=\"0109\"]Ah, auf dich kann ich mich immer\n"
 "verlassen.[PageBreak]Aber sag mal... [PauseShort]Das war's schon?[PageBreak]Bist du sicher...[PauseLong] dass du nicht noch\n"
-"mehr davon hast?[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+"mehr davon hast?[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0009"
 msgstr "Nicht übergeben"
 
 msgid "Talk_21"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]He-heh.[PageBreak]Ich führe diesen Stall schon so lange,\n"
+"[Sound1 bytes=\"0109\"]He-heh.[PageBreak]Ich führe diesen Stall schon so lange,\n"
 "da lernt man, Leute einzuschätzen.[PageBreak]Vor mir kannst du nichts verbergen.[PageBreak]Also, los, zeig sie mir."
 
 msgid "Talk_22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Ich nehme immer nur [Color name=\"blue\"]55 [Color name=\"unset\"]auf einmal...\n"
+"[Sound1 bytes=\"0004\"]Ich nehme immer nur [Color name=\"blue\"]55 [Color name=\"unset\"]auf einmal...\n"
 "Das ist zwar eine ganze Menge, aber\n"
 "deine Mühe soll nicht umsonst sein.\n"
 "Ich gebe dir doppelt so viel, wie du auf\n"
@@ -25,14 +25,14 @@ msgstr ""
 
 msgid "Talk_0001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Dachte ich mir doch, dass du\n"
+"[Sound1 bytes=\"0000\"]Dachte ich mir doch, dass du\n"
 "zurückkommst...[PageBreak]Als Stallbesitzer trifft man viele Leute.[PauseShort]\n"
 "Da entwickelt man ein Gefühl für die, mit\n"
 "denen man ins Geschäft kommen kann.\n"
-"...Also, hast du die Pilze?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"...Also, hast du die Pilze?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo..."
+msgstr "[Sound1 bytes=\"0000\"]Hallo..."
 
 msgid "0000"
 msgstr "Hab ich."

@@ -1,91 +1,91 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]А [Color name=\"blue\"]Щебнереза[Color name=\"unset\"] у тебя нет."
+msgstr "[Sound1 bytes=\"0000\"]А [Color name=\"blue\"]Щебнереза[Color name=\"unset\"] у тебя нет."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]А [Color name=\"blue\"]алмаза[Color name=\"unset\"] у тебя нет."
+msgstr "[Sound1 bytes=\"0000\"]А [Color name=\"blue\"]алмаза[Color name=\"unset\"] у тебя нет."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]А у тебя нет ни [Color name=\"blue\"]Щебнереза[Color name=\"unset\"], ни [Color name=\"blue\"]алмаза[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0000\"]А у тебя нет ни [Color name=\"blue\"]Щебнереза[Color name=\"unset\"], ни [Color name=\"blue\"]алмаза[Color name=\"unset\"]."
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]А у тебя нет нужного числа [Color name=\"blue\"]кремней[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0000\"]А у тебя нет нужного числа [Color name=\"blue\"]кремней[Color name=\"unset\"]."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]А у тебя нет ни [Color name=\"blue\"]Щебнереза[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0000\"]А у тебя нет ни [Color name=\"blue\"]Щебнереза[Color name=\"unset\"],\n"
 "ни нужного числа [Color name=\"blue\"]кремней[Color name=\"unset\"]."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]А у тебя нет ни [Color name=\"blue\"]алмаза[Color name=\"unset\"], ни\n"
+"[Sound1 bytes=\"0000\"]А у тебя нет ни [Color name=\"blue\"]алмаза[Color name=\"unset\"], ни\n"
 "нужного числа [Color name=\"blue\"]кремней[Color name=\"unset\"]."
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Приходи, когда будет все, что нужно."
+msgstr "[Sound1 bytes=\"0800\"]Приходи, когда будет все, что нужно."
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"][Color name=\"blue\"]Алмаз[Color name=\"unset\"] — камень редкий.[PauseShort] Даже в наших\n"
+"[Sound1 bytes=\"0006\"][Color name=\"blue\"]Алмаз[Color name=\"unset\"] — камень редкий.[PauseShort] Даже в наших\n"
 "краях его сложно найти.[PauseShort] Точно хочешь\n"
-"его потратить?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"его потратить?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Хм...[PauseShort] Приходи, если передумаешь."
+msgstr "[Sound1 bytes=\"0800\"]Хм...[PauseShort] Приходи, если передумаешь."
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Тогда я начинаю.[PauseShort] Жди."
+msgstr "[Sound1 bytes=\"0600\"]Тогда я начинаю.[PauseShort] Жди."
 
 msgid "near00"
 msgstr "Вот так!"
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Хм, неплохо вышло.[PauseShort] Держи."
+msgstr "[Sound1 bytes=\"0600\"]Хм, неплохо вышло.[PauseShort] Держи."
 
 msgid "near01"
 msgstr "Так..."
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Эй![Choice1 label=\"6\"]"
+msgstr "[Sound1 bytes=\"020E\"]Эй![Choice1 label=\"6\"]"
 
 msgid "near02"
 msgstr "Уф..."
 
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Уйди.[PauseShort] У меня дела."
+msgstr "[Sound1 bytes=\"0004\"]Уйди.[PauseShort] У меня дела."
 
 msgid "near03"
 msgstr "[Size percent=\"80\"]Хр-р-р...[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Чего надо?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0206\"]Чего надо?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ты зачем это взял?[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0000\"]Ты зачем это взял?[Choice1 label=\"0\"]"
 
 msgid "0000"
 msgstr "Извините..."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Не мешай, мне надо работать."
+msgstr "[Sound1 bytes=\"0206\"]Не мешай, мне надо работать."
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ладно, забирай..."
+msgstr "[Sound1 bytes=\"0004\"]Ладно, забирай..."
 
 msgid "0001"
 msgstr "До свидания"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ходят тут всякие..."
+msgstr "[Sound1 bytes=\"020E\"]Ходят тут всякие..."
 
 msgid "0002"
 msgstr "Пожалуйста"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"2\" unk2=\"4\"]Чего?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0204\"]Чего?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Так это тебе доверили меч Дарука\n"
+"[Sound1 bytes=\"0002\"]Так это тебе доверили меч Дарука\n"
 "[Color name=\"blue\"]Скалобой[Color name=\"unset\"]?[PauseShort] Поднять-то его можешь?[PauseShort]\n"
 "Эх, ладно..."
 
@@ -93,49 +93,49 @@ msgid "0003"
 msgstr "Ничего не надо"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Устал я.[PauseShort] Надо поспать."
+msgstr "[Sound1 bytes=\"0600\"]Устал я.[PauseShort] Надо поспать."
 
 msgid "0004"
 msgstr "Да"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хр-р-р..."
+msgstr "[Sound1 bytes=\"0000\"]Хр-р-р..."
 
 msgid "0005"
 msgstr "Нет"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Не отвлекай меня."
+msgstr "[Sound1 bytes=\"020E\"]Не отвлекай меня."
 
 msgid "0006"
 msgstr "Что?"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ты б не мешался..."
+msgstr "[Sound1 bytes=\"020E\"]Ты б не мешался..."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Не мешайся."
+msgstr "[Sound1 bytes=\"020E\"]Не мешайся."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Что ж ты пристал-то..."
+msgstr "[Sound1 bytes=\"020E\"]Что ж ты пристал-то..."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Что за молодежь пошла..."
+msgstr "[Sound1 bytes=\"020E\"]Что за молодежь пошла..."
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Если сломаешь или потеряешь\n"
+"[Sound1 bytes=\"0004\"]Если сломаешь или потеряешь\n"
 "[Color name=\"blue\"]Скалобой[Color name=\"unset\"], я могу сделать новый.[PageBreak]Но мне понадобится [Color name=\"blue\"]Щебнерез[Color name=\"unset\"],\n"
 "[Color name=\"blue\"]алмаз[Color name=\"unset\"] и [Color name=\"red\"]пять[Color name=\"unset\"] [Color name=\"blue\"]кремней[Color name=\"unset\"]."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Ты что, потерял [Color name=\"blue\"]Скалобой[Color name=\"unset\"]?[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Ты что, потерял [Color name=\"blue\"]Скалобой[Color name=\"unset\"]?[PauseShort]\n"
 "Тогда иди и ищи."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Ты что, сломал или потерял [Color name=\"blue\"]Скалобой[Color name=\"unset\"]?[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]Ты что, сломал или потерял [Color name=\"blue\"]Скалобой[Color name=\"unset\"]?[PauseShort]\n"
 "Чтобы сделать новый, мне нужен\n"
 "[Color name=\"blue\"]Щебнерез[Color name=\"unset\"], [Color name=\"blue\"]алмаз[Color name=\"unset\"] и [Color name=\"red\"]пять[Color name=\"unset\"] [Color name=\"blue\"]кремней[Color name=\"unset\"]."
 

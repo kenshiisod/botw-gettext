@@ -33,27 +33,27 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]修復完成。"
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Check it！"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Check it！"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]已擴充希卡感應器的功能。"
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]嗯～[PauseLong]你好像沒什麼精神耶，[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]嗯～[PauseLong]你好像沒什麼精神耶，[PauseShort]\n"
 "不過算了。"
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]已擴充靜止器的功能。"
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]嗨呵～！[PauseShort]那麼我就收下囉～！"
+msgstr "[Sound1 bytes=\"0709\"]嗨呵～！[PauseShort]那麼我就收下囉～！"
 
 msgid "Demo032_0_Text008"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]勇導石[Color name=\"unset\"]，限制解除！"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0001\"]勇導石[Color name=\"unset\"]，限制解除！"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]好了，照慣例……[PauseShort]去試試看吧～！"
+msgstr "[Sound1 bytes=\"010B\"]好了，照慣例……[PauseShort]去試試看吧～！"
 
 msgid "Demo032_0_Text020"
 msgstr "[Animation name=\"Activate\"]已擴充遙控炸彈的功能。"
@@ -72,7 +72,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]那麼，現在開始[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]那麼，現在開始[PauseShort]\n"
 "[Color name=\"blue\"]希卡之石[Color name=\"unset\"]的修復作業！"
 
 msgid "Demo032_0_Text023"
@@ -80,7 +80,7 @@ msgstr "[Animation name=\"Activate\"]已追加道具。"
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那麼，現在開始[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那麼，現在開始[PauseShort]\n"
 "[Color name=\"blue\"]希卡感應器[Color name=\"unset\"]的強化作業！"
 
 msgid "Demo032_0_Text024"
@@ -88,7 +88,7 @@ msgstr "[Animation name=\"Activate\"]連動希卡感應器與海拉魯圖鑑。"
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那麼，現在開始[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那麼，現在開始[PauseShort]\n"
 "[Color name=\"blue\"]遙控炸彈[Color name=\"unset\"]的強化作業！"
 
 msgid "Demo032_0_Text000"
@@ -96,7 +96,7 @@ msgstr "[Animation name=\"Activate\"]希卡之石認證完畢。"
 
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那麼，現在開始[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那麼，現在開始[PauseShort]\n"
 "[Color name=\"blue\"]靜止器[Color name=\"unset\"]的強化作業！"
 
 msgid "_ReadOnly_MsbtExtras"

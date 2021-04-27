@@ -1,12 +1,12 @@
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Pues yo creo que está bastante claro.[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]Pues yo creo que está bastante claro.[PauseLong]\n"
 "Es una granja.[PageBreak]¿O te refieres a esa casa tan rara\n"
 "que está en la cima?"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Es el [Color name=\"blue\"]laboratorio[Color name=\"unset\"].[PageBreak]Dicen las malas lenguas que la [Color name=\"blue\"]jefa[Color name=\"unset\"],[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Es el [Color name=\"blue\"]laboratorio[Color name=\"unset\"].[PageBreak]Dicen las malas lenguas que la [Color name=\"blue\"]jefa[Color name=\"unset\"],[PauseShort]\n"
 "miembro de la [Color name=\"blue\"]tribu sheikah[Color name=\"unset\"], hace\n"
 "experimentos muy extraños."
 
@@ -18,18 +18,18 @@ msgstr "Adiós"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]No me importa charlar contigo un rato,[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]No me importa charlar contigo un rato,[PauseShort]\n"
 "pero primero deja que tome asiento."
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Quieres preguntarme algo más?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Quieres preguntarme algo más?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "¿Hablamos?"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"6\"]¿Yo?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Solo soy un simple anciano que\n"
+"[Sound1 bytes=\"0606\"]¿Yo?[PageBreak][Sound1 bytes=\"0000\"]Solo soy un simple anciano que\n"
 "no sabe mucho del mundo."
 
 msgid "0005"
@@ -37,11 +37,11 @@ msgstr "¿Y el cataclismo?"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]¿El[Color name=\"blue\"] cataclismo[Color name=\"unset\"]?[PageBreak]No habrás estado escuchando\n"
+"[Sound1 bytes=\"0B06\"]¿El[Color name=\"blue\"] cataclismo[Color name=\"unset\"]?[PageBreak]No habrás estado escuchando\n"
 "las cosas que dice Cirel, ¿eh?[PageBreak]Las cosas que ocurrieron hace cien\n"
 "años, es mejor olvidarlas. De poco\n"
 "sirve remover el pasado ahora.\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]En fin.[PauseShort] Supongo que puedo contarte\n"
+"[Sound1 bytes=\"0000\"]En fin.[PauseShort] Supongo que puedo contarte\n"
 "lo que mi padre me contaba."
 
 msgid "0006"
@@ -49,7 +49,7 @@ msgstr "¿Qué sitio es este?"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]El [Color name=\"blue\"]cataclismo[Color name=\"unset\"]...[PageBreak]Fue una tragedia que ocurrió en los\n"
+"[Sound1 bytes=\"0000\"]El [Color name=\"blue\"]cataclismo[Color name=\"unset\"]...[PageBreak]Fue una tragedia que ocurrió en los\n"
 "alrededores del [Color name=\"blue\"]castillo de Hyrule[Color name=\"unset\"].\n"
 "O al menos así lo entendí yo.[PauseShort]\n"
 "Antes en este mundo había más aldeas\n"
@@ -70,60 +70,60 @@ msgstr "¿Quién eres?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]La [Color name=\"blue\"]llama[Color name=\"unset\"] siempre tiene una belleza\n"
+"[Sound1 bytes=\"0000\"]La [Color name=\"blue\"]llama[Color name=\"unset\"] siempre tiene una belleza\n"
 "tan peculiar..."
 
 msgid "talk13"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Buf...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Buf...[Size percent=\"100\"]"
 
 msgid "0008"
 msgstr "Olvídalo"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Esa [Color name=\"blue\"]llama[Color name=\"unset\"]...[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]Esa [Color name=\"blue\"]llama[Color name=\"unset\"]...[PauseLong]\n"
 "Antes Prunia siempre iba\n"
 "con ella de aquí para allá."
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Zzz...[Size percent=\"100\"]"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]¿Sí?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]¿Sí?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]A saber qué hará Prunia con eso..."
+msgstr "[Sound1 bytes=\"0000\"]A saber qué hará Prunia con eso..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ay..."
+msgstr "[Sound1 bytes=\"0001\"]Ay..."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Esa llama...[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]Esa llama...[PauseLong]\n"
 "Antes la [Color name=\"blue\"]directora [Color name=\"unset\"]siempre iba\n"
 "con ella de aquí para allá."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Ay...[PauseShort] Hola."
+msgstr "[Sound1 bytes=\"000C\"]Ay...[PauseShort] Hola."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Así no hay quien duerma..."
+msgstr "[Sound1 bytes=\"0022\"]Así no hay quien duerma..."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Qué ocurre?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]¿Qué ocurre?[Choice2 label1=\"4\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Me voy a dormir. Buenas noches."
+msgstr "[Sound1 bytes=\"0022\"]Me voy a dormir. Buenas noches."
 
 msgid "near01"
 msgstr "Ay..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Sobre qué?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Sobre qué?[Choice4Flags label1=\"5\" flag1=\"HatenoNPC013_GanonTalk\" label2=\"6\" label3=\"7\" label4=\"8\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Me dirijo a mi sitio preferido de la aldea.[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Me dirijo a mi sitio preferido de la aldea.[PauseShort]\n"
 "No bloquees el paso, joven."
 
 msgid "_ReadOnly_MsbtExtras"

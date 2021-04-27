@@ -11,7 +11,7 @@ msgstr "もっと速く…"
 #, ruby
 msgid "talk41"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬に乗って行う 障害物競争さ！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]馬に乗って行う 障害物競争さ！[PauseShort]\n"
 "\n"
 "10個ある障害物を すべて飛び越えて[PauseShort]\n"
 "ゴールまで行く時間を競うんだ！\n"
@@ -20,39 +20,39 @@ msgstr ""
 
 #, ruby
 msgid "talk42"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]さあ 競技の説明をするよ！"
+msgstr "[Sound1 bytes=\"0604\"]さあ 競技の説明をするよ！"
 
 #, ruby
 msgid "talk43"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]競技の説明は必要かい？[Choice2 label1=\"8\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]競技の説明は必要かい？[Choice2 label1=\"8\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk44"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ さっそく始めようか！"
+msgstr "[Sound1 bytes=\"0000\"]じゃあ さっそく始めようか！"
 
 #, ruby
 msgid "talk45"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]障害物は 正面からでないと飛びにくいのさ[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]障害物は 正面からでないと飛びにくいのさ[PauseMid]\n"
 "馬の気持ちを考えることだね"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"21\"]まさか ぼくの記録が破られるなんて…[PauseMid]\n"
+"[Sound1 bytes=\"0415\"]まさか ぼくの記録が破られるなんて…[PauseMid]\n"
 "自信失うよ…\n"
 "約束通り ぼくの自慢の[Color name=\"red\"]馬装備[Color name=\"unset\"]をあげるよ"
 
 #, ruby
 msgid "talk46"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]速く走ればいいってもんじゃないのさ[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]速く走ればいいってもんじゃないのさ[PauseShort]\n"
 "状況に応じて 速度を加減しないとね"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"23\"]良い記録だね！[PauseMid]\n"
+"[Sound1 bytes=\"0617\"]良い記録だね！[PauseMid]\n"
 "だいぶ 腕を上げたじゃないか！\n"
 "これは 約束の[Color name=\"red\"]馬装備[Color name=\"unset\"]だ！[PauseShort]\n"
 "ぼくの記録を目指して 頑張ってくれよ！"
@@ -60,13 +60,13 @@ msgstr ""
 #, ruby
 msgid "talk47"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]障害物の前で 急に拍車をかけても\n"
+"[Sound1 bytes=\"0000\"]障害物の前で 急に拍車をかけても\n"
 "馬は反応できないよ！"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]馬術の腕を磨いて[PauseShort]\n"
+"[Sound1 bytes=\"0609\"]馬術の腕を磨いて[PauseShort]\n"
 "また 挑戦しにきなよ"
 
 #, ruby
@@ -78,7 +78,7 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ルピーが足りないようだね…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]ルピーが足りないようだね…[PauseMid]\n"
 "[Color name=\"red\"]20ルピー[Color name=\"unset\"]用意して また来なよ！"
 
 #, ruby
@@ -89,12 +89,12 @@ msgstr ""
 
 #, ruby
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]もう一回やるかい？[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]もう一回やるかい？[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]挑戦したかったら\n"
+"[Sound1 bytes=\"0000\"]挑戦したかったら\n"
 "まずは馬に乗ってこないとね！\n"
 "準備が整ったら \n"
 "馬に乗って 話しかけてくれよ！"
@@ -102,7 +102,7 @@ msgstr ""
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]キミが乗っている その馬[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]キミが乗っている その馬[PauseShort]\n"
 "まだ[Color name=\"red\"]登録[Color name=\"unset\"]が済んでいないようだね\n"
 "挑戦するのは\n"
 "この馬宿で [Color name=\"red\"]登録[Color name=\"unset\"]を済ませてからにしなよ！"
@@ -110,31 +110,31 @@ msgstr ""
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]参加費は返せないけど…[PauseMid]\n"
-"いいのかい？[Choice2 label1=\"5\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B00\"]参加費は返せないけど…[PauseMid]\n"
+"いいのかい？[Choice2 label1=\"5\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]なら早く行きなよ！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]なら早く行きなよ！[PauseShort]\n"
 "そんな余裕ないだろう！"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ならば仕方ない[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]ならば仕方ない[PauseShort]\n"
 "また挑戦しに来いよ！"
 
 #, ruby
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]悪いな 今日は もう寝るんだ[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]悪いな 今日は もう寝るんだ[PauseShort]\n"
 "用があるなら また明日にしてくれるか"
 
 #, ruby
 msgid "talk31"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬から降りたら 失格さ[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]馬から降りたら 失格さ[PauseShort]\n"
 "これは当然だね"
 
 #, ruby
@@ -144,7 +144,7 @@ msgstr "挑戦する"
 #, ruby
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"13\"]あいかわらず速いね…[PauseMid]\n"
+"[Sound1 bytes=\"040D\"]あいかわらず速いね…[PauseMid]\n"
 "自信失うよ…\n"
 "[Color name=\"red\"]ゴージャスなくら[Color name=\"unset\"]は 君にあげてしまったから\n"
 "代わりに これをあげるよ"
@@ -156,7 +156,7 @@ msgstr "説明してほしい"
 #, ruby
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"23\"]良い記録だね！[PauseMid]\n"
+"[Sound1 bytes=\"0617\"]良い記録だね！[PauseMid]\n"
 "だいぶ 腕を上げたじゃないか！\n"
 "[Color name=\"red\"]ゴージャスな手綱[Color name=\"unset\"]は 君にあげてしまったから\n"
 "代わりに これをあげるよ"
@@ -177,19 +177,19 @@ msgstr "払います"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]やあ 旅の人かな[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]やあ 旅の人かな[PauseShort]\n"
 "この草原には 馬がたくさんいるだろう\n"
 "ぼくは ここで 馬とともに 生まれ育ったんだ[PauseShort]\n"
 "だから 馬術には 自信がある…[PauseMid]\n"
 "馬術の腕を競うのに ぴったりな競技があってね[PauseShort]\n"
 "その競技で ぼくに勝てる人は そうはいないよ[PauseMid]\n"
 "どうだい\n"
-"ぼくの記録に挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"ぼくの記録に挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk35"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]なかなか速いじゃないか[PauseMid]\n"
+"[Sound1 bytes=\"0609\"]なかなか速いじゃないか[PauseMid]\n"
 "まだまだ ぼくの記録には 届かないけどね！\n"
 "これ 賞品だよ！\n"
 "また挑戦してくれ！"
@@ -200,13 +200,13 @@ msgstr "やめておく"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]どうだい もう一度\n"
-"ぼくの記録に 挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]どうだい もう一度\n"
+"ぼくの記録に 挑戦してみないか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk36"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"0\"]悔しいな…[PauseMid]\n"
+"[Sound1 bytes=\"0400\"]悔しいな…[PauseMid]\n"
 "キミの記録[PauseShort] いつか抜き返してみせるよ"
 
 msgid "0005"
@@ -215,8 +215,8 @@ msgstr "やめたい"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]じゃあ 参加料をいただくよ[PauseShort]\n"
-"[Color name=\"red\"]20ルピー[Color name=\"unset\"]だ！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]じゃあ 参加料をいただくよ[PauseShort]\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]だ！[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk37"
@@ -229,14 +229,14 @@ msgstr "なんでもない"
 
 #, ruby
 msgid "talk38"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_HorseRace_ResultMinute\"]分[02:0E name=\"MiniGame_HorseRace_ResultSecond\"]秒[02:01 name=\"ScoreStringBuffer\"][Color name=\"unset\"]か…[PauseMid]"
+msgstr "[Sound1 bytes=\"0001\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_HorseRace_ResultMinute\"]分[02:0E name=\"MiniGame_HorseRace_ResultSecond\"]秒[02:01 name=\"ScoreStringBuffer\"][Color name=\"unset\"]か…[PauseMid]"
 
 msgid "0007"
 msgstr "やっぱりやる"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"9\"]さあ 頑張ってくれよ！"
+msgstr "[Sound1 bytes=\"0609\"]さあ 頑張ってくれよ！"
 
 #, ruby
 msgid "talk50"
@@ -251,12 +251,12 @@ msgstr "必要ない"
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そうか 残念だね[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]そうか 残念だね[PauseShort]\n"
 "気が向いたら いつでも来なよ！"
 
 #, ruby
 msgid "talk51"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ならば仕方ない"
+msgstr "[Sound1 bytes=\"0900\"]ならば仕方ない"
 
 #, ruby
 msgid "Near00"
@@ -265,23 +265,23 @@ msgstr "もっと速く…"
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]この草原を ぐるっと一周[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]この草原を ぐるっと一周[PauseShort]\n"
 "障害物を飛び越えながら 馬で走るんだ！"
 
 #, ruby
 msgid "talk52"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]また挑戦しに来いよ！"
+msgstr "[Sound1 bytes=\"0000\"]また挑戦しに来いよ！"
 
 msgid "Near01"
 msgstr "ぐーぐー"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"7\"]どうしたんだい？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0007\"]どうしたんだい？[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk53"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]キミが乗っているのは 馬ではないね[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]キミが乗っているのは 馬ではないね[PauseShort]\n"
 "挑戦したかったら 馬に乗ってきなよ"
 
 #, ruby
@@ -295,7 +295,7 @@ msgstr "まずは [Color name=\"red\"]1分30秒[Color name=\"unset\"]を目指�
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"13\"]まだまだだね[PauseMid]\n"
+"[Sound1 bytes=\"060D\"]まだまだだね[PauseMid]\n"
 "もっと 馬術の腕を 磨くといいよ！"
 
 msgid "Near03"
@@ -304,7 +304,7 @@ msgstr "雨はいやだな"
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]なかなか速いじゃないか[PauseMid]\n"
+"[Sound1 bytes=\"0609\"]なかなか速いじゃないか[PauseMid]\n"
 "まだまだ ぼくの記録には 届かないけどね！\n"
 "これ 頑張った相棒に\n"
 "食べさせてあげなよ！"
@@ -312,20 +312,20 @@ msgstr ""
 #, ruby
 msgid "talk55"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"13\"]あいかわらず速いね…[PauseMid]\n"
+"[Sound1 bytes=\"040D\"]あいかわらず速いね…[PauseMid]\n"
 "自信失うよ…\n"
 "約束通り ぼくの自慢の[Color name=\"red\"]馬装備[Color name=\"unset\"]をあげるよ"
 
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]どうだい？[PauseShort]\n"
-"挑戦してみるかい？[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]どうだい？[PauseShort]\n"
+"挑戦してみるかい？[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk56"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]この競技の難しいところはね[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]この競技の難しいところはね[PauseShort]\n"
 "速く走るだけじゃダメなところなのさ\n"
 "障害物を飛ぶには ゆっくり走って\n"
 "馬を正確にコントロールすることが重要なんだ"
@@ -333,13 +333,13 @@ msgstr ""
 #, ruby
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]ふふ またきたね[PauseShort]\n"
-"ぼくの記録に挑戦してみる気になったかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0600\"]ふふ またきたね[PauseShort]\n"
+"ぼくの記録に挑戦してみる気になったかい？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk57"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]これは なかなか難しい競技だろう？[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]これは なかなか難しい競技だろう？[PauseShort]\n"
 "良い記録を出すには 速く走るだけじゃダメさ\n"
 "障害物を飛ぶには ゆっくり走って\n"
 "馬を正確にコントロールすることが重要なんだ"
@@ -356,7 +356,7 @@ msgstr ""
 #, ruby
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]どうした そんなことじゃ\n"
+"[Sound1 bytes=\"030D\"]どうした そんなことじゃ\n"
 "ぼくの記録には 到底及ばないよ"
 
 #, ruby
@@ -368,7 +368,7 @@ msgstr ""
 #, ruby
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]雨の日に走っても\n"
+"[Sound1 bytes=\"0000\"]雨の日に走っても\n"
 "気持ちよくないだろ！\n"
 "記録に挑戦したかったら\n"
 "雨が止んでから 来いよ！"
@@ -376,13 +376,13 @@ msgstr ""
 #, ruby
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]雨の日は 馬に乗っても 気持ちよく走れない[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]雨の日は 馬に乗っても 気持ちよく走れない[PauseShort]\n"
 "はやく 止んでくれないかな…"
 
 #, ruby
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]悪いな[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]悪いな[PauseShort]\n"
 "今日は もう寝るんだ\n"
 "夜は 視界も悪いし 良い記録は出ない[PauseShort]\n"
 "記録に挑戦したかったら また明日来いよ"

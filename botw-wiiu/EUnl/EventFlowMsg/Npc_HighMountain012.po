@@ -1,25 +1,25 @@
 msgid "talk16"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Heb je niks aan?[PauseShort] Waarom dat nou weer?!"
+msgstr "[Sound1 bytes=\"0B00\"]Heb je niks aan?[PauseShort] Waarom dat nou weer?!"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"17\"]Wat ben je energiek in deze kou!"
+msgstr "[Sound1 bytes=\"0011\"]Wat ben je energiek in deze kou!"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Zou je niet eens wat kleren aandoen?"
+msgstr "[Sound1 bytes=\"0010\"]Zou je niet eens wat kleren aandoen?"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Wat een vervelend weer...[PauseLong] Ik krijg er een\n"
+"[Sound1 bytes=\"0900\"]Wat een vervelend weer...[PauseLong] Ik krijg er een\n"
 "slecht humeur van."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]Sinds [Color name=\"blue\"]Vah Medoh [Color name=\"unset\"]in de lucht verscheen,\n"
+"[Sound1 bytes=\"090D\"]Sinds [Color name=\"blue\"]Vah Medoh [Color name=\"unset\"]in de lucht verscheen,\n"
 "maak ik me enorm veel zorgen."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]Wanneer zullen we eindelijk weer van het\n"
+"[Sound1 bytes=\"0301\"]Wanneer zullen we eindelijk weer van het\n"
 "leven kunnen genieten?"
 
 msgid "near00"
@@ -35,17 +35,17 @@ msgid "near03"
 msgstr "ZZZzzz..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hallo!"
+msgstr "[Sound1 bytes=\"0004\"]Hallo!"
 
 msgid "0000"
 msgstr "Vertel me meer!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Goedenavond!"
+msgstr "[Sound1 bytes=\"0004\"]Goedenavond!"
 
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Ik heb gehoord dat [Color name=\"blue\"]Vah Medoh [Color name=\"unset\"]ons niet\n"
+"[Sound1 bytes=\"0709\"]Ik heb gehoord dat [Color name=\"blue\"]Vah Medoh [Color name=\"unset\"]ons niet\n"
 "meer zal aanvallen. Dat nieuws maakt me\n"
 "zo blij!"
 
@@ -53,11 +53,11 @@ msgid "0001"
 msgstr "Tot ziens."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]ZZZzzz..."
+msgstr "[Sound1 bytes=\"0021\"]ZZZzzz..."
 
 msgid "talk31"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Maar in weer als dit, moet ik de volgende\n"
+"[Sound1 bytes=\"030D\"]Maar in weer als dit, moet ik de volgende\n"
 "wandeling nog even uitstellen..."
 
 msgid "0002"
@@ -65,43 +65,43 @@ msgstr "Ja, graag!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Dit is een oud liedje uit ons dorp. Ik had\n"
+"[Sound1 bytes=\"0000\"]Dit is een oud liedje uit ons dorp. Ik had\n"
 "niet door dat ik het aan het neuriën\n"
 "was... \n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]Maar het is zo'n leuk liedje! Zou je het\n"
-"willen leren?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B00\"]Maar het is zo'n leuk liedje! Zou je het\n"
+"willen leren?[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ik had niet door dat ik een oud liedje\n"
-"aan het neuriën was.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Heb je me gehoord?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Ik had niet door dat ik een oud liedje\n"
+"aan het neuriën was.[PageBreak][Sound1 bytes=\"0B01\"]Heb je me gehoord?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0003"
 msgstr "Nee."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Goedemorgen!"
+msgstr "[Sound1 bytes=\"0004\"]Goedemorgen!"
 
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Dit lied uit mijn dorp is al generaties oud.[PauseLong]\n"
-"Wil je het leren?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Dit lied uit mijn dorp is al generaties oud.[PauseLong]\n"
+"Wil je het leren?[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]Ik ga naar bed.[PauseShort] Tot morgen..."
+msgstr "[Sound1 bytes=\"0022\"]Ik ga naar bed.[PauseShort] Tot morgen..."
 
 msgid "talk34"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Oké.[PauseShort] Ik zal opschieten..."
+msgstr "[Sound1 bytes=\"0001\"]Oké.[PauseShort] Ik zal opschieten..."
 
 msgid "0005"
 msgstr "Alsjeblieft."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]O... [PauseShort]Tot ziens dan maar."
+msgstr "[Sound1 bytes=\"0001\"]O... [PauseShort]Tot ziens dan maar."
 
 msgid "talk35"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]De trots van de Rito's, een toren rank\n"
+"[Sound1 bytes=\"0001\"][01:01 bytes=\"9A99993E\"]De trots van de Rito's, een toren rank\n"
 "en groot.[Pause frames=\"20\"] De felle middagzon legt zijn\n"
 "hart bloot."
 
@@ -110,39 +110,39 @@ msgstr "Nee, bedankt."
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Het is zo'n mysterieus lied...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Vraag het gerust als je het lied nog eens\n"
+"[Sound1 bytes=\"0109\"]Het is zo'n mysterieus lied...[PageBreak][Sound1 bytes=\"0001\"]Vraag het gerust als je het lied nog eens\n"
 "wilt horen!"
 
 msgid "talk36"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]Het liedje is nog langer, maar ik ben de\n"
-"rest van de tekst vergeten...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Als je wilt horen hoe het verdergaat,\n"
+"[Sound1 bytes=\"090D\"]Het liedje is nog langer, maar ik ben de\n"
+"rest van de tekst vergeten...[PageBreak][Sound1 bytes=\"0000\"]Als je wilt horen hoe het verdergaat,\n"
 "kun je het aan [Color name=\"blue\"]mijn zus Laissa[Color name=\"unset\"] vragen."
 
 msgid "talk37"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Dus je hebt [Color name=\"blue\"]mijn zus Laissa[Color name=\"unset\"] om de rest\n"
-"van het lied gevraagd?[PageBreak][Sound1 unk1=\"7\" unk2=\"10\"]Ik herinner me die tekst nu trouwens\n"
-"ook.[PauseLong] Wil je het lied horen?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Dus je hebt [Color name=\"blue\"]mijn zus Laissa[Color name=\"unset\"] om de rest\n"
+"van het lied gevraagd?[PageBreak][Sound1 bytes=\"070A\"]Ik herinner me die tekst nu trouwens\n"
+"ook.[PauseLong] Wil je het lied horen?[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk38"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Goed, daar komt-ie dan..."
+msgstr "[Sound1 bytes=\"0001\"]Goed, daar komt-ie dan..."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ja."
+msgstr "[Sound1 bytes=\"0004\"]Ja."
 
 msgid "talk39"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]Maar wat zou de tekst betekenen?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ik vind het toch best vervelend dat ik dat\n"
+"[Sound1 bytes=\"0B10\"]Maar wat zou de tekst betekenen?[PageBreak][Sound1 bytes=\"0001\"]Ik vind het toch best vervelend dat ik dat\n"
 "niet weet."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Dit is een oud lied uit mijn dorp.[PauseLong] Wil je\n"
-"het leren?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B00\"]Dit is een oud lied uit mijn dorp.[PauseLong] Wil je\n"
+"het leren?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk40"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Huh?[PauseShort] Dat is gênant..."
+msgstr "[Sound1 bytes=\"0414\"]Huh?[PauseShort] Dat is gênant..."
 
 msgid "talk12"
 msgstr ""
@@ -153,14 +153,14 @@ msgstr ""
 "het weer ontwaakt.\"[Pause frames=\"5\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Begrepen![PauseShort] Ik zal opschieten..."
+msgstr "[Sound1 bytes=\"0000\"]Begrepen![PauseShort] Ik zal opschieten..."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Zeg, reiziger...[PageBreak]Zie je [Color name=\"blue\"]Vah Medoh[Color name=\"unset\"]?[PauseLong] We weten geen van\n"
+"[Sound1 bytes=\"0001\"]Zeg, reiziger...[PageBreak]Zie je [Color name=\"blue\"]Vah Medoh[Color name=\"unset\"]?[PauseLong] We weten geen van\n"
 "allen wat we met deze situatie aan\n"
 "moeten.\n"
-"[Sound1 unk1=\"9\" unk2=\"13\"]Ik voel me radeloos telkens als ik\n"
+"[Sound1 bytes=\"090D\"]Ik voel me radeloos telkens als ik\n"
 "omhoog kijk..."
 
 msgid "_ReadOnly_MsbtExtras"

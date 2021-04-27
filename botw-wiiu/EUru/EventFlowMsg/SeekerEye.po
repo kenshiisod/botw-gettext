@@ -8,7 +8,7 @@ msgstr ""
 
 msgid "Talk_016"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Ты сам посмотри, [PauseShort]юноша.[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]Ты сам посмотри, [PauseShort]юноша.[PauseShort]\n"
 "Если когда-нибудь пойду к этой\n"
 "горе, обязательно ее осмотрю."
 
@@ -19,8 +19,8 @@ msgstr ""
 
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Хм?[PageBreak]Ты, кажется, смышленый\n"
-"парень.[PauseShort] Что-то хотел спросить?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]Хм?[PageBreak]Ты, кажется, смышленый\n"
+"парень.[PauseShort] Что-то хотел спросить?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_018"
 msgstr ""
@@ -28,11 +28,11 @@ msgstr ""
 "нарисовано..."
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Э-э, чего?"
+msgstr "[Sound1 bytes=\"0004\"]Э-э, чего?"
 
 msgid "Talk_019"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Если бы я был молодым смышленым\n"
+"[Sound1 bytes=\"0009\"]Если бы я был молодым смышленым\n"
 "путешественником, то обязательно\n"
 "забрался бы на ту гору и осмотрел ее!"
 
@@ -55,7 +55,7 @@ msgstr "Нет, ничего"
 
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Юноша, нам важнее разгадать эту\n"
+"[Sound1 bytes=\"0009\"]Юноша, нам важнее разгадать эту\n"
 "тайну, чем делать работу по конюшне."
 
 msgid "_ReadOnly_MsbtExtras"

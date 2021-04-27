@@ -1,34 +1,34 @@
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Раз клад принадлежит герою, это\n"
+"[Sound1 bytes=\"0B00\"]Раз клад принадлежит герою, это\n"
 "должно быть что-то очень ценное,\n"
 "согласен?[PageBreak]А может быть, это лишь деньги?[PauseShort] Но\n"
 "даже в таком случае сумма должна\n"
-"быть огромная.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Пусть будет светел твой путь."
+"быть огромная.[PageBreak][Sound1 bytes=\"0000\"]Пусть будет светел твой путь."
 
 msgid "talk04"
 msgstr ""
 "Хочешь, я спою тебе старую\n"
-"песню об этой скале?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"песню об этой скале?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"13\"]Жаль...[PauseShort] Пусть будет светел твой путь."
+msgstr "[Sound1 bytes=\"030D\"]Жаль...[PauseShort] Пусть будет светел твой путь."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]Что?![PauseShort] Герой оставил\n"
-"лишь [Color name=\"blue\"]золотую рупию[Color name=\"unset\"]?[PageBreak][Sound1 unk1=\"11\" unk2=\"16\"]Хм, видимо, он был не слишком богат."
+"[Sound1 bytes=\"0A14\"]Что?![PauseShort] Герой оставил\n"
+"лишь [Color name=\"blue\"]золотую рупию[Color name=\"unset\"]?[PageBreak][Sound1 bytes=\"0B10\"]Хм, видимо, он был не слишком богат."
 
 msgid "talk00"
 msgstr ""
 "Об этой скале есть одна старая\n"
-"песня.[PauseShort] Хочешь, я тебе ее спою?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"песня.[PauseShort] Хочешь, я тебе ее спою?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"10\" unk2=\"19\"]О![PauseShort] Вот так встреча!"
+msgstr "[Sound1 bytes=\"0A13\"]О![PauseShort] Вот так встреча!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]С удовольствием!"
+msgstr "[Sound1 bytes=\"0700\"]С удовольствием!"
 
 msgid "talk08"
 msgstr ""

@@ -1,66 +1,66 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]巡礼の旅… [PauseShort]先が少し不安です[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]巡礼の旅… [PauseShort]先が少し不安です[PauseMid]\n"
 "もちろん 引き返すつもりはありませんけど…"
 
 #, ruby
 msgid "MSG_Futa_04_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]大厄災を免れた [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]の危うさ…[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]大厄災を免れた [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]の危うさ…[PauseLong]\n"
 "あなたも感じますか？"
 
 #, ruby
 msgid "MSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]私 ゼルダ姫の足跡を追ってるんです[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]私 ゼルダ姫の足跡を追ってるんです[PauseLong]\n"
 "次は ラネール山にある[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]を目指します"
 
 #, ruby
 msgid "RetMSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ここは [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を食い止めた と言われる砦[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]ここは [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を食い止めた と言われる砦[PauseLong]\n"
 "私たちは そのおかげで 今ここにいるのです…"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]これは ほんのお礼です"
+msgstr "[Sound1 bytes=\"010B\"]これは ほんのお礼です"
 
 #, ruby
 msgid "RetMSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]は ゼルダ姫ゆかりの地…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]は ゼルダ姫ゆかりの地…[PauseLong]\n"
 "ハイラル城の代々の王女が 訪れる場所です"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]あぁ…[PauseShort] 怖ろしい… [PauseMid]\n"
+"[Sound1 bytes=\"032A\"]あぁ…[PauseShort] 怖ろしい… [PauseMid]\n"
 "まるで悪夢のよう…"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]魔物が去るまでは\n"
+"[Sound1 bytes=\"032A\"]魔物が去るまでは\n"
 "まだ じっとしていた方が…"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]すみません [PauseShort]私なんかのために…"
+msgstr "[Sound1 bytes=\"070B\"]すみません [PauseShort]私なんかのために…"
 
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]あ… [PauseShort]ありがとうございました"
+msgstr "[Sound1 bytes=\"070B\"]あ… [PauseShort]ありがとうございました"
 
 #, ruby
 msgid "MSG_Futa_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]カカリコ村[Color name=\"unset\"]の長は 素敵な女性でした[PauseLong]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]カカリコ村[Color name=\"unset\"]の長は 素敵な女性でした[PauseLong]\n"
 "あなたも お会いになってはいかが？"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]私もあなたと同じ 旅の途中…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]私もあなたと同じ 旅の途中…[PauseMid]\n"
 "ただし冒険ではなく 巡礼の旅をしています\n"
 "平和を尊ばれた ゼルダ姫の強き思いが[PauseShort]\n"
 "多くの人々の心に行き渡りますように…"
@@ -68,13 +68,13 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]私の旅の最終目的地は [Color name=\"blue\"]知恵の泉[Color name=\"unset\"]です[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]私の旅の最終目的地は [Color name=\"blue\"]知恵の泉[Color name=\"unset\"]です[PauseLong]\n"
 "そこで ゼルダ姫の面影を追いたいのです"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]雨の日は 巡礼はお休みして[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]雨の日は 巡礼はお休みして[PauseShort]\n"
 "自分を見つめ直す時間なんです\n"
 "祈る心に迷いはないか[PauseShort]\n"
 "己に嘘をついてはいないか… [PauseShort]って\n"
@@ -83,7 +83,7 @@ msgstr ""
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]この雨は ハイラルのお城にも\n"
+"[Sound1 bytes=\"0510\"]この雨は ハイラルのお城にも\n"
 "降り注いでいるのでしょうか…\n"
 "ゼルダ姫のお父様[PauseShort]\n"
 "ハイラル王の御霊を鎮めるかのように…"
@@ -95,13 +95,13 @@ msgstr "今日もどうか無事で…"
 #, ruby
 msgid "RetMSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ラネール山の[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]ラネール山の[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]…[PauseMid]\n"
 "由緒ある泉ですので 訪れてみてはいかが？"
 
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]あぶないところを 助けていただき[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]あぶないところを 助けていただき[PauseShort]\n"
 "お礼の言葉もありません…"
 
 #, ruby
@@ -111,7 +111,7 @@ msgstr "ゼルダ姫…"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]自分の身は自分でと思ってはいても…[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]自分の身は自分でと思ってはいても…[PauseLong]\n"
 "ご迷惑 おかけしました"
 
 #, ruby
@@ -125,7 +125,7 @@ msgstr "魔物に遭わぬよう…"
 #, ruby
 msgid "MSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ゼルダという名のお姫様…[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ゼルダという名のお姫様…[PauseShort]\n"
 "あなたは ご存じですか？\n"
 "おとぎ話の中ではなくて[PauseShort]\n"
 "ハイラルの地に実在したお姫様です\n"
@@ -139,7 +139,7 @@ msgstr "降ってきました…"
 #, ruby
 msgid "MSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…私ですか？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]…私ですか？[PauseMid]\n"
 "ゼルダ姫の足跡を辿る旅の途中です[PauseMid]\n"
 "次の巡礼地は ラネール山にある[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]…[PauseShort]\n"
 "ゼルダ姫は そこで何を得たのでしょう"
@@ -147,7 +147,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…私も旅の者です[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…私も旅の者です[PauseShort]\n"
 "いえ 巡礼者というべきかもしれません\n"
 "ここより少し北を旅していたときでしょうか…[PauseMid]\n"
 "[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]の長に面会できたのは幸運でした\n"
@@ -157,7 +157,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には もう行かれました？[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…[Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には もう行かれました？[PauseShort]\n"
 "\n"
 "私の敬愛するゼルダ姫が\n"
 "祈りのために訪れたという 由緒ある泉です"
@@ -165,20 +165,20 @@ msgstr ""
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"31\"]早く お逃げください！[PauseShort]\n"
+"[Sound1 bytes=\"081F\"]早く お逃げください！[PauseShort]\n"
 "ガーディアンに見つからないように！"
 
 #, ruby
 msgid "MSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ここには いにしえの戦いの\n"
+"[Sound1 bytes=\"0510\"]ここには いにしえの戦いの\n"
 "名残りが残されています\n"
 "失われた尊き命の数たるや [PauseShort]さぞかし…"
 
 #, ruby
 msgid "RetMSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…あなたの旅の目的はわかりませんが[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…あなたの旅の目的はわかりませんが[PauseShort]\n"
 "ぜひ 訪れてほしい場所があります\n"
 "ラネール山の奥深くにある [Color name=\"blue\"]知恵の泉[Color name=\"unset\"]…[PauseMid]\n"
 "私が巡礼地に選んだ 由緒ある泉です"
@@ -186,7 +186,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]大厄災を免れた [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]の穏やかさが[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]大厄災を免れた [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]の穏やかさが[PauseShort]\n"
 "じつは どこか危ういものだということ…\n"
 "旅を通して 外の世界を見ているあなたなら[PauseShort]\n"
 "きっと感じていますよね？"
@@ -194,7 +194,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]この辺りは 古戦場なんですが…\n"
+"[Sound1 bytes=\"0510\"]この辺りは 古戦場なんですが…\n"
 "\n"
 "よくある名所旧跡とは違い[PauseShort]\n"
 "かつての戦いを偲ぶ気にはなりません\n"
@@ -204,13 +204,13 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ここで失われた 数々の命…[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]ここで失われた 数々の命…[PauseLong]\n"
 "私は ただ祈る事しかできません"
 
 #, ruby
 msgid "RetMSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ここは [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]の進行を 食い止めるために[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]ここは [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]の進行を 食い止めるために[PauseShort]\n"
 "村人たちが築いた砦の跡です…\n"
 "今 私たちがここにいるのは[PauseShort]\n"
 "そのおかげとも言えるでしょう…"
@@ -218,7 +218,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…旅の最終目的地 [PauseShort]あなたにはありますか？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]…旅の最終目的地 [PauseShort]あなたにはありますか？[PauseMid]\n"
 "私が最後に訪れたいのは [Color name=\"blue\"]知恵の泉[Color name=\"unset\"]です\n"
 "敬愛するゼルダ姫が そこで何を想ったのか[PauseShort]\n"
 "追体験ができたら いいなと…"
@@ -226,19 +226,19 @@ msgstr ""
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]助けていただき ありがとうございます[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]助けていただき ありがとうございます[PauseMid]\n"
 "恐ろしくて まだ震えが…"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]助けていただき ありがとうございます[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]助けていただき ありがとうございます[PauseMid]\n"
 "あなたの旅の お邪魔をしてしまったかも…"
 
 #, ruby
 msgid "MSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ゼルダ姫はご存じですか？\n"
+"[Sound1 bytes=\"0004\"]ゼルダ姫はご存じですか？\n"
 "\n"
 "私 彼女が巡礼した地を辿ってるんです[PauseLong]\n"
 "彼女は各地で 何を感じていたのか…"
@@ -246,7 +246,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_02_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]この辺りの 古戦場跡…[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]この辺りの 古戦場跡…[PauseLong]\n"
 "戦いの名残りが 痛々しいですね…\n"
 "私達に できる事は…[PauseShort]\n"
 "尊き命の為に 祈る事だけです…"
@@ -254,7 +254,7 @@ msgstr ""
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"18\"]私… [PauseShort]なんとか 助かったんですね？[PauseMid]\n"
+"[Sound1 bytes=\"0512\"]私… [PauseShort]なんとか 助かったんですね？[PauseMid]\n"
 "どうやらここは 天国ではなさそうですし…"
 
 msgid "_ReadOnly_MsbtExtras"

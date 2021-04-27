@@ -35,27 +35,27 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]Repair complete."
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Snap!"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Snap!"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]Sheikah Sensor upgrade complete."
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Hmm...[PauseLong] I was expecting more enthusiasm,[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]Hmm...[PauseLong] I was expecting more enthusiasm,[PauseShort]\n"
 "but whatever."
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]Stasis upgrade complete."
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Hey-ho![PauseShort] Got it!"
+msgstr "[Sound1 bytes=\"0709\"]Hey-ho![PauseShort] Got it!"
 
 msgid "Demo032_0_Text008"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]Guidance Stone[Color name=\"unset\"] lock removed!"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0001\"]Guidance Stone[Color name=\"unset\"] lock removed!"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Now...[PauseShort]let's do this thing!"
+msgstr "[Sound1 bytes=\"010B\"]Now...[PauseShort]let's do this thing!"
 
 msgid "Demo032_0_Text020"
 msgstr "[Animation name=\"Activate\"]Remote Bomb upgrade complete."
@@ -73,7 +73,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Hokay then, [Color name=\"blue\"]Sheikah Slate [Color name=\"unset\"]repair...[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]Hokay then, [Color name=\"blue\"]Sheikah Slate [Color name=\"unset\"]repair...[PauseLong]\n"
 "underway!"
 
 msgid "Demo032_0_Text023"
@@ -81,7 +81,7 @@ msgstr "[Animation name=\"Activate\"]A rune has been added."
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Hokay then, [Color name=\"blue\"]Sheikah Sensor[Color name=\"unset\"] upgrade...[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]Hokay then, [Color name=\"blue\"]Sheikah Sensor[Color name=\"unset\"] upgrade...[PauseLong]\n"
 "underway!"
 
 msgid "Demo032_0_Text024"
@@ -91,14 +91,14 @@ msgstr ""
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Hokay then, [Color name=\"blue\"]Remote Bomb[Color name=\"unset\"] upgrade...[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]Hokay then, [Color name=\"blue\"]Remote Bomb[Color name=\"unset\"] upgrade...[PauseLong]\n"
 "underway!"
 
 msgid "Demo032_0_Text000"
 msgstr "[Animation name=\"Activate\"]Sheikah Slate authenticated."
 
 msgid "Demo032_0_Text013"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Hokay then, [Color name=\"blue\"]Stasis[Color name=\"unset\"] upgrade...[PauseLong]underway!"
+msgstr "[Sound1 bytes=\"0101\"]Hokay then, [Color name=\"blue\"]Stasis[Color name=\"unset\"] upgrade...[PauseLong]underway!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAEIAAAAAAAAABkAAAAAAAAAAAAA"

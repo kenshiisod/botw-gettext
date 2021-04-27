@@ -1,5 +1,5 @@
 msgid "Talk00"
-msgstr "[Sound2 id=\"0\"][Size percent=\"80\"]Эй...[Size percent=\"100\"][PageBreak]Юноша...[PageBreak]Прошу, выслушай меня.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"0\"][Size percent=\"80\"]Эй...[Size percent=\"100\"][PageBreak]Юноша...[PageBreak]Прошу, выслушай меня.[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
 msgstr "Деньги принес?[PauseShort] Давай скорее!"
@@ -58,7 +58,7 @@ msgid "0001"
 msgstr "Я лучше пойду..."
 
 msgid "Talk03_05B"
-msgstr "[Sound2 id=\"2\"]С тебя [Color name=\"red\"]тысяча рупий[Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"]С тебя [Color name=\"red\"]тысяча рупий[Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk26"
 msgstr ""
@@ -98,7 +98,7 @@ msgid "Talk16"
 msgstr "[Sound2 id=\"2\"]Мне нужно лишь [Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"][SPSwitch singular=\" рупию\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"]..."
 
 msgid "Talk03_01B"
-msgstr "[Sound2 id=\"2\"]С тебя [Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"]С тебя [Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"][SPSwitch singular=\" рупия\" plural=\" рупий\" plural2=\" рупии\"][Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03_m"
 msgstr "[Sound2 id=\"0\"]Снова ты![PauseShort] Прелестно!"

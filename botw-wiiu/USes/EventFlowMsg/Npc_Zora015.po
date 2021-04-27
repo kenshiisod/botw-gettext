@@ -1,35 +1,35 @@
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]La lluvia ya paró, Link.[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]¿Significa eso[PauseShort] que [Color name=\"blue\"]Ruta[Color name=\"unset\"] también\n"
+"[Sound1 bytes=\"0001\"]La lluvia ya paró, Link.[PageBreak][Sound1 bytes=\"0010\"]¿Significa eso[PauseShort] que [Color name=\"blue\"]Ruta[Color name=\"unset\"] también\n"
 "dejó de moverse?"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Hola."
+msgstr "[Sound1 bytes=\"0602\"]Hola."
 
 msgid "0000"
 msgstr "¿Y esta estatua?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Buenas noches."
+msgstr "[Sound1 bytes=\"0602\"]Buenas noches."
 
 msgid "0001"
 msgstr "Hasta la próxima"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Sí."
+msgstr "[Sound1 bytes=\"0602\"]Sí."
 
 msgid "0002"
 msgstr "Eso es"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Una mentira evidente..."
+msgstr "[Sound1 bytes=\"0010\"]Una mentira evidente..."
 
 msgid "0003"
 msgstr "Te equivocas"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Tendría que haberme presentado antes.[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]Tendría que haberme presentado antes.[PauseLong]\n"
 "Me llamo Lafra[PauseLong] y soy consejera de la\n"
 "familia real..."
 
@@ -38,23 +38,23 @@ msgstr "Un poco, la verdad"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]¿Sientes curiosidad por la estatua de\n"
-"Mipha?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B06\"]¿Sientes curiosidad por la estatua de\n"
+"Mipha?[Choice2 label1=\"4\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Hasta la vista."
+msgstr "[Sound1 bytes=\"0012\"]Hasta la vista."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Algo va mal?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]¿Algo va mal?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]¿Eres...[PauseShort] [Color name=\"blue\"]hyliano[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0006\"]¿Eres...[PauseShort] [Color name=\"blue\"]hyliano[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]No me tomes por una sabionda,[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]No me tomes por una sabionda,[PauseShort]\n"
 "pero voy a explicarte la historia.[PageBreak]Esta es una estatua de [Color name=\"blue\"]Mipha[Color name=\"unset\"],[PauseShort] quien\n"
-"una vez fuera [Color name=\"blue\"]campeona de los zora[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"11\"]Era una joven muy bondadosa y bella.[PauseShort]\n"
+"una vez fuera [Color name=\"blue\"]campeona de los zora[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"000B\"]Era una joven muy bondadosa y bella.[PauseShort]\n"
 "Se cuenta que tenía el poder de sanar\n"
 "las heridas de los guerreros."
 
@@ -63,14 +63,14 @@ msgstr "Bueno, a ver..."
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Deja que te transmita[PauseShort] lo realmente\n"
+"[Sound1 bytes=\"0004\"]Deja que te transmita[PauseShort] lo realmente\n"
 "terrorífico que es el [Color name=\"red\"][C9:00 bytes=\"01000000\"]centaleón[Color name=\"unset\"].[PageBreak]Solo saber eso ya debería ser motivo\n"
 "suficiente[PauseShort] para que hubiera menos\n"
 "jóvenes zora imprudentes, pero..."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Los que lucharon en aquella época[PauseShort] son\n"
+"[Sound1 bytes=\"0010\"]Los que lucharon en aquella época[PauseShort] son\n"
 "hoy en día personas muy mayores\n"
 "que sufren los achaques de la edad.\n"
 "Es fácil comprobar[PauseShort] que los ancianos de\n"
@@ -82,15 +82,15 @@ msgstr "Y ahora viene..."
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]¡Link![PauseLong] Cuentan que fuiste capaz\n"
+"[Sound1 bytes=\"000B\"]¡Link![PauseLong] Cuentan que fuiste capaz\n"
 "de aplacar a [Color name=\"blue\"]Ruta[Color name=\"unset\"], ¿es cierto?[PageBreak]Gracias a eso,[PauseLong] la región de los zora\n"
 "está a salvo y el alma de [Color name=\"blue\"]Mipha [Color name=\"unset\"]al fin\n"
 "puede descansar."
 
 msgid "LookPicture"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]¡Aaaaaah![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Qué...[PauseLong] voz tan extraña.[PageBreak]Perdón...[PauseShort] Estoy bien.[PauseLong] Debió\n"
-"de ser el terrorífico [Color name=\"red\"][C9:00 bytes=\"01000000\"]centaleón[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Con esto tendría que bastar.[PauseShort] Tras verlo,\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]¡Aaaaaah![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0010\"]Qué...[PauseLong] voz tan extraña.[PageBreak]Perdón...[PauseShort] Estoy bien.[PauseLong] Debió\n"
+"de ser el terrorífico [Color name=\"red\"][C9:00 bytes=\"01000000\"]centaleón[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0004\"]Con esto tendría que bastar.[PauseShort] Tras verlo,\n"
 "habría que ser un insensato para querer\n"
 "ir al [Color name=\"blue\"]Monte Trueno[Color name=\"unset\"]."
 
@@ -98,22 +98,22 @@ msgid "near02"
 msgstr "Los daños fueron..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Tanto nosotros como el alma de Mipha..."
+msgstr "[Sound1 bytes=\"0001\"]Tanto nosotros como el alma de Mipha..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Te estamos muy agradecidos,[PauseShort] Link."
+msgstr "[Sound1 bytes=\"0009\"]Te estamos muy agradecidos,[PauseShort] Link."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]¿Eres tú el [Color name=\"blue\"]hyliano[Color name=\"unset\"][PauseShort] que nuestro\n"
-"[Color name=\"red\"]príncipe Sidon[Color name=\"unset\"] trajo para ayudarnos?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0006\"]¿Eres tú el [Color name=\"blue\"]hyliano[Color name=\"unset\"][PauseShort] que nuestro\n"
+"[Color name=\"red\"]príncipe Sidon[Color name=\"unset\"] trajo para ayudarnos?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Buenos días."
+msgstr "[Sound1 bytes=\"0602\"]Buenos días."
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]Disculpa,[PauseShort] estoy dándole vueltas\n"
+"[Sound1 bytes=\"0B10\"]Disculpa,[PauseShort] estoy dándole vueltas\n"
 "a algo ahora mismo.[PageBreak][Size percent=\"80\"]En el [Color name=\"blue\"]Monte Trueno[Color name=\"unset\"].[PauseShort] Hum...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"

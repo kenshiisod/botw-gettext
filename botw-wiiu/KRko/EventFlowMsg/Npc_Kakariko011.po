@@ -1,9 +1,9 @@
 msgid "Talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]푹 잘 수 있을… [PauseMid]텐데…"
+msgstr "[Sound1 bytes=\"0004\"]푹 잘 수 있을… [PauseMid]텐데…"
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]점심… [PauseShort]말이지…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]점심… [PauseShort]말이지…[PauseShort]\n"
 "알겠어…\n"
 "[Size percent=\"80\"]이… [PauseShort]일어날 수 있을까…[Size percent=\"100\"]"
 
@@ -12,7 +12,7 @@ msgstr "Zzz…"
 
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]저녁… [PauseShort]말이지…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]저녁… [PauseShort]말이지…[PauseShort]\n"
 "알겠어…\n"
 "[Size percent=\"80\"]이… [PauseShort]일어날 수 있을까…[Size percent=\"100\"]"
 
@@ -21,7 +21,7 @@ msgstr "보통 침대"
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]조… [PauseShort]좋은 아침…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]조… [PauseShort]좋은 아침…[PauseShort]\n"
 "아… 점심… [PauseShort]이구나…"
 
 msgid "0001"
@@ -29,27 +29,27 @@ msgstr "푹신푹신 침대"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]조… [PauseShort]좋은 아침…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]조… [PauseShort]좋은 아침…[PauseShort]\n"
 "아… 저녁… [PauseShort]이구나"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]보… [PauseShort]보통 침대는 [Color name=\"red\"]20루피[Color name=\"unset\"][PauseLong]\n"
-"푸… [PauseMid]푹신푹신 침대는 [Color name=\"red\"]40루피[Color name=\"unset\"]인데…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]보… [PauseShort]보통 침대는 [Color name=\"red\"]20루피[Color name=\"unset\"][PauseLong]\n"
+"푸… [PauseMid]푹신푹신 침대는 [Color name=\"red\"]40루피[Color name=\"unset\"]인데…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "차이점이 뭐야?"
 
 msgid "Talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]언제… [PauseShort]깨… [PauseShort]깨워 줄까?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]언제… [PauseShort]깨… [PauseShort]깨워 줄까?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0003"
 msgstr "아침"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]고… 고마워…[PauseShort]\n"
-"그럼… [PauseShort]언제 깨워 줄까?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]고… 고마워…[PauseShort]\n"
+"그럼… [PauseShort]언제 깨워 줄까?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "점심"
@@ -59,7 +59,7 @@ msgstr "저녁"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]다음에 또… [PauseShort]와[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]다음에 또… [PauseShort]와[PauseShort]\n"
 "자… [PauseShort]잘 자…"
 
 msgid "0006"
@@ -67,12 +67,12 @@ msgstr "역시 그만둔다"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]아침…[PauseShort] 말이지…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]아침…[PauseShort] 말이지…[PauseShort]\n"
 "알겠어…\n"
 "[Size percent=\"80\"]나… [PauseShort]일어날 수 있을까…[Size percent=\"100\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]아… [PauseShort]돈이 없…[PauseShort] 구나"
+msgstr "[Sound1 bytes=\"0004\"]아… [PauseShort]돈이 없…[PauseShort] 구나"
 
 msgid "0007"
 msgstr "고마워"
@@ -82,30 +82,30 @@ msgstr "관둘래"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]어…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]어…[PauseShort]\n"
 "뭐어… [PauseShort]상관없지만…"
 
 msgid "0009"
 msgstr "안녕히"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]조… [PauseShort]좋은 아침…"
+msgstr "[Sound1 bytes=\"0004\"]조… [PauseShort]좋은 아침…"
 
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"45\"]어어… [PauseLong]\n"
+"[Sound1 bytes=\"0A2D\"]어어… [PauseLong]\n"
 "소… [PauseShort]손님… [PauseShort]인가…?[PauseLong]\n"
-"[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"0\" unk2=\"0\"]까… 깜짝이야…[Color name=\"unset\"][Size percent=\"100\"]"
+"[Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0000\"]까… 깜짝이야…[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]음…[PauseShort] 그래도, 뭐어…[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]음…[PauseShort] 그래도, 뭐어…[PauseShort]\n"
 "처음이니까… [PauseShort]\n"
-"오늘만 무료로… [PauseShort]해 줄까…[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+"오늘만 무료로… [PauseShort]해 줄까…[Choice2 label1=\"7\" label2=\"8\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]푹신푹신 침대는… 꼬꼬 깃털로[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]푹신푹신 침대는… 꼬꼬 깃털로[PauseShort]\n"
 "만들… [PauseShort]었다고 했나…\n"
 "보… [PauseShort]보통 침대에서 자는 거랑은… 다르게…[PauseShort]\n"
 "평소보다 한층… 힘이 솟아… [PauseShort]난다고 했나…"

@@ -17,14 +17,14 @@ msgstr ""
 
 #, ruby
 msgid "Appear17"
-msgstr "もう一度 さっきの塔に登ってみたらどうじゃ？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "もう一度 さっきの塔に登ってみたらどうじゃ？[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Appear18"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]慌てるでない[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]慌てるでない[PauseMid]\n"
 "もうひとつ いいことを教えてやろう"
 
 #, ruby
@@ -34,21 +34,21 @@ msgstr "詳しいね"
 #, ruby
 msgid "Appear19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]慌てるでない[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]慌てるでない[PauseMid]\n"
 "もうひとつ いいことを教えてやろう"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]塔の上まで ワープしてみることじゃ[PauseMid]\n"
-"そこから眺めれば 祠などすぐに見つかるぞ[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]塔の上まで ワープしてみることじゃ[PauseMid]\n"
+"そこから眺めれば 祠などすぐに見つかるぞ[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1001"
 msgstr "さようなら"
 
 #, ruby
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]ほれ 残りの祠を探すため 塔に登るのじゃ[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0002\"]ほれ 残りの祠を探すため 塔に登るのじゃ[Choice2 label1=\"1002\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "どうしたらいい？"
@@ -63,12 +63,12 @@ msgstr "ひぃーっ！"
 #, ruby
 msgid "Appear01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]どうやら [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたようじゃな…[PauseMid]\n"
-"まずは よくやったと誉めてやろう[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]どうやら [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたようじゃな…[PauseMid]\n"
+"まずは よくやったと誉めてやろう[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Appear02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"][Size percent=\"125\"]千里眼[Size percent=\"100\"][PauseMid] …というやつじゃ"
+msgstr "[Sound1 bytes=\"0009\"][Size percent=\"125\"]千里眼[Size percent=\"100\"][PauseMid] …というやつじゃ"
 
 #, ruby
 msgid "TerrorArrow"
@@ -83,19 +83,19 @@ msgstr ""
 #, ruby
 msgid "Appear04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]誰にでも身につくもの ではないがのう[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]誰にでも身につくもの ではないがのう[PauseMid]\n"
 "ふぉっ ふぉっ ふぉっ"
 
 #, ruby
 msgid "Appear05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]待て待て まずは と言ったろう…[PauseMid]\n"
+"[Sound1 bytes=\"0009\"]待て待て まずは と言ったろう…[PauseMid]\n"
 "気が早いヤツじゃ"
 
 #, ruby
 msgid "Appear06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]しかし 塔の出現といい この祠といい\n"
+"[Sound1 bytes=\"0001\"]しかし 塔の出現といい この祠といい\n"
 "全ては お主の腰のそれ…"
 
 msgid "0000"
@@ -103,7 +103,7 @@ msgstr "どうしてそれを…"
 
 #, ruby
 msgid "Appear07"
-msgstr "[Sound2 id=\"14\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]とやらに 縁があるようじゃな[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound2 id=\"14\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]とやらに 縁があるようじゃな[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0001"
 msgstr "パラセールは？"
@@ -111,7 +111,7 @@ msgstr "パラセールは？"
 #, ruby
 msgid "Appear08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]と聞いて\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]と聞いて\n"
 "わしも 思い出したのじゃが…"
 
 msgid "0002"
@@ -119,11 +119,11 @@ msgstr "どういうこと？"
 
 #, ruby
 msgid "Appear09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"][Size percent=\"125\"]人の話を聞けい！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"000E\"][Size percent=\"125\"]人の話を聞けい！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Appear20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の [Color name=\"blue\"]マップ[Color name=\"unset\"]を見るがいい"
+msgstr "[Sound1 bytes=\"0001\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の [Color name=\"blue\"]マップ[Color name=\"unset\"]を見るがいい"
 
 #, ruby
 msgid "0003"
@@ -157,7 +157,7 @@ msgstr "ウソ…でしょ？"
 #, ruby
 msgid "Appear23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]と言うても 昔の話じゃ…[PauseMid]\n"
+"[Sound1 bytes=\"000D\"]と言うても 昔の話じゃ…[PauseMid]\n"
 "嘘か真かは わからんがな"
 
 msgid "0006"
@@ -192,7 +192,7 @@ msgstr "危なかったのう…"
 #, ruby
 msgid "Appear10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]その昔 この地にはシーカー族という\n"
+"[Sound1 bytes=\"0001\"]その昔 この地にはシーカー族という\n"
 "高度な文明を持った民がおってな…\n"
 "その叡智の力によって この地を幾度となく\n"
 "脅かした厄災を払ったそうじゃ"
@@ -214,13 +214,13 @@ msgid "Appear13"
 msgstr ""
 "この台地にも あと[Color name=\"red\"]3つ[Color name=\"unset\"]ほどあったはずじゃ\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]その全ての祠で [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたとき[PauseMid]\n"
-"お主に [Color name=\"blue\"]パラセール[Color name=\"unset\"]を渡してやろう[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]その全ての祠で [Color name=\"blue\"]克服の証[Color name=\"unset\"]を手に入れたとき[PauseMid]\n"
+"お主に [Color name=\"blue\"]パラセール[Color name=\"unset\"]を渡してやろう[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Appear14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]うむ… 少し気が変わってのう[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]うむ… 少し気が変わってのう[PauseMid]\n"
 "だが お主であれば そう大したことでもあるまい"
 
 #, ruby
@@ -230,20 +230,20 @@ msgstr "早う 行け"
 #, ruby
 msgid "Appear15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]わしは お宝とは言ったが 1つとは言っておらん[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]わしは お宝とは言ったが 1つとは言っておらん[PauseMid]\n"
 "お主であれば 1つも4つも そう変わるまいて"
 
 #, ruby
 msgid "Kotsu00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "年寄りは 何でも知っておるものじゃ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ほれ さっそく試してみんか？"
+"[Sound1 bytes=\"0001\"]ほれ さっそく試してみんか？"
 
 #, ruby
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
 
 msgid "_ReadOnly_MsbtExtras"

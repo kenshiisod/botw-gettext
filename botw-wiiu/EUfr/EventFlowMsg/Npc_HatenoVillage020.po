@@ -1,9 +1,9 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]... Qui est là ? [Size percent=\"80\"]Zzzzz...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0000\"]... Qui est là ? [Size percent=\"80\"]Zzzzz...[Size percent=\"100\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"7\"]Tu vas rester là encore longtemps ?\n"
+"[Sound1 bytes=\"0007\"]Tu vas rester là encore longtemps ?\n"
 "L'auberge, c'est pas ici ![PauseLong] Ouste !"
 
 msgid "near00"
@@ -11,7 +11,7 @@ msgstr "Sérieusement ?!"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]... Quoi ?[PauseLong] Si tu as des questions,\n"
+"[Sound1 bytes=\"000D\"]... Quoi ?[PauseLong] Si tu as des questions,\n"
 "n'hésite pas à les poser...[PauseLong]\n"
 "à quelqu'un d'autre que moi !"
 
@@ -20,18 +20,18 @@ msgstr "C'est quoi, cette tenue ?"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Telle que tu me vois, j'attends quelqu'un.[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]Telle que tu me vois, j'attends quelqu'un.[PauseShort]\n"
 "Tu peux t'en aller, maintenant ?"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"17\"]T'as bientôt fini de me suivre partout\n"
+"[Sound1 bytes=\"0011\"]T'as bientôt fini de me suivre partout\n"
 "comme un toutou ?[PauseLong] J'ai des choses à\n"
 "faire, là !"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"7\"]Jeune homme, j'apprécie moyennement\n"
+"[Sound1 bytes=\"0007\"]Jeune homme, j'apprécie moyennement\n"
 "qu'on me suive.[PauseLong] Cesse immédiatement."
 
 msgid "near03"
@@ -39,36 +39,36 @@ msgstr "Zzz..."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]Dis donc, toi, c'est une conversation\n"
+"[Sound1 bytes=\"020E\"]Dis donc, toi, c'est une conversation\n"
 "privée ! [PauseShort]Tu ne manques pas d'air, à\n"
 "espionner les gens comme ça ! [PauseShort]Malotru !"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Il y en a qui se croient vraiment tout\n"
+"[Sound1 bytes=\"0800\"]Il y en a qui se croient vraiment tout\n"
 "permis.[PauseMid] Allez, ouste, déguerpis !\n"
 "De l'air !"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Hein ?[PauseLong] Quelqu'un s'adresse à moi ?"
+msgstr "[Sound1 bytes=\"0B06\"]Hein ?[PauseLong] Quelqu'un s'adresse à moi ?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"5\"]Mais qu'est-ce que c'est que cette chose\n"
+"[Sound1 bytes=\"0205\"]Mais qu'est-ce que c'est que cette chose\n"
 "que tu as là ?[PauseShort] C'est dangereux, tu es\n"
 "complètement irresponsable !"
 
 msgid "talk13"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]Urg...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"]Urg...[Size percent=\"100\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"7\"]Range ça tout de suite, tu veux ?[PauseShort]\n"
+"[Sound1 bytes=\"0207\"]Range ça tout de suite, tu veux ?[PauseShort]\n"
 "Tu vas blesser quelqu'un !"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"15\"]Je vais me coucher.[PauseLong] Tu peux aller voir\n"
+"[Sound1 bytes=\"000F\"]Je vais me coucher.[PauseLong] Tu peux aller voir\n"
 "ailleurs, si j'y suis ?"
 
 msgid "_ReadOnly_MsbtExtras"

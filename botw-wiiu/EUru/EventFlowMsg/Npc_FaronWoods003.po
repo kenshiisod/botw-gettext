@@ -3,20 +3,20 @@ msgstr "Страшно..."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Гром — это страшно...[PageBreak]Парень, а ты знаешь, что гром гремит,\n"
+"[Sound1 bytes=\"0B00\"]Гром — это страшно...[PageBreak]Парень, а ты знаешь, что гром гремит,\n"
 "когда гневается великий дракон?[PauseShort] По\n"
 "крайней мере, многие в это верят.[PageBreak]А может, и нет никакого дракона...[PauseShort]\n"
 "Я вот его никогда не видел."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Слушай, парень, у тебя есть [Color name=\"blue\"]карта[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Слушай, парень, у тебя есть [Color name=\"blue\"]карта[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Есть!"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Так ты без карты путешествуешь?![PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Так ты без карты путешествуешь?![PauseShort]\n"
 "Нельзя же так!"
 
 msgid "near00"
@@ -27,7 +27,7 @@ msgstr "Нет"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]А у тебя на карте отмечены [Color name=\"blue\"]горы\n"
+"[Sound1 bytes=\"0000\"]А у тебя на карте отмечены [Color name=\"blue\"]горы\n"
 "Близнецы[Color name=\"unset\"], которые к северу отсюда?[PageBreak]По легенде, когда-то это была одна\n"
 "гора, но король драконов расколол\n"
 "ее надвое, чтобы проложить путь.[PageBreak]Некоторые утверждают, что его\n"

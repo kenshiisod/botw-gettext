@@ -5,7 +5,7 @@ msgstr ""
 "\n"
 "若者よ…\n"
 "\n"
-"私の話を 聞いておくれ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"私の話を 聞いておくれ…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk01"
@@ -89,7 +89,7 @@ msgstr "やめときます"
 msgid "Talk03_05B"
 msgstr ""
 "[Sound2 id=\"2\"]私が 力を取り戻すには[PauseShort]\n"
-"[Color name=\"red\"]1000ルピー[Color name=\"unset\"]必要だ…[PauseShort]わよ[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]1000ルピー[Color name=\"unset\"]必要だ…[PauseShort]わよ[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk26"
@@ -150,7 +150,7 @@ msgstr "[Color name=\"red\"][Sound2 id=\"2\"][02:11 name=\"AmountRupeeForNextRev
 msgid "Talk03_01B"
 msgstr ""
 "[Sound2 id=\"2\"]私が 力を取り戻すには[PauseShort] \n"
-"[Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"]ルピー[Color name=\"unset\"]必要さ[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"]ルピー[Color name=\"unset\"]必要さ[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk03_m"

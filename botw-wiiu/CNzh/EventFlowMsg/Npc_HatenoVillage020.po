@@ -1,9 +1,9 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……是谁？[Size percent=\"80\"]呼噜呼噜……[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0000\"]……是谁？[Size percent=\"80\"]呼噜呼噜……[Size percent=\"100\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"7\"]这里可不是旅馆！[PauseLong]\n"
+"[Sound1 bytes=\"0007\"]这里可不是旅馆！[PauseLong]\n"
 "要是知道，可以请你快走开吗？"
 
 msgid "near00"
@@ -11,7 +11,7 @@ msgstr "哎，真的！？"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]……什么事？[PauseLong]\n"
+"[Sound1 bytes=\"000D\"]……什么事？[PauseLong]\n"
 "要问问题，请你去找别人好吗？"
 
 msgid "near01"
@@ -19,17 +19,17 @@ msgstr "……咦？[PauseShort]裸体？"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]我正在等人。[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]我正在等人。[PauseShort]\n"
 "可以请你到旁边去吗？"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"17\"]我现在有事要忙。[PauseLong]\n"
+"[Sound1 bytes=\"0011\"]我现在有事要忙。[PauseLong]\n"
 "可以请你别缠着我吗？"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"7\"]喂……[PauseLong]\n"
+"[Sound1 bytes=\"0007\"]喂……[PauseLong]\n"
 "可以请你别跟过来吗？"
 
 msgid "near03"
@@ -37,37 +37,37 @@ msgstr "Zzz……"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]我说你！[PauseShort]\n"
+"[Sound1 bytes=\"020E\"]我说你！[PauseShort]\n"
 "靠那么近是想做什么！[PauseShort]\n"
 "有些话，我可不打算\n"
 "说给陌生人听啊！"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]主妇聚会不需要男人！[PauseMid]\n"
+"[Sound1 bytes=\"0800\"]主妇聚会不需要男人！[PauseMid]\n"
 "好了好了，快到一边去！"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]……？[PauseLong]\n"
+"[Sound1 bytes=\"0B06\"]……？[PauseLong]\n"
 "刚刚好像有人叫我……"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"5\"]你手上拿着什么？[PauseShort]\n"
+"[Sound1 bytes=\"0205\"]你手上拿着什么？[PauseShort]\n"
 "这样很危险，可以请你住手吗？"
 
 msgid "talk13"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]呼……[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"]呼……[Size percent=\"100\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"7\"]你手上拿的东西[PauseShort]\n"
+"[Sound1 bytes=\"0207\"]你手上拿的东西[PauseShort]\n"
 "很危险，请收起来！"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"15\"]我要睡了。[PauseLong]\n"
+"[Sound1 bytes=\"000F\"]我要睡了。[PauseLong]\n"
 "可以请你走开吗？"
 
 msgid "_ReadOnly_MsbtExtras"

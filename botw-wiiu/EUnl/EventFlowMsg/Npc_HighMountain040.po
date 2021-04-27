@@ -1,22 +1,22 @@
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Dat dacht ik al![PauseLong] En wat vind je van het\n"
+"[Sound1 bytes=\"0109\"]Dat dacht ik al![PauseLong] En wat vind je van het\n"
 "Rito-dorp?"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]O...[PauseShort]Niet?[PauseLong] Nou ja, maakt niet uit."
+msgstr "[Sound1 bytes=\"0414\"]O...[PauseShort]Niet?[PauseLong] Nou ja, maakt niet uit."
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ik heb de eenvoud van dit dorp altijd erg\n"
-"charmant gevonden.[PageBreak][Sound1 unk1=\"3\" unk2=\"16\"]Maar misschien had ik beter een andere\n"
+"[Sound1 bytes=\"0001\"]Ik heb de eenvoud van dit dorp altijd erg\n"
+"charmant gevonden.[PageBreak][Sound1 bytes=\"0310\"]Maar misschien had ik beter een andere\n"
 "bestemming kunnen kiezen voor mijn\n"
 "huwelijksreis...\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]Het is koud en er is weinig te doen, dus\n"
+"[Sound1 bytes=\"0601\"]Het is koud en er is weinig te doen, dus\n"
 "mijn [Color name=\"blue\"]vrouw [Color name=\"unset\"]vindt het maar niets..."
 
 msgid "talk30"
-msgstr "[Sound2 id=\"10\"][Sound1 unk1=\"0\" unk2=\"1\"]Ai... Ai..."
+msgstr "[Sound2 id=\"10\"][Sound1 bytes=\"0001\"]Ai... Ai..."
 
 msgid "0000"
 msgstr "Ja."
@@ -25,108 +25,108 @@ msgid "0001"
 msgstr "Nee."
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]één [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]één [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]vijf [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]vijf [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0003"
 msgstr "Prima."
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]tien [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]tien [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0004"
 msgstr "Nee."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Fantastisch, tot later."
+msgstr "[Sound1 bytes=\"0000\"]Fantastisch, tot later."
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]dertig [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]dertig [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Hé.[PauseShort] Wat ben jij energiek in deze kou."
+msgstr "[Sound1 bytes=\"0109\"]Hé.[PauseShort] Wat ben jij energiek in deze kou."
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]vijftig [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]vijftig [Color name=\"unset\"]van verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Kun je me er daar [Color name=\"blue\"]honderd [Color name=\"unset\"]van\n"
-"verkopen?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Kun je me er daar [Color name=\"blue\"]honderd [Color name=\"unset\"]van\n"
+"verkopen?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo![PauseShort] Goedemorgen!"
+msgstr "[Sound1 bytes=\"0000\"]Hallo![PauseShort] Goedemorgen!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"34\"]O, hallo.[PauseShort] Ik moet nog eventjes wakker\n"
+"[Sound1 bytes=\"0322\"]O, hallo.[PauseShort] Ik moet nog eventjes wakker\n"
 "worden, hoor."
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ik moet nog meer [Color name=\"blue\"]geroosterde appels[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0001\"]Ik moet nog meer [Color name=\"blue\"]geroosterde appels[Color name=\"unset\"]\n"
 "maken, dus breng me alsjeblieft zo veel\n"
 "mogelijk [Color name=\"blue\"]vuurstenen[Color name=\"unset\"]!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo![PauseShort] Goedemiddag!"
+msgstr "[Sound1 bytes=\"0000\"]Hallo![PauseShort] Goedemiddag!"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Ik wil [Color name=\"blue\"]geroosterde appel [Color name=\"unset\"]maken omdat ze\n"
-"daar zo van houdt...[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]...maar ik heb geen [Color name=\"blue\"]vuursteen [Color name=\"unset\"]om een\n"
+"[Sound1 bytes=\"0601\"]Ik wil [Color name=\"blue\"]geroosterde appel [Color name=\"unset\"]maken omdat ze\n"
+"daar zo van houdt...[PageBreak][Sound1 bytes=\"0300\"]...maar ik heb geen [Color name=\"blue\"]vuursteen [Color name=\"unset\"]om een\n"
 "vuurtje te stoken..."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo![PauseShort] Goedenavond!"
+msgstr "[Sound1 bytes=\"0000\"]Hallo![PauseShort] Goedenavond!"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Het is onze huwelijksreis, maar mijn\n"
+"[Sound1 bytes=\"0001\"]Het is onze huwelijksreis, maar mijn\n"
 "[Color name=\"blue\"]vrouw [Color name=\"unset\"]vindt het maar niets hier..."
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]Wauw! [PauseShort]Geweldig![PauseLong] Nu kan ik mijn\n"
+"[Sound1 bytes=\"0701\"]Wauw! [PauseShort]Geweldig![PauseLong] Nu kan ik mijn\n"
 "fantastische [Color name=\"blue\"]geroosterde appel [Color name=\"unset\"]maken!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo![PauseShort] Wat een vervelend weer, hè?"
+msgstr "[Sound1 bytes=\"0000\"]Hallo![PauseShort] Wat een vervelend weer, hè?"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]O man, [PauseLong]als er niets verandert, loopt deze\n"
+"[Sound1 bytes=\"0900\"]O man, [PauseLong]als er niets verandert, loopt deze\n"
 "huwelijksreis nog uit in een scheiding..."
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Breng me er nog meer en ik zal je rijkelijk\n"
+"[Sound1 bytes=\"0001\"]Breng me er nog meer en ik zal je rijkelijk\n"
 "belonen.[PauseShort] Ik reken op je!"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]Die licht branderige geur...[PauseLong] Heb je...[PauseShort] een\n"
+"[Sound1 bytes=\"0413\"]Die licht branderige geur...[PauseLong] Heb je...[PauseShort] een\n"
 "[Color name=\"blue\"]vuursteen[Color name=\"unset\"]?"
 
 msgid "near00"
 msgstr "Oef..."
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Be...[PauseShort] bedankt![PauseLong] Dat verdient een beloning!"
+msgstr "[Sound1 bytes=\"0700\"]Be...[PauseShort] bedankt![PauseLong] Dat verdient een beloning!"
 
 msgid "near01"
 msgstr "*Zucht*"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ben je ook op reis?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Ben je ook op reis?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Bedankt dat je een [Color name=\"blue\"]vuursteen [Color name=\"unset\"]aan mij\n"
+"[Sound1 bytes=\"0001\"]Bedankt dat je een [Color name=\"blue\"]vuursteen [Color name=\"unset\"]aan mij\n"
 "hebt verkocht![PageBreak]Ik zal meer [Color name=\"blue\"]geroosterde appels [Color name=\"unset\"]maken,\n"
-"dus blijf vooral [Color name=\"blue\"]vuurstenen[Color name=\"unset\"] brengen.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Ze is dol op mijn [Color name=\"blue\"]geroosterde appels[C9:04][Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]...dus ik hoop dat ik haar daarmee kan\n"
+"dus blijf vooral [Color name=\"blue\"]vuurstenen[Color name=\"unset\"] brengen.[PageBreak][Sound1 bytes=\"0109\"]Ze is dol op mijn [Color name=\"blue\"]geroosterde appels[C9:04][Color name=\"unset\"]...[PageBreak][Sound1 bytes=\"0001\"]...dus ik hoop dat ik haar daarmee kan\n"
 "opvrolijken."
 
 msgid "_ReadOnly_MsbtExtras"

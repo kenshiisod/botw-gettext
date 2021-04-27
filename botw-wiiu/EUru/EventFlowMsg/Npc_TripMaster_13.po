@@ -1,6 +1,6 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Эй! Рад снова тебя видеть![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Я совершенно не готов к такому\n"
+"[Sound1 bytes=\"0102\"]Эй! Рад снова тебя видеть![PageBreak][Sound1 bytes=\"0001\"]Я совершенно не готов к такому\n"
 "холоду, но куда только не придешь\n"
 "ради любимых клиентов!"
 
@@ -44,7 +44,7 @@ msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]Ну и перепугался же я..."
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]Ну и х-х-холод..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]Ну и х-х-холод..."
 
 msgid "TerrorImpulse"
 msgstr "Ох!"

@@ -11,33 +11,33 @@ msgid "0004"
 msgstr "Wat?"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Snik, snik...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Snik, snik...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Snik, snik...[PauseLong] I-i-ik wil...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Snik, snik...[PauseLong] I-i-ik wil...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Gegrilde...[PauseLong] zalm...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Gegrilde...[PauseLong] zalm...[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]En..."
+msgstr "[Sound1 bytes=\"0001\"]En..."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Snik, snik...[PauseLong]\n"
+"[Sound1 bytes=\"032A\"]Snik, snik...[PauseLong]\n"
 "Ik wil het nog steeds..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Het leven van de held![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Het leven van de held![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Ik zal hem nooit meer zien..."
+msgstr "[Sound1 bytes=\"032A\"]Ik zal hem nooit meer zien..."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Dit is voor Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Dit is voor Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"40\"]Snik, snik..."

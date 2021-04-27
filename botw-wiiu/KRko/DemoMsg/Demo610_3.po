@@ -15,22 +15,22 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_000"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]어라?\n"
+"[Sound1 bytes=\"0B06\"]어라?\n"
 "이런 고지에서 사람을 만날 줄이야…[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]노래 속의 영걸이 저에게 말하고 있습니다\n"
+"[Sound1 bytes=\"030C\"]노래 속의 영걸이 저에게 말하고 있습니다\n"
 "이 노래를 꼭 완성시켜 달라고…"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_002"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]이거 쑥스럽군요\n"
+"[Sound1 bytes=\"0300\"]이거 쑥스럽군요\n"
 "이런 변방을 여행하다 보니 혼잣말이 늘어서…"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]다행히 [Color name=\"blue\"]겔드[Color name=\"unset\"]의 족장 [Color name=\"blue\"]루쥬[Color name=\"unset\"]님과 호위 [Color name=\"blue\"]뷰러[Color name=\"unset\"]님…\n"
+"[Sound1 bytes=\"0000\"]다행히 [Color name=\"blue\"]겔드[Color name=\"unset\"]의 족장 [Color name=\"blue\"]루쥬[Color name=\"unset\"]님과 호위 [Color name=\"blue\"]뷰러[Color name=\"unset\"]님…\n"
 "두 분께 귀중한 정보를 들을 수 있었습니다"
 
 msgid "Npc_DungeonPriest_HeroGerudoRelief_001"
@@ -43,17 +43,17 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]아아… [Color name=\"blue\"]신수[Color name=\"unset\"]가 지켜보는 이곳에서\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]아아… [Color name=\"blue\"]신수[Color name=\"unset\"]가 지켜보는 이곳에서\n"
 "연주할 수 있다는 기쁨…"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_205"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"blue\"]겔드의 마을[Color name=\"unset\"]에 들어가기 위해\n"
+"[Sound1 bytes=\"0601\"][Color name=\"blue\"]겔드의 마을[Color name=\"unset\"]에 들어가기 위해\n"
 "남에겐 말 못할 고생을 한 보람이 있었네요"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]스승님께서 완성시키셨던…\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]스승님께서 완성시키셨던…\n"
 "시련에 도전하는 [Color name=\"blue\"]영걸 우르보사의 장[Color name=\"unset\"]\n"
 "[PauseAuto frames=\"40\"]들어 주십시오"
 
@@ -64,7 +64,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_206"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]그것을 위해서라도 저는\n"
+"[Sound1 bytes=\"0000\"]그것을 위해서라도 저는\n"
 "영걸들에 대해서 더 깊게 알 필요가 있지요…"
 
 msgid "_ReadOnly_MsbtExtras"

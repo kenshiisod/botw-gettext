@@ -3,52 +3,52 @@ msgstr "知道"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]作为补偿，\n"
+"[Sound1 bytes=\"0700\"]作为补偿，\n"
 "这里有附带本大爷按摩的方案哦鼓咯。\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]总之你就住下来吧鼓咯。"
+"[Sound1 bytes=\"0000\"]总之你就住下来吧鼓咯。"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"][Size percent=\"125\"]好的～！[PauseShort]大哥～！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0102\"][Size percent=\"125\"]好的～！[PauseShort]大哥～！[Size percent=\"100\"]"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]谢谢你～！[PauseShort]鼓咯！"
+msgstr "[Sound1 bytes=\"0700\"]谢谢你～！[PauseShort]鼓咯！"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]住宿请来这里～"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"]大哥～！[PauseShort]请替一名客人带路鼓咯～！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0003\"][Size percent=\"125\"]大哥～！[PauseShort]请替一名客人带路鼓咯～！[Size percent=\"100\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]旅行者！[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]旅行者！[PauseLong]\n"
 "你知道[Color name=\"blue\"]火山弹[Color name=\"unset\"]已经停了吗鼓咯？[Choice1 label=\"3\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]也就是说，[PauseLong]接下来会来一大堆观光客，[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]也就是说，[PauseLong]接下来会来一大堆观光客，[PauseShort]\n"
 "旅馆也会生意兴隆……[PauseShort]本大爷也会非常忙……\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]因此！[PauseLong]若没预约却想接受我的按摩服务，[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]因此！[PauseLong]若没预约却想接受我的按摩服务，[PauseShort]\n"
 "现在可是最后的机会鼓咯！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]你就快住下来吧鼓咯！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]你就快住下来吧鼓咯！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]旅行者！[PauseLong]\n"
-"若想消除旅途的疲劳，就住进来吧鼓咯！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]旅行者！[PauseLong]\n"
+"若想消除旅途的疲劳，就住进来吧鼓咯！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "就这么做！"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]可别勉强啊鼓咯～！"
+msgstr "[Sound1 bytes=\"0600\"]可别勉强啊鼓咯～！"
 
 msgid "0001"
 msgstr "这里是？"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]这是鼓隆族的旅馆，\n"
+"[Sound1 bytes=\"0700\"]这是鼓隆族的旅馆，\n"
 "[Color name=\"blue\"]民宿鼓碌鼓碌[Color name=\"unset\"]鼓咯！"
 
 msgid "0002"
@@ -56,9 +56,9 @@ msgstr "再见"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]如你所见，这里能欣赏到[Color name=\"blue\"]死亡之山[Color name=\"unset\"]！\n"
+"[Sound1 bytes=\"0000\"]如你所见，这里能欣赏到[Color name=\"blue\"]死亡之山[Color name=\"unset\"]！\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]……本大爷是很想这样介绍，但山被\n"
+"[Sound1 bytes=\"0900\"]……本大爷是很想这样介绍，但山被\n"
 "[Color name=\"blue\"]老大[Color name=\"unset\"]家挡住了，根本看不到鼓咯……"
 
 msgid "_ReadOnly_MsbtExtras"

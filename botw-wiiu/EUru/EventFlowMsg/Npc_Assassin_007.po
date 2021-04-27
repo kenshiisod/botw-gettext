@@ -1,55 +1,55 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"7\"]Это боевой отряд, во главе которого\n"
+"[Sound1 bytes=\"0807\"]Это боевой отряд, во главе которого\n"
 "стоял Кога, которого ты убил![PauseShort] Наша\n"
 "цель — уничтожить Героя!"
 
 msgid "Talk04_1"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Но я все-таки скажу.[PauseShort] Клан Ига..."
+msgstr "[Sound1 bytes=\"0001\"]Но я все-таки скажу.[PauseShort] Клан Ига..."
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Не хочешь?!"
+msgstr "[Sound1 bytes=\"0A00\"]Не хочешь?!"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]Глупец! Ты поплатишься\n"
+"[Sound1 bytes=\"0201\"]Глупец! Ты поплатишься\n"
 "за это жизнью!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]А ведь ты мог бы стать нашим\n"
+"[Sound1 bytes=\"0201\"]А ведь ты мог бы стать нашим\n"
 "новым главарем! Глупец!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Спрошу еще раз: хочешь\n"
-"вступить в клан Ига?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0709\"]Спрошу еще раз: хочешь\n"
+"вступить в клан Ига?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе конец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе конец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]А ты хорошо сложен и, наверное,\n"
-"неплохо владеешь мечом и луком.[PageBreak]Хочешь вступить в клан Ига?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]А ты хорошо сложен и, наверное,\n"
+"неплохо владеешь мечом и луком.[PageBreak]Хочешь вступить в клан Ига?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Клан Ига?"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Я отомщу за босса![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Я отомщу за босса![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "Не хочу"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Ничего себе![PauseShort] Ты не знаешь\n"
-"про клан Ига?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Сейчас я тебя просвещу.[PauseShort] Клан Ига..."
+"[Sound1 bytes=\"0A00\"]Ничего себе![PauseShort] Ты не знаешь\n"
+"про клан Ига?[PageBreak][Sound1 bytes=\"0001\"]Сейчас я тебя просвещу.[PauseShort] Клан Ига..."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Это бравый боевой отряд, во главе\n"
+"[Sound1 bytes=\"070A\"]Это бравый боевой отряд, во главе\n"
 "которого стоит Кога.[PauseShort] Наша цель —\n"
 "уничтожить Героя![PageBreak]Вот мы и встретились...[PauseShort] Линк."
 

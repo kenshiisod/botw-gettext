@@ -11,7 +11,7 @@ msgid "0000"
 msgstr "Ja."
 
 msgid "Talk03"
-msgstr "[Animation name=\"Activate\"]Zum Schrein des Lebens zurückkehren?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Animation name=\"Activate\"]Zum Schrein des Lebens zurückkehren?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "Nein."

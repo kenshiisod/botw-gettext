@@ -15,7 +15,7 @@ msgstr "为什么……就是不懂呢……[Pause frames=\"30\"]"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]我在神庙的周围种了许多花儿，\n"
+"[Sound1 bytes=\"0008\"]我在神庙的周围种了许多花儿，\n"
 "千万要小心别踩到哦。"
 
 msgid "Fail_Run_St2"
@@ -23,24 +23,24 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]真是够了～～～！！！[S
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]不要踩到花儿[Color name=\"unset\"]哦，[PauseShort]\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]不要踩到花儿[Color name=\"unset\"]哦，[PauseShort]\n"
 "花儿都在说好痛、好痛呢。"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]真是的！到底要说几次才懂！\n"
+"[Sound1 bytes=\"080E\"]真是的！到底要说几次才懂！\n"
 "[Color name=\"red\"]要好好爱护花儿[Color name=\"unset\"]！花儿也是有生命的！"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]你看～很漂亮吧。[PauseShort]\n"
+"[Sound1 bytes=\"0113\"]你看～很漂亮吧。[PauseShort]\n"
 "我在神庙周围种了许多花儿。\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]方便的话，不妨慢慢欣赏。[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]方便的话，不妨慢慢欣赏。[PauseMid]\n"
 "但小心别踩到或伤到花儿哦！"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]这是我辛苦种下的花儿，\n"
+"[Sound1 bytes=\"0008\"]这是我辛苦种下的花儿，\n"
 "请慢慢欣赏！"
 
 msgid "Fail_3"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]喂！突然想干嘛？\n"
+"[Sound1 bytes=\"080E\"]喂！突然想干嘛？\n"
 "[Color name=\"red\"]不要踩到花儿[Color name=\"unset\"]哦。"
 
 msgid "_ReadOnly_MsbtExtras"

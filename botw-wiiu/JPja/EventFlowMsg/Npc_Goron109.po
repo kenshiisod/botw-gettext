@@ -1,9 +1,9 @@
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]見てのとおり 絶好調だゴロン！\n"
+"[Sound1 bytes=\"0701\"]見てのとおり 絶好調だゴロン！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]だけじゃなくて\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]だけじゃなくて\n"
 "勇者の内密とか隠密とか秘め事とか…\n"
 "[Sound2 id=\"7\"]掘り出せるものは なーんでも\n"
 "掘り出してみせるゴロン！"
@@ -11,9 +11,9 @@ msgstr ""
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]なんだゴロン？\n"
+"[Sound1 bytes=\"0000\"]なんだゴロン？\n"
 "おまえの秘密も掘り出せってゴロン？\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]無理だゴロン！\n"
+"[Sound1 bytes=\"0900\"]無理だゴロン！\n"
 "繊細なものは 壊してしまうゴロン…！"
 
 #, ruby
@@ -26,7 +26,7 @@ msgstr "ンゴグググ……"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]だけじゃなくて\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]だけじゃなくて\n"
 "勇者の内密とか隠密とか秘め事とか…\n"
 "掘り出せるものは なーんでも\n"
 "掘り出してみせるゴロン！"

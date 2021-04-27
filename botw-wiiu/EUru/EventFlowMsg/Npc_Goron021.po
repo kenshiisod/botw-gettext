@@ -1,59 +1,59 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Я горон, и зовут меня Барго."
+msgstr "[Sound1 bytes=\"0004\"]Я горон, и зовут меня Барго."
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Юнобо вернулся в [Color name=\"blue\"]Горонград[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Он как-то изменился.[PauseShort] Повзрослел,\n"
+"[Sound1 bytes=\"0004\"]Юнобо вернулся в [Color name=\"blue\"]Горонград[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0B00\"]Он как-то изменился.[PauseShort] Повзрослел,\n"
 "что ли...[PauseShort] Интересно, что он делал\n"
 "на [Color name=\"blue\"]Горе Смерти[Color name=\"unset\"]?.."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Пока!"
+msgstr "[Sound1 bytes=\"0004\"]Пока!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Путешествуешь?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]У нас теперь все хорошо: [Color name=\"blue\"]Рудания[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0000\"]Путешествуешь?[PageBreak][Sound1 bytes=\"0101\"]У нас теперь все хорошо: [Color name=\"blue\"]Рудания[Color name=\"unset\"]\n"
 "угомонился — тишь и благодать."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Стою тут, охраняю...[PageBreak]Просто в последнее время монстров\n"
+"[Sound1 bytes=\"0000\"]Стою тут, охраняю...[PageBreak]Просто в последнее время монстров\n"
 "много — все из-за [Color name=\"blue\"]огромного ящера[Color name=\"unset\"]\n"
 "на [Color name=\"blue\"]Горе Смерти[Color name=\"unset\"]."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Утро доброе.[PauseShort] Денек будет что надо."
+msgstr "[Sound1 bytes=\"0002\"]Утро доброе.[PauseShort] Денек будет что надо."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Ого![PauseShort] Хайлиец![PauseShort] А ты куда идешь?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Там дальше только заброшенный\n"
+"[Sound1 bytes=\"0A00\"]Ого![PauseShort] Хайлиец![PauseShort] А ты куда идешь?[PageBreak][Sound1 bytes=\"0000\"]Там дальше только заброшенный\n"
 "рудник...[PauseShort] и монстры.[PauseShort] В общем,\n"
 "очень опасно."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Приветствую.[PauseShort] Хорошо сегодня, а?"
+msgstr "[Sound1 bytes=\"0002\"]Приветствую.[PauseShort] Хорошо сегодня, а?"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Здравствуй.[PauseShort] Хорошая ночка, а?"
+msgstr "[Sound1 bytes=\"0002\"]Здравствуй.[PauseShort] Хорошая ночка, а?"
 
 msgid "0000"
 msgstr "Я заблудился"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Он ушел на [Color name=\"red\"]северный рудник[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0004\"]Он ушел на [Color name=\"red\"]северный рудник[Color name=\"unset\"]."
 
 msgid "0001"
 msgstr "Кто ты?"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Он пошел к [Color name=\"red\"]шефу[Color name=\"unset\"] домой."
+msgstr "[Sound1 bytes=\"0004\"]Он пошел к [Color name=\"red\"]шефу[Color name=\"unset\"] домой."
 
 msgid "0002"
 msgstr "Пока"
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]Рудания[Color name=\"unset\"] снова выполз из кратера.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]Рудания[Color name=\"unset\"] снова выполз из кратера.[PauseShort]\n"
 "Обычно его [Color name=\"blue\"]шеф[Color name=\"unset\"] прогоняет, если\n"
 "спина не болит."
 
@@ -62,7 +62,7 @@ msgstr "Где Юнобо?"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Он пошел к [Color name=\"red\"]мосту Элдина[Color name=\"unset\"].[PauseShort] Иди\n"
+"[Sound1 bytes=\"0004\"]Он пошел к [Color name=\"red\"]мосту Элдина[Color name=\"unset\"].[PauseShort] Иди\n"
 "по этой дороге, но учти: путь\n"
 "неблизкий.[PageBreak]Пройдешь [Color name=\"blue\"]Горонский мост[Color name=\"unset\"], потом\n"
 "[Color name=\"blue\"]Горонские ключи[Color name=\"unset\"], потом еще топать..."
@@ -71,28 +71,28 @@ msgid "0004"
 msgstr "Я от Шефа"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Чем могу помочь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0006\"]Чем могу помочь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Слушай, а что ты тут делаешь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Слушай, а что ты тут делаешь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]А, хайлиец![PauseShort] Привет!"
+msgstr "[Sound1 bytes=\"0A00\"]А, хайлиец![PauseShort] Привет!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Хм, зачем хайлийцу понадобился\n"
-"Юнобо?[PauseShort] Подозрительно...[Choice1 label=\"4\"][PageBreak][Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]От шефа?![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Ну если ты от самого шефа,\n"
+"[Sound1 bytes=\"0006\"]Хм, зачем хайлийцу понадобился\n"
+"Юнобо?[PauseShort] Подозрительно...[Choice1 label=\"4\"][PageBreak][Sound1 bytes=\"0A00\"][Size percent=\"125\"]От шефа?![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0000\"]Ну если ты от самого шефа,\n"
 "то я скажу, где Юнобо..."
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]У нас тут легко заблудиться![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Советую забраться куда-нибудь\n"
+"[Sound1 bytes=\"0B00\"]У нас тут легко заблудиться![PageBreak][Sound1 bytes=\"0000\"]Советую забраться куда-нибудь\n"
 "повыше и осмотреться — сразу\n"
 "поймешь, куда идти."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Еще что-нибудь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Еще что-нибудь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron21_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAFgAgAAAAAAABgAAAAEAAAAaAAAAGoAAABsAAAAbgAAAHAAAAByAAAAjAAAAKYAAADAAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAyADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADIAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMgAxAAAAAAAA"

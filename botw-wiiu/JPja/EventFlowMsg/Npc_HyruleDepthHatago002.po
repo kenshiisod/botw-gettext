@@ -1,7 +1,7 @@
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]ここじゃ ぬれますよ[PauseMid]\n"
+"[Sound1 bytes=\"0300\"]ここじゃ ぬれますよ[PauseMid]\n"
 "馬宿の中へ どうぞ"
 
 msgid "Near01"
@@ -10,7 +10,7 @@ msgstr "[Sound2 id=\"1\"]ごはんよー！"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]この雨じゃ 料理鍋は使えませんね…[PauseMid]\n"
+"[Sound1 bytes=\"0312\"]この雨じゃ 料理鍋は使えませんね…[PauseMid]\n"
 "ご宿泊は いかがでしょう？"
 
 #, ruby
@@ -23,7 +23,7 @@ msgstr "グー… グー…"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]すみませーん[PauseMid]\n"
+"[Sound1 bytes=\"0312\"]すみませーん[PauseMid]\n"
 "ちょっと休憩中ですので…"
 
 #, ruby
@@ -33,7 +33,7 @@ msgstr "[Sound2 id=\"32\"]もうこんな時間ね…"
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]たくさん野菜を食べてね…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]たくさん野菜を食べてね…[PauseMid]\n"
 "むにゃ むにゃ…"
 
 msgid "Near_RunRain00"
@@ -45,7 +45,7 @@ msgstr "雨だわ…"
 
 #, ruby
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]料理鍋を ご利用ですか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]料理鍋を ご利用ですか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"
@@ -58,13 +58,13 @@ msgstr "何でもない"
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬宿での お食事はセルフとなります[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]馬宿での お食事はセルフとなります[PauseMid]\n"
 "どうぞ 料理鍋は ご自由にお使いください"
 
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ご用件は 主人のインブリーへ お願いします[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ご用件は 主人のインブリーへ お願いします[PauseMid]\n"
 "道案内でしたら 見習いのトロット君へ どうぞ"
 
 msgid "Near00"

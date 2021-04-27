@@ -102,7 +102,7 @@ msgid "Demo044_0_Text040"
 msgstr ""
 "[Animation name=\"Activate\"]메인 제어 장치를 기동시키면\n"
 "신수 내부로 돌아올 수 없게 됩니다\n"
-"[Animation name=\"Activate\"]정말 기동시키겠습니까?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"1\" cancelnum=\"1\"]"
+"[Animation name=\"Activate\"]정말 기동시키겠습니까?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 msgid "Demo044_0_Text043"
 msgstr ""

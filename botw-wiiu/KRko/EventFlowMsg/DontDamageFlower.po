@@ -15,7 +15,7 @@ msgstr "어째서… 모르는 거야…[Pause frames=\"30\"]"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]사당 주변에 꽃을 심어 줬어\n"
+"[Sound1 bytes=\"0008\"]사당 주변에 꽃을 심어 줬어\n"
 "밟지 않도록 조심해야 돼"
 
 msgid "Fail_Run_St2"
@@ -23,24 +23,24 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]이제 싫어~~~!!![Size percent
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]꽃을 상처 입히면 안 돼[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]꽃을 상처 입히면 안 돼[Color name=\"unset\"][PauseShort]\n"
 "꽃이 아프다고 하고 있어"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]정말! 몇 번을 말해!\n"
+"[Sound1 bytes=\"080E\"]정말! 몇 번을 말해!\n"
 "[Color name=\"red\"]꽃은 소중히 아껴야 해[Color name=\"unset\"]! 꽃도 살아 있다고!"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]이거 봐~ 예쁘지?[PauseShort]\n"
+"[Sound1 bytes=\"0113\"]이거 봐~ 예쁘지?[PauseShort]\n"
 "사당 주변에 꽃을 심어 봤어\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]천천히 둘러보고 가[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]천천히 둘러보고 가[PauseMid]\n"
 "밟거나 상처 입히지 않도록 하고!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]열심히 심은 꽃\n"
+"[Sound1 bytes=\"0008\"]열심히 심은 꽃\n"
 "천천히 보고 가!"
 
 msgid "Fail_3"
@@ -53,7 +53,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]얘! 갑자기 무슨 짓이야?\n"
+"[Sound1 bytes=\"080E\"]얘! 갑자기 무슨 짓이야?\n"
 "[Color name=\"red\"]꽃을 상처 입히면 안 돼[Color name=\"unset\"]"
 
 msgid "_ReadOnly_MsbtExtras"

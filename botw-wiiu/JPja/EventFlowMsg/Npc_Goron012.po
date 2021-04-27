@@ -1,34 +1,34 @@
 #, ruby
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]仕事 仕事 [PauseShort]ゴロォ！"
+msgstr "[Sound1 bytes=\"0709\"]仕事 仕事 [PauseShort]ゴロォ！"
 
 #, ruby
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]ムニャ… [PauseShort]掘って 掘って… [PauseShort]ゴロォ"
+msgstr "[Sound1 bytes=\"0021\"]ムニャ… [PauseShort]掘って 掘って… [PauseShort]ゴロォ"
 
 #, ruby
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]…もっと掘る [PauseShort]ゴロォ"
+msgstr "[Sound1 bytes=\"0021\"]…もっと掘る [PauseShort]ゴロォ"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]撤収だァ ゴロォ！[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]撤収だァ ゴロォ！[PauseLong]\n"
 "用があるなら また明日だぁゴロォ！"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]行きたきゃ この道を真っ直ぐゴロォ！\n"
+"[Sound1 bytes=\"0004\"]行きたきゃ この道を真っ直ぐゴロォ！\n"
 "\n"
 "[Color name=\"blue\"]ハイリア人[Color name=\"unset\"]なら 火傷に気を付けるゴロォ！"
 
 #, ruby
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おっと 旅の人には関係なかったゴロォ！[Choice2 label1=\"1\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]おっと 旅の人には関係なかったゴロォ！[Choice2 label1=\"1\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]……おっと！ [PauseShort]また アンタかァ！！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]……おっと！ [PauseShort]また アンタかァ！！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "near00"
@@ -37,7 +37,7 @@ msgstr "掘りまくるゴロォ！"
 #, ruby
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]俺は 採掘会社ゴロン組[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]俺は 採掘会社ゴロン組[PauseShort]\n"
 "班長のドリルド ゴロォ！"
 
 #, ruby
@@ -51,22 +51,22 @@ msgstr "腰を入れるゴロォ！"
 #, ruby
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ゴロンシティ組長の指示により[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]ゴロンシティ組長の指示により[PauseShort]\n"
 "ここで採掘をしてるゴロォ！\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]さァ 今日も掘って掘って掘りまくるゴロォ！"
+"[Sound1 bytes=\"0701\"]さァ 今日も掘って掘って掘りまくるゴロォ！"
 
 msgid "near03"
 msgstr "オラァゴロォ！"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"][Size percent=\"125\"]ガーッハッハッハ！ [PauseShort]ゴロォ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"070A\"][Size percent=\"125\"]ガーッハッハッハ！ [PauseShort]ゴロォ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]おぅ！\n"
+"[Sound1 bytes=\"0104\"]おぅ！\n"
 "\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]本当はもっと 山頂に近い方が[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]本当はもっと 山頂に近い方が[PauseShort]\n"
 "いい[Color name=\"blue\"]鉱石[Color name=\"unset\"]が取れるんだが\n"
 "最近 掘れなくなっちまったから[PauseShort]\n"
 "この辺で掘ってるゴロォ！"
@@ -81,11 +81,11 @@ msgstr "ゴロンシティって？"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"blue\"]鉱石[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0101\"][Color name=\"blue\"]鉱石[Color name=\"unset\"]を\n"
 "ジャンジャンバリバリ 掘りまくるゴロォ！"
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]おっと アンタかァ！！[Choice2 label1=\"1\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0700\"]おっと アンタかァ！！[Choice2 label1=\"1\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "near05"
@@ -97,7 +97,7 @@ msgstr "あなたは？"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]掘れば掘るほど儲かるゴロォ！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]掘れば掘るほど儲かるゴロォ！[PauseLong]\n"
 "ひたすら掘り続けるゴロォ！！"
 
 msgid "near06"
@@ -110,7 +110,7 @@ msgstr "大変ですね"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]全ては[Color name=\"blue\"]組長[Color name=\"unset\"]のため[PauseShort] そしてゴロンシティのため！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]全ては[Color name=\"blue\"]組長[Color name=\"unset\"]のため[PauseShort] そしてゴロンシティのため！[PauseLong]\n"
 "[Color name=\"blue\"]鉱石[Color name=\"unset\"]を 掘りまくるゴロォ！"
 
 msgid "0003"
@@ -119,61 +119,61 @@ msgstr "さよならゴロォ"
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]俺の幸せは [Color name=\"blue\"]組長[Color name=\"unset\"]の幸せ！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]俺の幸せは [Color name=\"blue\"]組長[Color name=\"unset\"]の幸せ！[PauseLong]\n"
 "延いては ゴロンシティの幸せゴロォ！\n"
 "[Color name=\"blue\"]鉱石[Color name=\"unset\"]を掘って掘って 売りまくるゴロォ！"
 
 #, ruby
 msgid "talk05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]他にもあるゴロォ？！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0106\"]他にもあるゴロォ？！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]……おっと！[PauseLong]\n"
-"アンタにゃ関係無かったゴロォ！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0013\"]……おっと！[PauseLong]\n"
+"アンタにゃ関係無かったゴロォ！[Choice4Flags label1=\"0\" flag1=\"NPC_Goron012_City\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]ゴロンシティとは 俺達 ゴロンの街！"
+msgstr "[Sound1 bytes=\"0001\"]ゴロンシティとは 俺達 ゴロンの街！"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]おぅ！ \n"
+"[Sound1 bytes=\"0104\"]おぅ！ \n"
 "\n"
 "ゴロンシティが潤ってんのも[PauseShort]\n"
 "俺達のおかげなんだぜェゴロォ！\n"
-"[Sound1 unk1=\"6\" unk2=\"16\"]しかし 本当はもっと山頂近くで\n"
+"[Sound1 bytes=\"0610\"]しかし 本当はもっと山頂近くで\n"
 "掘りたいけどよォ\n"
 "[Color name=\"blue\"]トカゲのバケモン[Color name=\"unset\"]が邪魔でなァ… [PauseShort]ゴロォ！"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]おぅゴロォ！"
+msgstr "[Sound1 bytes=\"0101\"]おぅゴロォ！"
 
 #, ruby
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]目が覚めるような[Color name=\"blue\"]鉱石[Color name=\"unset\"]を[PauseShort] ゲットするゴロォ！"
+msgstr "[Sound1 bytes=\"0101\"]目が覚めるような[Color name=\"blue\"]鉱石[Color name=\"unset\"]を[PauseShort] ゲットするゴロォ！"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]今日の目標は [Color name=\"blue\"]鉱石[Color name=\"unset\"]1000個だゴロォ！"
+msgstr "[Sound1 bytes=\"0101\"]今日の目標は [Color name=\"blue\"]鉱石[Color name=\"unset\"]1000個だゴロォ！"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]今日の取れ高[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]今日の取れ高[PauseShort]\n"
 "他のヤツに負けるわけにゃ いかねぇゴロォ！"
 
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]いい[Color name=\"blue\"]鉱石[Color name=\"unset\"]を掘り当てて[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]いい[Color name=\"blue\"]鉱石[Color name=\"unset\"]を掘り当てて[PauseShort]\n"
 "給料アップゴロォ！"
 
 #, ruby
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]今日もいい[Color name=\"blue\"]鉱石[Color name=\"unset\"] 見つかるかなァ？ ゴロォ！"
+msgstr "[Sound1 bytes=\"0709\"]今日もいい[Color name=\"blue\"]鉱石[Color name=\"unset\"] 見つかるかなァ？ ゴロォ！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAH+AwAAAAAAACUAAAAEAAAAnAAAALYAAADQAAAA6gAAAAQBAAAeAQAAOAEAAFIBAABUAQAAVgEAAFgBAABaAQAAdAEAAI4BAACoAQAAwgEAANwBAAD2AQAAEAIAACoCAABEAgAAXgIAAHgCAACSAgAArAIAAMYCAADgAgAA+gIAABQDAAAuAwAASAMAAGIDAAB8AwAAlgMAALADAADKAwAA5AMAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAAAAAAAAAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAyAAAAAAAA"

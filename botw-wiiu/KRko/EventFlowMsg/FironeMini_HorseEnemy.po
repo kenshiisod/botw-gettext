@@ -1,11 +1,11 @@
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]보다시피 말을 탄 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]이\n"
+"[Sound1 bytes=\"0310\"]보다시피 말을 탄 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]이\n"
 "이 평원을 점령해버렸어…[Pause frames=\"30\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]사례를 하고 싶어도…[Pause frames=\"30\"]\n"
+"[Sound1 bytes=\"0100\"]사례를 하고 싶어도…[Pause frames=\"30\"]\n"
 "주머니가 꽉 찬 모양이네\n"
 "비우고 다시 와"
 
@@ -14,7 +14,7 @@ msgstr "와 본 적 있어요"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]자네 하는 것 보고 있었어[Pause frames=\"15\"]\n"
+"[Sound1 bytes=\"0712\"]자네 하는 것 보고 있었어[Pause frames=\"15\"]\n"
 "\n"
 "평원을 점령하고 있던 저 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]을\n"
 "쫓아내 주었지?\n"
@@ -22,41 +22,41 @@ msgstr ""
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]정말로? 고맙네\n"
+"[Sound1 bytes=\"0712\"]정말로? 고맙네\n"
 "잘 부탁해"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]무리한 일 부탁해서 미안허이"
+msgstr "[Sound1 bytes=\"0900\"]무리한 일 부탁해서 미안허이"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]자네는 여기 처음 와보나?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]자네는 여기 처음 와보나?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]잘 부탁해…[Pause frames=\"30\"]\n"
+"[Sound1 bytes=\"0610\"]잘 부탁해…[Pause frames=\"30\"]\n"
 "하지만 무리는 하지 말고"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]별것 아니지만 답례야!"
+msgstr "[Sound1 bytes=\"0100\"]별것 아니지만 답례야!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]그렇구먼[Pause frames=\"15\"]\n"
+"[Sound1 bytes=\"0000\"]그렇구먼[Pause frames=\"15\"]\n"
 "이곳은 양질의 말이 많이 서식하는 평원이라\n"
 "예전에는 유목민이 모여 번창했던 곳이지\n"
 "하지만…[Pause frames=\"30\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]저 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]\n"
-"누가 좀 쫓아내 주지 않을까…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0301\"]저 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]\n"
+"누가 좀 쫓아내 주지 않을까…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "맡겨만 두세요"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]자네가 저 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]을\n"
+"[Sound1 bytes=\"0712\"]자네가 저 [Color name=\"red\"]난동꾼들[Color name=\"unset\"]을\n"
 "쫓아내 준 겐가?"
 
 msgid "0001"
@@ -64,7 +64,7 @@ msgstr "죄송합니다"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]말한테 주면 좋아할 거야\n"
+"[Sound1 bytes=\"0000\"]말한테 주면 좋아할 거야\n"
 "아주 좋아하지"
 
 msgid "0002"

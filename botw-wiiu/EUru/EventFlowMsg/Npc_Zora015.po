@@ -1,33 +1,33 @@
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Линк, дожди перестали.[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Значит, [Color name=\"blue\"]Рута[Color name=\"unset\"] наконец успокоилась?.."
+msgstr "[Sound1 bytes=\"0001\"]Линк, дожди перестали.[PageBreak][Sound1 bytes=\"0010\"]Значит, [Color name=\"blue\"]Рута[Color name=\"unset\"] наконец успокоилась?.."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Здравствуй."
+msgstr "[Sound1 bytes=\"0602\"]Здравствуй."
 
 msgid "0000"
 msgstr "Эта статуя..."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Поздно-то как..."
+msgstr "[Sound1 bytes=\"0602\"]Поздно-то как..."
 
 msgid "0001"
 msgstr "До свидания"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Привет."
+msgstr "[Sound1 bytes=\"0602\"]Привет."
 
 msgid "0002"
 msgstr "Верно"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Ну зачем же обманывать?.."
+msgstr "[Sound1 bytes=\"0010\"]Ну зачем же обманывать?.."
 
 msgid "0003"
 msgstr "Нет"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Позволь представиться:\n"
+"[Sound1 bytes=\"0004\"]Позволь представиться:\n"
 "я Лямоль, королевский\n"
 "секретарь.[PageBreak]..."
 
@@ -35,23 +35,23 @@ msgid "0004"
 msgstr "Нравится"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Тебе нравится статуя госпожи Мифы?[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B06\"]Тебе нравится статуя госпожи Мифы?[Choice2 label1=\"4\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]До свидания."
+msgstr "[Sound1 bytes=\"0012\"]До свидания."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]У тебя вопрос?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]У тебя вопрос?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Ты...[PauseShort] хайлиец, верно?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0006\"]Ты...[PauseShort] хайлиец, верно?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Прошу прощения, если мое\n"
+"[Sound1 bytes=\"0004\"]Прошу прощения, если мое\n"
 "объяснение покажется тебе\n"
 "очевидным.[PageBreak]Это статуя великого Воина\n"
-"зора — госпожи Мифы.[PageBreak][Sound1 unk1=\"0\" unk2=\"11\"]Она была очень доброй и красивой.[PauseShort]\n"
+"зора — госпожи Мифы.[PageBreak][Sound1 bytes=\"000B\"]Она была очень доброй и красивой.[PauseShort]\n"
 "Говорят, она исцеляла раны наших\n"
 "бойцов одним прикосновением..."
 
@@ -60,13 +60,13 @@ msgstr "Ладно..."
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]Левр[Color name=\"unset\"] — свирепый монстр.[PauseShort] Хочу, чтобы\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]Левр[Color name=\"unset\"] — свирепый монстр.[PauseShort] Хочу, чтобы\n"
 "наша молодежь знала, насколько он\n"
 "опасен."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Бойцы того времени превратились\n"
+"[Sound1 bytes=\"0010\"]Бойцы того времени превратились\n"
 "в дряхлых стариков, но до сих пор\n"
 "помнят и почитают госпожу Мифу.[PageBreak]Если хочешь узнать о ней больше,\n"
 "поговори с кем-нибудь из них."
@@ -76,13 +76,13 @@ msgstr "Надо подумать..."
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]Линк, говорят, это ты усмирил [Color name=\"blue\"]Руту[Color name=\"unset\"]![PageBreak][Color name=\"blue\"]Владения зора[Color name=\"unset\"] спасены![PauseShort] Теперь\n"
+"[Sound1 bytes=\"000B\"]Линк, говорят, это ты усмирил [Color name=\"blue\"]Руту[Color name=\"unset\"]![PageBreak][Color name=\"blue\"]Владения зора[Color name=\"unset\"] спасены![PauseShort] Теперь\n"
 "душа госпожи Мифы обретет покой."
 
 msgid "LookPicture"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]А-а-а![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Извини.[PauseShort] Мне уже лучше.[Color name=\"red\"][PauseShort]\n"
-"Левр[Color name=\"unset\"] такой страшный...[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Достаточно один раз его увидеть —\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]А-а-а![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0010\"]Извини.[PauseShort] Мне уже лучше.[Color name=\"red\"][PauseShort]\n"
+"Левр[Color name=\"unset\"] такой страшный...[PageBreak][Sound1 bytes=\"0004\"]Достаточно один раз его увидеть —\n"
 "и поймешь, что на [Color name=\"blue\"]Пик Молний[Color name=\"unset\"] лучше\n"
 "не ходить."
 
@@ -90,21 +90,21 @@ msgid "near02"
 msgstr "Столько пострадавших..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Госпожа Мифа и мы..."
+msgstr "[Sound1 bytes=\"0001\"]Госпожа Мифа и мы..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Мы все тебе очень благодарны, Линк."
+msgstr "[Sound1 bytes=\"0009\"]Мы все тебе очень благодарны, Линк."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Ты [Color name=\"blue\"]хайлиец[Color name=\"unset\"], которого пригласил\n"
-"[Color name=\"red\"]принц Сидон[Color name=\"unset\"], верно?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0006\"]Ты [Color name=\"blue\"]хайлиец[Color name=\"unset\"], которого пригласил\n"
+"[Color name=\"red\"]принц Сидон[Color name=\"unset\"], верно?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]Доброе утро."
+msgstr "[Sound1 bytes=\"0602\"]Доброе утро."
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]Извини, мне некогда.[PageBreak][Size percent=\"80\"]Он на [Color name=\"blue\"]Пике Молний[Color name=\"unset\"]...[PauseShort] хм...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B10\"]Извини, мне некогда.[PageBreak][Size percent=\"80\"]Он на [Color name=\"blue\"]Пике Молний[Color name=\"unset\"]...[PauseShort] хм...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAGUAgAAAAAAABwAAAAEAAAAeAAAAJAAAACoAAAAwAAAAMIAAADEAAAAxgAAAMgAAADKAAAA4gAAAPoAAAASAQAAKgEAAEIBAABaAQAAcgEAAIoBAACiAQAAugEAANIBAADqAQAAAgIAABoCAAAyAgAASgIAAGICAAB6AgAAfAIAAE4AcABjAF8AWgBvAHIAYQAwADEANQAAAE4AcABjAF8AWgBvAHIAYQAwADEANQAAAE4AcABjAF8AWgBvAHIAYQAwADEANQAAAAAAAAAAAAAAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAABOAHAAYwBfAFoAbwByAGEAMAAxADUAAAAAAE4AcABjAF8AWgBvAHIAYQAwADEANQAAAAAAAA=="

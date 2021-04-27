@@ -1,22 +1,22 @@
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ふむ… [PauseShort]ハイリアの観光客ゴロか…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]ふむ… [PauseShort]ハイリアの観光客ゴロか…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ヌルいゴロ\n"
+"[Sound1 bytes=\"0000\"]ヌルいゴロ\n"
 "\n"
 "本当は もっとあつ～い湯に\n"
 "入りたいんじゃが [PauseShort]落石がひどくての…"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ふむ…"
+msgstr "[Sound1 bytes=\"0000\"]ふむ…"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]しかし お前さんのような[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]しかし お前さんのような[PauseShort]\n"
 "耐火準備万端の観光客も 珍しいゴロ\n"
 "[Color name=\"blue\"]ルーダニア[Color name=\"unset\"]も 大人しくなったようだし[PauseShort]\n"
 "これで ゆっくり温泉に浸かれるゴロ"
@@ -27,14 +27,14 @@ msgstr "～♪"
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ヌルいゴロ\n"
+"[Sound1 bytes=\"0000\"]ヌルいゴロ\n"
 "\n"
 "本当は もっとあつ～い湯に 入りたいゴロ"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]もっとも [Color name=\"red\"]オルディン橋[Color name=\"unset\"]の向こうに行くのは[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]もっとも [Color name=\"red\"]オルディン橋[Color name=\"unset\"]の向こうに行くのは[PauseShort]\n"
 "無理ゴロよ\n"
 "[Color name=\"blue\"]ルーダニア[Color name=\"unset\"]が こっちへ来んように[PauseShort]\n"
 "[Color name=\"blue\"]組長[Color name=\"unset\"]が[Color name=\"red\"]オルディン橋[Color name=\"unset\"]を 上げとるかも知れんでな"
@@ -42,7 +42,7 @@ msgstr ""
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]しかし お前さんのようなハイリア人は[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]しかし お前さんのようなハイリア人は[PauseShort]\n"
 "これ以上熱い所には 近づかんほうがええゴロ\n"
 "特に[Color name=\"red\"]オルディン橋[Color name=\"unset\"]より先は[PauseShort]\n"
 "ここよりもさらに熱いゴロ"
@@ -50,7 +50,7 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それでも [Color name=\"blue\"]ルーダニア[Color name=\"unset\"]には\n"
+"[Sound1 bytes=\"0004\"]それでも [Color name=\"blue\"]ルーダニア[Color name=\"unset\"]には\n"
 "絶対に近づいちゃダメゴロよ\n"
 "[Color name=\"blue\"]ルーダニア[Color name=\"unset\"]に近づこうもんなら[PauseShort]\n"
 "いくら耐火準備万端のあんたでも\n"
@@ -59,23 +59,23 @@ msgstr ""
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]しかし お前さんのような[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]しかし お前さんのような[PauseShort]\n"
 "耐火準備万端の観光客も 珍しいゴロ"
 
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]あと [Color name=\"blue\"]ルーダニア[Color name=\"unset\"]には\n"
+"[Sound1 bytes=\"0004\"]あと [Color name=\"blue\"]ルーダニア[Color name=\"unset\"]には\n"
 "絶対に近づいちゃダメゴロよ\n"
 "[Color name=\"blue\"]ルーダニア[Color name=\"unset\"]に近づこうもんなら[PauseShort]\n"
 "燃えて灰になってしまうゴロよ"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]…はい[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0002\"]…はい[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]誰ゴロ [PauseShort]朝風呂の邪魔をするのは…"
+msgstr "[Sound1 bytes=\"0006\"]誰ゴロ [PauseShort]朝風呂の邪魔をするのは…"
 
 #, ruby
 msgid "0000"
@@ -83,18 +83,18 @@ msgstr "湯加減どう？"
 
 #, ruby
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]誰ゴロ "
+msgstr "[Sound1 bytes=\"0006\"]誰ゴロ "
 
 msgid "0001"
 msgstr "ごめんなさい"
 
 #, ruby
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]誰ゴロ [PauseShort]湯治の邪魔をするのは…"
+msgstr "[Sound1 bytes=\"0006\"]誰ゴロ [PauseShort]湯治の邪魔をするのは…"
 
 #, ruby
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]誰ゴロ [PauseShort]せっかくの月見風呂が台無しゴロ…"
+msgstr "[Sound1 bytes=\"0006\"]誰ゴロ [PauseShort]せっかくの月見風呂が台無しゴロ…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAH0AQAAAAAAABIAAAAEAAAAUAAAAGoAAABsAAAAbgAAAIgAAACiAAAAvAAAANYAAADwAAAACgEAACQBAAA+AQAAWAEAAHIBAACMAQAApgEAAMABAADaAQAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAAAAAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAyAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADIAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMgAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAyAAAAAAAA"

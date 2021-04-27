@@ -1,49 +1,49 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Я спать хочу.[PauseShort] Пока."
+msgstr "[Sound1 bytes=\"0012\"]Я спать хочу.[PauseShort] Пока."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ладно, я пошел![PauseShort] Пока."
+msgstr "[Sound1 bytes=\"0000\"]Ладно, я пошел![PauseShort] Пока."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Дядя, мне надо спать."
+msgstr "[Sound1 bytes=\"0012\"]Дядя, мне надо спать."
 
 msgid "near01"
 msgstr "Уф..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]М-м-н-н...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]М-м-н-н...[Size percent=\"100\"]"
 
 msgid "near02"
 msgstr "..."
 
 msgid "talk05"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]М-м-н-н... Хм-м...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]М-м-н-н... Хм-м...[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "Хр-р-р..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Эй, дядя![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Эй, дядя![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near04"
 msgstr "Хм..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ну пока..."
+msgstr "[Sound1 bytes=\"0001\"]Ну пока..."
 
 msgid "near05"
 msgstr "Сюда! Сюда!"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Я нашел такую крутую\n"
-"штуку![PauseShort] Хочешь, покажу?[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0009\"]Я нашел такую крутую\n"
+"штуку![PauseShort] Хочешь, покажу?[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near06"
 msgstr "Вот!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Дядя, ты что, со статуей говорил?[Choice1 label=\"4\"]"
+msgstr "[Sound1 bytes=\"0B06\"]Дядя, ты что, со статуей говорил?[Choice1 label=\"4\"]"
 
 msgid "0000"
 msgstr "Что случилось?"
@@ -55,31 +55,31 @@ msgid "0002"
 msgstr "Хочу!"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Ура![PauseShort] Иди за мной!"
+msgstr "[Sound1 bytes=\"0701\"]Ура![PauseShort] Иди за мной!"
 
 msgid "0004"
 msgstr "Ну..."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"10\"]Пойдем!"
+msgstr "[Sound1 bytes=\"000A\"]Пойдем!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Вот![PauseShort] Круто, правда?"
+msgstr "[Sound1 bytes=\"070A\"]Вот![PauseShort] Круто, правда?"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"11\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"]!.."
+msgstr "[Sound1 bytes=\"060B\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"]!.."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]Эта статуя похожа на ту, которая\n"
+"[Sound1 bytes=\"0B10\"]Эта статуя похожа на ту, которая\n"
 "стоит у дома [Color name=\"blue\"]старосты[Color name=\"unset\"]..."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]А [Color name=\"blue\"]синий огонь[Color name=\"unset\"] горячий?"
+msgstr "[Sound1 bytes=\"0B06\"]А [Color name=\"blue\"]синий огонь[Color name=\"unset\"] горячий?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Ух ты![PauseShort] Ты умеешь разговаривать\n"
+"[Sound1 bytes=\"0A00\"]Ух ты![PauseShort] Ты умеешь разговаривать\n"
 "со статуями![PauseShort] Вот это круто!"
 
 msgid "_ReadOnly_MsbtExtras"

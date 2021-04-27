@@ -1,23 +1,23 @@
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Откуда ты только такой взялся![PauseShort]\n"
+"[Sound1 bytes=\"0700\"]Откуда ты только такой взялся![PauseShort]\n"
 "Я тебе ужасно благодарна![PageBreak]И вот еще — возьми, пожалуйста."
 
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]Ох как я напугалась![PauseShort] Не\n"
-"ожидала, что так получится.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Вот, возьми, пожалуйста."
+"[Sound1 bytes=\"0300\"]Ох как я напугалась![PauseShort] Не\n"
+"ожидала, что так получится.[PageBreak][Sound1 bytes=\"0001\"]Вот, возьми, пожалуйста."
 
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]Если бы не ты!..[PauseShort] Страшно\n"
-"даже представить...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Спасибо.[PauseShort] Вот, возьми."
+"[Sound1 bytes=\"0300\"]Если бы не ты!..[PauseShort] Страшно\n"
+"даже представить...[PageBreak][Sound1 bytes=\"0001\"]Спасибо.[PauseShort] Вот, возьми."
 
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Ой, там монстр..."
+msgstr "[Sound1 bytes=\"032A\"]Ой, там монстр..."
 
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Что мне делать? Что делать?"
+msgstr "[Sound1 bytes=\"032A\"]Что мне делать? Что делать?"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"16\"]Мы в безопасности..."
@@ -26,65 +26,65 @@ msgid "Near01"
 msgstr "[Sound2 id=\"10\"]Хочу домой..."
 
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]У меня слов нет![PauseShort] Ты мне жизнь спас![PageBreak]Прими вот это в знак благодарности."
+msgstr "[Sound1 bytes=\"0700\"]У меня слов нет![PauseShort] Ты мне жизнь спас![PageBreak]Прими вот это в знак благодарности."
 
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"14\"]Ой-ой...[PageBreak]Это все сестра виновата — потащила\n"
+"[Sound1 bytes=\"090E\"]Ой-ой...[PageBreak]Это все сестра виновата — потащила\n"
 "меня из-за своих грибов куда-то..."
 
 msgid "SavedLv2_01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Не знаю, как тебя благодарить![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Э-э...[PauseShort] спасибо! И вот еще — держи."
+msgstr "[Sound1 bytes=\"0B00\"]Не знаю, как тебя благодарить![PageBreak][Sound1 bytes=\"0101\"]Э-э...[PauseShort] спасибо! И вот еще — держи."
 
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"14\"]Ох...[PauseShort] И откуда они взялись?..[PageBreak]Вот поэтому я не хотела\n"
+"[Sound1 bytes=\"090E\"]Ох...[PauseShort] И откуда они взялись?..[PageBreak]Вот поэтому я не хотела\n"
 "идти за грибами."
 
 msgid "After00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Мы искали грибы, и вдруг\n"
+"[Sound1 bytes=\"030C\"]Мы искали грибы, и вдруг\n"
 "на нас напали монстры...[PageBreak]Это все сестра виновата: сказала, что\n"
 "не пойдем домой, пока не насобираем\n"
 "чудо-трюфелей."
 
 msgid "Meeting00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Я говорила сестре, что опасно\n"
+"[Sound1 bytes=\"0900\"]Я говорила сестре, что опасно\n"
 "идти сюда за грибами.[PageBreak]Но когда она думает о грибах и о том,\n"
 "что их можно выгодно продать, до нее\n"
 "просто не достучишься."
 
 msgid "Meeting01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Мегин, давай скорее грибы искать![PageBreak]Без чудо-трюфелей домой не пойдем!"
+msgstr "[Sound1 bytes=\"0800\"]Мегин, давай скорее грибы искать![PageBreak]Без чудо-трюфелей домой не пойдем!"
 
 msgid "Meeting02"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Ох..."
+msgstr "[Sound1 bytes=\"0900\"]Ох..."
 
 msgid "PairFailed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]О нет, сестра... Что же это творится!"
+msgstr "[Sound1 bytes=\"032A\"]О нет, сестра... Что же это творится!"
 
 msgid "PairAtacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]На мою сестру напали..."
+msgstr "[Sound1 bytes=\"032A\"]На мою сестру напали..."
 
 msgid "PairFailed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"22\"]Сестренка!"
+msgstr "[Sound1 bytes=\"0316\"]Сестренка!"
 
 msgid "PairAtacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Прошу, спаси мою сестру!"
+msgstr "[Sound1 bytes=\"032A\"]Прошу, спаси мою сестру!"
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Если б не сестра со своими грибами,\n"
+"[Sound1 bytes=\"0900\"]Если б не сестра со своими грибами,\n"
 "мы бы не попали в такой переплет."
 
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Благодарю тебя, мой спаситель![PauseShort]\n"
+"[Sound1 bytes=\"0700\"]Благодарю тебя, мой спаситель![PauseShort]\n"
 "Возьми, пожалуйста, вот это."
 
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"9\" unk2=\"22\"]Ужас! Это страж!"
+msgstr "[Sound1 bytes=\"0916\"]Ужас! Это страж!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAGMAQAAAAAAABYAAAAEAAAAYAAAAGIAAABkAAAAZgAAAGgAAABqAAAAbAAAAG4AAABwAAAAcgAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAngAAAMAAAADiAAAABAEAACYBAABIAQAAagEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA5AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAwADkAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA4AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAwADkAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA5AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAAAAAA=="

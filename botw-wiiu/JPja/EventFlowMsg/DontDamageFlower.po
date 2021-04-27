@@ -20,7 +20,7 @@ msgstr "どうして… わかってくれないの…[Pause frames=\"30\"]"
 #, ruby
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]祠のまわりに お花を植えてあげたの\n"
+"[Sound1 bytes=\"0008\"]祠のまわりに お花を植えてあげたの\n"
 "くれぐれも踏まないようにね"
 
 msgid "Fail_Run_St2"
@@ -29,27 +29,27 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]もうっ　いやーーー！�
 #, ruby
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]お花を傷つけちゃダメ[Color name=\"unset\"]よ[PauseShort]\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]お花を傷つけちゃダメ[Color name=\"unset\"]よ[PauseShort]\n"
 "お花が 痛い痛いって 言っているわ"
 
 #, ruby
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]もー！ 何度言ったらわかるの！\n"
+"[Sound1 bytes=\"080E\"]もー！ 何度言ったらわかるの！\n"
 "[Color name=\"red\"]お花を大事にしなさい[Color name=\"unset\"]！ お花も生きてるのよ！"
 
 #, ruby
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]ほら～ ステキでしょう[PauseShort]\n"
+"[Sound1 bytes=\"0113\"]ほら～ ステキでしょう[PauseShort]\n"
 "祠のまわりに お花を植えてみたの\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]よかったら ゆっくり見て行ってちょうだい[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]よかったら ゆっくり見て行ってちょうだい[PauseMid]\n"
 "踏んだり 傷つけたりしないようにね！"
 
 #, ruby
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]一生懸命植えたお花\n"
+"[Sound1 bytes=\"0008\"]一生懸命植えたお花\n"
 "ゆっくり見ていってね！"
 
 #, ruby
@@ -65,7 +65,7 @@ msgstr ""
 #, ruby
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]こらっ！ いきなり何をしているの？\n"
+"[Sound1 bytes=\"080E\"]こらっ！ いきなり何をしているの？\n"
 "[Color name=\"red\"]お花を傷つけちゃダメ[Color name=\"unset\"]よ"
 
 msgid "_ReadOnly_MsbtExtras"

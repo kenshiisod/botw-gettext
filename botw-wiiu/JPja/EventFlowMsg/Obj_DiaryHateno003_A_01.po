@@ -9,7 +9,7 @@ msgstr ""
 "用意するもの… [Color name=\"blue\"]トリのタマゴ[Color name=\"unset\"]：数個\n"
 "[Color name=\"blue\"]フレッシュミルク[Color name=\"unset\"]\t：数本  [Color name=\"blue\"]きび砂糖[Color name=\"unset\"]：数本\n"
 "メモ… [Color name=\"blue\"]きび砂糖[Color name=\"unset\"]を手に入れるのが難しいが\n"
-"これを入れないと 確実に失敗する…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"これを入れないと 確実に失敗する…[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0003"
@@ -17,7 +17,7 @@ msgstr "見るのをやめる"
 
 #, ruby
 msgid "talk00"
-msgstr "アイビーの料理日記[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "アイビーの料理日記[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "キノコリゾットのページ"
@@ -30,7 +30,7 @@ msgstr ""
 "用意するもの [Color name=\"blue\"]ハイラルダケ[Color name=\"unset\"]：数本  [Color name=\"blue\"]岩塩[Color name=\"unset\"]：少々\n"
 "[Color name=\"blue\"]ハイラル米[Color name=\"unset\"]：1束  [Color name=\"blue\"]ヤギのバター[Color name=\"unset\"]：1個\n"
 "メモ… [Color name=\"blue\"]ハイラルダケ[Color name=\"unset\"]の代わりに\n"
-"[Color name=\"blue\"]マックスサーモン[Color name=\"unset\"]を入れても 美味しい[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Color name=\"blue\"]マックスサーモン[Color name=\"unset\"]を入れても 美味しい[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0001"
 msgstr "チキンピラフのページ"
@@ -42,7 +42,7 @@ msgstr ""
 "[Color name=\"blue\"]チキンピラフ[Color name=\"unset\"]\n"
 "用意するもの… [Color name=\"blue\"]トリ肉[Color name=\"unset\"]：数本 [Color name=\"blue\"]ハイラル米[Color name=\"unset\"]：適量\n"
 "[Color name=\"blue\"]トリのタマゴ[Color name=\"unset\"]：数個  [Color name=\"blue\"]ヤギのバター[Color name=\"unset\"]：1個\n"
-"メモ… 多少 量を間違えても 美味しく仕上がる[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"メモ… 多少 量を間違えても 美味しく仕上がる[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAHwAAAAAAAAAAgAAAAEAAAAKAAAACoAAAAsAAAALgAAADAAAABgAAAAkAAAAMAAAAAAAAAAAAAAAE8AYgBqAF8ARABpAGEAcgB5AEgAYQB0AGUAbgBvADAAMAAzAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AEgAYQB0AGUAbgBvADAAMAAzAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AEgAYQB0AGUAbgBvADAAMAAzAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AEgAYQB0AGUAbgBvADAAMAAzAF8AQQBfADAAMQAAAAAAAA=="

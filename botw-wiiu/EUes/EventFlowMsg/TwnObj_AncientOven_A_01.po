@@ -1,25 +1,25 @@
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Materiales insuficientes."
+msgstr "[Sound1 bytes=\"000E\"]Materiales insuficientes."
 
 msgid "0002"
 msgstr "Obtener"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Rupias insuficientes."
+msgstr "[Sound1 bytes=\"000E\"]Rupias insuficientes."
 
 msgid "0003"
 msgstr "Seleccionar otra"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"14\"]Espacio de almacenamiento insuficiente.\n"
+"[Sound1 bytes=\"000E\"]Espacio de almacenamiento insuficiente.\n"
 "Entrega de equipación imposible."
 
 msgid "talk09"
 msgstr "Reiniciando selección..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Bienvenido."
+msgstr "[Sound1 bytes=\"0002\"]Bienvenido."
 
 msgid "talk10"
 msgstr "¡Bienvenido! [PauseShort][Size percent=\"80\"]Piii... piii... piii...[Size percent=\"100\"]"
@@ -38,7 +38,7 @@ msgstr "Deposita materiales."
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]Gracias por utilizar mis servicios.[PauseShort]\n"
+"[Sound1 bytes=\"000B\"]Gracias por utilizar mis servicios.[PauseShort]\n"
 "Hasta la próxima."
 
 msgid "near02"
@@ -46,8 +46,8 @@ msgstr "Todo listo."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]¿Deseas obtener a cambio\n"
-"[C9:02][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0610\"]¿Deseas obtener a cambio\n"
+"[C9:02][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "A tu disposición."
@@ -56,7 +56,7 @@ msgid "talk04"
 msgstr "Procesando... [PauseShort][Size percent=\"80\"]Piii... piii... piii...[Size percent=\"100\"]"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"][Size percent=\"125\"]Proceso finalizado.[Size percent=\"100\"][PageBreak][Size percent=\"125\"]Iniciando siguiente fase...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"000B\"][Size percent=\"125\"]Proceso finalizado.[Size percent=\"100\"][PageBreak][Size percent=\"125\"]Iniciando siguiente fase...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEgAwAAAAAAABEAAAAEAAAATAAAAHwAAACsAAAA3AAAAAwBAAAOAQAAEAEAAEABAABwAQAAoAEAANABAAAAAgAAMAIAAGACAACQAgAAwAIAAPACAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAAAAAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAAAAA"

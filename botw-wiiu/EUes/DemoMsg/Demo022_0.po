@@ -2,11 +2,11 @@ msgid "0003"
 msgstr "¡Sí!"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Listo para proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]¿Listo para proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]¿Estás sin [Color name=\"blue\"]arco[Color name=\"unset\"]?[PauseMid] Entonces tendremos\n"
+"[Sound1 bytes=\"0601\"]¿Estás sin [Color name=\"blue\"]arco[Color name=\"unset\"]?[PauseMid] Entonces tendremos\n"
 "que dar la vuelta."
 
 msgid "0004"
@@ -14,46 +14,46 @@ msgstr "No..."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]¿Qué ha pasado?[PauseLong] ¿Seguro que\n"
-"quieres regresar?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"000C\"]¿Qué ha pasado?[PauseLong] ¿Seguro que\n"
+"quieres regresar?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"2\"]"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]¿Te has quedado sin [Color name=\"blue\"]flechas bomba[Color name=\"unset\"]?[PauseMid]\n"
+"[Sound1 bytes=\"0601\"]¿Te has quedado sin [Color name=\"blue\"]flechas bomba[Color name=\"unset\"]?[PauseMid]\n"
 "Entonces debemos dar la vuelta."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hum...[PauseShort] ¿Entonces estás listo\n"
-"para proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]Hum...[PauseShort] ¿Entonces estás listo\n"
+"para proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]El tiempo no nos lo va a poner fácil.[PauseLong]\n"
-"¿Vas preparado para [Color name=\"blue\"]resistir el frío[Color name=\"unset\"]?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0600\"]El tiempo no nos lo va a poner fácil.[PauseLong]\n"
+"¿Vas preparado para [Color name=\"blue\"]resistir el frío[Color name=\"unset\"]?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]¿Ocurre algo?[PauseShort] ¿Quieres proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0600\"]¿Ocurre algo?[PauseShort] ¿Quieres proseguir?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "¡Vamos allá!"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]¡Vamos allá![PauseShort] No puede quedar\n"
+"[Sound1 bytes=\"0000\"]¡Vamos allá![PauseShort] No puede quedar\n"
 "ni un solo [Color name=\"red\"]cañón[Color name=\"unset\"], recuérdalo."
 
 msgid "0001"
 msgstr "Debo prepararme"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]¡Entendido![PauseShort] Ten mucho cuidado."
+msgstr "[Sound1 bytes=\"0600\"]¡Entendido![PauseShort] Ten mucho cuidado."
 
 msgid "0002"
 msgstr "Volvamos a tierra"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]De acuerdo.[PauseShort] Volvamos a tierra pues."
+msgstr "[Sound1 bytes=\"0000\"]De acuerdo.[PauseShort] Volvamos a tierra pues."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAEIAAAAAAAAAA8AAAAAAAAAAAAA"

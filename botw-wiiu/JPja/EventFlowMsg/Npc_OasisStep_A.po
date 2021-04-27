@@ -5,7 +5,7 @@ msgstr "似合ってるぞ"
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]待て！ [Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0800\"]待て！ [Size percent=\"100\"]\n"
 "\n"
 "ここは許可なき者は通れぬ場所だ\n"
 "さっさとここから立ち去るがいい！"
@@ -13,7 +13,7 @@ msgstr ""
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"14\"][Color name=\"blue\"]族長様[Color name=\"unset\"]からお許しがでている\n"
+"[Sound1 bytes=\"000E\"][Color name=\"blue\"]族長様[Color name=\"unset\"]からお許しがでている\n"
 "お前は色々 特別だそうだ"
 
 msgid "_ReadOnly_MsbtExtras"

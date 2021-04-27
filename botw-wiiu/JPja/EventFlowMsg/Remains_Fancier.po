@@ -1,23 +1,23 @@
 #, ruby
 msgid "Talk_1000"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]マルリアンちゃん… [PauseMid]安心して\n"
+"[Sound1 bytes=\"0109\"]マルリアンちゃん… [PauseMid]安心して\n"
 "貴女を手放したりしないわ\n"
 "[Color name=\"red\"]飛んでいるの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]小さいの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]歩いている[Color name=\"unset\"]\n"
-"ガーディアンを見ない限り…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"ガーディアンを見ない限り…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_1001"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]え？ [PauseMid]誰かが何かを言っているですって？"
+msgstr "[Sound1 bytes=\"0006\"]え？ [PauseMid]誰かが何かを言っているですって？"
 
 #, ruby
 msgid "Talk_1100"
-msgstr "[Sound1 unk1=\"2\" unk2=\"1\"]見せる？ [PauseMid]ガーディアンを？"
+msgstr "[Sound1 bytes=\"0201\"]見せる？ [PauseMid]ガーディアンを？"
 
 #, ruby
 msgid "Talk_1101"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"]ちょっとアンタ[PauseMid]\n"
+"[Sound1 bytes=\"0801\"]ちょっとアンタ[PauseMid]\n"
 "私とマルリアンちゃんの 邪魔しないでくれる？[PauseAuto frames=\"60\"]"
 
 msgid "Near_00"
@@ -32,7 +32,7 @@ msgstr ""
 #, ruby
 msgid "Talk_1200"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]マルリアンちゃん… [PauseMid]貴女に夢中なのよ 私\n"
+"[Sound1 bytes=\"0101\"]マルリアンちゃん… [PauseMid]貴女に夢中なのよ 私\n"
 "何も聞こえないわ……"
 
 #, ruby
@@ -42,7 +42,7 @@ msgstr "見せてあげます"
 #, ruby
 msgid "Talk_1103"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]その絵……！ [PauseShort]飛ぶガーディアン！\n"
+"[Sound1 bytes=\"0A00\"]その絵……！ [PauseShort]飛ぶガーディアン！\n"
 "恐怖を感じる 美しいフォルム！[PauseAuto frames=\"60\"]"
 
 #, ruby
@@ -58,7 +58,7 @@ msgstr ""
 #, ruby
 msgid "Talk_1105"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"8\"]ちょっと まさか\n"
+"[Sound1 bytes=\"0708\"]ちょっと まさか\n"
 "二種類見せてくれたってことは…[PauseAuto frames=\"60\"]"
 
 msgid "0002"
@@ -67,7 +67,7 @@ msgstr "それはちょっと…"
 #, ruby
 msgid "Talk_1106"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]ふう…[PageBreak]ねえアナタ [PauseShort]その箱を私にちょうだい！\n"
+"[Sound1 bytes=\"0112\"]ふう…[PageBreak]ねえアナタ [PauseShort]その箱を私にちょうだい！\n"
 "毎日 見ていたいの！[Choice1 label=\"2\"]"
 
 #, ruby
@@ -77,13 +77,13 @@ msgstr "その球は？"
 #, ruby
 msgid "Talk_1107"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ダメ？ [PauseLong]そう… [PauseShort]残念…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]ダメ？ [PauseLong]そう… [PauseShort]残念…[PauseShort]\n"
 "絵を思い出して 手触りを妄想するしかないわね[Choice1 label=\"3\"]"
 
 #, ruby
 msgid "Talk_1108"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"6\"]え？ [PauseMid]ああ マルリアンちゃ… [PauseMid]球っころなら\n"
+"[Sound1 bytes=\"0106\"]え？ [PauseMid]ああ マルリアンちゃ… [PauseMid]球っころなら\n"
 "好きにしていいわよ\n"
 "私 今は頭の中に描いている\n"
 "ガーディアンちゃん達に夢中なの！"
@@ -97,11 +97,11 @@ msgstr ""
 #, ruby
 msgid "Talk_0000"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]マルリアンちゃんは 今日も美肌ね…[PageBreak]え？ [PauseMid]誰か見ているですって？[PauseLong]\n"
+"[Sound1 bytes=\"010A\"]マルリアンちゃんは 今日も美肌ね…[PageBreak]え？ [PauseMid]誰か見ているですって？[PauseLong]\n"
 "マルリアンちゃんってば 恥ずかしがり屋さん\n"
 "見せつけてあげればいいわ\n"
 "あなたの美しく輝く姿を…\n"
-"[Sound1 unk1=\"1\" unk2=\"6\"]え？ [PauseMid]その誰かが\n"
+"[Sound1 bytes=\"0106\"]え？ [PauseMid]その誰かが\n"
 "物欲しそうに見ているですって？\n"
 "心配しないで マルリアンちゃん\n"
 "私が貴女を 手放すわけが無いじゃない\n"
@@ -111,7 +111,7 @@ msgstr ""
 #, ruby
 msgid "Talk_0001"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"][Size percent=\"80\"]ごめんなさい マルリアンちゃん\n"
+"[Sound1 bytes=\"0301\"][Size percent=\"80\"]ごめんなさい マルリアンちゃん\n"
 "私 ウソをついたわ[Size percent=\"100\"]\n"
 "[Size percent=\"125\"][Sound2 id=\"6\"]ガーディアンを [PauseShort]見てみたいの！[PageBreak][Size percent=\"100\"][Color name=\"red\"]飛んでいるの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]小さいの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]歩いている[Color name=\"unset\"]\n"
 "ガーディアンを 全部見てみたいの…\n"
@@ -119,7 +119,7 @@ msgstr ""
 "新品の イキイキしたガーディアン…\n"
 "見てしまったら 私…\n"
 "貴女から 離れてしまうかもしれない\n"
-"[Sound1 unk1=\"1\" unk2=\"10\"]でも大丈夫よ \n"
+"[Sound1 bytes=\"010A\"]でも大丈夫よ \n"
 "ガーディアンに近づくのは 危険なこと\n"
 "[Color name=\"red\"]飛んでいるの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]小さいの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]歩いている[Color name=\"unset\"]\n"
 "ガーディアンを見るなんて 夢のまた夢…"
@@ -127,7 +127,7 @@ msgstr ""
 #, ruby
 msgid "Talk_0002"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]マルリアンちゃん… [PauseMid]安心して\n"
+"[Sound1 bytes=\"0109\"]マルリアンちゃん… [PauseMid]安心して\n"
 "貴女を手放したりしないわ\n"
 "[Color name=\"red\"]飛んでいるの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]小さいの[Color name=\"unset\"]と [PauseShort][Color name=\"red\"]歩いている[Color name=\"unset\"]\n"
 "ガーディアンを見ない限り…"

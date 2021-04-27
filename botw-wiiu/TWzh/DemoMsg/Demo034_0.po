@@ -1,7 +1,7 @@
 msgid "talk07"
 msgstr ""
 "以那[Color name=\"red\"]4個[Color name=\"unset\"][Color name=\"blue\"]考驗通過證[Color name=\"unset\"]為代價，\n"
-"我將賜你所求的力量。[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"我將賜你所求的力量。[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk08"
 msgstr "那麼，我就賜你所求的力量吧。"
@@ -91,7 +91,7 @@ msgstr ""
 msgid "talk14"
 msgstr ""
 "我知道了……\n"
-"那麼，你想要得到哪一種力量呢？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"那麼，你想要得到哪一種力量呢？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk27"
 msgstr ""
@@ -124,7 +124,7 @@ msgstr ""
 "應該無需再增加[Color name=\"blue\"]精力容器[Color name=\"unset\"]了。"
 
 msgid "talk04"
-msgstr "你想要增加[Color name=\"blue\"]心之容器[Color name=\"unset\"]，對嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "你想要增加[Color name=\"blue\"]心之容器[Color name=\"unset\"]，對嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk17"
 msgstr ""
@@ -132,13 +132,13 @@ msgstr ""
 "不應再奢求更多力量。"
 
 msgid "talk05"
-msgstr "你想要增加[Color name=\"blue\"]精力容器[Color name=\"unset\"]，對嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "你想要增加[Color name=\"blue\"]精力容器[Color name=\"unset\"]，對嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
-msgstr "你要增加[Color name=\"blue\"]心之容器[Color name=\"unset\"]嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "你要增加[Color name=\"blue\"]心之容器[Color name=\"unset\"]嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
-msgstr "你要增加[Color name=\"blue\"]精力容器[Color name=\"unset\"]嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "你要增加[Color name=\"blue\"]精力容器[Color name=\"unset\"]嗎？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAEIAAAAAAAAACAAAAAAAAAAAAAA"

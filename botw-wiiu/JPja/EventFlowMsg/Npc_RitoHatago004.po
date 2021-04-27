@@ -1,73 +1,73 @@
 #, ruby
 msgid "KyoukaiTalk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]ようこそ ここは[Color name=\"blue\"]馬宿[Color name=\"unset\"]です\n"
+"[Sound1 bytes=\"0102\"]ようこそ ここは[Color name=\"blue\"]馬宿[Color name=\"unset\"]です\n"
 "\n"
 "あなたが捕まえた野生馬を登録したり\n"
 "所有馬を連れ出したり 預けたりできます\n"
 "もし [Color name=\"red\"]お泊り[Color name=\"unset\"]を希望のさいは 店内の\n"
 "カウンターの方におまわりください\n"
-"さあ 御用は何でしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+"さあ 御用は何でしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Register20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは 自分の所有馬の証として[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]それでは 自分の所有馬の証として[PauseShort]\n"
 "馬の名前をお決めください\n"
-"[Sound1 unk1=\"10\" unk2=\"0\"]…と ちょっとお待ちください\n"
+"[Sound1 bytes=\"0A00\"]…と ちょっとお待ちください\n"
 "\n"
 "この馬は もしかしてあの伝説の馬「[Color name=\"red\"]エポナ[Color name=\"unset\"]」\n"
 "じゃないですか…？\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]さすがにこの馬においそれと違う名前を\n"
+"[Sound1 bytes=\"0B00\"]さすがにこの馬においそれと違う名前を\n"
 "つけるわけにはいきませんね…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]もう名前は「[Color name=\"red\"]エポナ[Color name=\"unset\"]」でよろしいですか？[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]もう名前は「[Color name=\"red\"]エポナ[Color name=\"unset\"]」でよろしいですか？[Choice2 label1=\"42\" label2=\"43\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "KyoukaiTalk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]ようこそ ここは[Color name=\"blue\"]馬宿[Color name=\"unset\"]です\n"
+"[Sound1 bytes=\"0102\"]ようこそ ここは[Color name=\"blue\"]馬宿[Color name=\"unset\"]です\n"
 "\n"
 "野生馬を捕まえて来たのであれば\n"
 "その馬を登録することができますよ\n"
 "もし [Color name=\"red\"]お泊り[Color name=\"unset\"]を希望のさいは 店内の\n"
 "カウンターの方におまわりください\n"
-"さあ 御用は何でしょうか？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+"さあ 御用は何でしょうか？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Register21"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]そう言われましても さすがにこの馬に\n"
+"[Sound1 bytes=\"0B00\"]そう言われましても さすがにこの馬に\n"
 "違う名前をつけるわけにはまいりません\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]名前は「[Color name=\"red\"]エポナ[Color name=\"unset\"]」で登録しておきますね？[Choice2 label1=\"42\" label2=\"43\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]名前は「[Color name=\"red\"]エポナ[Color name=\"unset\"]」で登録しておきますね？[Choice2 label1=\"42\" label2=\"43\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "KyoukaiTalk03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]他に御用はございますでしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0101\"]他に御用はございますでしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Register22"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]ありがとうございます\n"
+"[Sound1 bytes=\"0100\"]ありがとうございます\n"
 "\n"
 "それでは 馬の保全活動と\n"
 "馬宿オリジナルの[Color name=\"blue\"]くら[Color name=\"unset\"]と[Color name=\"blue\"]手綱[Color name=\"unset\"]の代金を含めまして\n"
 "登録料を [Color name=\"red\"]20ルピー[Color name=\"unset\"]いただきますが\n"
-"よろしいですか？[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+"よろしいですか？[Choice2 label1=\"40\" label2=\"41\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "KyoukaiTalk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]おぉ またまた 野生馬を捕まえてきたのですね！\n"
-"さっそく 登録なさいますか？[Choice2 label1=\"66\" label2=\"67\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]おぉ またまた 野生馬を捕まえてきたのですね！\n"
+"さっそく 登録なさいますか？[Choice2 label1=\"66\" label2=\"67\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Register23"
-msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]こちらの馬を登録なさいますか？[Choice2 label1=\"40\" label2=\"41\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0106\"]こちらの馬を登録なさいますか？[Choice2 label1=\"40\" label2=\"41\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk01_01"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"2\"]いらっしゃいませ[PauseLong]\n"
+"[Sound1 bytes=\"0602\"]いらっしゃいませ[PauseLong]\n"
 "おや お客さん ずいぶんお元気な格好で…\n"
 "夜や雨の日は 冷え込む事もございますので\n"
 "十分 お気を付けくださいね\n"
@@ -76,12 +76,12 @@ msgstr ""
 
 #, ruby
 msgid "KyoukaiTalk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]そうですか！ それは失礼しました…"
+msgstr "[Sound1 bytes=\"0000\"]そうですか！ それは失礼しました…"
 
 #, ruby
 msgid "Deliver00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]馬を連れ出すのですね[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]馬を連れ出すのですね[PauseLong]\n"
 "どの馬を連れて行きますか？"
 
 msgid "0040"
@@ -90,16 +90,16 @@ msgstr "はい"
 #, ruby
 msgid "KyoukaiTalk06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]いらっしゃいませ！ [Color name=\"blue\"]馬宿[Color name=\"unset\"]にようこそ！\n"
+"[Sound1 bytes=\"0102\"]いらっしゃいませ！ [Color name=\"blue\"]馬宿[Color name=\"unset\"]にようこそ！\n"
 "馬の登録 連れ出し なんでも お伺いします\n"
-"[04:03]さあ 御用はなんでしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" selectednum=\"0\" cancelnum=\"3\"]"
+"[04:03]さあ 御用はなんでしょうか？[Choice4 label1=\"62\" label2=\"63\" label3=\"64\" label4=\"65\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Deliver01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]今は馬の登録が無いようですね\n"
+"[Sound1 bytes=\"0B00\"]今は馬の登録が無いようですね\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬を登録するには 野生馬を捕まえて[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]馬を登録するには 野生馬を捕まえて[PauseShort]\n"
 "こちらまで連れて来てください \n"
 "登録すれば その馬は あなたのものになります"
 
@@ -109,14 +109,14 @@ msgstr "いいえ"
 #, ruby
 msgid "KyoukaiTalk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]いらっしゃいませ！ [Color name=\"blue\"]馬宿[Color name=\"unset\"]にようこそ！\n"
+"[Sound1 bytes=\"0102\"]いらっしゃいませ！ [Color name=\"blue\"]馬宿[Color name=\"unset\"]にようこそ！\n"
 "\n"
 "野生馬を捕まえて来たのであれば\n"
 "所有馬に ご登録することができます\n"
-"[04:03]さあ 御用は何でしょうか？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" selectednum=\"0\" cancelnum=\"2\"]"
+"[04:03]さあ 御用は何でしょうか？[Choice3 label1=\"64\" label2=\"52\" label3=\"65\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Deliver02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"6\"][Color name=\"red\"][StableHorse][Color name=\"unset\"] でよろしいですか？[Choice2 label1=\"20\" label2=\"21\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0106\"][Color name=\"red\"][StableHorse][Color name=\"unset\"] でよろしいですか？[Choice2 label1=\"20\" label2=\"21\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0042"
 msgstr "はい"
@@ -124,7 +124,7 @@ msgstr "はい"
 #, ruby
 msgid "Deliver03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] は\n"
+"[Sound1 bytes=\"0100\"]それでは [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] は\n"
 "こちらでお預かり致します\n"
 "しばらく お待ちください"
 
@@ -135,61 +135,61 @@ msgstr "変えたい"
 #, ruby
 msgid "Deliver04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]お待たせいたしました\n"
+"[Sound1 bytes=\"0700\"]お待たせいたしました\n"
 "ご利用 ありがとうございます"
 
 #, ruby
 msgid "Deliver05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは お手続き致します\n"
+"[Sound1 bytes=\"0100\"]それでは お手続き致します\n"
 "しばらく お待ちください"
 
 #, ruby
 msgid "Deliver06"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]それでは 他の馬になさいますか？"
+msgstr "[Sound1 bytes=\"0101\"]それでは 他の馬になさいますか？"
 
 #, ruby
 msgid "Deliver07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは今 お連れ中の\n"
+"[Sound1 bytes=\"0100\"]それでは今 お連れ中の\n"
 " [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] を呼び戻します\n"
 "しばらく お待ちください"
 
 #, ruby
 msgid "Register11"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そうですか…\n"
+"[Sound1 bytes=\"0900\"]そうですか…\n"
 "別れというのは いつでも寂しいものです…\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]ただし ご安心ください[PauseLong]  この馬は\n"
+"[Sound1 bytes=\"0100\"]ただし ご安心ください[PauseLong]  この馬は\n"
 "馬の保全協会の方で 大切に育てていきますので"
 
 #, ruby
 msgid "Receive01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]今は所有馬をお連れではないみたいですね[PauseLong]\n"
+"[Sound1 bytes=\"0B00\"]今は所有馬をお連れではないみたいですね[PauseLong]\n"
 "所有馬をお連れの場合お預かりいたしますので"
 
 #, ruby
 msgid "Register12"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]あ…[PauseShort] 今回は野生馬の登録を やめるのですね\n"
+"[Sound1 bytes=\"0510\"]あ…[PauseShort] 今回は野生馬の登録を やめるのですね\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]かしこまりました[PauseLong]\n"
+"[Sound1 bytes=\"0100\"]かしこまりました[PauseLong]\n"
 "またのご利用 お願い致します"
 
 #, ruby
 msgid "Receive02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]確かにお預かりしました"
+msgstr "[Sound1 bytes=\"0704\"]確かにお預かりしました"
 
 #, ruby
 msgid "Register13"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]どうか この子にあったお名前を\n"
+"[Sound1 bytes=\"0100\"]どうか この子にあったお名前を\n"
 "つけてあげてください"
 
 msgid "Receive03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]おやめになるのですね\n"
+"[Sound1 bytes=\"0000\"]おやめになるのですね\n"
 "かしこまりました"
 
 #, ruby
@@ -199,13 +199,13 @@ msgstr "手放す"
 #, ruby
 msgid "Register14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ありがとうございます[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]ありがとうございます[PauseLong]\n"
 "確かに料金を頂戴致しました"
 
 #, ruby
 msgid "Receive04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]はい…\n"
+"[Sound1 bytes=\"0104\"]はい…\n"
 "それでは またのご利用をお待ちしています"
 
 msgid "0031"
@@ -214,7 +214,7 @@ msgstr "やめる"
 #, ruby
 msgid "Register15"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]おや 残念ながら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0B00\"]おや 残念ながら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
 "お持ちのようではないですね…\n"
 "ルピーをお持ちでないお客様は馬に乗る資格を\n"
 "お持ちになれない という事ですので…\n"
@@ -223,7 +223,7 @@ msgstr ""
 #, ruby
 msgid "Advice01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]馬は街道沿いだったら 自然と街道に沿って\n"
+"[Sound1 bytes=\"0102\"]馬は街道沿いだったら 自然と街道に沿って\n"
 "走ってくれますよ\n"
 "街道を進む場合は 馬に道をゆだねて\n"
 "景色を楽しんでみてはいかがですか？"
@@ -231,8 +231,8 @@ msgstr ""
 #, ruby
 msgid "Receive05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]では お連れの馬 [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] を\n"
-"お預かりしますね？[PauseMid] よろしいですか？[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]では お連れの馬 [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] を\n"
+"お預かりしますね？[PauseMid] よろしいですか？[Choice2 label1=\"10\" label2=\"11\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0032"
 msgstr "はい"
@@ -240,13 +240,13 @@ msgstr "はい"
 #, ruby
 msgid "Register16"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]登録なさらないのですね[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]登録なさらないのですね[PauseShort]\n"
 "残念です…"
 
 #, ruby
 msgid "Advice02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"23\"]馬にとって 怖くて苦手な場所は\n"
+"[Sound1 bytes=\"0117\"]馬にとって 怖くて苦手な場所は\n"
 "どう手綱で操っても動こうといたしません\n"
 "そんな時は止まっている時に [Color name=\"red\"]注目[Color name=\"unset\"]しながら\n"
 "[Color name=\"red\"]ステップ移動[Color name=\"unset\"]で強制的に進ませる事ができますよ\n"
@@ -259,13 +259,13 @@ msgstr "いいえ"
 #, ruby
 msgid "Register17"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは 自分の所有馬の証として[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]それでは 自分の所有馬の証として[PauseShort]\n"
 "馬の名前をお決めください"
 
 #, ruby
 msgid "Advice03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]馬上から人に話しかける時は\n"
+"[Sound1 bytes=\"0102\"]馬上から人に話しかける時は\n"
 "その人に[Color name=\"red\"]注目[Color name=\"unset\"]しながら話しかけてください\n"
 "ただし ゆっくり移動している時しか\n"
 "話しかけられませんのでご注意くださいね"
@@ -273,9 +273,9 @@ msgstr ""
 #, ruby
 msgid "Register00_1"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ちょっ… ちょっと お客さん\n"
+"[Sound1 bytes=\"0A00\"]ちょっ… ちょっと お客さん\n"
 "その馬って… 魔物じゃないんですか？\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]さすがにそんな奇怪な馬はこちらで\n"
+"[Sound1 bytes=\"0B00\"]さすがにそんな奇怪な馬はこちらで\n"
 "お預かりできません…"
 
 msgid "0034"
@@ -284,29 +284,29 @@ msgstr "はい"
 #, ruby
 msgid "Register18"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]ああ そういえば…\n"
+"[Sound1 bytes=\"0B00\"]ああ そういえば…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]離れたところにいる 所有馬を 呼ぶ時は\n"
+"[Sound1 bytes=\"0100\"]離れたところにいる 所有馬を 呼ぶ時は\n"
 "口笛で呼べば とんで来てくれますよ！"
 
 #, ruby
 msgid "Advice04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]離れたところにいる 所有馬を 呼ぶ時は\n"
+"[Sound1 bytes=\"0102\"]離れたところにいる 所有馬を 呼ぶ時は\n"
 "口笛で呼べば とんで来てくれますので"
 
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby
 msgid "Register00_2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]かしこまりました…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]かしこまりました…[PauseLong]\n"
 "…って\n"
-"[Sound1 unk1=\"10\" unk2=\"17\"]え？ その馬 もしかして噂に聞くヌシ様？\n"
+"[Sound1 bytes=\"0A11\"]え？ その馬 もしかして噂に聞くヌシ様？\n"
 "\n"
 "[Sound2 id=\"40\"]ひえー！ そんなもの連れてこないでください\n"
 "バチがあたりますよ！！"
@@ -317,13 +317,13 @@ msgstr "やめる"
 #, ruby
 msgid "Register19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ただ あまり離れてると 馬には聞こえませんので\n"
+"[Sound1 bytes=\"0000\"]ただ あまり離れてると 馬には聞こえませんので\n"
 "ご注意くださいね！"
 
 #, ruby
 msgid "Advice05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]馬には [Color name=\"red\"]がんばり[Color name=\"unset\"]という 拍車をかけて\n"
+"[Sound1 bytes=\"0102\"]馬には [Color name=\"red\"]がんばり[Color name=\"unset\"]という 拍車をかけて\n"
 "高速で走る性能があります\n"
 "ただ 拍車をかけて 高速で走っている時は\n"
 "曲がりにくくなりますし…\n"
@@ -335,13 +335,13 @@ msgstr ""
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]おはようございます よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]おはようございます よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby
 msgid "Register00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]またまたご冗談…\n"
+"[Sound1 bytes=\"0B00\"]またまたご冗談…\n"
 "野生馬を捕まえておられませんよね…\n"
 "野生馬を捕まえるには 後ろからゆっくり近づき\n"
 "飛び乗ってくださいね"
@@ -349,9 +349,9 @@ msgstr ""
 #, ruby
 msgid "Register00_3"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]はい かしこまりました！\n"
+"[Sound1 bytes=\"0100\"]はい かしこまりました！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]ん？[Pause frames=\"30\"] ちょっと お客さん…\n"
+"[Sound1 bytes=\"0B00\"]ん？[Pause frames=\"30\"] ちょっと お客さん…\n"
 "それって 馬ではないですよね…？\n"
 "さすがに 馬でないものを\n"
 "お預かりする事はできません"
@@ -363,18 +363,18 @@ msgstr "連れて行く"
 #, ruby
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby
 msgid "Register01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]はい かしこまりました！\n"
+"[Sound1 bytes=\"0100\"]はい かしこまりました！\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]すいませんが あなたは登録できる上限を\n"
+"[Sound1 bytes=\"0900\"]すいませんが あなたは登録できる上限を\n"
 "超えておられるようです…\n"
 "どの馬か 手放す必要がございますが\n"
-"どうなさいますか？[Choice2 label1=\"30\" label2=\"31\" selectednum=\"0\" cancelnum=\"1\"]"
+"どうなさいますか？[Choice2 label1=\"30\" label2=\"31\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0037"
@@ -383,28 +383,28 @@ msgstr "預ける"
 #, ruby
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby
 msgid "Register02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]そうですか どの馬を手放しますか？"
+msgstr "[Sound1 bytes=\"0000\"]そうですか どの馬を手放しますか？"
 
 #, ruby
 msgid "Talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]お泊まりですか？"
+msgstr "[Sound1 bytes=\"0000\"]お泊まりですか？"
 
 #, ruby
 msgid "Register03"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]ここで手放すと 二度と戻すことはできませんが\n"
-"それでよろしいですね？[Choice2 label1=\"32\" label2=\"33\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0301\"]ここで手放すと 二度と戻すことはできませんが\n"
+"それでよろしいですね？[Choice2 label1=\"32\" label2=\"33\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]普通のベッドなら[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"ふかふかベッドなら[Color name=\"red\"]40ルピー[Color name=\"unset\"]になります[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0101\"]普通のベッドなら[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
+"ふかふかベッドなら[Color name=\"red\"]40ルピー[Color name=\"unset\"]になります[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0020"
@@ -413,14 +413,14 @@ msgstr "連れ出す"
 #, ruby
 msgid "Register04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]それでは 気を取り直して\n"
+"[Sound1 bytes=\"0100\"]それでは 気を取り直して\n"
 "新しく連れて来た野生馬を登録致します\n"
 "登録される馬を ご確認ください"
 
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]ふかふかのベッドは\n"
+"[Sound1 bytes=\"0704\"]ふかふかのベッドは\n"
 "馬宿自慢の特製ベッドでございます\n"
 "少々お高いですが 普通のベッドよりも\n"
 "元気になって起きることができますよ"
@@ -431,60 +431,60 @@ msgstr "やめる"
 #, ruby
 msgid "Register05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]かしこまりました\n"
+"[Sound1 bytes=\"0100\"]かしこまりました\n"
 "\n"
 "登録される馬は こちらになります\n"
 "ご確認ください"
 
 msgid "Register06"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"red\"][02:01 name=\"Horse_NewName\"][Color name=\"unset\"] で よろしいですね？[Choice2 label1=\"34\" label2=\"35\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0104\"][Color name=\"red\"][02:01 name=\"Horse_NewName\"][Color name=\"unset\"] で よろしいですね？[Choice2 label1=\"34\" label2=\"35\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Register07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]登録を承りました[PauseLong]\n"
-"そのまま連れて行かれますか？[Choice2 label1=\"36\" label2=\"37\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]登録を承りました[PauseLong]\n"
+"そのまま連れて行かれますか？[Choice2 label1=\"36\" label2=\"37\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Register08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]それでは [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] は\n"
+"[Sound1 bytes=\"070B\"]それでは [Color name=\"red\"][ActiveHorse][Color name=\"unset\"] は\n"
 "こちらでお預かりします"
 
 #, ruby
 msgid "Register09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]ありがとう ございます[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]ありがとう ございます[PauseLong]\n"
 "またよろしく お願い致します"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]いらっしゃいませ[PauseLong]\n"
+"[Sound1 bytes=\"0702\"]いらっしゃいませ[PauseLong]\n"
 "お泊まりですか？"
 
 #, ruby
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]またのお越しを！"
+msgstr "[Sound1 bytes=\"0104\"]またのお越しを！"
 
 #, ruby
 msgid "TalkHatu_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]ようこそ！[Pause frames=\"15\"] ここは馬の管理や\n"
+"[Sound1 bytes=\"0702\"]ようこそ！[Pause frames=\"15\"] ここは馬の管理や\n"
 "宿泊ができる[Color name=\"blue\"]馬宿[Color name=\"unset\"]でございます\n"
 "[04:03]…おや？[PauseShort] こちらのご利用は初めてですね？[PauseLong]\n"
-"[Color name=\"blue\"]馬宿[Color name=\"unset\"]のシステムは 熟知されてますか？[Choice2 label1=\"50\" label2=\"51\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"]馬宿[Color name=\"unset\"]のシステムは 熟知されてますか？[Choice2 label1=\"50\" label2=\"51\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]お客さん… お金が足りないようですね[PauseLong]\n"
+"[Sound1 bytes=\"0B00\"]お客さん… お金が足りないようですね[PauseLong]\n"
 "さすがに これではお泊めできませんよ"
 
 #, ruby
 msgid "TalkHatu_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]それでは僭越ながら 説明させていただきます\n"
+"[Sound1 bytes=\"0104\"]それでは僭越ながら 説明させていただきます\n"
 "\n"
 "ここでは あなたの所有する馬を預かったり[PauseShort]\n"
 "連れだしたりすることができます\n"
@@ -495,16 +495,16 @@ msgstr ""
 "お1人が所有できる 馬の数は最大5頭まで\n"
 "もちろん 気に入った馬を入れ替えれます\n"
 "[04:03]野生馬を捕まえる方法を\n"
-"お聞きになりたいですか？[Choice2 label1=\"52\" label2=\"53\" selectednum=\"0\" cancelnum=\"1\"]"
+"お聞きになりたいですか？[Choice2 label1=\"52\" label2=\"53\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]いつまで寝られますか？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0101\"]いつまで寝られますか？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "TalkHatu_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]それでは僭越ながら説明させていただきます\n"
+"[Sound1 bytes=\"0104\"]それでは僭越ながら説明させていただきます\n"
 "\n"
 "野生馬を捕まえるには 背後からゆっくり[PauseShort]\n"
 "気づかれないように 近付いて飛び乗るだけです\n"
@@ -512,23 +512,23 @@ msgstr ""
 "暴れたらすかさずなだめてください\n"
 "そのうち 大人しくなるので そうなったら\n"
 "ここまで連れてきてください\n"
-"[Sound1 unk1=\"11\" unk2=\"4\"]ただし 野生馬というだけあって\n"
+"[Sound1 bytes=\"0B04\"]ただし 野生馬というだけあって\n"
 "すぐに人には慣れませんので\n"
 "勝手に方向を変えたり スピードを\n"
 "落としたりと結構 気を使いますよ\n"
 "違う方向に進みだしたら 「こちらだよ」 と\n"
 "優しく指示してから なだめてあげてください\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]そうやって 馬と交流していくことで自然と\n"
+"[Sound1 bytes=\"0101\"]そうやって 馬と交流していくことで自然と\n"
 "懐いて いう事を聞くようになりますからね"
 
 #, ruby
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]いつまで寝られますか？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0101\"]いつまで寝られますか？[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "TalkHatu_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]そうですか 失礼致しました\n"
+"[Sound1 bytes=\"0500\"]そうですか 失礼致しました\n"
 "それでは 改めて…"
 
 #, ruby
@@ -536,34 +536,34 @@ msgid "0010"
 msgstr "預ける"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]では ごゆっくり！"
+msgstr "[Sound1 bytes=\"070B\"]では ごゆっくり！"
 
 #, ruby
 msgid "TalkHatu_05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]私から教えられることは以上です\n"
+"[Sound1 bytes=\"0104\"]私から教えられることは以上です\n"
 "それでは 改めて…"
 
 msgid "0011"
 msgstr "やめる"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]それでは ごゆっくり！！"
+msgstr "[Sound1 bytes=\"070B\"]それでは ごゆっくり！！"
 
 #, ruby
 msgid "TalkHatu_06"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]旅の方 ずいぶんとお元気そうな恰好で…"
+msgstr "[Sound1 bytes=\"0A00\"]旅の方 ずいぶんとお元気そうな恰好で…"
 
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]おはようございます よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]おはようございます よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]よく眠れましたか？[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]よく眠れましたか？[PauseLong]\n"
 "それでは 行ってらっしゃいませ"
 
 #, ruby

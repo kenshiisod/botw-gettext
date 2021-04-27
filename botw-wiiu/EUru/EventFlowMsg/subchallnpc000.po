@@ -1,34 +1,34 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Еще чуть-чуть...[PauseMid] еще совсем немного,\n"
+"[Sound1 bytes=\"0B01\"]Еще чуть-чуть...[PauseMid] еще совсем немного,\n"
 "и я разгадаю эту загадку..."
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Правда, братец?"
+msgstr "[Sound1 bytes=\"0000\"]Правда, братец?"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Потрясающе, братец![PauseShort]\n"
-"Ты почти разобрался![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]Потрясающе, братец![PauseShort]\n"
+"Ты почти разобрался![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Ага, но я уже близок к разгадке..."
+msgstr "[Sound1 bytes=\"0B01\"]Ага, но я уже близок к разгадке..."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Да быть не может!"
+msgstr "[Sound1 bytes=\"0800\"]Да быть не может!"
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]«Юный мост возник над рекой,\n"
+"[Sound1 bytes=\"0B00\"]«Юный мост возник над рекой,\n"
 "а в верховьях ее по ночам ревет\n"
 "белый дракон»."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Шутник нашелся!"
+msgstr "[Sound1 bytes=\"0414\"]Шутник нашелся!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"]Не может быть, что ты разгадал\n"
+"[Sound1 bytes=\"0801\"]Не может быть, что ты разгадал\n"
 "загадку раньше моего брата,\n"
 "опытнейшего кладоискателя!"
 
@@ -37,7 +37,7 @@ msgstr "Я разгадал загадку"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]Да, парень, иди своей дорогой.[PauseShort]\n"
+"[Sound1 bytes=\"020E\"]Да, парень, иди своей дорогой.[PauseShort]\n"
 "У меня ответ в голове крутится,\n"
 "а ты мешаешь!"
 
@@ -46,7 +46,7 @@ msgstr "Удачи!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Да, что-то крутится.[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]Да, что-то крутится.[PauseLong]\n"
 "Скоро разгадаем..."
 
 msgid "_ReadOnly_MsbtExtras"

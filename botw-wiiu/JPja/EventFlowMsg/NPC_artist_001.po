@@ -1,21 +1,21 @@
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]うむ[PauseShort] この馬宿から眺める火山は\n"
+"[Sound1 bytes=\"0B00\"]うむ[PauseShort] この馬宿から眺める火山は\n"
 "また 違った表情を見せているな……[PauseMid]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"4\"]うむ[PauseShort] この池は [Color name=\"blue\"]コモロ池[Color name=\"unset\"]だな\n"
+"[Sound1 bytes=\"0B04\"]うむ[PauseShort] この池は [Color name=\"blue\"]コモロ池[Color name=\"unset\"]だな\n"
 "ここから西にある 少し変わった形の池だ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]あの池の西側には 森がある\n"
+"[Sound1 bytes=\"0001\"]あの池の西側には 森がある\n"
 "木も描かれているから その辺りではないか？"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]私も以前 行ったことがあるが\n"
+"[Sound1 bytes=\"0109\"]私も以前 行ったことがあるが\n"
 "なかなか美しい池だったぞ"
 
 msgid "_ReadOnly_MsbtExtras"

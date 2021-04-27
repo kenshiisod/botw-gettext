@@ -28,11 +28,11 @@ msgstr ""
 "俺は元々 命と力を司る神だ\n"
 "\n"
 "預かった器を [Color name=\"red\"]ハート[Color name=\"unset\"]でも[Color name=\"red\"]がんばり[Color name=\"unset\"]でも…\n"
-"おまえのお望みの方で 返してやれるのだ[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+"おまえのお望みの方で 返してやれるのだ[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk86"
-msgstr "どちらの器で返してほしい？[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "どちらの器で返してほしい？[Choice3 label1=\"18\" label2=\"19\" label3=\"20\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk87"
 msgstr ""
@@ -89,7 +89,7 @@ msgstr "おい… それ以上 [Color name=\"blue\"]ハートの器[Color name=\
 
 #, ruby
 msgid "talk68"
-msgstr "どちらの[Color name=\"blue\"]器[Color name=\"unset\"]を預けるんだ？[Choice3 label1=\"4\" label2=\"5\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "どちらの[Color name=\"blue\"]器[Color name=\"unset\"]を預けるんだ？[Choice3 label1=\"4\" label2=\"5\" label3=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk44"
@@ -97,7 +97,7 @@ msgstr "おい… それ以上 [Color name=\"blue\"]がんばりの器[Color nam
 
 #, ruby
 msgid "talk69"
-msgstr "どちらの[Color name=\"blue\"]器[Color name=\"unset\"]を返すんだ？[Choice3 label1=\"4\" label2=\"5\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "どちらの[Color name=\"blue\"]器[Color name=\"unset\"]を返すんだ？[Choice3 label1=\"4\" label2=\"5\" label3=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0010"
@@ -105,7 +105,7 @@ msgstr "器を選び直す"
 
 #, ruby
 msgid "talk20"
-msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を返してほしいなら [Color name=\"red\"]120ルピー[Color name=\"unset\"]だ[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を返してほしいなら [Color name=\"red\"]120ルピー[Color name=\"unset\"]だ[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk45"
@@ -118,20 +118,20 @@ msgstr "はい"
 msgid "talk21"
 msgstr ""
 "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を預け\n"
-"[Color name=\"red\"]100ルピー[Color name=\"unset\"]を手に入れるんだな？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]100ルピー[Color name=\"unset\"]を手に入れるんだな？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0012"
 msgstr "いいえ"
 
 #, ruby
 msgid "talk22"
-msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を返してほしいなら [Color name=\"red\"]120ルピー[Color name=\"unset\"]だ[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を返してほしいなら [Color name=\"red\"]120ルピー[Color name=\"unset\"]だ[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk47"
 msgstr ""
 "今 預かっている[Color name=\"blue\"]器[Color name=\"unset\"]は１つもない\n"
-"買い取ってやろうか？[Choice2 label1=\"11\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"買い取ってやろうか？[Choice2 label1=\"11\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0013"
@@ -141,7 +141,7 @@ msgstr "詳しく教えて"
 msgid "talk23"
 msgstr ""
 "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を預け\n"
-"[Color name=\"red\"]100ルピー[Color name=\"unset\"]を手に入れるんだな？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]100ルピー[Color name=\"unset\"]を手に入れるんだな？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0015"
 msgstr "さようなら"
@@ -154,7 +154,7 @@ msgstr "何を恐れているんだ…"
 msgid "talk26"
 msgstr ""
 "今 [Color name=\"red\"][02:0E name=\"NpcDemonStatue_UtuwaSum\"]個[Color name=\"unset\"] [Color name=\"blue\"]器[Color name=\"unset\"]を預かってるが…\n"
-"さて どうする？[Choice3 label1=\"26\" label2=\"27\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+"さて どうする？[Choice3 label1=\"26\" label2=\"27\" label3=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0017"
@@ -210,7 +210,7 @@ msgstr ""
 msgid "talk53"
 msgstr ""
 "まさか… \n"
-"俺の声が聞こえるのか？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"2\"]"
+"俺の声が聞こえるのか？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk78"
@@ -234,7 +234,7 @@ msgstr "今はいい"
 
 #, ruby
 msgid "talk31"
-msgstr "[Color name=\"blue\"]器[Color name=\"unset\"]を取り引きしに来たんだろ？[Choice3 label1=\"0\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]器[Color name=\"unset\"]を取り引きしに来たんだろ？[Choice3 label1=\"0\" label2=\"13\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk32"
@@ -252,18 +252,18 @@ msgstr "祈りに来たか…"
 msgid "talk33"
 msgstr ""
 "俺の手元には まだ[Color name=\"blue\"]器[Color name=\"unset\"]が[Color name=\"blue\"][02:0E name=\"NpcDemonStatue_UtuwaSum\"]個[Color name=\"unset\"]あるが…\n"
-"[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を さらに返してほしいか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を さらに返してほしいか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk58"
-msgstr "…まだ祈り足りないのか？[Choice2 label1=\"17\" label2=\"24\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "…まだ祈り足りないのか？[Choice2 label1=\"17\" label2=\"24\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0024"
 msgstr "なんでもない"
 
 #, ruby
 msgid "talk34"
-msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を さらに預けるか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を さらに預けるか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk59"
 msgstr "フン…"
@@ -279,7 +279,7 @@ msgstr "しゃべった？！"
 msgid "talk35"
 msgstr ""
 "俺の手元には まだ[Color name=\"blue\"]器[Color name=\"unset\"]が[Color name=\"blue\"][02:0E name=\"NpcDemonStatue_UtuwaSum\"]個[Color name=\"unset\"]あるが…\n"
-"[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を さらに返そうか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を さらに返そうか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0001"
 msgstr "けっこうです"
@@ -290,7 +290,7 @@ msgstr "器を預ける"
 
 #, ruby
 msgid "talk36"
-msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を さらに預けるか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を さらに預けるか？[Choice3 label1=\"0\" label2=\"10\" label3=\"15\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0027"
@@ -339,7 +339,7 @@ msgstr ""
 "つまり… 差額[Color name=\"red\"]20ルピー[Color name=\"unset\"]で\n"
 "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]と[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を[Color name=\"red\"]交換[Color name=\"unset\"]できるわけだ\n"
 "どうだ？ 悪くない話だろう？\n"
-"さっそく 取り引きといこうじゃないか[Choice3 label1=\"0\" label2=\"13\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"さっそく 取り引きといこうじゃないか[Choice3 label1=\"0\" label2=\"13\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0009"
 msgstr "やめます"

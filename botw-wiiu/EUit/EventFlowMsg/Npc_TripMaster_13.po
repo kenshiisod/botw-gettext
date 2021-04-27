@@ -1,6 +1,6 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Chi si rivede![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Devo dire che questo freddo mi sta\n"
+"[Sound1 bytes=\"0102\"]Chi si rivede![PageBreak][Sound1 bytes=\"0001\"]Devo dire che questo freddo mi sta\n"
 "uccidendo... ma faccio di tutto per\n"
 "i miei clienti!"
 
@@ -44,7 +44,7 @@ msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]Che paura..."
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]Brrr..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]Brrr..."
 
 msgid "TerrorImpulse"
 msgstr "Oooh!"

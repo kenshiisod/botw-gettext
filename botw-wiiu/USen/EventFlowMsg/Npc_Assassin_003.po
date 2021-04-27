@@ -12,7 +12,7 @@ msgstr "Can't wait!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]About a year ago...[PauseLong]I was walking along\n"
+"[Sound1 bytes=\"0B00\"]About a year ago...[PauseLong]I was walking along\n"
 "the road here at night, when I suddenly\n"
 "saw a blinding light in the sky.\n"
 "When my eyes finally adjusted, I found\n"
@@ -26,11 +26,11 @@ msgid "0005"
 msgstr "..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]What...[PauseShort]do you think about that?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]What...[PauseShort]do you think about that?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"13\"]At first I thought it was just a bad dream.[PauseMid]\n"
+"[Sound1 bytes=\"0B0D\"]At first I thought it was just a bad dream.[PauseMid]\n"
 "But the bed I woke up in...[PauseMid]\n"
 "wasn't my bed.\n"
 "It was a bed full of liquid in an empty\n"
@@ -43,32 +43,32 @@ msgstr ""
 "familiarity.[PauseMid] When I came to, I was here..."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]What...[PauseShort]do you think about that?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]What...[PauseShort]do you think about that?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Does that story sound familiar...[PauseLong]\n"
+"[Sound1 bytes=\"0100\"]Does that story sound familiar...[PauseLong]\n"
 "Hylian Champion?"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Your story ends here, hero boy![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Your story ends here, hero boy![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Why so mum...[PauseMid]Hylian Champion?"
+msgstr "[Sound1 bytes=\"0000\"]Why so mum...[PauseMid]Hylian Champion?"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]FOR MASTER KOHGA![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]FOR MASTER KOHGA![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"14\"]*grumble*"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]I heard the weather is going to be nice\n"
-"tomorrow.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0019\"]I heard the weather is going to be nice\n"
+"tomorrow.[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Too bad you won't be alive to enjoy it..."
+msgstr "[Sound1 bytes=\"0101\"]Too bad you won't be alive to enjoy it..."
 
 msgid "0000"
 msgstr "Sounds like a dream."

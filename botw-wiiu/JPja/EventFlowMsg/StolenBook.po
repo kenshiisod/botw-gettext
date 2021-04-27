@@ -1,89 +1,89 @@
 #, ruby
 msgid "Npc_Kakariko002_R_010"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"17\"]リンクよ…[PauseShort] パーヤはすっかりおびえておる\n"
+"[Sound1 bytes=\"0511\"]リンクよ…[PauseShort] パーヤはすっかりおびえておる\n"
 "賊もまだ 近くにいるやもしれん…\n"
 "しばらくは パーヤの側にいてくれぬか…[PauseLong]"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]…リンク殿[PageBreak]私共が ついておりながら…[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]…リンク殿[PageBreak]私共が ついておりながら…[PauseShort]\n"
 "大変なことになってしまいました…\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]まさかこの屋敷に\n"
+"[Sound1 bytes=\"0B10\"]まさかこの屋敷に\n"
 "賊が侵入するなど…"
 
 #, ruby
 msgid "Npc_Kakariko002_R_011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]…リンク様…[PauseShort]\n"
+"[Sound1 bytes=\"0112\"]…リンク様…[PauseShort]\n"
 "ありがとうございました\n"
 "リンク様が 一日中側にいてくださったおかげで\n"
 "私も盗人に立ち向う勇気が 湧いてまいりました\n"
 "泣いてばかりは いられませんね…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ドゥラン[Color name=\"unset\"]や[Color name=\"blue\"]ボガード[Color name=\"unset\"]にも 確認いたしましたが\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]ドゥラン[Color name=\"unset\"]や[Color name=\"blue\"]ボガード[Color name=\"unset\"]にも 確認いたしましたが\n"
 "村人以外は 見かけていないと…[PauseLong]\n"
-"[Sound1 unk1=\"5\" unk2=\"12\"]私も[Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれた あの夜のことを\n"
+"[Sound1 bytes=\"050C\"]私も[Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれた あの夜のことを\n"
 "もう一度 思い出してみようと思いますが\n"
-"盗人は まだ近くに潜んでいるかもしれません[PauseShort][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]夜に 怪しい動きをする者を見つけられても\n"
+"盗人は まだ近くに潜んでいるかもしれません[PauseShort][PageBreak][Sound1 bytes=\"0000\"]夜に 怪しい動きをする者を見つけられても\n"
 "[Color name=\"red\"]決して 近づかれませぬよう[Color name=\"unset\"]…[PauseLong]"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"12\"]屋敷に 何者かが侵入し[PauseShort]\n"
+"[Sound1 bytes=\"0B0C\"]屋敷に 何者かが侵入し[PauseShort]\n"
 "パーヤ様の 大切な物を…"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]しかし一体 誰が[Color name=\"blue\"]宝珠[Color name=\"unset\"]を…[PauseLong][PageBreak]この屋敷に出入りしていた者は おりましたが[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]しかし一体 誰が[Color name=\"blue\"]宝珠[Color name=\"unset\"]を…[PauseLong][PageBreak]この屋敷に出入りしていた者は おりましたが[PauseShort]\n"
 "皆 村の者…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]怪しい者など 誰一人通りませんでした[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]怪しい者など 誰一人通りませんでした[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]昨日 この屋敷に出入りした者は…[PauseLong][PageBreak]服屋の[Color name=\"blue\"]ラズリ[Color name=\"unset\"]と[PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]昨日 この屋敷に出入りした者は…[PauseLong][PageBreak]服屋の[Color name=\"blue\"]ラズリ[Color name=\"unset\"]と[PauseLong]\n"
 "梅園の[Color name=\"blue\"]メロばあさん[Color name=\"unset\"]ぐらいですかね[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]他には 怪しい者は見ておりません"
+"[Sound1 bytes=\"0001\"]他には 怪しい者は見ておりません"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"12\"]まだ盗人は 近くにいるかもしれません[PauseMid]\n"
+"[Sound1 bytes=\"050C\"]まだ盗人は 近くにいるかもしれません[PauseMid]\n"
 "リンク殿もお気を付け下さい"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]おのれ～ 盗人め！[PageBreak]毎日 [Color name=\"blue\"]ドゥラン[Color name=\"unset\"]と見張っておるというのに[PauseShort]\n"
+"[Sound1 bytes=\"080E\"]おのれ～ 盗人め！[PageBreak]毎日 [Color name=\"blue\"]ドゥラン[Color name=\"unset\"]と見張っておるというのに[PauseShort]\n"
 "一体どうやって…\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]村人以外 この屋敷に近づく事さえできぬはず…[Choice2 label1=\"6\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B10\"]村人以外 この屋敷に近づく事さえできぬはず…[Choice2 label1=\"6\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]まったく こんな大変な時だっていうのに\n"
+"[Sound1 bytes=\"0012\"]まったく こんな大変な時だっていうのに\n"
 "[Color name=\"blue\"]ドゥラン[Color name=\"unset\"]は どこに行ってるんだか…[PauseLong]\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]もしかしたら\n"
+"[Sound1 bytes=\"0B10\"]もしかしたら\n"
 "[Color name=\"blue\"]高台の辺り[Color name=\"unset\"]まで 見回りに行ってくれてるのかな"
 
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ええ 村人なら 誰でも出入りできますので…[PageBreak]先日 屋敷に訪れたのは…\n"
+"[Sound1 bytes=\"0004\"]ええ 村人なら 誰でも出入りできますので…[PageBreak]先日 屋敷に訪れたのは…\n"
 "[Color name=\"blue\"]ラズリちゃん[Color name=\"unset\"]と[Color name=\"blue\"]メロさん[Color name=\"unset\"]だけですよ\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]いつもは昼間に来るんですが\n"
+"[Sound1 bytes=\"0B10\"]いつもは昼間に来るんですが\n"
 "そういえば 最近 夜に来ることが多いなぁ…\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]まあ 二人とも昼間は忙しいでしょうから\n"
+"[Sound1 bytes=\"0009\"]まあ 二人とも昼間は忙しいでしょうから\n"
 "夜に のんびりしたいんでしょうな"
 
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"4\"]しばらくは 我らも厳戒態勢[PauseShort]\n"
+"[Sound1 bytes=\"0204\"]しばらくは 我らも厳戒態勢[PauseShort]\n"
 "夜も [Color name=\"blue\"]ドゥラン[Color name=\"unset\"]と二人で見張っておりますので\n"
 "村は安全ではありますが[PauseShort]\n"
 "リンク殿も 夜は気を抜かれませぬよう…"
@@ -91,28 +91,28 @@ msgstr ""
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"6\"]あのさー…[PauseLong]\n"
+"[Sound1 bytes=\"0206\"]あのさー…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"1\"]いきなり夜の事聞くなんて\n"
+"[Sound1 bytes=\"0801\"]いきなり夜の事聞くなんて\n"
 "レディーに失礼じゃない？\n"
-"[Sound1 unk1=\"8\" unk2=\"14\"]そんなの 教えるわけないでしょ！"
+"[Sound1 bytes=\"080E\"]そんなの 教えるわけないでしょ！"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]用もないのに 話しかけるなんて…[PauseLong][PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]…お兄さん もしかしてラズリを…[PauseLong][PageBreak][Sound1 unk1=\"7\" unk2=\"20\"]好きになっちゃった？[PauseLong][PageBreak]やだっ[PauseShort] お兄さん好みだけど…[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]用もないのに 話しかけるなんて…[PauseLong][PageBreak][Sound1 bytes=\"0B01\"]…お兄さん もしかしてラズリを…[PauseLong][PageBreak][Sound1 bytes=\"0714\"]好きになっちゃった？[PauseLong][PageBreak]やだっ[PauseShort] お兄さん好みだけど…[PauseShort]\n"
 "ラズリは みんなのラズリなんだ！[PauseShort] ごめんね～"
 
 #, ruby
 msgid "Npc_Kakariko007_110"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]手ごわいですが 敵は一人です！\n"
+"[Sound1 bytes=\"080E\"]手ごわいですが 敵は一人です！\n"
 "ここで奴を倒しましょう！"
 
 #, ruby
 msgid "Npc_Kakariko007_111"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]私は これ以上 家族に魔の手が及ばないよう[PauseShort]\n"
+"[Sound1 bytes=\"0201\"]私は これ以上 家族に魔の手が及ばないよう[PauseShort]\n"
 "門番という立場を利用し\n"
 "アイツらに この村の…[PauseMid]\n"
 "貴方の情報を 流していたのです[PauseLong]"
@@ -124,19 +124,19 @@ msgstr "じいさんは行ったかの"
 #, ruby
 msgid "Npc_Kakariko002_R_001"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"37\"][Color name=\"blue\"]リンク様[Color name=\"unset\"]…[PauseLong][PageBreak]ちょっと 目を離した隙に…[PauseLong][PageBreak]パーヤは…\n"
-"パーヤは どうすれば…[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0925\"][Color name=\"blue\"]リンク様[Color name=\"unset\"]…[PauseLong][PageBreak]ちょっと 目を離した隙に…[PauseLong][PageBreak]パーヤは…\n"
+"パーヤは どうすれば…[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"22\"]ぬおっ！ これはこれはリンク殿\n"
-"こ… このような時間にどうされましたか？[Choice2 label1=\"7\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0416\"]ぬおっ！ これはこれはリンク殿\n"
+"こ… このような時間にどうされましたか？[Choice2 label1=\"7\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kakariko007_112"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]貴方様の お役に立てることが\n"
+"[Sound1 bytes=\"0501\"]貴方様の お役に立てることが\n"
 "パーヤ様の…[PauseShort] 皆の願いです"
 
 #, ruby
@@ -145,22 +145,22 @@ msgstr "自然に しとかんとな"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_Near010"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]どこだ！ 出てこい！"
+msgstr "[Sound1 bytes=\"020E\"]どこだ！ 出てこい！"
 
 #, ruby
 msgid "Npc_Kakariko002_R_002"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"1\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が…[PauseLong][PageBreak][Size percent=\"125\"][Sound1 unk1=\"3\" unk2=\"37\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてしまったのです…[Size percent=\"100\"][PauseLong][PageBreak]やっと… やっと あの[Color name=\"blue\"]宝珠[Color name=\"unset\"]の謎が[PauseShort]\n"
+"[Sound1 bytes=\"0901\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が…[PauseLong][PageBreak][Size percent=\"125\"][Sound1 bytes=\"0325\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてしまったのです…[Size percent=\"100\"][PauseLong][PageBreak]やっと… やっと あの[Color name=\"blue\"]宝珠[Color name=\"unset\"]の謎が[PauseShort]\n"
 "わかったところ でしたのに…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_2"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]私ですか？ [PauseShort]\n"
+"[Sound1 bytes=\"0A15\"]私ですか？ [PauseShort]\n"
 "ああ… [PauseShort]まあ…[PauseShort] 私はですね… \n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]村の… [PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]村の… [PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]そう！[PauseShort] 村の見回りをしているのです！\n"
+"[Sound1 bytes=\"0000\"]そう！[PauseShort] 村の見回りをしているのです！\n"
 "賊がまだ村に潜んでいるやもしれませんのでな！\n"
 "しかし… ボガード1人にお屋敷の警護を\n"
 "任せるのも気がかりですし\n"
@@ -169,7 +169,7 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Kakariko007_113"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]さぁ [Color name=\"blue\"]宝珠[Color name=\"unset\"]を[Color name=\"red\"]台座に お納めください[Color name=\"unset\"]"
+msgstr "[Sound1 bytes=\"0004\"]さぁ [Color name=\"blue\"]宝珠[Color name=\"unset\"]を[Color name=\"red\"]台座に お納めください[Color name=\"unset\"]"
 
 msgid "Near02"
 msgstr "ここまでくれば…"
@@ -177,22 +177,22 @@ msgstr "ここまでくれば…"
 #, ruby
 msgid "Npc_Kakariko002_R_003"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]元気なんかでるわけが[PauseShort]\n"
+"[Sound1 bytes=\"020E\"]元気なんかでるわけが[PauseShort]\n"
 "ないじゃないですか！[PauseLong]\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が…[PauseLong][PageBreak][Size percent=\"125\"][Sound1 unk1=\"3\" unk2=\"37\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてしまったのです…[Size percent=\"100\"][PauseLong][PageBreak]やっと… やっと あの[Color name=\"blue\"]宝珠[Color name=\"unset\"]の謎が[PauseShort]\n"
+"[Sound1 bytes=\"0901\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が…[PauseLong][PageBreak][Size percent=\"125\"][Sound1 bytes=\"0325\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてしまったのです…[Size percent=\"100\"][PauseLong][PageBreak]やっと… やっと あの[Color name=\"blue\"]宝珠[Color name=\"unset\"]の謎が[PauseShort]\n"
 "わかったところ でしたのに…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_3"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"4\"]こ… こんな時間に 怪しい動きをしていると[PauseShort]\n"
+"[Sound1 bytes=\"0404\"]こ… こんな時間に 怪しい動きをしていると[PauseShort]\n"
 "犯人に間違われてしまいますよ\n"
 "リ…[PauseShort] リンク殿も お気を付け下さい"
 
 #, ruby
 msgid "Npc_Kakariko007_114"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]このままだと奴は 村の者に何をするか…\n"
+"[Sound1 bytes=\"080E\"]このままだと奴は 村の者に何をするか…\n"
 "ここで決着をつけましょう！"
 
 msgid "Near03"
@@ -205,30 +205,30 @@ msgstr "何てことだ…"
 #, ruby
 msgid "Npc_Kakariko002_R_004"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"4\"]『この宝珠に認められし者\n"
-"古の加護をうけん』[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]パーヤはのう…[PauseMid]\n"
+"[Sound1 bytes=\"0504\"]『この宝珠に認められし者\n"
+"古の加護をうけん』[PauseLong][PageBreak][Sound1 bytes=\"0000\"]パーヤはのう…[PauseMid]\n"
 "この[Color name=\"red\"]宝珠に認められし者[Color name=\"unset\"]とは 其方のことだと\n"
 "寝る間も惜しんで[PauseShort]\n"
 "[Color name=\"blue\"]宝珠[Color name=\"unset\"]の謎を 調べておったのだ\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]そして [Color name=\"red\"]古の加護[Color name=\"unset\"]とは 村の高台にあるような[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]そして [Color name=\"red\"]古の加護[Color name=\"unset\"]とは 村の高台にあるような[PauseShort]\n"
 "[Color name=\"red\"]古代の祠[Color name=\"unset\"]のことであり…\n"
 "そしてまた あの[Color name=\"blue\"]宝珠[Color name=\"unset\"]は[PauseShort]\n"
 "[Color name=\"red\"]祠を開く鍵[Color name=\"unset\"]であることをつきとめ\n"
-"[Sound1 unk1=\"9\" unk2=\"17\"]それらを 其方に伝えるべく[PauseShort]\n"
+"[Sound1 bytes=\"0911\"]それらを 其方に伝えるべく[PauseShort]\n"
 "待っていた矢先に… [PauseMid]このようなことに…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_4"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]むおっ！ リンク殿？！[PauseLong]\n"
+"[Sound1 bytes=\"0A16\"]むおっ！ リンク殿？！[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]こ… このような場所で会うとは\n"
-"奇遇ですなぁ！[Choice2 label1=\"7\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0510\"]こ… このような場所で会うとは\n"
+"奇遇ですなぁ！[Choice2 label1=\"7\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kakariko007_115"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]リンク殿 どちらへ？\n"
+"[Sound1 bytes=\"0004\"]リンク殿 どちらへ？\n"
 "さあ [Color name=\"blue\"]宝珠[Color name=\"unset\"]を [Color name=\"red\"]お納めください[Color name=\"unset\"]"
 
 msgid "Npc_Kakariko002_Near"
@@ -241,29 +241,29 @@ msgstr "誰がこんなことを…"
 #, ruby
 msgid "Npc_Kakariko007_S1_002_5"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]し… しかし こんな時間に\n"
+"[Sound1 bytes=\"0510\"]し… しかし こんな時間に\n"
 "こんな所にいらっしゃるなんて\n"
 "不審者と間違われてしまいますよ\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]ははは…"
+"[Sound1 bytes=\"0009\"]ははは…"
 
 #, ruby
 msgid "Npc_Kakariko002_R_006"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"37\"]パーヤは 朝から夕刻まで[PauseShort]\n"
+"[Sound1 bytes=\"0925\"]パーヤは 朝から夕刻まで[PauseShort]\n"
 "毎日 [Color name=\"blue\"]宝珠[Color name=\"unset\"]を磨いておりました…\n"
 "闇夜に乗じて 何者かが忍びこんだことは[PauseShort]\n"
 "間違いないのですが…[PauseLong]\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]ここは 部外者は入れぬ場所…[PauseLong][PageBreak]この村に… そのようなことをする者は[PauseShort]\n"
+"[Sound1 bytes=\"0B01\"]ここは 部外者は入れぬ場所…[PauseLong][PageBreak]この村に… そのようなことをする者は[PauseShort]\n"
 "おらぬと 信じてはおりますが…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_6"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"21\"]私… ですか？ [PauseLong]\n"
+"[Sound1 bytes=\"0415\"]私… ですか？ [PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]私は… [PauseLong]夜の…[PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]私は… [PauseLong]夜の…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]そう！[PauseShort] 夜の散歩をしているのです！\n"
+"[Sound1 bytes=\"0001\"]そう！[PauseShort] 夜の散歩をしているのです！\n"
 "\n"
 "しかし… 少し遠くまで\n"
 "来すぎてしまったようです\n"
@@ -272,43 +272,43 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Kakariko007_117"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]さぁ この[Color name=\"blue\"]宝珠[Color name=\"unset\"]を[Color name=\"red\"]台座にお納めください[Color name=\"unset\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0001\"]さぁ この[Color name=\"blue\"]宝珠[Color name=\"unset\"]を[Color name=\"red\"]台座にお納めください[Color name=\"unset\"][PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_002_7"
-msgstr "[Sound1 unk1=\"4\" unk2=\"4\"]これはこれは リンク殿…"
+msgstr "[Sound1 bytes=\"0404\"]これはこれは リンク殿…"
 
 #, ruby
 msgid "Npc_Kakariko007_118"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]おおっ 祠が…[PauseMid]"
+msgstr "[Sound1 bytes=\"0414\"]おおっ 祠が…[PauseMid]"
 
 #, ruby
 msgid "Npc_Kakariko002_R_008"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"12\"]パーヤは毎日 [Color name=\"blue\"]宝珠[Color name=\"unset\"]を磨いておりました[PauseShort]\n"
+"[Sound1 bytes=\"050C\"]パーヤは毎日 [Color name=\"blue\"]宝珠[Color name=\"unset\"]を磨いておりました[PauseShort]\n"
 "盗人は闇夜に乗じ忍び込んだに違いありません…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ドゥラン[Color name=\"unset\"]や[Color name=\"blue\"]ボガード[Color name=\"unset\"]にも 確認いたしましたが\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]ドゥラン[Color name=\"unset\"]や[Color name=\"blue\"]ボガード[Color name=\"unset\"]にも 確認いたしましたが\n"
 "村人以外は 見かけていないと…[PauseLong]\n"
-"[Sound1 unk1=\"11\" unk2=\"12\"]しかし… この村にそのようなことをする者が\n"
+"[Sound1 bytes=\"0B0C\"]しかし… この村にそのようなことをする者が\n"
 "いるとは思えませんし…[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]それよりも [Color name=\"blue\"]宝珠[Color name=\"unset\"]がなくなって[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]それよりも [Color name=\"blue\"]宝珠[Color name=\"unset\"]がなくなって[PauseShort]\n"
 "まだ 間ものうございます\n"
-"盗人は まだ近くに潜んでいるかもしれませぬ[PauseShort][PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]夜に 怪しい動きをする者を見つけられても\n"
+"盗人は まだ近くに潜んでいるかもしれませぬ[PauseShort][PageBreak][Sound1 bytes=\"0301\"]夜に 怪しい動きをする者を見つけられても\n"
 "[Color name=\"red\"]決して 近づかれませぬよう[Color name=\"unset\"]…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko007_119"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]やはりその宝珠は祠を開くカギだったのですね\n"
+"[Sound1 bytes=\"0000\"]やはりその宝珠は祠を開くカギだったのですね\n"
 "よかった…[PauseLong]\n"
 "リンク様 その…"
 
 #, ruby
 msgid "Npc_Kakariko002_R_009"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]悪意を持った者が この神聖な場に…\n"
+"[Sound1 bytes=\"0301\"]悪意を持った者が この神聖な場に…\n"
 "祖母が無事であったのは 何よりですが\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]パーヤは…[PauseLong]\n"
+"[Sound1 bytes=\"0501\"]パーヤは…[PauseLong]\n"
 "パーヤは 恐ろしゅうございます…"
 
 msgid "Npc_Kakariko006_Near"
@@ -317,30 +317,30 @@ msgstr "ほほぅ…"
 #, ruby
 msgid "Npc_Kakariko007_101"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]いるんだろ！[PauseLong]\n"
+"[Sound1 bytes=\"080E\"]いるんだろ！[PauseLong]\n"
 "隠れてないで 出てこい！"
 
 #, ruby
 msgid "Npc_Kakariko007_102"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]宝珠を盗んだのは お前だな！"
+msgstr "[Sound1 bytes=\"0800\"]宝珠を盗んだのは お前だな！"
 
 #, ruby
 msgid "Npc_Kakariko007_103"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]なぜ 盗んだりなど…"
+msgstr "[Sound1 bytes=\"080E\"]なぜ 盗んだりなど…"
 
 msgid "Npc_Kakariko007_S1_Near001"
 msgstr "……"
 
 msgid "Npc_Kakariko007_104"
-msgstr "[Sound1 unk1=\"8\" unk2=\"44\"]くっ…[PauseLong]"
+msgstr "[Sound1 bytes=\"082C\"]くっ…[PauseLong]"
 
 msgid "Npc_Kakariko007_S1_Near002"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]まさか… アイツら…"
+msgstr "[Sound1 bytes=\"020E\"]まさか… アイツら…"
 
 #, ruby
 msgid "Npc_Kakariko007_105"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]まさか 後をつけられていたとは…\n"
+"[Sound1 bytes=\"0510\"]まさか 後をつけられていたとは…\n"
 "\n"
 "お気づきだと思いますが…\n"
 "今回のことは すべて私が招いたことなのです…"
@@ -351,11 +351,11 @@ msgstr "こうしてはおれん"
 #, ruby
 msgid "Npc_Kakariko007_106"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"12\"]しかし 私は再度 決意をしたのです[PauseShort]\n"
+"[Sound1 bytes=\"020C\"]しかし 私は再度 決意をしたのです[PauseShort]\n"
 "アイツらと 縁を切ることを！\n"
 "子供たちだけなら 私の手で守れる…[PauseShort]\n"
 "そう考えたのです\n"
-"[Sound1 unk1=\"8\" unk2=\"45\"]…しかし アイツらは 卑怯にも[PauseShort]\n"
+"[Sound1 bytes=\"082D\"]…しかし アイツらは 卑怯にも[PauseShort]\n"
 "インパ様やパーヤ様にまで 魔の手を…"
 
 #, ruby
@@ -365,7 +365,7 @@ msgstr "やはり戻るか…"
 #, ruby
 msgid "Npc_Kakariko007_107"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ご存知かと思いますが この[Color name=\"blue\"]宝珠[Color name=\"unset\"]は[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]ご存知かと思いますが この[Color name=\"blue\"]宝珠[Color name=\"unset\"]は[PauseShort]\n"
 "[Color name=\"red\"]古の祠を開く鍵[Color name=\"unset\"]だと分かりました\n"
 "私たちには 扱うことができませんでしたが[PauseShort]\n"
 "貴方様ならきっと…"
@@ -373,34 +373,34 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko007_108"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]勝手な お願いだとは 分かっておりますが[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]勝手な お願いだとは 分かっておりますが[PauseShort]\n"
 "今回のことは 秘密にしていただけませんか？\n"
 "子供達に…[PauseShort] ココナとプリコに[PauseShort]\n"
 "これ以上 つらい思いは させたくないのです\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]償えるものではないと 分かっておりますが[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]償えるものではないと 分かっておりますが[PauseShort]\n"
 "これからは命をかけて護るつもりです\n"
 "村も家族も…[PauseLong]"
 
 #, ruby
 msgid "Npc_Kakariko012_S1_001"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]毎日 元気に営業中！\n"
-"[Color name=\"blue\"]呉服屋 忍杏亭[Color name=\"unset\"]はこちらです！[Choice2 label1=\"8\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0702\"]毎日 元気に営業中！\n"
+"[Color name=\"blue\"]呉服屋 忍杏亭[Color name=\"unset\"]はこちらです！[Choice2 label1=\"8\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kakariko007_109"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]隠していても 仕方がありません…[PauseLong]\n"
+"[Sound1 bytes=\"0301\"]隠していても 仕方がありません…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"12\"]実は…\n"
+"[Sound1 bytes=\"0B0C\"]実は…\n"
 "\n"
 "私は イーガ団の人間なのです…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]しかし 妻と出会い [PauseShort]子に恵まれ\n"
+"[Sound1 bytes=\"0501\"]しかし 妻と出会い [PauseShort]子に恵まれ\n"
 "私は考えを改め…\n"
 "そしてイーガ団から 足を洗おうとしました[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"12\"]しかし そのことで… \n"
+"[Sound1 bytes=\"090C\"]しかし そのことで… \n"
 "妻は 命を奪われてしまったのです…[PauseLong]"
 
 #, ruby
@@ -408,29 +408,29 @@ msgid "Npc_Kakariko007_S1_Near007"
 msgstr "誰も… おらんな"
 
 msgid "Npc_Kakariko012_S1_002"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]ちょッ？！ [PauseShort]だ だれ？[PauseShort]"
+msgstr "[Sound1 bytes=\"0414\"]ちょッ？！ [PauseShort]だ だれ？[PauseShort]"
 
 #, ruby
 msgid "Npc_Kakariko007_S1_Near008"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]む？ 今 何か…？"
+msgstr "[Sound1 bytes=\"0413\"]む？ 今 何か…？"
 
 #, ruby
 msgid "Npc_Kakariko012_S1_003"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]もしかして…[PauseMid] [PageBreak][Sound1 unk1=\"10\" unk2=\"21\"]ストーカー？[PauseLong][PageBreak][Sound1 unk1=\"8\" unk2=\"1\"]ラ…[PauseShort] ラズリ なにも悪いことしてないんだからね[PauseShort]\n"
+"[Sound1 bytes=\"0501\"]もしかして…[PauseMid] [PageBreak][Sound1 bytes=\"0A15\"]ストーカー？[PauseLong][PageBreak][Sound1 bytes=\"0801\"]ラ…[PauseShort] ラズリ なにも悪いことしてないんだからね[PauseShort]\n"
 "普通に お散歩してるだけなんだからね！\n"
 "ほんっと… ついてこないでよね！"
 
 #, ruby
 msgid "Npc_Kakariko016_100"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]な… なになに？[PauseMid]\n"
+"[Sound1 bytes=\"0A14\"]な… なになに？[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]こんな時間に女子に声かけるなんて\n"
+"[Sound1 bytes=\"0506\"]こんな時間に女子に声かけるなんて\n"
 "\n"
-"[Color name=\"Gray\"][Size percent=\"80\"]もしかしてこれがストーカーってやつ…？\n"
+"[Color name=\"gray\"][Size percent=\"80\"]もしかしてこれがストーカーってやつ…？\n"
 "アソコ行くのは後にしようかな…[PauseLong][Size percent=\"100\"]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]よ… 夜の一人歩きは危険だし…\n"
+"[Sound1 bytes=\"0000\"][Color name=\"unset\"]よ… 夜の一人歩きは危険だし…\n"
 "やっぱり店にもどろうかな…"
 
 #, ruby
@@ -440,20 +440,20 @@ msgstr "気のせいか…"
 #, ruby
 msgid "Npc_Kakariko016_101"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"6\"]ごめん 今あんまりしゃべる気分じゃないんだ…\n"
+"[Sound1 bytes=\"0306\"]ごめん 今あんまりしゃべる気分じゃないんだ…\n"
 "ちょっと ソっとしといてもらえる？"
 
 msgid "Npc_Kakariko008_10"
-msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]ゴホッ ゴホッ！！"
+msgstr "[Sound1 bytes=\"0A14\"]ゴホッ ゴホッ！！"
 
 #, ruby
 msgid "Npc_Kakariko008_11"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]まさか… 見られてしまうとはのぅ…[PauseLong][PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]この甘い香りの中に隠れる 苦味…[PauseLong]\n"
+"[Sound1 bytes=\"090D\"]まさか… 見られてしまうとはのぅ…[PauseLong][PageBreak][Sound1 bytes=\"0701\"]この甘い香りの中に隠れる 苦味…[PauseLong]\n"
 "決して主張はせぬが 存在感のある朱色…[PauseLong]"
 
 msgid "Npc_Kakariko008_12"
-msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]ゴホッ ゴホッ！！"
+msgstr "[Sound1 bytes=\"0A14\"]ゴホッ ゴホッ！！"
 
 #, ruby
 msgid "0010"
@@ -462,17 +462,17 @@ msgstr "宝珠盗んだ？"
 #, ruby
 msgid "Npc_Kakariko008_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ここでのことは\n"
+"[Sound1 bytes=\"0004\"]ここでのことは\n"
 "じいさんに 内緒で頼んだよ"
 
 #, ruby
 msgid "Npc_Kakariko008_14"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]実は私は 大のニンジン好きなんじゃ…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]実は私は 大のニンジン好きなんじゃ…[PauseMid]\n"
 "だが ウチのじいさんは大嫌いでのぅ…\n"
 "だからこうやって 時々こっそり\n"
 "ニンジンを 食べとるんじゃよ…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]じいさんには 内緒にしといとくれよ[Choice1 label=\"5\"]"
+"[Sound1 bytes=\"0001\"]じいさんには 内緒にしといとくれよ[Choice1 label=\"5\"]"
 
 msgid "0011"
 msgstr "…ですね"
@@ -484,8 +484,8 @@ msgstr "宝珠盗んでない？"
 #, ruby
 msgid "Npc_Kakariko008_15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]これ以上の食材は ないというのに…[PageBreak]でも あの二人を見ていたら\n"
-"ニンジンが好きなど 口が裂けても言えんわい…[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"090D\"]これ以上の食材は ないというのに…[PageBreak]でも あの二人を見ていたら\n"
+"ニンジンが好きなど 口が裂けても言えんわい…[Choice2 label1=\"10\" label2=\"11\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0013"
 msgstr "さよなら"
@@ -493,18 +493,18 @@ msgstr "さよなら"
 #, ruby
 msgid "Npc_Kakariko008_16"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]年寄りに対して なんちゅーことを…[PauseLong]\n"
+"[Sound1 bytes=\"0800\"]年寄りに対して なんちゅーことを…[PauseLong]\n"
 "ビックリして ニンジンが詰まるかと思ったわい\n"
 "私の大切な梅園は そもそもインパ様が[PauseShort]\n"
 "贈って下さったもの あれは宝じゃ！\n"
-"[Sound1 unk1=\"2\" unk2=\"14\"]インパ様には 返す恩はあっても[PauseShort]\n"
+"[Sound1 bytes=\"020E\"]インパ様には 返す恩はあっても[PauseShort]\n"
 "仇はないわい！[PauseLong]\n"
-"[Color name=\"Gray\"][Size percent=\"80\"]ったく 最近の若いもんは…[Size percent=\"100\"][Color name=\"unset\"]"
+"[Color name=\"gray\"][Size percent=\"80\"]ったく 最近の若いもんは…[Size percent=\"100\"][Color name=\"unset\"]"
 
 #, ruby
 msgid "Npc_Kakariko016_001"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]まったくもう！[PauseLong]\n"
+"[Sound1 bytes=\"080E\"]まったくもう！[PauseLong]\n"
 "なんなのよ！！\n"
 "お店に戻るだけなんだから[PauseShort]\n"
 "ついてこないでよ！"
@@ -512,36 +512,36 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko008_17"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]まだ そんなことを言っとるのか！\n"
+"[Sound1 bytes=\"080E\"]まだ そんなことを言っとるのか！\n"
 "まったく… 年寄りに対してなんちゅーことを…[PauseLong]\n"
 "ビックリして ニンジンが詰まるかと思ったわい[PageBreak]私の大切な梅園は そもそもインパ様が[PauseShort]\n"
 "贈って下さったもの あれは宝じゃ！\n"
-"[Sound1 unk1=\"2\" unk2=\"14\"]インパ様には 返す恩はあっても[PauseShort]\n"
+"[Sound1 bytes=\"020E\"]インパ様には 返す恩はあっても[PauseShort]\n"
 "仇はないわい！[PauseLong]\n"
-"[Color name=\"Gray\"][Size percent=\"80\"]ったく 最近の若いもんは…[Size percent=\"100\"][Color name=\"unset\"]"
+"[Color name=\"gray\"][Size percent=\"80\"]ったく 最近の若いもんは…[Size percent=\"100\"][Color name=\"unset\"]"
 
 #, ruby
 msgid "Npc_Kakariko016_002"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]まったくもう！\n"
+"[Sound1 bytes=\"0800\"]まったくもう！\n"
 "なんなのよ！！！[PauseLong]\n"
-"[Sound1 unk1=\"4\" unk2=\"19\"]あ…[PauseLong][PageBreak]やっぱり ストーカー？[PauseLong][PageBreak][Sound1 unk1=\"8\" unk2=\"0\"]ラズリに変なことしたら\n"
+"[Sound1 bytes=\"0413\"]あ…[PauseLong][PageBreak]やっぱり ストーカー？[PauseLong][PageBreak][Sound1 bytes=\"0800\"]ラズリに変なことしたら\n"
 "ドゥランさん達に 言いつけるからね！"
 
 #, ruby
 msgid "Npc_Kakariko008_18"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"80\"]ニンジンのこと… 内緒にしてくれるんじゃろうな…\n"
+"[Sound1 bytes=\"0201\"][Size percent=\"80\"]ニンジンのこと… 内緒にしてくれるんじゃろうな…\n"
 "信じておるからな！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Kakariko008_19"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]よ 夜じゃと？！[PauseLong][PageBreak][Size percent=\"80\"][Sound1 unk1=\"8\" unk2=\"1\"]だ… だから\n"
+"[Sound1 bytes=\"0A14\"]よ 夜じゃと？！[PauseLong][PageBreak][Size percent=\"80\"][Sound1 bytes=\"0801\"]だ… だから\n"
 "ニンジンのことは 内緒だと言ったじゃろ！[Size percent=\"100\"][PauseLong]"
 
 msgid "Npc_Kakariko012_S1_003_1"
-msgstr "[Sound1 unk1=\"4\" unk2=\"22\"][Size percent=\"125\"]のわっ！[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0416\"][Size percent=\"125\"]のわっ！[Size percent=\"100\"][PauseLong]"
 
 msgid "Npc_Kakariko012_S1_Near001"
 msgstr "そろそろカナ…"
@@ -549,7 +549,7 @@ msgstr "そろそろカナ…"
 #, ruby
 msgid "Npc_Kakariko012_S1_003_2"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]あーあ… さすがにもう 隠しきれないかな…[PageBreak]クラリにも 内緒だったのに…[PauseLong][PageBreak][Sound1 unk1=\"5\" unk2=\"1\"]ここはね… 昔好きだった彼が\n"
+"[Sound1 bytes=\"090C\"]あーあ… さすがにもう 隠しきれないかな…[PageBreak]クラリにも 内緒だったのに…[PauseLong][PageBreak][Sound1 bytes=\"0501\"]ここはね… 昔好きだった彼が\n"
 "眠ってる場所なんだ\n"
 "もう ずいぶん前の話だけどね…[PageBreak]時々 こうやって会いにきてるんだ…[Choice1 label=\"5\"]"
 
@@ -558,14 +558,14 @@ msgstr "バレてない… よね"
 
 #, ruby
 msgid "Npc_Kakariko012_S1_003_3"
-msgstr "[Sound1 unk1=\"5\" unk2=\"6\"][Color name=\"blue\"]ホウジュ[Color name=\"unset\"]？[PageBreak]ああ インパ様のお屋敷に飾られてる アレ？[Choice1 label=\"9\"]"
+msgstr "[Sound1 bytes=\"0506\"][Color name=\"blue\"]ホウジュ[Color name=\"unset\"]？[PageBreak]ああ インパ様のお屋敷に飾られてる アレ？[Choice1 label=\"9\"]"
 
 #, ruby
 msgid "Npc_Kakariko012_S1_Near003"
 msgstr "誰も気づいてないよね"
 
 msgid "Npc_Kakariko012_S1_003_4"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]サイテー…[PauseLong]"
+msgstr "[Sound1 bytes=\"080E\"]サイテー…[PauseLong]"
 
 msgid "Npc_Kakariko012_S1_Near004"
 msgstr "ふぅ…"
@@ -579,9 +579,9 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko012_S1_003_5"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]はぁ？[PauseLong][PageBreak]なんで 私があんなのを[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]はぁ？[PauseLong][PageBreak]なんで 私があんなのを[PauseShort]\n"
 "盗まないといけないのよ！\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]まさか… [PauseLong]それで私を疑って\n"
+"[Sound1 bytes=\"0B01\"]まさか… [PauseLong]それで私を疑って\n"
 "ついてきたの…？[PauseLong]"
 
 #, ruby
@@ -592,7 +592,7 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Kakariko012_S1_003_6"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ここは… 昔好きだった彼が 眠っている場所…[PageBreak]魔物に襲われちゃって あっさり…[PauseLong][PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]ずっと…[PauseShort] 守ってくれるって…[PauseShort] 約束したのに…[PauseLong][Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0900\"]ここは… 昔好きだった彼が 眠っている場所…[PageBreak]魔物に襲われちゃって あっさり…[PauseLong][PageBreak][Sound1 bytes=\"0B01\"]ずっと…[PauseShort] 守ってくれるって…[PauseShort] 約束したのに…[PauseLong][Choice2 label1=\"12\" label2=\"13\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Assassin_2"
@@ -605,13 +605,13 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko012_S1_003_7"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]はっ？\n"
+"[Sound1 bytes=\"0800\"]はっ？\n"
 "まだそんな事 言ってるわけ？[PauseLong]\n"
-"[Sound1 unk1=\"8\" unk2=\"1\"]ちょっとは空気読みなさいよ！\n"
+"[Sound1 bytes=\"0801\"]ちょっとは空気読みなさいよ！\n"
 "目の前で可愛い女子が泣いてんでしょうが！！！\n"
 "[Color name=\"blue\"]宝珠[Color name=\"unset\"]なんて 興味ないし！[PageBreak]そもそも[Color name=\"blue\"]ドゥラン[Color name=\"unset\"]さん達がいるのに\n"
 "どうやって盗めっていうのよ！\n"
-"[Sound1 unk1=\"8\" unk2=\"14\"]か弱い女子に そんなこと\n"
+"[Sound1 bytes=\"080E\"]か弱い女子に そんなこと\n"
 "できるわけないでしょ！"
 
 #, ruby
@@ -623,15 +623,15 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko008_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"13\"]いくら年上が好きと言っても[PauseMid]\n"
+"[Sound1 bytes=\"050D\"]いくら年上が好きと言っても[PauseMid]\n"
 "私は人妻… あきらめるんじゃな"
 
 #, ruby
 msgid "Npc_Kakariko012_S1_003_8"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]はっ？[PauseLong][PageBreak][Sound1 unk1=\"8\" unk2=\"1\"]アンタ！ ちょっとは空気読みなさいよ！\n"
+"[Sound1 bytes=\"0800\"]はっ？[PauseLong][PageBreak][Sound1 bytes=\"0801\"]アンタ！ ちょっとは空気読みなさいよ！\n"
 "目の前で可愛い女子が泣いてんでしょうが！！！\n"
-"優しい言葉とかないわけ？[PageBreak][Sound1 unk1=\"8\" unk2=\"14\"]別にアンタなんかに\n"
+"優しい言葉とかないわけ？[PageBreak][Sound1 bytes=\"080E\"]別にアンタなんかに\n"
 "優しくされなくても いいけどさ！"
 
 #, ruby
@@ -643,12 +643,12 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko008_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]まだおるのか…[PauseLong][PageBreak]こんな夜更けまで ばあさんをつけまわして…[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]まだおるのか…[PauseLong][PageBreak]こんな夜更けまで ばあさんをつけまわして…[PauseShort]\n"
 "もしやお前さん…\n"
-"[Sound1 unk1=\"10\" unk2=\"20\"][Size percent=\"125\"]不良か？[PauseLong][PageBreak][Sound1 unk1=\"5\" unk2=\"1\"][Size percent=\"100\"]まあ不良でも なんでもいいわい[PauseShort]\n"
+"[Sound1 bytes=\"0A14\"][Size percent=\"125\"]不良か？[PauseLong][PageBreak][Sound1 bytes=\"0501\"][Size percent=\"100\"]まあ不良でも なんでもいいわい[PauseShort]\n"
 "さっさと遠くに 行ってくれんかの…\n"
-"[Size percent=\"80\"][Color name=\"Gray\"]グズグズしてると[Color name=\"unset\"][PauseShort]\n"
-"[Color name=\"Gray\"]夜が明けてしまうでの…[Color name=\"unset\"][Size percent=\"100\"]"
+"[Size percent=\"80\"][Color name=\"gray\"]グズグズしてると[Color name=\"unset\"][PauseShort]\n"
+"[Color name=\"gray\"]夜が明けてしまうでの…[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "0000"
 msgstr "どうしたの？"
@@ -668,9 +668,9 @@ msgstr ""
 #, ruby
 msgid "Npc_Kakariko008_03"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]だ 誰じゃ！[PageBreak]まったく… こんなか弱い老人を\n"
+"[Sound1 bytes=\"0A14\"]だ 誰じゃ！[PageBreak]まったく… こんなか弱い老人を\n"
 "つけまわしよって！[PauseLong]\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]もしや… [PauseLong]年上好きか？[PageBreak]年上好きはいいことじゃが… 私は人妻\n"
+"[Sound1 bytes=\"0506\"]もしや… [PauseLong]年上好きか？[PageBreak]年上好きはいいことじゃが… 私は人妻\n"
 "そこは踏み込んではならんぞ！"
 
 #, ruby
@@ -687,14 +687,14 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Kakariko008_04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]おや 私に何か用かね？[Choice2 label1=\"8\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]おや 私に何か用かね？[Choice2 label1=\"8\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0002"
 msgstr "誰が通ったの？"
 
 msgid "Npc_Kakariko008_05"
-msgstr "[Sound1 unk1=\"4\" unk2=\"44\"]グホッ！"
+msgstr "[Sound1 bytes=\"042C\"]グホッ！"
 
 msgid "0003"
 msgstr "さよなら"
@@ -702,28 +702,28 @@ msgstr "さよなら"
 #, ruby
 msgid "Npc_Kakariko008_06"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]夜じゃと！[PageBreak][Size percent=\"80\"][Sound1 unk1=\"11\" unk2=\"1\"][Color name=\"Gray\"]まさか見られた…[Color name=\"unset\"][PauseLong]\n"
-"[Color name=\"Gray\"]いや…[Color name=\"unset\"][PauseLong] [Color name=\"Gray\"]アレは 誰にも知られてないはずじゃ[Color name=\"unset\"][PauseLong][Size percent=\"100\"]\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]な… 何のことかの…\n"
+"[Sound1 bytes=\"0A14\"]夜じゃと！[PageBreak][Size percent=\"80\"][Sound1 bytes=\"0B01\"][Color name=\"gray\"]まさか見られた…[Color name=\"unset\"][PauseLong]\n"
+"[Color name=\"gray\"]いや…[Color name=\"unset\"][PauseLong] [Color name=\"gray\"]アレは 誰にも知られてないはずじゃ[Color name=\"unset\"][PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0009\"]な… 何のことかの…\n"
 "夜はグッスリ眠るだけじゃわい"
 
 #, ruby
 msgid "Npc_Kakariko008_07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ほっほ… 急に話しかけられたもんで[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]ほっほ… 急に話しかけられたもんで[PauseShort]\n"
 "ビックリしましたわい\n"
-"[Size percent=\"80\"][Color name=\"Gray\"]まさかコヤツ… 私の秘密を…[Color name=\"unset\"][PauseLong]\n"
-"[Color name=\"Gray\"]いや…[Color name=\"unset\"][PauseLong] [Color name=\"Gray\"]アレは 誰にも知られてないはずじゃ[Color name=\"unset\"][PauseLong][Size percent=\"100\"]"
+"[Size percent=\"80\"][Color name=\"gray\"]まさかコヤツ… 私の秘密を…[Color name=\"unset\"][PauseLong]\n"
+"[Color name=\"gray\"]いや…[Color name=\"unset\"][PauseLong] [Color name=\"gray\"]アレは 誰にも知られてないはずじゃ[Color name=\"unset\"][PauseLong][Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Kakariko006_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]お前さんも\n"
-"あの城を見に来たのかのぅ？[PageBreak][Sound1 unk1=\"11\" unk2=\"16\"]あの光…\n"
+"[Sound1 bytes=\"0002\"]お前さんも\n"
+"あの城を見に来たのかのぅ？[PageBreak][Sound1 bytes=\"0B10\"]あの光…\n"
 "邪悪なものだとわかっているんじゃが…\n"
 "夜になると浮かび上がる姿が 美しくてのぅ\n"
 "時折 ここに見に来るんじゃ\n"
-"[Sound1 unk1=\"11\" unk2=\"13\"]…こんなこと ばあさんや村の者には\n"
+"[Sound1 bytes=\"0B0D\"]…こんなこと ばあさんや村の者には\n"
 "口が裂けても言えんがな"
 
 #, ruby
@@ -732,21 +732,21 @@ msgstr "宝珠はどこ？"
 
 #, ruby
 msgid "Npc_Kakariko008_08"
-msgstr "[Sound1 unk1=\"9\" unk2=\"13\"]まさか… 見られてしまうとはのぅ…"
+msgstr "[Sound1 bytes=\"090D\"]まさか… 見られてしまうとはのぅ…"
 
 #, ruby
 msgid "Npc_Kakariko006_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]お前さんも\n"
+"[Sound1 bytes=\"0006\"]お前さんも\n"
 "あの城を見に来たのかのぅ？[PageBreak]あの光…\n"
 "邪悪なものだとわかっているんじゃが…\n"
 "夜になると浮かび上がる姿が 美しくてのぅ\n"
 "時折 ここに見に来るんじゃ\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]しかし…\n"
+"[Sound1 bytes=\"0B00\"]しかし…\n"
 "今夜はよく人を見かけるのぅ…\n"
 "さっきも [Color name=\"blue\"]ドゥラン[Color name=\"unset\"]が[Color name=\"red\"]奥の裏山の方[Color name=\"unset\"]に\n"
 "走っていきよったしのぅ…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]なんだか 急いでおったでのぅ\n"
+"[Sound1 bytes=\"0000\"]なんだか 急いでおったでのぅ\n"
 "声はかけなんだが…"
 
 #, ruby
@@ -756,13 +756,13 @@ msgstr "村人は通ったの？"
 #, ruby
 msgid "Npc_Kakariko008_09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]インパ様のお屋敷に 飾られとる\n"
+"[Sound1 bytes=\"0B06\"]インパ様のお屋敷に 飾られとる\n"
 "アレかのぅ？[Choice1 label=\"9\"]"
 
 #, ruby
 msgid "Npc_Kakariko006_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]今日は 気分がいいでのぅ\n"
+"[Sound1 bytes=\"0002\"]今日は 気分がいいでのぅ\n"
 "\n"
 "ちょっと散歩してから\n"
 "帰るとするかのぅ"

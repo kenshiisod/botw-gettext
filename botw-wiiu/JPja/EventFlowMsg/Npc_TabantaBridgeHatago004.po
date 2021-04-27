@@ -1,45 +1,45 @@
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ぼくね[PauseShort] おじさんに… [PauseMid]むし… 描いてもらった…\n"
+"[Sound1 bytes=\"0700\"]ぼくね[PauseShort] おじさんに… [PauseMid]むし… 描いてもらった…\n"
 "たからもの… [PauseMid]えへへ……"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Color name=\"blue\"]絵のおじさんに[Color name=\"unset\"]… [PauseMid]むし… 描いてもらった…\n"
+"[Sound1 bytes=\"0701\"][Color name=\"blue\"]絵のおじさんに[Color name=\"unset\"]… [PauseMid]むし… 描いてもらった…\n"
 "ぼくの… たからもの… [PauseMid]えへへ……"
 
 #, ruby
 msgid "talk40"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]ここに むしのひとが来るの…[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]ここに むしのひとが来るの…[PauseMid]\n"
 "待ってるんだ…"
 
 msgid "talk70"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あめ… [PauseShort]おそと…… [PauseMid]いきたいな……"
+msgstr "[Sound1 bytes=\"0000\"]あめ… [PauseShort]おそと…… [PauseMid]いきたいな……"
 
 #, ruby
 msgid "talk71"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]あめの日だけ…[PauseMid] でてくる むし…[PauseMid]\n"
+"[Sound1 bytes=\"0701\"]あめの日だけ…[PauseMid] でてくる むし…[PauseMid]\n"
 "[Color name=\"blue\"]ビリビリアゲハ[Color name=\"unset\"]とか…[PauseMid] えへへ……[PauseMid]"
 
 msgid "talk50"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]むし… [PauseShort]せおってる……[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]むし… [PauseShort]せおってる……[PauseMid]\n"
 "いいな……"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]むし… [PauseMid]いない……"
+msgstr "[Sound1 bytes=\"0004\"]むし… [PauseMid]いない……"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]めずらしい… [PauseMid]むし…\n"
+"[Sound1 bytes=\"0000\"]めずらしい… [PauseMid]むし…\n"
 "いるところ… [PauseMid]どんなとこだろ……"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あ… [PauseShort]おにいちゃん…"
+msgstr "[Sound1 bytes=\"0000\"]あ… [PauseShort]おにいちゃん…"
 
 msgid "talk60"
 msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]…むし… [PauseShort]ガサゴソ… [PauseMid]エヘヘ……[Size percent=\"100\"]"
@@ -47,18 +47,18 @@ msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]…むし… [PauseShort]ガサ�
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]絵のおじさん[Color name=\"unset\"]… [PauseShort]また旅に出るって…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]絵のおじさん[Color name=\"unset\"]… [PauseShort]また旅に出るって…[PauseMid]\n"
 "おにいちゃんに… [PauseShort]よろしくって言ってた……"
 
 msgid "talk55"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]リュック… [PauseShort]ほしいな…[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]おとなに… [PauseShort]なったら……[PauseMid]\n"
+"[Sound1 bytes=\"0701\"]リュック… [PauseShort]ほしいな…[PageBreak][Sound1 bytes=\"0001\"]おとなに… [PauseShort]なったら……[PauseMid]\n"
 "かえるかな…"
 
 #, ruby
 msgid "talk61"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]今日も… [PauseShort]あんまりめずらしいむし…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]今日も… [PauseShort]あんまりめずらしいむし…[PauseMid]\n"
 "いなかった…… [PauseShort]ざんねん……"
 
 msgid "_ReadOnly_MsbtExtras"

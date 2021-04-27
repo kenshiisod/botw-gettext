@@ -1,15 +1,15 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"17\"]盾は [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]にしか使ったことなくて…"
+msgstr "[Sound1 bytes=\"0311\"]盾は [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]にしか使ったことなくて…"
 
 #, ruby
 msgid "MSG_Taba_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]おや 君は武器を扱うのかい？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]おや 君は武器を扱うのかい？[PauseMid]\n"
 "ということは 盾も…\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]フフ…[PauseMid] おじさん こう見えて\n"
+"[Sound1 bytes=\"0101\"]フフ…[PauseMid] おじさん こう見えて\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の名人なんだよねー\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]そういえば おじさんが君くらいのころ[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]そういえば おじさんが君くらいのころ[PauseShort]\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]で 迷った子供を助けたっけなあ\n"
 "子供を背中におぶっての [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]は\n"
 "なかなか大変だったよ"
@@ -17,7 +17,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Taba_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ヘブラ山北岳[Color name=\"unset\"]にあるという\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ヘブラ山北岳[Color name=\"unset\"]にあるという\n"
 "大きなクジラの骨を 見てみたいんだ\n"
 "盾サーファーの間では[PauseShort]\n"
 "見れば幸せになれると 信じられているからね"
@@ -25,11 +25,11 @@ msgstr ""
 #, ruby
 msgid "MSG_Taba_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ 少年！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]やあ 少年！[PauseShort]\n"
 "盾サーフィンは やってるかい？\n"
 "おじさん [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]を楽しむために\n"
 "[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]をめざしてるんだ\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]今度こそは [Color name=\"blue\"]ヘブラ山北岳[Color name=\"unset\"]にある\n"
+"[Sound1 bytes=\"0004\"]今度こそは [Color name=\"blue\"]ヘブラ山北岳[Color name=\"unset\"]にある\n"
 "大きなクジラの骨が 見たくてねぇ…\n"
 "盾サーファーはみんな[PauseShort]\n"
 "一目見れば幸せになれると 信じてるからね"
@@ -37,13 +37,13 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Taba_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ 少年！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]やあ 少年！[PauseMid]\n"
 "とつぜん変なこと聞くけど 高い所は大丈夫？\n"
 "もしかして パラセールも経験済み？[PauseMid]\n"
 "\n"
 "だとしたら [Color name=\"blue\"]リトの村[Color name=\"unset\"]も大丈夫そうだな\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]リト族は 高い所に住んでいるらしくて[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]リト族は 高い所に住んでいるらしくて[PauseShort]\n"
 "高所恐怖症気味のおじさんには 縁がないんだ\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]で滑るような山なら平気だけど[PauseShort]\n"
 "どうも そういう場所じゃないらしくてね"
@@ -51,21 +51,21 @@ msgstr ""
 #, ruby
 msgid "MSG_Taba_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]どうした 少年？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]どうした 少年？[PauseMid]\n"
 "おじさんのことが 気になるか？\n"
 "おじさんは [Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]を拠点にして\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]へ [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに行くのさ\n"
-"[Sound1 unk1=\"1\" unk2=\"4\"]どうだい [PauseMid]おじさんの武勇伝でも聞きながら\n"
+"[Sound1 bytes=\"0104\"]どうだい [PauseMid]おじさんの武勇伝でも聞きながら\n"
 "ひと滑り行くかい？ [PauseLong]はっはっは！"
 
 #, ruby
 msgid "RetMSG_Taba_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]少年よ 君から見たらおじさんの俺だけど\n"
+"[Sound1 bytes=\"0002\"]少年よ 君から見たらおじさんの俺だけど\n"
 "まだまだ青春の盾サーファーなんだ\n"
 "せっかく話しかけてくれたんだ[PauseShort]\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]について ひとつ教えてやるよ\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]雪や砂の上なら どれだけ滑っても\n"
+"[Sound1 bytes=\"0004\"]雪や砂の上なら どれだけ滑っても\n"
 "盾が壊れる事はない\n"
 "ということはつまり [PauseMid]雪や砂以外だと\n"
 "滑れば滑るほど 盾は劣化していくということ\n"
@@ -75,11 +75,11 @@ msgstr ""
 #, ruby
 msgid "MSG_Taba_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]なんだい 少年？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]なんだい 少年？[PauseMid]\n"
 "おじさんが ここで何をしてるのかって？\n"
 "この[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]に滞在して\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]に出かける準備を整えるつもりだよ\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]雪山をなめてはいけないって [PauseMid][Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]に住む\n"
+"[Sound1 bytes=\"0004\"]雪山をなめてはいけないって [PauseMid][Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]に住む\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の元チャンピオンに言われてね\n"
 "派手で最高なライディングの裏には\n"
 "地味で最高な準備あり… [PauseLong]とも言ってたっけ\n"
@@ -88,113 +88,113 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Taba_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ 少年！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]やあ 少年！[PauseMid]\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]へ 登るのかい？\n"
 "だったら [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]名人のおじさんが\n"
 "登山のコツを 教えよう\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]滑る時の気持ちよさを想像しながら登れば[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]滑る時の気持ちよさを想像しながら登れば[PauseShort]\n"
 "苦しくないばかりか むしろワクワクできる\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]険しければ 険しいほど[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]険しければ 険しいほど[PauseShort]\n"
 "その後の[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]が 楽しくなるからね"
 
 #, ruby
 msgid "RetMSG_Taba_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ヘブラ地方のどこかで[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ヘブラ地方のどこかで[PauseShort]\n"
 "[Color name=\"red\"]雪玉ボウル[Color name=\"unset\"]という競技をやってるらしいんだ\n"
 "おじさん ぜひ参加してみたくてね"
 
 #, ruby
 msgid "RetMSG_Taba_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ 少年！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]やあ 少年！[PauseMid]\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]は好きかい？\n"
 "おじさん… [PauseShort]モテようと思って始めた\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]に すっかりハマっちゃってね\n"
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]ヘブラ山東岳[Color name=\"unset\"]でやってる [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競争に[PauseShort]\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0004\"]ヘブラ山東岳[Color name=\"unset\"]でやってる [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競争に[PauseShort]\n"
 "おじさんも参加してみたいよ"
 
 #, ruby
 msgid "RetMSG_Taba_04"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"14\"][Size percent=\"125\"]あっ！[Size percent=\"100\"]\n"
+"[Sound1 bytes=\"040E\"][Size percent=\"125\"]あっ！[Size percent=\"100\"]\n"
 "\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]のことばっかり考えてて\n"
 "すっかり忘れていた…\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ヘブラ地方のどこかで\n"
+"[Sound1 bytes=\"0004\"]ヘブラ地方のどこかで\n"
 "「[Color name=\"red\"]雪玉ボウル[Color name=\"unset\"]」という競技もあるらしい…\n"
 "こちらにも 参加してみたいものだ"
 
 #, ruby
 msgid "RetMSG_Taba_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]雪や砂以外の面で [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]した場合\n"
+"[Sound1 bytes=\"0004\"]雪や砂以外の面で [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]した場合\n"
 "滑れば滑るほど 盾は劣化していくんだ\n"
 "まあ 当たり前のことだけどね\n"
 ""
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]よければ これを受け取ってくれ！"
+msgstr "[Sound1 bytes=\"0109\"]よければ これを受け取ってくれ！"
 
 #, ruby
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]この後の予定がくるっちゃうよ…"
+msgstr "[Sound1 bytes=\"030C\"]この後の予定がくるっちゃうよ…"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]誰か やっつけてくれないかなあ…"
+msgstr "[Sound1 bytes=\"030C\"]誰か やっつけてくれないかなあ…"
 
 #, ruby
 msgid "MSG_Taba_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]おじさんは [Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]を拠点にして\n"
+"[Sound1 bytes=\"0004\"]おじさんは [Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]を拠点にして\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]へ [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに行くのさ\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]おじさんと一緒にひと滑り どうだい？[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]おじさんと一緒にひと滑り どうだい？[PauseLong]\n"
 "はっはっは！"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]強いんだな！"
+msgstr "[Sound1 bytes=\"010B\"]強いんだな！"
 
 #, ruby
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]いやー…[PauseMid] 助かったよ！"
+msgstr "[Sound1 bytes=\"010B\"]いやー…[PauseMid] 助かったよ！"
 
 #, ruby
 msgid "MSG_Taba_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]盾サーフィン[Color name=\"unset\"] サイコー！[PauseMid]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]盾サーフィン[Color name=\"unset\"] サイコー！[PauseMid]\n"
 "[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]に さー行こー！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]おじさん… [PauseMid]すでにスベってる？"
+"[Sound1 bytes=\"0101\"]おじさん… [PauseMid]すでにスベってる？"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]おじさんは [Color name=\"blue\"]へブラ山[Color name=\"unset\"]で [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競技に\n"
+"[Sound1 bytes=\"0002\"]おじさんは [Color name=\"blue\"]へブラ山[Color name=\"unset\"]で [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競技に\n"
 "チャレンジしたことがあるんだよね[PauseMid]\n"
-"[Sound1 unk1=\"3\" unk2=\"1\"]結果は… [PauseMid]フッ…[PauseLong]\n"
+"[Sound1 bytes=\"0301\"]結果は… [PauseMid]フッ…[PauseLong]\n"
 "要は チャレンジすることに意義があるのさ！"
 
 #, ruby
 msgid "RetMSG_Taba_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]盾サーフィン[Color name=\"unset\"]のために [Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]登山するなら[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]盾サーフィン[Color name=\"unset\"]のために [Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]登山するなら[PauseShort]\n"
 "滑る時の気持ちよさを想像しながら登ろう\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]険しければ 険しいほど[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]険しければ 険しいほど[PauseShort]\n"
 "その後の[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]が 楽しくなるからね"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]悪天候時に [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]をやるのは危険だな\n"
+"[Sound1 bytes=\"0510\"]悪天候時に [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]をやるのは危険だな\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]どうせ滑るなら 天気の良い日が楽しいぞ！"
+"[Sound1 bytes=\"0001\"]どうせ滑るなら 天気の良い日が楽しいぞ！"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]こんな日は 新しい盾でも探しに行くべきか？[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]こんな日は 新しい盾でも探しに行くべきか？[PauseLong]\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]で疲れた体を 休めるべきか？\n"
 "悩むな～"
 
@@ -205,13 +205,13 @@ msgstr "盾サーフィンを…"
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]とっても 強いんだな！[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]とっても 強いんだな！[PauseMid]\n"
 "ほんと 助かったよ！"
 
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]おかげで 助かったよ！[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]おかげで 助かったよ！[PauseMid]\n"
 "ほんと ありがとう！"
 
 #, ruby
@@ -225,7 +225,7 @@ msgstr "リト村… リト族…"
 #, ruby
 msgid "MSG_Taba_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]この[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]に滞在して\n"
+"[Sound1 bytes=\"0004\"]この[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]に滞在して\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]に出かける準備を整えるつもりだ\n"
 "雪山をなめてはいけないって [PauseMid][Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]に住む\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の元チャンピオンに言われてね\n"
@@ -237,12 +237,12 @@ msgstr "降ってきたなあ…"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"31\"]マズい！ [Color name=\"blue\"][PauseMid]ガーディアン[Color name=\"unset\"]が来るぞーっ！"
+msgstr "[Sound1 bytes=\"041F\"]マズい！ [Color name=\"blue\"][PauseMid]ガーディアン[Color name=\"unset\"]が来るぞーっ！"
 
 #, ruby
 msgid "MSG_Taba_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]おじさんが 君くらいのころ[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]おじさんが 君くらいのころ[PauseShort]\n"
 "[Color name=\"blue\"]ヘブラ山[Color name=\"unset\"]で 迷った子供を助けたことがあってね\n"
 "子供を背中におぶっての [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]は\n"
 "なかなか大変だったよ"
@@ -250,39 +250,39 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Taba_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]でやってる [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競争…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ヘブラ山東岳[Color name=\"unset\"]でやってる [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]の競争…[PauseMid]\n"
 "おじさんも参加してみたいよ"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]命の恩人だ！"
+msgstr "[Sound1 bytes=\"010B\"]命の恩人だ！"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]君は 間違いなく腕利きだ！"
+msgstr "[Sound1 bytes=\"010B\"]君は 間違いなく腕利きだ！"
 
 #, ruby
 msgid "RetMSG_Taba_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]リト族の住む[Color name=\"blue\"]リトの村[Color name=\"unset\"]は[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]リト族の住む[Color name=\"blue\"]リトの村[Color name=\"unset\"]は[PauseShort]\n"
 "高所恐怖症気味のおじさんには ちょっとね\n"
 "[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]で滑るような山なら平気だけど[PauseShort]\n"
 "どうも そういう場所じゃないらしいからさ"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"17\"]助けに来てくれるのが 遅いよー"
+msgstr "[Sound1 bytes=\"0311\"]助けに来てくれるのが 遅いよー"
 
 #, ruby
 msgid "MSG_Taba_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ 少年！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]やあ 少年！[PauseShort]\n"
 "滑ってるかい？\n"
 "おじさんも 滑るために\n"
 "[Color name=\"blue\"]雪原の馬宿[Color name=\"unset\"]へ よく行くんだよ\n"
 "盾を使って 縦に滑る…[PauseMid]\n"
 "その名も [Color name=\"red\"]盾サーフィン[Color name=\"unset\"]！\n"
-"[Sound1 unk1=\"1\" unk2=\"6\"]アレ？ [PauseMid]今もしかしてスベった？"
+"[Sound1 bytes=\"0106\"]アレ？ [PauseMid]今もしかしてスベった？"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "NQAAAAGSAwAAAAAAACcAAAAEAAAApAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAAtgAAALgAAADSAAAA1AAAAO4AAAAIAQAAIgEAADwBAABWAQAAcAEAAIoBAACkAQAAvgEAANgBAADyAQAADAIAACYCAABAAgAAWgIAAHQCAACOAgAAqAIAAMICAADcAgAA9gIAABADAAAqAwAARAMAAF4DAAB4AwAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAATgBwAGMAXwBSAG8AYQBkAF8AMAAzADcAAABOAHAAYwBfAFIAbwBhAGQAXwAwADMANwAAAE4AcABjAF8AUgBvAGEAZABfADAAMwA3AAAAAAAA"

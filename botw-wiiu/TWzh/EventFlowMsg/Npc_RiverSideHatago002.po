@@ -2,17 +2,17 @@ msgid "0010"
 msgstr "用卓拉式！"
 
 msgid "talk_sellWeaponShield00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你那面盾牌……"
+msgstr "[Sound1 bytes=\"0000\"]你那面盾牌……"
 
 msgid "0011"
 msgstr "用其他的方式！"
 
 msgid "talk_sellWeaponShield01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換紅寶石？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換紅寶石？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]從這裡往北走，會看到一座城堡，你有去過嗎？\n"
+"[Sound1 bytes=\"0000\"]從這裡往北走，會看到一座城堡，你有去過嗎？\n"
 "據說那是在100年前毀滅的海拉魯城堡……\n"
 "那邊能拿到不少寶物，像是過去的武器之類的，\n"
 "所以我之前有時會去尋寶。\n"
@@ -20,9 +20,9 @@ msgstr ""
 "在武器收藏家之間可是赫赫有名呢。\n"
 "我雖然也想瞧一眼那種武器……[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]但自從那裡冒出一陣怪霧以來，\n"
+"[Sound1 bytes=\"0B10\"]但自從那裡冒出一陣怪霧以來，\n"
 "最近怪物跟機械怪物的活動越來越頻繁……[PauseShort]\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]現在潛入那邊實在太危險了，\n"
+"[Sound1 bytes=\"0601\"]現在潛入那邊實在太危險了，\n"
 "如果愛惜生命的話，最好別靠近那邊。"
 
 msgid "0012"
@@ -30,54 +30,54 @@ msgstr "用格魯德式！"
 
 msgid "talk_hintGoron"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]鼓隆式呀，\n"
+"[Sound1 bytes=\"0004\"]鼓隆式呀，\n"
 "對毅力跟體魄有自信的話就選這個。\n"
 "方法簡單明瞭！\n"
 "就是從正面直接突破城堡的正門。\n"
 "訣竅就是多帶些能回復體力或能量的食物。"
 
 msgid "talk_sellWeaponShield02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換藍寶石？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換藍寶石？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]海拉魯城堡……肯定還有\n"
+"[Sound1 bytes=\"0000\"]海拉魯城堡……肯定還有\n"
 "數不盡的未知寶物在等人挖掘吧。"
 
 msgid "0013"
 msgstr "用希卡式！"
 
 msgid "talk_sellWeaponShield03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換黃玉？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換黃玉？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0014"
 msgstr "用自己的方式！"
 
 msgid "talk_hintShiekah"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]希卡式呀，\n"
+"[Sound1 bytes=\"0004\"]希卡式呀，\n"
 "我就是用這種方式入侵城堡的。\n"
 "在遠方仔細觀察，\n"
 "再從敵人較少的後門潛入。[Sound2 id=\"7\"]\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]我就把我發現的入口告訴你吧。\n"
+"[Sound1 bytes=\"0701\"]我就把我發現的入口告訴你吧。\n"
 "第一個是東坑道！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]先走過城堡東邊的芬薩橋，\n"
+"[Sound1 bytes=\"0001\"]先走過城堡東邊的芬薩橋，\n"
 "會看到城堡在你的左手邊。\n"
 "接著爬上山丘，\n"
 "仔細一看就能在城堡的山腰處找到坑道入口。\n"
 "要是晚上，因為夜光石會發光，更容易找到。[Sound2 id=\"7\"]\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]第二個是北方的船塢！\n"
+"[Sound1 bytes=\"0701\"]第二個是北方的船塢！\n"
 "城堡西邊的小島有座棧橋，\n"
 "從那裡搭乘木筏繞到北側，就能抵達了。\n"
 "我知道的入口就是這些囉。"
 
 #, ruby
 msgid "talk_sellWeaponShield04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鑽石と交換しない？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]鑽石と交換しない？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_hintRito"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]利特式呀，\n"
+"[Sound1 bytes=\"0004\"]利特式呀，\n"
 "有能力在空中滑行的話就選這個。\n"
 "先從東方或西方離開這片平原，\n"
 "繞到城堡北方的山上，\n"
@@ -86,17 +86,17 @@ msgstr ""
 
 msgid "talk_showWeaponBow"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]等、等一下！\n"
+"[Sound1 bytes=\"0A14\"]等、等一下！\n"
 "能讓我看看你拿到的那把弓嗎！？"
 
 msgid "talk_showWeaponShield"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]等、等一下！\n"
+"[Sound1 bytes=\"0A14\"]等、等一下！\n"
 "能讓我看看你拿到的那面盾牌嗎！？"
 
 msgid "talk_sellPorchFull"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]你好像拿不動更多東西了，\n"
+"[Sound1 bytes=\"0000\"]你好像拿不動更多東西了，\n"
 "整理好袋子再過來吧。"
 
 msgid "0000"
@@ -104,12 +104,12 @@ msgstr "拿近衛之劍交換"
 
 msgid "talk_showWeaponSword"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]等、等一下！\n"
+"[Sound1 bytes=\"0A14\"]等、等一下！\n"
 "能讓我看看你拿到的那把劍嗎！？"
 
 msgid "talk_showWeaponLSword"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]等、等一下！\n"
+"[Sound1 bytes=\"0A14\"]等、等一下！\n"
 "能讓我看看你拿到的那把大劍嗎！？"
 
 msgid "0001"
@@ -117,47 +117,47 @@ msgstr "拿近衛雙手劍交換"
 
 msgid "talk_sleep00"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]幹嘛！居然在旅館吵醒正在睡覺的女生，\n"
+"[Sound1 bytes=\"080E\"]幹嘛！居然在旅館吵醒正在睡覺的女生，\n"
 "你腦子在想啥！？稍微替別人想一下啦！"
 
 msgid "talk_hintSelf"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]哦……\n"
+"[Sound1 bytes=\"0000\"]哦……\n"
 "你這麼有自信的話，\n"
 "乾脆選擇一邊橫掃守護者，\n"
 "一邊勇往直前的勇者式如何？[PauseMid]\n"
 "[Sound2 id=\"8\"]……開玩笑的，\n"
-"[Sound1 unk1=\"2\" unk2=\"1\"]你可千萬別做這種傻事喔。"
+"[Sound1 bytes=\"0201\"]你可千萬別做這種傻事喔。"
 
 msgid "0002"
 msgstr "拿近衛之槍交換"
 
 msgid "talk_sellWeaponSpear00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你那把槍……"
+msgstr "[Sound1 bytes=\"0000\"]你那把槍……"
 
 msgid "talk_sleep01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]就說了我想睡覺！\n"
+"[Sound1 bytes=\"080E\"]就說了我想睡覺！\n"
 "快走啦！"
 
 msgid "0003"
 msgstr "拿近衛之弓交換"
 
 msgid "talk_sellWeaponSword00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你那把劍……"
+msgstr "[Sound1 bytes=\"0000\"]你那把劍……"
 
 msgid "talk_sellWeaponSpear01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換紅寶石？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換紅寶石？[Choice2 label1=\"2\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sleep02"
 msgstr ""
 "幹嘛！居然在旅館吵醒正在睡覺的女生……\n"
-"[Sound1 unk1=\"10\" unk2=\"21\"]而且還沒穿衣服！？\n"
-"[Sound1 unk1=\"8\" unk2=\"14\"]你這變態！別靠近我！！"
+"[Sound1 bytes=\"0A15\"]而且還沒穿衣服！？\n"
+"[Sound1 bytes=\"080E\"]你這變態！別靠近我！！"
 
 msgid "talk_hintZora"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]卓拉式呀，\n"
+"[Sound1 bytes=\"0004\"]卓拉式呀，\n"
 "有能力攀登瀑布的話就選這個。\n"
 "城堡周遭被護城河圍起，\n"
 "想游泳過去還挺困難的。\n"
@@ -168,53 +168,53 @@ msgid "0004"
 msgstr "拿近衛盾交換"
 
 msgid "talk_sellWeaponSword01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換紅寶石？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換紅寶石？[Choice2 label1=\"0\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sellWeaponSpear02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換藍寶石？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換藍寶石？[Choice2 label1=\"2\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sleep03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]半夜別裸體跟人搭話啦！\n"
+"[Sound1 bytes=\"080E\"]半夜別裸體跟人搭話啦！\n"
 "真是變態！！"
 
 msgid "talk_hintSelect00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]從各種族的擅長領域下手你覺得如何？"
+msgstr "[Sound1 bytes=\"0000\"]從各種族的擅長領域下手你覺得如何？"
 
 msgid "0005"
 msgstr "不換"
 
 msgid "talk_sellWeaponSword02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換藍寶石？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換藍寶石？[Choice2 label1=\"0\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sellWeaponSpear03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換黃玉？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換黃玉？[Choice2 label1=\"2\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0006"
 msgstr "我想聽"
 
 msgid "talk_hintSelect01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]其他的話……"
+msgstr "[Sound1 bytes=\"0000\"]其他的話……"
 
 msgid "talk_sellWeaponSword03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換黃玉？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換黃玉？[Choice2 label1=\"0\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_sellWeaponSpear04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鑽石と交換しない？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]鑽石と交換しない？[Choice2 label1=\"2\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0007"
 msgstr "不用麻煩了"
 
 msgid "talk_hintSelect02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要聽其他的嗎？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要聽其他的嗎？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_sellWeaponSword04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鑽石と交換しない？[Choice2 label1=\"0\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]鑽石と交換しない？[Choice2 label1=\"0\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_hintSelect03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鼓隆？利特？卓拉？還是……？[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0000\"]鼓隆？利特？卓拉？還是……？[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0008"
 msgstr "用鼓隆式！"
@@ -223,25 +223,25 @@ msgid "0009"
 msgstr "用利特式！"
 
 msgid "talk_hintSelect04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]格魯德？希卡？還是……？[Choice3 label1=\"12\" label2=\"13\" label3=\"14\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]格魯德？希卡？還是……？[Choice3 label1=\"12\" label2=\"13\" label3=\"14\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk_sellWeaponLSword00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你那把大劍……"
+msgstr "[Sound1 bytes=\"0000\"]你那把大劍……"
 
 msgid "talk_sellWeaponLSword01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換紅寶石？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換紅寶石？[Choice2 label1=\"1\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sellWeaponLSword02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換藍寶石？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換藍寶石？[Choice2 label1=\"1\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sellDone"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]真的嗎！？\n"
+"[Sound1 bytes=\"0700\"]真的嗎！？\n"
 "謝謝你！！"
 
 msgid "talk_sellDiamond"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]這樣我就收集完整套近衛系列的武器了！\n"
+"[Sound1 bytes=\"010A\"]這樣我就收集完整套近衛系列的武器了！\n"
 "真的很謝謝你！\n"
 "要是你能再拿近衛系列的武器過來，\n"
 "我就用紅寶石跟你交換！\n"
@@ -249,30 +249,30 @@ msgstr ""
 "但我還沒收藏過癮呢！"
 
 msgid "talk_sellWeaponLSword03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換黃玉？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換黃玉？[Choice2 label1=\"1\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_showWeaponSpear"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]等、等一下！\n"
+"[Sound1 bytes=\"0A14\"]等、等一下！\n"
 "能讓我看看你拿到的那把槍嗎！？"
 
 #, ruby
 msgid "talk_sellWeaponLSword04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鑽石と交換しない？[Choice2 label1=\"1\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]鑽石と交換しない？[Choice2 label1=\"1\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_notSell"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]唉……沒辦法……\n"
+"[Sound1 bytes=\"090C\"]唉……沒辦法……\n"
 "雖然可惜，也只能放棄了……"
 
 msgid "talk_showWeapon00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"18\"]……這……[PauseMid]\n"
+"[Sound1 bytes=\"0B12\"]……這……[PauseMid]\n"
 "[Pause frames=\"30\"]……真是驚人……"
 
 msgid "talk_hintGerudo"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]格魯德式呀，\n"
+"[Sound1 bytes=\"0004\"]格魯德式呀，\n"
 "充滿勇氣又對技巧有自信的話就選這個。\n"
 "雖然那些叫守護者的機械怪物\n"
 "總是在城堡周遭走來走去，\n"
@@ -285,40 +285,40 @@ msgstr ""
 
 msgid "talk_showWeapon01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]謝謝你讓我看了那麼棒的東西，\n"
+"[Sound1 bytes=\"0700\"]謝謝你讓我看了那麼棒的東西，\n"
 "我改天也再去找找看吧。"
 
 msgid "talk_sellWeaponBow00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你那把弓……"
+msgstr "[Sound1 bytes=\"0000\"]你那把弓……"
 
 msgid "talk_hint00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"20\"]什麼？你打算入侵城堡？\n"
-"我是知道不少方式……想聽嗎？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0014\"]什麼？你打算入侵城堡？\n"
+"我是知道不少方式……想聽嗎？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_showWeapon02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]這是謝禮。"
+msgstr "[Sound1 bytes=\"0000\"]這是謝禮。"
 
 msgid "talk_sellWeaponBow01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換紅寶石？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換紅寶石？[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_hint01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]入侵城堡的方式……想聽嗎？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]入侵城堡的方式……想聽嗎？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_sellWeaponBow02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換藍寶石？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換藍寶石？[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk_hint02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]不過因為很危險，我勸你還是別靠近那邊。\n"
+"[Sound1 bytes=\"0000\"]不過因為很危險，我勸你還是別靠近那邊。\n"
 "真要去的話，就做好萬全的準備吧。"
 
 msgid "talk_sellWeaponBow03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]要不要跟我換黃玉？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]要不要跟我換黃玉？[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_sellWeaponBow04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]鑽石と交換しない？[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]鑽石と交換しない？[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "JQAAAAGECwAAAAAAAEgAAAAEAAAAKAEAAFYBAACEAQAAsgEAAOABAAAOAgAAEAIAABICAABAAgAAbgIAAHACAAByAgAAdAIAAHYCAACkAgAA0gIAANQCAADWAgAA2AIAAAYDAAA0AwAAYgMAAJADAAC+AwAA7AMAABoEAABIBAAAdgQAAKQEAADSBAAAAAUAAC4FAABcBQAAigUAAIwFAACOBQAAkAUAAJIFAACUBQAAlgUAAMQFAADyBQAAIAYAAE4GAAB8BgAAqgYAANgGAAAGBwAANAcAAGIHAACQBwAAvgcAAOwHAAAaCAAASAgAAHYIAACkCAAA0ggAAAAJAAAuCQAAXAkAAIoJAAC4CQAA5gkAABQKAABCCgAAcAoAAJ4KAADMCgAA+goAACgLAABWCwAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAAAAAAAAAAAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBSAGkAdgBlAHIAUwBpAGQAZQBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AUgBpAHYAZQByAFMAaQBkAGUASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFIAaQB2AGUAcgBTAGkAZABlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"

@@ -5,49 +5,49 @@ msgid "0009"
 msgstr "Не помню..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе ко-онец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе ко-онец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Э-это тебе за босса![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Э-это тебе за босса![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Эй, па-арень![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]Эй, па-арень![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ай![PauseShort] Ты та-акой симпатичны-ый!"
+msgstr "[Sound1 bytes=\"0709\"]Ай![PauseShort] Ты та-акой симпатичны-ый!"
 
 msgid "TerrorArrow"
 msgstr "Не на-адо!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Эй![PauseShort] Ты меня слы-ышишь?"
+msgstr "[Sound1 bytes=\"0002\"]Эй![PauseShort] Ты меня слы-ышишь?"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]При-ивет!"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Хо-очешь, кое-что покажу?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B01\"]Хо-очешь, кое-что покажу?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Чего?"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Тогда-а закрой глаза![Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0101\"]Тогда-а закрой глаза![Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Поче-ему?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Я тебе не нра-авлюсь?[PauseShort]\n"
-"Ну закро-ой глаза...[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"030C\"]Поче-ему?[PageBreak][Sound1 bytes=\"0B01\"]Я тебе не нра-авлюсь?[PauseShort]\n"
+"Ну закро-ой глаза...[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Давай!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]За-акрыл?[PauseShort] Не подгляды-ываешь?[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]За-акрыл?[PauseShort] Не подгляды-ываешь?[PauseShort]\n"
 "Хоро-ошо, Вои-ин хайлийце-ев,\n"
 "тогда..."
 
@@ -56,7 +56,7 @@ msgstr "Не надо"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Знаешь, это-о очень обидно.[PauseShort]\n"
+"[Sound1 bytes=\"030D\"]Знаешь, это-о очень обидно.[PauseShort]\n"
 "Хоро-ошо, Воин хайлийце-ев,\n"
 "тогда..."
 
@@ -64,13 +64,13 @@ msgid "0004"
 msgstr "Хорошо!"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Помни-ишь меня?[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0102\"]Помни-ишь меня?[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "Нет, не хочу"
 
 msgid "Talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Что же, Воин хайлийце-ев..."
+msgstr "[Sound1 bytes=\"0700\"]Что же, Воин хайлийце-ев..."
 
 msgid "0006"
 msgstr "Закрыл!"

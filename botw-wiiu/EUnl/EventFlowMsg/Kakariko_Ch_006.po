@@ -3,7 +3,7 @@ msgstr "Nee, liever niet."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Waar vind ik de perfecte man die aan al\n"
+"[Sound1 bytes=\"030C\"]Waar vind ik de perfecte man die aan al\n"
 "mijn wensen voldoet?"
 
 msgid "0002"
@@ -17,33 +17,33 @@ msgstr "Of misschien toch!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]Mijn beste jongen![PageBreak][Size percent=\"100\"]Ik wist het al toen ik je voor het eerst\n"
-"zag...[PauseLong] Die is goed met een boog.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Je moet weten dat ik hetzelfde denk over\n"
+"[Sound1 bytes=\"0700\"][Size percent=\"125\"]Mijn beste jongen![PageBreak][Size percent=\"100\"]Ik wist het al toen ik je voor het eerst\n"
+"zag...[PauseLong] Die is goed met een boog.[PageBreak][Sound1 bytes=\"0109\"]Je moet weten dat ik hetzelfde denk over\n"
 "mannen die goed zijn met een boog, als\n"
 "over edelstenen: ik heb er nooit te veel.\n"
 "Wat zeg je ervan? Ga je mij een plezier\n"
-"doen met die boog van je?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"doen met die boog van je?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "Koop iets van me!"
 
 msgid "Talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wilde je nog iets anders?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Wilde je nog iets anders?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0006"
 msgstr "Niets."
 
 msgid "Talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ga je het nog doen, of hoe zit dat?[Choice3 label1=\"0\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Ga je het nog doen, of hoe zit dat?[Choice3 label1=\"0\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Ik mag jou wel.[PageBreak]Het is heel makkelijk: steek de [Color name=\"red\"]fakkels bij\n"
-"het godinnenbeeld[Color name=\"unset\"] aan. Lukt je dat?[Choice3 label1=\"0\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0700\"]Ik mag jou wel.[PageBreak]Het is heel makkelijk: steek de [Color name=\"red\"]fakkels bij\n"
+"het godinnenbeeld[Color name=\"unset\"] aan. Lukt je dat?[Choice3 label1=\"0\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Je weet niet wat het [Color name=\"red\"]godinnenbeeld[Color name=\"unset\"] is?\n"
+"[Sound1 bytes=\"0006\"]Je weet niet wat het [Color name=\"red\"]godinnenbeeld[Color name=\"unset\"] is?\n"
 "Het staat bij de [Color name=\"red\"]bron[Color name=\"unset\"] voor het huis van\n"
 "Impa. Geen idee wie het heeft neergezet."
 
@@ -52,14 +52,14 @@ msgstr "Dit wordt leuk!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]O, dat is jammer.[PageBreak]Als je iets voor me had gedaan, was ik\n"
+"[Sound1 bytes=\"0900\"]O, dat is jammer.[PageBreak]Als je iets voor me had gedaan, was ik\n"
 "bereid je met iets moois te belonen."
 
 msgid "Near01"
 msgstr "Ik zag je bezig!"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Hehehe... Ik kijk er nu al naar uit."
+msgstr "[Sound1 bytes=\"070B\"]Hehehe... Ik kijk er nu al naar uit."
 
 msgid "Near02"
 msgstr "Welkom!"
@@ -69,9 +69,9 @@ msgstr "Zeker weten!"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Mmm...[PauseLong] Een boogschutter met een goede\n"
+"[Sound1 bytes=\"0B00\"]Mmm...[PauseLong] Een boogschutter met een goede\n"
 "bouw, ik kan er heel de dag naar kijken.\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]O, pardon, ik dwaal af. Wilde je iets?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]O, pardon, ik dwaal af. Wilde je iets?[Choice3 label1=\"4\" label2=\"5\" label3=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAHiAQAAAAAAABMAAAAEAAAAVAAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAfgAAAIAAAACCAAAAogAAAMIAAADiAAAAAgEAACIBAABCAQAAYgEAAIIBAACiAQAAwgEAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAxADAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAA"

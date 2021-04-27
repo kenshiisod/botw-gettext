@@ -20,13 +20,13 @@ msgid "TerrorInsect"
 msgstr "J'ai peur des abeilles !"
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Hey ! Comme on s'retrouve !"
+msgstr "[Sound1 bytes=\"0102\"]Hey ! Comme on s'retrouve !"
 
 msgid "TerrorAnimal"
 msgstr "Va-t'en, sale bête !"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomHot\"]C'qu'il fait chaud, chaud..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomHot\"]C'qu'il fait chaud, chaud..."
 
 msgid "TerrorBomb"
 msgstr "Ouaaah !"
@@ -36,7 +36,7 @@ msgstr "[Sound2 id=\"16\"]Ouh, j'ai eu peur..."
 
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Il fait si chaud qu'une seconde\n"
+"[Sound1 bytes=\"0001\"]Il fait si chaud qu'une seconde\n"
 "d'égarement peut être fatale ! J'vais\n"
 "faire mon possible pour survivre !"
 

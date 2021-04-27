@@ -1,37 +1,37 @@
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Che fame!"
+msgstr "[Sound1 bytes=\"0900\"]Che fame!"
 
 msgid "Near01"
 msgstr "Din din!"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Io mangio le verdure! Sono brava, eh?"
+msgstr "[Sound1 bytes=\"0700\"]Io mangio le verdure! Sono brava, eh?"
 
 msgid "Near_Sleep00"
 msgstr "Zzz zzz..."
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Splish splosh!"
+msgstr "[Sound1 bytes=\"0900\"]Splish splosh!"
 
 msgid "Near_Sleep01"
 msgstr "[Sound2 id=\"32\"]Iauuuhn..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ma quando smette di piovere?!"
+msgstr "[Sound1 bytes=\"0000\"]Ma quando smette di piovere?!"
 
 msgid "Near_RunRain00"
 msgstr "Pioggiaaa!"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]A nanna!"
+msgstr "[Sound1 bytes=\"0922\"]A nanna!"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Sono piena...[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Sono piena...[PauseMid]\n"
 "che sonno..."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Che c'è?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Che c'è?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Che fai?"
@@ -41,12 +41,12 @@ msgstr "Niente."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Gioco a guardie e ladri!\n"
+"[Sound1 bytes=\"0700\"]Gioco a guardie e ladri!\n"
 "Vuoi giocare anche tu?\n"
 "È più divertente in due!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Prrrrrr!"
+msgstr "[Sound1 bytes=\"0800\"]Prrrrrr!"
 
 msgid "Near00"
 msgstr "Iiih! Iiih!"

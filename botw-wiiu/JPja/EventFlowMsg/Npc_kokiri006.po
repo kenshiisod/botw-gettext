@@ -1,25 +1,25 @@
 #, ruby
 msgid "Npc_kokiri006_Talk010"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"34\"]すぴょ… [PauseMid]ア… [PauseShort]また寝ちゃってまシた…\n"
+"[Sound1 bytes=\"0B22\"]すぴょ… [PauseMid]ア… [PauseShort]また寝ちゃってまシた…\n"
 "[Color name=\"blue\"]デクの樹サマのおヘソ[Color name=\"unset\"]へ ようこそでス"
 
 #, ruby
 msgid "Npc_kokiri006_Talk080"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]こばんわの 夜まででスね！\n"
+"[Sound1 bytes=\"0613\"]こばんわの 夜まででスね！\n"
 "ハイ むにゃむにゃ～ [PauseShort]ゴロゴロ～… [PauseShort]スゥ…"
 
 #, ruby
 msgid "Npc_kokiri006_Talk081"
 msgstr ""
 "好きなだけ [PauseShort]むにゃむにゃゴロゴロ\n"
-"していってくださイね！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"していってくださイね！[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_kokiri006_Talk030"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]ゆうしゃサマのために\n"
+"[Sound1 bytes=\"000B\"]ゆうしゃサマのために\n"
 "はっぱで寝床を つくっておきましタ！"
 
 #, ruby
@@ -33,7 +33,7 @@ msgid "0002"
 msgstr "やめる"
 
 msgid "Npc_kokiri006_Talk050"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]いつまで むにゃむにゃゴロゴロしまス？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0701\"]いつまで むにゃむにゃゴロゴロしまス？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0003"
@@ -45,7 +45,7 @@ msgstr "昼まで"
 
 msgid "Npc_kokiri006_Talk110"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"34\"]こばんわでス…… [PauseShort]スゥ……[PauseShort]\n"
+"[Sound1 bytes=\"0B22\"]こばんわでス…… [PauseShort]スゥ……[PauseShort]\n"
 "いてらしゃいマ… [PauseShort]セ……"
 
 msgid "Npc_kokiri006_Near000"
@@ -54,7 +54,7 @@ msgstr "オヤスミゆうしゃサマ"
 #, ruby
 msgid "Npc_kokiri006_Talk000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]むにゃ… [PauseShort]こばんわ？ [PauseShort]こんちわ？\n"
+"[Sound1 bytes=\"0022\"]むにゃ… [PauseShort]こばんわ？ [PauseShort]こんちわ？\n"
 "ごちそうさま？\n"
 "ア… [PauseShort]ごめんなさイ\n"
 "ちょっと寝てましタ…"
@@ -65,13 +65,13 @@ msgstr "夜まで"
 
 msgid "Npc_kokiri006_Talk001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]ヤヤ？ [PauseShort]ヤヤヤヤヤ？！\n"
+"[Sound1 bytes=\"0A14\"]ヤヤ？ [PauseShort]ヤヤヤヤヤ？！\n"
 "ゆうしゃサマでスね？！"
 
 #, ruby
 msgid "Npc_kokiri006_Talk070"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]こんちわの 昼まででスね！\n"
+"[Sound1 bytes=\"0613\"]こんちわの 昼まででスね！\n"
 "ハイ むにゃむにゃ～ [PauseShort]ゴロゴロ～"
 
 msgid "0006"
@@ -80,7 +80,7 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "Npc_kokiri006_Talk002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]デクの樹サマ[Color name=\"unset\"]から お話を聞いてましタが…\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]デクの樹サマ[Color name=\"unset\"]から お話を聞いてましタが…\n"
 "ついに 森まで来てくれたんでスね\n"
 "待ちくたびれて \n"
 "根っこが出ちゃうかと 思いまシた…"
@@ -88,43 +88,43 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri006_Talk130"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ア！ [PauseShort]ルピーはいらないでスよ！\n"
+"[Sound1 bytes=\"0A00\"]ア！ [PauseShort]ルピーはいらないでスよ！\n"
 "ゆうしゃサマなんでスから！\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]ペパパ [PauseShort]ずーっと ずーーーっと このベッドに\n"
+"[Sound1 bytes=\"0601\"]ペパパ [PauseShort]ずーっと ずーーーっと このベッドに\n"
 "ゆうしゃサマが寝てくれるの 待ってたんでス"
 
 #, ruby
 msgid "Npc_kokiri006_Talk003"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]ようこそ [Color name=\"blue\"][PauseShort]デクの樹サマのおヘソ[Color name=\"unset\"]へ！"
+msgstr "[Sound1 bytes=\"0700\"]ようこそ [Color name=\"blue\"][PauseShort]デクの樹サマのおヘソ[Color name=\"unset\"]へ！"
 
 #, ruby
 msgid "Npc_kokiri006_Talk020"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"34\"]むんにゃり… [PauseMid]ア [PauseShort]ゆうしゃサマ！\n"
+"[Sound1 bytes=\"0B22\"]むんにゃり… [PauseMid]ア [PauseShort]ゆうしゃサマ！\n"
 "[Color name=\"blue\"]デクの樹サマのおヘソ[Color name=\"unset\"]へ ようこそでス"
 
 #, ruby
 msgid "Npc_kokiri006_Talk131"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"34\"]ずーっと 待ってたら… [PauseShort]ねむくなっちゃって…[PauseMid]\n"
+"[Sound1 bytes=\"0B22\"]ずーっと 待ってたら… [PauseShort]ねむくなっちゃって…[PauseMid]\n"
 "…………スゥ"
 
 #, ruby
 msgid "Npc_kokiri006_Talk090"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]おはようございまス！[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]おはようございまス！[PauseShort]\n"
 "ゴハンは お隣のきのこ屋さんでどうぞデす～"
 
 #, ruby
 msgid "Npc_kokiri006_Talk040"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]さすが ゆうしゃサマ！\n"
+"[Sound1 bytes=\"0A00\"]さすが ゆうしゃサマ！\n"
 "寝なくても へいきへっちゃらなんでスね！"
 
 #, ruby
 msgid "Npc_kokiri006_Talk041"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]でも… [PauseShort]ペパパ… [PauseShort]ゆうしゃサマのために\n"
+"[Sound1 bytes=\"0900\"]でも… [PauseShort]ペパパ… [PauseShort]ゆうしゃサマのために\n"
 "毎日ベッド きれいにしてるかラ…\n"
 "ルピーもいらないし… [PauseShort]たまには 疲れてなくてモ\n"
 "むにゃむにゃゴロゴロ していってくださイね…"
@@ -132,19 +132,19 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri006_Talk100"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]こんちわでス！[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]こんちわでス！[PauseShort]\n"
 "スヤスヤ寝てるの 見守ってまシた！"
 
 #, ruby
 msgid "Npc_kokiri006_Talk060"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]おはようの 朝まででスね！\n"
+"[Sound1 bytes=\"0613\"]おはようの 朝まででスね！\n"
 "ハイ むにゃむにゃ～ [PauseShort]ゴロゴロ～"
 
 #, ruby
 msgid "Npc_kokiri006_Talk120"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]疲れてても 疲れてなくても\n"
+"[Sound1 bytes=\"0000\"]疲れてても 疲れてなくても\n"
 "また むにゃむにゃゴロゴロしに来てくださイね"
 
 msgid "_ReadOnly_MsbtExtras"

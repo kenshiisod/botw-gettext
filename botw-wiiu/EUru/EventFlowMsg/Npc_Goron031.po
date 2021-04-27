@@ -1,86 +1,86 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Ты меня понимаешься?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"Bukubuku_00\"]Ты меня понимаешься?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Га-га-га![PauseMid] Кумекаешь говорильню?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"Bukubuku_00\"]Га-га-га![PauseMid] Кумекаешь говорильню?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Bukubuku_00\"][Size percent=\"125\"]Гы-гы![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"Bukubuku_00\"][Size percent=\"125\"]Гы-гы![Size percent=\"100\"]"
 
 msgid "talk18"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Га-га-га![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0701\"][Animation name=\"Bukubuku_00\"]Га-га-га![Size percent=\"100\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Дорожина на [Color name=\"blue\"]мост Элдина[Color name=\"unset\"] —\n"
+"[Sound1 bytes=\"0001\"][Animation name=\"Bukubuku_00\"]Дорожина на [Color name=\"blue\"]мост Элдина[Color name=\"unset\"] —\n"
 "я тама [Color name=\"red\"]кладик[Color name=\"unset\"] спрятал...[PageBreak][Color name=\"red\"]Палку[Color name=\"unset\"]...[PauseShort] бабахалку...[PageBreak][Animation name=\"Bukubuku_00\"]Еселя найдеша, хватайся."
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Animation name=\"Bukubuku_00\"]Упонятил.[PauseShort] Ухи сюда вращай..."
+msgstr "[Sound1 bytes=\"0000\"][Animation name=\"Bukubuku_00\"]Упонятил.[PauseShort] Ухи сюда вращай..."
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Хватался за палку-бабахалку?[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Хватался за палку-бабахалку?[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Гы-гы-гы![PauseShort] Не скажуся!"
+msgstr "[Sound1 bytes=\"070A\"]Гы-гы-гы![PauseShort] Не скажуся!"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ты меня хорошо упонятил,\n"
-"кады я в водичке купался?[Choice2 label1=\"1\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Ты меня хорошо упонятил,\n"
+"кады я в водичке купался?[Choice2 label1=\"1\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"10\" unk2=\"8\"][Size percent=\"125\"]Ухты-ухты![Size percent=\"100\"][PageBreak][Sound1 unk1=\"5\" unk2=\"1\"]Ну ты голова!"
+msgstr "[Sound1 bytes=\"0A08\"][Size percent=\"125\"]Ухты-ухты![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0501\"]Ну ты голова!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"4\" unk2=\"23\"]Ух![PauseShort] Это она!"
+msgstr "[Sound1 bytes=\"0417\"]Ух![PauseShort] Это она!"
 
 msgid "near00"
 msgstr "Тр-р-р..."
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Обманьки делаешь?[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Кладик мой ты не хватался!"
+msgstr "[Sound1 bytes=\"0001\"]Обманьки делаешь?[PageBreak][Sound1 bytes=\"0701\"]Кладик мой ты не хватался!"
 
 msgid "near01"
 msgstr "Шр-р-р..."
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Схватил мою [Color name=\"blue\"]палку-бабахалку[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Покажай."
+msgstr "[Sound1 bytes=\"0A00\"]Схватил мою [Color name=\"blue\"]палку-бабахалку[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"0001\"]Покажай."
 
 msgid "near02"
 msgstr "Жаркало..."
 
 msgid "talk28"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Вот это да...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0001\"]Вот это да...[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "Хм..."
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Мне с дедкой того, сидим\n"
-"долго, кого кто![PauseShort] Не мешайся![Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0801\"][Animation name=\"Bukubuku_00\"]Мне с дедкой того, сидим\n"
+"долго, кого кто![PauseShort] Не мешайся![Choice2 label1=\"1\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ага, этой моя бабахалка.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Можаешь себе забираться!"
+msgstr "[Sound1 bytes=\"0000\"]Ага, этой моя бабахалка.[PageBreak][Sound1 bytes=\"0101\"]Можаешь себе забираться!"
 
 msgid "0000"
 msgstr "Где Юнобо?"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Досибанье!"
+msgstr "[Sound1 bytes=\"0001\"][Animation name=\"Bukubuku_00\"]Досибанье!"
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Опашный![PauseShort] Ногай отсюда!"
+msgstr "[Sound1 bytes=\"0800\"]Опашный![PauseShort] Ногай отсюда!"
 
 msgid "0001"
 msgstr "Хорошо"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Укумекал?[PauseShort] Ну и ногай!"
+msgstr "[Sound1 bytes=\"0801\"][Animation name=\"Bukubuku_00\"]Укумекал?[PauseShort] Ну и ногай!"
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хр-р-ф-ш-ш..."
+msgstr "[Sound1 bytes=\"0001\"]Хр-р-ф-ш-ш..."
 
 msgid "0002"
 msgstr "Пока-пока!"
@@ -89,58 +89,58 @@ msgid "0003"
 msgstr "Нет"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Уши есть?![PauseShort] Дела и времко у меня![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0801\"][Animation name=\"Bukubuku_00\"]Уши есть?![PauseShort] Дела и времко у меня![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0004"
 msgstr "Не совсем"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Мне с дедкой того, сидим\n"
-"долго, кого кто! [Animation name=\"Bukubuku_00\"]Не мешайся![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0801\"][Animation name=\"Bukubuku_00\"]Мне с дедкой того, сидим\n"
+"долго, кого кто! [Animation name=\"Bukubuku_00\"]Не мешайся![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "Хватался!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]Юнобко?"
+msgstr "[Sound1 bytes=\"0B01\"][Animation name=\"Bukubuku_00\"]Юнобко?"
 
 msgid "0006"
 msgstr "О чем ты?"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Animation name=\"Bukubuku_00\"]На [Color name=\"blue\"]мост Элдина[Color name=\"unset\"] понагал.[PauseShort] Тама\n"
+"[Sound1 bytes=\"0001\"][Animation name=\"Bukubuku_00\"]На [Color name=\"blue\"]мост Элдина[Color name=\"unset\"] понагал.[PauseShort] Тама\n"
 "жуть жутиная — туда не ногай."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Опятя будем с дедкой того,\n"
+"[Sound1 bytes=\"0002\"]Опятя будем с дедкой того,\n"
 "сидеть долго, кого кто..."
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"34\"]Глазенапы закрываются...[PauseShort] Дедка\n"
+"[Sound1 bytes=\"0922\"]Глазенапы закрываются...[PauseShort] Дедка\n"
 "опятя в воде долгее сидетя..."
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]Глазенапы закрываются...[PauseShort]\n"
+"[Sound1 bytes=\"0022\"]Глазенапы закрываются...[PauseShort]\n"
 "Завтречка дедку выиграю..."
 
 msgid "talk11"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"16\"]Дорожина на [Color name=\"blue\"]мост Элдина[Color name=\"unset\"]...[PauseShort] [Color name=\"red\"]кладик[Color name=\"unset\"]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0010\"]Дорожина на [Color name=\"blue\"]мост Элдина[Color name=\"unset\"]...[PauseShort] [Color name=\"red\"]кладик[Color name=\"unset\"]\n"
 "спрятал... [Color name=\"red\"]палку[Color name=\"unset\"]... [Color name=\"red\"]бабахалку[Color name=\"unset\"]...[Size percent=\"100\"]"
 
 msgid "talk12"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"red\"]Кладик[Color name=\"unset\"]...[PauseShort] [Color name=\"red\"]на водопадике[Color name=\"unset\"]...[PauseShort] из лавы...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0010\"][Color name=\"red\"]Кладик[Color name=\"unset\"]...[PauseShort] [Color name=\"red\"]на водопадике[Color name=\"unset\"]...[PauseShort] из лавы...[Size percent=\"100\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"][Size percent=\"80\"]Шр-р-р...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0010\"][Size percent=\"80\"]Шр-р-р...[Size percent=\"100\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"][Size percent=\"80\"]Ш-ш-ш...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0010\"][Size percent=\"80\"]Ш-ш-ш...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAFMBAAAAAAAACoAAAAEAAAAsAAAAMoAAADkAAAA/gAAABgBAAAaAQAAHAEAAB4BAAAgAQAAIgEAACQBAAAmAQAAQAEAAFoBAAB0AQAAjgEAAKgBAADCAQAA3AEAAPYBAAAQAgAAKgIAAEQCAABeAgAAeAIAAJICAACsAgAAxgIAAOACAAD6AgAAFAMAAC4DAABIAwAAYgMAAHwDAACWAwAAsAMAAMoDAADkAwAA/gMAABgEAAAyBAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAxAAAAAAAA"

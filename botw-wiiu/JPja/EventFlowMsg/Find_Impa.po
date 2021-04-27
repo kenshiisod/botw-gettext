@@ -1,17 +1,17 @@
 #, ruby
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]知らなかったこととはいえ\n"
+"[Sound1 bytes=\"0004\"]知らなかったこととはいえ\n"
 "大変失礼いたしました…\n"
 "最近[Color name=\"blue\"]イーガ団[Color name=\"unset\"]が不審な動きをしておりまして…[PauseShort]\n"
 "いやはや面目ございません\n"
 "インパ様が待っておられます[PauseShort]\n"
-"どうぞ中へお入りください[Choice3 label1=\"6\" label2=\"2\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"どうぞ中へお入りください[Choice3 label1=\"6\" label2=\"2\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ご心配には及びません[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]ご心配には及びません[PauseShort]\n"
 "これはシーカー族に伝わる民族衣装\n"
 "いつ何時でも任務をこなせるよう\n"
 "どんな状況にも耐えうるよう 作られた物ゆえ\n"
@@ -20,7 +20,7 @@ msgstr ""
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]インパ様は それはもう長い間\n"
+"[Sound1 bytes=\"0000\"]インパ様は それはもう長い間\n"
 "貴方様を 待ち続けておられました\n"
 "私からも お伝えしたいことはありますが\n"
 "とにかくまずは インパ様をお訪ねください"
@@ -28,17 +28,17 @@ msgstr ""
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]インパ様は それはもう長い間\n"
+"[Sound1 bytes=\"0004\"]インパ様は それはもう長い間\n"
 "貴方様を 待ち続けておられました\n"
 "貴方様は 我らシーカー族の希望…\n"
-"さあ早く インパ様をお訪ねください[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"さあ早く インパ様をお訪ねください[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]はっはっは[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]はっはっは[PauseShort]\n"
 "そう見えますかな？\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]シーカー族はかつて 自らの英知を\n"
+"[Sound1 bytes=\"0000\"]シーカー族はかつて 自らの英知を\n"
 "神の力と呼ばれるまでに高めた部族です\n"
 "この衣装は その当時の技術を\n"
 "駆使して作られた特注品なのです\n"
@@ -53,12 +53,12 @@ msgstr "雨は大丈夫？"
 
 #, ruby
 msgid "Talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"22\"][Size percent=\"125\"]お… 男の人！[PauseLong][Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0016\"][Size percent=\"125\"]お… 男の人！[PauseLong][Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk19"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]ひぃ…！！[PauseLong]\n"
+"[Sound1 bytes=\"0A15\"]ひぃ…！！[PauseLong]\n"
 "近うございます[PauseMid]\n"
 "わ… [PauseShort]若い殿方とは\n"
 "言葉を交わしたことさえ ほとんどなく…[PauseLong]\n"
@@ -77,7 +77,7 @@ msgstr "イーガ？"
 #, ruby
 msgid "Talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]忘れたわけではなくて 言葉がうまく…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]忘れたわけではなくて 言葉がうまく…[PauseMid]\n"
 "私は パ…[PauseShort] パ… [PauseShort]パヤパヤ…[PauseShort]\n"
 "パーヤと申します！[PauseMid]"
 
@@ -85,14 +85,14 @@ msgid "0007"
 msgstr "さよなら"
 
 msgid "Talk22"
-msgstr "[Sound1 unk1=\"10\" unk2=\"8\"]…えっ？ [PauseShort]それは？！[PauseShort]"
+msgstr "[Sound1 bytes=\"0A08\"]…えっ？ [PauseShort]それは？！[PauseShort]"
 
 #, ruby
 msgid "Talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ん？ [PauseShort]それは…[PauseMid]\n"
-"[Color name=\"blue\"][Sound1 unk1=\"10\" unk2=\"0\"]シーカーストーン[Color name=\"unset\"]？\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ということは お主…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ん？ [PauseShort]それは…[PauseMid]\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0A00\"]シーカーストーン[Color name=\"unset\"]？\n"
+"[Sound1 bytes=\"0000\"]ということは お主…[PauseMid]\n"
 "いや [PauseShort]貴方様は もしや…[PauseMid]"
 
 msgid "near00"
@@ -101,7 +101,7 @@ msgstr "！！"
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]インパ様が待っておられます\n"
+"[Sound1 bytes=\"0004\"]インパ様が待っておられます\n"
 "どうぞ中へお入りください"
 
 msgid "near01"
@@ -110,19 +110,19 @@ msgstr "？？"
 #, ruby
 msgid "Talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]お話はインパ様より伺っております[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]お話はインパ様より伺っております[PauseLong]\n"
 "どうぞ [PauseShort]奥にお進みください"
 
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ハイラルの雷は 金属に落ちやすいんです\n"
+"[Sound1 bytes=\"0000\"]ハイラルの雷は 金属に落ちやすいんです\n"
 "雨の日はご注意ください"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]我々シーカー族は[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]我々シーカー族は[PauseShort]\n"
 "英知の民として知られていました\n"
 "その技術は 1万年前に起った厄災の際[PauseShort]\n"
 "[Color name=\"red\"]ガノン[Color name=\"unset\"]を封じる要となり\n"
@@ -140,7 +140,7 @@ msgstr ""
 "貴方様も どうかお気を付けください"
 
 msgid "Talk26"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]？！[PauseShort]"
+msgstr "[Sound1 bytes=\"0A01\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]？！[PauseShort]"
 
 msgid "near03"
 msgstr "あわわわ…"
@@ -148,18 +148,18 @@ msgstr "あわわわ…"
 #, ruby
 msgid "Talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]もしや貴方様は 祖母が話してくれた[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]もしや貴方様は 祖母が話してくれた[PauseShort]\n"
 "リン… [PauseShort]リン… [PauseShort]あの…"
 
 #, ruby
 msgid "Talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]失礼いたしました[PauseLong]"
+msgstr "[Sound1 bytes=\"0004\"]失礼いたしました[PauseLong]"
 
 #, ruby
 msgid "Talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]自分の名前ですから 当たり前でしたね…[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]申し訳ございません[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]自分の名前ですから 当たり前でしたね…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]申し訳ございません[PauseShort]\n"
 "幼き頃より祖母から\n"
 "貴方様のことは伺っておりました\n"
 "ど… どうぞ中へお入りください[PauseShort]\n"
@@ -167,19 +167,19 @@ msgstr ""
 
 #, ruby
 msgid "Talk11"
-msgstr "[Sound1 unk1=\"10\" unk2=\"7\"]なに奴！ ここはインパ様のお屋敷"
+msgstr "[Sound1 bytes=\"0A07\"]なに奴！ ここはインパ様のお屋敷"
 
 #, ruby
 msgid "Talk29"
-msgstr "[Sound1 unk1=\"1\" unk2=\"18\"][Size percent=\"80\"]あっ 言えた…[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0112\"][Size percent=\"80\"]あっ 言えた…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]知らなかったこととはいえ\n"
+"[Sound1 bytes=\"0004\"]知らなかったこととはいえ\n"
 "大変失礼いたしました…\n"
 "最近[Color name=\"blue\"]イーガ団[Color name=\"unset\"]が不審な動きをしておりまして…[PauseShort]\n"
-"いやはや面目ございません[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"いやはや面目ございません[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAGGAwAAAAAAAB0AAAAEAAAAfAAAAJwAAAC8AAAA3AAAAPwAAAAcAQAAHgEAACABAABAAQAAYAEAAGIBAACCAQAAogEAAMIBAADiAQAAAgIAAAQCAAAGAgAAJgIAAEYCAABmAgAAhgIAAKYCAADGAgAA5gIAAAYDAAAmAwAARgMAAGYDAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA1AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADcAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANwAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA1AAAAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA1AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADUAAAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA1AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADUAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANQAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA3AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADcAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADcAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAAMgAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAAyAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADIAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAAMgAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAAyAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADIAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAAMgAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAAyAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADUAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANwAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAAyAAAAAAAA"

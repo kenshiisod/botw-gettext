@@ -1,68 +1,68 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Evenin'!"
+msgstr "[Sound1 bytes=\"0102\"]Evenin'!"
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Welcommmrgh... [PauseShort]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Welcommmrgh... [PauseShort]Zzz...[Size percent=\"100\"]"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]Young man! Over here!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]I'm off to bed, but the shop's still open\n"
+"[Sound1 bytes=\"0002\"]I'm off to bed, but the shop's still open\n"
 "if you wanna take a look around."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]That [Color name=\"blue\"]blue flame[Color name=\"unset\"]! I remember the\n"
+"[Sound1 bytes=\"0414\"]That [Color name=\"blue\"]blue flame[Color name=\"unset\"]! I remember the\n"
 "[Color name=\"blue\"]director[Color name=\"unset\"] of the [Color name=\"blue\"]research lab [Color name=\"unset\"]used to\n"
 "carry that around all the time."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]That's the [Color name=\"blue\"]blue flame[Color name=\"unset\"]![PauseLong] Grandma Purah\n"
+"[Sound1 bytes=\"0413\"]That's the [Color name=\"blue\"]blue flame[Color name=\"unset\"]![PauseLong] Grandma Purah\n"
 "used to carry that around all the time!"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]I know that [Color name=\"blue\"]flame[Color name=\"unset\"]![PauseShort] [Color name=\"blue\"]Grandma Purah[Color name=\"unset\"] used\n"
+"[Sound1 bytes=\"0019\"]I know that [Color name=\"blue\"]flame[Color name=\"unset\"]![PauseShort] [Color name=\"blue\"]Grandma Purah[Color name=\"unset\"] used\n"
 "to carry it around everywhere!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Kinda dreary weather today..."
+msgstr "[Sound1 bytes=\"0301\"]Kinda dreary weather today..."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]I know that [Color name=\"blue\"]flame[Color name=\"unset\"]![PauseShort] The [Color name=\"blue\"]director of the\n"
+"[Sound1 bytes=\"0019\"]I know that [Color name=\"blue\"]flame[Color name=\"unset\"]![PauseShort] The [Color name=\"blue\"]director of the\n"
 "research lab [Color name=\"unset\"]used to carry it around!"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]The [Color name=\"blue\"]East Wind [Color name=\"unset\"]general store is open...\n"
+"[Sound1 bytes=\"0009\"]The [Color name=\"blue\"]East Wind [Color name=\"unset\"]general store is open...\n"
 "and it's just as lively inside there as it is\n"
 "out here!"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]I gotta grab some sleep! [PauseShort]We can talk\n"
+"[Sound1 bytes=\"0002\"]I gotta grab some sleep! [PauseShort]We can talk\n"
 "later if we need to."
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]But[PauseShort] general-store extraordinaire \n"
+"[Sound1 bytes=\"0009\"]But[PauseShort] general-store extraordinaire \n"
 "[Color name=\"blue\"]East Wind [Color name=\"unset\"]is open and extra lively!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Go take a look!"
+msgstr "[Sound1 bytes=\"0001\"]Go take a look!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]What great weather!"
+msgstr "[Sound1 bytes=\"0001\"]What great weather!"
 
 msgid "0000"
 msgstr "What's this place?"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Didja need something?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Didja need something?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0001"
 msgstr "Who are you?"
@@ -71,19 +71,19 @@ msgid "0002"
 msgstr "Good-bye!"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]M-[PauseShort]me?"
+msgstr "[Sound1 bytes=\"0A00\"]M-[PauseShort]me?"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Yes! [PauseShort]Hullo![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0002\"]Yes! [PauseShort]Hullo![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Oh, OK, sure! [PauseShort]I'll introduce myself as\n"
+"[Sound1 bytes=\"0600\"]Oh, OK, sure! [PauseShort]I'll introduce myself as\n"
 "many times as it takes!"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]This is the general store, [Color name=\"blue\"]East Wind[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0609\"]This is the general store, [Color name=\"blue\"]East Wind[Color name=\"unset\"]![PauseShort]\n"
 "We're open and we are PEPPY!\n"
 "\n"
 "We carry all sorts of goods—[PauseShort]from the\n"
@@ -94,32 +94,32 @@ msgstr ""
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Pleased to meet your... No, wait.[PauseShort]\n"
+"[Sound1 bytes=\"0B01\"]Pleased to meet your... No, wait.[PauseShort]\n"
 "Pleased to MAKE your...acquaintance?[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]Anyway, nice to meet you!"
+"[Sound1 bytes=\"0101\"]Anyway, nice to meet you!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Stop by again sometime!"
+msgstr "[Sound1 bytes=\"0000\"]Stop by again sometime!"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Pleased... [PauseShort]Uh, I am very pleased to make\n"
+"[Sound1 bytes=\"0601\"]Pleased... [PauseShort]Uh, I am very pleased to make\n"
 "your acquaintance!\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"10\"]Yesss! I said it right!"
+"[Sound1 bytes=\"010A\"]Yesss! I said it right!"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Mornin'!"
+msgstr "[Sound1 bytes=\"0102\"]Mornin'!"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]I'm...[PauseShort]Ivee.[PauseLong] My name is Ivee!"
+msgstr "[Sound1 bytes=\"0001\"]I'm...[PauseShort]Ivee.[PauseLong] My name is Ivee!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Hullo!"
+msgstr "[Sound1 bytes=\"0102\"]Hullo!"
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]The store... [PauseShort]Open... [PauseShort]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]The store... [PauseShort]Open... [PauseShort]Zzz...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAHGBAAAAAAAAB0AAAAEAAAAfAAAAKYAAACoAAAAqgAAAKwAAADWAAAAAAEAACoBAABUAQAAfgEAAKgBAADSAQAA/AEAACYCAABQAgAAegIAAKQCAADOAgAA+AIAACIDAABMAwAAdgMAAKADAADKAwAA9AMAAB4EAABIBAAAcgQAAJwEAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAA="

@@ -8,7 +8,7 @@ msgstr "次のページへ"
 
 #, ruby
 msgid "Diary_00"
-msgstr "[01:02]よろずお悩み帖[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[01:02]よろずお悩み帖[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0004"
@@ -22,7 +22,7 @@ msgstr ""
 "妻が家をでていってしまいました\n"
 "\n"
 "あの時 私は何と答えれば\n"
-"よかったのでしょうか…  弓の名手より』[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"よかったのでしょうか…  弓の名手より』[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0005"
@@ -36,7 +36,7 @@ msgstr ""
 "大妖精の泉を探しているようですが\n"
 "あそこは村の守り神様がいらっしゃる場所\n"
 "村の高台の祠の裏手に祀られていることを\n"
-"知られないようにしなければ…　二児の父より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"知られないようにしなければ…　二児の父より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Diary_03"
@@ -44,7 +44,7 @@ msgstr ""
 "[01:02]『勢いあまって家を出て来たものの\n"
 "彼の弓を射る姿が忘れられない…\n"
 "この際もう誰でもいい… 弓を射る姿を\n"
-"私に見せてくれないかいさ～ 匿名希望より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"私に見せてくれないかいさ～ 匿名希望より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -60,7 +60,7 @@ msgstr ""
 "でも最近は物騒だから\n"
 "「夜は出歩いちゃダメ」って言われて\n"
 "ホタル達を愛でる時間もなくなっちゃった…\n"
-"このストレス どうしたら…  看板娘より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"このストレス どうしたら…  看板娘より』[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -74,7 +74,7 @@ msgstr ""
 "この宝珠には きっと何か重要な使命があり\n"
 "その時が来るのを 待っているのだと…\n"
 "そしてその日は そう遠くない…\n"
-"なぜか最近 そう思うのです  パパイアより』[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"なぜか最近 そう思うのです  パパイアより』[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAEAAgAAAAAAAAwAAAAEAAAAOAAAADoAAAA8AAAAPgAAAEAAAABCAAAARAAAAI4AAADYAAAAIgEAAGwBAAC2AQAAAAAAAAAAAAAAAAAAVAB3AG4ATwBiAGoAXwBWAGkAbABsAGEAZwBlAF8AUwBoAGUAaQBrAGUAcgBIAGUAaQByAEQAaQBhAHIAeQBfAEEAXwAwADIAAABUAHcAbgBPAGIAagBfAFYAaQBsAGwAYQBnAGUAXwBTAGgAZQBpAGsAZQByAEgAZQBpAHIARABpAGEAcgB5AF8AQQBfADAAMgAAAFQAdwBuAE8AYgBqAF8AVgBpAGwAbABhAGcAZQBfAFMAaABlAGkAawBlAHIASABlAGkAcgBEAGkAYQByAHkAXwBBAF8AMAAyAAAAVAB3AG4ATwBiAGoAXwBWAGkAbABsAGEAZwBlAF8AUwBoAGUAaQBrAGUAcgBIAGUAaQByAEQAaQBhAHIAeQBfAEEAXwAwADIAAABUAHcAbgBPAGIAagBfAFYAaQBsAGwAYQBnAGUAXwBTAGgAZQBpAGsAZQByAEgAZQBpAHIARABpAGEAcgB5AF8AQQBfADAAMgAAAFQAdwBuAE8AYgBqAF8AVgBpAGwAbABhAGcAZQBfAFMAaABlAGkAawBlAHIASABlAGkAcgBEAGkAYQByAHkAXwBBAF8AMAAyAAAAAAAA"

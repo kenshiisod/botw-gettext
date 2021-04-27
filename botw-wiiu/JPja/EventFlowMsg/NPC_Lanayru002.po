@@ -1,6 +1,6 @@
 #, ruby
 msgid "Talk_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]いーっていーって！[PauseShort] 細けぇことは気にすんな！"
+msgstr "[Sound1 bytes=\"0109\"]いーっていーって！[PauseShort] 細けぇことは気にすんな！"
 
 #, ruby
 msgid "0003"
@@ -9,37 +9,37 @@ msgstr "…遠慮します"
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]あの木の下に オレの相棒がいるからよ！[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]あの木の下に オレの相棒がいるからよ！[PauseShort]\n"
 "そいつから教えてもらえ！"
 
 #, ruby
 msgid "Talk_03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]じゃ さっそく行ってこい！[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0601\"]じゃ さっそく行ってこい！[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]何だ？[PauseShort] ノリわりぃーなぁ…[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]何だ？[PauseShort] ノリわりぃーなぁ…[PauseShort]\n"
 "ま 気が変わったら また声かけてくれや！"
 
 msgid "Talk_05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]おぅ！ [PauseShort]そうこなくっちゃな！"
+msgstr "[Sound1 bytes=\"010B\"]おぅ！ [PauseShort]そうこなくっちゃな！"
 
 #, ruby
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]よーぅ 兄弟！[PauseShort]\n"
+"[Sound1 bytes=\"0102\"]よーぅ 兄弟！[PauseShort]\n"
 "また[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに来たんだな？"
 
 #, ruby
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]よーぅ 兄弟！[PauseShort] やっぱり\n"
-"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]する気になったか？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]よーぅ 兄弟！[PauseShort] やっぱり\n"
+"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]する気になったか？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]あの木の下に 相棒がいるからな！"
+msgstr "[Sound1 bytes=\"0601\"]あの木の下に 相棒がいるからな！"
 
 #, ruby
 msgid "0000"
@@ -48,7 +48,7 @@ msgstr "何それ？"
 #, ruby
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]よーぅ 兄弟！[PauseShort] [Color name=\"blue\"]ラッセル[Color name=\"unset\"]から聞いてるぜ[PauseShort]\n"
+"[Sound1 bytes=\"0102\"]よーぅ 兄弟！[PauseShort] [Color name=\"blue\"]ラッセル[Color name=\"unset\"]から聞いてるぜ[PauseShort]\n"
 "また[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに来たんだろ？"
 
 msgid "near_00"
@@ -61,8 +61,8 @@ msgstr "違います"
 #, ruby
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]よーぅ 兄弟！[PauseShort] あんたも\n"
-"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに来たクチか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]よーぅ 兄弟！[PauseShort] あんたも\n"
+"[Color name=\"red\"]盾サーフィン[Color name=\"unset\"]しに来たクチか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "おう！"

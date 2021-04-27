@@ -18,7 +18,7 @@ msgstr ""
 "機械の名前は ミーの初恋の相手…\n"
 "チェリーちゃんだ\n"
 "フォー！！ 素材をチェリーちゃんに渡せば\n"
-"古代兵装に交換してくれる！ これはいい！[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"古代兵装に交換してくれる！ これはいい！[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0002"
@@ -44,7 +44,7 @@ msgstr ""
 "また どこでどう設計を間違ったか\n"
 "話す言葉も おかしい\n"
 "と言う訳で チェリーちゃんの改造は\n"
-"一旦頓挫する事となった[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"一旦頓挫する事となった[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0003"
@@ -66,7 +66,7 @@ msgstr ""
 "そもそもカカリコ村から このアッカレ地方まで\n"
 "身一つで来ている時点で 只者では無い\n"
 "ジェリンとの共同生活の末 いつの間にかミーは\n"
-"ジェリンを妻 と呼ぶようになっていた[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"ジェリンを妻 と呼ぶようになっていた[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0004"
@@ -92,7 +92,7 @@ msgstr ""
 "妻 ジェリンである\n"
 "\n"
 "妻は ミーとチェリーちゃんのやり取りを見る度\n"
-"嫉妬するようになったのだ[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"嫉妬するようになったのだ[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0005"
@@ -104,7 +104,7 @@ msgstr "読まない"
 
 #, ruby
 msgid "talk00"
-msgstr "ロベリー回顧録[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "ロベリー回顧録[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk10"
@@ -118,7 +118,7 @@ msgstr ""
 "賢いチェリーちゃんは ミーが設計した時の\n"
 "おかしな言葉の状態に 戻す事にした\n"
 "そして ミー自らの手で\n"
-"チェリーちゃんの記憶を 初期化した[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"チェリーちゃんの記憶を 初期化した[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk01"
@@ -146,7 +146,7 @@ msgstr ""
 "この近くに引っ越せば ハイラル城に居た時の\n"
 "厄災ガノン封じの研究も 続けられるだろう\n"
 "プルア女史と じゃんけんの結果…\n"
-"ミーはアッカレ地方に 引っ越す事になった[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"0\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"ミーはアッカレ地方に 引っ越す事になった[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"0\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk11"
@@ -162,7 +162,7 @@ msgstr ""
 "赤子にグラネットと名付け 三人と一機\n"
 "このアッカレ古代研究所で暮らした\n"
 "ゼルダ姫が厄災ガノンを 抑えておられる\n"
-"かりそめの平和の中で…[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"かりそめの平和の中で…[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk02"
@@ -180,7 +180,7 @@ msgstr ""
 "ハイラル城で使っていた\n"
 "彼女の勇導石を リアカーに乗せ\n"
 "インパ様と再会を約束し ミーとプルア女史の\n"
-"二人は カカリコ村を後にした[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"二人は カカリコ村を後にした[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk12"
@@ -196,7 +196,7 @@ msgstr ""
 "「使い物にならん！」と\n"
 "書きなぐられていた事を 思い出した\n"
 "さて ミーも平和を享受しておる場合ではない\n"
-"古代兵装の研究に まい進せねば[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"古代兵装の研究に まい進せねば[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk03"
@@ -218,7 +218,7 @@ msgstr ""
 "対ガーディアン用の武器を 渡していれば…\n"
 "\n"
 "と ハテノ砦の数十体のガーディアンの亡骸を\n"
-"前にして 思った次第である[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"前にして 思った次第である[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk13"
@@ -237,7 +237,7 @@ msgstr ""
 "修行させようと思い 彼女に打診してみたのだが\n"
 "「今は来るな！」と\n"
 "一言だけ書かれた手紙を 返されたのだった\n"
-"彼女に 何があったのだろうか？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"彼女に 何があったのだろうか？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk04"
@@ -253,7 +253,7 @@ msgstr ""
 "と思い 後を追うまでもなく\n"
 "プルア女史とは無言の別れと あいなった\n"
 "そしてミーは その足で\n"
-"カカリコ村へ 引き返したのだ[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"カカリコ村へ 引き返したのだ[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0000"
@@ -284,7 +284,7 @@ msgstr ""
 "リアカーから 勇導石を下ろす\n"
 "流石は灯台 魔物の行動を見張る事に関して\n"
 "これほど頼もしい場所は無い\n"
-"以降 ここをねぐらとする事にした[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"以降 ここをねぐらとする事にした[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAGUAgAAAAAAABQAAAAEAAAAWAAAAFoAAABcAAAAXgAAAGAAAABiAAAAZAAAAIwAAAC0AAAA3AAAAAQBAAAsAQAAVAEAAHwBAACkAQAAzAEAAPQBAAAcAgAARAIAAGwCAAAAAAAAAAAAAAAAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAA0AAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAANAAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADQAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAA0AAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAANAAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADQAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAA0AAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAANAAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADQAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAA0AAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAANAAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADQAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAA0AAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAANAAAAAAAAA=="

@@ -1,16 +1,16 @@
 #, ruby
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]オデ… 友達できたゴロ[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]オデ… 友達できたゴロ[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]でも…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]でも…[PauseMid]\n"
 "これって…\n"
 "男友達ゴロ？ 女友達ゴロ？"
 
 #, ruby
 msgid "Talk_55"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]ずっと見てた 砂嵐…\n"
+"[Sound1 bytes=\"0310\"]ずっと見てた 砂嵐…\n"
 "今は 消えたままゴロ… 全然出てこないゴロ…\n"
 "オデ… ずっと見てたのに…\n"
 "どうなってるゴロ？\n"
@@ -19,7 +19,7 @@ msgstr ""
 #, ruby
 msgid "Talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]あれ…？[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]あれ…？[PauseLong]\n"
 "\n"
 "キミ…[PauseLong]\n"
 "\n"
@@ -32,12 +32,12 @@ msgid "near00"
 msgstr "消えないゴロ…"
 
 msgid "Talk_56"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おはようゴロ"
+msgstr "[Sound1 bytes=\"0000\"]おはようゴロ"
 
 #, ruby
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]…砂嵐が消える時があるって聞いたから\n"
+"[Sound1 bytes=\"0310\"]…砂嵐が消える時があるって聞いたから\n"
 "オデ ずっとその砂嵐見てたゴロ……\n"
 "でも全然消えないゴロ…\n"
 "\n"
@@ -46,7 +46,7 @@ msgstr ""
 #, ruby
 msgid "Talk_10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]でも ココから見える あの砂嵐は\n"
+"[Sound1 bytes=\"0000\"]でも ココから見える あの砂嵐は\n"
 "一日に数時間だけ消えるらしいゴロ\n"
 "オデ あのでっかい塔のところに\n"
 "行きたいんだゴロ…\n"
@@ -56,7 +56,7 @@ msgstr ""
 #, ruby
 msgid "Talk_11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]消える砂嵐があるって聞いたゴロ\n"
+"[Sound1 bytes=\"0000\"]消える砂嵐があるって聞いたゴロ\n"
 "オデ… 今日こそ砂嵐が消えるのを見るんだゴロ"
 
 #, ruby
@@ -69,68 +69,68 @@ msgstr "さようなら"
 #, ruby
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…オデ 今砂嵐見てるゴロ……\n"
-"一緒に 見たいゴロ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]…オデ 今砂嵐見てるゴロ……\n"
+"一緒に 見たいゴロ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]砂漠は 砂嵐がひどいゴロ\n"
+"[Sound1 bytes=\"0004\"]砂漠は 砂嵐がひどいゴロ\n"
 "アレに巻き込まれると 迷って遭難しちゃうゴロ"
 
 #, ruby
 msgid "Talk_50"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]砂嵐が消えたゴロ\n"
+"[Sound1 bytes=\"0000\"]砂嵐が消えたゴロ\n"
 "オデ… 今日こそ砂嵐が出てくるの見るんだゴロ"
 
 #, ruby
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]オデ…\n"
+"[Sound1 bytes=\"0004\"]オデ…\n"
 "[Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]にも行きたいんだゴロ…\n"
 "でも なんか でっかいのがいて\n"
 "今は やめたほうがいい って言われたゴロ…\n"
-"[Sound1 unk1=\"9\" unk2=\"16\"]オデ…\n"
+"[Sound1 bytes=\"0910\"]オデ…\n"
 "どこにも行けないゴロ…"
 
 #, ruby
 msgid "Talk_51"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]オデ あっちにあった砂嵐を\n"
+"[Sound1 bytes=\"0000\"]オデ あっちにあった砂嵐を\n"
 "寝てる時以外 ずっと見てたんだゴロ…"
 
 #, ruby
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]オデ あの砂嵐を\n"
+"[Sound1 bytes=\"0000\"]オデ あの砂嵐を\n"
 "寝てる時以外 ずっと見てるゴロ…"
 
 #, ruby
 msgid "Talk_52"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]前は 全然消えなかったのに\n"
+"[Sound1 bytes=\"0910\"]前は 全然消えなかったのに\n"
 "今は 全然出てこないんだゴロ…\n"
-"オデ… 騙されたゴロ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"オデ… 騙されたゴロ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]でも 全然消えないんだゴロ…\n"
+"[Sound1 bytes=\"0910\"]でも 全然消えないんだゴロ…\n"
 "\n"
-"オデ… 騙されたゴロ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"オデ… 騙されたゴロ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_53"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ… そういえば オデ\n"
+"[Sound1 bytes=\"0000\"]あ… そういえば オデ\n"
 "でっかい塔のところに 行きたいんだったゴロ\n"
 "砂嵐が出てこないから 行けるゴロ…？"
 
 #, ruby
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]何だゴロ…\n"
+"[Sound1 bytes=\"0910\"]何だゴロ…\n"
 "\n"
 "オデ… 寒いの苦手…\n"
 "砂漠の夜 嫌いゴロ…"
@@ -138,8 +138,8 @@ msgstr ""
 #, ruby
 msgid "Talk_54"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…オデ 砂嵐出てくるの待ってるゴロ……\n"
-"一緒に 待つゴロ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]…オデ 砂嵐出てくるの待ってるゴロ……\n"
+"一緒に 待つゴロ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAEMAwAAAAAAABUAAAAEAAAAXAAAAIAAAACCAAAAhAAAAKgAAADMAAAA8AAAABQBAAA4AQAAXAEAAIABAACkAQAAyAEAAOwBAAAQAgAANAIAAFgCAAB8AgAAoAIAAMQCAADoAgAATgBwAGMAXwBTAG0AYQBsAGwATwBhAHMAaQBzADAAMAAxAAAAAAAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAE4AcABjAF8AUwBtAGEAbABsAE8AYQBzAGkAcwAwADAAMQAAAAAAAA=="

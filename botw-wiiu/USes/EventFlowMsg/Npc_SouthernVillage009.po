@@ -1,46 +1,46 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]¡Ninguna comida supera a la de mi mami!"
+msgstr "[Sound1 bytes=\"0100\"]¡Ninguna comida supera a la de mi mami!"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]¿Cómo te fue en las [Color name=\"red\"]ruinas[Color name=\"unset\"]?[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]¿Cómo te fue en las [Color name=\"red\"]ruinas[Color name=\"unset\"]?[PauseShort]\n"
 "¡Seguro que fue bieeen\n"
 "emocionante!"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Qué rica lluvia...[PauseMid] Cuando llueve siempre\n"
+"[Sound1 bytes=\"0100\"]Qué rica lluvia...[PauseMid] Cuando llueve siempre\n"
 "me dan ganas de correr y brincotear..."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]Ya me voy a dormir.[PauseMid]\n"
+"[Sound1 bytes=\"0022\"]Ya me voy a dormir.[PauseMid]\n"
 "¡Buenas noches!"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]¿Te cuento algo?[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]¿Te cuento algo?[PauseMid]\n"
 "Hay un lugar interesantísimo\n"
 "en la [Color name=\"blue\"]playa de Arecal[Color name=\"unset\"].\n"
 "Fui allá con Nikao y estuvo\n"
 "bieeen emocionante... [PauseMid]\n"
 "\n"
 "Según él, son unas [Color name=\"red\"]ruinas[Color name=\"unset\"].\n"
-"¿A ti te interesan esas cosas?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"¿A ti te interesan esas cosas?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Yo te acompaño hasta allá entonces.[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]Yo te acompaño hasta allá entonces.[PauseMid]\n"
 "¡Sígueme!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]¿Eeeh?[PauseMid] Pues qué pena..."
+msgstr "[Sound1 bytes=\"0900\"]¿Eeeh?[PauseMid] Pues qué pena..."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]No te retrases, ¿eh?"
+msgstr "[Sound1 bytes=\"0600\"]No te retrases, ¿eh?"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Lo logramos!"
+msgstr "[Sound1 bytes=\"0709\"]¡Lo logramos!"
 
 msgid "Near00"
 msgstr "¡Está lloviendo!"
@@ -61,27 +61,27 @@ msgid "Near04"
 msgstr "Zzz..."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ya casi llegamos. ¡Sígueme!"
+msgstr "[Sound1 bytes=\"0000\"]Ya casi llegamos. ¡Sígueme!"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¡Esas son las [Color name=\"red\"]ruinas[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0000\"]¡Esas son las [Color name=\"red\"]ruinas[Color name=\"unset\"]!"
 
 msgid "Near06"
 msgstr "Comiiida..."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¡Nos vemos!"
+msgstr "[Sound1 bytes=\"0004\"]¡Nos vemos!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]¡Ey! Ya es hora de comer.[PauseMid]\n"
+"[Sound1 bytes=\"011A\"]¡Ey! Ya es hora de comer.[PauseMid]\n"
 "¡Vamos rápido!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Zzzzz... Zzz..."
+msgstr "[Sound1 bytes=\"0021\"]Zzzzz... Zzz..."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Saluda a Nikao de mi parte."
+msgstr "[Sound1 bytes=\"0000\"]Saluda a Nikao de mi parte."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAH8AwAAAAAAABYAAAAEAAAAYAAAAI4AAAC8AAAA6gAAABgBAABGAQAAdAEAAKIBAADQAQAA/gEAACwCAABaAgAAiAIAALYCAADkAgAAEgMAABQDAAAWAwAARAMAAHIDAACgAwAAzgMAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAA=="

@@ -1,104 +1,104 @@
 msgid "talk09"
-msgstr "[Sound1 unk1=\"10\" unk2=\"21\"]Нельзя — значит нельзя!"
+msgstr "[Sound1 bytes=\"0A15\"]Нельзя — значит нельзя!"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"1\"]Да![PauseShort] Папа говорит, что [Color name=\"blue\"]хайлийцы[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0401\"]Да![PauseShort] Папа говорит, что [Color name=\"blue\"]хайлийцы[Color name=\"unset\"]\n"
 "должны сидеть дома, а не ходить\n"
-"по нашим горам.[PageBreak][Sound1 unk1=\"8\" unk2=\"21\"][Size percent=\"125\"]А взрослых надо слушать![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Это мне тоже папа сказал."
+"по нашим горам.[PageBreak][Sound1 bytes=\"0815\"][Size percent=\"125\"]А взрослых надо слушать![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0001\"]Это мне тоже папа сказал."
 
 msgid "0000"
 msgstr "Но мне очень нужно"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Привет."
+msgstr "[Sound1 bytes=\"0414\"]Привет."
 
 msgid "0001"
 msgstr "Правда?"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]Потому![PageBreak]Потому что там дальше падают они...[PageBreak][Color name=\"blue\"][Size percent=\"125\"]Горящие глыбы![Size percent=\"100\"][Color name=\"unset\"][Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0401\"]Потому![PageBreak]Потому что там дальше падают они...[PageBreak][Color name=\"blue\"][Size percent=\"125\"]Горящие глыбы![Size percent=\"100\"][Color name=\"unset\"][Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0002"
 msgstr "Пока-пока!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]Не ходи![PauseShort] Там не только [Color name=\"blue\"]горящие глыбы[Color name=\"unset\"]![PauseShort]\n"
-"Там еще очень-очень жалко![PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Или жарко?[PauseShort] Или все-таки жалко?[PageBreak][Sound1 unk1=\"8\" unk2=\"0\"]В общем, нельзя — и все!"
+"[Sound1 bytes=\"0A01\"]Не ходи![PauseShort] Там не только [Color name=\"blue\"]горящие глыбы[Color name=\"unset\"]![PauseShort]\n"
+"Там еще очень-очень жалко![PageBreak][Sound1 bytes=\"0B01\"]Или жарко?[PauseShort] Или все-таки жалко?[PageBreak][Sound1 bytes=\"0800\"]В общем, нельзя — и все!"
 
 msgid "0003"
 msgstr "Почему?"
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Я объелся...[PauseShort] Хр-р-р...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Я объелся...[PauseShort] Хр-р-р...[Size percent=\"100\"]"
 
 msgid "0004"
 msgstr "Ага, был"
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Папа...[PauseShort] Хр-р-р...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Папа...[PauseShort] Хр-р-р...[Size percent=\"100\"]"
 
 msgid "0005"
 msgstr "Нет еще"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Спать хочется..."
+msgstr "[Sound1 bytes=\"0900\"]Спать хочется..."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Ты турист, да?[PauseShort] В Горонграде уже был?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Ты турист, да?[PauseShort] В Горонграде уже был?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Доброе утро."
+msgstr "[Sound1 bytes=\"0600\"]Доброе утро."
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]Классно.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Ну, тогда ты сам все знаешь.[PauseShort] Пока!"
+msgstr "[Sound1 bytes=\"0401\"]Классно.[PageBreak][Sound1 bytes=\"0001\"]Ну, тогда ты сам все знаешь.[PauseShort] Пока!"
 
 msgid "near00"
 msgstr "Га-ха-ха!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Привет."
+msgstr "[Sound1 bytes=\"0600\"]Привет."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Понятно![PauseShort] Если пойдешь, сходи на\n"
+"[Sound1 bytes=\"0700\"]Понятно![PauseShort] Если пойдешь, сходи на\n"
 "вершину Горы Смерти — там куча\n"
-"[Color name=\"blue\"]драгоценных камней[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"7\" unk2=\"10\"]Только никому не рассказывай!"
+"[Color name=\"blue\"]драгоценных камней[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"070A\"]Только никому не рассказывай!"
 
 msgid "near01"
 msgstr "..."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Поздно уже..."
+msgstr "[Sound1 bytes=\"0600\"]Поздно уже..."
 
 msgid "near02"
 msgstr "Хр-р-р..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]А где твоя одежда?"
+msgstr "[Sound1 bytes=\"0600\"]А где твоя одежда?"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"]Ой![PauseShort] Дядя, это опять ты!"
+msgstr "[Sound1 bytes=\"0A01\"]Ой![PauseShort] Дядя, это опять ты!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]Ой...[PageBreak]...[PageBreak][Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]А-а-а![Size percent=\"100\"][PageBreak]Дядя, ты хайлиец, значит,\n"
+"[Sound1 bytes=\"0013\"]Ой...[PageBreak]...[PageBreak][Sound1 bytes=\"0A16\"][Size percent=\"125\"]А-а-а![Size percent=\"100\"][PageBreak]Дядя, ты хайлиец, значит,\n"
 "тебе дальше нельзя![Choice1 label=\"3\"]"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Дядя, ты уже был в Горонграде?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Дядя, ты уже был в Горонграде?[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Уо-а-а![PauseShort] Спать хочу..."
+msgstr "[Sound1 bytes=\"0900\"]Уо-а-а![PauseShort] Спать хочу..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"]Ой![PauseShort] Дядя, ты хайлиец!"
+msgstr "[Sound1 bytes=\"0A01\"]Ой![PauseShort] Дядя, ты хайлиец!"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]Папа говорит, что хайлийцам\n"
-"дальше нельзя ходить![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0A01\"]Папа говорит, что хайлийцам\n"
+"дальше нельзя ходить![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAH8AgAAAAAAAB4AAAAEAAAAgAAAAJoAAAC0AAAAzgAAANAAAADSAAAA1AAAANYAAADYAAAA2gAAAPQAAAAOAQAAKAEAAEIBAABcAQAAdgEAAJABAACqAQAAxAEAAN4BAAD4AQAAEgIAACwCAABGAgAAYAIAAHoCAACUAgAArgIAAMgCAADiAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAAAAAAAAAAAAAAAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADUAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA1AAAAAAAA"

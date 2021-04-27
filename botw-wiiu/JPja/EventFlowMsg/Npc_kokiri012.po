@@ -1,30 +1,30 @@
 #, ruby
 msgid "Npc_kokiri012_Talk003"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]しゅるりーん！ [PauseShort]きらきら！\n"
+"[Sound1 bytes=\"0700\"]しゅるりーん！ [PauseShort]きらきら！\n"
 "ゆうしゃサマ [Color name=\"blue\"]マスターソード[Color name=\"unset\"]抜けたね！\n"
 "[Color name=\"blue\"]マスターソード[Color name=\"unset\"]の 元気がなくなったら\n"
 "ロッドのことも 思い出してネ\n"
-"[Sound1 unk1=\"6\" unk2=\"0\"]ロッドには こおりのちカラだけじゃなくて\n"
+"[Sound1 bytes=\"0600\"]ロッドには こおりのちカラだけじゃなくて\n"
 "ほのおと でんきの ちカラもあるからネ！"
 
 #, ruby
 msgid "Npc_kokiri012_Talk004"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]ねえねえ ゆうしゃサマ\n"
-"わたしに マスターソード [PauseShort]見せて見せテ！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]ねえねえ ゆうしゃサマ\n"
+"わたしに マスターソード [PauseShort]見せて見せテ！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Npc_kokiri012_Talk005"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ヤッター！[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]ヤッター！[PauseMid]\n"
 "わくわく [PauseMid]わくわくわく"
 
 #, ruby
 msgid "Npc_kokiri012_Talk006"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]しゃきーん！ [PauseShort]しゅばばーん！\n"
+"[Sound1 bytes=\"070A\"]しゃきーん！ [PauseShort]しゅばばーん！\n"
 "きゃー！ かっこいい！\n"
-"[Sound1 unk1=\"6\" unk2=\"0\"]ありがとう ゆうしゃサマ！\n"
+"[Sound1 bytes=\"0600\"]ありがとう ゆうしゃサマ！\n"
 "見せてもらえて うれしいワ\n"
 "その剣で お姫サマを\n"
 "助けてあげてネ！"
@@ -32,17 +32,17 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri012_Talk000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]わぁ！[PauseShort] アナタひょっとして ゆうしゃサマ？[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]わぁ！[PauseShort] アナタひょっとして ゆうしゃサマ？[PauseMid]\n"
 "ようこそコログの森へ！！\n"
 "ワタシが思ってたより ずっとずっと…[PauseMid]\n"
 "ゆうしゃサマって[PauseShort] かっこいい！"
 
 msgid "Npc_kokiri012_Talk007"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]そう… [PauseShort]ざんねんだワ…"
+msgstr "[Sound1 bytes=\"0900\"]そう… [PauseShort]ざんねんだワ…"
 
 #, ruby
 msgid "Npc_kokiri012_Talk001"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]はやく [Color name=\"red\"]剣[Color name=\"unset\"]のところにいってね[PauseShort] ゆうしゃサマ！"
+msgstr "[Sound1 bytes=\"0000\"]はやく [Color name=\"red\"]剣[Color name=\"unset\"]のところにいってね[PauseShort] ゆうしゃサマ！"
 
 msgid "0000"
 msgstr "いいよ"
@@ -50,11 +50,11 @@ msgstr "いいよ"
 #, ruby
 msgid "Npc_kokiri012_Talk002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]しゅるりーん！ [PauseShort]きらきら！\n"
+"[Sound1 bytes=\"0700\"]しゅるりーん！ [PauseShort]きらきら！\n"
 "かっこいい ゆうしゃサマ [PauseShort]ごきげんいかが？\n"
 "ロッドには こおりのちカラだけじゃなくて\n"
 "ほのおと でんきの ちカラもあるノ\n"
-"[Sound1 unk1=\"6\" unk2=\"0\"]ちカラいっぱい たくわえて\n"
+"[Sound1 bytes=\"0600\"]ちカラいっぱい たくわえて\n"
 "森と ハイラルを平和にしてネ… [PauseShort]ゆうしゃサマ"
 
 #, ruby

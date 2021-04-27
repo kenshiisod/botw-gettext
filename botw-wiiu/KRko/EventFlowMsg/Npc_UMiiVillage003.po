@@ -1,83 +1,83 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]자기 싫어! [PauseShort]자기 싫다고!"
+msgstr "[Sound1 bytes=\"0800\"]자기 싫어! [PauseShort]자기 싫다고!"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]이야기 좀 해 줘![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]이야기 좀 해 줘![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]평범해!"
+msgstr "[Sound1 bytes=\"0009\"]평범해!"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]다 싫어!"
+msgstr "[Sound1 bytes=\"080E\"]다 싫어!"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]…\n"
+"[Sound1 bytes=\"0001\"]…\n"
 "\n"
 "……"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]다른 이야기 좀 해 줘![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]다른 이야기 좀 해 줘![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]평범하다고 했잖아!"
+msgstr "[Sound1 bytes=\"020E\"]평범하다고 했잖아!"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]싫어, 싫어, 다 싫어!"
+msgstr "[Sound1 bytes=\"020E\"]싫어, 싫어, 다 싫어!"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…그치만 케이크는 먹을 수 있어!"
+msgstr "[Sound1 bytes=\"0000\"]…그치만 케이크는 먹을 수 있어!"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]그게 누구야? [PauseShort]하니랑 관계없어!"
+msgstr "[Sound1 bytes=\"020E\"]그게 누구야? [PauseShort]하니랑 관계없어!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]이제 안 와도 돼!"
+msgstr "[Sound1 bytes=\"0000\"]이제 안 와도 돼!"
 
 msgid "near00"
 msgstr "새근새근…"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]여행하는 오빠다![PauseLong]\n"
+"[Sound1 bytes=\"0700\"]여행하는 오빠다![PauseLong]\n"
 "그럼…"
 
 msgid "near01"
 msgstr "♪~"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]그게 뭐야, 재미없어!"
+msgstr "[Sound1 bytes=\"020E\"]그게 뭐야, 재미없어!"
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]이제 잘 거야~[PauseLong]\n"
+"[Sound1 bytes=\"000C\"]이제 잘 거야~[PauseLong]\n"
 "마마가 잔소리하니까…"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]쿨쿨[Size percent=\"80\"]…[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"]쿨쿨[Size percent=\"80\"]…[Size percent=\"100\"]"
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]이제 그만 잘게[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]이제 그만 잘게[PauseLong]\n"
 "다음에 또 얘기해 줘!"
 
 msgid "0000"
 msgstr "그래"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕!"
+msgstr "[Sound1 bytes=\"0000\"]안녕!"
 
 msgid "0001"
 msgstr "안녕"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕!"
+msgstr "[Sound1 bytes=\"0000\"]안녕!"
 
 msgid "0002"
 msgstr "재밌지"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]안녕!"
+msgstr "[Sound1 bytes=\"0000\"]안녕!"
 
 msgid "0003"
 msgstr "힘들어"
@@ -86,13 +86,13 @@ msgid "0004"
 msgstr "알지"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]여행자?[Choice2 label1=\"0\" label2=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]여행자?[Choice2 label1=\"0\" label2=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "몰라"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]재밌어?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0010\"]재밌어?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0006"
 msgstr "컨디션은 어때?"
@@ -101,44 +101,44 @@ msgid "0007"
 msgstr "좋아하는 음식은?"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]앗!"
+msgstr "[Sound1 bytes=\"0000\"]앗!"
 
 msgid "0008"
 msgstr "재앙 가논에 대해"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]하니도 크면[PauseShort]\n"
+"[Sound1 bytes=\"010A\"]하니도 크면[PauseShort]\n"
 "혼자 밖에 나가고 싶어~!"
 
 msgid "0009"
 msgstr "비슷해"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]그렇구나~!"
+msgstr "[Sound1 bytes=\"010B\"]그렇구나~!"
 
 msgid "talk11"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"0\"]몬스터 케이크[Color name=\"unset\"]라고 알아?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0B00\"]몬스터 케이크[Color name=\"unset\"]라고 알아?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]엄마가 사다 줬는데[PauseShort]\n"
+"[Sound1 bytes=\"070A\"]엄마가 사다 줬는데[PauseShort]\n"
 "엄청 맛없었어!\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]그런데 [Color name=\"blue\"]몬스터 케이크[Color name=\"unset\"]를 먹었더니[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]그런데 [Color name=\"blue\"]몬스터 케이크[Color name=\"unset\"]를 먹었더니[PauseShort]\n"
 "엄청 힘이 솟는 거 있지! 이렇게!\n"
 "오빠도 한번 먹어 봐!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]그거 진짜 맛없지!\n"
+"[Sound1 bytes=\"070A\"]그거 진짜 맛없지!\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]그런데 [Color name=\"blue\"]몬스터 케이크[Color name=\"unset\"]를 먹어서 그런지[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]그런데 [Color name=\"blue\"]몬스터 케이크[Color name=\"unset\"]를 먹어서 그런지[PauseShort]\n"
 "기운이 펄펄 나지 뭐야!\n"
 "오빠도 기운 없을 때[PauseShort]\n"
 "한번 먹어 봐!"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]자기 싫은데~!"
+msgstr "[Sound1 bytes=\"0800\"]자기 싫은데~!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAEwBQAAAAAAACgAAAAEAAAAqAAAAM4AAAD0AAAA9gAAAPgAAAD6AAAA/AAAAP4AAAAAAQAAAgEAAAQBAAAGAQAACAEAAC4BAABUAQAAegEAAKABAADGAQAA7AEAABICAAA4AgAAXgIAAIQCAACqAgAA0AIAAPYCAAAcAwAAQgMAAGgDAACOAwAAtAMAANoDAAAABAAAJgQAAEwEAAByBAAAmAQAAL4EAADkBAAACgUAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAAAAAA"

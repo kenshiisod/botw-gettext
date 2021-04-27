@@ -1,11 +1,11 @@
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Du kannst mich jederzeit alles fragen."
+msgstr "[Sound1 bytes=\"0000\"]Du kannst mich jederzeit alles fragen."
 
 msgid "Near01"
 msgstr "Gut, gut..."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Willst du noch was wissen?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Willst du noch was wissen?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near02"
 msgstr "Zzz..."
@@ -21,11 +21,11 @@ msgstr "Zeit fürs Bett!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Danke für deine Hilfe.[PauseShort] Dafür erzähle ich\n"
+"[Sound1 bytes=\"0102\"]Danke für deine Hilfe.[PauseShort] Dafür erzähle ich\n"
 "dir alles über dieses Gebiet, was ich\n"
 "weiß.[PageBreak][04:03]Zum Beispiel die Sache mit den\n"
 "riesigen Pferden. [PauseShort]Oder wie man Pferde\n"
-"wiederbeleben kann.[PauseShort] Na los, frag nur![Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"wiederbeleben kann.[PauseShort] Na los, frag nur![Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk01"
 msgstr "Zzz..."
@@ -35,7 +35,7 @@ msgstr "Pferde beleben?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Nicht weit lebt der mysteriöse [Color name=\"red\"]Gott der\n"
+"[Sound1 bytes=\"0000\"]Nicht weit lebt der mysteriöse [Color name=\"red\"]Gott der\n"
 "Pferde[Color name=\"unset\"].[PauseShort] Er kann Pferde wiederbeleben.[PauseShort]\n"
 "Unglaublich, aber wahr."
 
@@ -44,7 +44,7 @@ msgstr "Riesige Pferde?"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Westlich von hier liegt das\n"
+"[Sound1 bytes=\"0000\"]Westlich von hier liegt das\n"
 "[Color name=\"blue\"]Taobab-Grasland[Color name=\"unset\"].[PauseShort] Dort leben [Color name=\"red\"]riesige\n"
 "Pferde[Color name=\"unset\"].[PauseShort] WIRKLICH riesige Pferde."
 

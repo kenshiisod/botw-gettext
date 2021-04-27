@@ -15,7 +15,7 @@ msgstr "Warum... kapierst du es einfach nicht...?"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Ich habe um den Schrein herum Blumen\n"
+"[Sound1 bytes=\"0008\"]Ich habe um den Schrein herum Blumen\n"
 "gepflanzt. [PauseShort]Sei bitte vorsichtig, nicht auf\n"
 "sie draufzutreten."
 
@@ -24,27 +24,27 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]ARRRGH, NEEEIIIN!!![Size percent
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]Du darfst den Blumen nichts tun![Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]Du darfst den Blumen nichts tun![Color name=\"unset\"][PauseShort]\n"
 "Das tut ihnen doch weh!"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]He! Wie oft muss ich es dir noch sagen?![PauseShort]\n"
+"[Sound1 bytes=\"080E\"]He! Wie oft muss ich es dir noch sagen?![PauseShort]\n"
 "[Color name=\"red\"]Vorsicht mit den Blumen![PauseShort][Color name=\"unset\"]\n"
 "Das sind auch Lebewesen, weißt du!"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Sieh nur![PauseShort] Wunderschön, oder?[PauseShort]\n"
+"[Sound1 bytes=\"0113\"]Sieh nur![PauseShort] Wunderschön, oder?[PauseShort]\n"
 "Ich habe rund um den Schrein herum\n"
 "Blumen gepflanzt.\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Du kannst sie dir gern aus der Nähe\n"
+"[Sound1 bytes=\"0001\"]Du kannst sie dir gern aus der Nähe\n"
 "ansehen.[PauseMid] Sei nur vorsichtig, nicht auf\n"
 "sie draufzutreten!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Sieh dir die Blumen, die ich so mühevoll\n"
+"[Sound1 bytes=\"0008\"]Sieh dir die Blumen, die ich so mühevoll\n"
 "gepflanzt habe, ruhig an, so lange du\n"
 "magst!"
 
@@ -59,7 +59,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]He! [PauseShort]Wo willst du denn hin?![PauseShort]\n"
+"[Sound1 bytes=\"080E\"]He! [PauseShort]Wo willst du denn hin?![PauseShort]\n"
 "[Color name=\"red\"]Lass die Blumen in Ruhe![Color name=\"unset\"]"
 
 msgid "_ReadOnly_MsbtExtras"

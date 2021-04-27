@@ -1,35 +1,35 @@
 #, ruby
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]逆に言えば[PauseShort] ヤツに近づかなきゃ撃たれない\n"
+"[Sound1 bytes=\"0000\"]逆に言えば[PauseShort] ヤツに近づかなきゃ撃たれない\n"
 "ってのが 最近分かってな\n"
 "つーワケで 用があるヤツぁ[PauseShort]\n"
 "みんなこの門から 歩いて出入りしてるぜ\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]全く [PauseShort]翼のリト族が 情けねぇ話だぜ"
+"[Sound1 bytes=\"0900\"]全く [PauseShort]翼のリト族が 情けねぇ話だぜ"
 
 #, ruby
 msgid "Talk_09"
-msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]ん？[PauseShort] 旅の人かい？"
+msgstr "[Sound1 bytes=\"0B13\"]ん？[PauseShort] 旅の人かい？"
 
 #, ruby
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]テバなら ここから出てったぜ\n"
+"[Sound1 bytes=\"0004\"]テバなら ここから出てったぜ\n"
 "\n"
 "橋の向こうのギザンなら[PauseShort]\n"
 "もっと詳しい事 知ってんじゃねぇかな？"
 
 #, ruby
 msgid "Talk_21"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に質問ある？[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]他に質問ある？[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_10"
-msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]ん？[PauseShort] こんな夜分に 旅の人かい？"
+msgstr "[Sound1 bytes=\"0B13\"]ん？[PauseShort] こんな夜分に 旅の人かい？"
 
 #, ruby
 msgid "Talk_11"
-msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]ん？[PauseShort] こんな中 旅の人かい？"
+msgstr "[Sound1 bytes=\"0B13\"]ん？[PauseShort] こんな中 旅の人かい？"
 
 msgid "0000"
 msgstr "ここって？"
@@ -40,34 +40,34 @@ msgstr "どうしたの？"
 #, ruby
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]もてなしたいところなんだけど[PauseShort]\n"
-"今は それどころじゃねぇ感じだよ[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0001\"]もてなしたいところなんだけど[PauseShort]\n"
+"今は それどころじゃねぇ感じだよ[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "さようなら"
 
 msgid "Talk_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]ん… [PauseShort]アンタか"
+msgstr "[Sound1 bytes=\"0004\"]ん… [PauseShort]アンタか"
 
 #, ruby
 msgid "Talk_14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]この村 こないだまで [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]っつー[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]この村 こないだまで [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]っつー[PauseShort]\n"
 "デカいのが飛んでてな\n"
 "いろいろあって[PauseShort]\n"
-"やっと最近 落ちついたところなんだよ[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"やっと最近 落ちついたところなんだよ[Choice2 label1=\"4\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ここは俺達 リトの村だが…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ここは俺達 リトの村だが…[PauseMid]\n"
 "あんまり歓迎ムード って感じじゃねぇぜ\n"
 "詳しい事は 中のヤツらに聞いてくれや"
 
 #, ruby
 msgid "Talk_15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ああ 今その [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]なら\n"
+"[Sound1 bytes=\"0001\"]ああ 今その [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]なら\n"
 "村のてっぺんに停まってるよ\n"
 "停まってからはピクリとも 動いてないぜ"
 
@@ -78,7 +78,7 @@ msgstr "神獣 ヴァ・メドー？"
 #, ruby
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]空のバケモン[Color name=\"unset\"]見たかい？[PauseLong]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]空のバケモン[Color name=\"unset\"]見たかい？[PauseLong]\n"
 "あれ [Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]って言うらしいぜ\n"
 "数日前に現れたんだが 偵察に行ったヤツが[PauseShort]\n"
 "その[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]に撃たれちまってな\n"
@@ -88,29 +88,29 @@ msgstr ""
 #, ruby
 msgid "Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]しっかし あのデカいのが降りてきた時ゃ\n"
+"[Sound1 bytes=\"0000\"]しっかし あのデカいのが降りてきた時ゃ\n"
 "どうなるかと思ったぜ…"
 
 msgid "0005"
 msgstr "テバ知らない？"
 
 msgid "Talk_04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]おぅ"
+msgstr "[Sound1 bytes=\"0000\"]おぅ"
 
 #, ruby
 msgid "Talk_17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]この辺は相変わらずだぜ[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]この辺は相変わらずだぜ[Choice4Flags label1=\"5\" flag1=\"Rito_NPC011_ChoiceTeba\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]村のてっぺんの[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]\n"
-"見に来たんだろ？[Choice2 label1=\"4\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B06\"]村のてっぺんの[Color name=\"blue\"]神獣 ヴァ・メドー[Color name=\"unset\"]\n"
+"見に来たんだろ？[Choice2 label1=\"4\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]テバなら ここから出てったぜ\n"
+"[Sound1 bytes=\"0004\"]テバなら ここから出てったぜ\n"
 "\n"
 "ってか 飛んでったら[Color name=\"blue\"]メドー[Color name=\"unset\"]に撃たれるから[PauseShort]\n"
 "歩いて出てくしかねぇんだけど…\n"

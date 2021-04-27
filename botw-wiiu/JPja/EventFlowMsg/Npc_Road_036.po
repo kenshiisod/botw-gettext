@@ -1,46 +1,46 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]ウワサ通り 魔物が増えてる…"
+msgstr "[Sound1 bytes=\"030C\"]ウワサ通り 魔物が増えてる…"
 
 #, ruby
 msgid "RetMSG_Kyu_00_1"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]ククジャ谷[Color name=\"unset\"]の[Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]を渡る時\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0004\"]ククジャ谷[Color name=\"unset\"]の[Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]を渡る時\n"
 "下の方からガンガンという音が聞こえるらしい"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]これ [PauseShort]お礼ということで…"
+msgstr "[Sound1 bytes=\"010B\"]これ [PauseShort]お礼ということで…"
 
 #, ruby
 msgid "RetMSG_Kyu_04_1"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]ククジャ谷[Color name=\"unset\"]の谷底の方には\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"]ククジャ谷[Color name=\"unset\"]の谷底の方には\n"
 "神殿らしきものがあるとか ないとか…"
 
 #, ruby
 msgid "RetMSG_Kyu_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]はい ボクがウワサのウワサ屋だよ！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]はい ボクがウワサのウワサ屋だよ！[PauseShort]\n"
 "とっておきのネタを 1つ[Color name=\"red\"]10ルピー[Color name=\"unset\"]でどうだい？\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]…な～んて 冗談だよ[PauseMid]\n"
+"[Sound1 bytes=\"0101\"]…な～んて 冗談だよ[PauseMid]\n"
 "ボクは単なる ウワサのコレクター！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ひとつ教えてあげる\n"
+"[Sound1 bytes=\"0001\"]ひとつ教えてあげる\n"
 "\n"
 "[Color name=\"blue\"]ククジャ谷[Color name=\"unset\"]の[Color name=\"blue\"]タバンタ大橋[Color name=\"unset\"]を渡る時\n"
 "下の方からガンガンという音が聞こえるらしい[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]…このウワサ ちょっと気にならない？"
+"[Sound1 bytes=\"0004\"]…このウワサ ちょっと気にならない？"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]魔物に出会ったら[PauseShort]\n"
+"[Sound1 bytes=\"032A\"]魔物に出会ったら[PauseShort]\n"
 "逃げるか 隠れるしかない…"
 
 #, ruby
 msgid "MSG_Kyu_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ボクが集めたウワサによると[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ボクが集めたウワサによると[PauseShort]\n"
 "アイスロッドって武器を振ると 消火できて[PauseShort]\n"
 "ゴロン族の組長に斬りかかると 張り倒されて[PauseMid]\n"
 "イヌはなつくと お宝まで案内してくれるとか…\n"
@@ -49,7 +49,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Kyu_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…ボクのこと [PauseMid]話したがりやだと思ってない？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]…ボクのこと [PauseMid]話したがりやだと思ってない？[PauseMid]\n"
 "それで正解！ [PauseShort]じゃあいくよ…\n"
 "砂漠のクジラは目は見えず 音に反応するらしい[PauseMid]\n"
 "\n"
@@ -57,27 +57,27 @@ msgstr ""
 "\n"
 "[Color name=\"blue\"]ヒノックス[Color name=\"unset\"]は大きな目が弱点なんだとか[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]…まぁ どれも 自分で確かめたわけじゃなくて[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]…まぁ どれも 自分で確かめたわけじゃなくて[PauseShort]\n"
 "僕のウワサコレクションの一部なんだけどね"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]うぅ～ [PauseShort]魔物がまだいる…"
+msgstr "[Sound1 bytes=\"032A\"]うぅ～ [PauseShort]魔物がまだいる…"
 
 #, ruby
 msgid "RetMSG_Kyu_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ボクが集めたウワサによると…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ボクが集めたウワサによると…[PauseShort]\n"
 "砂漠のクジラは目は見えず 音に反応するらしく[PauseShort]\n"
 "[Color name=\"blue\"]ハテノ村[Color name=\"unset\"]の草を刈ると ハイラル米が採れて[PauseMid]\n"
 "[Color name=\"blue\"]ヒノックス[Color name=\"unset\"]は大きな目が弱点なんだとか\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]まぁ 信じるか信じないかはキミの自由だよ"
+"[Sound1 bytes=\"0004\"]まぁ 信じるか信じないかはキミの自由だよ"
 
 #, ruby
 msgid "RetMSG_Kyu_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]何か情報がほしいんでしょ？[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]顔を見ればわかるし 顔を見なくたってわかる\n"
+"[Sound1 bytes=\"0510\"]何か情報がほしいんでしょ？[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]顔を見ればわかるし 顔を見なくたってわかる\n"
 "[Color name=\"blue\"]チナガレ湿地帯[Color name=\"unset\"]にある [Color name=\"blue\"]雷の台地[Color name=\"unset\"]で\n"
 "鉱石がよく採れるってウワサを聞いたけど…\n"
 "[Color name=\"blue\"]雷の台地[Color name=\"unset\"]って地名が もうすでに危険な感じ"
@@ -85,16 +85,16 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Kyu_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]キミはたぶん 情報ほしがりやでしょ[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]キミはたぶん 情報ほしがりやでしょ[PauseMid]\n"
 "オッケー [PauseMid]じゃあこんなのはどう？\n"
 "でっかい岩の魔物の腹には\n"
 "いい鉱石が埋まっている\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ほんとかどうかは 自分で確かめてね"
+"[Sound1 bytes=\"0004\"]ほんとかどうかは 自分で確かめてね"
 
 #, ruby
 msgid "RetMSG_Kyu_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]キミの冒険心を刺激するような情報を\n"
+"[Sound1 bytes=\"0002\"]キミの冒険心を刺激するような情報を\n"
 "教えてあげようかな\n"
 "[Color name=\"blue\"]ククジャ谷[Color name=\"unset\"]の谷底の方には\n"
 "神殿らしきものがあるとか ないとか…\n"
@@ -103,34 +103,34 @@ msgstr ""
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]ふぃ～ [PauseShort]おかげで助かった～"
+msgstr "[Sound1 bytes=\"0012\"]ふぃ～ [PauseShort]おかげで助かった～"
 
 #, ruby
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]もう 大丈夫みたいだね～"
+msgstr "[Sound1 bytes=\"0012\"]もう 大丈夫みたいだね～"
 
 #, ruby
 msgid "MSG_Kyu_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ウワサによると 魔物を倒すには[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ウワサによると 魔物を倒すには[PauseShort]\n"
 "遠くから弓矢で 頭を狙うと効果的らしいよ"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]夜空の流れ星が落ちることがあるってウワサは[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]夜空の流れ星が落ちることがあるってウワサは[PauseShort]\n"
 "ボクは信じたいな…"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]雨の日は耳寄りな情報がなかなか入らないよ[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]雨の日は耳寄りな情報がなかなか入らないよ[PauseMid]\n"
 "出歩く人が少ないからね"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]雷は金属に落ちやすいってウワサは[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]雷は金属に落ちやすいってウワサは[PauseShort]\n"
 "少なくともこの世界では 本当みたいだね"
 
 msgid "Near00"
@@ -138,7 +138,7 @@ msgstr "ウワサによれば…"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]ふぇ～ [PauseShort]もうダメかと思った～"
+msgstr "[Sound1 bytes=\"0312\"]ふぇ～ [PauseShort]もうダメかと思った～"
 
 #, ruby
 msgid "Near01"
@@ -146,7 +146,7 @@ msgstr "耳よりなウワサ…"
 
 #, ruby
 msgid "SavedLv2_01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]冷や汗かいた～"
+msgstr "[Sound1 bytes=\"0312\"]冷や汗かいた～"
 
 #, ruby
 msgid "Near02"
@@ -155,7 +155,7 @@ msgstr "風のウワサでは…"
 #, ruby
 msgid "MSG_Kyu_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]池や川に浮かべると\n"
+"[Sound1 bytes=\"0004\"]池や川に浮かべると\n"
 "魚が寄ってくる素材があるらしいんだ\n"
 "ガンバリダケを浮かべれば ガンバリバスが\n"
 "マックストリュフなら マックスバスが…\n"
@@ -168,7 +168,7 @@ msgstr "ウワサ大好き"
 #, ruby
 msgid "RetMSG_Kyu_02_1"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"4\"]チナガレ湿地帯[Color name=\"unset\"]にある [Color name=\"blue\"]雷の台地[Color name=\"unset\"]で\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0004\"]チナガレ湿地帯[Color name=\"unset\"]にある [Color name=\"blue\"]雷の台地[Color name=\"unset\"]で\n"
 "鉱石がよく採れるってウワサを聞いたよ"
 
 msgid "Near04"
@@ -177,33 +177,33 @@ msgstr "わちゃ～"
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"31\"]わちゃー！[PauseShort] 逃げろー！[PauseMid]\n"
+"[Sound1 bytes=\"041F\"]わちゃー！[PauseShort] 逃げろー！[PauseMid]\n"
 "[Color name=\"blue\"]ガーディアン [Color name=\"unset\"]きたー！ "
 
 #, ruby
 msgid "MSG_Kyu_00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]うーん… どうしようかな[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]うーん… どうしようかな[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]まあ せっかく声かけてくれたんだから\n"
+"[Sound1 bytes=\"0001\"]まあ せっかく声かけてくれたんだから\n"
 "教えちゃおう！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ウワサによると 魔物を倒すには\n"
+"[Sound1 bytes=\"0004\"]ウワサによると 魔物を倒すには\n"
 "遠くから弓矢で 頭を狙うと効果的らしいよ\n"
 "もし知ってたのなら ごめん"
 
 #, ruby
 msgid "MSG_Kyu_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ゴロン族って 硬い鉱石をバリバリ食べて\n"
+"[Sound1 bytes=\"0004\"]ゴロン族って 硬い鉱石をバリバリ食べて\n"
 "溶岩に肩まで浸かって温まって…\n"
 "そして ルピーに価値を感じない種族らしいよ"
 
 #, ruby
 msgid "MSG_Kyu_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ボクから 情報仕入れようとしてる？[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]ボクから 情報仕入れようとしてる？[PauseMid]\n"
 "だとしたら…[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]光栄です！\n"
+"[Sound1 bytes=\"0001\"]光栄です！\n"
 "\n"
 "では ゴロン族に関するウワサをいくつか…\n"
 "\n"
@@ -213,25 +213,25 @@ msgstr ""
 "\n"
 "ゴロン族は ルピーに価値を感じないらしい\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]あちこち旅してそうなキミには\n"
+"[Sound1 bytes=\"0004\"]あちこち旅してそうなキミには\n"
 "目新しい情報じゃなかったかな？"
 
 #, ruby
 msgid "MSG_Kyu_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ボクには 魔物退治なんて無理だけど[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ボクには 魔物退治なんて無理だけど[PauseShort]\n"
 "魔物については ちょっと詳しくてね\n"
 "例えば [Color name=\"red\"]ライネル[Color name=\"unset\"]っていう 髪をはやした魔物は[PauseShort]\n"
 "すごく凶暴なのに 背中に乗れるらしい… [PauseMid]とか\n"
 "[Color name=\"red\"]リザルフォス[Color name=\"unset\"]の骨を投げると\n"
 "ブーメランみたいに戻ってくる… [PauseMid]とか\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]まあ [PauseShort]自分で試したわけじゃなくて[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]まあ [PauseShort]自分で試したわけじゃなくて[PauseShort]\n"
 "あくまでも ウワサを聞いただけだけどね"
 
 #, ruby
 msgid "MSG_Kyu_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]なんだか 情報に飢えてそうな顔してるね[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]なんだか 情報に飢えてそうな顔してるね[PauseMid]\n"
 "オッケー [PauseShort]こんなのはどうかな…\n"
 "アイスロッドとかいう武器を振ると 消火できる[PauseMid]\n"
 "\n"
@@ -239,50 +239,50 @@ msgstr ""
 "\n"
 "イヌはなつくと お宝まで案内してくれる[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]…まぁ どれも 自分で確かめたわけじゃなくて[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]…まぁ どれも 自分で確かめたわけじゃなくて[PauseShort]\n"
 "ボクのウワサコレクションの一部なんだけどね"
 
 #, ruby
 msgid "MSG_Kyu_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ボクがウワサのコレクターだっていう\n"
+"[Sound1 bytes=\"0510\"]ボクがウワサのコレクターだっていう\n"
 "ウワサを聞いてやってきたの？[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]あ… [PauseShort]そういうわけじゃないのね[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]あ… [PauseShort]そういうわけじゃないのね[PauseMid]\n"
 "まあいいや [PauseMid]ウワサをひとつ持って帰ってよ\n"
 "池や川に浮かべると\n"
 "魚が寄ってくる素材があるらしいんだ\n"
 "ガンバリダケを浮かべれば ガンバリバスが\n"
 "マックストリュフなら マックスバスが…\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]どうやら 名前にヒントがありそうだよね"
+"[Sound1 bytes=\"0004\"]どうやら 名前にヒントがありそうだよね"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]馬の扱いが苦手で 逃げ遅れたけど[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]馬の扱いが苦手で 逃げ遅れたけど[PauseMid]\n"
 "おかげで助かった～！"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]やっぱり 魔物は恐ろしい～[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]やっぱり 魔物は恐ろしい～[PauseMid]\n"
 "でも 助かった～！"
 
 #, ruby
 msgid "RetMSG_Kyu_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]でっかい岩の魔物の腹には\n"
+"[Sound1 bytes=\"0004\"]でっかい岩の魔物の腹には\n"
 "いい鉱石が埋まっているって 聞いたことがある"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]魔物と戦えるくらい\n"
+"[Sound1 bytes=\"030C\"]魔物と戦えるくらい\n"
 "強くなりたい…"
 
 #, ruby
 msgid "MSG_Kyu_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]ライネル[Color name=\"unset\"]は凶暴なのに 背中に乗れるとか[PauseMid]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]ライネル[Color name=\"unset\"]は凶暴なのに 背中に乗れるとか[PauseMid]\n"
 "[Color name=\"red\"]リザルフォス[Color name=\"unset\"]の骨はブーメランのようだとか[PauseMid]\n"
 "魔物のウワサも いろいろ入ってくるよ"
 

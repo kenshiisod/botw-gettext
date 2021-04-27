@@ -1,65 +1,65 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あいたたた…[PauseMid] \n"
+"[Sound1 bytes=\"030C\"]あいたたた…[PauseMid] \n"
 "魔物のやろう…"
 
 #, ruby
 msgid "RetMSG_Gerud_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]伝説のトレジャーハンター[PauseMid] 私はワスク！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]伝説のトレジャーハンター[PauseMid] 私はワスク！[PauseMid]\n"
 "宝探しに疲れたら 馬宿でヴォーイの下見さ\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]それにしても ここは代り映えしないねぇ…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]それにしても ここは代り映えしないねぇ…[PauseMid]\n"
 "私の心を動かすヴォーイは 現れないかしら？"
 
 #, ruby
 msgid "MSG_Gerud_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]砂漠に「宝箱」が埋まっているというが[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]砂漠に「宝箱」が埋まっているというが[PauseShort]\n"
 "中身が気になるよ"
 
 #, ruby
 msgid "RetMSG_Gerud_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]宝探しに疲れたら 馬宿でヴォーイの下見さ[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]宝探しに疲れたら 馬宿でヴォーイの下見さ[PauseMid]\n"
 "私の心を動かすヴォーイは 現れないかしら？"
 
 #, ruby
 msgid "MSG_Gerud_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]街の中は 「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」という\n"
+"[Sound1 bytes=\"0004\"]街の中は 「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」という\n"
 "賊の話でもちきりみたいだな"
 
 #, ruby
 msgid "RetMSG_Gerud_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]この砂漠に宝箱が埋まっているという\n"
+"[Sound1 bytes=\"0004\"]この砂漠に宝箱が埋まっているという\n"
 "噂を聞いたことがあるんだ"
 
 #, ruby
 msgid "Thanks00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]よかったら これ受け取っておくれよ\n"
+"[Sound1 bytes=\"010B\"]よかったら これ受け取っておくれよ\n"
 ""
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"32\"]くっ…[PauseShort]\n"
+"[Sound1 bytes=\"0320\"]くっ…[PauseShort]\n"
 "この程度の魔物にてこずるとはね"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"32\"]こんな魔物 [PauseShort]若い時なら\n"
+"[Sound1 bytes=\"0320\"]こんな魔物 [PauseShort]若い時なら\n"
 "ひとひねりだったんだけどさ"
 
 #, ruby
 msgid "MSG_Gerud_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]宝探し歴 20年…[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]宝探し歴 20年…[PauseMid]\n"
 "伝説のトレジャーハンターとは 私のことさ！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ところで今 街の中は「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」という\n"
+"[Sound1 bytes=\"0004\"]ところで今 街の中は「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」という\n"
 "賊の話でもちきりみたいだな…\n"
 "トレジャーハンターと賊は だいぶ違うが[PauseShort]\n"
 "ある意味 私のライバルかもしれないな"
@@ -67,9 +67,9 @@ msgstr ""
 #, ruby
 msgid "MSG_Gerud_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]伝説のトレジャーハンター [PauseShort]その名はワスク！[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]伝説のトレジャーハンター [PauseShort]その名はワスク！[PauseLong]\n"
 "…そう [PauseShort]私のことさ！\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]ここだけの話… [PauseShort]私が求めるお宝の中には\n"
+"[Sound1 bytes=\"010B\"]ここだけの話… [PauseShort]私が求めるお宝の中には\n"
 "「ヴォーイ」も含まれる\n"
 "「ヴォーイ」はゲルドの言葉で「男」のこと…[PauseMid]\n"
 "力強いヴォーイだと より価値が上るってもんさ"
@@ -77,29 +77,29 @@ msgstr ""
 #, ruby
 msgid "MSG_Gerud_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]もしかして 伝説のトレジャーハンターを\n"
+"[Sound1 bytes=\"0006\"]もしかして 伝説のトレジャーハンターを\n"
 "探しているのかい？[PauseMid]\n"
 "…だとしたら あんたはもう見つけてる[PauseMid]\n"
 "目の前にいる この私がそうなのだ！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]狙ったお宝は必ず [PauseMid]ほぼ [PauseMid]だいたい手に入れる…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]狙ったお宝は必ず [PauseMid]ほぼ [PauseMid]だいたい手に入れる…[PauseMid]\n"
 "宝探し歴20年のベテランさ！"
 
 #, ruby
 msgid "MSG_Gerud_04_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]馬宿で 若いヴォーイを品定めするのは[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]馬宿で 若いヴォーイを品定めするのは[PauseShort]\n"
 "私にとっては目のお宝なのさ"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]もう 魔物は去ったかい？"
+msgstr "[Sound1 bytes=\"0012\"]もう 魔物は去ったかい？"
 
 #, ruby
 msgid "MSG_Gerud_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]伝説のトレジャーハンター [PauseMid]私はワスク！\n"
+"[Sound1 bytes=\"0002\"]伝説のトレジャーハンター [PauseMid]私はワスク！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"6\"]知っているか？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]知っているか？[PauseMid]\n"
 "砂漠に「宝箱」が埋まっているという噂を…\n"
 "誰が埋めたのか 自然に埋まったのか…[PauseMid]\n"
 "そんなことより 中身が気になるよ"
@@ -107,26 +107,26 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]あぶなかったね…[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]あぶなかったね…[PauseMid]\n"
 "命拾いしたよ！"
 
 #, ruby
 msgid "MSG_Gerud_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]伝説のトレジャーハンター[PauseMid] 私はワスク！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]伝説のトレジャーハンター[PauseMid] 私はワスク！[PauseMid]\n"
 "馬宿にだってお宝はあって それはつまり…\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]「ヴォーイ」のこと！\n"
+"[Sound1 bytes=\"010B\"]「ヴォーイ」のこと！\n"
 "\n"
 "「ヴォーイ」はゲルドの言葉で「男」のこと…[PauseMid]\n"
 "私にとっては 目のお宝ってわけさ！"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]サヴォッタ！"
 
 #, ruby
 msgid "MSG_Gerud_01_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]私が探し求めるお宝の中には\n"
+"[Sound1 bytes=\"010B\"]私が探し求めるお宝の中には\n"
 "「ヴォーイ」も含まれる\n"
 "「ヴォーイ」はゲルドの言葉で「男」のこと…[PauseMid]\n"
 "力強いヴォーイだと より価値が上るってもんさ"
@@ -134,23 +134,23 @@ msgstr ""
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]伝説のヴォーイハンターって聞いたことある？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]伝説のヴォーイハンターって聞いたことある？[PauseMid]\n"
 "聞いたことあろうがなかろうが 私のことよ[PauseMid]\n"
 "ヴォーイハントで いい思い出があるのは\n"
 "[Color name=\"blue\"]カラカラバザール[Color name=\"unset\"]と[Color name=\"blue\"]ゲルドキャニオン馬宿[Color name=\"unset\"]ね\n"
 ""
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]サヴァーク！"
 
 #, ruby
 msgid "RetMSG_Gerud_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]スナザラシ[Color name=\"unset\"]がいれば\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]スナザラシ[Color name=\"unset\"]がいれば\n"
 "砂漠をラクラク 自由に移動できるのにな…"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]サヴァサーバ！"
 
 #, ruby
 msgid "Near00"
@@ -158,7 +158,7 @@ msgstr "宝箱は…"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]なんとか 命拾いしたね！"
+msgstr "[Sound1 bytes=\"0012\"]なんとか 命拾いしたね！"
 
 #, ruby
 msgid "Near01"
@@ -167,7 +167,7 @@ msgstr "巨大クジラの骨…"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]大丈夫かい？[PauseMid]\n"
+"[Sound1 bytes=\"0312\"]大丈夫かい？[PauseMid]\n"
 "ケガしてないかい？"
 
 #, ruby
@@ -180,79 +180,79 @@ msgstr "スナザラシがいれば…"
 #, ruby
 msgid "MSG_Gerud_0100_1"
 msgstr ""
-" [Sound1 unk1=\"1\" unk2=\"11\"]「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」事件が解決したので\n"
+" [Sound1 bytes=\"010B\"]「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」事件が解決したので\n"
 "安心して 宝探しができるんだ"
 
 #, ruby
 msgid "MSG_Gerud_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]狙ったお宝は だいたい手に入れる…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]狙ったお宝は だいたい手に入れる…[PauseMid]\n"
 "この私は 宝探し歴20年のベテランさ！"
 
 #, ruby
 msgid "RetMSG_Gerud_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]多くの旅人が見つけられない [Color name=\"red\"]巨大クジラの骨[Color name=\"unset\"]も[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]多くの旅人が見つけられない [Color name=\"red\"]巨大クジラの骨[Color name=\"unset\"]も[PauseShort]\n"
 "あんたなら砂漠中走り回って 探し出すかもね！"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]それにしても 魔物の多いこと…"
+msgstr "[Sound1 bytes=\"030C\"]それにしても 魔物の多いこと…"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]はぁ… [PauseShort]何とか助かった…"
+msgstr "[Sound1 bytes=\"030C\"]はぁ… [PauseShort]何とか助かった…"
 
 #, ruby
 msgid "RetMSG_Gerud_00_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]どんなお宝も どんなヴォーイも\n"
+"[Sound1 bytes=\"010B\"]どんなお宝も どんなヴォーイも\n"
 "私の手にかかれば… [PauseMid]ウフフ"
 
 #, ruby
 msgid "MSG_Gerud_0100"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]伝説のトレジャーハンターとは 私のことさ！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]伝説のトレジャーハンターとは 私のことさ！[PauseMid]\n"
 "じつは今 ちょっと気分がいいんだ\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]なぜなら 「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」事件が解決したので\n"
+"[Sound1 bytes=\"010B\"]なぜなら 「[Color name=\"red\"]イーガ団[Color name=\"unset\"]」事件が解決したので\n"
 "安心して 宝探しができるから！"
 
 #, ruby
 msgid "RetMSG_Gerud_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私の名前は ワ[PauseShort] ス[PauseShort] ク！\n"
+"[Sound1 bytes=\"0002\"]私の名前は ワ[PauseShort] ス[PauseShort] ク！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]伝説のベテラン トレジャーハンター！[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]伝説のベテラン トレジャーハンター！[PauseMid]\n"
 "どんなお宝も 私の手にかかれば…[PauseShort] \n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]同じく どんなヴォーイも私の手にかかれば[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]同じく どんなヴォーイも私の手にかかれば[PauseMid]\n"
 "ウフフ…"
 
 #, ruby
 msgid "RetMSG_Gerud_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]その小さな体で この砂漠越えを？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]その小さな体で この砂漠越えを？[PauseMid]\n"
 "まるで ゲルド族のような向こう見ず！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]気に入ったので ひとつ情報をやろう…[PageBreak]この砂漠に宝箱が埋まっているという\n"
+"[Sound1 bytes=\"0004\"]気に入ったので ひとつ情報をやろう…[PageBreak]この砂漠に宝箱が埋まっているという\n"
 "噂を聞いたことがあるんだ"
 
 #, ruby
 msgid "RetMSG_Gerud_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]さすがの私も 歩いて砂漠を渡るのは\n"
+"[Sound1 bytes=\"0510\"]さすがの私も 歩いて砂漠を渡るのは\n"
 "少しキツイかな…[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]こんな時 [Color name=\"red\"]スナザラシ[Color name=\"unset\"]がいれば[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]こんな時 [Color name=\"red\"]スナザラシ[Color name=\"unset\"]がいれば[PauseShort]\n"
 "砂の上を 楽に自由に移動できるのにな…"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]ああ！[PauseMid] 生きてるだけで 奇跡なのかも…"
+msgstr "[Sound1 bytes=\"030C\"]ああ！[PauseMid] 生きてるだけで 奇跡なのかも…"
 
 #, ruby
 msgid "RetMSG_Gerud_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]あんたの その体のどこに\n"
+"[Sound1 bytes=\"0006\"]あんたの その体のどこに\n"
 "それだけの根気と体力が宿ってるの？\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]多くの旅人が見つけられない [Color name=\"red\"]巨大クジラの骨[Color name=\"unset\"]も[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]多くの旅人が見つけられない [Color name=\"red\"]巨大クジラの骨[Color name=\"unset\"]も[PauseShort]\n"
 "あんたなら砂漠中を歩いて 探し出すかもね！"
 
 msgid "_ReadOnly_MsbtExtras"

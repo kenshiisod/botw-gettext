@@ -1,103 +1,103 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"]..."
+msgstr "[Sound1 bytes=\"0000\"]Je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"]..."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"]..."
+msgstr "[Sound1 bytes=\"0000\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"]..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"] en geen\n"
+"[Sound1 bytes=\"0000\"]Je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"] en geen\n"
 "[Color name=\"blue\"]diamant[Color name=\"unset\"]."
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Je hebt meer [Color name=\"blue\"]vuursteen[Color name=\"unset\"] nodig..."
+msgstr "[Sound1 bytes=\"0000\"]Je hebt meer [Color name=\"blue\"]vuursteen[Color name=\"unset\"] nodig..."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Kijk, je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"] en niet\n"
+"[Sound1 bytes=\"0000\"]Kijk, je hebt geen [Color name=\"blue\"]Steenwerper[Color name=\"unset\"] en niet\n"
 "genoeg stukken [Color name=\"blue\"]vuursteen[Color name=\"unset\"]."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"] en niet genoeg\n"
+"[Sound1 bytes=\"0000\"]Je hebt geen [Color name=\"blue\"]diamant[Color name=\"unset\"] en niet genoeg\n"
 "stukken [Color name=\"blue\"]vuursteen[Color name=\"unset\"]."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Als je niets hebt wat ik nodig heb,[PauseShort] kan ik\n"
-"je ook niet helpen.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Als je wilt dat ik nog een [Color name=\"blue\"]steenpletter[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0800\"]Als je niets hebt wat ik nodig heb,[PauseShort] kan ik\n"
+"je ook niet helpen.[PageBreak][Sound1 bytes=\"0000\"]Als je wilt dat ik nog een [Color name=\"blue\"]steenpletter[Color name=\"unset\"]\n"
 "maak, heb ik een [Color name=\"blue\"]Steenwerper[Color name=\"unset\"], [Color name=\"red\"]vijf stuks[Color name=\"unset\"]\n"
 "[Color name=\"blue\"]vuursteen[Color name=\"unset\"] en een [Color name=\"blue\"]diamant[Color name=\"unset\"] nodig."
 
 msgid "talk23"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"6\"]Diamanten[Color name=\"unset\"] zijn waardevolle stenen die\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0006\"]Diamanten[Color name=\"unset\"] zijn waardevolle stenen die\n"
 "je zelfs hier in de buurt niet makkelijk\n"
 "kunt vinden.\n"
 "Weet je zeker dat ik een nieuwe moet\n"
-"maken?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"maken?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Hmpf...[PauseLong] Kom maar weer terug als ik iets\n"
+"[Sound1 bytes=\"0800\"]Hmpf...[PauseLong] Kom maar weer terug als ik iets\n"
 "voor je moet smeden."
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Dan ga ik aan het werk.[PauseLong] Wacht hier even."
+msgstr "[Sound1 bytes=\"0600\"]Dan ga ik aan het werk.[PauseLong] Wacht hier even."
 
 msgid "near00"
 msgstr "Hmpf! Hmpf!"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Hmpf...[PauseShort] Niet slecht, al zeg ik het zelf.[PauseLong]\n"
+"[Sound1 bytes=\"0600\"]Hmpf...[PauseShort] Niet slecht, al zeg ik het zelf.[PauseLong]\n"
 "Alsjeblieft."
 
 msgid "near01"
 msgstr "Goed..."
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Hé...[Choice1 label=\"6\"]"
+msgstr "[Sound1 bytes=\"020E\"]Hé...[Choice1 label=\"6\"]"
 
 msgid "near02"
 msgstr "Poeh..."
 
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ik ga aan het werk.[PauseShort] Ga aan de kant."
+msgstr "[Sound1 bytes=\"0004\"]Ik ga aan het werk.[PauseShort] Ga aan de kant."
 
 msgid "near03"
 msgstr "[Size percent=\"80\"]Hnggggh...[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Wat kijk jij?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0206\"]Wat kijk jij?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wil je dit?[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0000\"]Wil je dit?[Choice1 label=\"0\"]"
 
 msgid "0000"
 msgstr "Sorry."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Val me alsjeblieft niet lastig."
+msgstr "[Sound1 bytes=\"0206\"]Val me alsjeblieft niet lastig."
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Deze heb ik verprutst...[PauseShort] Alsjeblieft."
+msgstr "[Sound1 bytes=\"0004\"]Deze heb ik verprutst...[PauseShort] Alsjeblieft."
 
 msgid "0001"
 msgstr "Tot ziens."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Hmpf."
+msgstr "[Sound1 bytes=\"020E\"]Hmpf."
 
 msgid "0002"
 msgstr "Alsjeblieft."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"2\" unk2=\"4\"]Hé...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0204\"]Hé...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Dus jij bent degene die de [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0002\"]Dus jij bent degene die de [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]\n"
 "heeft gekregen, goro? Maar kan een uk\n"
 "als jij wel overweg met Daruks zwaard?\n"
 "Nou ja, wat kan mij het ook schelen,\n"
@@ -107,40 +107,40 @@ msgid "0003"
 msgstr "Nee, bedankt."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Ik ga slapen..."
+msgstr "[Sound1 bytes=\"0600\"]Ik ga slapen..."
 
 msgid "0004"
 msgstr "Ja."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Mmpf..."
+msgstr "[Sound1 bytes=\"0000\"]Mmpf..."
 
 msgid "0005"
 msgstr "Nee."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Je leidt me af."
+msgstr "[Sound1 bytes=\"020E\"]Je leidt me af."
 
 msgid "0006"
 msgstr "Het spijt me?"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]Als je niets nodig hebt, ga dan uit de\n"
+"[Sound1 bytes=\"020E\"]Als je niets nodig hebt, ga dan uit de\n"
 "weg."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Keer op keer...[PauseShort] Ik kan hier niet tegen."
+msgstr "[Sound1 bytes=\"020E\"]Keer op keer...[PauseShort] Ik kan hier niet tegen."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ik heb geen tijd voor jou."
+msgstr "[Sound1 bytes=\"020E\"]Ik heb geen tijd voor jou."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Laat me met rust!"
+msgstr "[Sound1 bytes=\"020E\"]Laat me met rust!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Als je de [Color name=\"blue\"]Steenpletter[Color name=\"unset\"] breekt of\n"
+"[Sound1 bytes=\"0004\"]Als je de [Color name=\"blue\"]Steenpletter[Color name=\"unset\"] breekt of\n"
 "kwijtraakt, kan ik een nieuwe voor je\n"
 "maken...\n"
 "Daarvoor heb ik een [Color name=\"blue\"]Steenwerper[Color name=\"unset\"], [Color name=\"red\"]vijf\n"
@@ -148,13 +148,13 @@ msgstr ""
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Je hebt geen [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]... Kijk anders\n"
+"[Sound1 bytes=\"0004\"]Je hebt geen [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]... Kijk anders\n"
 "even rond of je hem ergens bent\n"
 "verloren."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Je hebt geen [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]... Als je een\n"
+"[Sound1 bytes=\"0010\"]Je hebt geen [Color name=\"blue\"]Steenpletter[Color name=\"unset\"]... Als je een\n"
 "nieuwe wilt, heb ik een [Color name=\"blue\"]Steenwerper[Color name=\"unset\"], [Color name=\"red\"]vijf\n"
 "stuks[Color name=\"unset\"] [Color name=\"blue\"]vuursteen [Color name=\"unset\"]en een [Color name=\"blue\"]diamant[Color name=\"unset\"] nodig."
 

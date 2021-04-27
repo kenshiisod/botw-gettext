@@ -2,14 +2,14 @@ msgid "0003"
 msgstr "Hasta el mediodía"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]No pasa nada.[PauseShort] ¡Otra vez será!"
+msgstr "[Sound1 bytes=\"0006\"]No pasa nada.[PauseShort] ¡Otra vez será!"
 
 msgid "0004"
 msgstr "Hasta la noche"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Me temo que no tienes suficientes\n"
+"[Sound1 bytes=\"0006\"]Me temo que no tienes suficientes\n"
 "rupias para quedarte."
 
 msgid "0005"
@@ -17,29 +17,29 @@ msgstr "He cambiado de idea"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Espero que hayas descansado\n"
+"[Sound1 bytes=\"0104\"]Espero que hayas descansado\n"
 "en condiciones.[PageBreak]Por cierto, ahora mismo tenemos\n"
 "una oferta especial para huéspedes.[PageBreak]La utilización de nuestros servicios\n"
 "te da derecho a navegar con la [Color name=\"red\"]balsa[Color name=\"unset\"]\n"
 "que está atracada en el muelle."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Hasta cuándo deseas descansar?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Hasta cuándo deseas descansar?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0007"
 msgstr "No me quedaré"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Una cama normal te sale por [Color name=\"red\"]20 rupias[Color name=\"unset\"],[PauseShort]\n"
-"mientras que una blanda son [Color name=\"red\"]40[Color name=\"unset\"].[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]Una cama normal te sale por [Color name=\"red\"]20 rupias[Color name=\"unset\"],[PauseShort]\n"
+"mientras que una blanda son [Color name=\"red\"]40[Color name=\"unset\"].[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "Dame una normal"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]¡Bienvenido![PauseMid] ¿Te quedarás a descansar?[PageBreak]Debes de estar cansado tras\n"
+"[Sound1 bytes=\"0102\"]¡Bienvenido![PauseMid] ¿Te quedarás a descansar?[PageBreak]Debes de estar cansado tras\n"
 "el largo viaje."
 
 msgid "0001"
@@ -49,7 +49,7 @@ msgid "0002"
 msgstr "Hasta la mañana"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]Perfecto.[PauseShort] ¡A descansar!"
+msgstr "[Sound1 bytes=\"0104\"]Perfecto.[PauseShort] ¡A descansar!"
 
 msgid "Near00"
 msgstr "¡Bienvenidooo!"

@@ -1,34 +1,34 @@
 #, ruby
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]私は 川を見るのが好きなんです\n"
+"[Sound1 bytes=\"0004\"]私は 川を見るのが好きなんです\n"
 "\n"
 "絶え間なく流れ続ける 川を見ていると\n"
 "とても 昔に大厄災があったとは思えない…\n"
-"[Sound1 unk1=\"3\" unk2=\"12\"]でも 見とれている間に\n"
+"[Sound1 bytes=\"030C\"]でも 見とれている間に\n"
 "魔物に見つかってしまったようです…\n"
 "もう 馬宿に帰ります"
 
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"9\" unk2=\"22\"]ガーディアンよ！"
+msgstr "[Sound1 bytes=\"0916\"]ガーディアンよ！"
 
 #, ruby
 msgid "After00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ほんとに ついてない…\n"
+"[Sound1 bytes=\"0900\"]ほんとに ついてない…\n"
 "私は ただ川を見ていたいだけなのに…\n"
 "もう 馬宿に帰ります"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"12\"]あぁ まだ頭痛がする…\n"
+"[Sound1 bytes=\"0B0C\"]あぁ まだ頭痛がする…\n"
 "こんなところに 来るんじゃなかった…"
 
 #, ruby
 msgid "After01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]また 助けられてしまいましたね…\n"
+"[Sound1 bytes=\"0900\"]また 助けられてしまいましたね…\n"
 "どうしても 川を見たくなってしまって…\n"
 "こんなところで散歩すらできないなんて\n"
 "本当に やっかいな世の中ですよね\n"
@@ -37,13 +37,13 @@ msgstr ""
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]見ていたのなら 助けてくれても\n"
+"[Sound1 bytes=\"0800\"]見ていたのなら 助けてくれても\n"
 "よかったんじゃなくって？！"
 
 #, ruby
 msgid "After02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]ここまで来たら もう安心です\n"
+"[Sound1 bytes=\"0112\"]ここまで来たら もう安心です\n"
 "どうも ありがとうございました\n"
 "100年前は 魔物も少なくて\n"
 "女性1人で歩いていても 大丈夫だったそうです\n"
@@ -52,22 +52,22 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あの… その…\n"
+"[Sound1 bytes=\"030C\"]あの… その…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]ありがとうございます！ 助かりました！\n"
+"[Sound1 bytes=\"0101\"]ありがとうございます！ 助かりました！\n"
 "これはお礼です 受け取ってください"
 
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]お強いんですね…\n"
+"[Sound1 bytes=\"010B\"]お強いんですね…\n"
 "危ないところを ありがとうございました\n"
 "これを お受け取りください"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]あぁ よかった！！\n"
+"[Sound1 bytes=\"0700\"]あぁ よかった！！\n"
 "あなたは 命の恩人です！\n"
 "ぜひ お礼をさせてください！ \n"
 "こちらを受け取ってください！"
@@ -75,22 +75,22 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あぁ 一時はどうなる事かと…\n"
+"[Sound1 bytes=\"030C\"]あぁ 一時はどうなる事かと…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]ありがとうございます！\n"
+"[Sound1 bytes=\"0101\"]ありがとうございます！\n"
 "これ 受け取ってください！"
 
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]お強いんですね…\n"
+"[Sound1 bytes=\"010B\"]お強いんですね…\n"
 "助かりました\n"
 "ほんのお礼です 受け取っていただけます？"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]あなたは 命の恩人です！\n"
+"[Sound1 bytes=\"0700\"]あなたは 命の恩人です！\n"
 "助けていただいて ありがとうございました！\n"
 "これはお礼です！"
 
@@ -100,13 +100,13 @@ msgstr "ついてないわ…"
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]あぁ あんなところに魔物が…\n"
+"[Sound1 bytes=\"032A\"]あぁ あんなところに魔物が…\n"
 "どうしよう どうしよう…"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]あぁ あんなところに魔物が…\n"
+"[Sound1 bytes=\"032A\"]あぁ あんなところに魔物が…\n"
 "私は ただ川を見ていたいだけなのに…"
 
 msgid "_ReadOnly_MsbtExtras"

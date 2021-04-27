@@ -6,33 +6,33 @@ msgstr "どなた？"
 
 #, ruby
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]ぉ命 ちょうだぃ しますぅ！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]ぉ命 ちょうだぃ しますぅ！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 #, ruby
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇ぃぃぃ！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇ぃぃぃ！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 #, ruby
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]そこの ぉ兄さぁーん！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]そこの ぉ兄さぁーん！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]ぁぁーん！[PauseMid] かわぃぃーん！"
+msgstr "[Sound1 bytes=\"0709\"]ぁぁーん！[PauseMid] かわぃぃーん！"
 
 msgid "TerrorArrow"
 msgstr "ぃゃーん！"
 
 #, ruby
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]ねぇーん！[PauseMid] 聞ぃてますぅーん？"
+msgstr "[Sound1 bytes=\"0002\"]ねぇーん！[PauseMid] 聞ぃてますぅーん？"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]はぁーぃ！"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]ぁ[PauseShort] た[PauseShort] し[PauseShort] とぉーん…[PauseLong]\n"
-"[Size percent=\"125\"]ぃ[PauseShort] ぃ[PauseShort] こ[PauseShort] と[PauseShort] [Size percent=\"100\"]しなぁい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B01\"]ぁ[PauseShort] た[PauseShort] し[PauseShort] とぉーん…[PauseLong]\n"
+"[Size percent=\"125\"]ぃ[PauseShort] ぃ[PauseShort] こ[PauseShort] と[PauseShort] [Size percent=\"100\"]しなぁい？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "なんですか？"
@@ -40,8 +40,8 @@ msgstr "なんですか？"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]それじゃぁ…[PauseLong]\n"
-"目を閉じて 欲しいなぁーん？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]それじゃぁ…[PauseLong]\n"
+"目を閉じて 欲しいなぁーん？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "…"
@@ -49,10 +49,10 @@ msgstr "…"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]ぁーん どぉしてぇ？\n"
+"[Sound1 bytes=\"030C\"]ぁーん どぉしてぇ？\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]ぁ[PauseShort]た[PauseShort]し[PauseShort]の[PauseShort]こと[PauseShort] きらぃ？[PauseLong]\n"
-"ぉねがぃだから 目を閉じてぇーん[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B01\"]ぁ[PauseShort]た[PauseShort]し[PauseShort]の[PauseShort]こと[PauseShort] きらぃ？[PauseLong]\n"
+"ぉねがぃだから 目を閉じてぇーん[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "いいよ"
@@ -60,7 +60,7 @@ msgstr "いいよ"
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ねぇ？ ちゃんと 目を閉じてるぅ？[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]ねぇ？ ちゃんと 目を閉じてるぅ？[PauseLong]\n"
 "それじゃぁ…[PauseMid] ハイリアの英傑さん"
 
 msgid "0003"
@@ -69,21 +69,21 @@ msgstr "ことわる！"
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]そぅですかぁ…[PauseLong]\n"
+"[Sound1 bytes=\"030D\"]そぅですかぁ…[PauseLong]\n"
 "それじゃぁ…[PauseMid] ハイリアの英傑さん"
 
 msgid "0004"
 msgstr "わかった"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]ぁ[PauseShort]た[PauseShort]し[PauseShort]のこと[PauseMid] ぉぼぇてるぅ？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0102\"]ぁ[PauseShort]た[PauseShort]し[PauseShort]のこと[PauseMid] ぉぼぇてるぅ？[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "それは ちょっと…"
 
 #, ruby
 msgid "Talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]さっすがぁ…[PauseMid] ハイリアの英傑さん"
+msgstr "[Sound1 bytes=\"0700\"]さっすがぁ…[PauseMid] ハイリアの英傑さん"
 
 #, ruby
 msgid "0006"

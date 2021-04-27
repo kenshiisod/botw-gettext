@@ -1,13 +1,13 @@
 #, ruby
 msgid "Npc_SmallOasis007_F_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]砂嵐の中に隠された [Color name=\"red\"]古代人が残したお宝[Color name=\"unset\"]…\n"
+"[Sound1 bytes=\"0000\"]砂嵐の中に隠された [Color name=\"red\"]古代人が残したお宝[Color name=\"unset\"]…\n"
 "\n"
 "ロマンがあるよナァ…\n"
 "\n"
 "ロマンしかないよナァ…\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]でも あの砂嵐\n"
+"[Sound1 bytes=\"0B00\"]でも あの砂嵐\n"
 "一日に数時間だけ止むって聞いたんだけど\n"
 "全然 止まないんだよナァ…\n"
 "\n"
@@ -17,13 +17,13 @@ msgstr ""
 #, ruby
 msgid "Npc_SmallOasis007_F_002"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]明日こそは砂嵐が晴れたとこを見るんダァ…\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0000\"]明日こそは砂嵐が晴れたとこを見るんダァ…\n"
 "ムニャムニャ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]怪しい商人？\n"
+"[Sound1 bytes=\"0006\"]怪しい商人？\n"
 "残念だけど 知らないナァ\n"
 "ボクが興味あるのは\n"
 "あの砂嵐とお宝だけだからナァ…[PauseLong]"
@@ -31,59 +31,59 @@ msgstr ""
 #, ruby
 msgid "Npc_SmallOasis007_R_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]あの砂嵐… 一日に数時間だけ\n"
+"[Sound1 bytes=\"0B00\"]あの砂嵐… 一日に数時間だけ\n"
 "消える時があるらしいんだけどサァ…\n"
 "全然消えないんだよナァ…"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]まぁ これは男のロマンなんだ\n"
+"[Sound1 bytes=\"0000\"]まぁ これは男のロマンなんだ\n"
 "女の子にはわからないだろうけどね"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_004"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]砂嵐の中に隠された [Color name=\"red\"]古代人が残したお宝[Color name=\"unset\"]…\n"
+"[Sound1 bytes=\"0000\"]砂嵐の中に隠された [Color name=\"red\"]古代人が残したお宝[Color name=\"unset\"]…\n"
 "\n"
 "ロマンがあるよナァ…\n"
 "\n"
 "ロマンしかないよナァ…\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]でも あの砂嵐\n"
+"[Sound1 bytes=\"0B00\"]でも あの砂嵐\n"
 "一日に数時間だけ止むって聞いたんだけど\n"
-"全然 止まないんだよナァ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"全然 止まないんだよナァ…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_SmallOasis007_R_002"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]明日こそは砂嵐が晴れたとこを見るんダァ…\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0000\"]明日こそは砂嵐が晴れたとこを見るんダァ…\n"
 "ムニャムニャ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_011"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]気が散るから\n"
+"[Sound1 bytes=\"0000\"]気が散るから\n"
 "邪魔しないでくれるかな"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_005"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]寝てるとき以外\n"
+"[Sound1 bytes=\"0B00\"]寝てるとき以外\n"
 "ずっと見てるのにナァ…[PauseLong]"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]それで… キミ…\n"
+"[Sound1 bytes=\"0000\"]それで… キミ…\n"
 "誰だっけ？"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_012"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…ん？ [PauseMid]アレ？？[PauseShort]\n"
+"[Sound1 bytes=\"0413\"]…ん？ [PauseMid]アレ？？[PauseShort]\n"
 "もしかして 砂嵐止んでる？！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ずっと見てたのにナァ…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ずっと見てたのにナァ…[PauseMid]\n"
 "なんで消えたんだろうナァ… [PauseShort]ロマンだナァ…"
 
 #, ruby
@@ -96,15 +96,15 @@ msgstr ""
 #, ruby
 msgid "Npc_SmallOasis007_R_005"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あの砂嵐の奥に\n"
+"[Sound1 bytes=\"0000\"]あの砂嵐の奥に\n"
 "[Color name=\"red\"]古代人が残したお宝[Color name=\"unset\"]があるっていうからサァ…\n"
 "砂嵐が止まったら 探しにいこうと思って\n"
 "ずっと見てるんだけどサァ…[PauseLong]\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]もしかして ガセネタなのかナァ…[PauseLong]"
+"[Sound1 bytes=\"0B00\"]もしかして ガセネタなのかナァ…[PauseLong]"
 
 #, ruby
 msgid "Npc_SmallOasis007_F_008"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…で キミ… 誰よ？"
+msgstr "[Sound1 bytes=\"0000\"]…で キミ… 誰よ？"
 
 #, ruby
 msgid "0000"

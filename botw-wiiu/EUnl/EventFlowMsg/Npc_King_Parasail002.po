@@ -1,6 +1,6 @@
 msgid "Appear16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Maar dat gaat niet zomaar.[PauseMid] De hoogvlakte\n"
+"[Sound1 bytes=\"0001\"]Maar dat gaat niet zomaar.[PauseMid] De hoogvlakte\n"
 "waarop we ons nu bevinden, is omringd\n"
 "door steile rotswanden."
 
@@ -12,19 +12,19 @@ msgstr ""
 
 msgid "Appear18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Als je nou net als ik zo'n [Color name=\"blue\"]zweefzeil[Color name=\"unset\"] had,\n"
+"[Sound1 bytes=\"0004\"]Als je nou net als ik zo'n [Color name=\"blue\"]zweefzeil[Color name=\"unset\"] had,\n"
 "tja, dan zou het natuurlijk een heel ander\n"
-"verhaal worden...[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"verhaal worden...[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "1000"
 msgstr "En jij bent...?"
 
 msgid "Appear19"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Hahaha.[PauseMid] Natuurlijk.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Maar...[PauseMid] niet voor niets."
+msgstr "[Sound1 bytes=\"070A\"]Hahaha.[PauseMid] Natuurlijk.[PageBreak][Sound1 bytes=\"0001\"]Maar...[PauseMid] niet voor niets."
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Geen haast...[PauseMid]\n"
+"[Sound1 bytes=\"0009\"]Geen haast...[PauseMid]\n"
 "Het is niet ver. We zijn er zo."
 
 msgid "1001"
@@ -32,12 +32,12 @@ msgstr "Ik ga."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Kijk, daar verderop. Zie je het?\n"
+"[Sound1 bytes=\"0004\"]Kijk, daar verderop. Zie je het?\n"
 "Dat mysterieuze licht daar?"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Zodra de torens uit de grond kwamen,\n"
+"[Sound1 bytes=\"0001\"]Zodra de torens uit de grond kwamen,\n"
 "verscheen ook dat licht."
 
 msgid "TerrorBomb"
@@ -45,13 +45,13 @@ msgstr "Wat is er?"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Het is een tempel, en in dat soort\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Het is een tempel, en in dat soort\n"
 "tempels zitten gewoonlijk kostbare\n"
 "schatten verborgen."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ga naar die tempel en breng me de schat\n"
+"[Sound1 bytes=\"0002\"]Ga naar die tempel en breng me de schat\n"
 "die daarbinnen op je wacht."
 
 msgid "TerrorEnemy"
@@ -59,18 +59,18 @@ msgstr "AAAAAH!"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ga naar die tempel en breng me de schat\n"
-"die daarbinnen op je wacht.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0002\"]Ga naar die tempel en breng me de schat\n"
+"die daarbinnen op je wacht.[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Nou...[PauseMid] Dat was verrassend!"
+msgstr "[Sound1 bytes=\"0001\"]Nou...[PauseMid] Dat was verrassend!"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Kom, breng me de schat uit de tempel."
+msgstr "[Sound1 bytes=\"0004\"]Kom, breng me de schat uit de tempel."
 
 msgid "Appear02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]Al die torens die overal zijn verrezen...[PageBreak]Het kan haast niet missen...[PauseMid] Er is in\n"
+"[Sound1 bytes=\"000D\"]Al die torens die overal zijn verrezen...[PageBreak]Het kan haast niet missen...[PauseMid] Er is in\n"
 "Hyrule een kracht ontwaakt die lange tijd\n"
 "niet van zich heeft laten horen."
 
@@ -78,7 +78,7 @@ msgid "TerrorArrow"
 msgstr "Wat doe je?!"
 
 msgid "Appear03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]En?[PauseMid] Hoe was het daarboven?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]En?[PauseMid] Hoe was het daarboven?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear04"
 msgstr ""
@@ -109,7 +109,7 @@ msgid "0001"
 msgstr "..."
 
 msgid "Appear08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Heb je enig idee van wie die stem was?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Heb je enig idee van wie die stem was?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Nee."
@@ -119,10 +119,10 @@ msgstr "[Sound2 id=\"11\"]Hmmm...[PauseMid] Jammer."
 
 msgid "Appear20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Hahaha.[PauseMid] Heb je niet gezien waarmee\n"
+"[Sound1 bytes=\"070A\"]Hahaha.[PauseMid] Heb je niet gezien waarmee\n"
 "ik hier net geland ben?\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ik wil het best aan je geven, hoor...[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]Ik wil het best aan je geven, hoor...[PauseMid]\n"
 "maar niet voor niets."
 
 msgid "0003"
@@ -191,7 +191,7 @@ msgstr ""
 
 msgid "Appear12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]Men noemt dat fenomeen...[PageBreak][Size percent=\"125\"][Color name=\"red\"]Ganon, het Onheil[Color name=\"unset\"].[PageBreak][Size percent=\"100\"]Honderd jaar geleden...[PauseMid] luidde dat het\n"
+"[Sound1 bytes=\"0005\"]Men noemt dat fenomeen...[PageBreak][Size percent=\"125\"][Color name=\"red\"]Ganon, het Onheil[Color name=\"unset\"].[PageBreak][Size percent=\"100\"]Honderd jaar geleden...[PauseMid] luidde dat het\n"
 "einde in van het koninkrijk [Color name=\"blue\"]Hyrule[Color name=\"unset\"].[PageBreak]Het verscheen uit het niets, verwoestte\n"
 "alle dorpen... [PauseMid]De meeste inwoners\n"
 "moesten het met hun leven bekopen...\n"
@@ -202,25 +202,25 @@ msgstr ""
 
 msgid "Appear13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Zeg...[PauseMid] ben je van plan om naar\n"
-"het kasteel te gaan?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]Zeg...[PauseMid] ben je van plan om naar\n"
+"het kasteel te gaan?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Zo'n vermoeden had ik al."
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Zo'n vermoeden had ik al."
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Je wilt mijn [Color name=\"blue\"]zweefzeil[Color name=\"unset\"], toch?[PauseMid] Nou, ik wil\n"
+"[Sound1 bytes=\"0001\"]Je wilt mijn [Color name=\"blue\"]zweefzeil[Color name=\"unset\"], toch?[PauseMid] Nou, ik wil\n"
 "de schat, dus je weet wat je te doen\n"
 "staat."
 
 msgid "Appear15"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Je hoeft ook niets te zeggen.[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Je hoeft ook niets te zeggen.[PauseMid]\n"
 "Ik zie de vastberadenheid in je ogen."
 
 msgid "GoodBye01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ik kijk ernaar uit."
+msgstr "[Sound1 bytes=\"0001\"]Ik kijk ernaar uit."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "JQAAAAFuBgAAAAAAADUAAAAEAAAA3AAAAAYBAAAwAQAAWgEAAFwBAABeAQAAiAEAALIBAADcAQAABgIAADACAAAyAgAANAIAAF4CAACIAgAAsgIAANwCAAAGAwAACAMAAAoDAAA0AwAAXgMAAIgDAACyAwAA3AMAAN4DAADgAwAACgQAADQEAABeBAAAiAQAALIEAADcBAAABgUAADAFAABaBQAAhAUAAIYFAACIBQAAsgUAANwFAAAGBgAAMAYAAFoGAABcBgAAXgYAAGAGAABiBgAAZAYAAGYGAABoBgAAagYAAGwGAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

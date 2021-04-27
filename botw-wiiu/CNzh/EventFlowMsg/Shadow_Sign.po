@@ -1,12 +1,12 @@
 msgid "Npc_Musician_003_R_010"
-msgstr "[Sound1 unk1=\"10\" unk2=\"19\"]哎呀～[PauseMid]"
+msgstr "[Sound1 bytes=\"0A13\"]哎呀～[PauseMid]"
 
 msgid "Npc_Musician_003_R_005"
 msgstr "[PauseAuto frames=\"270\"][01:01 bytes=\"9A99993E\"][Color name=\"red\"]勇者的试练[Color name=\"unset\"]，[PauseMid]将赫然耸现。[PauseMid]"
 
 msgid "Npc_Musician_003_R_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]这首诗里想必藏了\n"
+"[Sound1 bytes=\"0000\"]这首诗里想必藏了\n"
 "出乎我意料的秘密吧。\n"
 "那祝你旅途一片光明……[PauseMid]"
 
@@ -15,13 +15,13 @@ msgstr "嗯～"
 
 msgid "Npc_Musician_003_R_008"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]这真是失礼了，[PauseShort]\n"
+"[Sound1 bytes=\"030D\"]这真是失礼了，[PauseShort]\n"
 "我正沉迷于吟诗……[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]这是我已故师父写下的诗。[PageBreak]大约是100年前发生的那场大灾厄……[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]这是我已故师父写下的诗。[PageBreak]大约是100年前发生的那场大灾厄……[PauseMid]\n"
 "这首诗似乎是献给镇压大灾厄的勇者。\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]虽说100年过去了勇者仍未现身……[PauseMid]\n"
+"[Sound1 bytes=\"0B10\"]虽说100年过去了勇者仍未现身……[PauseMid]\n"
 "但师父相信总有一天勇者必会出现。\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]为了让将来现身的勇者听到这首诗，[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]为了让将来现身的勇者听到这首诗，[PauseShort]\n"
 "我每天都像这样练习着吟诗。"
 
 msgid "Npc_Musician_003_R_009"

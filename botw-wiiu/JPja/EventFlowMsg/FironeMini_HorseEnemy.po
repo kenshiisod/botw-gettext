@@ -1,13 +1,13 @@
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]ごらんの通り 馬に乗った[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]が、\n"
+"[Sound1 bytes=\"0310\"]ごらんの通り 馬に乗った[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]が、\n"
 "この平原を占拠しちまってね…[Pause frames=\"30\"]"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]お礼を上げたいけど…[Pause frames=\"30\"]\n"
+"[Sound1 bytes=\"0100\"]お礼を上げたいけど…[Pause frames=\"30\"]\n"
 "ポーチがいっぱいみたいだねぇ\n"
 "また改めて 来ておくれ"
 
@@ -17,7 +17,7 @@ msgstr "きたことある"
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]あなた 見てたわよ[Pause frames=\"15\"]\n"
+"[Sound1 bytes=\"0712\"]あなた 見てたわよ[Pause frames=\"15\"]\n"
 "\n"
 "平原を占拠していた あの[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]を\n"
 "追い払ってくれただろう\n"
@@ -25,31 +25,31 @@ msgstr ""
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]ほんとかい うれしいねえ\n"
+"[Sound1 bytes=\"0712\"]ほんとかい うれしいねえ\n"
 "たのんだよ"
 
 #, ruby
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]無理言って すまなかったね"
+msgstr "[Sound1 bytes=\"0900\"]無理言って すまなかったね"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あなた ここに来るのは 初めて？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]あなた ここに来るのは 初めて？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]あなた 頼んだよ…[Pause frames=\"30\"]\n"
+"[Sound1 bytes=\"0610\"]あなた 頼んだよ…[Pause frames=\"30\"]\n"
 "でも 無理はしないようにね"
 
 #, ruby
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]これは せめてもの お礼だよ！"
+msgstr "[Sound1 bytes=\"0100\"]これは せめてもの お礼だよ！"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そうかい[Pause frames=\"15\"]\n"
+"[Sound1 bytes=\"0000\"]そうかい[Pause frames=\"15\"]\n"
 "\n"
 "ここはね 良質な馬がたくさん育つ平原でねぇ\n"
 "昔は 遊牧民が集まって栄えていたんだよ\n"
@@ -58,8 +58,8 @@ msgstr ""
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]あの[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]\n"
-"だれか 追い払ってくれないかねぇ…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0301\"]あの[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]\n"
+"だれか 追い払ってくれないかねぇ…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "まかせて"
@@ -67,7 +67,7 @@ msgstr "まかせて"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"18\"]あなた あの[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0712\"]あなた あの[Color name=\"red\"]荒くれ者たち[Color name=\"unset\"]を\n"
 "追い払ってくれたのかい"
 
 msgid "0001"
@@ -76,7 +76,7 @@ msgstr "ごめん"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]馬にあげると 喜ぶのよ\n"
+"[Sound1 bytes=\"0000\"]馬にあげると 喜ぶのよ\n"
 "大好物なんだよ"
 
 msgid "0002"

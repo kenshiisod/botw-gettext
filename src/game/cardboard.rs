@@ -1,4 +1,4 @@
-use crate::msbtw::{Node, Tag, Param, ParamKind};
+use crate::msbtw::{Tag, Param, Value};
 use phf::{phf_map};
 
 pub const MARKER_START: u16 = 0x0E;
@@ -62,33 +62,33 @@ fn new_tag(name: &str, bytes: &[u8]) -> Tag {
     tag
 }
 
+pub const COLOR_NAMES: [(&str, &str); 4] = [
+    ("0", "white"), ("1", "red"), ("2", "blue"), ("65535", "unset")
+];
+
 fn new_tag_params(tag: &Tag) -> Vec<Param> {
-    let mut params = Vec::new();
     match tag.name.as_str() {
-        "System:Ruby" => {
-            params.push(Param::new("width", ParamKind::U16));
-            params.push(Param::new("rt", ParamKind::String));
-        },
-        "System:Font" => {
-            params.push(Param::new_mapped("face", ParamKind::U16, &[]));
-        },
-        "System:Size" => {
-            params.push(Param::new("percent", ParamKind::U16));
-        },
-        "System:Color" => {
-            params.push(Param::new_mapped("name", ParamKind::U16, &[
-                ("0", "White"), ("1", "Red"), ("2", "Blue")
-            ]));
-        },
-        "Blink:Time" => {
-            params.push(Param::new("Interval", ParamKind::U16));
-        },
-        "ProgressInfo:Index" | "ProgressInfo:Total" => {
-            params.push(Param::new("keta", ParamKind::U16));
-        },
-        _ => ()
-    };
-    params
+        "System:Ruby" => vec![
+            Param::new("width", Value::U16(0)),
+            Param::new("rt", Value::String("".to_string()))
+        ],
+        "System:Font" => vec![
+            Param::new_mapped("face", Value::U16(0), &[])
+        ],
+        "System:Size" => vec![
+            Param::new("percent", Value::U16(0))
+        ],
+        "System:Color" => vec![
+            Param::new_mapped("name", Value::U16(0), &COLOR_NAMES)
+        ],
+        "Blink:Time" => vec![
+            Param::new("Interval", Value::U16(0))
+        ],
+        "ProgressInfo:Index" | "ProgressInfo:Total" => vec![
+            Param::new("keta", Value::U16(0))
+        ],
+        _ => vec![]
+    }
 }
 
 pub fn new_tag_by_name(name: &str) -> Tag {

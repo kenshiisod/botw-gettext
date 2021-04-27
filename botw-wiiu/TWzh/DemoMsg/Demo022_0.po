@@ -2,52 +2,52 @@ msgid "0003"
 msgstr "回去"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]你還能繼續嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]你還能繼續嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]你的[Color name=\"blue\"]弓[Color name=\"unset\"]用完了！？[PauseMid]\n"
+"[Sound1 bytes=\"0601\"]你的[Color name=\"blue\"]弓[Color name=\"unset\"]用完了！？[PauseMid]\n"
 "那我們先撤退吧！"
 
 msgid "0004"
 msgstr "不回去"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]喂喂喂，你怎麼了……[PauseLong]真的要回去嗎？[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"000C\"]喂喂喂，你怎麼了……[PauseLong]真的要回去嗎？[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"2\"]"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]你的[Color name=\"blue\"]炸彈箭[Color name=\"unset\"]用完了！？[PauseMid]\n"
+"[Sound1 bytes=\"0601\"]你的[Color name=\"blue\"]炸彈箭[Color name=\"unset\"]用完了！？[PauseMid]\n"
 "那我們先撤退吧！"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]嗯……[PauseShort]那你還能繼續吧？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]嗯……[PauseShort]那你還能繼續吧？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]看來天氣對我們很不利……[PauseLong]\n"
-"你做好[Color name=\"blue\"]防寒措施[Color name=\"unset\"]了嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0600\"]看來天氣對我們很不利……[PauseLong]\n"
+"你做好[Color name=\"blue\"]防寒措施[Color name=\"unset\"]了嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]怎麼了？[PauseShort]你還好嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"1\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0600\"]怎麼了？[PauseShort]你還好嗎！？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"1\" cancel_idx=\"3\"]"
 
 msgid "0000"
 msgstr "我們上吧！"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]好，那我們繼續吧！[PauseShort][Color name=\"red\"]砲台[Color name=\"unset\"]就交給你了！"
+msgstr "[Sound1 bytes=\"0000\"]好，那我們繼續吧！[PauseShort][Color name=\"red\"]砲台[Color name=\"unset\"]就交給你了！"
 
 msgid "0001"
 msgstr "我需要準備一下"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]我知道了！[PauseShort]好好準備吧。"
+msgstr "[Sound1 bytes=\"0600\"]我知道了！[PauseShort]好好準備吧。"
 
 msgid "0002"
 msgstr "返回飛行訓練場"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……我知道了。[PauseShort]那我們先回到地面上吧。"
+msgstr "[Sound1 bytes=\"0000\"]……我知道了。[PauseShort]那我們先回到地面上吧。"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAEIAAAAAAAAAA8AAAAAAAAAAAAA"

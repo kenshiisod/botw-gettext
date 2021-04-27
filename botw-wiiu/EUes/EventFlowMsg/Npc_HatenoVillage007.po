@@ -2,16 +2,16 @@ msgid "near02"
 msgstr "¡Oye!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"6\" unk2=\"9\"]Yo cocino en mi casita.[PauseShort] ¡Mu rico!"
+msgstr "[Sound1 bytes=\"0609\"]Yo cocino en mi casita.[PauseShort] ¡Mu rico!"
 
 msgid "near03"
 msgstr "Zzz... Zzz..."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]¡Jia, jia, jia![PauseLong] ¡Je!"
+msgstr "[Sound1 bytes=\"070A\"]¡Jia, jia, jia![PauseLong] ¡Je!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]Zzz...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]Zzz...[Size percent=\"100\"]"
 
 msgid "0000"
 msgstr "¿Qué pasa?"
@@ -24,100 +24,100 @@ msgstr "¿Qué te gusta hacer?"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]¿Sabes qué cosas me gustan?[PauseShort]\n"
-"Te las cuento todas si quieres.[Choice4Flags label1=\"1\" label2=\"2\" label3=\"3\" label4=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0001\"]¿Sabes qué cosas me gustan?[PauseShort]\n"
+"Te las cuento todas si quieres.[Choice4Flags label1=\"1\" label2=\"2\" label3=\"3\" label4=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0003"
 msgstr "¿Qué te gusta?"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]¡Adiosito!"
+msgstr "[Sound1 bytes=\"0601\"]¡Adiosito!"
 
 msgid "0004"
 msgstr "Hasta luego"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]¿Eh? [PauseShort]Oye...[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0B00\"]¿Eh? [PauseShort]Oye...[Choice1 label=\"0\"]"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]¡Los quiero mucho, sobre todo\n"
-"a mi mamá![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Aunque se pasa el día hablando con\n"
+"[Sound1 bytes=\"0704\"]¡Los quiero mucho, sobre todo\n"
+"a mi mamá![PageBreak][Sound1 bytes=\"0601\"]Aunque se pasa el día hablando con\n"
 "su amiguita[PauseShort] y se pone mu enfadada\n"
 "si la molestas.[PageBreak]Si quieres oír de qué están hablando,[PauseShort]\n"
 "tienes que acercarte [Color name=\"red\"]a hurtadillas por\n"
 "detrás[Color name=\"unset\"]."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]?"
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]¡Las piedras preciosas y el dinerito![PauseLong]\n"
+"[Sound1 bytes=\"070A\"]¡Las piedras preciosas y el dinerito![PauseLong]\n"
 "Porque brillan y son mu bonitos."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]zafiro[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]zafiro[Color name=\"unset\"]?"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]¿No tienes ninguna piedra preciosa?\n"
+"[Sound1 bytes=\"0B00\"]¿No tienes ninguna piedra preciosa?\n"
 "Jooo,[PauseShort] pos así nunca tendrás dinerito."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Oooh, [PauseShort]cosa azul, bonita."
+msgstr "[Sound1 bytes=\"0700\"]Oooh, [PauseShort]cosa azul, bonita."
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]rubí[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]rubí[Color name=\"unset\"]?"
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]¿Quieres hablar más?[Choice4Flags label1=\"1\" label2=\"2\" label3=\"3\" label4=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0701\"]¿Quieres hablar más?[Choice4Flags label1=\"1\" label2=\"2\" label3=\"3\" label4=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"9\" unk2=\"32\"]Uf, uf..."
+msgstr "[Sound1 bytes=\"0920\"]Uf, uf..."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]topacio[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]topacio[Color name=\"unset\"]?"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Cazar bichos![PauseShort] ¡De los que brillan![PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Hay que agacharse, acercarse\n"
+"[Sound1 bytes=\"0709\"]¡Cazar bichos![PauseShort] ¡De los que brillan![PageBreak][Sound1 bytes=\"0601\"]Hay que agacharse, acercarse\n"
 "[Color name=\"red\"]despacito[Color name=\"unset\"] y entonces...[PauseMid] ¡Zas! ¡Pa casa!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]¡Mu bonita![PauseShort] ¡Mola!"
+msgstr "[Sound1 bytes=\"070A\"]¡Mu bonita![PauseShort] ¡Mola!"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]ópalo[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]ópalo[Color name=\"unset\"]?"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Yo también quiero una."
+msgstr "[Sound1 bytes=\"0B00\"]Yo también quiero una."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Tienes [Color name=\"blue\"][C9:00 bytes=\"01000000\"]ámbar[Color name=\"unset\"]?"
+msgstr "[Sound1 bytes=\"0000\"]¿Tienes [Color name=\"blue\"][C9:00 bytes=\"01000000\"]ámbar[Color name=\"unset\"]?"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]Me voy a mimir.[PauseShort] ¡Nas noches!"
+msgstr "[Sound1 bytes=\"0922\"]Me voy a mimir.[PauseShort] ¡Nas noches!"
 
 msgid "near00"
 msgstr "¡¿Qué es eso?!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"6\" unk2=\"12\"]¡Aiós![PauseShort] ¡Mañana hablamos!"
+msgstr "[Sound1 bytes=\"060C\"]¡Aiós![PauseShort] ¡Mañana hablamos!"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]¡Vende piedras preciosas y ganarás\n"
+"[Sound1 bytes=\"0701\"]¡Vende piedras preciosas y ganarás\n"
 "dinerito![PauseMid] Te harás rico..."
 
 msgid "near01"
 msgstr "Qué pereza..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]Zzz... Zzz...[PauseLong] Mmm...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]Zzz... Zzz...[PauseLong] Mmm...[Size percent=\"100\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡Me encanta correr![PauseShort] ¡Me chifla!"
+msgstr "[Sound1 bytes=\"0001\"]¡Me encanta correr![PauseShort] ¡Me chifla!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAGKBQAAAAAAACMAAAAEAAAAlAAAAL4AAADoAAAAEgEAADwBAAA+AQAAQAEAAEIBAABEAQAARgEAAHABAACaAQAAxAEAAO4BAAAYAgAAQgIAAGwCAACWAgAAwAIAAOoCAAAUAwAAPgMAAGgDAACSAwAAvAMAAOYDAAAQBAAAOgQAAGQEAACOBAAAuAQAAOIEAAAMBQAANgUAAGAFAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADcAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADcAAAAAAAAAAAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMAA3AAAAAAAA"

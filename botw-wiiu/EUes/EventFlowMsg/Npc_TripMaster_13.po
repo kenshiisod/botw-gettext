@@ -1,6 +1,6 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]¡Tíiio! ¡Otra vez nos vemos las caras![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Se me olvidó pillar algo de abrigo\n"
+"[Sound1 bytes=\"0102\"]¡Tíiio! ¡Otra vez nos vemos las caras![PageBreak][Sound1 bytes=\"0001\"]Se me olvidó pillar algo de abrigo\n"
 "cuando salí de casa, así que ahora\n"
 "me estoy quedando tieso...[PauseMid]\n"
 "Pero ya sabes que me desvivo por\n"
@@ -46,7 +46,7 @@ msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]Qué susto me he llevado..."
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]Me estoy quedando tieso."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]Me estoy quedando tieso."
 
 msgid "TerrorImpulse"
 msgstr "¡Auxilio!"

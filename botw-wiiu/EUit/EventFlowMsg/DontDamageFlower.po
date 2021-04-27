@@ -15,7 +15,7 @@ msgstr "Cos'è che non ti entra in testa?[Pause frames=\"30\"]"
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]Ho piantato fiori tutt'attorno al sacrario.\n"
+"[Sound1 bytes=\"0008\"]Ho piantato fiori tutt'attorno al sacrario.\n"
 "Fai attenzione a non calpestarli!"
 
 msgid "Fail_Run_St2"
@@ -23,26 +23,26 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]NOOOOOO!!![Size percent=\"100\"]
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]Non fare male ai fiori[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]Non fare male ai fiori[Color name=\"unset\"]![PauseShort]\n"
 "Stanno gridando dal dolore!"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Ehi! Quante volte te lo devo dire?!\n"
+"[Sound1 bytes=\"080E\"]Ehi! Quante volte te lo devo dire?!\n"
 "[Color name=\"red\"]I fiori vanno trattati bene[Color name=\"unset\"]!\n"
 "Sono esseri viventi anche loro!"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Guarda, non sono bellissimi?\n"
+"[Sound1 bytes=\"0113\"]Guarda, non sono bellissimi?\n"
 "[PauseShort]Ho piantato dei fiori attorno al sacrario.\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Puoi dare un'occhiata in giro,[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]Puoi dare un'occhiata in giro,[PauseMid]\n"
 "ma stai attento a non calpestarli!"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]È stata una faticaccia, per cui prenditi\n"
+"[Sound1 bytes=\"0008\"]È stata una faticaccia, per cui prenditi\n"
 "pure tutto il tuo tempo per ammirarli!"
 
 msgid "Fail_3"
@@ -56,7 +56,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Ehi! Cosa stai facendo?!\n"
+"[Sound1 bytes=\"080E\"]Ehi! Cosa stai facendo?!\n"
 "[Color name=\"red\"]Non fare male ai fiori[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

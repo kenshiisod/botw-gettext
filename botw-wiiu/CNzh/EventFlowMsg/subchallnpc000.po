@@ -1,37 +1,37 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]再一下……[PauseMid]再一下\n"
+"[Sound1 bytes=\"0B01\"]再一下……[PauseMid]再一下\n"
 "就能完全解开了……"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]对吧，大哥！"
+msgstr "[Sound1 bytes=\"0000\"]对吧，大哥！"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]大哥真厉害！\n"
-"居然再一下就能解开了！！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]大哥真厉害！\n"
+"居然再一下就能解开了！！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]是、[PauseShort]是啊……[PauseLong]"
+msgstr "[Sound1 bytes=\"0B01\"]是、[PauseShort]是啊……[PauseLong]"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]喂！\n"
+"[Sound1 bytes=\"0800\"]喂！\n"
 "你可别胡说八道哦。"
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]“稚弟卧川波，逆流而上溯其源。[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]“稚弟卧川波，逆流而上溯其源。[PauseShort]\n"
 "  暗夜银光现，瀑布水落自九天。”"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]咦？\n"
+"[Sound1 bytes=\"0414\"]咦？\n"
 "真的吗？"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"]像你这样的外行人，\n"
+"[Sound1 bytes=\"0801\"]像你这样的外行人，\n"
 "怎么可能抢先大哥一步解开诗谜！\n"
 "决不可能！"
 
@@ -40,7 +40,7 @@ msgstr "我解开了"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]用不着你帮忙加油，\n"
+"[Sound1 bytes=\"020E\"]用不着你帮忙加油，\n"
 "大哥再一下就能解开了！"
 
 msgid "0001"
@@ -48,7 +48,7 @@ msgstr "加油哦"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]是、是啊。[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]是、是啊。[PauseLong]\n"
 "再一下就好……"
 
 msgid "_ReadOnly_MsbtExtras"

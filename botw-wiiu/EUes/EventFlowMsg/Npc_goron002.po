@@ -1,46 +1,46 @@
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]¡Gorogracias![PauseMid] Ya me apunto que me toca\n"
+"[Sound1 bytes=\"0700\"]¡Gorogracias![PauseMid] Ya me apunto que me toca\n"
 "reponer unas cuantas unidades más."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Gracias por la compra![PauseMid]\n"
+"[Sound1 bytes=\"0709\"]¡Gracias por la compra![PauseMid]\n"
 "Me toca reponer existencias."
 
 msgid "Com_Talk_11"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Te lo goroagradezco!"
+msgstr "[Sound1 bytes=\"070B\"]¡Te lo goroagradezco!"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Te puedo ayudar con alguna cosa?[Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]¿Te puedo ayudar con alguna cosa?[Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Y cuántas unidades quieres venderme?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Y cuántas unidades quieres venderme?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "near00"
 msgstr "¡Tengo de todo!"
 
 msgid "Com_Talk_14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Por [02:0F name=\"Shop_TradeItemNum\"] unidades te daré\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"] en total.[PauseMid] ¿Vale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Por [02:0F name=\"Shop_TradeItemNum\"] unidades te daré\n"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"] en total.[PauseMid] ¿Vale?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Lo siento, eso no me sirve..."
+msgstr "[Sound1 bytes=\"0010\"]Lo siento, eso no me sirve..."
 
 msgid "Com_Talk_11b"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Muy goroagradecido!"
+msgstr "[Sound1 bytes=\"0709\"]¡Muy goroagradecido!"
 
 msgid "Com_Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Si quieres venderme eso, tendrás que\n"
+"[Sound1 bytes=\"0010\"]Si quieres venderme eso, tendrás que\n"
 "quitártelo primero, ¿no crees?"
 
 msgid "Com_Talk_11c"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡Gracias por ser tan buen gorocliente!"
+msgstr "[Sound1 bytes=\"070B\"]¡Gracias por ser tan buen gorocliente!"
 
 msgid "Com_Talk_11d"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]¡Goromil gracias!"
+msgstr "[Sound1 bytes=\"0709\"]¡Goromil gracias!"
 
 msgid "0001"
 msgstr "Vengo a vender"
@@ -53,70 +53,70 @@ msgstr "Adiós"
 
 msgid "Com_Talk_33"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Puedo ofrecerte [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
-"¿gorovale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0601\"]Puedo ofrecerte [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"],\n"
+"¿gorovale?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0004"
 msgstr "¡Compro!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]¡Buenos días y bienvenido\n"
+"[Sound1 bytes=\"0102\"]¡Buenos días y bienvenido\n"
 "a [Color name=\"blue\"]Todo goro[Color name=\"unset\"],[PauseShort] la tienda de los mil\n"
 "artículos. ¡Abrimos muy temprano!"
 
 msgid "Com_Talk_05b"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]A ver, enséñame lo que quieres vender."
+msgstr "[Sound1 bytes=\"0001\"]A ver, enséñame lo que quieres vender."
 
 msgid "Com_Talk_34"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]¿Todas las unidades?[PauseMid] Vale, pues\n"
-"[02:0F name=\"Shop_TradeItemNum\"] te costarán [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0601\"]¿Todas las unidades?[PauseMid] Vale, pues\n"
+"[02:0F name=\"Shop_TradeItemNum\"] te costarán [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]¡Hola! En [Color name=\"blue\"]Todo goro[Color name=\"unset\"] estamos\n"
+"[Sound1 bytes=\"0102\"]¡Hola! En [Color name=\"blue\"]Todo goro[Color name=\"unset\"] estamos\n"
 "a tu disposición para lo que necesites.[PauseMid]\n"
 "¡Todo el mundo conoce esta tienda!"
 
 msgid "Com_Talk_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Tómate tu tiempo."
+msgstr "[Sound1 bytes=\"0001\"]Tómate tu tiempo."
 
 msgid "Com_Talk_05c"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Vamos, vamos, ¡decídete!"
+msgstr "[Sound1 bytes=\"0001\"]Vamos, vamos, ¡decídete!"
 
 msgid "Com_Talk_35"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]¿Todo? Pues por [02:0F name=\"Shop_TradeItemNum\"] puedo\n"
-"darte [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿vale?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]¿Todo? Pues por [02:0F name=\"Shop_TradeItemNum\"] puedo\n"
+"darte [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"], ¿vale?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Vaya, ¿todavía sigues en planta a estas\n"
+"[Sound1 bytes=\"0102\"]Vaya, ¿todavía sigues en planta a estas\n"
 "horas?[PauseShort] En [Color name=\"blue\"]Todo goro[Color name=\"unset\"] tampoco\n"
 "descansamos."
 
 msgid "Com_Talk_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ah, pues te doy [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[PauseMid]\n"
-"¿Goroaceptas?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Ah, pues te doy [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[PauseMid]\n"
+"¿Goroaceptas?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_05d"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡Venga! ¡Estoy que lo compro todo!"
+msgstr "[Sound1 bytes=\"0001\"]¡Venga! ¡Estoy que lo compro todo!"
 
 msgid "Com_Talk_02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Gorogracias![PauseMid]\n"
+"[Sound1 bytes=\"0709\"]¡Gorogracias![PauseMid]\n"
 "¿Querías vender algo más?"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]De acuerdo.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]De acuerdo.[PauseShort]\n"
 "¿Qué es lo que te gustaría vender?"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Tenemos artículos de diversos tipos:\n"
+"[Sound1 bytes=\"0004\"]Tenemos artículos de diversos tipos:\n"
 "desde productos alimentarios hasta\n"
 "proyectiles.\n"
 "«En la variedad hallarás la fortuna»;\n"
@@ -124,60 +124,60 @@ msgstr ""
 
 msgid "Com_Talk_02b"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]Dicho y hecho.[PauseMid] ¿Alguna otra gorocosa\n"
+"[Sound1 bytes=\"070B\"]Dicho y hecho.[PauseMid] ¿Alguna otra gorocosa\n"
 "que quieras vender?"
 
 msgid "Com_Talk_04"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Bueno, menos da una piedra."
+msgstr "[Sound1 bytes=\"0900\"]Bueno, menos da una piedra."
 
 msgid "Com_Talk_50"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Pues apoquina [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"gororrupia\" plural=\"gororrupias\"][Color name=\"unset\"], ¿sí?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Pues apoquina [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"gororrupia\" plural=\"gororrupias\"][Color name=\"unset\"], ¿sí?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_02c"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Gorogracias![PauseMid] ¿Quieres venderme más\n"
+"[Sound1 bytes=\"0709\"]¡Gorogracias![PauseMid] ¿Quieres venderme más\n"
 "cosas?"
 
 msgid "Com_Talk_05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¡Estoy dispuesto a comprar lo que sea!"
+msgstr "[Sound1 bytes=\"0001\"]¡Estoy dispuesto a comprar lo que sea!"
 
 msgid "Com_Talk_51"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¿Y cuántas gorounidades quieres?[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0004\"]¿Y cuántas gorounidades quieres?[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¡Hasta luego!"
+msgstr "[Sound1 bytes=\"0004\"]¡Hasta luego!"
 
 msgid "Com_Talk_02d"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]¡De goroacuerdo![PauseMid] ¿Algo más?"
+msgstr "[Sound1 bytes=\"070B\"]¡De goroacuerdo![PauseMid] ¿Algo más?"
 
 msgid "Com_Talk_52"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]A ver...[PauseMid] Un total de [02:0F name=\"Shop_TradeItemNum\"] unidades\n"
-"harían nada menos que [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
-"¿Qué me dices?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]A ver...[PauseMid] Un total de [02:0F name=\"Shop_TradeItemNum\"] unidades\n"
+"harían nada menos que [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].\n"
+"¿Qué me dices?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5500"
 msgstr "Sí"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]¿Eh?[PauseShort] ¿Se ha agotado del todo?\n"
+"[Sound1 bytes=\"0700\"]¿Eh?[PauseShort] ¿Se ha agotado del todo?\n"
 "¡Tendré que conseguir más existencias!"
 
 msgid "Com_Talk_53"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Pues gorovaya..."
+msgstr "[Sound1 bytes=\"0900\"]Pues gorovaya..."
 
 msgid "5501"
 msgstr "No"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]¡Gorogracias![PauseMid]\n"
+"[Sound1 bytes=\"0709\"]¡Gorogracias![PauseMid]\n"
 "¡No has dejado ni una unidad!"
 
 msgid "Com_Talk_54"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Te veo un poco goroescaso de rupias.\n"
+"[Sound1 bytes=\"0B00\"]Te veo un poco goroescaso de rupias.\n"
 "Vuelve cuando tengas las suficientes."
 
 msgid "5502"
@@ -185,13 +185,13 @@ msgstr "¡Compro!"
 
 msgid "Com_Talk_09"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]Vaya, tu alforja está hasta los topes.[PauseMid]\n"
+"[Sound1 bytes=\"0310\"]Vaya, tu alforja está hasta los topes.[PauseMid]\n"
 "Vuelve cuando hayas liberado un poco\n"
 "de espacio."
 
 msgid "Com_Talk_55"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Con la goroalforja llena no puedes\n"
+"[Sound1 bytes=\"0900\"]Con la goroalforja llena no puedes\n"
 "llevar más cosas.[PauseMid] Haz un poco de\n"
 "sitio, anda."
 
@@ -199,7 +199,7 @@ msgid "5503"
 msgstr "Mejor no"
 
 msgid "Com_Talk_56"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Vale.[PauseShort] Serán [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] [SPSwitch singular=\"gororrupia\" plural=\"gororrupias\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Vale.[PauseShort] Serán [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] [SPSwitch singular=\"gororrupia\" plural=\"gororrupias\"][Color name=\"unset\"].[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5507"
 msgstr "Las compro todas"

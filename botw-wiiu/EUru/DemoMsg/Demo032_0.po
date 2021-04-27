@@ -35,25 +35,25 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]Восстановление завершено."
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Щелк!"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Щелк!"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]Улучшение локатора завершено."
 
 msgid "Demo032_0_Text006"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Мог бы поэнергичнее."
+msgstr "[Sound1 bytes=\"0010\"]Мог бы поэнергичнее."
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]Улучшение Стазиса завершено."
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Вот так!"
+msgstr "[Sound1 bytes=\"0709\"]Вот так!"
 
 msgid "Demo032_0_Text008"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]Терминал[Color name=\"unset\"] разблокирован!"
+msgstr "[Sound1 bytes=\"0001\"][Color name=\"blue\"]Терминал[Color name=\"unset\"] разблокирован!"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Начинаем!"
+msgstr "[Sound1 bytes=\"010B\"]Начинаем!"
 
 msgid "Demo032_0_Text020"
 msgstr "[Animation name=\"Activate\"]Улучшение телебомб завершено."
@@ -67,13 +67,13 @@ msgstr ""
 "нажмите [Icon id=\"13\"] на экране карты."
 
 msgid "Demo032_0_Text010"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Чиним [Color name=\"blue\"]Камень шиика[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0001\"]Чиним [Color name=\"blue\"]Камень шиика[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text023"
 msgstr "[Animation name=\"Activate\"]Добавлена руна."
 
 msgid "Demo032_0_Text011"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Апгрейдим [Color name=\"blue\"]локатор[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0101\"]Апгрейдим [Color name=\"blue\"]локатор[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text024"
 msgstr ""
@@ -81,13 +81,13 @@ msgstr ""
 "локатором и атласом Хайрула."
 
 msgid "Demo032_0_Text012"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Апгрейдим [Color name=\"blue\"]телебомбы[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0101\"]Апгрейдим [Color name=\"blue\"]телебомбы[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text000"
 msgstr "[Animation name=\"Activate\"]Камень шиика принят."
 
 msgid "Demo032_0_Text013"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Апгрейдим [Color name=\"blue\"]Стазис[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0101\"]Апгрейдим [Color name=\"blue\"]Стазис[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAEIAAAAAAAAABkAAAAAAAAAAAAA"

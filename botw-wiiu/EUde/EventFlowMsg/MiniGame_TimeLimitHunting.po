@@ -1,44 +1,44 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Danke![PauseShort] Kannst du sofort anfangen?[Choice3 label1=\"7\" label2=\"8\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0704\"]Danke![PauseShort] Kannst du sofort anfangen?[Choice3 label1=\"7\" label2=\"8\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Weißt du, ich habe da eine Aufgabe und\n"
+"[Sound1 bytes=\"0001\"]Weißt du, ich habe da eine Aufgabe und\n"
 "du siehst so aus, als wärst du genau der\n"
-"Richtige dafür![PauseLong] Würdest du mir helfen?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"Richtige dafür![PauseLong] Würdest du mir helfen?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Na gut... [PauseLong]Sag mir Bescheid, falls du\n"
+"[Sound1 bytes=\"0001\"]Na gut... [PauseLong]Sag mir Bescheid, falls du\n"
 "es dir anders überlegst."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]Dann wollen wir mal mit der [Color name=\"red\"]Hirschjagd[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0003\"]Dann wollen wir mal mit der [Color name=\"red\"]Hirschjagd[Color name=\"unset\"]\n"
 "anfangen. [PauseShort]Ich gebe dir Bescheid, wenn\n"
 "[Color name=\"red\"]1 Minute [Color name=\"unset\"]vorbei ist."
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Und?[PauseShort] Denkst du, du schaffst das?[Choice3 label1=\"7\" label2=\"8\" label3=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Und?[PauseShort] Denkst du, du schaffst das?[Choice3 label1=\"7\" label2=\"8\" label3=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Die Zeit ist um! [PauseShort]Komm zurück!"
+msgstr "[Sound1 bytes=\"0003\"]Die Zeit ist um! [PauseShort]Komm zurück!"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]Oha...[PauseLong] Du hast keinen einzigen erwischt?[PauseShort]\n"
+"[Sound1 bytes=\"0B13\"]Oha...[PauseLong] Du hast keinen einzigen erwischt?[PauseShort]\n"
 "Dafür kann ich dir leider keine Belohnung\n"
 "geben..."
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Tja... [PauseShort]Wir müssen die Zahl der Hirsche\n"
+"[Sound1 bytes=\"0001\"]Tja... [PauseShort]Wir müssen die Zahl der Hirsche\n"
 "im Wald weiter reduzieren... [PauseLong]Hilfst du mir\n"
-"wieder?[Choice2 label1=\"2\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"wieder?[Choice2 label1=\"2\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Insgesamt[Color name=\"red\"] [02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"][Color name=\"unset\"]...[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]Insgesamt[Color name=\"red\"] [02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"][Color name=\"unset\"]...[PauseLong]\n"
 "Danke!"
 
 msgid "near00"
@@ -46,50 +46,50 @@ msgstr "Los geht's..."
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Das waren [Color name=\"red\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"].[PauseLong] Du bist kein\n"
+"[Sound1 bytes=\"0104\"]Das waren [Color name=\"red\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"].[PauseLong] Du bist kein\n"
 "schlechter Jäger!"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"10\" unk2=\"21\"][Color name=\"red\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Das nenne ich mal beeindruckend!"
+msgstr "[Sound1 bytes=\"0A15\"][Color name=\"red\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"0101\"]Das nenne ich mal beeindruckend!"
 
 msgid "talk28"
 msgstr ""
-"[Color name=\"red\"][Sound1 unk1=\"7\" unk2=\"0\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"]![PageBreak]Ich trau meinen Augen nicht...[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Ich glaube nicht, dass es jemals einen\n"
+"[Color name=\"red\"][Sound1 bytes=\"0700\"][02:0E name=\"MiniGame_TimeLimitHunting_HuntedNum\"] Hirsche[Color name=\"unset\"]![PageBreak]Ich trau meinen Augen nicht...[PageBreak][Sound1 bytes=\"0601\"]Ich glaube nicht, dass es jemals einen\n"
 "besseren Jäger gegeben hat!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Hat die alte Purah nicht immer eine\n"
+"[Sound1 bytes=\"0B06\"]Hat die alte Purah nicht immer eine\n"
 "[Color name=\"blue\"]Flamme[Color name=\"unset\"] in dieser Farbe herumgetragen?[PauseMid]\n"
 "Hmm..."
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Hier, deine Belohnung!"
+msgstr "[Sound1 bytes=\"0001\"]Hier, deine Belohnung!"
 
 msgid "0000"
 msgstr "Kommt drauf an..."
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Diese [Color name=\"blue\"]Flamme[Color name=\"unset\"]...[PauseShort] Ich glaube, die solltest\n"
+"[Sound1 bytes=\"0001\"]Diese [Color name=\"blue\"]Flamme[Color name=\"unset\"]...[PauseShort] Ich glaube, die solltest\n"
 "du schnell nach oben zur alten Purah\n"
 "bringen."
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Da lass ich mich nicht lumpen!"
+msgstr "[Sound1 bytes=\"0101\"]Da lass ich mich nicht lumpen!"
 
 msgid "0001"
 msgstr "Ich muss ablehnen."
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Sieh an, diese [Color name=\"blue\"]Flamme[Color name=\"unset\"]...[PauseShort] Haben sonst\n"
+"[Sound1 bytes=\"0B06\"]Sieh an, diese [Color name=\"blue\"]Flamme[Color name=\"unset\"]...[PauseShort] Haben sonst\n"
 "nicht immer die Leute vom [Color name=\"blue\"]Institut [Color name=\"unset\"]so\n"
 "eine herumgetragen?"
 
 msgid "talk31"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]Geh nicht zu weit![PauseShort] Komm ein Stück\n"
+"[Sound1 bytes=\"0003\"]Geh nicht zu weit![PauseShort] Komm ein Stück\n"
 "zurück!"
 
 msgid "0002"
@@ -97,7 +97,7 @@ msgstr "In Ordnung!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Gehört diese [Color name=\"blue\"]Flamme[Color name=\"unset\"] nicht den Leuten\n"
+"[Sound1 bytes=\"0001\"]Gehört diese [Color name=\"blue\"]Flamme[Color name=\"unset\"] nicht den Leuten\n"
 "vom Institut?[PauseLong] Bring sie ihnen lieber\n"
 "schnell!"
 
@@ -106,7 +106,7 @@ msgstr "Ich muss weiter..."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ich weiß nicht, warum du sie mit dir\n"
+"[Sound1 bytes=\"0001\"]Ich weiß nicht, warum du sie mit dir\n"
 "herumträgst, aber du solltest sie schnell\n"
 "nach oben bringen."
 
@@ -114,19 +114,19 @@ msgid "0004"
 msgstr "Lieber nicht."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jau! [PauseShort]Du bist aber früh unterwegs!"
+msgstr "[Sound1 bytes=\"0000\"]Jau! [PauseShort]Du bist aber früh unterwegs!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jau! [PauseShort]Tag auch!"
+msgstr "[Sound1 bytes=\"0000\"]Jau! [PauseShort]Tag auch!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jau! [PauseShort]'n Abend!"
+msgstr "[Sound1 bytes=\"0000\"]Jau! [PauseShort]'n Abend!"
 
 msgid "0007"
 msgstr "Ich fange sofort an!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jau!"
+msgstr "[Sound1 bytes=\"0000\"]Jau!"
 
 msgid "0008"
 msgstr "Gibt's einen Trick?"
@@ -135,31 +135,31 @@ msgid "0009"
 msgstr "Aufhören."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Na dann, ich verlass mich auf dich!"
+msgstr "[Sound1 bytes=\"0109\"]Na dann, ich verlass mich auf dich!"
 
 msgid "0010"
 msgstr "Ich höre auf."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]Sag... [PauseShort]Bist du ein Reisender?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"][Size percent=\"80\"]So so, aha... [PauseLong]Hm...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0606\"]Sag... [PauseShort]Bist du ein Reisender?[PageBreak][Sound1 bytes=\"0B01\"][Size percent=\"80\"]So so, aha... [PauseLong]Hm...[Size percent=\"100\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Der Trick besteht darin, einen starken\n"
+"[Sound1 bytes=\"0001\"]Der Trick besteht darin, einen starken\n"
 "Bogen zu verwenden und den Hirsch mit\n"
 "nur einem Schuss zu erlegen.[PageBreak]Außerdem ist es wichtig,[PauseShort] dass du beim\n"
 "Anpirschen nicht entdeckt wirst."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Jau, also...[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Es tut mir im Herzen weh, aber ich\n"
+"[Sound1 bytes=\"0700\"]Jau, also...[PageBreak][Sound1 bytes=\"0601\"]Es tut mir im Herzen weh, aber ich\n"
 "möchte dich bitten, tief im [Color name=\"blue\"]Expa-Wald[Color name=\"unset\"]\n"
 "[Color name=\"red\"]Hirsche[Color name=\"unset\"] für mich zu jagen.[PageBreak]Es gibt einfach zu viele von ihnen, und\n"
 "sie zerstören den Wald.[PageBreak]Also erlege bitte innerhalb von [Color name=\"red\"]1 Minute[Color name=\"unset\"]\n"
-"so viele [Color name=\"red\"]Hirsche[Color name=\"unset\"] wie du kannst...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"so viele [Color name=\"red\"]Hirsche[Color name=\"unset\"] wie du kannst...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Hilfst du mir bei der [Color name=\"red\"]Hirschjagd[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B01\"]Hilfst du mir bei der [Color name=\"red\"]Hirschjagd[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAGiBQAAAAAAACcAAAAEAAAApAAAAM4AAADQAAAA0gAAANQAAADWAAAA2AAAANoAAADcAAAA3gAAAOAAAAAKAQAANAEAAF4BAACIAQAAsgEAANwBAAAGAgAAMAIAAFoCAACEAgAArgIAANgCAAACAwAALAMAAFYDAACAAwAAqgMAANQDAAD+AwAAKAQAAFIEAAB8BAAApgQAANAEAAD6BAAAJAUAAE4FAAB4BQAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMQA2AAAAAAAA"

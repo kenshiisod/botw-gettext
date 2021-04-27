@@ -1,35 +1,35 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Almost there...[PauseMid] Just a little bit more, and\n"
+"[Sound1 bytes=\"0B01\"]Almost there...[PauseMid] Just a little bit more, and\n"
 "I'll have the whole thing worked out."
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tell this guy to beat it,[PauseShort] Dak!"
+msgstr "[Sound1 bytes=\"0000\"]Tell this guy to beat it,[PauseShort] Dak!"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Get out of here, man! That's amazing!\n"
-"You've almost got it figured out![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]Get out of here, man! That's amazing!\n"
+"You've almost got it figured out![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Quiet, Prissen.[PauseMid] I'm trying to think.[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]Quiet, Prissen.[PauseMid] I'm trying to think.[PauseLong]\n"
 "[Size percent=\"80\"]Ugh... I just need a bit more time to solve this...[Size percent=\"100\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Pfft, yeah. Definitely lying!"
+msgstr "[Sound1 bytes=\"0800\"]Pfft, yeah. Definitely lying!"
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]\"The little twin steps over the little river.\n"
+"[Sound1 bytes=\"0B00\"]\"The little twin steps over the little river.\n"
 "My cave rests above that river's source.\""
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Hmph. You're lying."
+msgstr "[Sound1 bytes=\"0414\"]Hmph. You're lying."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]There's just no way a rookie like you\n"
+"[Sound1 bytes=\"0800\"]There's just no way a rookie like you\n"
 "could solve that puzzle before Dak!\n"
 "[PauseMid]Not a chance!"
 
@@ -38,7 +38,7 @@ msgstr "I already solved it."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]We don't need your help OR your\n"
+"[Sound1 bytes=\"020E\"]We don't need your help OR your\n"
 "encouragement. We're so close to the\n"
 "answer, I can almost smell it!"
 
@@ -47,7 +47,7 @@ msgstr "Keep at it."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Quiet, Prissen.[PauseMid] I'm trying to think.[PauseLong]\n"
+"[Sound1 bytes=\"0B01\"]Quiet, Prissen.[PauseMid] I'm trying to think.[PauseLong]\n"
 "[Size percent=\"80\"]Ugh... I just need a bit more time to solve this...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"

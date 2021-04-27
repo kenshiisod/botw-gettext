@@ -1,16 +1,16 @@
 msgid "talk_0001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]真是的……为什么男人总是\n"
+"[Sound1 bytes=\"0B00\"]真是的……为什么男人总是\n"
 "随随便便就把巨大的力量说成是浪漫啊？\n"
 "就算再怎么能驱逐怪物，\n"
-"使用的人也不一定就是好人……对吧？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"使用的人也不一定就是好人……对吧？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "是浪漫！"
 
 msgid "talk_0002"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]也是……\n"
+"[Sound1 bytes=\"0B00\"]也是……\n"
 "毕竟都特地来到这种寒冷的地方了……"
 
 msgid "0001"
@@ -18,24 +18,24 @@ msgstr "我也这么想"
 
 msgid "talk_0003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]假如[Color name=\"red\"]驱魔之剑[Color name=\"unset\"]什么的\n"
+"[Sound1 bytes=\"0004\"]假如[Color name=\"red\"]驱魔之剑[Color name=\"unset\"]什么的\n"
 "真的存在……\n"
 "真希望是由像你这样，\n"
 "感觉很温柔的剑士来使用呢。"
 
 msgid "talk_5000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]我听到你和登顿先生的\n"
+"[Sound1 bytes=\"0000\"]我听到你和登顿先生的\n"
 "谈话内容了哦。\n"
 "虽然无法助你一臂之力……\n"
 "但我会将驿站打扫干净，欢迎你随时来休息哦。"
 
 msgid "talk_1000"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]趁着晚上打扫，打扫……"
+msgstr "[Sound1 bytes=\"0000\"]趁着晚上打扫，打扫……"
 
 msgid "talk_2000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]欢迎来到[Color name=\"blue\"]雪原驿站[Color name=\"unset\"]。[PageBreak]假如打算前往积雪较深的地方，\n"
+"[Sound1 bytes=\"0000\"]欢迎来到[Color name=\"blue\"]雪原驿站[Color name=\"unset\"]。[PageBreak]假如打算前往积雪较深的地方，\n"
 "就用松软的床好好休息吧。"
 
 msgid "_ReadOnly_MsbtExtras"

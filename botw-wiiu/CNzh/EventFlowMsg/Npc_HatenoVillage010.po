@@ -1,11 +1,11 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]话说回来，最近……[PauseShort]\n"
-"完全没有见到普尔亚婆婆呢……[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]话说回来，最近……[PauseShort]\n"
+"完全没有见到普尔亚婆婆呢……[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]旅行者，[PauseShort]别客气，\n"
+"[Sound1 bytes=\"0002\"]旅行者，[PauseShort]别客气，\n"
 "来旅馆休息一下吧。"
 
 msgid "near00"
@@ -13,23 +13,23 @@ msgstr "住宿～住宿请来这里～"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]这样啊……[PauseShort]那我就安心了。\n"
+"[Sound1 bytes=\"010B\"]这样啊……[PauseShort]那我就安心了。\n"
 "\n"
 "毕竟村庄的大家也都[PauseShort]\n"
 "很担心呢。"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]下雨了呢。"
+msgstr "[Sound1 bytes=\"000C\"]下雨了呢。"
 
 msgid "near01"
 msgstr "呀……"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]好的，那再会……"
+msgstr "[Sound1 bytes=\"0001\"]好的，那再会……"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]如果你想住宿，请[Color name=\"red\"]隔着柜台[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0001\"]如果你想住宿，请[Color name=\"red\"]隔着柜台[Color name=\"unset\"][PauseShort]\n"
 "告诉接待的小姐。"
 
 msgid "near02"
@@ -37,7 +37,7 @@ msgstr "呼……"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]如果你想住宿，请[Color name=\"red\"]隔着柜台[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0001\"]如果你想住宿，请[Color name=\"red\"]隔着柜台[Color name=\"unset\"][PauseShort]\n"
 "告诉里面的人。"
 
 msgid "near03"
@@ -45,30 +45,30 @@ msgstr "嗯……"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]如果你在找哈特诺村的旅馆，[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]如果你在找哈特诺村的旅馆，[PauseShort]\n"
 "那就是我们[Color name=\"blue\"]东风亭[Color name=\"unset\"]了。"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]小孩子……？\n"
+"[Sound1 bytes=\"0B06\"]小孩子……？\n"
 "\n"
-"[Sound1 unk1=\"4\" unk2=\"11\"]啊！"
+"[Sound1 bytes=\"040B\"]啊！"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]这么早起真是辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]这么早起真是辛苦了。"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]辛苦了。"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]这种时间还在外面真是辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]这种时间还在外面真是辛苦了。"
 
 msgid "0000"
 msgstr "她看来很有精神"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]我有听说普尔亚婆婆的孙女来这里玩，\n"
+"[Sound1 bytes=\"0001\"]我有听说普尔亚婆婆的孙女来这里玩，\n"
 "原来传闻是真的啊。\n"
 "确实有人在[Color name=\"blue\"]研究所[Color name=\"unset\"]附近[PauseShort]见到了[Color name=\"red\"]小女孩[Color name=\"unset\"]呢。"
 
@@ -79,36 +79,36 @@ msgid "0002"
 msgstr "再见"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]这种天气真是辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]这种天气真是辛苦了。"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]欢迎来到[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]欢迎来到[PauseShort]\n"
 "东风亭[Color name=\"unset\"]。"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]哦，那道[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]……[PauseLong]\n"
+"[Sound1 bytes=\"0B06\"]哦，那道[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]……[PauseLong]\n"
 "是[Color name=\"blue\"]哈特诺古代研究所[Color name=\"unset\"]的东西吧？"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]哦，那道[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]……[PauseLong]\n"
+"[Sound1 bytes=\"0B06\"]哦，那道[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]……[PauseLong]\n"
 "是普尔亚婆婆的东西吧？"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]那里的[Color name=\"blue\"]所长[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"000C\"]那里的[Color name=\"blue\"]所长[Color name=\"unset\"][PauseShort]\n"
 "终究上了年纪是吗……"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]普尔亚婆婆也终于把\n"
+"[Sound1 bytes=\"000C\"]普尔亚婆婆也终于把\n"
 "运送火焰的任务交给年轻人了吗。"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]接下来天气可会越来越糟，[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]接下来天气可会越来越糟，[PauseLong]\n"
 "在这里留宿一晚如何啊？"
 
 msgid "_ReadOnly_MsbtExtras"

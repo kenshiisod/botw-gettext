@@ -1,62 +1,62 @@
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Na, wie war die Massage?[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]Na, wie war die Massage?[PauseShort]\n"
 "Ich wünsche dir einen schönen Tag!"
 
 msgid "Talk11"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"][Size percent=\"125\"]Willkooommen![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0100\"][Size percent=\"125\"]Willkooommen![Size percent=\"100\"]"
 
 msgid "Talk12"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"0\"]Du bist sicher müde, so spät![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0100\"]Du bist sicher müde, so spät![Size percent=\"100\"]"
 
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]Ist das deine erste Goronenmassage?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Dabei liegst du auf einem harten Felsen,[PauseShort]\n"
+"[Sound1 bytes=\"0414\"]Ist das deine erste Goronenmassage?[PageBreak][Sound1 bytes=\"0000\"]Dabei liegst du auf einem harten Felsen,[PauseShort]\n"
 "und wir drücken und drehen und\n"
 "strecken dich ein bisschen.\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]Aber keine Angst, das tut nicht weh.[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]Aber keine Angst, das tut nicht weh.[PauseShort]\n"
 "Einfach entspannen![PageBreak]Wenn du wieder aufwachst, fühlst du\n"
 "dich wie neugeboren!"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Eine Nacht im normalen Bett kostet\n"
+"[Sound1 bytes=\"0100\"]Eine Nacht im normalen Bett kostet\n"
 "[Color name=\"red\"]20 Rubine[Color name=\"unset\"].[PauseMid] In Kombination mit einer\n"
-"Goronenmassage zahlst du [Color name=\"red\"]80 Rubine[Color name=\"unset\"]![Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"Goronenmassage zahlst du [Color name=\"red\"]80 Rubine[Color name=\"unset\"]![Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]He, Bruder! Hast du schon gehört?[PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] hat sich beruhigt,[PauseShort] und es fallen\n"
+"[Sound1 bytes=\"0000\"]He, Bruder! Hast du schon gehört?[PageBreak][Color name=\"blue\"]Rudania[Color name=\"unset\"] hat sich beruhigt,[PauseShort] und es fallen\n"
 "keine [Color name=\"blue\"]Lavabrocken[Color name=\"unset\"] mehr herunter![PageBreak]Na ja, ich bin eh immer nur hier drin.[PauseShort]\n"
 "Für mich macht es also keinen großen\n"
-"Unterschied.[PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Also, zum Geschäftlichen!"
+"Unterschied.[PageBreak][Sound1 bytes=\"0700\"]Also, zum Geschäftlichen!"
 
 msgid "Talk02"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"4\"]Du musst deine Grenzen kennen![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0004\"]Du musst deine Grenzen kennen![Size percent=\"100\"]"
 
 msgid "Talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"]Jawoll![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0003\"][Size percent=\"125\"]Jawoll![Size percent=\"100\"]"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"12\"]Verehrter Gast...[PauseShort] Ich fürchte, du hast\n"
+"[Sound1 bytes=\"0B0C\"]Verehrter Gast...[PauseShort] Ich fürchte, du hast\n"
 "nicht genug Geld.[PauseLong] Leider hab ich keinen\n"
 "Spielraum bei den Preisen..."
 
 msgid "Talk16"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"3\"]Volcon![PauseLong] Du kannst loslegen![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0103\"]Volcon![PauseLong] Du kannst loslegen![Size percent=\"100\"]"
 
 msgid "0000"
 msgstr "Normal bitte!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Wie lange möchtest du im normalen\n"
-"Bett schlafen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0104\"]Wie lange möchtest du im normalen\n"
+"Bett schlafen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Na, wie war die Massage?[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]Na, wie war die Massage?[PauseShort]\n"
 "Bist uns jederzeit willkommen!"
 
 msgid "0001"
@@ -64,35 +64,35 @@ msgstr "Mit Massage!"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Wie lange möchtest du nach deiner\n"
-"Massage schlafen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0104\"]Wie lange möchtest du nach deiner\n"
+"Massage schlafen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "Nichts, danke."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Sanften Schlummer!"
+msgstr "[Sound1 bytes=\"0709\"]Sanften Schlummer!"
 
 msgid "0003"
 msgstr "Bis morgens."
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Dann leg dich mal auf die Steinmatratze\n"
+"[Sound1 bytes=\"0700\"]Dann leg dich mal auf die Steinmatratze\n"
 "und entspann dich."
 
 msgid "0004"
 msgstr "Bis mittags."
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]Guten Mooorgen![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0700\"][Size percent=\"125\"]Guten Mooorgen![Size percent=\"100\"]"
 
 msgid "0005"
 msgstr "Bis abends."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Hast du gut geschlafen?[PauseLong]\n"
+"[Sound1 bytes=\"0100\"]Hast du gut geschlafen?[PauseLong]\n"
 "Einen schönen Tag wünsche ich!"
 
 msgid "0006"

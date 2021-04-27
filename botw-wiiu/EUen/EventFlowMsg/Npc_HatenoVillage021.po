@@ -1,12 +1,12 @@
 msgid "talk09"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]No luck! [PauseLong]Nothing's coming up over here![Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0900\"]No luck! [PauseLong]Nothing's coming up over here![Size percent=\"100\"]"
 
 msgid "talk26"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"0\"]No luck over here![Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0900\"]No luck over here![Size percent=\"100\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]Azu!! [PauseShort]Wanna go see if it's true about the\n"
+"[Sound1 bytes=\"0003\"]Azu!! [PauseShort]Wanna go see if it's true about the\n"
 "[Color name=\"red\"]little girl[Color name=\"unset\"]?!"
 
 msgid "0000"
@@ -14,62 +14,62 @@ msgstr "Urk!"
 
 msgid "talk11"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"100\"]Hmm... [PauseShort]My ma says I shouldn't get too\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0003\"][Size percent=\"100\"]Hmm... [PauseShort]My ma says I shouldn't get too\n"
 "close[PauseShort] to the research lab..."
 
 msgid "0001"
 msgstr "Bye."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Whatcha want?[PauseShort] Stay outta my way!"
+msgstr "[Sound1 bytes=\"0800\"]Whatcha want?[PauseShort] Stay outta my way!"
 
 msgid "0002"
 msgstr "What?"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]What?! [PauseShort]Don't follow me!"
+msgstr "[Sound1 bytes=\"0800\"]What?! [PauseShort]Don't follow me!"
 
 msgid "0003"
 msgstr "Sorry! Sorry!"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Got more clues today, but they're secret![PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Got more clues today, but they're secret![PauseMid]\n"
 "And now it's bedtime! I'm going to sleep!"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Tomorrow it's back to the expedition!"
+msgstr "[Sound1 bytes=\"0800\"]Tomorrow it's back to the expedition!"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Graaah..."
+msgstr "[Sound1 bytes=\"0021\"]Graaah..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"33\"]Snnnrrmm... [PauseShort]Zzz... [PauseMid]Nnggg... [PauseMid]\n"
+"[Sound1 bytes=\"0021\"]Snnnrrmm... [PauseShort]Zzz... [PauseMid]Nnggg... [PauseMid]\n"
 "A [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]... [PauseShort]Zzz..."
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]I'm talking about a part-time job,\n"
+"[Sound1 bytes=\"0709\"]I'm talking about a part-time job,\n"
 "don'tcha get it?\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]My pop told me[PauseShort] that the [Color name=\"blue\"]director[Color name=\"unset\"] puts\n"
+"[Sound1 bytes=\"0000\"]My pop told me[PauseShort] that the [Color name=\"blue\"]director[Color name=\"unset\"] puts\n"
 "people to work carrying the [Color name=\"blue\"]blue flame[Color name=\"unset\"]!"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]A [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]... [PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]A [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]... [PauseShort]\n"
 "Is there really one there?"
 
 msgid "near00"
 msgstr "HYAH!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]If you're holding that now, that means...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0604\"]If you're holding that now, that means...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]A [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]... [PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]A [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]... [PauseShort]\n"
 "I don't see any around here..."
 
 msgid "near01"
@@ -77,10 +77,10 @@ msgstr "Ah!"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]You're doing a part-time job or\n"
+"[Sound1 bytes=\"0109\"]You're doing a part-time job or\n"
 "something?\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]My pop told me[PauseShort] Granny Purah puts\n"
+"[Sound1 bytes=\"0000\"]My pop told me[PauseShort] Granny Purah puts\n"
 "people to work carrying the [Color name=\"blue\"]blue flame[Color name=\"unset\"]!"
 
 msgid "near02"
@@ -88,54 +88,54 @@ msgstr "Hrm..."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Hey... [PauseShort]How much do you have on you? [PauseLong]\n"
+"[Sound1 bytes=\"0109\"]Hey... [PauseShort]How much do you have on you? [PauseLong]\n"
 "I wanna work for you!"
 
 msgid "talk20"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]Hey![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0800\"]Hey![Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "Retreat!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]I wanna work! I wanna work! [PauseShort]\n"
+"[Sound1 bytes=\"070B\"]I wanna work! I wanna work! [PauseShort]\n"
 "How about I work for you?"
 
 msgid "talk21"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]You![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0800\"]You![Size percent=\"100\"]"
 
 msgid "near04"
 msgstr "Grrr..."
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]I can't see if you're standing there! [PauseLong]\n"
-"Move![Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0800\"]I can't see if you're standing there! [PauseLong]\n"
+"Move![Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Don't try to pull a fast one on me! \n"
+"[Sound1 bytes=\"0109\"]Don't try to pull a fast one on me! \n"
 "You have a part-time job, right?"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]I can't see! [PauseLong]Move![Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0800\"]I can't see! [PauseLong]Move![Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]Hmph!"
+msgstr "[Sound1 bytes=\"0801\"]Hmph!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]Hey, Azu! How are things over there?!"
+msgstr "[Sound1 bytes=\"0003\"]Hey, Azu! How are things over there?!"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]The [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]!\n"
+"[Sound1 bytes=\"0609\"]The [Color name=\"red\"]girl from the Sheikah tribe[Color name=\"unset\"]!\n"
 "\n"
 "\n"
 "[Size percent=\"80\"]Um, I mean...[Size percent=\"100\"]\n"
 "\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"0\"]If I told you, I wouldn't be much of a spy,\n"
+"[Sound1 bytes=\"0800\"]If I told you, I wouldn't be much of a spy,\n"
 "would I?[PauseLong] Don't make me tell you!"
 
 msgid "_ReadOnly_MsbtExtras"

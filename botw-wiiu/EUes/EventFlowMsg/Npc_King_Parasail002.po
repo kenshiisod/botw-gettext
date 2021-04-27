@@ -1,6 +1,6 @@
 msgid "Appear16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Por si no te has dado cuenta, la meseta\n"
+"[Sound1 bytes=\"0001\"]Por si no te has dado cuenta, la meseta\n"
 "en la que nos encontramos está\n"
 "completamente aislada por un precipicio."
 
@@ -12,32 +12,32 @@ msgstr ""
 
 msgid "Appear18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]¡Lástima que no tengas una [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"]\n"
-"tan útil como la mía![Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0004\"]¡Lástima que no tengas una [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"]\n"
+"tan útil como la mía![Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "1000"
 msgstr "¿Quién eres?"
 
 msgid "Appear19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]¡Jo, jo, jo![PauseMid] ¿Por qué no? Me caes bien.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Pero no creas que te la voy a dar\n"
+"[Sound1 bytes=\"070A\"]¡Jo, jo, jo![PauseMid] ¿Por qué no? Me caes bien.[PageBreak][Sound1 bytes=\"0001\"]Pero no creas que te la voy a dar\n"
 "por tu cara bonita."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]No seas impaciente.[PauseMid] Ya casi estamos."
+msgstr "[Sound1 bytes=\"0009\"]No seas impaciente.[PauseMid] Ya casi estamos."
 
 msgid "1001"
 msgstr "Adiós"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Allí, en esa dirección. ¿Ves una especie\n"
+"[Sound1 bytes=\"0004\"]Allí, en esa dirección. ¿Ves una especie\n"
 "de santuario iluminado con una luz\n"
 "misteriosa?"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ha empezado a brillar justo cuando\n"
+"[Sound1 bytes=\"0001\"]Ha empezado a brillar justo cuando\n"
 "han aparecido esas torres."
 
 msgid "TerrorBomb"
@@ -45,12 +45,12 @@ msgstr "¿Qué es eso?"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Los lugares de ese tipo suelen\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Los lugares de ese tipo suelen\n"
 "ocultar tesoros en el interior."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ve a ese santuario y tráeme\n"
+"[Sound1 bytes=\"0002\"]Ve a ese santuario y tráeme\n"
 "lo que guarda en su interior."
 
 msgid "TerrorEnemy"
@@ -58,20 +58,20 @@ msgstr "¡Aaaay!"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ve al santuario que hay en esa dirección\n"
-"y tráeme lo que guarda en su interior.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0002\"]Ve al santuario que hay en esa dirección\n"
+"y tráeme lo que guarda en su interior.[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Vaya, vaya,[PauseMid] menudo susto."
+msgstr "[Sound1 bytes=\"0001\"]Vaya, vaya,[PauseMid] menudo susto."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]No pierdas más tiempo y tráeme\n"
+"[Sound1 bytes=\"0004\"]No pierdas más tiempo y tráeme\n"
 "el tesoro que alberga el santuario."
 
 msgid "Appear02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]De repente han empezado a\n"
+"[Sound1 bytes=\"000D\"]De repente han empezado a\n"
 "elevarse torres por todo Hyrule.[PageBreak]Diría que algo ha despertado el poder\n"
 "que se ocultaba en estas tierras."
 
@@ -79,7 +79,7 @@ msgid "TerrorArrow"
 msgstr "¡¿Qué haces?!"
 
 msgid "Appear03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Qué ha ocurrido ahí arriba?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Qué ha ocurrido ahí arriba?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear04"
 msgstr ""
@@ -106,7 +106,7 @@ msgid "0001"
 msgstr "(...)"
 
 msgid "Appear08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿No reconoces de quién es la voz?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿No reconoces de quién es la voz?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "No"
@@ -116,8 +116,8 @@ msgstr "[Sound2 id=\"11\"]Vaya.[PauseMid] Es una lástima."
 
 msgid "Appear20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]¡Jo, jo, jo![PauseMid] Es el artilugio que he usado\n"
-"para llegar volando hasta aquí.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Podría dártelo,[PauseMid] siempre que hagas algo\n"
+"[Sound1 bytes=\"070A\"]¡Jo, jo, jo![PauseMid] Es el artilugio que he usado\n"
+"para llegar volando hasta aquí.[PageBreak][Sound1 bytes=\"0001\"]Podría dártelo,[PauseMid] siempre que hagas algo\n"
 "por mí a cambio."
 
 msgid "0003"
@@ -186,7 +186,7 @@ msgstr ""
 
 msgid "Appear12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]Tiene nombre propio...[PauseLong] es [Size percent=\"125\"][Color name=\"red\"]Ganon[Color name=\"unset\"].[Size percent=\"100\"][PageBreak]Hace cien años, [PauseMid]en estas tierras se\n"
+"[Sound1 bytes=\"0005\"]Tiene nombre propio...[PauseLong] es [Size percent=\"125\"][Color name=\"red\"]Ganon[Color name=\"unset\"].[Size percent=\"100\"][PageBreak]Hace cien años, [PauseMid]en estas tierras se\n"
 "encontraba el reino de [Color name=\"blue\"]Hyrule[Color name=\"unset\"], que\n"
 "gozaba de paz y prosperidad.\n"
 "Hasta que ese ser maligno despertó, y\n"
@@ -201,24 +201,24 @@ msgstr ""
 
 msgid "Appear13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Dime, joven,[PauseMid] ¿tienes intención de ir\n"
-"a ese castillo?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]Dime, joven,[PauseMid] ¿tienes intención de ir\n"
+"a ese castillo?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Lo suponía."
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Lo suponía."
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Quieres mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"], ¿no?[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]Quieres mi [Color name=\"blue\"][C9:00 bytes=\"02010100\"]paravela[Color name=\"unset\"], ¿no?[PauseMid]\n"
 "Pues yo quiero el tesoro.[PauseMid] ¡Andando!"
 
 msgid "Appear15"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Tus ojos no mienten. Veo determinación\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Tus ojos no mienten. Veo determinación\n"
 "en tu mirada;[PauseMid] está claro que quieres ir."
 
 msgid "GoodBye01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Estoy deseando tenerlo en mis manos."
+msgstr "[Sound1 bytes=\"0001\"]Estoy deseando tenerlo en mis manos."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "JQAAAAFuBgAAAAAAADUAAAAEAAAA3AAAAAYBAAAwAQAAWgEAAFwBAABeAQAAiAEAALIBAADcAQAABgIAADACAAAyAgAANAIAAF4CAACIAgAAsgIAANwCAAAGAwAACAMAAAoDAAA0AwAAXgMAAIgDAACyAwAA3AMAAN4DAADgAwAACgQAADQEAABeBAAAiAQAALIEAADcBAAABgUAADAFAABaBQAAhAUAAIYFAACIBQAAsgUAANwFAAAGBgAAMAYAAFoGAABcBgAAXgYAAGAGAABiBgAAZAYAAGYGAABoBgAAagYAAGwGAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

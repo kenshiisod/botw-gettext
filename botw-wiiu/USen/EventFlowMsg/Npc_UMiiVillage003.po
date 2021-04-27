@@ -1,80 +1,80 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]I don't wanna sleep! [PauseShort]I'm not even tired!"
+msgstr "[Sound1 bytes=\"0800\"]I don't wanna sleep! [PauseShort]I'm not even tired!"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tell me a story![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Tell me a story![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]I'm fine!"
+msgstr "[Sound1 bytes=\"0009\"]I'm fine!"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]I hate everything!"
+msgstr "[Sound1 bytes=\"080E\"]I hate everything!"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]..."
+msgstr "[Sound1 bytes=\"0001\"]..."
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Tell me something else![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Tell me something else![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]I already told you—I'm OK!"
+msgstr "[Sound1 bytes=\"020E\"]I already told you—I'm OK!"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]I hate, hate, HATE it all!"
+msgstr "[Sound1 bytes=\"020E\"]I hate, hate, HATE it all!"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]But I'll eat some cake if you have some."
+msgstr "[Sound1 bytes=\"0000\"]But I'll eat some cake if you have some."
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]What's that? [PauseShort]I don't care!"
+msgstr "[Sound1 bytes=\"020E\"]What's that? [PauseShort]I don't care!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]I don't want you to come here, anyway!"
+msgstr "[Sound1 bytes=\"0000\"]I don't want you to come here, anyway!"
 
 msgid "near00"
 msgstr "Pheew...pheew..."
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]It's the traveler guy![PauseLong]\n"
+"[Sound1 bytes=\"0700\"]It's the traveler guy![PauseLong]\n"
 "Well then..."
 
 msgid "near01"
 msgstr "♪Doot doo...♪"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]What? That's boring!"
+msgstr "[Sound1 bytes=\"020E\"]What? That's boring!"
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]I'm going to sleep![PauseLong]\n"
+"[Sound1 bytes=\"000C\"]I'm going to sleep![PauseLong]\n"
 "Mama says I gotta!"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]Hooooo...hooooo...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]Hooooo...hooooo...[Size percent=\"100\"]"
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]I'm gonna sleep, OK?[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]I'm gonna sleep, OK?[PauseLong]\n"
 "Talk to me later!"
 
 msgid "0000"
 msgstr "That's right."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Good morning!"
+msgstr "[Sound1 bytes=\"0000\"]Good morning!"
 
 msgid "0001"
 msgstr "Bye bye."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hi!"
+msgstr "[Sound1 bytes=\"0000\"]Hi!"
 
 msgid "0002"
 msgstr "It's pretty fun."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Good evening!"
+msgstr "[Sound1 bytes=\"0000\"]Good evening!"
 
 msgid "0003"
 msgstr "Actually, it's tough."
@@ -83,13 +83,13 @@ msgid "0004"
 msgstr "Absolutely."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Are you a traveler?[Choice2 label1=\"0\" label2=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Are you a traveler?[Choice2 label1=\"0\" label2=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "Monster what-nows?"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Is it fun?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0010\"]Is it fun?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0006"
 msgstr "How are you feeling?"
@@ -98,31 +98,31 @@ msgid "0007"
 msgstr "Whatcha like eating?"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ah!"
+msgstr "[Sound1 bytes=\"0000\"]Ah!"
 
 msgid "0008"
 msgstr "Hear of the Calamity?"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]When I grow up, I want to go\n"
+"[Sound1 bytes=\"010A\"]When I grow up, I want to go\n"
 "out all by myself!"
 
 msgid "0009"
 msgstr "You could say that."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]I see!"
+msgstr "[Sound1 bytes=\"010B\"]I see!"
 
 msgid "talk11"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"unset\"]Say, have you heard of a [Color name=\"blue\"]monster cake[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0B00\"][Color name=\"unset\"]Say, have you heard of a [Color name=\"blue\"]monster cake[Color name=\"unset\"]?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Mama bought me one! It was so gross!\n"
+"[Sound1 bytes=\"070A\"]Mama bought me one! It was so gross!\n"
 "\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]But after I ate it,[PauseShort] I got really strong.\n"
+"[Sound1 bytes=\"0101\"]But after I ate it,[PauseShort] I got really strong.\n"
 "Like this!\n"
 "\n"
 "You should try one if you wanna be\n"
@@ -130,17 +130,17 @@ msgstr ""
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Isn't it so gross? Ick!\n"
+"[Sound1 bytes=\"070A\"]Isn't it so gross? Ick!\n"
 "\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]I don't know if it's just because I ate the\n"
+"[Sound1 bytes=\"0101\"]I don't know if it's just because I ate the\n"
 "[Color name=\"blue\"]monster cake[Color name=\"unset\"],[PauseShort] but I have so much\n"
 "energy now!\n"
 "If you run out of energy, you should eat\n"
 "some too!"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]I don't wanna sleep!"
+msgstr "[Sound1 bytes=\"0800\"]I don't wanna sleep!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAEwBQAAAAAAACgAAAAEAAAAqAAAAM4AAAD0AAAA9gAAAPgAAAD6AAAA/AAAAP4AAAAAAQAAAgEAAAQBAAAGAQAACAEAAC4BAABUAQAAegEAAKABAADGAQAA7AEAABICAAA4AgAAXgIAAIQCAACqAgAA0AIAAPYCAAAcAwAAQgMAAGgDAACOAwAAtAMAANoDAAAABAAAJgQAAEwEAAByBAAAmAQAAL4EAADkBAAACgUAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAAAAAA"

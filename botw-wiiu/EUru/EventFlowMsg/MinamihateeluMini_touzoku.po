@@ -1,66 +1,66 @@
 msgid "Talk22"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"0\"]В общем, был такой [Color name=\"red\"]бандит Лямбда[Color name=\"unset\"].[PauseShort]\n"
+"[Sound1 bytes=\"0200\"]В общем, был такой [Color name=\"red\"]бандит Лямбда[Color name=\"unset\"].[PauseShort]\n"
 "У нас есть информация о том, где\n"
 "зарыт его [Color name=\"red\"]клад[Color name=\"unset\"].[PageBreak]Кто его найдет, станет сказочно богат.[PageBreak]Естественно, чтобы узнать загадку,\n"
 "тебе придется раскошелиться.[PauseShort] А ты\n"
 "как думал!"
 
 msgid "near00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Хм..."
+msgstr "[Sound1 bytes=\"0B00\"]Хм..."
 
 msgid "Talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Хе-хе.[PauseShort] Я знаю, что говорю!"
+msgstr "[Sound1 bytes=\"0109\"]Хе-хе.[PauseShort] Я знаю, что говорю!"
 
 msgid "near01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Где же искать?"
+msgstr "[Sound1 bytes=\"0B00\"]Где же искать?"
 
 msgid "Talk11"
-msgstr "[Sound1 unk1=\"2\" unk2=\"0\"]Нет денег — нет информации. Понял?"
+msgstr "[Sound1 bytes=\"0200\"]Нет денег — нет информации. Понял?"
 
 msgid "Talk12"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Молодец, брат!"
+msgstr "[Sound1 bytes=\"0700\"]Молодец, брат!"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"4\"]Погоди, Приссен!"
+msgstr "[Sound1 bytes=\"0B04\"]Погоди, Приссен!"
 
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"0\"]Лямбда зашифровал местонахождение\n"
+"[Sound1 bytes=\"0200\"]Лямбда зашифровал местонахождение\n"
 "клада в загадке.[PageBreak]Мне ее рассказал сам двоюродный\n"
 "брат друга жены правнука одного\n"
 "из сообщников Лямбды![PageBreak]Так что это достоверная информация."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]В общем, братец, [Color name=\"red\"]клад Лямбды[Color name=\"unset\"] зарыт..."
+msgstr "[Sound1 bytes=\"0600\"]В общем, братец, [Color name=\"red\"]клад Лямбды[Color name=\"unset\"] зарыт..."
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]Ух ты, какие у тебя связи, братец![PauseShort]\n"
+"[Sound1 bytes=\"0701\"]Ух ты, какие у тебя связи, братец![PauseShort]\n"
 "Я тебя еще больше зауважал."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Эй, Приссен, ты бы поменьше болтал!"
+msgstr "[Sound1 bytes=\"020E\"]Эй, Приссен, ты бы поменьше болтал!"
 
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"7\"]Котелок у меня варит что надо,\n"
+"[Sound1 bytes=\"0207\"]Котелок у меня варит что надо,\n"
 "но даже я не могу разгадать эту\n"
-"загадку.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Тем более нет смысла\n"
+"загадку.[PageBreak][Sound1 bytes=\"0000\"]Тем более нет смысла\n"
 "полагаться на любителя..."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]П-прости, братец.[PauseShort] Я не нарочно..."
+msgstr "[Sound1 bytes=\"0900\"]П-прости, братец.[PauseShort] Я не нарочно..."
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]«Юный мост возник над рекой,\n"
+"[Sound1 bytes=\"0000\"]«Юный мост возник над рекой,\n"
 "а в верховьях ее по ночам ревет\n"
 "белый дракон»."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"0\"]Короче, у нас тут важный разговор.[PauseShort]\n"
+"[Sound1 bytes=\"0200\"]Короче, у нас тут важный разговор.[PauseShort]\n"
 "Иди приставай к кому-нибудь другому."
 
 msgid "0000"
@@ -68,35 +68,35 @@ msgstr "Клад Лямбды?"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"4\"]Это стоит [Color name=\"red\"]100 рупий[Color name=\"unset\"]!\n"
+"[Sound1 bytes=\"0204\"]Это стоит [Color name=\"red\"]100 рупий[Color name=\"unset\"]!\n"
 "За такие сведения и 1000 рупий\n"
-"отдать не жалко. Ну, что скажешь?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"отдать не жалко. Ну, что скажешь?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk18"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]Эй, тебе чего надо?[PauseShort]\n"
+"[Sound1 bytes=\"0201\"]Эй, тебе чего надо?[PauseShort]\n"
 "Подслушиваешь, что ли?"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"2\" unk2=\"0\"]Братец заболел и просто несет бред.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0200\"]Братец заболел и просто несет бред.[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "Понятно"
 
 msgid "Talk19"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"0\"]Мы кладоискатели![PauseShort] И [Color name=\"red\"]клад великого\n"
+"[Sound1 bytes=\"0200\"]Мы кладоискатели![PauseShort] И [Color name=\"red\"]клад великого\n"
 "бандита Лямбды[Color name=\"unset\"] будет нашим!"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"11\" unk2=\"15\"]Вот ведь привязался..."
+msgstr "[Sound1 bytes=\"0B0F\"]Вот ведь привязался..."
 
 msgid "0002"
 msgstr "Держи!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"0\"]Вот и хорошо. Потому что [Color name=\"red\"]клад\n"
+"[Sound1 bytes=\"0200\"]Вот и хорошо. Потому что [Color name=\"red\"]клад\n"
 "Лямбды[Color name=\"unset\"] не для всяких слабаков.[PauseShort]\n"
 "Да и нам больше достанется."
 
@@ -105,16 +105,16 @@ msgstr "Не пойдет"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Братец, а может, расскажем ему?[PauseShort]\n"
+"[Sound1 bytes=\"0600\"]Братец, а может, расскажем ему?[PauseShort]\n"
 "Если мы не можем разгадать загадку,\n"
 "он и подавно ничего не поймет."
 
 msgid "Talk09"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Ты прав."
+msgstr "[Sound1 bytes=\"0B00\"]Ты прав."
 
 msgid "Talk20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Ты действительно лучший\n"
+"[Sound1 bytes=\"0700\"]Ты действительно лучший\n"
 "кладоискатель![PauseShort] Я чую\n"
 "запах золота![PauseShort] Молодец!"
 

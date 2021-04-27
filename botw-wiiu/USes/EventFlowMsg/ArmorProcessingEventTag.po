@@ -1,7 +1,7 @@
 msgid "Talk00"
 msgstr ""
 "[Sound2 id=\"0\"][Size percent=\"80\"]Much...[Size percent=\"100\"][PageBreak]Muchacho...\n"
-"Escucha mi ruego...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"Escucha mi ruego...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
 msgstr ""
@@ -73,7 +73,7 @@ msgstr "Creo que no"
 msgid "Talk03_05B"
 msgstr ""
 "[Sound2 id=\"2\"]Si quiero recuperar mis poderes,[PauseShort]\n"
-"necesito [Color name=\"red\"]1000 rupias[Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"necesito [Color name=\"red\"]1000 rupias[Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk26"
 msgstr ""
@@ -116,7 +116,7 @@ msgstr "[Sound2 id=\"2\"]Si solo tuviera [Color name=\"red\"][02:11 name=\"Amoun
 msgid "Talk03_01B"
 msgstr ""
 "[Sound2 id=\"2\"]Para recuperar mis poderes,[PauseShort]\n"
-"necesito [Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"necesito [Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"] [SPSwitch singular=\"rupia\" plural=\"rupias\"][Color name=\"unset\"].[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03_m"
 msgstr ""

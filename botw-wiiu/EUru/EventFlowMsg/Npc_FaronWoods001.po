@@ -1,11 +1,11 @@
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Обращайся, если что."
+msgstr "[Sound1 bytes=\"0000\"]Обращайся, если что."
 
 msgid "Near01"
 msgstr "Вот и хорошо..."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Что еще хочешь узнать?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Что еще хочешь узнать?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near02"
 msgstr "Хр-р-р..."
@@ -21,9 +21,9 @@ msgstr "Надо спать..."
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Большое спасибо, что помог нам![PauseShort]\n"
+"[Sound1 bytes=\"0102\"]Большое спасибо, что помог нам![PauseShort]\n"
 "[04:03]Давай я расскажу тебе что-нибудь\n"
-"о лошадях.[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"о лошадях.[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk01"
 msgstr "Хр-р-р..."
@@ -32,14 +32,14 @@ msgid "0000"
 msgstr "Как оживить лошадь"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Тут недалеко живет [Color name=\"red\"]лошадиная фея[Color name=\"unset\"].[PageBreak]Она может оживлять лошадей![PageBreak]Не веришь?[PauseShort] Правду говорю!"
+msgstr "[Sound1 bytes=\"0000\"]Тут недалеко живет [Color name=\"red\"]лошадиная фея[Color name=\"unset\"].[PageBreak]Она может оживлять лошадей![PageBreak]Не веришь?[PauseShort] Правду говорю!"
 
 msgid "0001"
 msgstr "Огромные лошади..."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]К западу отсюда находится\n"
+"[Sound1 bytes=\"0000\"]К западу отсюда находится\n"
 "[Color name=\"blue\"]Таобабовый луг[Color name=\"unset\"].[PageBreak]Там пасутся [Color name=\"red\"]огромные лошади[Color name=\"unset\"]!\n"
 "Настоящие великаны!"
 

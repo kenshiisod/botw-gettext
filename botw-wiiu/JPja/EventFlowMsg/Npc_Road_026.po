@@ -1,75 +1,75 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"32\"]動悸に息切れ…[PauseMid] ハァ…[PauseMid]\n"
+"[Sound1 bytes=\"0920\"]動悸に息切れ…[PauseMid] ハァ…[PauseMid]\n"
 "医者の不養生というやつだ…"
 
 #, ruby
 msgid "MSG_Rane_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]これから リバーサイド馬宿に向かうところでな\n"
+"[Sound1 bytes=\"0000\"]これから リバーサイド馬宿に向かうところでな\n"
 "病人がいないか[PauseShort] 問診をしてまわっておるでな"
 
 #, ruby
 msgid "RetMSG_Rane_02_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ラネール山…[PauseShort] あそこには\n"
+"[Sound1 bytes=\"0510\"]ラネール山…[PauseShort] あそこには\n"
 "万病に効くという 龍のウロコがあるらしいが[PauseShort]\n"
 "あの山の寒さは この歳には厳しすぎるわい"
 
 #, ruby
 msgid "Thanks00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]これは せめてもの礼だ[PauseShort]\n"
+"[Sound1 bytes=\"0100\"]これは せめてもの礼だ[PauseShort]\n"
 "受け取ってくれ"
 
 #, ruby
 msgid "MSG_Rane_04_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]ちょっと 速く泳げるらしいのう… [PauseLong][PauseLong]\n"
+"[Sound1 bytes=\"0100\"]ちょっと 速く泳げるらしいのう… [PauseLong][PauseLong]\n"
 "裸だと"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]うむ…[PauseMid] \n"
+"[Sound1 bytes=\"030C\"]うむ…[PauseMid] \n"
 "馬の手当てもしないといかん"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]往診に遅れそうだが[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]往診に遅れそうだが[PauseShort]\n"
 "しかたない…"
 
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]ふぅ… [PauseShort]何とか助かったわい…[PauseMid]\n"
+"[Sound1 bytes=\"0112\"]ふぅ… [PauseShort]何とか助かったわい…[PauseMid]\n"
 "最近の若者は じつに頼もしい"
 
 #, ruby
 msgid "MSG_Rane_01_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"][Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]という\n"
+"[Sound1 bytes=\"0500\"][Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]という\n"
 "万病に効く薬があるらしくてな\n"
 "聖なる泉の使いと 関係があるとかないとか…"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]またしても 若者に助けられた…[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]またしても 若者に助けられた…[PauseShort]\n"
 "どうもありがとう！"
 
 #, ruby
 msgid "RetMSG_Rane_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]わしは行ったことないが [PauseShort][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には\n"
+"[Sound1 bytes=\"0000\"]わしは行ったことないが [PauseShort][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には\n"
 "ネルドラという名の精霊がいるというぞ"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]わしは 医者だが[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]わしは 医者だが[PauseShort]\n"
 "診療所は持たん主義でのう\n"
 "[Color name=\"blue\"]湿原の馬宿[Color name=\"unset\"]から [Color name=\"blue\"]リバーサイド馬宿[Color name=\"unset\"]の間を\n"
 "馬を走らせ 往診に回る毎日だ"
@@ -77,19 +77,19 @@ msgstr ""
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]医者のわしも ときどき腰が痛んでのう[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]医者のわしも ときどき腰が痛んでのう[PauseShort]\n"
 "医者の不養生というやつかな"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]たまには雨も いいもんだ[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]たまには雨も いいもんだ[PauseShort]\n"
 "落ち着いて ものを考えられるからのう…"
 
 #, ruby
 msgid "RetMSG_Rane_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]病人が いなけりゃ医者も ただの人…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]病人が いなけりゃ医者も ただの人…[PauseMid]\n"
 "心置きなく 休むとしよう"
 
 #, ruby
@@ -99,7 +99,7 @@ msgstr "寝坊はいないか…"
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]物心ついた頃から見ているが[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]物心ついた頃から見ているが[PauseShort]\n"
 "魔物には なかなか慣れんわい…"
 
 #, ruby
@@ -109,7 +109,7 @@ msgstr "病人はいないか…"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]わしなんかのために[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]わしなんかのために[PauseShort]\n"
 "若いあんたが怪我したら もったいない…"
 
 #, ruby
@@ -127,7 +127,7 @@ msgstr "風邪ひくなよ…"
 #, ruby
 msgid "MSG_Rane_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…この湿原の馬宿を後にして[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]…この湿原の馬宿を後にして[PauseShort]\n"
 "これから リバーサイド馬宿に向かうところでな\n"
 "わしは医者なので [PauseShort]病人がいないかどうか[PauseShort]\n"
 "問診をしてまわっておるでな"
@@ -135,34 +135,34 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]万病に効く薬があると聞いたら\n"
+"[Sound1 bytes=\"0000\"]万病に効く薬があると聞いたら\n"
 "医者のわしは いてもたってもいられなくなる\n"
-"[Sound1 unk1=\"5\" unk2=\"0\"]その薬は [Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]という名前で\n"
+"[Sound1 bytes=\"0500\"]その薬は [Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]という名前で\n"
 "聖なる泉の使いと 関係があるとかないとか…"
 
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"42\"]ガーディアンだ！ [PauseShort]早くお逃げなさい！\n"
+"[Sound1 bytes=\"042A\"]ガーディアンだ！ [PauseShort]早くお逃げなさい！\n"
 ""
 
 #, ruby
 msgid "MSG_Rane_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]往診先で聞いた 国家機密級の情報をひとつ…[PauseShort][PauseLong]\n"
+"[Sound1 bytes=\"0000\"]往診先で聞いた 国家機密級の情報をひとつ…[PauseShort][PauseLong]\n"
 "コッコを驚かせると タマゴを生むらしい[PauseMid]\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]…国家機密じゃなくて [PauseShort]コッコ機密だったわい"
+"[Sound1 bytes=\"0100\"]…国家機密じゃなくて [PauseShort]コッコ機密だったわい"
 
 #, ruby
 msgid "MSG_Rane_02_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]コッコを驚かせると タマゴを生むらしい[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]コッコを驚かせると タマゴを生むらしい[PauseMid]\n"
 "コッコ機密だからな"
 
 #, ruby
 msgid "RetMSG_Rane_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]魔物に襲われかけたりもしたけれど[PauseShort]\n"
+"[Sound1 bytes=\"0012\"]魔物に襲われかけたりもしたけれど[PauseShort]\n"
 "どうにか [Color name=\"blue\"]湿原の馬宿[Color name=\"unset\"]に辿り着いたわい\n"
 "病人が いなけりゃ医者も ただの人…[PauseMid]\n"
 "心置きなく 休むとしよう"
@@ -170,9 +170,9 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"4\"]以前 話したかどうか忘れたが[PauseShort]\n"
+"[Sound1 bytes=\"0504\"]以前 話したかどうか忘れたが[PauseShort]\n"
 "聖なる泉の言い伝え…[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ラネール山 フィローネの森 オルディン火山[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ラネール山 フィローネの森 オルディン火山[PauseShort]\n"
 "それぞれの地方に 似たような話があってのう\n"
 "それぞれの泉で手に入る 龍のウロコには[PauseShort]\n"
 "万病を治すという効能があるというんだが…"
@@ -180,22 +180,22 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]万病に効くという[Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]はご存知か？[PauseMid]\n"
+"[Sound1 bytes=\"0506\"]万病に効くという[Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]はご存知か？[PauseMid]\n"
 "ラネール山の [Color name=\"blue\"]知恵の泉[Color name=\"unset\"]にあるらしい\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]その泉には [Color name=\"red\"]ネルドラ[Color name=\"unset\"]と呼ばれる\n"
+"[Sound1 bytes=\"0000\"]その泉には [Color name=\"red\"]ネルドラ[Color name=\"unset\"]と呼ばれる\n"
 "龍の姿の精霊がいるという言い伝えもある"
 
 #, ruby
 msgid "MSG_Rane_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"4\"]往診先で聞いた\n"
+"[Sound1 bytes=\"0504\"]往診先で聞いた\n"
 "なんと 裸に関する情報だけどね…[PauseShort]\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]ちょっと 速く泳げるらしいのう… [PauseLong][PauseLong]裸だと"
+"[Sound1 bytes=\"0100\"]ちょっと 速く泳げるらしいのう… [PauseLong][PauseLong]裸だと"
 
 #, ruby
 msgid "RetMSG_Rane_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]あんたはお若いから やり遂げそうだ…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]あんたはお若いから やり遂げそうだ…[PauseMid]\n"
 "いやなに ラネール山に登る話だ\n"
 "万病に効く [Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]があるらしいが[PauseShort]\n"
 "あの山の寒さは この歳には厳しすぎるわい"
@@ -203,7 +203,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]わしは行ったことないが [PauseShort][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には\n"
+"[Sound1 bytes=\"0000\"]わしは行ったことないが [PauseShort][Color name=\"blue\"]知恵の泉[Color name=\"unset\"]には\n"
 "ネルドラという名の精霊がいるというぞ\n"
 "その姿は ドラゴンにそっくりらしいが[PauseShort]\n"
 "どれだけ似ているのか 怪しいもんだ"
@@ -211,33 +211,33 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Rane_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]虫と魔物の素材を混ぜたら 簡単に薬が作れる\n"
+"[Sound1 bytes=\"0000\"]虫と魔物の素材を混ぜたら 簡単に薬が作れる\n"
 "どんな薬ができるか いろいろ試してみるといい"
 
 #, ruby
 msgid "RetMSG_Rane_04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]わしはこう見えても まあまあの医者でな[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]わしはこう見えても まあまあの医者でな[PauseShort]\n"
 "簡単な薬の作り方くらいは 教えてあげられる\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]要するに [PauseShort]虫と魔物の素材を混ぜるだけ[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]要するに [PauseShort]虫と魔物の素材を混ぜるだけ[PauseMid]\n"
 "どんな薬ができるか いろいろ試してみるといい"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"18\"]あんた 怪我はなかったか？[PauseMid]\n"
+"[Sound1 bytes=\"0512\"]あんた 怪我はなかったか？[PauseMid]\n"
 "わしは なんとか大丈夫だ…"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"18\"]医者のわしが 患者になるところだった…[PauseMid]\n"
+"[Sound1 bytes=\"0112\"]医者のわしが 患者になるところだった…[PauseMid]\n"
 "いやいや 助けてくれてありがとう！"
 
 #, ruby
 msgid "RetMSG_Rane_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]万病に効くという [Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0000\"]万病に効くという [Color name=\"red\"]ネルドラのウロコ[Color name=\"unset\"]は\n"
 "ラネール山… [Color name=\"blue\"][PauseShort]知恵の泉[Color name=\"unset\"]にあるらしい\n"
 "泉には [Color name=\"red\"]ネルドラ[Color name=\"unset\"]と呼ばれる\n"
 "龍の姿の精霊がいるという言い伝えもある"
@@ -245,14 +245,14 @@ msgstr ""
 #, ruby
 msgid "MSG_Rane_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ラネール山 フィローネの森 オルディン火山[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ラネール山 フィローネの森 オルディン火山[PauseShort]\n"
 "それぞれに 聖なる泉の言い伝えがあってのう\n"
 "そこで手に入る 龍のウロコには[PauseShort]\n"
 "万病を治すという効能があるというんだが…"
 
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"32\"]ふぅ… [PauseShort]はぁ…[PauseShort]\n"
+"[Sound1 bytes=\"0920\"]ふぅ… [PauseShort]はぁ…[PauseShort]\n"
 "まいった…"
 
 msgid "_ReadOnly_MsbtExtras"

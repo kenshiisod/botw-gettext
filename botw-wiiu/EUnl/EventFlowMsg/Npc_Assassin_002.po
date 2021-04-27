@@ -5,49 +5,49 @@ msgid "0009"
 msgstr "Wie ben jij?"
 
 msgid "Henshin00"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"]Het is tijd om te sterven![PauseAuto frames=\"60\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"]Het is tijd om te sterven![PauseAuto frames=\"60\"][Size percent=\"100\"]"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je bent een vijand van Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je bent een vijand van Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Hé daar, kerel![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]Hé daar, kerel![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Wauw![PauseMid] Jij bent echt schattig!"
+msgstr "[Sound1 bytes=\"0709\"]Wauw![PauseMid] Jij bent echt schattig!"
 
 msgid "TerrorArrow"
 msgstr "Help!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Hé! [PauseMid]Heb je me gehoord?"
+msgstr "[Sound1 bytes=\"0002\"]Hé! [PauseMid]Heb je me gehoord?"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]Hallooo!"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Wil je... een beetje lol met me hebben?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B01\"]Wil je... een beetje lol met me hebben?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Wat is er?"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Nou...[PauseLong] Wil je dan je ogen sluiten?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0101\"]Nou...[PauseLong] Wil je dan je ogen sluiten?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Wat? Waarom niet?[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]Mag je me niet, of zo? Doe nou maar\n"
-"gewoon je ogen dicht![Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"030C\"]Wat? Waarom niet?[PageBreak][Sound1 bytes=\"0B01\"]Mag je me niet, of zo? Doe nou maar\n"
+"gewoon je ogen dicht![Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Oké."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Heb je je ogen echt gesloten?[PauseLong] Dan is\n"
+"[Sound1 bytes=\"0709\"]Heb je je ogen echt gesloten?[PauseLong] Dan is\n"
 "nu het moment aangebroken,[PauseMid] Hyliaanse\n"
 "Uitverkorene..."
 
@@ -56,21 +56,21 @@ msgstr "Nee, dank je."
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Dat is jammer...[PauseLong] Maar goed,[PauseMid] Hyliaanse\n"
+"[Sound1 bytes=\"030D\"]Dat is jammer...[PauseLong] Maar goed,[PauseMid] Hyliaanse\n"
 "Uitverkorene..."
 
 msgid "0004"
 msgstr "Vooruit dan maar."
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Weet je nog wie ik ben?[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0102\"]Weet je nog wie ik ben?[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "Liever niet..."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Ik had niet anders verwacht, Hyliaanse\n"
+"[Sound1 bytes=\"0700\"]Ik had niet anders verwacht, Hyliaanse\n"
 "Uitverkorene..."
 
 msgid "0006"

@@ -1,7 +1,7 @@
 msgid "talk07"
 msgstr ""
 "Voor [Color name=\"red\"]vier[Color name=\"unset\"] [Color name=\"blue\"]heldenbollen [Color name=\"unset\"]schenk ik je de\n"
-"kracht die je zoekt.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"kracht die je zoekt.[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk08"
 msgstr "Goed. Zo zal het geschieden."
@@ -89,7 +89,7 @@ msgstr ""
 msgid "talk14"
 msgstr ""
 "Ik begrijp het. Welke kracht wens je dan\n"
-"te bezitten?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"te bezitten?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk27"
 msgstr ""
@@ -131,7 +131,7 @@ msgstr ""
 msgid "talk04"
 msgstr ""
 "Je wens is om je [Color name=\"blue\"]aantal hartjes [Color name=\"unset\"]te\n"
-"verhogen?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"verhogen?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk17"
 msgstr ""
@@ -141,13 +141,13 @@ msgstr ""
 "Meer kracht moet je je niet wensen."
 
 msgid "talk05"
-msgstr "Je wens is om je [Color name=\"blue\"]energie [Color name=\"unset\"]te verhogen?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Je wens is om je [Color name=\"blue\"]energie [Color name=\"unset\"]te verhogen?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
-msgstr "Een [Color name=\"blue\"]extra hartje [Color name=\"unset\"]is wat je begeert?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Een [Color name=\"blue\"]extra hartje [Color name=\"unset\"]is wat je begeert?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
-msgstr "[Color name=\"blue\"]Meer energie [Color name=\"unset\"]is wat je begeert?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]Meer energie [Color name=\"unset\"]is wat je begeert?[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAEIAAAAAAAAACAAAAAAAAAAAAAA"

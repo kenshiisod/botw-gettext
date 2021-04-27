@@ -3,39 +3,39 @@ msgstr "잘 있을 거야"
 
 msgid "talk40"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"blue\"]타반타대교[Color name=\"unset\"]의 쾅쾅귀신\n"
-"비는 잘 피하고 있을까…[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0010\"][Color name=\"blue\"]타반타대교[Color name=\"unset\"]의 쾅쾅귀신\n"
+"비는 잘 피하고 있을까…[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk41"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"18\"]정말? 진짜 잘 있을까?[PauseMid]\n"
+"[Sound1 bytes=\"0B12\"]정말? 진짜 잘 있을까?[PauseMid]\n"
 "쾅쾅 소리가 안 들려서 걱정돼…[PauseMid]"
 
 msgid "talk50"
 msgstr "[Sound2 id=\"31\"][Size percent=\"80\"]콰앙… 쿨…[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]쾅쾅쾅! 쾅쾅쾅!![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"070B\"][Size percent=\"125\"]쾅쾅쾅! 쾅쾅쾅!![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "뭐야 그게?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]형 몰라?!\n"
+"[Sound1 bytes=\"0A00\"]형 몰라?!\n"
 "[Color name=\"blue\"]타반타대교[Color name=\"unset\"]의 쾅쾅 귀신!\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]다리 밑… 골짜기 아래에서 쾅쾅…\n"
+"[Sound1 bytes=\"0001\"]다리 밑… 골짜기 아래에서 쾅쾅…\n"
 "이상한 소리 내는 귀신이야!\n"
 "어때, 들리지?\n"
 "[PauseLong]……어라? 안 들리네…\n"
-"[Sound1 unk1=\"5\" unk2=\"19\"]무슨 일이지?\n"
+"[Sound1 bytes=\"0513\"]무슨 일이지?\n"
 "귀신도 자는 건가?"
 
 msgid "0001"
 msgstr "콰앙~!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Size percent=\"125\"]쾅~! 쾅~!![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0701\"][Size percent=\"125\"]쾅~! 쾅~!![Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAESAgAAAAAAAAkAAAAEAAAALAAAAGIAAACYAAAAzgAAAAQBAAA6AQAAcAEAAKYBAADcAQAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"

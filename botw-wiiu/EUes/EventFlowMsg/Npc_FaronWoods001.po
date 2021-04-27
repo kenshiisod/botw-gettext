@@ -1,13 +1,13 @@
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Pregunta lo que quieras.\n"
+"[Sound1 bytes=\"0000\"]Pregunta lo que quieras.\n"
 "Para eso estamos."
 
 msgid "Near01"
 msgstr "Vamos allá."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]¿Quieres preguntarme algo más?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]¿Quieres preguntarme algo más?[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near02"
 msgstr "Zzz..."
@@ -23,8 +23,8 @@ msgstr "Hora de dormir."
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Estimo mucho que nos hayas ayudado.[PageBreak][04:03]A cambio, puedo contarte cosas sobre\n"
-"esta zona.[PauseShort] ¡Pregunta sin miedo![Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0102\"]Estimo mucho que nos hayas ayudado.[PageBreak][04:03]A cambio, puedo contarte cosas sobre\n"
+"esta zona.[PauseShort] ¡Pregunta sin miedo![Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk01"
 msgstr "Zzz..."
@@ -34,7 +34,7 @@ msgstr "¿Revivir caballos?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]No muy lejos de aquí habita una\n"
+"[Sound1 bytes=\"0000\"]No muy lejos de aquí habita una\n"
 "misteriosa [Color name=\"red\"]deidad de los caballos[Color name=\"unset\"].[PageBreak]Si pierdes alguna de tus monturas,\n"
 "puede devolverles la vida.[PageBreak]Sé que suena descabellado,\n"
 "pero es cierto."
@@ -44,7 +44,7 @@ msgstr "¿Un caballo gigante?"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Si te diriges hacia el oeste, llegarás\n"
+"[Sound1 bytes=\"0000\"]Si te diriges hacia el oeste, llegarás\n"
 "a la [Color name=\"blue\"]pradera de Taobab[Color name=\"unset\"].[PageBreak]En esa zona habita un [Color name=\"red\"]caballo\n"
 "muy grande[Color name=\"unset\"]. Enorme."
 

@@ -1,7 +1,7 @@
 #, ruby
 msgid "Moon01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 十六夜…\n"
+"[Sound1 bytes=\"0004\"]今夜は 十六夜…\n"
 "\n"
 "昨日の満月からは 少し欠けてしまったが\n"
 "それもまた いいものだ…"
@@ -13,7 +13,7 @@ msgstr "雨だ！"
 #, ruby
 msgid "Moon02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 下弦の月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 下弦の月…\n"
 "\n"
 "天のまた天を狙う弓 とでもいったところか\n"
 "それもまた いいものだ…"
@@ -25,7 +25,7 @@ msgstr "[Sound2 id=\"32\"]寝よ…"
 #, ruby
 msgid "Moon03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 有明月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 有明月…\n"
 "\n"
 "あの くびれたライン\n"
 "それもまた いいものだ…"
@@ -36,7 +36,7 @@ msgstr "[Sound2 id=\"8\"][Color name=\"red\"]ブルゥアッディーー！[Colo
 #, ruby
 msgid "BloodyMoon00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]赤い満月の深夜0時に 空が血の色に染まる\n"
+"[Sound1 bytes=\"010B\"]赤い満月の深夜0時に 空が血の色に染まる\n"
 "それが [Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]だ\n"
 "その度に [Color name=\"blue\"]魔物[Color name=\"unset\"]たちは何度もよみがえり\n"
 "倒しても倒しても きりがない…\n"
@@ -46,14 +46,14 @@ msgstr ""
 #, ruby
 msgid "Moon04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 新月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 新月…\n"
 "\n"
 "見えないが そこにはある\n"
 "それもまた いいものだ…"
 
 #, ruby
 msgid "BloodyTalk00"
-msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"10\"]赤い… 赤いぞーー！[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 bytes=\"070A\"]赤い… 赤いぞーー！[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "Near07"
 msgstr "[Sound2 id=\"8\"][Color name=\"red\"]キタキタキターー！[Color name=\"unset\"]"
@@ -61,7 +61,7 @@ msgstr "[Sound2 id=\"8\"][Color name=\"red\"]キタキタキターー！[Color n
 #, ruby
 msgid "Moon05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 三日月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 三日月…\n"
 "\n"
 "何とも美味しそうな形\n"
 "それもまた いいものだ…"
@@ -69,65 +69,65 @@ msgstr ""
 #, ruby
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]むーん…\n"
+"[Sound1 bytes=\"0B10\"]むーん…\n"
 "\n"
-"[Sound1 unk1=\"4\" unk2=\"1\"]あっ 私としたことが…\n"
+"[Sound1 bytes=\"0401\"]あっ 私としたことが…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]月のことばかり考えているせいか\n"
+"[Sound1 bytes=\"0001\"]月のことばかり考えているせいか\n"
 "つい 言ってしまうのです"
 
 #, ruby
 msgid "BloodyTalk01"
-msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"36\"]血が… 血が騒ぐーー！[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 bytes=\"0724\"]血が… 血が騒ぐーー！[Size percent=\"100\"][Color name=\"unset\"]"
 
 #, ruby
 msgid "Talk03_1"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]あ…[PauseMid] き… 君も…\n"
-"[Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]を研究していたのかい？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0A15\"]あ…[PauseMid] き… 君も…\n"
+"[Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]を研究していたのかい？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Moon06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 上弦の月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 上弦の月…\n"
 "\n"
 "大地を狙う 雄々しい弓 とでもいったところか\n"
 "それもまた いいものだ…"
 
 msgid "GoodBye01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]むーん…"
+msgstr "[Sound1 bytes=\"0B10\"]むーん…"
 
 #, ruby
 msgid "BloodyTalk02"
-msgstr "[Size percent=\"125\"][Color name=\"red\"][Sound1 unk1=\"7\" unk2=\"10\"]魔物よ よみがえれーー！[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Color name=\"red\"][Sound1 bytes=\"070A\"]魔物よ よみがえれーー！[Color name=\"unset\"][Size percent=\"100\"]"
 
 #, ruby
 msgid "Moon07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 十三夜…\n"
+"[Sound1 bytes=\"0004\"]今夜は 十三夜…\n"
 "\n"
 "明日の満月に向けて もう満ちる事しかない\n"
 "それもまた いいものだ…"
 
 msgid "BloodyTalk03"
-msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"36\"]ガ… ガ… ガ…！[Size percent=\"100\"][Color name=\"unset\"]"
+msgstr "[Color name=\"red\"][Size percent=\"125\"][Sound1 bytes=\"0824\"]ガ… ガ… ガ…！[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "FirstTalk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]む～ん…"
+msgstr "[Sound1 bytes=\"0B10\"]む～ん…"
 
 #, ruby
 msgid "FirstTalk01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]あっ 失礼…\n"
+"[Sound1 bytes=\"0413\"]あっ 失礼…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]考え事をしていて 気づかなかった\n"
+"[Sound1 bytes=\"0001\"]考え事をしていて 気づかなかった\n"
 "許してくれたまえ"
 
 #, ruby
 msgid "FirstTalk02"
 msgstr ""
 "私は あの[Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]現象の謎を探るため\n"
-"日夜研究に励んでいるのだ[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"日夜研究に励んでいるのだ[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "1000"
 msgstr "ブラッディムーンとは？"
@@ -135,9 +135,9 @@ msgstr "ブラッディムーンとは？"
 #, ruby
 msgid "FirstTalk03"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]なんだ 知らないのか？！\n"
+"[Sound1 bytes=\"0414\"]なんだ 知らないのか？！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]それは いけない\n"
+"[Sound1 bytes=\"0001\"]それは いけない\n"
 "私の話を 聞いていきたまえ"
 
 #, ruby
@@ -150,16 +150,16 @@ msgstr "ブラッディ…？"
 #, ruby
 msgid "FirstTalk04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]む～ん…[PauseMid]\n"
+"[Sound1 bytes=\"0506\"]む～ん…[PauseMid]\n"
 "今 知ったかぶりしなかったか？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]まあいい\n"
+"[Sound1 bytes=\"0001\"]まあいい\n"
 "私の話を 聞いてくれたまえ"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ああ 君か…\n"
-"私の研究に 興味があるのかい？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]ああ 君か…\n"
+"私の研究に 興味があるのかい？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "1002"
 msgstr "さようなら"
@@ -171,18 +171,18 @@ msgstr "見たことある"
 #, ruby
 msgid "FirstTalk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]む～ん…[PauseMid]\n"
+"[Sound1 bytes=\"030C\"]む～ん…[PauseMid]\n"
 "まあ そう言わずに 話を聞いていきたまえ"
 
 #, ruby
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]さあ 何でも 聞いてくれたまえ[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]さあ 何でも 聞いてくれたまえ[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Rain00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]む～ん…[PauseMid]\n"
-"このままでは 月は見られないな[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"030C\"]む～ん…[PauseMid]\n"
+"このままでは 月は見られないな[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0002"
 msgstr "さようなら"
@@ -190,7 +190,7 @@ msgstr "さようなら"
 #, ruby
 msgid "FirstTalk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]大厄災の あの日以来…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]大厄災の あの日以来…[PauseMid]\n"
 "月齢によらずに 赤い満月が昇ることがあるのだ\n"
 "そして 深夜0時になると\n"
 "空が血に染められたように 真っ赤になり…\n"
@@ -200,69 +200,69 @@ msgstr ""
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ああ 君か…\n"
-"そろそろ 月が出るぞ[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]ああ 君か…\n"
+"そろそろ 月が出るぞ[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Rain01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]雨宿りするから 話は後だ！"
+msgstr "[Sound1 bytes=\"030C\"]雨宿りするから 話は後だ！"
 
 #, ruby
 msgid "FirstTalk07"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]それが [Color name=\"red\"]血の満月[Color name=\"unset\"]なのだ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"070B\"][Size percent=\"125\"]それが [Color name=\"red\"]血の満月[Color name=\"unset\"]なのだ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ああ 君か…\n"
-"どうだい 美しい月だろう？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"010B\"]ああ 君か…\n"
+"どうだい 美しい月だろう？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Rain02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]雨で 見られないのだよ！"
+msgstr "[Sound1 bytes=\"020E\"]雨で 見られないのだよ！"
 
 #, ruby
 msgid "FirstTalk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]なぜ魔物たちが 復活するのか…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]なぜ魔物たちが 復活するのか…[PauseMid]\n"
 "なぜ突然 赤い満月の夜になるのか…\n"
 "そんな事さえ 解明されていない\n"
 "まだまだ 謎が多い現象なのだ\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]君も [Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]について何か分かったら\n"
+"[Sound1 bytes=\"010B\"]君も [Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]について何か分かったら\n"
 "いつでも 報告しに来てくれたまえ"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]ああ…\n"
-"今日は 月が沈んでしまった…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"030C\"]ああ…\n"
+"今日は 月が沈んでしまった…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 聞きたいことは？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]他に 聞きたいことは？[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]何だい 今夜の月の研究に備えて\n"
-"今から寝るところなのだが…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"030C\"]何だい 今夜の月の研究に備えて\n"
+"今から寝るところなのだが…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]何だい 今夜の月の研究に備えて\n"
-"寝てたのだが…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"030C\"]何だい 今夜の月の研究に備えて\n"
+"寝てたのだが…[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"14\"]む～ん…"
 
 msgid "FirstTalk01_1"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]なんだね… キミは"
+msgstr "[Sound1 bytes=\"0004\"]なんだね… キミは"
 
 #, ruby
 msgid "Moon00_Full"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]今夜は 満月…\n"
+"[Sound1 bytes=\"0004\"]今夜は 満月…\n"
 "\n"
 "今にも落ちてきそうな その豊満な丸み\n"
 "それもまた いいものだ…"
@@ -273,7 +273,7 @@ msgstr "Zzz... Zzz..."
 #, ruby
 msgid "Moon00_Befor"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]この胸騒ぎ…\n"
+"[Sound1 bytes=\"0B10\"]この胸騒ぎ…\n"
 "今夜は 何かが起こりそうな気がする…"
 
 #, ruby
@@ -283,13 +283,13 @@ msgstr "[Sound2 id=\"14\"]今宵は…"
 #, ruby
 msgid "Moon00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]見たまえ！\n"
+"[Sound1 bytes=\"010B\"]見たまえ！\n"
 "いよいよ [Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]だ…"
 
 #, ruby
 msgid "Moon00_After"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"][Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]は 終わってしまった…\n"
+"[Sound1 bytes=\"030C\"][Color name=\"red\"]ブラッディムーン[Color name=\"unset\"]は 終わってしまった…\n"
 "また次に起きるのは いつだろうか…"
 
 #, ruby

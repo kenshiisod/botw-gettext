@@ -1,31 +1,31 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]こんばんは～"
+msgstr "[Sound1 bytes=\"0102\"]こんばんは～"
 
 #, ruby
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]それとも マルートに御用でしょうか～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0704\"]それとも マルートに御用でしょうか～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]いらっしゃ～い"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]マルートマートへ ようこそ♪"
+msgstr "[Sound1 bytes=\"0101\"]マルートマートへ ようこそ♪"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]手前は よろず屋 コーラル・リーフさん[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]手前は よろず屋 コーラル・リーフさん[PauseLong]\n"
 "奥は工房 ハンマーヘッドさんに なってま～す"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]はいはい は～い"
+msgstr "[Sound1 bytes=\"0000\"]はいはい は～い"
 
 #, ruby
 msgid "talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]マルートに御用でしょうか～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0701\"]マルートに御用でしょうか～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]ま～たね～"
+msgstr "[Sound1 bytes=\"010A\"]ま～たね～"
 
 msgid "0010"
 msgstr "マルートマート？"
@@ -33,7 +33,7 @@ msgstr "マルートマート？"
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]うん♪\n"
+"[Sound1 bytes=\"0709\"]うん♪\n"
 "\n"
 "よろず屋さんと 工房[PauseLong]\n"
 "２つ合わせた名前だよ♪"
@@ -44,11 +44,11 @@ msgstr "よろず屋について"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_00\"]マルートマートっ♪ [PauseShort]マルートマートっ♪\n"
+"[Sound1 bytes=\"0101\"][Animation name=\"Humming_00\"]マルートマートっ♪ [PauseShort]マルートマートっ♪\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_01\"]マルートマートで [PauseLong]ほほいの…\n"
+"[Sound1 bytes=\"0101\"][Animation name=\"Humming_01\"]マルートマートで [PauseLong]ほほいの…\n"
 "\n"
-"[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"11\"]ほーーいっ♪[Size percent=\"100\"]"
+"[Size percent=\"125\"][Sound1 bytes=\"070B\"]ほーーいっ♪[Size percent=\"100\"]"
 
 #, ruby
 msgid "0012"
@@ -58,12 +58,12 @@ msgid "0003"
 msgstr "さようなら"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]テーマソング[PauseShort] カワイイでしょ？"
+msgstr "[Sound1 bytes=\"0701\"]テーマソング[PauseShort] カワイイでしょ？"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]工房のロスーリお爺ちゃんは[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]工房のロスーリお爺ちゃんは[PauseShort]\n"
 "マルートの お爺ちゃんなんだよ～\n"
 "なんでも ミファー様の使ってた[Color name=\"blue\"]光鱗の槍[Color name=\"unset\"]をね～[PauseShort]\n"
 "直してた その人なんだよ～"
@@ -71,24 +71,24 @@ msgstr ""
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]よろず屋さんは 何百年も続く[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]よろず屋さんは 何百年も続く[PauseShort]\n"
 "由緒正しい よろず屋さんなんだよ～\n"
 "店主のヘオンさんはマジメだけど[PauseShort]\n"
 "妹のトオンさんは シド王子に首ったけだね～"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]おはよ～"
+msgstr "[Sound1 bytes=\"0102\"]おはよ～"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]他に マルートに何か聞く～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0106\"]他に マルートに何か聞く～？[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]こんにちは～"
+msgstr "[Sound1 bytes=\"0102\"]こんにちは～"
 
 #, ruby
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]また歌う？[PauseLong] いいよ♪"
+msgstr "[Sound1 bytes=\"0704\"]また歌う？[PauseLong] いいよ♪"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAH8AQAAAAAAABUAAAAEAAAAXAAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAlAAAAKwAAADEAAAA3AAAAPQAAAAMAQAAJAEAADwBAABUAQAAbAEAAIQBAACcAQAAtAEAAMwBAADkAQAATgBwAGMAXwBaAG8AcgBhADAAMAA5AAAAAAAAAAAAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAABOAHAAYwBfAFoAbwByAGEAMAAwADkAAAAAAAA="

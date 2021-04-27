@@ -3,18 +3,18 @@ msgstr "AAAAAH!"
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ik ben benieuwd wat voor schatten je\n"
+"[Sound1 bytes=\"0001\"]Ik ben benieuwd wat voor schatten je\n"
 "weet te vinden!"
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Hehehe...[PauseMid] Als je het [Color name=\"blue\"]zweefzeil [Color name=\"unset\"]echt wilt\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Hehehe...[PauseMid] Als je het [Color name=\"blue\"]zweefzeil [Color name=\"unset\"]echt wilt\n"
 "hebben, moet je er ook wat voor doen.\n"
 "Ik geef het echt niet zomaar weg."
 
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Het is indrukwekkend dat je hier zonder\n"
+"[Sound1 bytes=\"0001\"]Het is indrukwekkend dat je hier zonder\n"
 "een gevoerd hemd hebt weten te komen.[PageBreak][Sound2 id=\"7\"]Weet je wat?[PauseMid] Als beloning voor je moed\n"
 "geef ik je dit gevoerde hemd!"
 
@@ -37,28 +37,28 @@ msgid "TerrorFire"
 msgstr "Heet!"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Hahaha.[PauseMid] Kijk toch eens om je heen![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Hahaha.[PauseMid] Kijk toch eens om je heen![Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "Wat een uitzicht!"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Hahaha.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Hahaha.[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "Tot ziens."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]De zon komt zo op."
+msgstr "[Sound1 bytes=\"0002\"]De zon komt zo op."
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]'s Nachts wordt het hier in de bergen\n"
+"[Sound1 bytes=\"0002\"]'s Nachts wordt het hier in de bergen\n"
 "behoorlijk koud, kan ik je vertellen."
 
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Vanaf hier kun je zo ontzettend ver\n"
+"[Sound1 bytes=\"0004\"]Vanaf hier kun je zo ontzettend ver\n"
 "kijken...[PauseMid] Dit is veruit de beste plek om\n"
 "de hoogvlakte te overzien."
 
@@ -69,18 +69,18 @@ msgstr ""
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Zo, meneer de schatzoeker, zit er al een\n"
+"[Sound1 bytes=\"0000\"]Zo, meneer de schatzoeker, zit er al een\n"
 "beetje schot in de zaak?[PauseMid] Ik begin zo\n"
 "langzamerhand ongeduldig te worden."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Heb je de andere tempels al gevonden?"
+msgstr "[Sound1 bytes=\"0000\"]Heb je de andere tempels al gevonden?"
 
 msgid "TerrorArrow"
 msgstr "Wat doe je?!"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Hohoho."
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Hohoho."
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]Hehehe..."

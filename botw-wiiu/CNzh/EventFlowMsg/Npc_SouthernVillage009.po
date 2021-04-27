@@ -1,41 +1,41 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]妈妈煮的饭真好吃！"
+msgstr "[Sound1 bytes=\"0100\"]妈妈煮的饭真好吃！"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]遗迹[Color name=\"unset\"]怎么样？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]遗迹[Color name=\"unset\"]怎么样？[PauseShort]\n"
 "很让人兴奋吧！"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]雨～雨～[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]雨～雨～[PauseMid]\n"
 "在雨中跑步感觉很舒服～"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]我今天要睡了。[PauseMid]\n"
+"[Sound1 bytes=\"0022\"]我今天要睡了。[PauseMid]\n"
 "晚安。"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]我问你哦，你知道吗？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]我问你哦，你知道吗？[PauseMid]\n"
 "在[Color name=\"blue\"]雅西诺海滩[Color name=\"unset\"]有个很有趣的地方！\n"
 "我之前和利迦尼哥哥\n"
 "一起去过，那时好兴奋哦～\n"
 "那好像叫[Color name=\"red\"]遗迹[Color name=\"unset\"]吧？[PauseMid]\n"
-"大哥哥有兴趣吗？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"大哥哥有兴趣吗？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]那我带你去，[PauseMid]跟我来！"
+msgstr "[Sound1 bytes=\"0700\"]那我带你去，[PauseMid]跟我来！"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]咦～[PauseMid]好可惜。"
+msgstr "[Sound1 bytes=\"0900\"]咦～[PauseMid]好可惜。"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]跟着我，别落后了！"
+msgstr "[Sound1 bytes=\"0600\"]跟着我，别落后了！"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]到了！"
+msgstr "[Sound1 bytes=\"0709\"]到了！"
 
 msgid "Near00"
 msgstr "是雨～"
@@ -56,27 +56,27 @@ msgid "Near04"
 msgstr "呼～呼～"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]再一下就到了，好好跟着我！"
+msgstr "[Sound1 bytes=\"0000\"]再一下就到了，好好跟着我！"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]那个就是[Color name=\"red\"]遗迹[Color name=\"unset\"]！"
+msgstr "[Sound1 bytes=\"0000\"]那个就是[Color name=\"red\"]遗迹[Color name=\"unset\"]！"
 
 msgid "Near06"
 msgstr "吃饭、吃饭～"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]再见！"
+msgstr "[Sound1 bytes=\"0004\"]再见！"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]等一下就要开饭了，[PauseMid]\n"
+"[Sound1 bytes=\"011A\"]等一下就要开饭了，[PauseMid]\n"
 "得快点回去才行！"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]呼～呼～"
+msgstr "[Sound1 bytes=\"0021\"]呼～呼～"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]帮我向利迦尼哥哥问好！"
+msgstr "[Sound1 bytes=\"0000\"]帮我向利迦尼哥哥问好！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAH8AwAAAAAAABYAAAAEAAAAYAAAAI4AAAC8AAAA6gAAABgBAABGAQAAdAEAAKIBAADQAQAA/gEAACwCAABaAgAAiAIAALYCAADkAgAAEgMAABQDAAAWAwAARAMAAHIDAACgAwAAzgMAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAA=="

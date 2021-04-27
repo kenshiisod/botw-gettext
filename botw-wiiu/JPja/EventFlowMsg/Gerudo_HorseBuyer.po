@@ -1,78 +1,78 @@
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]ありがとう！ [PauseLong]ただ あまり[Color name=\"red\"]大きな馬[Color name=\"unset\"]だと私には\n"
+"[Sound1 bytes=\"070B\"]ありがとう！ [PauseLong]ただ あまり[Color name=\"red\"]大きな馬[Color name=\"unset\"]だと私には\n"
 "乗りこなせないので[Color name=\"red\"]適度なサイズの馬[Color name=\"unset\"]を頼みます"
 
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"16\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのですね！[PauseShort]\n"
+"[Sound1 bytes=\"0110\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのですね！[PauseShort]\n"
 "ただちょっと 私が乗るには大きすぎますね…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのに 申し訳ありませんが\n"
+"[Sound1 bytes=\"0001\"][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのに 申し訳ありませんが\n"
 "私が乗れるような[Color name=\"red\"]普通の馬[Color name=\"unset\"]を譲ってください…"
 
 #, ruby
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]やあやあ [PauseShort]それはありがたい！[PauseMid]\n"
+"[Sound1 bytes=\"070A\"]やあやあ [PauseShort]それはありがたい！[PauseMid]\n"
 "では 約束通り[Color name=\"red\"]300ルピー[Color name=\"unset\"]で[Color name=\"red\"]馬[Color name=\"unset\"]を買い取ります！"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]やあやあ こんなところで人に会うとは…[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]やあやあ こんなところで人に会うとは…[PauseLong]\n"
 "不幸中の幸いとはこういう事なんですねえ…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私もあなたと同じ旅人なのですが…[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]私もあなたと同じ旅人なのですが…[PauseLong]\n"
 "この峠で魔物に襲われてしまいましてねえ…\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]その時 相棒の[Color name=\"red\"]馬[Color name=\"unset\"]が逃げて行ってしまいまして[PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]その時 相棒の[Color name=\"red\"]馬[Color name=\"unset\"]が逃げて行ってしまいまして[PauseLong]\n"
 "ここで立ち往生しているところだったんです…"
 
 #, ruby
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]あなたのその[Color name=\"red\"]馬[Color name=\"unset\"]… 無理を承知でお願いします！[PauseMid]\n"
-"その[Color name=\"red\"]馬[Color name=\"unset\"]を [Color name=\"red\"]300ルピー[Color name=\"unset\"]で譲ってもらえませんか？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B10\"]あなたのその[Color name=\"red\"]馬[Color name=\"unset\"]… 無理を承知でお願いします！[PauseMid]\n"
+"その[Color name=\"red\"]馬[Color name=\"unset\"]を [Color name=\"red\"]300ルピー[Color name=\"unset\"]で譲ってもらえませんか？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]やあ [Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]やあ [Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[PauseLong]\n"
 "お願いです！ [PauseMid][Color name=\"red\"]馬[Color name=\"unset\"]を連れて来てください！"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"16\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのですね！[PauseShort]\n"
+"[Sound1 bytes=\"0110\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのですね！[PauseShort]\n"
 "しかし なにやら恐ろしい馬ですね…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのに 申し訳ありませんが\n"
+"[Sound1 bytes=\"0001\"][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきてくれたのに 申し訳ありませんが\n"
 "私の相棒にふさわしい[Color name=\"red\"]普通の馬[Color name=\"unset\"]を譲ってください"
 
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"22\"]おぉ！[PauseMid] その[Color name=\"red\"]馬[Color name=\"unset\"]…[PauseMid] 私の相棒にぴったりです！[PauseLong]\n"
+"[Sound1 bytes=\"0716\"]おぉ！[PauseMid] その[Color name=\"red\"]馬[Color name=\"unset\"]…[PauseMid] 私の相棒にぴったりです！[PauseLong]\n"
 "なかなかの[Color name=\"red\"]馬[Color name=\"unset\"]ですね…[Size percent=\"80\"][Size percent=\"100\"]\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]どうか その[Color name=\"red\"]馬[Color name=\"unset\"]を 私に譲ってもらえませんか？[PauseMid] \n"
-"[Color name=\"red\"]300ルピー[Color name=\"unset\"]で買い取りますが いかがでしょう？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]どうか その[Color name=\"red\"]馬[Color name=\"unset\"]を 私に譲ってもらえませんか？[PauseMid] \n"
+"[Color name=\"red\"]300ルピー[Color name=\"unset\"]で買い取りますが いかがでしょう？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきて……[PauseShort] って！[PauseMid]\n"
+"[Sound1 bytes=\"0A15\"]やあやあ [PauseShort][Color name=\"red\"]馬[Color name=\"unset\"]を連れてきて……[PauseShort] って！[PauseMid]\n"
 "その動物は[Color name=\"red\"]馬[Color name=\"unset\"]ではありませんね！[Color name=\"red\"]馬[Color name=\"unset\"]をよろしく！"
 
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]やあやあ やっぱり助けてくれる気に\n"
+"[Sound1 bytes=\"010B\"]やあやあ やっぱり助けてくれる気に\n"
 "なってくださったのですか？"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]やあやあ[PauseShort] 本当ですか！\n"
-"後で返してくれって言っても 返せませんよ？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"010B\"]やあやあ[PauseShort] 本当ですか！\n"
+"後で返してくれって言っても 返せませんよ？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"
@@ -81,9 +81,9 @@ msgstr "売りましょう！"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]や… [PauseShort]あ… [PauseShort]や… [PauseShort]あ… [PauseShort]やあ[PauseShort] そうですか…[PauseLong] \n"
+"[Sound1 bytes=\"090C\"]や… [PauseShort]あ… [PauseShort]や… [PauseShort]あ… [PauseShort]やあ[PauseShort] そうですか…[PauseLong] \n"
 "見れば苦労して捕まえた[Color name=\"red\"]馬[Color name=\"unset\"]のようですからね…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]もし売ってもいい[Color name=\"red\"]馬[Color name=\"unset\"]がいれば連れてきてください[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]もし売ってもいい[Color name=\"red\"]馬[Color name=\"unset\"]がいれば連れてきてください[PauseMid]\n"
 "[Color name=\"red\"]野生馬[Color name=\"unset\"]でもかまいませんのでお願いします！"
 
 msgid "0001"
@@ -92,9 +92,9 @@ msgstr "とんでもない！"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]やあやあ[PauseShort] あなたから買った この[Color name=\"red\"]馬[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0709\"]やあやあ[PauseShort] あなたから買った この[Color name=\"red\"]馬[Color name=\"unset\"]は\n"
 "私の新しい相棒として旅の大切なお供にします！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]それではさっそく 相棒と旅を続けます！[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]それではさっそく 相棒と旅を続けます！[PauseShort]\n"
 "お互いに良い旅を！"
 
 #, ruby
@@ -103,7 +103,7 @@ msgstr "お譲りします"
 
 #, ruby
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[Size percent=\"80\"][PageBreak][Color name=\"red\"]馬[Color name=\"unset\"]さえ…[Size percent=\"100\"] [PauseMid][Color name=\"red\"]馬[Color name=\"unset\"]さえ… [Size percent=\"125\"][PauseMid][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B10\"][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[Size percent=\"80\"][PageBreak][Color name=\"red\"]馬[Color name=\"unset\"]さえ…[Size percent=\"100\"] [PauseMid][Color name=\"red\"]馬[Color name=\"unset\"]さえ… [Size percent=\"125\"][PauseMid][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば！！[Size percent=\"100\"]"
 
 msgid "0003"
 msgstr "やっぱりやめます"
@@ -111,10 +111,10 @@ msgstr "やっぱりやめます"
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[Size percent=\"80\"][PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0B10\"][Color name=\"red\"]馬[Color name=\"unset\"]さえいれば まだ旅を続けられるのに…[Size percent=\"80\"][PauseLong][Size percent=\"100\"]\n"
 "あなたに 同じ旅の仲間として お願いがあります\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]旅の途中で 私に合うような[Color name=\"red\"]馬[Color name=\"unset\"]を見つけたら[PauseShort]\n"
-"100いや [Color name=\"red\"]300ルピー[Color name=\"unset\"]で譲ってもらえませんか？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]旅の途中で 私に合うような[Color name=\"red\"]馬[Color name=\"unset\"]を見つけたら[PauseShort]\n"
+"100いや [Color name=\"red\"]300ルピー[Color name=\"unset\"]で譲ってもらえませんか？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0004"
 msgstr "わかりました！"
@@ -126,7 +126,7 @@ msgstr "お断りします！"
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]やあ… [PauseShort]やあ…[PauseShort] 同じ旅人だというのに残念です…[PauseLong]\n"
+"[Sound1 bytes=\"090C\"]やあ… [PauseShort]やあ…[PauseShort] 同じ旅人だというのに残念です…[PauseLong]\n"
 "でも私はあなたを信じてここでお待ちしています"
 
 #, ruby

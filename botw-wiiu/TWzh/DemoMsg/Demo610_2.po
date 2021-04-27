@@ -13,7 +13,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]哦？旅行者……[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]哦？旅行者……[PauseShort]\n"
 "你在這裡做什麼？[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
@@ -23,11 +23,11 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]我的師父應也曾於此地，\n"
+"[Sound1 bytes=\"030C\"]我的師父應也曾於此地，\n"
 "試著吟唱方才的篇章……"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]是說，每個人的旅行目的都不同呢。"
+msgstr "[Sound1 bytes=\"0001\"]是說，每個人的旅行目的都不同呢。"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
 msgstr ""
@@ -36,7 +36,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]啊……要是我能繼承師父的遺志，\n"
+"[Sound1 bytes=\"0101\"]啊……要是我能繼承師父的遺志，\n"
 "將詩完成，在眾人面前吟唱……"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_103"
@@ -46,28 +46,28 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]為此，我想要先深入了解\n"
+"[Sound1 bytes=\"0001\"]為此，我想要先深入了解\n"
 "諸位英傑的事蹟……"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]啊……能在詩中之地吟唱這首詩歌，\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]啊……能在詩中之地吟唱這首詩歌，\n"
 "真是幸福……"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]慶幸的是，我從[Color name=\"blue\"]卓拉領地[Color name=\"unset\"]的[Color name=\"blue\"]大王[Color name=\"unset\"]與[Color name=\"blue\"]王子[Color name=\"unset\"]口中\n"
+"[Sound1 bytes=\"0000\"]慶幸的是，我從[Color name=\"blue\"]卓拉領地[Color name=\"unset\"]的[Color name=\"blue\"]大王[Color name=\"unset\"]與[Color name=\"blue\"]王子[Color name=\"unset\"]口中\n"
 "聽聞了英傑的軼事。"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]師父留下來的……\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]師父留下來的……\n"
 "挑戰考驗的[Color name=\"blue\"]英傑米法之章[Color name=\"unset\"]。\n"
 "[PauseAuto frames=\"40\"]就讓我吟唱給你聽吧。"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]在這片天空下吟唱完成的詩……\n"
+"[Sound1 bytes=\"0018\"]在這片天空下吟唱完成的詩……\n"
 "這就是我的旅行目的。"
 
 msgid "_ReadOnly_MsbtExtras"

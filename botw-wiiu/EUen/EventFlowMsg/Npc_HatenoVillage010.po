@@ -1,11 +1,11 @@
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]I haven't seen Purah lately...[PauseShort] I wonder\n"
-"if those rumors are true...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]I haven't seen Purah lately...[PauseShort] I wonder\n"
+"if those rumors are true...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Mr. Traveler, don't give it a second\n"
+"[Sound1 bytes=\"0002\"]Mr. Traveler, don't give it a second\n"
 "thought—just take a load off at the inn."
 
 msgid "near00"
@@ -13,21 +13,21 @@ msgstr "Come on in!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]Well, that's a relief to hear. [PauseShort]Us village\n"
+"[Sound1 bytes=\"010B\"]Well, that's a relief to hear. [PauseShort]Us village\n"
 "folk get worried so easily, y'know?"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Starting to rain..."
+msgstr "[Sound1 bytes=\"000C\"]Starting to rain..."
 
 msgid "near01"
 msgstr "Haah..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Yes, indeed..."
+msgstr "[Sound1 bytes=\"0001\"]Yes, indeed..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]If you plan to stay, just talk to the clerk\n"
+"[Sound1 bytes=\"0001\"]If you plan to stay, just talk to the clerk\n"
 "[Color name=\"red\"]across the counter[Color name=\"unset\"]."
 
 msgid "near02"
@@ -35,7 +35,7 @@ msgstr "Whew..."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]If you plan to stay, just talk to the clerk\n"
+"[Sound1 bytes=\"0001\"]If you plan to stay, just talk to the clerk\n"
 "[Color name=\"red\"]across the counter[Color name=\"unset\"]."
 
 msgid "near03"
@@ -43,31 +43,31 @@ msgstr "Now then..."
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Best place to rest up in all of\n"
+"[Sound1 bytes=\"0001\"]Best place to rest up in all of\n"
 "Hateno Village is [Color name=\"blue\"]Ton Pu Inn[Color name=\"unset\"]!"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]A kid...\n"
+"[Sound1 bytes=\"0B06\"]A kid...\n"
 "\n"
 "\n"
-"[Sound1 unk1=\"4\" unk2=\"11\"]Ahh!"
+"[Sound1 bytes=\"040B\"]Ahh!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Fancy seeing ya so early in the morn."
+msgstr "[Sound1 bytes=\"0000\"]Fancy seeing ya so early in the morn."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Good day."
+msgstr "[Sound1 bytes=\"0000\"]Good day."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Good to see ya, even at this hour."
+msgstr "[Sound1 bytes=\"0000\"]Good to see ya, even at this hour."
 
 msgid "0000"
 msgstr "She's doing great!"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Aha! You gave it away! So the rumor\n"
+"[Sound1 bytes=\"0001\"]Aha! You gave it away! So the rumor\n"
 "about Purah's grandkid visiting her is\n"
 "true after all?!\n"
 "I can't think of any other reason why\n"
@@ -81,37 +81,37 @@ msgid "0002"
 msgstr "Good-bye."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Good to see ya, even in this bad weather."
+msgstr "[Sound1 bytes=\"0000\"]Good to see ya, even in this bad weather."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]If ya need to rest those bones, go\n"
+"[Sound1 bytes=\"0000\"]If ya need to rest those bones, go\n"
 "check out [Color name=\"blue\"]Ton Pu Inn[Color name=\"unset\"]."
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]That [Color name=\"blue\"]blue flame[Color name=\"unset\"]...[PauseMid] Isn't it from the\n"
+"[Sound1 bytes=\"0B06\"]That [Color name=\"blue\"]blue flame[Color name=\"unset\"]...[PauseMid] Isn't it from the\n"
 "[Color name=\"blue\"]Hateno Ancient Tech Lab[Color name=\"unset\"]?"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Hoo, that [Color name=\"blue\"]blue flame[Color name=\"unset\"]...[PauseShort] Doesn't it belong\n"
+"[Sound1 bytes=\"0B06\"]Hoo, that [Color name=\"blue\"]blue flame[Color name=\"unset\"]...[PauseShort] Doesn't it belong\n"
 "to old woman Purah?"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Is the director having trouble getting\n"
+"[Sound1 bytes=\"000C\"]Is the director having trouble getting\n"
 "around these days?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Can old-woman Purah[PauseShort] not get around on\n"
+"[Sound1 bytes=\"000C\"]Can old-woman Purah[PauseShort] not get around on\n"
 "her own anymore?[PauseShort] Is she making\n"
 "the youth carry things around for her?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]The weather isn't going to get any\n"
+"[Sound1 bytes=\"0002\"]The weather isn't going to get any\n"
 "better anytime soon. How's a roof over\n"
 "your head sound?"
 

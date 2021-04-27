@@ -1,22 +1,22 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хм, бывай..."
+msgstr "[Sound1 bytes=\"0001\"]Хм, бывай..."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Гм-н-г..."
+msgstr "[Sound1 bytes=\"0000\"]Гм-н-г..."
 
 msgid "near00"
 msgstr "Эх!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Ха...[PauseShort] ха-ха...[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"][Size percent=\"125\"]Заливаешь ведь![Size percent=\"100\"][PageBreak]Я хоть и старый, но\n"
-"меня не проведешь![Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0709\"]Ха...[PauseShort] ха-ха...[PageBreak][Sound1 bytes=\"0601\"][Size percent=\"125\"]Заливаешь ведь![Size percent=\"100\"][PageBreak]Я хоть и старый, но\n"
+"меня не проведешь![Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Сам не видишь?[PauseShort] Рудник.[PauseShort] Мы здесь\n"
+"[Sound1 bytes=\"0001\"]Сам не видишь?[PauseShort] Рудник.[PauseShort] Мы здесь\n"
 "кое-какие камни добываем.[PauseShort] Потом их\n"
-"продают, а деньги идут Горонграду.[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Раньше мы работали на [Color name=\"blue\"]вершине Горы\n"
+"продают, а деньги идут Горонграду.[PageBreak][Sound1 bytes=\"0010\"]Раньше мы работали на [Color name=\"blue\"]вершине Горы\n"
 "Смерти[Color name=\"unset\"], но оттуда пришлось уйти\n"
 "из-за [Color name=\"blue\"]огромного ящера[Color name=\"unset\"].[PageBreak]Да и [Color name=\"blue\"]горящие глыбы[Color name=\"unset\"] из вулкана\n"
 "сыпались...[PauseShort] Хорошо, что сейчас\n"
@@ -26,38 +26,38 @@ msgid "near01"
 msgstr "Хр-р-р..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Хм, не врешь?[PauseShort] Ну ладно.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Что-то спросить хотел?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Хм, не врешь?[PauseShort] Ну ладно.[PageBreak][Sound1 bytes=\"0601\"]Что-то спросить хотел?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Я хочу спать..."
+msgstr "[Sound1 bytes=\"0900\"]Я хочу спать..."
 
 msgid "near02"
 msgstr "М-да..."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ладно, можешь не объяснять.[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Ладно, можешь не объяснять.[PauseShort]\n"
 "Ты мне нравишься, парень.[PageBreak]Я многое за свою жизнь повидал.[PauseShort]\n"
 "В тебе есть что-то особенное...[PauseShort]\n"
-"Что хочешь спросить?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+"Что хочешь спросить?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Сам не видишь?[PauseShort] Рудник.[PauseShort] Мы здесь\n"
+"[Sound1 bytes=\"0000\"]Сам не видишь?[PauseShort] Рудник.[PauseShort] Мы здесь\n"
 "кое-какие камни добываем.[PauseShort] Потом их\n"
-"продают, а деньги идут Горонграду.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Раньше мы работали на\n"
-"[Color name=\"blue\"]вершине Горы Смерти[Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"0\" unk2=\"16\"]Но оттуда пришлось уйти\n"
+"продают, а деньги идут Горонграду.[PageBreak][Sound1 bytes=\"0001\"]Раньше мы работали на\n"
+"[Color name=\"blue\"]вершине Горы Смерти[Color name=\"unset\"]...[PageBreak][Sound1 bytes=\"0010\"]Но оттуда пришлось уйти\n"
 "из-за [Color name=\"blue\"]огромного ящера[Color name=\"unset\"]."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Еще вопросы есть?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0010\"]Еще вопросы есть?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]Привет.[PauseShort] Хочешь что-то спросить?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0606\"]Привет.[PauseShort] Хочешь что-то спросить?[Choice4Flags label1=\"4\" flag1=\"NPC_Goron014_HeroTalk\" label2=\"5\" label3=\"6\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Я Борин, живу в Горонграде.[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Я Борин, живу в Горонграде.[PauseShort]\n"
 "Старый стал совсем...[PauseShort] но работаю\n"
 "не хуже молодежи.[PauseShort] А то и лучше."
 
@@ -75,21 +75,21 @@ msgstr "Я не вру!"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Вон там.[PauseShort] Только берегись [Color name=\"blue\"]горящих\n"
+"[Sound1 bytes=\"0001\"]Вон там.[PauseShort] Только берегись [Color name=\"blue\"]горящих\n"
 "глыб[Color name=\"unset\"], которые летят из вулкана."
 
 msgid "0004"
 msgstr "Где Горонград?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Гн-н..."
+msgstr "[Sound1 bytes=\"0000\"]Гн-н..."
 
 msgid "0005"
 msgstr "Что это за место?"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]Надо поспать.[PauseShort] Мне в ночную смену\n"
+"[Sound1 bytes=\"0610\"]Надо поспать.[PauseShort] Мне в ночную смену\n"
 "выходить: если сейчас не посплю,\n"
 "ночь не продержусь."
 
@@ -97,15 +97,15 @@ msgid "0006"
 msgstr "Кто вы?"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Мне надо на работу."
+msgstr "[Sound1 bytes=\"0600\"]Мне надо на работу."
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"18\"]Эх![PauseShort] Ты чего в такое время тут\n"
+"[Sound1 bytes=\"0612\"]Эх![PauseShort] Ты чего в такое время тут\n"
 "ходишь?[PauseShort] Кто ты такой?[Choice1 label=\"0\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Мне пора работать..."
+msgstr "[Sound1 bytes=\"0600\"]Мне пора работать..."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAGKAgAAAAAAABsAAAAEAAAAdAAAAI4AAACoAAAAwgAAAMQAAADGAAAAyAAAAMoAAADMAAAAzgAAANAAAADqAAAABAEAAB4BAAA4AQAAUgEAAGwBAACGAQAAoAEAALoBAADUAQAA7gEAAAgCAAAiAgAAPAIAAFYCAABwAgAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADQAAABOAHAAYwBfAEcAbwByAG8AbgAwADEANAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQA0AAAAAAAA"

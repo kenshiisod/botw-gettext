@@ -1,6 +1,6 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]嗨！又見面了呢！[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]在這麼寒冷的地方只穿這樣，說真的非常難受……[PauseMid]\n"
+"[Sound1 bytes=\"0102\"]嗨！又見面了呢！[PageBreak][Sound1 bytes=\"0001\"]在這麼寒冷的地方只穿這樣，說真的非常難受……[PauseMid]\n"
 "但是！旅行者所到之處，特里也會隨之現身！"
 
 msgid "TerrorArrow"
@@ -43,7 +43,7 @@ msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]剛才真是可怕……"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]好冷呀……"
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]好冷呀……"
 
 msgid "TerrorImpulse"
 msgstr "哦哦！"

@@ -2,7 +2,7 @@
 msgid "talk07"
 msgstr ""
 "その[Color name=\"blue\"]克服の証 [Color name=\"red\"]4つ[Color name=\"blue\"][Color name=\"unset\"]と引き換えに\n"
-"望みの力を与えましょう[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"望みの力を与えましょう[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk08"
@@ -112,7 +112,7 @@ msgstr ""
 msgid "talk14"
 msgstr ""
 "わかりました…\n"
-"では どちらの力を望みますか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"では どちらの力を望みますか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk27"
@@ -154,7 +154,7 @@ msgstr ""
 
 #, ruby
 msgid "talk04"
-msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を増やすのですね？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を増やすのですね？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk17"
@@ -165,15 +165,15 @@ msgstr ""
 
 #, ruby
 msgid "talk05"
-msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を増やすのですね？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を増やすのですね？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk18"
-msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を増やしますか？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]ハートの器[Color name=\"unset\"]を増やしますか？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk19"
-msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を増やしますか？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"blue\"]がんばりの器[Color name=\"unset\"]を増やしますか？[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAEIAAAAAAAAACAAAAAAAAAAAAAA"

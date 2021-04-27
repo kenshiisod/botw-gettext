@@ -1,5 +1,5 @@
 msgid "Npc_Musician_003_R_010"
-msgstr "[Sound1 unk1=\"10\" unk2=\"19\"]おや？[PauseMid]"
+msgstr "[Sound1 bytes=\"0A13\"]おや？[PauseMid]"
 
 #, ruby
 msgid "Npc_Musician_003_R_005"
@@ -8,7 +8,7 @@ msgstr "[PauseAuto frames=\"270\"][01:01 bytes=\"9A99993E\"][Color name=\"red\"]
 #, ruby
 msgid "Npc_Musician_003_R_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]きっと 私には思いもよらないような\n"
+"[Sound1 bytes=\"0000\"]きっと 私には思いもよらないような\n"
 "秘密が隠されているのでしょうね\n"
 "では あなたの旅路に光がありますよう…[PauseMid]"
 
@@ -18,13 +18,13 @@ msgstr "ん～"
 #, ruby
 msgid "Npc_Musician_003_R_008"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]これは 失礼しました[PauseShort]\n"
+"[Sound1 bytes=\"030D\"]これは 失礼しました[PauseShort]\n"
 "詩に夢中になってしまいました……[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]この詩は 今は亡き私の師匠が 作ったものです[PageBreak]100年ほど前に起きた大厄災……[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]この詩は 今は亡き私の師匠が 作ったものです[PageBreak]100年ほど前に起きた大厄災……[PauseMid]\n"
 "これを鎮める 勇者にささげる詩だそうです\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]100年経った今 まだ勇者は現れませんが……[PauseMid]\n"
+"[Sound1 bytes=\"0B10\"]100年経った今 まだ勇者は現れませんが……[PauseMid]\n"
 "いつかきっと現れると 師匠は信じていました\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]いつか現れる勇者に この詩をお聴かせしたくて[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]いつか現れる勇者に この詩をお聴かせしたくて[PauseShort]\n"
 "日々 こうして練習をしています"
 
 msgid "Npc_Musician_003_R_009"

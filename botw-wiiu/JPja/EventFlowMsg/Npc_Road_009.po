@@ -1,11 +1,11 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"44\"]痛えんだよー！ [PauseShort]魔物のやろー！"
+msgstr "[Sound1 bytes=\"032C\"]痛えんだよー！ [PauseShort]魔物のやろー！"
 
 #, ruby
 msgid "RetMSG_Firo_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]なあに？ [PauseShort]何かほしいの？[PauseShort]\n"
+"[Sound1 bytes=\"0506\"]なあに？ [PauseShort]何かほしいの？[PauseShort]\n"
 "食べるものじゃなくて 情報でもいい？\n"
 "じゃあ言います…[PauseShort]\n"
 "\n"
@@ -16,13 +16,13 @@ msgstr ""
 #, ruby
 msgid "MSG_Firo_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]肉料理は体力回復に適していて[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]肉料理は体力回復に適していて[PauseShort]\n"
 "魚料理は けっこう特殊効果が期待できるのよ"
 
 #, ruby
 msgid "MSG_Firo_00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"4\"]なあに？ [PauseMid]声をかけてみただけ？[PauseShort]\n"
+"[Sound1 bytes=\"0504\"]なあに？ [PauseMid]声をかけてみただけ？[PauseShort]\n"
 "私はこれから [Color name=\"blue\"]ウオトリー村[Color name=\"unset\"]に行くの…\n"
 "魚と果物が おいしいっていうから[PauseMid]\n"
 "ダイエットには もってこいだと思ってさぁ"
@@ -30,7 +30,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Firo_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]あっ ねえねえ！ [PauseShort]ちょっと聞いていい？ [PauseShort]\n"
+"[Sound1 bytes=\"0102\"]あっ ねえねえ！ [PauseShort]ちょっと聞いていい？ [PauseShort]\n"
 "あなたって 魚と果物の料理は得意？\n"
 "組み合わせを覚えるまでは\n"
 "いろいろと 微妙なことになっちゃわな～い？"
@@ -38,7 +38,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Firo_00_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]これから [Color name=\"blue\"]ウオトリー村[Color name=\"unset\"]に行くの…\n"
+"[Sound1 bytes=\"0500\"]これから [Color name=\"blue\"]ウオトリー村[Color name=\"unset\"]に行くの…\n"
 "\n"
 "魚と果物が おいしいっていうから[PauseMid]\n"
 "ダイエットには もってこいだと思ってさぁ"
@@ -46,9 +46,9 @@ msgstr ""
 #, ruby
 msgid "MSG_Firo_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]恋愛成就の名所かぁ…[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]恋愛成就の名所かぁ…[PauseShort]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ… [PauseShort]ひとりごと 聞かれたし…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]あ… [PauseShort]ひとりごと 聞かれたし…[PauseShort]\n"
 "\n"
 "南の方にあるっていう[PauseShort]\n"
 "[Color name=\"blue\"]ラブポンド[Color name=\"unset\"]のことを思ってただけ…\n"
@@ -58,56 +58,56 @@ msgstr ""
 #, ruby
 msgid "MSG_Firo_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]なあに？ [PauseShort]何か情報がほしいの？\n"
+"[Sound1 bytes=\"0109\"]なあに？ [PauseShort]何か情報がほしいの？\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]肉料理は体力回復に適していて[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]肉料理は体力回復に適していて[PauseShort]\n"
 "魚料理は けっこう特殊効果が期待できるのだ[PauseShort]\n"
 "…こんな感じでいい？"
 
 #, ruby
 msgid "MSG_Firo_04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ウオトリー村から船で東に向かうと\n"
+"[Sound1 bytes=\"0109\"]ウオトリー村から船で東に向かうと\n"
 "サイハテノ島に行けるのよ！\n"
 "って [PauseShort]突然こんなこと言われても[PauseShort]\n"
 "そんな感じの顔になるだけよねー！ [PauseMid]ねー！"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]お礼しなきゃね"
+msgstr "[Sound1 bytes=\"0100\"]お礼しなきゃね"
 
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]もうヤダ… [PauseShort]"
+msgstr "[Sound1 bytes=\"032A\"]もうヤダ… [PauseShort]"
 
 #, ruby
 msgid "RetMSG_Firo_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ウオトリー村の魚は 脂がノッてて[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ウオトリー村の魚は 脂がノッてて[PauseShort]\n"
 "焼いたらもう うまいのなんのって！\n"
 "いいこと聞けて うれしいでしょ？"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]ああ もう [PauseShort]何この状況…"
+msgstr "[Sound1 bytes=\"032A\"]ああ もう [PauseShort]何この状況…"
 
 #, ruby
 msgid "MSG_Firo_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ウオトリー村から船で東に向かうと\n"
+"[Sound1 bytes=\"0000\"]ウオトリー村から船で東に向かうと\n"
 "サイハテノ島に行けるのよ！"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"5\" unk2=\"32\"]もう大丈夫だよね？ [PauseMid]だよね？"
+msgstr "[Sound1 bytes=\"0520\"]もう大丈夫だよね？ [PauseMid]だよね？"
 
 #, ruby
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"5\" unk2=\"32\"]もう大丈夫でしょ？ [PauseMid]でしょ？"
+msgstr "[Sound1 bytes=\"0520\"]もう大丈夫でしょ？ [PauseMid]でしょ？"
 
 #, ruby
 msgid "RetMSG_Firo_00_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ここで いろんな料理を試してみて[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]ここで いろんな料理を試してみて[PauseShort]\n"
 "レシピをいっぱい増やそうと思うんだー！"
 
 msgid "TerrorAnimal"
@@ -116,7 +116,7 @@ msgstr "やれやれ…"
 #, ruby
 msgid "MSG_Firo_01_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]あなたって 魚と果物の料理は得意？\n"
+"[Sound1 bytes=\"0109\"]あなたって 魚と果物の料理は得意？\n"
 "\n"
 "組み合わせを覚えるまでは\n"
 "いろいろと 微妙なことになっちゃわな～い？"
@@ -124,19 +124,19 @@ msgstr ""
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]フィローネ街道って\n"
+"[Sound1 bytes=\"0004\"]フィローネ街道って\n"
 "暖かくて 魚や果物が有名なのよね！"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]なんか 落ち込むわー[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]なんか 落ち込むわー[PauseShort]\n"
 "雨やんだら元気出ると思うけど"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]私ってよく お天気屋だねって言われるんだー[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]私ってよく お天気屋だねって言われるんだー[PauseMid]\n"
 "天気予報屋さんってわけじゃなくてさー"
 
 #, ruby
@@ -145,7 +145,7 @@ msgstr "今日の気分は…"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"32\"]もうダメかと思ったー"
+msgstr "[Sound1 bytes=\"0120\"]もうダメかと思ったー"
 
 #, ruby
 msgid "Near01"
@@ -153,7 +153,7 @@ msgstr "この気分…"
 
 #, ruby
 msgid "SavedLv2_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"32\"]なんか 悪運強いかもー！"
+msgstr "[Sound1 bytes=\"0120\"]なんか 悪運強いかもー！"
 
 #, ruby
 msgid "Near02"
@@ -162,7 +162,7 @@ msgstr "元気出さなきゃ…"
 #, ruby
 msgid "RetMSG_Firo_04_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]あれ[PauseShort] もう一回言ってほしいの？\n"
+"[Sound1 bytes=\"0506\"]あれ[PauseShort] もう一回言ってほしいの？\n"
 "\n"
 "ウオトリー村には 海沿いに遺跡があるらしい！[PauseMid]\n"
 "以上！"
@@ -177,12 +177,12 @@ msgstr "雨かよ！"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]ねえ！ [PauseShort]来るよ？ [PauseShort]逃げなきゃ！！"
+msgstr "[Sound1 bytes=\"032A\"]ねえ！ [PauseShort]来るよ？ [PauseShort]逃げなきゃ！！"
 
 #, ruby
 msgid "RetMSG_Firo_01_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]レイクサイド馬宿を さらに西に行ってみたら？\n"
+"[Sound1 bytes=\"0500\"]レイクサイド馬宿を さらに西に行ってみたら？\n"
 "\n"
 "高原の馬宿っていうのがあるんだけど[PauseShort]\n"
 "そこに行くまでに 魔物けっこういるから"
@@ -193,23 +193,23 @@ msgstr "もうヤダ…"
 #, ruby
 msgid "MSG_Firo_02_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]南の方にあるっていう [Color name=\"blue\"]ラブポンド[Color name=\"unset\"]…\n"
+"[Sound1 bytes=\"0500\"]南の方にあるっていう [Color name=\"blue\"]ラブポンド[Color name=\"unset\"]…\n"
 "\n"
 "地図で形だけは見たことあるけど[PauseShort]\n"
 "ほんとにハート型で ちょっとびっくりしたな…"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]ありがとう [PauseMid]助けてくれて…"
+msgstr "[Sound1 bytes=\"0112\"]ありがとう [PauseMid]助けてくれて…"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"18\"]強いんだね… [PauseShort]ありがと…"
+msgstr "[Sound1 bytes=\"0112\"]強いんだね… [PauseShort]ありがと…"
 
 #, ruby
 msgid "RetMSG_Firo_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]フンフフン♪[PauseMid]\n"
+"[Sound1 bytes=\"011A\"]フンフフン♪[PauseMid]\n"
 "このレイクサイド馬宿で 私…\n"
 "いろんな料理を試してみて[PauseShort]\n"
 "レシピをいっぱい増やそうと思うんだー！"
@@ -217,7 +217,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Firo_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]なあに？ [PauseShort]ヒマなの？[PauseShort]\n"
+"[Sound1 bytes=\"0506\"]なあに？ [PauseShort]ヒマなの？[PauseShort]\n"
 "レイクサイド馬宿を さらに西に行ってみたら？\n"
 "高原の馬宿っていうのがあるんだけど[PauseShort]\n"
 "そこに行くまでに 魔物けっこういるから"
@@ -225,27 +225,27 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Firo_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ヤッホー！ [PauseShort]\n"
+"[Sound1 bytes=\"0109\"]ヤッホー！ [PauseShort]\n"
 "あはは [PauseShort]なんか気分よくって！\n"
 "ここから南の方にある ラブポンドで[PauseShort]\n"
 "パートナー探しでも しようかな～！"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]魔物めー！ [PauseShort]おぼえてやがれよー！"
+msgstr "[Sound1 bytes=\"080E\"]魔物めー！ [PauseShort]おぼえてやがれよー！"
 
 #, ruby
 msgid "RetMSG_Firo_02_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ここから南の方にある ラブポンドで[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]ここから南の方にある ラブポンドで[PauseShort]\n"
 "パートナー探しでも しようかな～！"
 
 #, ruby
 msgid "RetMSG_Firo_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]ねぇ 私のことお天気屋だって思う？[PauseShort]\n"
+"[Sound1 bytes=\"0506\"]ねぇ 私のことお天気屋だって思う？[PauseShort]\n"
 "機嫌の差が激しいって思う？！[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]…そんなこと聞かれても わかんないよね[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]…そんなこと聞かれても わかんないよね[PauseShort]\n"
 "ごめん… [PauseShort]お詫びにいいこと教えてあげる！\n"
 "ウオトリー村の魚は 脂がノッてて[PauseShort]\n"
 "焼いたらもう うまいのなんのって！"

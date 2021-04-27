@@ -1,43 +1,43 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]엄마 밥 맛있어"
+msgstr "[Sound1 bytes=\"0100\"]엄마 밥 맛있어"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]유적[Color name=\"unset\"]은 어땠어?[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]유적[Color name=\"unset\"]은 어땠어?[PauseShort]\n"
 "두근두근했지?!"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]비다, 비~[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]비다, 비~[PauseMid]\n"
 "빗속을 달리면 기분 좋아~"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]오늘은 이만 잘 거야[PauseMid]\n"
+"[Sound1 bytes=\"0022\"]오늘은 이만 잘 거야[PauseMid]\n"
 "잘 자"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]저기, 그거 알아?[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]저기, 그거 알아?[PauseMid]\n"
 "[Color name=\"blue\"]야시노 비치[Color name=\"unset\"]에 재미있는 곳이 있는데!\n"
 "전에 리가니 형아랑\n"
 "같이 갔을 때 두근두근했어\n"
 "[Color name=\"red\"]유적[Color name=\"unset\"]이랬던가?[PauseMid]\n"
-"형아, 흥미 있어?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"형아, 흥미 있어?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]그럼 데려가 줄게[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]그럼 데려가 줄게[PauseMid]\n"
 "따라와!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]에에~[PauseMid] 아쉬워라"
+msgstr "[Sound1 bytes=\"0900\"]에에~[PauseMid] 아쉬워라"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]늦지 않게 따라와!"
+msgstr "[Sound1 bytes=\"0600\"]늦지 않게 따라와!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]골!"
+msgstr "[Sound1 bytes=\"0709\"]골!"
 
 msgid "Near00"
 msgstr "비다~"
@@ -59,28 +59,28 @@ msgstr "쿨~ 쿨~"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]거의 다 왔으니까\n"
+"[Sound1 bytes=\"0000\"]거의 다 왔으니까\n"
 "잘 따라와!"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]저게 [Color name=\"red\"]유적[Color name=\"unset\"]이야!"
+msgstr "[Sound1 bytes=\"0000\"]저게 [Color name=\"red\"]유적[Color name=\"unset\"]이야!"
 
 msgid "Near06"
 msgstr "밥 밥"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]그럼 안녕!"
+msgstr "[Sound1 bytes=\"0004\"]그럼 안녕!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]밥 먹을 시간이야[PauseMid]\n"
+"[Sound1 bytes=\"011A\"]밥 먹을 시간이야[PauseMid]\n"
 "서둘러 가야 해!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]쿨~ 쿨~"
+msgstr "[Sound1 bytes=\"0021\"]쿨~ 쿨~"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]리가니 형아한테 안부 전해 줘!"
+msgstr "[Sound1 bytes=\"0000\"]리가니 형아한테 안부 전해 줘!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAH8AwAAAAAAABYAAAAEAAAAYAAAAI4AAAC8AAAA6gAAABgBAABGAQAAdAEAAKIBAADQAQAA/gEAACwCAABaAgAAiAIAALYCAADkAgAAEgMAABQDAAAWAwAARAMAAHIDAACgAwAAzgMAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAA=="

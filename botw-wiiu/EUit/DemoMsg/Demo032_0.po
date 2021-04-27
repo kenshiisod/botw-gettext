@@ -40,29 +40,29 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]Riparazioni ultimate."
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Cliiic!"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Cliiic!"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]Potenziamento sensore Sheikah ultimato."
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Uhmmm...[PauseLong]\n"
+"[Sound1 bytes=\"0010\"]Uhmmm...[PauseLong]\n"
 "Un po' di fiacca...[PauseShort] ma pazienza."
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]Potenziamento stasys ultimato."
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Occheeei! [PauseShort]Grazie milleee!"
+msgstr "[Sound1 bytes=\"0709\"]Occheeei! [PauseShort]Grazie milleee!"
 
 msgid "Demo032_0_Text008"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Blocco di sicurezza della [Color name=\"blue\"]pietra guida[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0001\"]Blocco di sicurezza della [Color name=\"blue\"]pietra guida[Color name=\"unset\"]\n"
 "rimosso..."
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]E adesso...[PauseShort] a te l'onore!"
+msgstr "[Sound1 bytes=\"010B\"]E adesso...[PauseShort] a te l'onore!"
 
 msgid "Demo032_0_Text020"
 msgstr ""
@@ -83,7 +83,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Bene bene bene, ora iniziamo[PauseShort] il lavoro\n"
+"[Sound1 bytes=\"0001\"]Bene bene bene, ora iniziamo[PauseShort] il lavoro\n"
 "di riparazione della [Color name=\"blue\"]tavoletta Sheikah[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text023"
@@ -91,7 +91,7 @@ msgstr "[Animation name=\"Activate\"]È stato aggiunto uno strumento."
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Bene bene bene, ora diamo il via al\n"
+"[Sound1 bytes=\"0101\"]Bene bene bene, ora diamo il via al\n"
 "potenziamento[PauseShort] del [Color name=\"blue\"]sensore Sheikah[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text024"
@@ -101,7 +101,7 @@ msgstr ""
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Bene bene bene, ora potenzieremo[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]Bene bene bene, ora potenzieremo[PauseShort]\n"
 "le [Color name=\"blue\"]bombe radiocomandate[Color name=\"unset\"]!"
 
 msgid "Demo032_0_Text000"
@@ -109,7 +109,7 @@ msgstr "[Animation name=\"Activate\"]Tavoletta Sheikah riconosciuta."
 
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Bene bene bene, ora diamo il via al\n"
+"[Sound1 bytes=\"0101\"]Bene bene bene, ora diamo il via al\n"
 "potenziamento[PauseShort] dello [Color name=\"blue\"]stasys[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

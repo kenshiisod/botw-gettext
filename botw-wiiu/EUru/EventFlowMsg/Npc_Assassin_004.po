@@ -11,35 +11,35 @@ msgid "0004"
 msgstr "Э-э..."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]О-хо-хо...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]О-хо-хо...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "..."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]О-хо-хо...[PauseLong]\n"
-"Я хочу...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"032A\"]О-хо-хо...[PauseLong]\n"
+"Я хочу...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хочу жареной...[PauseLong] семги.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Хочу жареной...[PauseLong] семги.[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]И еще..."
+msgstr "[Sound1 bytes=\"0001\"]И еще..."
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]О-хо-хо...[PauseLong] Я все еще хочу..."
+msgstr "[Sound1 bytes=\"032A\"]О-хо-хо...[PauseLong] Я все еще хочу..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Жизнь героя![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Жизнь героя![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]О-хо-хо...[PauseLong] Больше я его\n"
+"[Sound1 bytes=\"032A\"]О-хо-хо...[PauseLong] Больше я его\n"
 "никогда не увижу..."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Это тебе за босса Когу![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Это тебе за босса Когу![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"40\"]О-хо-хо..."

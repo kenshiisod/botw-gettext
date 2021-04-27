@@ -89,14 +89,14 @@ msgstr "[Sound2 id=\"17\"]おや？ [PauseShort]材料が足りないみたい�
 #, ruby
 msgid "Talk50"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]さぁできた！[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]さぁできた！[PauseShort]\n"
 "少しは強くなったね\n"
 "[PauseShort]服を強くするとね 特別な力が宿る事があるんだ\n"
 "同じ種類の服で そろえる必要があるけどね…"
 
 #, ruby
 msgid "Talk05"
-msgstr "他の服も 強くしてやろうか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "他の服も 強くしてやろうか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk07"
@@ -149,7 +149,7 @@ msgstr "分かりました"
 msgid "Talk27"
 msgstr ""
 "[Sound2 id=\"2\"]その [02:0B name=\"Shop_SelectItemName\"]なら[PauseShort]\n"
-"強くできそうだよ！[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"強くできそうだよ！[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0005"
@@ -157,13 +157,13 @@ msgstr "結構です"
 
 #, ruby
 msgid "Talk28"
-msgstr "[Sound2 id=\"2\"][02:0B name=\"Shop_SelectItemName\"]を 強くするのかい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"][02:0B name=\"Shop_SelectItemName\"]を 強くするのかい？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk29"
 msgstr ""
 "[Sound2 id=\"2\"]強くするのは [02:0B name=\"Shop_SelectItemName\"]で[PauseShort]\n"
-"間違い無いかい？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"間違い無いかい？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk40"
@@ -217,21 +217,21 @@ msgstr "オッケー [PauseShort]選び直しておくれ"
 msgid "Talk12"
 msgstr ""
 "[Sound2 id=\"2\"]今のアタシなら アンタの服…[PauseShort]\n"
-"[Color name=\"red\"]少しだけ[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]少しだけ[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk47"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]…おや？ [PauseLong]なんだい[PauseShort]\n"
+"[Sound1 bytes=\"0613\"]…おや？ [PauseLong]なんだい[PauseShort]\n"
 "今のままだと 服を強くできなそうだよ…\n"
 "一応 確認してやろう[PauseLong]\n"
-"手持ちの服を 見せておくれ[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"手持ちの服を 見せておくれ[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk13"
 msgstr ""
 "[Sound2 id=\"2\"]今のアタシなら アンタの服…[PauseShort]\n"
-"[Color name=\"red\"]だいぶ[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]だいぶ[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk48"
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Talk14"
 msgstr ""
 "[Sound2 id=\"2\"]今のアタシなら アンタの服…[PauseShort]\n"
-"[Color name=\"red\"]かなり[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]かなり[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk49"
@@ -255,7 +255,7 @@ msgstr ""
 msgid "Talk15"
 msgstr ""
 "[Sound2 id=\"2\"]今のアタシなら アンタの服…[PauseShort]\n"
-"[Color name=\"red\"]最大まで[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]最大まで[Color name=\"unset\"] 強くしてやれそうだよ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk16"
@@ -278,7 +278,7 @@ msgstr "[Sound2 id=\"0\"]あっ ふぅ～～……"
 msgid "Talk30"
 msgstr ""
 "[Sound2 id=\"2\"]分かったよ[PauseLong]\n"
-"[02:0B name=\"Shop_SelectItemName\"]を 強くするんだね？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[02:0B name=\"Shop_SelectItemName\"]を 強くするんだね？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk31"

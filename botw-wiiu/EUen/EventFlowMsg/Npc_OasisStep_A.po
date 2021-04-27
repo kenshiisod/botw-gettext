@@ -3,7 +3,7 @@ msgstr "Looks good on you..."
 
 msgid "Talk00"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]Halt! [Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0800\"]Halt! [Size percent=\"100\"]\n"
 "\n"
 "\n"
 "Unless you have permission, you'll stay\n"
@@ -11,7 +11,7 @@ msgstr ""
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"14\"]You must be pretty special to have\n"
+"[Sound1 bytes=\"000E\"]You must be pretty special to have\n"
 "gotten permission from the [Color name=\"blue\"]chief[Color name=\"unset\"]."
 
 msgid "_ReadOnly_MsbtExtras"

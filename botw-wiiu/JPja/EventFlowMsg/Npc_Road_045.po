@@ -1,17 +1,17 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]もしかして私[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]もしかして私[PauseShort]\n"
 "魔物に好かれちゃったんですかね…"
 
 #, ruby
 msgid "MSG_Ichika_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]私ですか？ [PauseMid]人違いじゃなくて？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]私ですか？ [PauseMid]人違いじゃなくて？[PauseMid]\n"
 "\n"
 "私はただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]そういえば この地方のどこかに\n"
+"[Sound1 bytes=\"0004\"]そういえば この地方のどこかに\n"
 "とても大きな魔物がいるという話を聞きました\n"
 "どこかに とても 大きな 魔物…[PauseShort]\n"
 "大雑把すぎる この情報がすべてなんです\n"
@@ -20,34 +20,34 @@ msgstr ""
 #, ruby
 msgid "MSG_Ichika_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]はい 何でしょうか？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]はい 何でしょうか？[PauseMid]\n"
 "私 行商をしているわけではなくて…\n"
 "ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"9\"]イチカラ村[Color name=\"unset\"]で 結婚式が行われるそうですよ[PauseLong]\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0109\"]イチカラ村[Color name=\"unset\"]で 結婚式が行われるそうですよ[PauseLong]\n"
 "列席者の中に素敵なボーイ… [PauseShort]いますように"
 
 #, ruby
 msgid "RetMSG_Ichika_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ご存知ですか オクタロック…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]ご存知ですか オクタロック…[PauseMid]\n"
 "タコのくせに 水に落ちると溺れ死ぬんです\n"
 "水オクタだけは さすがに溺れませんけどね"
 
 #, ruby
 msgid "MSG_Ichika_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]この地域のどこかにいる「[Color name=\"red\"]大妖精様[Color name=\"unset\"]」に会うと[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]この地域のどこかにいる「[Color name=\"red\"]大妖精様[Color name=\"unset\"]」に会うと[PauseShort]\n"
 "幸せになれるというお話… [PauseShort]本当かしら？"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]私の感謝の気持ち お受け取りください！"
+msgstr "[Sound1 bytes=\"010B\"]私の感謝の気持ち お受け取りください！"
 
 #, ruby
 msgid "RetMSG_Ichika_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]ところで [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]の結婚式って[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]ところで [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]の結婚式って[PauseShort]\n"
 "いつ頃なんでしょうね？\n"
 "出会いのチャンスがありそうで\n"
 "今から楽しみなんですけど…"
@@ -55,71 +55,71 @@ msgstr ""
 #, ruby
 msgid "MSG_Ichika_04_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"][Color name=\"blue\"]イチカラ村[Color name=\"unset\"]で 結婚式が行われるそうですよ[PauseLong]\n"
+"[Sound1 bytes=\"0109\"][Color name=\"blue\"]イチカラ村[Color name=\"unset\"]で 結婚式が行われるそうですよ[PauseLong]\n"
 "列席者の中に素敵なボーイ… [PauseShort]いますように"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]はぁ…[PauseShort] はぁ…[PauseMid]\n"
+"[Sound1 bytes=\"032A\"]はぁ…[PauseShort] はぁ…[PauseMid]\n"
 "落ち着くのよ 私…"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]どうしましょ 困ったわ…[PauseShort]\n"
+"[Sound1 bytes=\"032A\"]どうしましょ 困ったわ…[PauseShort]\n"
 "いくら魔物が好きな私でも この状況は…"
 
 #, ruby
 msgid "RetMSG_Ichika_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ハイラル城に眠るといわれる宝物より[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ハイラル城に眠るといわれる宝物より[PauseShort]\n"
 "城で目覚めている魔物を想像するのが好きで…\n"
 "思わず私 ゾクゾクしちゃいます！"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]助かりましたわ！"
+msgstr "[Sound1 bytes=\"070B\"]助かりましたわ！"
 
 #, ruby
 msgid "MSG_Ichika_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]スタルヒノックスは 大きくて不気味で\n"
+"[Sound1 bytes=\"0004\"]スタルヒノックスは 大きくて不気味で\n"
 "自分の骨を投げてくるところが 素敵です！\n"
 "魔物の好きな男性と一晩中[PauseShort]\n"
 "スタルヒノックスのお話をしたいです"
 
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"5\" unk2=\"18\"]あなたがいなければ どうなってたか…"
+msgstr "[Sound1 bytes=\"0512\"]あなたがいなければ どうなってたか…"
 
 #, ruby
 msgid "RetMSG_Ichika_00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"21\"]あっ びっくりした…[PauseMid]\n"
+"[Sound1 bytes=\"0415\"]あっ びっくりした…[PauseMid]\n"
 "何でしょうか？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私 ただの旅人ですよ…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]私 ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ご存知ですか オクタロック…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]ご存知ですか オクタロック…[PauseMid]\n"
 "タコのくせに 水に落ちると溺れ死ぬんです\n"
 "水オクタだけは さすがに溺れませんけどね"
 
 #, ruby
 msgid "RetMSG_Ichika_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]はい？ [PauseMid]私ですか？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]はい？ [PauseMid]私ですか？[PauseMid]\n"
 "\n"
 "私 ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ここも魔物がけっこういて 魅力的な土地ですが[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]ここも魔物がけっこういて 魅力的な土地ですが[PauseMid]\n"
 "ハイラル城の魅力には かないませんね\n"
 "城に眠ってるといわれる宝物より[PauseShort]\n"
 "城で目覚めている魔物を想像してしまいます\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]そして私 ゾクゾクしちゃいます！"
+"[Sound1 bytes=\"0109\"]そして私 ゾクゾクしちゃいます！"
 
 #, ruby
 msgid "RetMSG_Ichika_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]あのですね…[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]あのですね…[PauseMid]\n"
 "声かけてくれるのは うれしいんですけど\n"
 "私 何のとりえもない ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
@@ -127,23 +127,23 @@ msgstr ""
 "かなり大きな魔物が出るって聞いただけで…[PauseMid]\n"
 "震えが止まりません！\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]もちろん 楽しみすぎてです！"
+"[Sound1 bytes=\"0109\"]もちろん 楽しみすぎてです！"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]私の楽しみは とても平凡で[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]私の楽しみは とても平凡で[PauseShort]\n"
 "未来の旦那様を想像して ワクワクすることと…\n"
 "魔物の姿を想像して ゾクゾクすることです"
 
 #, ruby
 msgid "RetMSG_Ichika_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]えっと… [PauseMid]何でしょうか？\n"
+"[Sound1 bytes=\"0006\"]えっと… [PauseMid]何でしょうか？\n"
 "\n"
 "私 何のとりえもない ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]いま私 [Color name=\"red\"]大妖精様[Color name=\"unset\"]のウワサが気になっていて…\n"
+"[Sound1 bytes=\"0004\"]いま私 [Color name=\"red\"]大妖精様[Color name=\"unset\"]のウワサが気になっていて…\n"
 "\n"
 "一目見れば幸せになれるって聞きましたし[PauseMid]\n"
 "それに 服を豪華にしてくれるそうです！"
@@ -151,25 +151,25 @@ msgstr ""
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]雨は嫌いでもないかな…[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]雨は嫌いでもないかな…[PauseMid]\n"
 "何か突然の出会いがありそうで"
 
 #, ruby
 msgid "RetMSG_Ichika_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]なんで 私なんかに声を？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]なんで 私なんかに声を？[PauseMid]\n"
 "\n"
 "私 ただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
 "楽しみも平凡で 魔物をいろいろ想像することや[PauseShort]\n"
 "自分の未来の旦那様を想像すること…\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]そういえば [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]の結婚式も楽しみ！[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]そういえば [Color name=\"blue\"]イチカラ村[Color name=\"unset\"]の結婚式も楽しみ！[PauseMid]\n"
 "列席者の中に きっと素敵な人がいそうですし！"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]雨宿りって 嫌いじゃないんですよね[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]雨宿りって 嫌いじゃないんですよね[PauseMid]\n"
 "なぜかっていうと…\n"
 "飛び込んできた素敵な人が\n"
 "自然に声かけてくれることがあるから！"
@@ -181,7 +181,7 @@ msgstr "朝は好き…"
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]本当に助かりましたわ！[PauseMid]\n"
+"[Sound1 bytes=\"070B\"]本当に助かりましたわ！[PauseMid]\n"
 "これはこれで 旅の出会いですね！"
 
 msgid "Near01"
@@ -190,7 +190,7 @@ msgstr "デートしたいな…"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]本当にありがとうございました！[PauseMid]\n"
+"[Sound1 bytes=\"070B\"]本当にありがとうございました！[PauseMid]\n"
 "あなたがいてくれて 幸運でしたわ！"
 
 #, ruby
@@ -208,34 +208,34 @@ msgstr "ひどい天気[Size percent=\"80\"]・・・[Size percent=\"100\"]"
 #, ruby
 msgid "RetMSG_Ichika_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ここから [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]に行く間に\n"
+"[Sound1 bytes=\"0004\"]ここから [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]に行く間に\n"
 "かなり大きな魔物が出るって聞いただけで…\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]楽しみ過ぎて 震えが止まりません！"
+"[Sound1 bytes=\"0109\"]楽しみ過ぎて 震えが止まりません！"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"31\"]ヒィー！ [Color name=\"blue\"][PauseShort]ガーディアン[Color name=\"unset\"]！[PauseShort] 逃げなきゃ！"
+msgstr "[Sound1 bytes=\"041F\"]ヒィー！ [Color name=\"blue\"][PauseShort]ガーディアン[Color name=\"unset\"]！[PauseShort] 逃げなきゃ！"
 
 #, ruby
 msgid "MSG_Ichika_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]北に向かえば [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]ですけど[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]北に向かえば [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]ですけど[PauseShort]\n"
 "その道中に屈強な魔物がいるそうですよ"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"5\" unk2=\"18\"]今日で 旅が終わってしまうところでした…"
+msgstr "[Sound1 bytes=\"0512\"]今日で 旅が終わってしまうところでした…"
 
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"18\"]魔物を間近で見られて 興奮しましたけど…[PauseShort]\n"
+"[Sound1 bytes=\"0512\"]魔物を間近で見られて 興奮しましたけど…[PauseShort]\n"
 "でもよかった 助けていただけて…"
 
 #, ruby
 msgid "RetMSG_Ichika_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]いま私 [Color name=\"red\"]大妖精様[Color name=\"unset\"]のウワサが気になっていて…\n"
+"[Sound1 bytes=\"0004\"]いま私 [Color name=\"red\"]大妖精様[Color name=\"unset\"]のウワサが気になっていて…\n"
 "\n"
 "一目見れば幸せになれるって聞きましたし[PauseMid]\n"
 "それに 服を豪華にしてくれるそうです！"
@@ -243,22 +243,22 @@ msgstr ""
 #, ruby
 msgid "MSG_Ichika_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]私に 何か用でしょうか？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]私に 何か用でしょうか？[PauseMid]\n"
 "\n"
 "私はただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"25\"]この地域のどこかにいる[Color name=\"red\"]大妖精様[Color name=\"unset\"]に会うと\n"
+"[Sound1 bytes=\"0019\"]この地域のどこかにいる[Color name=\"red\"]大妖精様[Color name=\"unset\"]に会うと\n"
 "幸せになれるというお話ですけど…\n"
 "本当かしら？"
 
 #, ruby
 msgid "MSG_Ichika_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]私に 何か用でしょうか？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]私に 何か用でしょうか？[PauseMid]\n"
 "\n"
 "私はただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]スタルヒノックスは 大きくて不気味で\n"
+"[Sound1 bytes=\"0004\"]スタルヒノックスは 大きくて不気味で\n"
 "自分の骨を投げてくるところが 素敵です！\n"
 "魔物の好きな男性と一晩中[PauseShort]\n"
 "スタルヒノックスのお話をしたいです"
@@ -266,23 +266,23 @@ msgstr ""
 #, ruby
 msgid "MSG_Ichika_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]この地方のどこかに\n"
+"[Sound1 bytes=\"0004\"]この地方のどこかに\n"
 "とても大きな魔物がいるという話を聞きました"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あぶなく 命を落とす所でしたわ！[PauseMid]\n"
+"[Sound1 bytes=\"030C\"]あぶなく 命を落とす所でしたわ！[PauseMid]\n"
 "まだ結婚前ですのに…"
 
 #, ruby
 msgid "MSG_Ichika_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]え？ 私に何か？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]え？ 私に何か？[PauseMid]\n"
 "\n"
 "私はただの旅人ですよ…[PauseMid]\n"
 "恋人募集中で魔物好きの ただの旅人です！\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]北に向かえば [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]ですけど\n"
+"[Sound1 bytes=\"0004\"]北に向かえば [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]ですけど\n"
 "その道中には とても強い魔物がいるそうです\n"
 "なんだか ゾクゾクします！"
 

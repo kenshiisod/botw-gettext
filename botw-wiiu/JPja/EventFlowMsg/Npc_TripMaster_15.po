@@ -22,7 +22,7 @@ msgstr "ハチはニガテデース！"
 
 #, ruby
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]ヤァ！ あなた マタお会いシマシタネー！"
+msgstr "[Sound1 bytes=\"0102\"]ヤァ！ あなた マタお会いシマシタネー！"
 
 #, ruby
 msgid "TerrorAnimal"
@@ -30,7 +30,7 @@ msgstr "来ナイデクダサーイ！"
 
 #, ruby
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomHot\"]メチャ暑いデース……"
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomHot\"]メチャ暑いデース……"
 
 msgid "TerrorBomb"
 msgstr "ワォ！"
@@ -41,7 +41,7 @@ msgstr "[Sound2 id=\"16\"]コワカッタデース…"
 #, ruby
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]気ヲ抜クト 死ンデシマイソウナ暑さデスガ\n"
+"[Sound1 bytes=\"0001\"]気ヲ抜クト 死ンデシマイソウナ暑さデスガ\n"
 "死ナナイ程度ニ がんばりマース！"
 
 msgid "TerrorArrow"

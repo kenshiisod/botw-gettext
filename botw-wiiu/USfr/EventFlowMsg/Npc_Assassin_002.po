@@ -5,58 +5,58 @@ msgid "0009"
 msgstr "T'es qui, déjà?"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Prépare-toi à mourir![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Prépare-toi à mourir![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger [C9:00 bytes=\"01000000\"]le grand Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger [C9:00 bytes=\"01000000\"]le grand Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Hé, le beau jeune homme, là![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]Hé, le beau jeune homme, là![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Ouaaah![PauseMid] Ce que tu es craquaaant!"
+msgstr "[Sound1 bytes=\"0709\"]Ouaaah![PauseMid] Ce que tu es craquaaant!"
 
 msgid "TerrorArrow"
 msgstr "Hiii!!!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Hé, diiis![PauseMid] Écoute-moiii!"
+msgstr "[Sound1 bytes=\"0002\"]Hé, diiis![PauseMid] Écoute-moiii!"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]Youhouuu!!!"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Tu[PauseShort] voudrais[PauseShort] pas[PauseShort] qu'on...\n"
+"[Sound1 bytes=\"0B01\"]Tu[PauseShort] voudrais[PauseShort] pas[PauseShort] qu'on...\n"
 "\n"
 "\n"
-"...[PauseLong] s'amuse[PauseShort] un peu[PauseShort], [Size percent=\"125\"]tous[PauseShort] les[PauseShort] deux[PauseShort][Size percent=\"100\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"...[PauseLong] s'amuse[PauseShort] un peu[PauseShort], [Size percent=\"125\"]tous[PauseShort] les[PauseShort] deux[PauseShort][Size percent=\"100\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Oui?"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Alors...[PauseShort] ferme les yeux.[PauseLong]\n"
-"Ferme les yeux, tu veux bien?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]Alors...[PauseShort] ferme les yeux.[PauseLong]\n"
+"Ferme les yeux, tu veux bien?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Hein? Mais pourquoi? Pourquoi?\n"
+"[Sound1 bytes=\"030C\"]Hein? Mais pourquoi? Pourquoi?\n"
 "Pourquoi?![PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]Oh... [PauseShort]Tu...[PauseShort] Tu ne...[PauseShort] m'aimes pas,[PauseShort] c'est\n"
-"ça? Allez, s'il te plaît, ferme les yeux![Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B01\"]Oh... [PauseShort]Tu...[PauseShort] Tu ne...[PauseShort] m'aimes pas,[PauseShort] c'est\n"
+"ça? Allez, s'il te plaît, ferme les yeux![Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "D'accord."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Hihi! Tu les fermes bien, hein?[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]Hihi! Tu les fermes bien, hein?[PauseShort]\n"
 "Tu ne triches pas!!![PauseLong] Alors...[PauseMid] mon\n"
 "cher Prodige Hylien..."
 
@@ -65,7 +65,7 @@ msgstr "Pas question!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Ah bon...?[PauseLong] Dans ce cas-là...[PauseMid]\n"
+"[Sound1 bytes=\"030D\"]Ah bon...?[PauseLong] Dans ce cas-là...[PauseMid]\n"
 "Dommage, Prodige Hylien..."
 
 msgid "0004"
@@ -73,15 +73,15 @@ msgstr "D'accord."
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Tu[PauseShort] te[PauseShort] souviens[PauseShort] de moi?[PauseMid]\n"
-"Tu te souviens?[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Tu[PauseShort] te[PauseShort] souviens[PauseShort] de moi?[PauseMid]\n"
+"Tu te souviens?[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "J'ai pas envie..."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Tu as une bonne mémoire...[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]Tu as une bonne mémoire...[PauseMid]\n"
 "Prodige Hylien..."
 
 msgid "0006"

@@ -1,14 +1,14 @@
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Sarqsarq, waarlijk... Link, ik zal je nooit\n"
+"[Sound1 bytes=\"0104\"]Sarqsarq, waarlijk... Link, ik zal je nooit\n"
 "vergeten."
 
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Sarqsarq, waarlijk. Nu is de ziekte\n"
+"[Sound1 bytes=\"0104\"]Sarqsarq, waarlijk. Nu is de ziekte\n"
 "genezen![PageBreak]En nu moet ik me echt voorbereiden op\n"
 "de terugreis.[PageBreak]Lieve Hyliaanse meid... ik heb je nog niet\n"
-"gevraagd hoe je heet, hè?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"gevraagd hoe je heet, hè?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Link."
@@ -18,13 +18,13 @@ msgstr "Dat is niet belangrijk."
 
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Zo bescheiden. Dat zie je niet bij\n"
+"[Sound1 bytes=\"0004\"]Zo bescheiden. Dat zie je niet bij\n"
 "Gerudo's...[PageBreak]Als ik ooit een kind krijg, voed ik het op\n"
 "om zo te worden als jij."
 
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Link? Hmm... Dat klinkt meer als een\n"
+"[Sound1 bytes=\"0004\"]Link? Hmm... Dat klinkt meer als een\n"
 "jongensnaam...[PageBreak]Als ik ooit een kind krijg, zal ik het naar\n"
 "jou vernoemen."
 

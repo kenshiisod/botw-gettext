@@ -1,24 +1,24 @@
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]哎呀呀，下雨啦！"
+msgstr "[Sound1 bytes=\"0000\"]哎呀呀，下雨啦！"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]這麼晚真是辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]這麼晚真是辛苦了。"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]歡迎你來。"
+msgstr "[Sound1 bytes=\"0000\"]歡迎你來。"
 
 msgid "0002"
 msgstr "到早上"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]這裡是利特的旅館[Color name=\"blue\"]燕巢[Color name=\"unset\"]。"
+msgstr "[Sound1 bytes=\"0001\"]這裡是利特的旅館[Color name=\"blue\"]燕巢[Color name=\"unset\"]。"
 
 msgid "0003"
 msgstr "到中午"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]到了早上我會來叫你，[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]到了早上我會來叫你，[PauseLong]\n"
 "請好好休息到那時吧。"
 
 msgid "0004"
@@ -26,7 +26,7 @@ msgstr "到晚上"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]到了中午我會來叫你，[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]到了中午我會來叫你，[PauseLong]\n"
 "請好好休息到那時吧。"
 
 msgid "0005"
@@ -34,7 +34,7 @@ msgstr "還是算了"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]到了晚上我會來叫你，[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]到了晚上我會來叫你，[PauseLong]\n"
 "請好好休息到那時吧。"
 
 msgid "0006"
@@ -42,7 +42,7 @@ msgstr "一般的床"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]早安，[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]早安，[PauseShort]\n"
 "利特的羽毛床睡起來很舒服吧？"
 
 msgid "0007"
@@ -50,12 +50,12 @@ msgstr "利特的羽毛床"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]一般的床是[Color name=\"red\"]20盧比[Color name=\"unset\"]。[PauseShort]\n"
-"利特的羽毛床是[Color name=\"red\"]80盧比[Color name=\"unset\"]喔。[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0001\"]一般的床是[Color name=\"red\"]20盧比[Color name=\"unset\"]。[PauseShort]\n"
+"利特的羽毛床是[Color name=\"red\"]80盧比[Color name=\"unset\"]喔。[Choice4 label1=\"6\" label2=\"7\" label3=\"8\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]利特的羽毛床怎麼樣？[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]利特的羽毛床怎麼樣？[PauseLong]\n"
 "睡得很熟吧？"
 
 msgid "near00"
@@ -66,50 +66,50 @@ msgstr "利特的羽毛床？"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]知道了。[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]知道了。[PauseShort]\n"
 "累了歡迎隨時再來。"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]已經晚上囉，[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]已經晚上囉，[PauseLong]\n"
 "利特的羽毛床會讓人想一直睡下去吧？"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"8\"]嗯？[PauseShort]盧比似乎不夠呢。\n"
+"[Sound1 bytes=\"0B08\"]嗯？[PauseShort]盧比似乎不夠呢。\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]等賺到足夠盧比再來吧。"
+"[Sound1 bytes=\"0001\"]等賺到足夠盧比再來吧。"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]要睡到什麼時候？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]要睡到什麼時候？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]利特的羽毛床是用我們利特族的[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]利特的羽毛床是用我們利特族的[PauseShort]\n"
 "絨毛製成的鬆軟床鋪喔。\n"
 "一般驛站的床鋪[PauseShort]\n"
 "根本沒辦法拿來跟我們比。\n"
-"[Sound1 unk1=\"7\" unk2=\"9\"]早上起來絕對精神百倍！[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]早上起來絕對精神百倍！[PauseLong]\n"
 "一定要試試啊。"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]路上請小心。"
+msgstr "[Sound1 bytes=\"0000\"]路上請小心。"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]早安，[PauseShort]睡得好嗎？"
+msgstr "[Sound1 bytes=\"0001\"]早安，[PauseShort]睡得好嗎？"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]你好，[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]你好，[PauseLong]\n"
 "太陽都曬屁股囉。"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]睡得好嗎？[PauseShort]會在晚上起床，\n"
+"[Sound1 bytes=\"0001\"]睡得好嗎？[PauseShort]會在晚上起床，\n"
 "想必是有什麼理由吧……"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]在這種天氣過來，真是辛苦了。"
+msgstr "[Sound1 bytes=\"0000\"]在這種天氣過來，真是辛苦了。"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAHOAwAAAAAAABwAAAAEAAAAeAAAAKAAAACiAAAApAAAAKYAAACoAAAAqgAAAKwAAACuAAAA1gAAAP4AAAAmAQAATgEAAHYBAACeAQAAxgEAAO4BAAAWAgAAPgIAAGYCAACOAgAAtgIAAN4CAAAGAwAALgMAAFYDAAB+AwAApgMAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADIAMAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAyADAAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMgAwAAAAAAAA"

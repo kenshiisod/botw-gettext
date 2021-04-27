@@ -20,13 +20,13 @@ msgid "TerrorInsect"
 msgstr "Wah, Bienen!"
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Oh![PauseShort] Da sind Sie ja wieder!"
+msgstr "[Sound1 bytes=\"0102\"]Oh![PauseShort] Da sind Sie ja wieder!"
 
 msgid "TerrorAnimal"
 msgstr "Fort von mir!"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomHot\"]Diese wahnsinnige Hitze..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomHot\"]Diese wahnsinnige Hitze..."
 
 msgid "TerrorBomb"
 msgstr "Wah!"
@@ -36,7 +36,7 @@ msgstr "[Sound2 id=\"16\"]Gerettet..."
 
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Wenn ich nicht aufpasse, bringt mich\n"
+"[Sound1 bytes=\"0001\"]Wenn ich nicht aufpasse, bringt mich\n"
 "diese Hitze noch um, aber ich lasse mich\n"
 "nicht aufhalten!"
 

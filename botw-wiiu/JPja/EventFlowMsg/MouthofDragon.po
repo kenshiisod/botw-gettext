@@ -15,9 +15,9 @@ msgstr "試練が眠る…"
 #, ruby
 msgid "Text005"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]深淵の森 というのは ここから北にある\n"
+"[Sound1 bytes=\"0B00\"]深淵の森 というのは ここから北にある\n"
 "[Color name=\"blue\"]樹海ダムゼル[Color name=\"unset\"]のことだと思いますが…[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]この辺りで 大蛇はおろか 蛇も見たこと\n"
+"[Sound1 bytes=\"0001\"]この辺りで 大蛇はおろか 蛇も見たこと\n"
 "ありません[PauseMid] ましてや龍など…\n"
 "きっと 私には思いもよらない\n"
 "秘密が隠されているのでしょうね\n"
@@ -26,14 +26,14 @@ msgstr ""
 #, ruby
 msgid "Text006"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"8\"]すでに 謎を解かれているのですね……[PauseMid][PageBreak][Sound1 unk1=\"5\" unk2=\"1\"]さすがというより……[PauseMid]\n"
+"[Sound1 bytes=\"0A08\"]すでに 謎を解かれているのですね……[PauseMid][PageBreak][Sound1 bytes=\"0501\"]さすがというより……[PauseMid]\n"
 "もはや 空恐ろしささえ 感じてしまいます\n"
-"[Sound1 unk1=\"3\" unk2=\"13\"]どうか あなたの旅路に\n"
+"[Sound1 bytes=\"030D\"]どうか あなたの旅路に\n"
 "災いが 起こりませんように……[PauseMid]"
 
 #, ruby
 msgid "Text007"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]おや？ こんな深い森の中に 旅の方とは…[PauseMid]"
+msgstr "[Sound1 bytes=\"0B06\"]おや？ こんな深い森の中に 旅の方とは…[PauseMid]"
 
 #, ruby
 msgid "Npc_Musician_002_R_Near0"

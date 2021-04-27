@@ -1,12 +1,12 @@
 msgid "Npc_ZoraB001_M_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]おーい！[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0003\"]おーい！[Pause frames=\"20\"]\n"
 "こっちだ こっち！"
 
 #, ruby
 msgid "Npc_Zora028_R_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]それでは [Color name=\"red\"]シド王子[Color name=\"unset\"]を…[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]それでは [Color name=\"red\"]シド王子[Color name=\"unset\"]を…[PauseShort]\n"
 "お願いしますね"
 
 #, ruby
@@ -20,18 +20,18 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Zora028_R_007"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]あっ！ そこの人！"
+msgstr "[Sound1 bytes=\"0413\"]あっ！ そこの人！"
 
 msgid "Npc_ZoraB001_M_005"
-msgstr "[Sound1 unk1=\"0\" unk2=\"20\"][Size percent=\"125\"]おおッ！[Size percent=\"100\"][Pause frames=\"20\"][Size percent=\"125\"] リンクッ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0014\"][Size percent=\"125\"]おおッ！[Size percent=\"100\"][Pause frames=\"20\"][Size percent=\"125\"] リンクッ！[Size percent=\"100\"]"
 
 msgid "Npc_Zora028_R_008"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]こっち！ こっちー！"
+msgstr "[Sound1 bytes=\"0103\"]こっち！ こっちー！"
 
 #, ruby
 msgid "Npc_ZoraB001_M_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そろそろ 里まで半分のところまで来たゾ！\n"
+"[Sound1 bytes=\"0000\"]そろそろ 里まで半分のところまで来たゾ！\n"
 "\n"
 "この先に 少し魔物が多い場所があるが[PauseShort]\n"
 "きっと大丈夫だろう！\n"
@@ -40,22 +40,22 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora028_R_009"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ですから お願いします[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]ですから お願いします[PauseMid]\n"
 "[Color name=\"red\"]シド王子[Color name=\"unset\"]の元へ… 行っていただけないかしら\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]あと もし[Color name=\"red\"]シド王子[Color name=\"unset\"]と会っても[PauseMid]\n"
+"[Sound1 bytes=\"0501\"]あと もし[Color name=\"red\"]シド王子[Color name=\"unset\"]と会っても[PauseMid]\n"
 "私が水遊びしてたって 言わないでくださいね"
 
 #, ruby
 msgid "Npc_ZoraB001_M_007"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"80\"]おーい！[Pause frames=\"20\"] リンク！[Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0003\"][Size percent=\"80\"]おーい！[Pause frames=\"20\"] リンク！[Size percent=\"100\"]\n"
 "\n"
 "[Size percent=\"80\"]下だッ！[Pause frames=\"10\"] こっちだー！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_M_008"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]かなり遠いな！[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0000\"]かなり遠いな！[Pause frames=\"20\"]\n"
 "でも 必ずこの橋を通ると思って待っていた！\n"
 "もうすぐで [Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]に着く！[PageBreak]オレも 先に行って待っているからな[Pause frames=\"20\"]\n"
 "里で会おうッ！"
@@ -67,16 +67,16 @@ msgstr ""
 "気を付けるんだッ！"
 
 msgid "Npc_ZoraB001_F_001"
-msgstr "[Sound1 unk1=\"1\" unk2=\"20\"][Size percent=\"125\"]おおッ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0114\"][Size percent=\"125\"]おおッ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_F_002"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"10\"]待っていたゾ リンク！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"010A\"]待っていたゾ リンク！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_F_003"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ようこそ！[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0101\"]ようこそ！[Pause frames=\"20\"]\n"
 "我が[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]へ！\n"
 "さあ キングに紹介しよう！[Pause frames=\"20\"]\n"
 "こちらに来てくれ！"
@@ -84,27 +84,27 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora001_R_001"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"4\"]私は ゾーラ族のタッカと申す者！\n"
+"[Sound1 bytes=\"0404\"]私は ゾーラ族のタッカと申す者！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]おぬし ハイリア人ではないか？\n"
+"[Sound1 bytes=\"0B01\"]おぬし ハイリア人ではないか？\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"][Size percent=\"125\"]ハイリア人だろう？[PageBreak][Size percent=\"100\"][Sound1 unk1=\"7\" unk2=\"10\"][Size percent=\"125\"]いや 間違いなく ハイリア人である！[PageBreak][Size percent=\"100\"][Sound1 unk1=\"4\" unk2=\"1\"]実は今 ゾーラ族の王子…[PauseShort]\n"
+"[Sound1 bytes=\"0506\"][Size percent=\"125\"]ハイリア人だろう？[PageBreak][Size percent=\"100\"][Sound1 bytes=\"070A\"][Size percent=\"125\"]いや 間違いなく ハイリア人である！[PageBreak][Size percent=\"100\"][Sound1 bytes=\"0401\"]実は今 ゾーラ族の王子…[PauseShort]\n"
 "[Color name=\"red\"]シド様[Color name=\"unset\"]が 訳あってハイリア人を 探しておられる\n"
 "今は何も聞かず [Color name=\"red\"]シド王子[Color name=\"unset\"]のおわす [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に\n"
 "会いに行ってもらえぬだろうか？\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]無理にとは言わん\n"
+"[Sound1 bytes=\"0101\"]無理にとは言わん\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"][Size percent=\"80\"]…いや 無理にでも行って欲しいな[Size percent=\"100\"]"
+"[Sound1 bytes=\"0B10\"][Size percent=\"80\"]…いや 無理にでも行って欲しいな[Size percent=\"100\"]"
 
 msgid "Npc_ZoraB001_F_004"
-msgstr "[Sound1 unk1=\"4\" unk2=\"22\"][Size percent=\"125\"]おぉッ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0416\"][Size percent=\"125\"]おぉッ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora001_R_002"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"2\"]やぁ！ [PauseLong]ハイリア人！[Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0102\"]やぁ！ [PauseLong]ハイリア人！[Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]お主を猛者と見込んで[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]お主を猛者と見込んで[PauseShort]\n"
 "お頼み申し上げる\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に[Color name=\"red\"]シド王子[Color name=\"unset\"]が おられるので[PauseShort]\n"
 "会いに行ってはくれぬか！"
@@ -118,7 +118,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora001_R_003"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"red\"]シド王子[Color name=\"unset\"]のおられる [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]は 向こう！\n"
+"[Sound1 bytes=\"0104\"][Color name=\"red\"]シド王子[Color name=\"unset\"]のおられる [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]は 向こう！\n"
 "\n"
 "ここから東の[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流\n"
 "あの塔の近くである！"
@@ -130,34 +130,34 @@ msgstr "ハイリア人！[PauseLong] 頼んだぞ！"
 #, ruby
 msgid "Npc_Zora029_R_001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]うゎおっ！ [PauseShort]ビックリした！[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"][Size percent=\"100\"]おほんッ 失礼！[PauseLong]\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]うゎおっ！ [PauseShort]ビックリした！[PageBreak][Sound1 bytes=\"0004\"][Size percent=\"100\"]おほんッ 失礼！[PauseLong]\n"
 "小生はゾーラ族の ノールという者だ\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]貴殿は旅の方と お見受けしたが[PauseShort]\n"
+"[Sound1 bytes=\"0506\"]貴殿は旅の方と お見受けしたが[PauseShort]\n"
 "なぜ こんなところに…？[Choice1 label=\"18\"]"
 
 #, ruby
 msgid "Npc_Zora001_R_005"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]おおっ！ お主！"
+msgstr "[Sound1 bytes=\"0413\"]おおっ！ お主！"
 
 msgid "Npc_Lanayru003_R_Near"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]こっちこっち～"
+msgstr "[Sound1 bytes=\"0003\"]こっちこっち～"
 
 #, ruby
 msgid "Npc_Zora029_R_002"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]ふぉ ふぉっ？！[Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]ふぉ ふぉっ？！[Size percent=\"100\"]\n"
 "\n"
 "今 小生を押そうとした？ [PauseShort]してない？！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"18\"]…まあよい"
+"[Sound1 bytes=\"0012\"]…まあよい"
 
 msgid "Npc_Zora001_R_006"
-msgstr "[Sound1 unk1=\"4\" unk2=\"3\"]ここ！ ここである！"
+msgstr "[Sound1 bytes=\"0403\"]ここ！ ここである！"
 
 #, ruby
 msgid "Npc_Zora029_R_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"][Color name=\"red\"]シド王子[Color name=\"unset\"] [PauseLong]見つけましたー！\n"
+"[Sound1 bytes=\"0003\"][Size percent=\"125\"][Color name=\"red\"]シド王子[Color name=\"unset\"] [PauseLong]見つけましたー！\n"
 "\n"
 "ハイリア人が ここにおりますー！[Size percent=\"100\"]\n"
 "\n"
@@ -167,30 +167,30 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Zora001_R_007"
-msgstr "[Sound1 unk1=\"4\" unk2=\"22\"][Size percent=\"125\"]おおっ！[PageBreak][Sound1 unk1=\"4\" unk2=\"1\"]お初にお目にかかる！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0416\"][Size percent=\"125\"]おおっ！[PageBreak][Sound1 bytes=\"0401\"]お初にお目にかかる！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora029_R_004"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"3\"][Size percent=\"125\"][Color name=\"red\"]シド王子[Color name=\"unset\"] [PauseLong]ハイリア人ですー！\n"
+"[Sound1 bytes=\"0A03\"][Size percent=\"125\"][Color name=\"red\"]シド王子[Color name=\"unset\"] [PauseLong]ハイリア人ですー！\n"
 "\n"
 "ノールも ここにおりますよー！\n"
 "\n"
-"[Sound1 unk1=\"3\" unk2=\"3\"]た… [PauseShort]助けてくだされー！[Size percent=\"100\"]"
+"[Sound1 bytes=\"0303\"]た… [PauseShort]助けてくだされー！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora001_R_008"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"4\"]決めた！\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0704\"]決めた！\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]無理にでも行ってくれ！[Size percent=\"100\"]"
+"[Sound1 bytes=\"010B\"]無理にでも行ってくれ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora029_R_005"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"44\"]ふぉっ… [PauseShort] 鋭い！[PauseLong]\n"
+"[Sound1 bytes=\"0A2C\"]ふぉっ… [PauseShort] 鋭い！[PauseLong]\n"
 "鋭過ぎる質問でございますな！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]実は小生… [PauseShort]里の[Color name=\"red\"]シド王子[Color name=\"unset\"]と一緒に とある事情で[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]実は小生… [PauseShort]里の[Color name=\"red\"]シド王子[Color name=\"unset\"]と一緒に とある事情で[PauseShort]\n"
 "ハイリア人を 探しておったのですが\n"
 "うっかり昼寝してしまい [PauseShort]すごい音と振動で\n"
 "起こされたと思ったら こんな所に…\n"
@@ -198,16 +198,16 @@ msgstr ""
 "どうしたものか 思案していた次第…\n"
 "なんとか この下の橋におられる [Color name=\"red\"]シド王子[Color name=\"unset\"]に[PauseShort]\n"
 "気づいてもらいたいのだが…\n"
-"[Sound1 unk1=\"10\" unk2=\"20\"]…と言うか 貴殿！ [PauseLong]ハイリア人では？！\n"
+"[Sound1 bytes=\"0A14\"]…と言うか 貴殿！ [PauseLong]ハイリア人では？！\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"11\"]なんと！ [PauseShort]これは幸い！"
+"[Sound1 bytes=\"070B\"]なんと！ [PauseShort]これは幸い！"
 
 #, ruby
 msgid "Npc_Zora029_R_006"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]う～む… [PauseShort]やはり [Color name=\"red\"]シド王子[Color name=\"unset\"]は[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]う～む… [PauseShort]やはり [Color name=\"red\"]シド王子[Color name=\"unset\"]は[PauseShort]\n"
 "小生の事に 気づいておられない様子…\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]こうなったら 思い切って[PauseShort]\n"
+"[Sound1 bytes=\"0B01\"]こうなったら 思い切って[PauseShort]\n"
 "下の川に 飛び込んでみるべきか？\n"
 "そうすれば [Color name=\"red\"]シド王子[Color name=\"unset\"]の元に行ける…\n"
 "\n"
@@ -215,63 +215,63 @@ msgstr ""
 "\n"
 "……\n"
 "\n"
-"[Sound1 unk1=\"10\" unk2=\"22\"]イヤ イヤ イヤッ！ [PauseShort]この高さ！\n"
+"[Sound1 bytes=\"0A16\"]イヤ イヤ イヤッ！ [PauseShort]この高さ！\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"14\"][Color name=\"red\"]シド王子[Color name=\"unset\"]の お側に行く前に[PauseShort]\n"
+"[Sound1 bytes=\"080E\"][Color name=\"red\"]シド王子[Color name=\"unset\"]の お側に行く前に[PauseShort]\n"
 "天国に行ってしまうわ！"
 
 #, ruby
 msgid "Npc_Zora029_R_007"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ハイリア人よ すまない… \n"
+"[Sound1 bytes=\"0510\"]ハイリア人よ すまない… \n"
 "\n"
 "小生 [Color name=\"red\"]シド王子[Color name=\"unset\"]の元にたどり着くのに[PauseShort]\n"
 "時間がかかりそうでな…\n"
 "小生の事は放っておいて 先に行ってくれ…"
 
 msgid "Npc_Zora013_R_010"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]こっち！ こっちであります！"
+msgstr "[Sound1 bytes=\"0103\"]こっち！ こっちであります！"
 
 #, ruby
 msgid "Npc_Zora029_R_008"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]シド王子[Color name=\"unset\"]には 小生が なんとか[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]シド王子[Color name=\"unset\"]には 小生が なんとか[PauseShort]\n"
 "お伝えしておきますゆえ…"
 
 #, ruby
 msgid "Npc_Zora013_R_011"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]おお！ あなたは\n"
+"[Sound1 bytes=\"0004\"]おお！ あなたは\n"
 "ハイリア人ではありませんか！\n"
 "私は ゾーラ族の[PauseShort]\n"
 "レトーガンと申す者であります！\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]今 ちょっとだけ よろしいですか？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0506\"]今 ちょっとだけ よろしいですか？[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_020"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]実は少し前から ずっと 君を見ていたのだ[PageBreak]その身のこなし[Pause frames=\"22\"]\n"
+"[Sound1 bytes=\"0001\"]実は少し前から ずっと 君を見ていたのだ[PageBreak]その身のこなし[Pause frames=\"22\"]\n"
 "全身から漂う 只者でないオーラ！\n"
-"[Sound1 unk1=\"0\" unk2=\"20\"]リンク！[Pause frames=\"20\"]\n"
-"君は ハイリアの強い戦士なんだろう？！ [Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0014\"]リンク！[Pause frames=\"20\"]\n"
+"君は ハイリアの強い戦士なんだろう？！ [Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_021"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]おっと失礼…"
+msgstr "[Sound1 bytes=\"0001\"]おっと失礼…"
 
 #, ruby
 msgid "Npc_Zora013_R_Near"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"]そこの人！"
+msgstr "[Sound1 bytes=\"0003\"]そこの人！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_022"
-msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]どこかで聞いた事がある気もするが…"
+msgstr "[Sound1 bytes=\"0510\"]どこかで聞いた事がある気もするが…"
 
 #, ruby
 msgid "Npc_Lanayru003_R_010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やぁ 君…[PauseShort]\n"
-"[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]方面に 行くんか？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0002\"]やぁ 君…[PauseShort]\n"
+"[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]方面に 行くんか？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_Near"
@@ -279,44 +279,44 @@ msgstr "そこの君！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_023"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]とにかく良い名だゾ！"
+msgstr "[Sound1 bytes=\"0101\"]とにかく良い名だゾ！"
 
 #, ruby
 msgid "Npc_Lanayru003_R_011"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]まぁ 男やったら大丈夫やろうけど…[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]まぁ 男やったら大丈夫やろうけど…[PauseLong]\n"
 "自分で[Color name=\"red\"]プリンス[Color name=\"unset\"]とか言ってるし [PauseShort]怪しいもんやで"
 
 #, ruby
 msgid "Npc_ZoraB001_R_024"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]……[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]……[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]ああ！ そうだ！ \n"
+"[Sound1 bytes=\"010B\"]ああ！ そうだ！ \n"
 "渡す物があるんだったゾ！ "
 
 #, ruby
 msgid "Npc_Lanayru003_R_012"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]そうやなぁ… [PauseShort]自分で[Color name=\"red\"]プリンス[Color name=\"unset\"]言うてる時点で[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]そうやなぁ… [PauseShort]自分で[Color name=\"red\"]プリンス[Color name=\"unset\"]言うてる時点で[PauseShort]\n"
 "ヤバさ満載やろ"
 
 #, ruby
 msgid "Npc_ZoraB001_R_025"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]これは オレからの \n"
+"[Sound1 bytes=\"0101\"]これは オレからの \n"
 "ささやかな応援の気持ちだ！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_026"
-msgstr "[Sound1 unk1=\"1\" unk2=\"25\"]電気への抵抗力を 上げる薬だゾ！"
+msgstr "[Sound1 bytes=\"0119\"]電気への抵抗力を 上げる薬だゾ！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_027"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]ハイリア人用の薬だからか[PauseShort]\n"
+"[Sound1 bytes=\"0301\"]ハイリア人用の薬だからか[PauseShort]\n"
 "オレたちには 効き目が薄かったが \n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]キミには 効果があると思うゾ！"
+"[Sound1 bytes=\"010B\"]キミには 効果があると思うゾ！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_028"
@@ -325,27 +325,27 @@ msgstr ""
 "苦戦するかもしれないが "
 
 msgid "Npc_Zora001_R_Near01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"26\"]ふんふふ～ん♪"
+msgstr "[Sound1 bytes=\"011A\"]ふんふふ～ん♪"
 
 #, ruby
 msgid "Npc_Zora036_R_Near"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]ハイリア人！"
+msgstr "[Sound1 bytes=\"0102\"]ハイリア人！"
 
 #, ruby
 msgid "Npc_Zora013_R_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]突然 お呼び止めして すみません！\n"
+"[Sound1 bytes=\"0004\"]突然 お呼び止めして すみません！\n"
 "\n"
 "私は ゾーラ族の[PauseShort]\n"
 "レトーガンと申す者であります！\n"
 "あなたを ハイリア人と お見受けして[PauseShort]\n"
 "声を かけたであります！\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]今 ちょっとだけ よろしいですか？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0506\"]今 ちょっとだけ よろしいですか？[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_Zora013_R_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]あそこの山の上の塔…[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]あそこの山の上の塔…[PauseShort]\n"
 "見えるでありますか？\n"
 "あの塔の北側を流れる[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流…[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に 行って欲しいのであります"
@@ -353,36 +353,36 @@ msgstr ""
 #, ruby
 msgid "Npc_ZoraB001_R_010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]オレは キミの行く先に異変が無いか\n"
+"[Sound1 bytes=\"0001\"]オレは キミの行く先に異変が無いか\n"
 "先に行って確認する\n"
 "では 頼んだゾ！！"
 
 #, ruby
 msgid "Npc_Zora013_R_003"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]…\n"
+"[Sound1 bytes=\"0501\"]…\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]今 あなた[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]今 あなた[PauseShort]\n"
 "「なんでオレが？」[PauseShort]って思いましたね\n"
 "まぁ 誰だって通りすがりのゾーラに いきなり[PauseShort]\n"
 "こんなこと言われたら そう思いますよね\n"
-"[Sound1 unk1=\"7\" unk2=\"11\"]でも コレ [PauseShort]あなたにとって\n"
+"[Sound1 bytes=\"070B\"]でも コレ [PauseShort]あなたにとって\n"
 "絶対お得な話であります！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]なんと ゾーラ族の[Color name=\"red\"]シド王子[Color name=\"unset\"]が[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]なんと ゾーラ族の[Color name=\"red\"]シド王子[Color name=\"unset\"]が[PauseShort]\n"
 "強いハイリア人を 探しているのであります\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"][Color name=\"red\"]シド王子[Color name=\"unset\"]のお願いですから おそらく褒美も…\n"
+"[Sound1 bytes=\"0B01\"][Color name=\"red\"]シド王子[Color name=\"unset\"]のお願いですから おそらく褒美も…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]なので [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流 [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]の[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]なので [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流 [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]の[PauseShort]\n"
 "[Color name=\"red\"]シド王子[Color name=\"unset\"]を 訪ねてほしいのであります！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_011"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"11\"]リンク？！[PageBreak]リンクか！[Pause frames=\"22\"] 良い名だゾ！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"010B\"]リンク？！[PageBreak]リンクか！[Pause frames=\"22\"] 良い名だゾ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora013_R_004"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]ハイリア人の…\n"
+"[Sound1 bytes=\"0104\"]ハイリア人の…\n"
 "\n"
 "もし 我らが[Color name=\"red\"]シド王子[Color name=\"unset\"]に会ってみる気に\n"
 "なられたら"
@@ -398,9 +398,9 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora013_R_005"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]あの[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流にある[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]あの[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流にある[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に 向かって欲しいであります\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]我らが[Color name=\"red\"]シド王子[Color name=\"unset\"]の頼み…[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]我らが[Color name=\"red\"]シド王子[Color name=\"unset\"]の頼み…[PauseShort]\n"
 "きっと あなたにとっても お得な話であります！"
 
 #, ruby
@@ -411,30 +411,30 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Lanayru003_R_001"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]やぁ [PauseShort]こんなトコでハイリア人とは珍しいな[Choice1 label=\"10\"]"
+msgstr "[Sound1 bytes=\"0004\"]やぁ [PauseShort]こんなトコでハイリア人とは珍しいな[Choice1 label=\"10\"]"
 
 #, ruby
 msgid "Npc_Zora013_R_007"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]じゃ 一瞬で説明するであります！"
+msgstr "[Sound1 bytes=\"0413\"]じゃ 一瞬で説明するであります！"
 
 #, ruby
 msgid "Npc_Lanayru003_R_002"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]なんか [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]沿いのゾーラが[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]なんか [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]沿いのゾーラが[PauseShort]\n"
 "[Color name=\"red\"]シド王子[Color name=\"unset\"]のトコまで 行け行け言うから[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]まで行ってん… [PauseLong]でな？"
 
 msgid "Npc_Zora013_R_008"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]ありがとうございます！"
+msgstr "[Sound1 bytes=\"070B\"]ありがとうございます！"
 
 #, ruby
 msgid "Npc_Lanayru003_R_003"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ウチは 行商人やからな[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]ウチは 行商人やからな[PauseLong]\n"
 "どこにでも 出て来よるで？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]あ 自己紹介しとこか\n"
+"[Sound1 bytes=\"0001\"]あ 自己紹介しとこか\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"4\"]ウチはフタバ！ [PauseLong]以後 よろしゅう"
+"[Sound1 bytes=\"0104\"]ウチはフタバ！ [PauseLong]以後 よろしゅう"
 
 #, ruby
 msgid "Npc_ZoraB001_R_016"
@@ -444,49 +444,49 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Zora013_R_009"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]おおっ！ そこの人！"
+msgstr "[Sound1 bytes=\"0413\"]おおっ！ そこの人！"
 
 #, ruby
 msgid "Npc_Lanayru003_R_004"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]ウチ その[Color name=\"red\"]シド王子[Color name=\"unset\"]とやらに会ったんやけど[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]ウチ その[Color name=\"red\"]シド王子[Color name=\"unset\"]とやらに会ったんやけど[PauseShort]\n"
 "アレは… [PauseLong]アカン奴や\n"
 "ウチのこと見て「ずっと見ていたゾ！」とか[PauseShort]\n"
 "「君の名は？」とか 聞いてきよるねん！\n"
-"[Sound1 unk1=\"11\" unk2=\"18\"]だから ここまで逃げて来てんけど…\n"
+"[Sound1 bytes=\"0B12\"]だから ここまで逃げて来てんけど…\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]まぁ… [PauseShort]アンタも\n"
+"[Sound1 bytes=\"0501\"]まぁ… [PauseShort]アンタも\n"
 "怖い物見たさに [Color name=\"red\"]シド王子[Color name=\"unset\"]見てきてみ？[PauseLong]\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]男やったら ナンパはされんと思うけど…"
+"[Sound1 bytes=\"0109\"]男やったら ナンパはされんと思うけど…"
 
 #, ruby
 msgid "Npc_ZoraB001_R_017"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"1\"]君の名は？[Pause frames=\"20\"][PageBreak]名を聞かせてくれ！！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0001\"]君の名は？[Pause frames=\"20\"][PageBreak]名を聞かせてくれ！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Lanayru003_R_005"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]そんなことより アンタ[PauseShort]\n"
-"さっき そこのゾーラと話しとったやろ？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0506\"]そんなことより アンタ[PauseShort]\n"
+"さっき そこのゾーラと話しとったやろ？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Npc_ZoraB001_R_018"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"][Size percent=\"125\"]がんばってくれ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"010A\"][Size percent=\"125\"]がんばってくれ！[Size percent=\"100\"]"
 
 msgid "Npc_Zora025_R_010"
-msgstr "[Sound1 unk1=\"4\" unk2=\"19\"]キャー！ あなた！"
+msgstr "[Sound1 bytes=\"0413\"]キャー！ あなた！"
 
 #, ruby
 msgid "Npc_Lanayru003_R_006"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]あのゾーラ… [PauseShort]ゾーラの里方面に行って\n"
-"[Color name=\"red\"]シド王子[Color name=\"unset\"]に会ってくれ！ [PauseLong]とか言うてたやろ？[Choice2 label1=\"11\" label2=\"12\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0501\"]あのゾーラ… [PauseShort]ゾーラの里方面に行って\n"
+"[Color name=\"red\"]シド王子[Color name=\"unset\"]に会ってくれ！ [PauseLong]とか言うてたやろ？[Choice2 label1=\"11\" label2=\"12\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_019"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"][Size percent=\"125\"]オレはシド！ ゾーラ族の王子だ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"010A\"][Size percent=\"125\"]オレはシド！ ゾーラ族の王子だ！[Size percent=\"100\"]"
 
 msgid "Npc_Zora025_R_011"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]ちょっと！ ちょっとー！"
+msgstr "[Sound1 bytes=\"0103\"]ちょっと！ ちょっとー！"
 
 msgid "0010"
 msgstr "あなたこそ"
@@ -494,7 +494,7 @@ msgstr "あなたこそ"
 #, ruby
 msgid "Npc_Lanayru003_R_007"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]なんで嘘つくねん！[PauseLong]\n"
+"[Sound1 bytes=\"080E\"]なんで嘘つくねん！[PauseLong]\n"
 "あのゾーラの声 ここまで聞こえてきたで？"
 
 msgid "0011"
@@ -503,14 +503,14 @@ msgstr "はい"
 #, ruby
 msgid "Npc_Lanayru003_R_008"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]だから なんでしょうもない嘘つくねん！[PauseLong]\n"
+"[Sound1 bytes=\"080E\"]だから なんでしょうもない嘘つくねん！[PauseLong]\n"
 "全部聞こえとったわ！"
 
 msgid "0012"
 msgstr "いいえ"
 
 msgid "Npc_Lanayru003_R_009"
-msgstr "[Sound1 unk1=\"5\" unk2=\"1\"]まぁ とにかく… [PauseShort]よ"
+msgstr "[Sound1 bytes=\"0501\"]まぁ とにかく… [PauseShort]よ"
 
 #, ruby
 msgid "0016"
@@ -525,52 +525,52 @@ msgstr "あなたこそ"
 
 #, ruby
 msgid "Npc_ZoraB001_R_003"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]おおッ！[Pause frames=\"20\"] やっぱりハイリア人なんだな！！"
+msgstr "[Sound1 bytes=\"0102\"]おおッ！[Pause frames=\"20\"] やっぱりハイリア人なんだな！！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_004"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"11\"][Size percent=\"125\"]おお！[Pause frames=\"12\"] やはりな！！[Size percent=\"100\"][PageBreak]これでも オレはゾーラ族の王子[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"040B\"][Size percent=\"125\"]おお！[Pause frames=\"12\"] やはりな！！[Size percent=\"100\"][PageBreak]これでも オレはゾーラ族の王子[Pause frames=\"20\"]\n"
 "人を見る目には自信があるのだゾ！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_005"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"6\"][Size percent=\"125\"]いやッ！[Pause frames=\"12\"] 謙遜するな！[PageBreak][Size percent=\"100\"]オレにはわかる これでもゾーラ族の王子[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0406\"][Size percent=\"125\"]いやッ！[Pause frames=\"12\"] 謙遜するな！[PageBreak][Size percent=\"100\"]オレにはわかる これでもゾーラ族の王子[Pause frames=\"20\"]\n"
 "人を見る目には自信があるのだゾ！"
 
 #, ruby
 msgid "Npc_ZoraB001_R_006"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"1\" unk2=\"20\"]良いゾ！[Pause frames=\"22\"] 最高だゾッ！[PageBreak][Size percent=\"100\"]オレは ずっと探していたのだ！[Pause frames=\"20\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0114\"]良いゾ！[Pause frames=\"22\"] 最高だゾッ！[PageBreak][Size percent=\"100\"]オレは ずっと探していたのだ！[Pause frames=\"20\"]\n"
 "リンクのような強きオーラを放つ男を！\n"
 "今 ゾーラの里は[Pause frames=\"10\"] [Color name=\"blue\"]水の神獣ヴァ・ルッタ[Color name=\"unset\"]による\n"
 "大雨で[Pause frames=\"10\"] 存続の危機に見舞われてる！\n"
-"助けてくれ！[Pause frames=\"20\"] 君の力が必要なんだ！！[PageBreak][Sound1 unk1=\"0\" unk2=\"6\"]どうか [Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]まで来てくれまいか？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"助けてくれ！[Pause frames=\"20\"] 君の力が必要なんだ！！[PageBreak][Sound1 bytes=\"0006\"]どうか [Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]まで来てくれまいか？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_007"
-msgstr "[Sound1 unk1=\"4\" unk2=\"10\"][Size percent=\"125\"]おおッ！[Pause frames=\"10\"] 本当か！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"040A\"][Size percent=\"125\"]おおッ！[Pause frames=\"10\"] 本当か！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_ZoraB001_R_008"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"16\"]ちょっと？[PageBreak]…[Pause frames=\"30\"]…[Pause frames=\"30\"][PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]“ちょっと” というのは これくらいか？[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0410\"]ちょっと？[PageBreak]…[Pause frames=\"30\"]…[Pause frames=\"30\"][PageBreak][Sound1 bytes=\"0101\"]“ちょっと” というのは これくらいか？[Pause frames=\"20\"]\n"
 "よしッ！[Pause frames=\"10\"] じゃあ 協力してくれるな！"
 
 msgid "0000"
 msgstr "そうです"
 
 msgid "Npc_Zora025_R_Near"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]キャーー♪"
+msgstr "[Sound1 bytes=\"0103\"]キャーー♪"
 
 #, ruby
 msgid "Npc_Zora025_R_001"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]きゃーっ！[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]きゃーっ！[PauseLong]\n"
 "ハイリア人だわ！ ハイリア人！\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]ねぇ？[PauseShort]\n"
-"あなた ハイリア人よね？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0109\"]ねぇ？[PauseShort]\n"
+"あなた ハイリア人よね？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0001"
 msgstr "それほどでも"
@@ -578,7 +578,7 @@ msgstr "それほどでも"
 #, ruby
 msgid "Npc_Zora025_R_002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]やっぱり！[PauseLong]\n"
+"[Sound1 bytes=\"0704\"]やっぱり！[PauseLong]\n"
 "じゃあ 私の[Color name=\"red\"]シド王子[Color name=\"unset\"]のトコロに 行って！\n"
 "一大事なのよ！"
 
@@ -588,15 +588,15 @@ msgstr "わかった"
 #, ruby
 msgid "Npc_Zora025_R_003"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]ち [PauseShort]違わないでしょ？！[PauseLong]\n"
+"[Sound1 bytes=\"0414\"]ち [PauseShort]違わないでしょ？！[PauseLong]\n"
 "あなた どう見てもハイリア人よ！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]だからお願い！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]だからお願い！[PauseLong]\n"
 "私の[Color name=\"red\"]シド王子[Color name=\"unset\"]のトコに 行って！\n"
 "一大事なのよ！"
 
 #, ruby
 msgid "Npc_Zora029_R_Near00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"21\"]たっ 高い…"
+msgstr "[Sound1 bytes=\"0415\"]たっ 高い…"
 
 #, ruby
 msgid "0003"
@@ -605,11 +605,11 @@ msgstr "ちょっと待って"
 #, ruby
 msgid "Npc_Zora025_R_004"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ねぇねぇ ハイリア人っ！[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]ねぇねぇ ハイリア人っ！[PauseLong]\n"
 "お願い！ [PauseShort][Color name=\"red\"]シド王子[Color name=\"unset\"]に会って！"
 
 msgid "Npc_Zora029_R_Near01"
-msgstr "[Sound1 unk1=\"4\" unk2=\"21\"]ふ… ふぉっ…"
+msgstr "[Sound1 bytes=\"0415\"]ふ… ふぉっ…"
 
 #, ruby
 msgid "0004"
@@ -622,14 +622,14 @@ msgstr "違います"
 #, ruby
 msgid "Npc_Zora025_R_006"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"red\"]シド王子[Color name=\"unset\"]は [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流[PauseShort]\n"
+"[Sound1 bytes=\"0101\"][Color name=\"red\"]シド王子[Color name=\"unset\"]は [Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]で 待ってらっしゃるわ！\n"
-"[Sound1 unk1=\"1\" unk2=\"4\"]さあ 行って！ [PauseLong]そして話を聞いて！"
+"[Sound1 bytes=\"0104\"]さあ 行って！ [PauseLong]そして話を聞いて！"
 
 #, ruby
 msgid "Npc_Zora025_R_007"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]あっちの[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流！[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]あっちの[Color name=\"blue\"]ゾーラ川[Color name=\"unset\"]の上流！[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]で待ってるから お願い！\n"
 "そして [Color name=\"red\"]シド王子[Color name=\"unset\"]のお話を聞いてあげて！"
 
@@ -639,13 +639,13 @@ msgstr "そうです"
 #, ruby
 msgid "Npc_Zora036_R_001"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]おお！ [PauseShort]ありがたい！[PauseLong]\n"
-"お前 ハイリア人だな？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0702\"]おお！ [PauseShort]ありがたい！[PauseLong]\n"
+"お前 ハイリア人だな？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Zora025_R_008"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]いきなりで ビックリだろうけど[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]いきなりで ビックリだろうけど[PauseShort]\n"
 "とにかく 行けば分かるから… [PauseLong]ねっ！"
 
 #, ruby
@@ -653,18 +653,18 @@ msgid "0007"
 msgstr "違います"
 
 msgid "Npc_Zora036_R_002"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]よしよし！ [PauseShort]ツイてるツイてる！"
+msgstr "[Sound1 bytes=\"070B\"]よしよし！ [PauseShort]ツイてるツイてる！"
 
 msgid "0008"
 msgstr "どうぞ"
 
 msgid "Npc_Zora028_R_Near"
-msgstr "[Sound1 unk1=\"1\" unk2=\"26\"]る～♪ るる～♪"
+msgstr "[Sound1 bytes=\"011A\"]る～♪ るる～♪"
 
 #, ruby
 msgid "Npc_Zora036_R_003"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"6\"]違わないだろう！[PauseLong]\n"
+"[Sound1 bytes=\"0806\"]違わないだろう！[PauseLong]\n"
 "どう見ても お前はハイリア人だ！"
 
 #, ruby
@@ -674,11 +674,11 @@ msgstr "急ぎますので"
 #, ruby
 msgid "Npc_Zora036_R_004"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"1\"]あぁ… [PauseShort]いきなりゴメン\n"
+"[Sound1 bytes=\"0401\"]あぁ… [PauseShort]いきなりゴメン\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]アタシ ゾーラ族のトルフォー！[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]アタシ ゾーラ族のトルフォー！[PauseLong]\n"
 "ずっと お前のようなハイリア人を探してた！\n"
-"[Sound1 unk1=\"5\" unk2=\"18\"]実は アタシ達の[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]が[PauseShort]\n"
+"[Sound1 bytes=\"0512\"]実は アタシ達の[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]が[PauseShort]\n"
 "おかしな事になっててね…\n"
 "だからアタシ達 [Color name=\"red\"]シド王子[Color name=\"unset\"]と一緒に[PauseShort]\n"
 "強そうなハイリア人を 探してたんだ"
@@ -686,19 +686,19 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora028_R_001"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]やっぱり！ [PauseShort] あなた ハイリア人？！[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]やっぱり！ [PauseShort] あなた ハイリア人？！[PauseLong]\n"
 "ハイリア人ですわよね！ [PauseShort] ヒレがないですもの\n"
 "これはこれは 絶好のタイミングですわ\n"
 "\n"
 "実は私 [Color name=\"red\"]シド王子[Color name=\"unset\"]に命じられ[PauseShort]\n"
 "ハイリア人を 探していたのです\n"
-"[Sound1 unk1=\"5\" unk2=\"19\"]…決して 水遊びをして[PauseShort]\n"
+"[Sound1 bytes=\"0513\"]…決して 水遊びをして[PauseShort]\n"
 "サボっていたワケじゃ ございませんことよ"
 
 #, ruby
 msgid "Npc_Zora036_R_005"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]その[Color name=\"red\"]シド王子[Color name=\"unset\"]なら あの[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に居る\n"
+"[Sound1 bytes=\"0004\"]その[Color name=\"red\"]シド王子[Color name=\"unset\"]なら あの[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に居る\n"
 "\n"
 "アタシらを 助けると思って[PauseShort]\n"
 "一度[Color name=\"red\"]シド王子[Color name=\"unset\"]の話を 聞いてくれないか？"
@@ -706,21 +706,21 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora028_R_002"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]ハイリア人のお方…\n"
+"[Sound1 bytes=\"0102\"]ハイリア人のお方…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]我らが[Color name=\"red\"]シド王子[Color name=\"unset\"]の場所[PauseShort]\n"
-"もう一度 説明致しましょうか？[Choice2 label1=\"16\" label2=\"17\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]我らが[Color name=\"red\"]シド王子[Color name=\"unset\"]の場所[PauseShort]\n"
+"もう一度 説明致しましょうか？[Choice2 label1=\"16\" label2=\"17\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Zora036_R_006"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"4\"]頼む！[PauseLong]\n"
+"[Sound1 bytes=\"0504\"]頼む！[PauseLong]\n"
 "アタシらを 助けると思って"
 
 #, ruby
 msgid "Npc_Zora028_R_003"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"][Color name=\"red\"]シド王子[Color name=\"unset\"]は 我らゾーラ族王家のご子息\n"
+"[Sound1 bytes=\"0104\"][Color name=\"red\"]シド王子[Color name=\"unset\"]は 我らゾーラ族王家のご子息\n"
 "\n"
 "その[Color name=\"red\"]シド王子[Color name=\"unset\"]が あちらにある高い塔の向こう側\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]でお待ちなの…\n"
@@ -729,22 +729,22 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora036_R_007"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]詳しくは [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に居る[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]詳しくは [Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に居る[PauseShort]\n"
 "[Color name=\"red\"]シド王子[Color name=\"unset\"]を 訪ねてくれないか？"
 
 msgid "Npc_ZoraB001_M_001"
-msgstr "[Sound1 unk1=\"0\" unk2=\"3\"][Size percent=\"125\"]おーい！[Pause frames=\"10\"] リンク！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0003\"][Size percent=\"125\"]おーい！[Pause frames=\"10\"] リンク！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Zora028_R_004"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"red\"]シド王子[Color name=\"unset\"]なら あちらにある高い塔の向こう側[PauseShort]\n"
+"[Sound1 bytes=\"0101\"][Color name=\"red\"]シド王子[Color name=\"unset\"]なら あちらにある高い塔の向こう側[PauseShort]\n"
 "[Color name=\"blue\"]ダルブル橋[Color name=\"unset\"]に おられますわ"
 
 #, ruby
 msgid "Npc_ZoraB001_M_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]川の中からで すまない！[PageBreak]強引に誘ったので 君が本当に来てくれるのか\n"
+"[Sound1 bytes=\"0000\"]川の中からで すまない！[PageBreak]強引に誘ったので 君が本当に来てくれるのか\n"
 "心配だったんだが 順調のようで安心したゾ！\n"
 "最近の異変以来 ここにも魔物が増えている！[Pause frames=\"20\"]\n"
 "注意して 進んでくれよ！！\n"
@@ -753,13 +753,13 @@ msgstr ""
 #, ruby
 msgid "Npc_Zora028_R_005"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]あ… [PauseShort]突然のことでビックリされましたよね\n"
+"[Sound1 bytes=\"0413\"]あ… [PauseShort]突然のことでビックリされましたよね\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]ごめんなさい[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0501\"]ごめんなさい[Pause frames=\"20\"]\n"
 "でも 私たちゾーラ族にとって一大事なんですの\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]どうか 私のお願いを聞いてくださいな\n"
+"[Sound1 bytes=\"010B\"]どうか 私のお願いを聞いてくださいな\n"
 "あと もし[Color name=\"red\"]シド王子[Color name=\"unset\"]と会っても…\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]私がここで 水遊びしてたって[PauseShort]\n"
+"[Sound1 bytes=\"0501\"]私がここで 水遊びしてたって[PauseShort]\n"
 "言わないでくださいね"
 
 msgid "_ReadOnly_MsbtExtras"

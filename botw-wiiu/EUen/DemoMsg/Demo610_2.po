@@ -15,7 +15,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? Fellow traveler...[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]Hm? Fellow traveler...[PauseShort]\n"
 "What brings you here?[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
@@ -25,12 +25,12 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]I can feel it... My teacher surely sang\n"
+"[Sound1 bytes=\"030C\"]I can feel it... My teacher surely sang\n"
 "this very verse from this very spot..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]I suppose everyone has their own\n"
+"[Sound1 bytes=\"0001\"]I suppose everyone has their own\n"
 "reasons for traveling."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
@@ -40,7 +40,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]I wish nothing more than to carry on my\n"
+"[Sound1 bytes=\"0101\"]I wish nothing more than to carry on my\n"
 "teacher's dream to complete and perform\n"
 "this special song."
 
@@ -51,30 +51,30 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]To do so, I must learn all there is to know\n"
+"[Sound1 bytes=\"0001\"]To do so, I must learn all there is to know\n"
 "about the Champions of old..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]Ah, sweet joy! How glorious to sing this\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]Ah, sweet joy! How glorious to sing this\n"
 "song in the very land it describes..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Thankfully, [Color name=\"blue\"]the Zora king and prince[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0000\"]Thankfully, [Color name=\"blue\"]the Zora king and prince[Color name=\"unset\"]\n"
 "shared memories of their Champion\n"
 "with me."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"0\"]The song my teacher left behind...\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0100\"]The song my teacher left behind...\n"
 "There's [Color name=\"blue\"]a verse[Color name=\"unset\"] about the trials that\n"
 "[Color name=\"blue\"]Champion Mipha [Color name=\"unset\"]overcame.\n"
 "[PauseAuto frames=\"40\"]Allow me to sing it for you..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]To sing the completed song under this\n"
+"[Sound1 bytes=\"0018\"]To sing the completed song under this\n"
 "sky that my teacher so loved...that is\n"
 "the end goal of this long journey."
 

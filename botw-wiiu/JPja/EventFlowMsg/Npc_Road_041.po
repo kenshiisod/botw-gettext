@@ -1,58 +1,58 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あいててて…[PauseMid]\n"
+"[Sound1 bytes=\"030C\"]あいててて…[PauseMid]\n"
 "旅には 危険がつきものだね～"
 
 #, ruby
 msgid "MSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]の所長は[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]の所長は[PauseShort]\n"
 "[Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]の所長の部下なんだよね"
 
 #, ruby
 msgid "MSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]アッカレ地方の[Color name=\"red\"]古代兵装・矢[Color name=\"unset\"]ならば[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]アッカレ地方の[Color name=\"red\"]古代兵装・矢[Color name=\"unset\"]ならば[PauseMid]\n"
 "あの[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を 一発で倒せるらしい"
 
 #, ruby
 msgid "RetMSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]アッカレ地方の さすらいの料理人って\n"
+"[Sound1 bytes=\"0510\"]アッカレ地方の さすらいの料理人って\n"
 "ちょっと気になるな"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]これは ほんのお礼だ！"
+msgstr "[Sound1 bytes=\"010B\"]これは ほんのお礼だ！"
 
 #, ruby
 msgid "RetMSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]マモノショップ[Color name=\"unset\"]は 夜中しかやってない店で[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]マモノショップ[Color name=\"unset\"]は 夜中しかやってない店で[PauseShort]\n"
 "詳しくはわからないけど 場所は[Color name=\"blue\"]ドクロ池[Color name=\"unset\"]らしい"
 
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]はぁ…[PauseShort] はぁ… [PauseMid]ぜぇ… [PauseShort]ぜぇ…"
+msgstr "[Sound1 bytes=\"032A\"]はぁ…[PauseShort] はぁ… [PauseMid]ぜぇ… [PauseShort]ぜぇ…"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]狙ってやがんな [PauseShort]あのヤロー…"
+msgstr "[Sound1 bytes=\"032A\"]狙ってやがんな [PauseShort]あのヤロー…"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]いやー[PauseShort] 助かったよ！"
+msgstr "[Sound1 bytes=\"0012\"]いやー[PauseShort] 助かったよ！"
 
 #, ruby
 msgid "RetMSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方の[Color name=\"blue\"]マモノショップ [Color name=\"unset\"]知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方の[Color name=\"blue\"]マモノショップ [Color name=\"unset\"]知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "そこそこ知ってるよ[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"16\"]夜中しかやってない店で[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]夜中しかやってない店で[PauseShort]\n"
 "場所は [Color name=\"blue\"]ドクロ池[Color name=\"unset\"]らしいんだけど…\n"
 "オレは地図持ってないから\n"
 "[Color name=\"blue\"]ドクロ池[Color name=\"unset\"]がどこなのか 説明してあげられないよ"
@@ -60,99 +60,99 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]助かったよ！[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]助かったよ！[PauseMid]\n"
 "ありがとう！"
 
 #, ruby
 msgid "RetMSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方のノボタンって女性 知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方のノボタンって女性 知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "もちろん知ってるよ[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]だって [Color name=\"red\"]力の泉[Color name=\"unset\"]の話は彼女から聞いたんだ"
+"[Sound1 bytes=\"0004\"]だって [Color name=\"red\"]力の泉[Color name=\"unset\"]の話は彼女から聞いたんだ"
 
 #, ruby
 msgid "RetMSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方の全人口 知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方の全人口 知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "知らない[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]ほんと 知らないんだってば！"
+"[Sound1 bytes=\"0004\"]ほんと 知らないんだってば！"
 
 #, ruby
 msgid "MSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]アッカレ地方の迷路みたいな城跡って[PauseMid]\n"
+"[Sound1 bytes=\"0010\"]アッカレ地方の迷路みたいな城跡って[PauseMid]\n"
 "なんだか 入ったら出るのが大変そう"
 
 #, ruby
 msgid "RetMSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方のさすらいの料理人… [PauseMid]知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方のさすらいの料理人… [PauseMid]知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "知らない[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]さすらいの料理人…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]さすらいの料理人…[PauseShort]\n"
 "キミが知ってたら 逆に教えてほしいくらい"
 
 #, ruby
 msgid "RetMSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方の独特なジャンケン知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方の独特なジャンケン知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "知らない[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]知らないし そんなのたぶんない！"
+"[Sound1 bytes=\"0004\"]知らないし そんなのたぶんない！"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ドクロの形の[Color name=\"blue\"]ドクロ池[Color name=\"unset\"] [PauseShort]どこにあるか知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]ドクロの形の[Color name=\"blue\"]ドクロ池[Color name=\"unset\"] [PauseShort]どこにあるか知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "地図持ってないから 知らない[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]地図さえあれば わかるんだろうね"
+"[Sound1 bytes=\"0004\"]地図さえあれば わかるんだろうね"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"12\"]オレの馬は 天候に敏感でね[PauseMid]\n"
+"[Sound1 bytes=\"050C\"]オレの馬は 天候に敏感でね[PauseMid]\n"
 "こんな日は あまり走ってくれないんだよ"
 
 #, ruby
 msgid "RetMSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]アッカレ地方の独特なジャンケンって[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]アッカレ地方の独特なジャンケンって[PauseShort]\n"
 "ありそうだけど たぶんないんだよな"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"12\"]天気が崩れて 馬がご機嫌斜めだよ…[PauseMid]\n"
+"[Sound1 bytes=\"050C\"]天気が崩れて 馬がご機嫌斜めだよ…[PauseMid]\n"
 "早く晴れてくれよ…"
 
 #, ruby
 msgid "MSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]アッカレ地方にある[Color name=\"red\"]力の泉[Color name=\"unset\"] 知ってるか？[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]アッカレ地方にある[Color name=\"red\"]力の泉[Color name=\"unset\"] 知ってるか？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "よく知らないんだ[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]浸かると 謎の力で跳ね返されちゃうのかなぁ[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]浸かると 謎の力で跳ね返されちゃうのかなぁ[PauseMid]\n"
 "それとも 力がみなぎって元気になるのかな？"
 
 #, ruby
@@ -162,19 +162,19 @@ msgstr "ドクロ池って…"
 #, ruby
 msgid "MSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方の[Color name=\"red\"]古代兵装・矢[Color name=\"unset\"]… [PauseShort]知ってるか？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方の[Color name=\"red\"]古代兵装・矢[Color name=\"unset\"]… [PauseShort]知ってるか？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "ちょっとだけ知ってる[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]あの[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0004\"]あの[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]を\n"
 "なんと 一発で倒せる凄い武器らしい"
 
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]いやー[PauseShort] 命拾いしたなぁ！[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]いやー[PauseShort] 命拾いしたなぁ！[PauseMid]\n"
 "ありがとう！"
 
 #, ruby
@@ -184,25 +184,25 @@ msgstr "力の泉って…"
 #, ruby
 msgid "MSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]アッカレ地方の迷路みたいな城跡 知ってるか？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]アッカレ地方の迷路みたいな城跡 知ってるか？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "初耳だったんだけどね[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]一度入ったら 出るのが相当大変なんだろうな[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]一度入ったら 出るのが相当大変なんだろうな[PauseLong]\n"
 "何となく そんな気がする"
 
 #, ruby
 msgid "RetMSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]アッカレ地方の ノボタンって女性が[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]アッカレ地方の ノボタンって女性が[PauseShort]\n"
 "ちょっと気になってるんだ"
 
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]何とか生き延びたね！[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]何とか生き延びたね！[PauseMid]\n"
 "ありがとう！"
 
 #, ruby
@@ -212,13 +212,13 @@ msgstr "古代兵装・矢って…"
 #, ruby
 msgid "MSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]アッカレ地方にいる [Color name=\"blue\"]チェリーちゃん[Color name=\"unset\"]って女性…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]アッカレ地方にいる [Color name=\"blue\"]チェリーちゃん[Color name=\"unset\"]って女性…[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "まったく知らないんだよね[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"5\" unk2=\"18\"]何も知らないから 話すことないんだよね"
+"[Sound1 bytes=\"0512\"]何も知らないから 話すことないんだよね"
 
 msgid "Near03"
 msgstr "マモノショップって…"
@@ -226,13 +226,13 @@ msgstr "マモノショップって…"
 #, ruby
 msgid "MSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"][Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]について 何か知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"][Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]について 何か知ってる？[PauseMid]\n"
 "\n"
 "オレは…[PauseShort]\n"
 "\n"
 "ひとつだけ知ってる[PauseMid]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]それは [Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]の所長が\n"
+"[Sound1 bytes=\"0004\"]それは [Color name=\"blue\"]アッカレ古代研究所[Color name=\"unset\"]の所長が\n"
 "[Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]の所長の部下だってこと\n"
 "さすがに [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]くんだりまで\n"
 "行ったことはないけどね"
@@ -243,39 +243,39 @@ msgstr "ひどい天気だ…"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"31\"]わー！ [Color name=\"blue\"][PauseLong]ガーディアン[Color name=\"unset\"]だー！ [PauseShort]逃げろー！"
+msgstr "[Sound1 bytes=\"041F\"]わー！ [Color name=\"blue\"][PauseLong]ガーディアン[Color name=\"unset\"]だー！ [PauseShort]逃げろー！"
 
 #, ruby
 msgid "MSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]アッカレ地方にいる [Color name=\"blue\"]チェリーちゃん[Color name=\"unset\"]って女性…[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]アッカレ地方にいる [Color name=\"blue\"]チェリーちゃん[Color name=\"unset\"]って女性…[PauseMid]\n"
 "何も知らないけど なんだか気になるな"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]魔物には かなわないなあ～[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]魔物には かなわないなあ～[PauseMid]\n"
 "助けてくれてありがとう！"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]命拾いしたよ！"
+msgstr "[Sound1 bytes=\"0012\"]命拾いしたよ！"
 
 #, ruby
 msgid "MSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]アッカレ地方にある[Color name=\"red\"]力の泉[Color name=\"unset\"]って[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]アッカレ地方にある[Color name=\"red\"]力の泉[Color name=\"unset\"]って[PauseMid]\n"
 "浸かると 何がどうなるのかな"
 
 #, ruby
 msgid "RetMSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]アッカレ地方の全人口 知ってる？[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]アッカレ地方の全人口 知ってる？[PauseShort]\n"
 "オレは知らない"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]危うく やられるところだったよ…"
+msgstr "[Sound1 bytes=\"030C\"]危うく やられるところだったよ…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "NQAAAAHAAgAAAAAAACgAAAAEAAAAqAAAAKoAAADEAAAA3gAAAPgAAAASAQAALAEAAEYBAABgAQAAegEAAJQBAACuAQAAsAEAAMoBAADkAQAA/gEAABgCAAAyAgAANAIAADYCAAA4AgAAOgIAADwCAAA+AgAAQAIAAEICAABEAgAARgIAAEgCAABKAgAATAIAAE4CAABQAgAAUgIAAFQCAABuAgAAcAIAAHICAACMAgAApgIAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMQAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADMAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMQAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMQAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMQAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADMAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADEAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMQAAAE4AcABjAF8AUgBvAGEAZABfADAANAAxAAAAAAAA"

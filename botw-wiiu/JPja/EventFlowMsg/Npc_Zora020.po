@@ -1,27 +1,27 @@
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]やはりあなたは…[PauseShort]\n"
+"[Sound1 bytes=\"0A0B\"]やはりあなたは…[PauseShort]\n"
 "100年前の… [PauseShort]リンク様だったんですね？！\n"
 "お客様に こんな質問するのもアレですが…[PauseShort]\n"
 "この100年 いったい何してたんですか？\n"
-"[Sound1 unk1=\"9\" unk2=\"16\"]ちなみに僕は この100年で…[PauseShort]\n"
+"[Sound1 bytes=\"0910\"]ちなみに僕は この100年で…[PauseShort]\n"
 "幼馴染のコダーと…\n"
 "…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]おっと… [PauseShort]僕は仕事に戻りますです！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"]おっと… [PauseShort]僕は仕事に戻りますです！[PauseLong]\n"
 "リンク様の事は 後でコダーに聞くとします"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"6\"]普通のベッドなら[Color name=\"red\"]20ルピー[PauseLong][Color name=\"unset\"]\n"
-"至福のウォーターベッドなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]ですが[Choice4 label1=\"0\" label2=\"1\" label3=\"9\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0106\"]普通のベッドなら[Color name=\"red\"]20ルピー[PauseLong][Color name=\"unset\"]\n"
+"至福のウォーターベッドなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]ですが[Choice4 label1=\"0\" label2=\"1\" label3=\"9\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]かしこまりました[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]かしこまりました[PauseLong]\n"
 "また いつでもお越しください"
 
 msgid "0000"
@@ -34,7 +34,7 @@ msgstr "至福のウォーターベッド"
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]よく お眠りになれましたか？[PauseLong]\n"
+"[Sound1 bytes=\"010A\"]よく お眠りになれましたか？[PauseLong]\n"
 "至福のウォーターベッドは いかがでした？"
 
 msgid "0002"
@@ -43,7 +43,7 @@ msgstr "やめる"
 #, ruby
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]よく お休みになれましたか？[PauseLong]\n"
+"[Sound1 bytes=\"010A\"]よく お休みになれましたか？[PauseLong]\n"
 "至福のウォーターベッドは いかがでした？"
 
 #, ruby
@@ -53,13 +53,13 @@ msgstr "朝まで"
 #, ruby
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]ウォーターベッドとは[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]ウォーターベッドとは[PauseShort]\n"
 "その名の通り 中が水で満たされたベッドです\n"
 "体に合わせて変形するので 全身を包み込み[PauseShort]\n"
 "更に 火照った体を鎮める効果があるんです\n"
-"[Sound1 unk1=\"1\" unk2=\"10\"]馬宿のベッドとは 比べ物にならない\n"
+"[Sound1 bytes=\"010A\"]馬宿のベッドとは 比べ物にならない\n"
 "至福の寝心地を[PauseShort] ご提供できますですよ\n"
-"いかがいたしますか？[Choice4 label1=\"0\" label2=\"1\" label3=\"9\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"いかがいたしますか？[Choice4 label1=\"0\" label2=\"1\" label3=\"9\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0004"
@@ -68,12 +68,12 @@ msgstr "昼まで"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]すいませんが ルピーが足りません[PauseLong]\n"
+"[Sound1 bytes=\"030C\"]すいませんが ルピーが足りません[PauseLong]\n"
 "今日のところは お引き取りください"
 
 #, ruby
 msgid "talk23"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]お泊りですね？"
+msgstr "[Sound1 bytes=\"0101\"]お泊りですね？"
 
 #, ruby
 msgid "0005"
@@ -81,10 +81,10 @@ msgstr "夜まで"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]いつまでお眠りになりますか？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0101\"]いつまでお眠りになりますか？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]はい こちらは[Color name=\"blue\"]サカナのねや[Color name=\"unset\"]…"
+msgstr "[Sound1 bytes=\"0102\"]はい こちらは[Color name=\"blue\"]サカナのねや[Color name=\"unset\"]…"
 
 msgid "0006"
 msgstr "やっぱりやめる"
@@ -92,25 +92,25 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]至福のウォーターベッドで[PauseShort]\n"
-"いつまで お眠りになりますですか？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0101\"]至福のウォーターベッドで[PauseShort]\n"
+"いつまで お眠りになりますですか？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]いつでも 深い眠りを旅人に[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]いつでも 深い眠りを旅人に[PauseShort]\n"
 "ゾーラの宿 [Color name=\"blue\"]サカナのねや[Color name=\"unset\"]へ ようこそ"
 
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]それでは 朝まで[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]それでは 朝まで[PauseShort]\n"
 "ごゆっくり…"
 
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]それでは お昼まで[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]それでは お昼まで[PauseShort]\n"
 "ごゆっくり…"
 
 msgid "0009"
@@ -119,51 +119,51 @@ msgstr "ウォーターベッドって？"
 #, ruby
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]それでは 夜まで[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]それでは 夜まで[PauseShort]\n"
 "ごゆっくり…"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]こんにちは"
+msgstr "[Sound1 bytes=\"0102\"]こんにちは"
 
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]おはようございますです[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]おはようございますです[PauseShort]\n"
 "よく お休みになれましたでしょうか"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]夜更けまで お疲れ様でございますです"
+msgstr "[Sound1 bytes=\"0102\"]夜更けまで お疲れ様でございますです"
 
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]こんにちは[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]こんにちは[PauseShort]\n"
 "よく お休みになれましたですか"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"21\"]え… [PauseShort]あれっ…？[PauseLong]\n"
+"[Sound1 bytes=\"0415\"]え… [PauseShort]あれっ…？[PauseLong]\n"
 "あなたは100年前の リンク様…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]おっと… [PauseShort]仕事仕事…"
+"[Sound1 bytes=\"0001\"]おっと… [PauseShort]仕事仕事…"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]よく お休みになれましたでしょうか[PauseLong]\n"
+"[Sound1 bytes=\"0104\"]よく お休みになれましたでしょうか[PauseLong]\n"
 "すっかり夜ですね"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]ようやく 晴れ間が見えてきましたですね[PauseLong]\n"
+"[Sound1 bytes=\"0102\"]ようやく 晴れ間が見えてきましたですね[PauseLong]\n"
 "さて…"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]おはようございますです[PauseLong]\n"
+"[Sound1 bytes=\"010A\"]おはようございますです[PauseLong]\n"
 "至福のウォーターベッドは いかがでした？"
 
 msgid "_ReadOnly_MsbtExtras"

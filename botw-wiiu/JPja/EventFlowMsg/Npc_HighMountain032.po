@@ -1,32 +1,32 @@
 #, ruby
 msgid "Talk_020"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]早く帰らなきゃ 鳥のオバケに\n"
+"[Sound1 bytes=\"0000\"]早く帰らなきゃ 鳥のオバケに\n"
 "食べられちゃうんだよ～ [PauseMid]ピヨョ～"
 
 #, ruby
 msgid "Talk_102"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]ヤッター！ [PauseMid]じゃあ コッツが\n"
+"[Sound1 bytes=\"0A0B\"]ヤッター！ [PauseMid]じゃあ コッツが\n"
 "おっきくなって 強くなったら 行ってみるね～"
 
 #, ruby
 msgid "Talk_103"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そうだよね… ずーっと土の中で\n"
+"[Sound1 bytes=\"0900\"]そうだよね… ずーっと土の中で\n"
 "寝てたホコラだもんね…\n"
 "おサカナいても ホネになっちゃってるよね…"
 
 #, ruby
 msgid "Talk_220"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]明日は おサカナ\n"
+"[Sound1 bytes=\"0900\"]明日は おサカナ\n"
 "つかまえに行けるかなぁ…"
 
 #, ruby
 msgid "Talk_104"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]え～？ まだ行ってないの？！\n"
+"[Sound1 bytes=\"0A00\"]え～？ まだ行ってないの？！\n"
 "\n"
 "早く早く～！ おサカナいたら\n"
 "コッツがつかまえに行くんだから～！"
@@ -34,36 +34,36 @@ msgstr ""
 #, ruby
 msgid "Talk_010"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]ゾクチョーさまのところへ 行くよ～\n"
+"[Sound1 bytes=\"0600\"]ゾクチョーさまのところへ 行くよ～\n"
 "お兄ちゃんも 一緒に行く～？"
 
 msgid "Talk_105"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]ルララ～♪ おサカナ おサカナ おサカナ～♪"
+msgstr "[Sound1 bytes=\"0700\"]ルララ～♪ おサカナ おサカナ おサカナ～♪"
 
 #, ruby
 msgid "Talk_210"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]あ～ん おサカナつかまえに行きたいけど\n"
+"[Sound1 bytes=\"0600\"]あ～ん おサカナつかまえに行きたいけど\n"
 "練習しなきゃ キールに怒られちゃう～"
 
 #, ruby
 msgid "Talk_000"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]鳥のオバケ[Color name=\"unset\"]怖いよー…\n"
+"[Sound1 bytes=\"0B00\"][Color name=\"red\"]鳥のオバケ[Color name=\"unset\"]怖いよー…\n"
 "コッツ 食べられちゃうのかなぁ…\n"
 "お兄ちゃんも [Color name=\"blue\"]ゾクチョーさま[Color name=\"unset\"]から聞いた？\n"
-"こわくない？ こわくない？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"こわくない？ こわくない？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]すごーい！\n"
+"[Sound1 bytes=\"0A0B\"]すごーい！\n"
 "じゃあ お兄ちゃんが[Color name=\"blue\"]エーケツサマ[Color name=\"unset\"]だね！"
 
 #, ruby
 msgid "Talk_200"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]パパに おサカナのつかまえかた\n"
+"[Sound1 bytes=\"0702\"]パパに おサカナのつかまえかた\n"
 "教えてもらったよ～\n"
 "素早く 近づいたら とりやすいんだって！\n"
 "お兄ちゃんも やってみて～"
@@ -74,17 +74,17 @@ msgstr "へっちゃら"
 #, ruby
 msgid "Talk_002"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]お兄ちゃん コッツよりおっきいのに…\n"
+"[Sound1 bytes=\"0900\"]お兄ちゃん コッツよりおっきいのに…\n"
 "こわいなんて… どうしよ……\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]そうだ！ 鳥のオバケに\n"
+"[Sound1 bytes=\"0701\"]そうだ！ 鳥のオバケに\n"
 "おサカナいっぱいあげたら 食べられないかな？\n"
-"[Sound1 unk1=\"10\" unk2=\"22\"]あ！ でもおサカナあげるときに\n"
+"[Sound1 bytes=\"0A16\"]あ！ でもおサカナあげるときに\n"
 "コッツ食べられちゃうかも… [PauseMid]ピヨョ…"
 
 #, ruby
 msgid "Talk_201"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]おサカナみつけたら\n"
+"[Sound1 bytes=\"0700\"]おサカナみつけたら\n"
 "素早く 近づいて つかまえる！\n"
 "コッツおぼえた！"
 
@@ -95,7 +95,7 @@ msgstr "ちょっと怖い"
 #, ruby
 msgid "Talk_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]聞いてないの？\n"
+"[Sound1 bytes=\"0006\"]聞いてないの？\n"
 "じゃあ 早くお話聞いてね\n"
 "怖くなっても だいじょーぶだよ\n"
 "コッツが一緒に聞いてあげるからね"
@@ -103,14 +103,14 @@ msgstr ""
 #, ruby
 msgid "Talk_120"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]明日は おサカナ\n"
+"[Sound1 bytes=\"0900\"]明日は おサカナ\n"
 "つかまえに行けるかなぁ…"
 
 #, ruby
 msgid "Talk_004"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]お兄ちゃん [Color name=\"red\"]鳥のオバケ[Color name=\"unset\"]\n"
-"こわくない？ こわくない？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0B00\"]お兄ちゃん [Color name=\"red\"]鳥のオバケ[Color name=\"unset\"]\n"
+"こわくない？ こわくない？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"
@@ -125,7 +125,7 @@ msgstr "いなかったよ"
 #, ruby
 msgid "Talk_110"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]あ～ん おサカナつかまえに行きたいけど\n"
+"[Sound1 bytes=\"0600\"]あ～ん おサカナつかまえに行きたいけど\n"
 "練習しなきゃ キールに怒られちゃう～"
 
 #, ruby
@@ -138,10 +138,10 @@ msgstr "[Sound2 id=\"31\"]ううん…"
 #, ruby
 msgid "Talk_100"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]おサカナ おサカナ おサカナ～♪\n"
+"[Sound1 bytes=\"0702\"]おサカナ おサカナ おサカナ～♪\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ お兄ちゃん ホコラの中 どうだった？\n"
-"おサカナいっぱいいた？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]あ お兄ちゃん ホコラの中 どうだった？\n"
+"おサカナいっぱいいた？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAFwAwAAAAAAABkAAAAEAAAAbAAAAJQAAAC8AAAAvgAAAMAAAADCAAAA6gAAABIBAAA6AQAAYgEAAIoBAACyAQAA2gEAANwBAADeAQAA4AEAAAgCAAAwAgAAWAIAAIACAACoAgAA0AIAAPgCAAAgAwAASAMAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAAAAAAAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAAAAAAAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAABOAHAAYwBfAEgAaQBnAGgATQBvAHUAbgB0AGEAaQBuADAAMwAyAAAATgBwAGMAXwBIAGkAZwBoAE0AbwB1AG4AdABhAGkAbgAwADMAMgAAAE4AcABjAF8ASABpAGcAaABNAG8AdQBuAHQAYQBpAG4AMAAzADIAAAAAAAA="

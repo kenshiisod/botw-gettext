@@ -5,7 +5,7 @@ msgstr "昼まで"
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]そうかい…[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]そうかい…[PauseShort]\n"
 "またの機会に 泊まっていくわいさ～！"
 
 #, ruby
@@ -15,7 +15,7 @@ msgstr "夜まで"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]お客さん ルピーが足りないわいさ…[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]お客さん ルピーが足りないわいさ…[PauseShort]\n"
 "また 来るさ～"
 
 msgid "0005"
@@ -24,7 +24,7 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]ぐっすり 眠れたかいね～？[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]ぐっすり 眠れたかいね～？[PauseShort]\n"
 "\n"
 "泊まってくれた お客さんは\n"
 "桟橋に停めてある [Color name=\"red\"]筏[Color name=\"unset\"]を 自由に使っていいわいさ[PauseShort]\n"
@@ -32,7 +32,7 @@ msgstr ""
 
 #, ruby
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]いつまで お休みになるさ～ね？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]いつまで お休みになるさ～ね？[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0007"
 msgstr "やめる"
@@ -40,8 +40,8 @@ msgstr "やめる"
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]普通のベッドなら [Color name=\"red\"]20ルピー[PauseShort][Color name=\"unset\"]\n"
-"ふかふかベッドなら [Color name=\"red\"]40ルピー[Color name=\"unset\"]さ～[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]普通のベッドなら [Color name=\"red\"]20ルピー[PauseShort][Color name=\"unset\"]\n"
+"ふかふかベッドなら [Color name=\"red\"]40ルピー[Color name=\"unset\"]さ～[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -50,7 +50,7 @@ msgstr "普通のベッド"
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]いらっしゃい！[PauseMid]\n"
+"[Sound1 bytes=\"0102\"]いらっしゃい！[PauseMid]\n"
 "お泊りかいさ～？\n"
 "お客さん 長旅でおつかれだろう"
 
@@ -64,7 +64,7 @@ msgstr "朝まで"
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]それでは どうぞ[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]それでは どうぞ[PauseShort]\n"
 "ゆっくり 休んでいくわいさ～"
 
 msgid "Near00"

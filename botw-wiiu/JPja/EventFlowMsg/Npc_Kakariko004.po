@@ -9,14 +9,14 @@ msgstr "[Sound2 id=\"16\"][Size percent=\"80\"]…母ちゃま…[Size percent=\
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]母ちゃま かくれんぼ\n"
-"プリコ みつけるー[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]母ちゃま かくれんぼ\n"
+"プリコ みつけるー[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]母ちゃま かくれんぼー！\n"
-"あっち！[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]母ちゃま かくれんぼー！\n"
+"あっち！[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"
@@ -25,9 +25,9 @@ msgstr "一緒に遊ぶ？"
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0800\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]今は 母ちゃまとあそぶー\n"
+"[Sound1 bytes=\"0000\"]今は 母ちゃまとあそぶー\n"
 "兄ちゃまは あとでー"
 
 msgid "0001"
@@ -36,112 +36,112 @@ msgstr "またね"
 #, ruby
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0800\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]今は父ちゃまとあそぶー\n"
+"[Sound1 bytes=\"0000\"]今は父ちゃまとあそぶー\n"
 "兄ちゃまは あとでー"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]母ちゃま かくれんぼー！\n"
+"[Sound1 bytes=\"0700\"]母ちゃま かくれんぼー！\n"
 "あっち！"
 
 #, ruby
 msgid "Talk19"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]あれー？\n"
+"[Sound1 bytes=\"0413\"]あれー？\n"
 "まだ お荷物いっぱい？[PauseLong]\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]プリコの しょっぱいカチカチ[Color name=\"blue\"][Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0900\"]プリコの しょっぱいカチカチ[Color name=\"blue\"][Color name=\"unset\"]\n"
 "あげられない…"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]かけっこ\n"
+"[Sound1 bytes=\"0700\"]かけっこ\n"
 "かけっこー"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]雨スキー\n"
+"[Sound1 bytes=\"0700\"]雨スキー\n"
 "でも母ちゃま もっともっとスキー"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]プリコ 雨すきー\n"
+"[Sound1 bytes=\"0700\"]プリコ 雨すきー\n"
 "かけっこ かけっこー"
 
 msgid "Talk21"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]バイバーイ"
+msgstr "[Sound1 bytes=\"0700\"]バイバーイ"
 
 #, ruby
 msgid "Talk22"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]雨スキー\n"
-"でも母ちゃま もっともっとスキー[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]雨スキー\n"
+"でも母ちゃま もっともっとスキー[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]母ちゃま かくれんぼ\n"
+"[Sound1 bytes=\"0700\"]母ちゃま かくれんぼ\n"
 "プリコ みつけるー"
 
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]父ちゃま 姉ちゃま\n"
+"[Sound1 bytes=\"0700\"]父ちゃま 姉ちゃま\n"
 "待ってるー"
 
 #, ruby
 msgid "Talk23"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]父ちゃま 姉ちゃま\n"
-"待ってるー[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]父ちゃま 姉ちゃま\n"
+"待ってるー[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]まだかな[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]まだかな[PauseLong]\n"
 "まだかなー"
 
 msgid "Talk24"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ごはんー[PauseLong]\n"
-"ごはんー[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]ごはんー[PauseLong]\n"
+"ごはんー[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]おなかすいたー"
+msgstr "[Sound1 bytes=\"0004\"]おなかすいたー"
 
 #, ruby
 msgid "Talk25"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0800\"][Size percent=\"125\"]ダメー！[PauseLong][Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]今は 姉ちゃまゴハンー[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]今は 姉ちゃまゴハンー[PauseShort]\n"
 "兄ちゃまは あとでー"
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ごはん\n"
+"[Sound1 bytes=\"0004\"]ごはん\n"
 "ごはんー"
 
 msgid "Talk26"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ごはん…"
+msgstr "[Sound1 bytes=\"0900\"]ごはん…"
 
 #, ruby
 msgid "Talk27"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]お家かえったー"
+msgstr "[Sound1 bytes=\"0000\"]お家かえったー"
 
 #, ruby
 msgid "Talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]お家かえるー"
+msgstr "[Sound1 bytes=\"0000\"]お家かえるー"
 
 #, ruby
 msgid "Talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]お荷物 お片付けした？\n"
+"[Sound1 bytes=\"0000\"]お荷物 お片付けした？\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]じゃあ プリコのカチカチ\n"
+"[Sound1 bytes=\"0700\"]じゃあ プリコのカチカチ\n"
 "あげるー！"
 
 #, ruby
@@ -149,7 +149,7 @@ msgid "Talk11"
 msgstr "[Sound2 id=\"16\"][Size percent=\"80\"]…姉ちゃま…[Size percent=\"100\"]"
 
 msgid "Talk29"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]また プリコとあそぼーね！"
+msgstr "[Sound1 bytes=\"0700\"]また プリコとあそぼーね！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EwAAAAHgAwAAAAAAAB0AAAAEAAAAfAAAAJwAAAC8AAAA3AAAAPwAAAAcAQAAPAEAAFwBAAB8AQAAnAEAALwBAADcAQAA/AEAABwCAAA8AgAAXAIAAHwCAACcAgAAvAIAAL4CAADAAgAA4AIAAAADAAAgAwAAQAMAAGADAACAAwAAoAMAAMADAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAAAAAAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAATgBwAGMAXwBLAGEAawBhAHIAaQBrAG8AMAAwADQAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADAANAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMAA0AAAAAAAA"

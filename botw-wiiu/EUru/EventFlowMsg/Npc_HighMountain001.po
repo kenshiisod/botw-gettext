@@ -1,54 +1,54 @@
 msgid "Talk_01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]Добрый день![Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0702\"]Добрый день![Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk_14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Вон то место с флагами и есть\n"
-"[Color name=\"blue\"]летная школа[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Хоть бы [Color name=\"blue\"]папа[Color name=\"unset\"] скорее вернулся![PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Вон то место с флагами и есть\n"
+"[Color name=\"blue\"]летная школа[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"0109\"]Хоть бы [Color name=\"blue\"]папа[Color name=\"unset\"] скорее вернулся![PauseShort]\n"
 "Мне не терпится там поиграть!"
 
 msgid "Talk_02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]Добрый вечер![Choice3 label1=\"2\" label2=\"0\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0702\"]Добрый вечер![Choice3 label1=\"2\" label2=\"0\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"10\"]Хороший ответ![PageBreak][Color name=\"blue\"]Папа[Color name=\"unset\"] говорит, что очень важно\n"
+"[Sound1 bytes=\"000A\"]Хороший ответ![PageBreak][Color name=\"blue\"]Папа[Color name=\"unset\"] говорит, что очень важно\n"
 "уметь правильно здороваться!"
 
 msgid "Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Но ему уже намного лучше.[PauseShort] Скоро он\n"
+"[Sound1 bytes=\"0000\"]Но ему уже намного лучше.[PauseShort] Скоро он\n"
 "снова возьмет меня в [Color name=\"blue\"]летную школу[Color name=\"unset\"]!"
 
 msgid "Talk_04"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Дядя, ты очень странный."
+msgstr "[Sound1 bytes=\"0414\"]Дядя, ты очень странный."
 
 msgid "Talk_17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Кажется, [Color name=\"blue\"]папина[Color name=\"unset\"] рана почти зажила.[PageBreak]Он пообещал, что скоро мы снова\n"
+"[Sound1 bytes=\"0000\"]Кажется, [Color name=\"blue\"]папина[Color name=\"unset\"] рана почти зажила.[PageBreak]Он пообещал, что скоро мы снова\n"
 "пойдем играть у [Color name=\"blue\"]летной школы[Color name=\"unset\"]!"
 
 msgid "Talk_05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Привет!"
+msgstr "[Sound1 bytes=\"0002\"]Привет!"
 
 msgid "Talk_18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]Папа[Color name=\"unset\"] обещал поиграть со мной\n"
-"у [Color name=\"blue\"]летной школы[Color name=\"unset\"], когда вернется![Choice2 label1=\"7\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"][Color name=\"blue\"]Папа[Color name=\"unset\"] обещал поиграть со мной\n"
+"у [Color name=\"blue\"]летной школы[Color name=\"unset\"], когда вернется![Choice2 label1=\"7\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Привет, странный дядя!"
+msgstr "[Sound1 bytes=\"0002\"]Привет, странный дядя!"
 
 msgid "Talk_19"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"blue\"]Папа[Color name=\"unset\"] наконец-то вернулся с работы![PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]Он, кажется, поранился..."
+msgstr "[Sound1 bytes=\"0101\"][Color name=\"blue\"]Папа[Color name=\"unset\"] наконец-то вернулся с работы![PageBreak][Sound1 bytes=\"0301\"]Он, кажется, поранился..."
 
 msgid "Talk_07"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Жду не дождусь!"
+msgstr "[Sound1 bytes=\"0700\"]Жду не дождусь!"
 
 msgid "Talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]А знаешь что?[PauseShort] [Color name=\"blue\"]Папа[Color name=\"unset\"] обещал\n"
-"поиграть со мной![Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]А знаешь что?[PauseShort] [Color name=\"blue\"]Папа[Color name=\"unset\"] обещал\n"
+"поиграть со мной![Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "Доброе утро!"
@@ -73,39 +73,39 @@ msgstr "Где летная школа?"
 
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]Скоро!♪[PauseShort] Очень скоро!♪[PauseShort]\n"
+"[Sound1 bytes=\"011A\"]Скоро!♪[PauseShort] Очень скоро!♪[PauseShort]\n"
 "[Color name=\"blue\"]Папа[Color name=\"unset\"] вернется очень скоро!♪"
 
 msgid "Talk_21"
-msgstr "[Sound1 unk1=\"1\" unk2=\"26\"]Ля-ля-ля![PauseShort] М-м-м!♪"
+msgstr "[Sound1 bytes=\"011A\"]Ля-ля-ля![PauseShort] М-м-м!♪"
 
 msgid "Talk_22"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Ты тоже приходи!"
+msgstr "[Sound1 bytes=\"0101\"]Ты тоже приходи!"
 
 msgid "Talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Фью...[PauseMid] [Color name=\"blue\"]Папа[Color name=\"unset\"]?.."
+msgstr "[Sound1 bytes=\"0021\"]Фью...[PauseMid] [Color name=\"blue\"]Папа[Color name=\"unset\"]?.."
 
 msgid "Talk_23"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Честно-честно?[PauseShort] Ура!"
+msgstr "[Sound1 bytes=\"0700\"]Честно-честно?[PauseShort] Ура!"
 
 msgid "Talk_11"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]Уо-о-а...[PauseMid] Спать..."
+msgstr "[Sound1 bytes=\"0922\"]Уо-о-а...[PauseMid] Спать..."
 
 msgid "Talk_24"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Обязательно приходи — поиграем!"
+msgstr "[Sound1 bytes=\"0700\"]Обязательно приходи — поиграем!"
 
 msgid "Talk_12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Да![PauseShort] У [Color name=\"blue\"]летной школы[Color name=\"unset\"] можно\n"
+"[Sound1 bytes=\"0101\"]Да![PauseShort] У [Color name=\"blue\"]летной школы[Color name=\"unset\"] можно\n"
 "расправить крылья и вух! —\n"
-"взмыть в небо![Choice2 label1=\"7\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"взмыть в небо![Choice2 label1=\"7\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]Доброе утро![Choice3 label1=\"0\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0702\"]Доброе утро![Choice3 label1=\"0\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk_13"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Почему ты так ходишь?[PauseShort]\n"
+"[Sound1 bytes=\"0A00\"]Почему ты так ходишь?[PauseShort]\n"
 "Тебе не холодно?"
 
 msgid "_ReadOnly_MsbtExtras"

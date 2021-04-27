@@ -1,67 +1,67 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]イタタタ… [PauseShort]ひどい目に遭いました"
+msgstr "[Sound1 bytes=\"030C\"]イタタタ… [PauseShort]ひどい目に遭いました"
 
 #, ruby
 msgid "MSG_Futa_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]美しさと存在感も大切だけど\n"
+"[Sound1 bytes=\"0004\"]美しさと存在感も大切だけど\n"
 "それだけじゃあね…[PauseLong]\n"
 "やっぱり宝石はお金に換えてナンボよね…"
 
 #, ruby
 msgid "MSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]双子山では 鉱石がたくさん採れますのよ！[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]双子山では 鉱石がたくさん採れますのよ！[PauseShort]\n"
 "鉱石は高く売れますし\n"
 "私もハンマー持って 掘り当に行こうかしら！"
 
 #, ruby
 msgid "RetMSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]この辺りには 質の高い鉱石が多いし[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]この辺りには 質の高い鉱石が多いし[PauseShort]\n"
 "豪快に[Color name=\"red\"]ドカーン[Color name=\"unset\"]と 爆弾を使ってみたら？"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]これは 感謝の気持ちです！"
+msgstr "[Sound1 bytes=\"010B\"]これは 感謝の気持ちです！"
 
 #, ruby
 msgid "RetMSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]宝石のキラキラも大好きだけど\n"
+"[Sound1 bytes=\"0004\"]宝石のキラキラも大好きだけど\n"
 "宝石を売って手に入るお金は\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]もっとキラキラしているの…[PauseLong]\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]私って [PauseShort]本当にキラキラしたものが好きみたい"
+"[Sound1 bytes=\"0101\"]もっとキラキラしているの…[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]私って [PauseShort]本当にキラキラしたものが好きみたい"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"32\"]はぁ…[PauseShort] はぁ… [PauseMid]\n"
+"[Sound1 bytes=\"0320\"]はぁ…[PauseShort] はぁ… [PauseMid]\n"
 "正直 もうだめかと…"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]しーっ… [PauseMid]まだ 魔物がいるみたい…[PauseMid]"
+msgstr "[Sound1 bytes=\"032A\"]しーっ… [PauseMid]まだ 魔物がいるみたい…[PauseMid]"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]もう 魔物はいませんよね？ [PauseMid]ね？"
+msgstr "[Sound1 bytes=\"0012\"]もう 魔物はいませんよね？ [PauseMid]ね？"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]ふぅ… [PauseShort]\n"
+"[Sound1 bytes=\"0012\"]ふぅ… [PauseShort]\n"
 "なんとか 逃げ切ることができました…"
 
 #, ruby
 msgid "MSG_Futa_02_1"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は 道なりに 北に進むとあるわよ"
+msgstr "[Sound1 bytes=\"0004\"][Color name=\"blue\"]カカリコ村[Color name=\"unset\"]は 道なりに 北に進むとあるわよ"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…あなたのポーチ 素敵だけど[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…あなたのポーチ 素敵だけど[PauseShort]\n"
 "鉱石を入れっぱなしにしたりしてない？\n"
 "もしそうだとしたら[PauseShort]\n"
 "高く売れるのに 宝の持ちぐされだなって"
@@ -69,7 +69,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]なんだかお腹すいちゃったわ\n"
+"[Sound1 bytes=\"0004\"]なんだかお腹すいちゃったわ\n"
 "\n"
 "温泉に[Color name=\"blue\"]トリのタマゴ[Color name=\"unset\"]を入れて\n"
 "「ゆでタマゴ」でも作ろうかな"
@@ -77,15 +77,15 @@ msgstr ""
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]雨だと バクダン矢の火が消えちゃうから\n"
+"[Sound1 bytes=\"0000\"]雨だと バクダン矢の火が消えちゃうから\n"
 "使えなくなるんですってね\n"
-"[Sound1 unk1=\"0\" unk2=\"6\"]…なあに その顔[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]…なあに その顔[PauseMid]\n"
 "私って 宝石以外の話しちゃいけないの？"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]う～ん…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]う～ん…[PauseMid]\n"
 "\n"
 "雨は私を無口にするのよね"
 
@@ -96,13 +96,13 @@ msgstr "♪朝はダイヤモンド～"
 #, ruby
 msgid "RetMSG_Futa_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]爆弾を使う人もいるみたいだけど…\n"
+"[Sound1 bytes=\"0004\"]爆弾を使う人もいるみたいだけど…\n"
 "鉱石集めには やっぱりハンマーよね"
 
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]もうおしまいかと思ったけど\n"
+"[Sound1 bytes=\"010B\"]もうおしまいかと思ったけど\n"
 "命拾いしましたわ！"
 
 #, ruby
@@ -112,7 +112,7 @@ msgstr "♪トパーズの日差し～"
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]なんて お強いんでしょう！[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]なんて お強いんでしょう！[PauseLong]\n"
 "助けていただいたご恩は 決して忘れません"
 
 msgid "Near02"
@@ -125,11 +125,11 @@ msgstr "♪星はサファイア～"
 #, ruby
 msgid "MSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]う～ん… [PauseShort]あなたは男の人だし[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]う～ん… [PauseShort]あなたは男の人だし[PauseShort]\n"
 "ご興味あるかどうか…[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]要するに 宝石の話なんですけれど[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]要するに 宝石の話なんですけれど[PauseShort]\n"
 "あまり ご興味ない？\n"
-"[Sound1 unk1=\"0\" unk2=\"6\"]では 宝石はバカ高く売れると知ったら[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]では 宝石はバカ高く売れると知ったら[PauseShort]\n"
 "どうかしら？"
 
 #, ruby
@@ -139,56 +139,56 @@ msgstr "♪オパールの雨～"
 #, ruby
 msgid "MSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…あなた[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…あなた[PauseShort]\n"
 "双子山に行った事はおあり？\n"
 "あの山は 鉱石がたくさん採れますのよ！[PauseShort]\n"
 "ハンマーとか使って 掘り当ててみたいわ！\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]そして… [PauseShort]誰でもいいから\n"
+"[Sound1 bytes=\"0109\"]そして… [PauseShort]誰でもいいから\n"
 "できるだけバカ高く 売りつけたい！！\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]…ごめんなさい\n"
+"[Sound1 bytes=\"0501\"]…ごめんなさい\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]宝石の美しさを思ったら\n"
+"[Sound1 bytes=\"0001\"]宝石の美しさを思ったら\n"
 "ついつい 興奮しちゃいまして…"
 
 #, ruby
 msgid "MSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…もしかして あなた[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…もしかして あなた[PauseShort]\n"
 "[Color name=\"blue\"]カカリコ村[Color name=\"unset\"]に行きたいの？\n"
 "それなら 道なりに 北に進みなさい\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]私も あの村にあるお店に\n"
+"[Sound1 bytes=\"0109\"]私も あの村にあるお店に\n"
 "よく 鉱石を売りつけに行くのよ"
 
 #, ruby
 msgid "RetMSG_Futa_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私ってね キラキラしたものが好き…[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]私ってね キラキラしたものが好き…[PauseLong]\n"
 "夜空の星… 湖面の輝き… 美しい宝石…\n"
 "でも どれかひとつだけ選ぶとしたら[PauseShort]\n"
 "だんぜん宝石ね！\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]だって もし高値で売れば\n"
+"[Sound1 bytes=\"0109\"]だって もし高値で売れば\n"
 "キラキラしたお金が ガッポガポだもの！[PauseMid]\n"
 "私ってね キラキラしたものが好き…"
 
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"31\"]早く 逃げましょう！[PauseShort]\n"
+"[Sound1 bytes=\"041F\"]早く 逃げましょう！[PauseShort]\n"
 "[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]が こっちに来ます！"
 
 #, ruby
 msgid "MSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]う～ん…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]う～ん…[PauseMid]\n"
 "\n"
 "あら ごめんなさい[PauseShort] \n"
 "美しい妄想をしてたら ボーっとしちゃって…\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]妄想っていうのはね [PauseShort]\n"
+"[Sound1 bytes=\"0004\"]妄想っていうのはね [PauseShort]\n"
 "[Color name=\"blue\"]ルビー[Color name=\"unset\"]とか [Color name=\"blue\"]サファイア[Color name=\"unset\"]のこと…\n"
 "あの二種類は 特に高く売れますのよ！[PauseShort]\n"
 "売っぱらって換金してこその 宝石なのよッ！！[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"19\"]…ごめんなさい\n"
+"[Sound1 bytes=\"0013\"]…ごめんなさい\n"
 "\n"
 "宝石の美しさを思ったら\n"
 "ついつい 取り乱しちゃって…"
@@ -196,7 +196,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…突然だけど ハンマーはお持ち？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]…突然だけど ハンマーはお持ち？[PauseMid]\n"
 "鉱石集めに便利だって事 お伝えしておくわね\n"
 "危険を承知で 爆弾を使う人もいるけれど…[PauseShort]\n"
 "私の近くでドカンは やめてちょうだいね"
@@ -204,27 +204,27 @@ msgstr ""
 #, ruby
 msgid "MSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]鉱石の価値は 美しさと存在感にこそある…[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]鉱石の価値は 美しさと存在感にこそある…[PauseMid]\n"
 "いま私 そんなことを考えてたの\n"
 "お金に換えればウッハウハっていうのは[PauseShort]\n"
 "本来の価値とは違うと思うのよね\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]鉱石をお金に換えてきて\n"
+"[Sound1 bytes=\"0109\"]鉱石をお金に換えてきて\n"
 "ウッハウハの私が言うのも なんだけど…"
 
 #, ruby
 msgid "RetMSG_Futa_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…道に迷ったんでしょ？[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]…道に迷ったんでしょ？[PauseShort]\n"
 "いいのいいの [PauseShort]迷いは誰にでもあることよ\n"
 "南に行けば [Color name=\"blue\"]双子馬宿[Color name=\"unset\"] 東に行けば [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]…[PauseShort]\n"
 "地図があるなら それ見て進めばいいだけ\n"
-"[Sound1 unk1=\"5\" unk2=\"18\"]でもね…[PauseShort]\n"
+"[Sound1 bytes=\"0512\"]でもね…[PauseShort]\n"
 "人生の地図って ないのよねぇ…"
 
 #, ruby
 msgid "MSG_Futa_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]やっぱり宝石は換金してこそ！[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]やっぱり宝石は換金してこそ！[PauseLong]\n"
 "ですわよね！！\n"
 "特に高く売れる[Color name=\"blue\"]ルビー[Color name=\"unset\"]とか [Color name=\"blue\"]サファイア[Color name=\"unset\"]は\n"
 "持っていてるよりも 断然お得ですものね！"
@@ -232,46 +232,46 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Futa_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…あなた 危険物の扱いは慣れてるほう？\n"
+"[Sound1 bytes=\"0002\"]…あなた 危険物の扱いは慣れてるほう？\n"
 "\n"
 "この辺りには 質の高い鉱石が多いし[PauseShort]\n"
 "豪快に[Color name=\"red\"]ドカーン[Color name=\"unset\"]と 爆弾を使ってみたら？\n"
-"[Sound1 unk1=\"5\" unk2=\"6\"]ただし 私の近くでやらないでちょうだいね"
+"[Sound1 bytes=\"0506\"]ただし 私の近くでやらないでちょうだいね"
 
 #, ruby
 msgid "RetMSG_Futa_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私の頭の中って[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]私の頭の中って[PauseShort]\n"
 "鉱石や宝石や換金の事ばかり…\n"
 "たまには他愛のない事でも考えてみようかしら[PauseMid]\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]例えば…[PauseShort]\n"
+"[Sound1 bytes=\"0510\"]例えば…[PauseShort]\n"
 "温泉に[Color name=\"blue\"]トリのタマゴ[Color name=\"unset\"]を入れると\n"
 "「ゆでタマゴ」になる事とか…"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]あなたは 私の命の恩人です！[PauseMid]"
+msgstr "[Sound1 bytes=\"010B\"]あなたは 私の命の恩人です！[PauseMid]"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]あなたがいなかったら 私は今ごろ…[PauseMid]"
+msgstr "[Sound1 bytes=\"0012\"]あなたがいなかったら 私は今ごろ…[PauseMid]"
 
 #, ruby
 msgid "MSG_Futa_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]男の人でも 宝石はバカ高く売れると知ったら…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]男の人でも 宝石はバカ高く売れると知ったら…[PauseLong]\n"
 "そりゃ 興味が湧くわよね"
 
 #, ruby
 msgid "RetMSG_Futa_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]南に行けば [Color name=\"blue\"]双子馬宿[Color name=\"unset\"] 東に行けば [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]南に行けば [Color name=\"blue\"]双子馬宿[Color name=\"unset\"] 東に行けば [Color name=\"blue\"]ハテノ村[Color name=\"unset\"]…[PauseShort]\n"
 "地図があるなら それ見て進めばいいだけよ"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]あぁ このスリ傷…[PauseMid] \n"
+"[Sound1 bytes=\"030C\"]あぁ このスリ傷…[PauseMid] \n"
 "治るかしら…"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -1,23 +1,23 @@
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"4\"]のどかな風景だな……[PauseMid] たまには こういう場所で\n"
+"[Sound1 bytes=\"0B04\"]のどかな風景だな……[PauseMid] たまには こういう場所で\n"
 "まったりのんびり絵を描くのも 悪くないな"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"4\"]ほぅ この絵は 奥に[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]が写っているな\n"
+"[Sound1 bytes=\"0B04\"]ほぅ この絵は 奥に[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]が写っているな\n"
 "それならきっと [Color name=\"red\"]城の北[Color name=\"unset\"]にあるんじゃないか？\n"
 "城の南側は もともと城下町があったところだが\n"
 "建物らしいものが 描かれていないからな\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]おそらく 城の堀を越えた北側にあるのだろう\n"
+"[Sound1 bytes=\"0001\"]おそらく 城の堀を越えた北側にあるのだろう\n"
 "この馬宿からだと [Color name=\"red\"]南東[Color name=\"unset\"]のほうだな"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]ただ……[PauseMid] 城の近くは 非常に危険だ\n"
+"[Sound1 bytes=\"0B00\"]ただ……[PauseMid] 城の近くは 非常に危険だ\n"
 "危ないと思ったら すぐ逃げるんだぞ"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -1,7 +1,7 @@
 #, ruby
 msgid "Npc_Kokiri009_R_001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]きゃうッ！[PageBreak][Sound1 unk1=\"8\" unk2=\"0\"][Size percent=\"100\"]な！ なによ？！\n"
+"[Sound1 bytes=\"0A00\"][Size percent=\"125\"]きゃうッ！[PageBreak][Sound1 bytes=\"0800\"][Size percent=\"100\"]な！ なによ？！\n"
 "ビックリさせないでよね！\n"
 "[Color name=\"red\"]しれん[Color name=\"unset\"]には一人で行くから！\n"
 "もう決めたんだからね！"
@@ -9,7 +9,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Kokiri001_S1_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ [Color name=\"red\"]しれん[Color name=\"unset\"]どう？\n"
+"[Sound1 bytes=\"0000\"]あ！ [Color name=\"red\"]しれん[Color name=\"unset\"]どう？\n"
 "トッチーに 見つからないようにね！"
 
 #, ruby
@@ -21,21 +21,21 @@ msgstr "うあ！ オバケ！"
 
 msgid "Npc_Kokiri001_R_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ キミ！ ゆうしゃサマだよね？\n"
-"[Color name=\"red\"]コログしれん [Color name=\"unset\"]やるんだよね？？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]あ！ キミ！ ゆうしゃサマだよね？\n"
+"[Color name=\"red\"]コログしれん [Color name=\"unset\"]やるんだよね？？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kokiri009_R_002"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]ひゃあッ！[PageBreak][Size percent=\"100\"]だ！ だからビックリするじゃない！\n"
+"[Sound1 bytes=\"0A00\"][Size percent=\"125\"]ひゃあッ！[PageBreak][Size percent=\"100\"]だ！ だからビックリするじゃない！\n"
 "いきなり話しかけないでよね！"
 
 #, ruby
 msgid "Npc_Kokiri001_S1_002"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]あー[PauseShort] トッチーに見つかっちゃったか\n"
+"[Sound1 bytes=\"0B00\"]あー[PauseShort] トッチーに見つかっちゃったか\n"
 "けっこう神経質なんだよね あの子…[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]トッチーは また行く って言ってるから\n"
+"[Sound1 bytes=\"0000\"]トッチーは また行く って言ってるから\n"
 "もう一回 行ってもらえると 嬉しいんだけど！\n"
 "いいかな？ いいよね？\n"
 "じゃあ お願いするね！"
@@ -51,13 +51,13 @@ msgstr "[Sound2 id=\"16\"]なんだ 木の影じゃん"
 #, ruby
 msgid "Npc_Kokiri001_R_002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]あ！ やっぱり！\n"
+"[Sound1 bytes=\"0700\"]あ！ やっぱり！\n"
 "ちょっと頼み事があるんだけど！"
 
 #, ruby
 msgid "Npc_Kokiri001_S1_003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あー[PauseShort] 気が付いた？[PageBreak]キミ 森で迷っちゃったみたいだね[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]あー[PauseShort] 気が付いた？[PageBreak]キミ 森で迷っちゃったみたいだね[PauseShort]\n"
 "トッチーが連れて戻った時は ビックリしたよ！\n"
 "トッチーは また行く って言ってるから\n"
 "もう一回 行ってもらえると 嬉しいんだけど！\n"
@@ -67,25 +67,25 @@ msgstr ""
 #, ruby
 msgid "Npc_Kokiri001_R_003"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]今ね ワタシのチビすけ トッチーが\n"
+"[Sound1 bytes=\"0B01\"]今ね ワタシのチビすけ トッチーが\n"
 "[Color name=\"red\"]コログしれん[Color name=\"unset\"]に 出たんだけど…[PauseMid]\n"
 "いつもは ワタシも一緒に 行くんだけど…[PauseMid]\n"
 "どうしても 一人で行く って言ってきかないのね\n"
 "しょうがないから 一人で行かせたんだけど…[PauseMid]\n"
 "迷子にならないか 不安なのね\n"
-"[Sound1 unk1=\"6\" unk2=\"9\"]ちょっと[Color name=\"red\"]後ろをついていって欲しい[Color name=\"unset\"]のよ！\n"
+"[Sound1 bytes=\"0609\"]ちょっと[Color name=\"red\"]後ろをついていって欲しい[Color name=\"unset\"]のよ！\n"
 "あ！ 見つからないようにね！"
 
 msgid "Npc_Kokiri009_S1_Near010_01"
 msgstr "[Sound2 id=\"40\"]だいじょぶだいじょぶ"
 
 msgid "Npc_Kokiri001_S1_004"
-msgstr "あ！ [Color name=\"red\"]しれん[Color name=\"unset\"]どう？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "あ！ [Color name=\"red\"]しれん[Color name=\"unset\"]どう？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kokiri001_R_004"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ 違うのね！\n"
+"[Sound1 bytes=\"0000\"]あ！ 違うのね！\n"
 "それは失敬失敬！"
 
 #, ruby
@@ -98,18 +98,18 @@ msgstr "[Sound2 id=\"10\"]オバケなんていない…"
 #, ruby
 msgid "Npc_Kokiri001_S1_005"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"21\"]え！ 見失ったの？！[PageBreak][Size percent=\"100\"][Sound1 unk1=\"0\" unk2=\"0\"]トッチー 迷子になってるかも…\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0A15\"]え！ 見失ったの？！[PageBreak][Size percent=\"100\"][Sound1 bytes=\"0000\"]トッチー 迷子になってるかも…\n"
 "見てくるね！"
 
 msgid "Npc_Kokiri001_R_005"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ さっきの！[PauseShort]\n"
-"やっぱり[Color name=\"red\"]コログしれん[Color name=\"unset\"] やるの？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]あ！ さっきの！[PauseShort]\n"
+"やっぱり[Color name=\"red\"]コログしれん[Color name=\"unset\"] やるの？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Kokiri001_S1_006"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"18\"]ふー…\n"
+"[Sound1 bytes=\"0612\"]ふー…\n"
 "風の音を怖がって 立ち止まってたよ あの子\n"
 "トッチーは また行くって言ってるから\n"
 "もう一回 行ってもらえると 嬉しいんだけど！\n"
@@ -119,25 +119,25 @@ msgstr ""
 #, ruby
 msgid "Npc_Kokiri001_R_006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ やるのね！\n"
+"[Sound1 bytes=\"0000\"]あ！ やるのね！\n"
 "ちょっと頼み事があるんだけど！"
 
 #, ruby
 msgid "Npc_Kokiri001_S1_007"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]それなら良かった！\n"
+"[Sound1 bytes=\"0700\"]それなら良かった！\n"
 "[Color name=\"red\"]トッチーに 見つからないように[Color name=\"unset\"]ね！"
 
 #, ruby
 msgid "Npc_Kokiri001_R_007"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ！ やっぱり違うのね！\n"
+"[Sound1 bytes=\"0000\"]あ！ やっぱり違うのね！\n"
 "ごめんごめーん！"
 
 #, ruby
 msgid "Npc_Kokiri009_S1_001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]きぃやあああ！！ オバケぇえええ！！[PageBreak][Size percent=\"100\"]…って なにあなた？！\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]きぃやあああ！！ オバケぇえええ！！[PageBreak][Size percent=\"100\"]…って なにあなた？！\n"
 "付いてきてたの？！\n"
 "一人で大丈夫って言ったのに！\n"
 "もう！ やり直しじゃない！"
@@ -178,7 +178,7 @@ msgstr "[Sound2 id=\"7\"]あ！ 祠が見えた！"
 
 #, ruby
 msgid "Npc_Kokiri009_F1_001"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"][Size percent=\"125\"]やった 着いたー！ [Color name=\"red\"]しれん[Color name=\"unset\"]終わりー！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"070A\"][Size percent=\"125\"]やった 着いたー！ [Color name=\"red\"]しれん[Color name=\"unset\"]終わりー！[Size percent=\"100\"]"
 
 msgid "Npc_Kokiri009_S1_Near001"
 msgstr "[Sound2 id=\"10\"]しれんこっちだよね…"
@@ -190,11 +190,11 @@ msgstr "[Sound2 id=\"9\"]やっと着いた！"
 #, ruby
 msgid "Npc_Kokiri009_F1_002"
 msgstr ""
-"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"21\"][Size percent=\"100\"]え！ 誰？！[PauseMid]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0A15\"][Size percent=\"100\"]え！ 誰？！[PauseMid]\n"
 "あ！ あなた ひょっとして ゆうしゃサマ？！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ゆうしゃサマ！[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]ゆうしゃサマ！[PauseShort]\n"
 "わたし ちゃんと一人で [Color name=\"red\"]しれん[Color name=\"unset\"]終わらせたよ！\n"
-"[Sound1 unk1=\"10\" unk2=\"19\"]あ [PauseShort]そうだ！[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]祠で ゆうしゃサマの祝福が待ってるって\n"
+"[Sound1 bytes=\"0A13\"]あ [PauseShort]そうだ！[PageBreak][Sound1 bytes=\"0701\"]祠で ゆうしゃサマの祝福が待ってるって\n"
 "デクの樹サマが言ってたよ！ [PauseMid]行ってみたら？"
 
 #, ruby

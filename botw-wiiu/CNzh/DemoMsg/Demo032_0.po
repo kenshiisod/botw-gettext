@@ -33,27 +33,27 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]修复完成。"
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]哟嗨！"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]哟嗨！"
 
 msgid "Demo032_0_Text018"
 msgstr "[Animation name=\"Activate\"]希卡感应器的功能扩展完毕。"
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]嗯～[PauseLong]你好像没什么精神，[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]嗯～[PauseLong]你好像没什么精神，[PauseShort]\n"
 "不过算了。"
 
 msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]静止器的功能扩展完毕。"
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]嗨嗨～！[PauseShort]那么我就收下了～！"
+msgstr "[Sound1 bytes=\"0709\"]嗨嗨～！[PauseShort]那么我就收下了～！"
 
 msgid "Demo032_0_Text008"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]勇导石[Color name=\"unset\"]，限制解除！"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0001\"]勇导石[Color name=\"unset\"]，限制解除！"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]那么，那句话……[PauseShort]你说来听听～！"
+msgstr "[Sound1 bytes=\"010B\"]那么，那句话……[PauseShort]你说来听听～！"
 
 msgid "Demo032_0_Text020"
 msgstr "[Animation name=\"Activate\"]遥控炸弹的功能扩展完毕。"
@@ -70,7 +70,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]那么，[Color name=\"blue\"]希卡之石[Color name=\"unset\"]的修复工作，[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]那么，[Color name=\"blue\"]希卡之石[Color name=\"unset\"]的修复工作，[PauseShort]\n"
 "现在开始～！"
 
 msgid "Demo032_0_Text023"
@@ -78,7 +78,7 @@ msgstr "[Animation name=\"Activate\"]道具添加完毕。"
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那么，[Color name=\"blue\"]希卡感应器[Color name=\"unset\"]的强化工作，[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那么，[Color name=\"blue\"]希卡感应器[Color name=\"unset\"]的强化工作，[PauseShort]\n"
 "现在开始了～！"
 
 msgid "Demo032_0_Text024"
@@ -86,7 +86,7 @@ msgstr "[Animation name=\"Activate\"]关联希卡感应器和海拉鲁图鉴。"
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那么，[Color name=\"blue\"]遥控炸弹[Color name=\"unset\"]的强化工作，[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那么，[Color name=\"blue\"]遥控炸弹[Color name=\"unset\"]的强化工作，[PauseShort]\n"
 "现在开始～！"
 
 msgid "Demo032_0_Text000"
@@ -94,7 +94,7 @@ msgstr "[Animation name=\"Activate\"]希卡之石认证完毕。"
 
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]那么，[Color name=\"blue\"]静止器[Color name=\"unset\"]的强化工作，[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]那么，[Color name=\"blue\"]静止器[Color name=\"unset\"]的强化工作，[PauseShort]\n"
 "现在开始咯～！"
 
 msgid "_ReadOnly_MsbtExtras"

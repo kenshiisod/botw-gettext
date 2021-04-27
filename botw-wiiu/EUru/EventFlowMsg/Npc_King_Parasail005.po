@@ -5,15 +5,15 @@ msgstr ""
 
 msgid "Appear01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Что ж, ты посетил все святилища\n"
+"[Sound1 bytes=\"0001\"]Что ж, ты посетил все святилища\n"
 "на плато и получил [Color name=\"blue\"]сферы духа[Color name=\"unset\"]."
 
 msgid "Appear02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо!"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Хо-хо-хо!"
 
 msgid "Appear03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Вот и настал этот момент...[PauseLong] Линк.[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]Вот и настал этот момент...[PauseLong] Линк.[PauseShort]\n"
 "Тебе пора узнать правду.[PauseShort] Я все\n"
 "расскажу, но не здесь."
 

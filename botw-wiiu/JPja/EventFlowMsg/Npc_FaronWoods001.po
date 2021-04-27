@@ -1,13 +1,13 @@
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]そう またいつでも聞いてね"
+msgstr "[Sound1 bytes=\"0000\"]そう またいつでも聞いてね"
 
 msgid "Near01"
 msgstr "よしよし"
 
 #, ruby
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]他に 聞きたいことはある？[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]他に 聞きたいことはある？[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near02"
 msgstr "すやすや"
@@ -25,10 +25,10 @@ msgstr "寝ようかね"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]あら あなた 世話になったねぇ\n"
+"[Sound1 bytes=\"0102\"]あら あなた 世話になったねぇ\n"
 "お礼に この辺のこと いろいろ教えてあげる\n"
 "[04:03]巨大な馬の話や[PauseShort] 死んだ馬が生き返るなんて話[PauseShort]\n"
-"興味ないかい？[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"興味ないかい？[Choice3 label1=\"1\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk01"
 msgstr "すやすや…"
@@ -40,7 +40,7 @@ msgstr "馬が生き返る？"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]この近くにはね\n"
+"[Sound1 bytes=\"0000\"]この近くにはね\n"
 "不思議な[Color name=\"red\"]馬の神様[Color name=\"unset\"]が住んでいてね\n"
 "死んでしまった馬を\n"
 "生き返らせてくれるんだよ\n"
@@ -54,7 +54,7 @@ msgstr "巨大な馬？"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ここから 西に向かうとね\n"
+"[Sound1 bytes=\"0000\"]ここから 西に向かうとね\n"
 "[Color name=\"blue\"]オブババ草地[Color name=\"unset\"]っていう 場所があってね\n"
 "そこには [Color name=\"red\"]とっても大きな馬[Color name=\"unset\"]が すんでいるの\n"
 "それはもう大きいんだから"

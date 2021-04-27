@@ -1,6 +1,6 @@
 #, ruby
 msgid "talk_09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]モノ好きだね…"
+msgstr "[Sound1 bytes=\"0000\"]モノ好きだね…"
 
 #, ruby
 msgid "0001"
@@ -17,58 +17,58 @@ msgstr "故郷？"
 #, ruby
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]うーん ここの暑さはほどよくて気持ちいいねぇ\n"
+"[Sound1 bytes=\"0000\"]うーん ここの暑さはほどよくて気持ちいいねぇ\n"
 "砂漠の暑さとは大違いだよ\n"
-"アンタは観光かい？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"アンタは観光かい？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]サヴォッタ"
 
 msgid "talk_11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]サヴァーク"
 
 msgid "talk_01"
 msgstr "ZZzz…"
 
 msgid "talk_12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]サヴァサーバ"
 
 #, ruby
 msgid "talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あそこに見える島 [Color name=\"blue\"]サイハテノ島[Color name=\"unset\"]っていうんだ[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]あそこに見える島 [Color name=\"blue\"]サイハテノ島[Color name=\"unset\"]っていうんだ[PauseShort]\n"
 "ワタシは あそこに行きたくて ここまで来たんだ"
 
 #, ruby
 msgid "talk_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ここから東の沖にある大きな島[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ここから東の沖にある大きな島[PauseShort]\n"
 "[Color name=\"blue\"]サイハテノ島[Color name=\"unset\"]っていうんだけどね\n"
 "ワタシは そこに行きたくて\n"
 "ここまで来たんだ"
 
 #, ruby
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]ワタシにも [Color name=\"red\"]翼[Color name=\"unset\"]が生えてればねえ…[PauseShort]"
+msgstr "[Sound1 bytes=\"0B00\"]ワタシにも [Color name=\"red\"]翼[Color name=\"unset\"]が生えてればねえ…[PauseShort]"
 
 #, ruby
 msgid "talk_04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]ただ 船でも たどり着くのは 難しくてね[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]ただ 船でも たどり着くのは 難しくてね[PauseShort]\n"
 "[Color name=\"red\"]翼[Color name=\"unset\"]でも生えてないと 行けそうにないね…"
 
 #, ruby
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ふう 雨ってのは 嫌なもんだね\n"
-"故郷が懐かしいよ[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0900\"]ふう 雨ってのは 嫌なもんだね\n"
+"故郷が懐かしいよ[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Near00"
 msgstr "遠いな…"
 
 msgid "talk_06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]そうかい ワタシはね…[PauseShort]"
+msgstr "[Sound1 bytes=\"0604\"]そうかい ワタシはね…[PauseShort]"
 
 #, ruby
 msgid "Near01"
@@ -77,7 +77,7 @@ msgstr "降ってきたね"
 #, ruby
 msgid "talk_07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"4\"]ああ ワタシの故郷は ゲルドの街\n"
+"[Sound1 bytes=\"0604\"]ああ ワタシの故郷は ゲルドの街\n"
 "砂漠に囲まれた街なのさ"
 
 msgid "Near02"
@@ -86,7 +86,7 @@ msgstr "うとうと"
 #, ruby
 msgid "talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ああ ワタシの故郷は ゲルドの街\n"
+"[Sound1 bytes=\"0000\"]ああ ワタシの故郷は ゲルドの街\n"
 "砂漠に囲まれた街なのさ\n"
 "砂漠には 雨は降らないからね\n"
 "\n"

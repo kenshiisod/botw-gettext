@@ -12,7 +12,7 @@ msgstr ""
 "que protege[PauseMid] y vigila."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]Ah, hola, viajero.[PauseShort] ¿Qué te trae por aquí?"
+msgstr "[Sound1 bytes=\"0B06\"]Ah, hola, viajero.[PauseShort] ¿Qué te trae por aquí?"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
 msgstr ""
@@ -22,13 +22,13 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Tengo la certeza de que mi maestro\n"
+"[Sound1 bytes=\"030C\"]Tengo la certeza de que mi maestro\n"
 "también debió entonar este verso\n"
 "aquí mismo..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Bueno, supongo que todos tenemos\n"
+"[Sound1 bytes=\"0001\"]Bueno, supongo que todos tenemos\n"
 "nuestras razones para viajar."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
@@ -39,7 +39,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Haré lo que sea necesario para cumplir\n"
+"[Sound1 bytes=\"0101\"]Haré lo que sea necesario para cumplir\n"
 "sus deseos y darle una conclusión\n"
 "a su balada."
 
@@ -50,28 +50,28 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Para ello necesito saber más sobre\n"
+"[Sound1 bytes=\"0001\"]Para ello necesito saber más sobre\n"
 "los campeones."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]Estoy encantado de poder interpretar\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]Estoy encantado de poder interpretar\n"
 "este canto donde cita su propia letra..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Por suerte, tanto el [Color name=\"blue\"]rey zora[Color name=\"unset\"] como\n"
+"[Sound1 bytes=\"0000\"]Por suerte, tanto el [Color name=\"blue\"]rey zora[Color name=\"unset\"] como\n"
 "el [Color name=\"blue\"]príncipe[Color name=\"unset\"] compartieron conmigo\n"
 "grandes historias sobre Mipha."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]Forma parte de la balada de mi maestro\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]Forma parte de la balada de mi maestro\n"
 "y trata sobre [Color name=\"blue\"]Mipha[Color name=\"unset\"], la [Color name=\"blue\"]campeona[Color name=\"unset\"].[PageBreak][PauseAuto frames=\"40\"]Permíteme que te lo cante."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]Cuando termine, cantaré la balada bajo\n"
+"[Sound1 bytes=\"0018\"]Cuando termine, cantaré la balada bajo\n"
 "este cielo azul que mi maestro tanto\n"
 "amaba... Ese es el objetivo de mi viaje."
 

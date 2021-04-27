@@ -1,12 +1,12 @@
 msgid "talk09"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"][Size percent=\"80\"]不～行～[PauseLong]感觉不会出来～[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0900\"][Size percent=\"80\"]不～行～[PauseLong]感觉不会出来～[Size percent=\"100\"]"
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"][Size percent=\"80\"]这边什么都看不到～！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0900\"][Size percent=\"80\"]这边什么都看不到～！[Size percent=\"100\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]阿俄塔！[PauseShort]要不要去确认一下～？[PauseLong]\n"
+"[Sound1 bytes=\"0003\"]阿俄塔！[PauseShort]要不要去确认一下～？[PauseLong]\n"
 "看看有没有[Color name=\"red\"]小女孩[Color name=\"unset\"]！"
 
 msgid "0000"
@@ -14,7 +14,7 @@ msgstr "惊！"
 
 msgid "talk11"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"3\"]我妈妈说过，[PauseShort]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0003\"]我妈妈说过，[PauseShort]\n"
 "不可以靠近研究所～[Size percent=\"100\"]"
 
 msgid "0001"
@@ -22,61 +22,61 @@ msgstr "再见"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]干嘛？[PauseShort]\n"
+"[Sound1 bytes=\"0800\"]干嘛？[PauseShort]\n"
 "别妨碍我们！"
 
 msgid "0002"
 msgstr "看什么？"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]干嘛啦！[PauseShort]别跟着我！"
+msgstr "[Sound1 bytes=\"0800\"]干嘛啦！[PauseShort]别跟着我！"
 
 msgid "0003"
 msgstr "抱歉抱歉"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]今天又是秘密行动，小有收获！[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]今天又是秘密行动，小有收获！[PauseMid]\n"
 "我是小孩，所以该睡了！"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]下次再继续探险！"
+msgstr "[Sound1 bytes=\"0000\"]下次再继续探险！"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]呼……[PauseShort]嘶……"
+msgstr "[Sound1 bytes=\"0021\"]呼……[PauseShort]嘶……"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"33\"]呼……[PauseShort]嘶……[PauseMid]\n"
+"[Sound1 bytes=\"0021\"]呼……[PauseShort]嘶……[PauseMid]\n"
 "呼噜……[PauseMid][Color name=\"red\"]希卡族的小女孩[Color name=\"unset\"]……[PauseShort]呼……"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]你是在打工对吧？\n"
+"[Sound1 bytes=\"0709\"]你是在打工对吧？\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]爸爸是这么说的，[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]爸爸是这么说的，[PauseShort]\n"
 "他说[Color name=\"blue\"]所长[Color name=\"unset\"]的工作是运送[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]。"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]希卡族的女孩子[Color name=\"unset\"]……[PauseShort]真的在吗～？"
+msgstr "[Sound1 bytes=\"0B00\"][Color name=\"red\"]希卡族的女孩子[Color name=\"unset\"]……[PauseShort]真的在吗～？"
 
 msgid "near00"
 msgstr "咿呀～！"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]大哥哥你拿着那个，也就是说……[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0604\"]大哥哥你拿着那个，也就是说……[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]希卡族的小女孩[Color name=\"unset\"]……[PauseShort]都不出来……"
+msgstr "[Sound1 bytes=\"0B00\"][Color name=\"red\"]希卡族的小女孩[Color name=\"unset\"]……[PauseShort]都不出来……"
 
 msgid "near01"
 msgstr "啊！"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]你是在打工对吧？\n"
+"[Sound1 bytes=\"0109\"]你是在打工对吧？\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]爸爸是这么说的，[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]爸爸是这么说的，[PauseShort]\n"
 "他说普尔亚婆婆的工作是运送[Color name=\"blue\"]蓝色火焰[Color name=\"unset\"]。"
 
 msgid "near02"
@@ -84,48 +84,48 @@ msgstr "嗯～～"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]诶……[PauseShort]这样可以拿多少钱？[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]诶……[PauseShort]这样可以拿多少钱？[PauseLong]\n"
 "我也想要打工！"
 
 msgid "talk20"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]喂！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0800\"]喂！[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "撤退～！"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]我想打工，我想打工！[PauseShort]我想打工嘛！"
+msgstr "[Sound1 bytes=\"070B\"]我想打工，我想打工！[PauseShort]我想打工嘛！"
 
 msgid "talk21"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"0\"]你这家伙！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0800\"]你这家伙！[Size percent=\"100\"]"
 
 msgid "near04"
 msgstr "呼……[PauseShort]嘶……"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]你站在那里我就看不到了！[PauseLong]走开！[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0800\"]你站在那里我就看不到了！[PauseLong]走开！[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]别糊弄我，你是在打工吧？"
+msgstr "[Sound1 bytes=\"0109\"]别糊弄我，你是在打工吧？"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]我看不到啊！[PauseLong]走开！[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0800\"]我看不到啊！[PauseLong]走开！[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]哼！"
+msgstr "[Sound1 bytes=\"0801\"]哼！"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"3\"]喂～阿俄塔！[PauseLong]\n"
+"[Sound1 bytes=\"0003\"]喂～阿俄塔！[PauseLong]\n"
 "你那边怎么样～？"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"][Color name=\"red\"]希卡族的小女孩[Color name=\"unset\"]……！\n"
+"[Sound1 bytes=\"0609\"][Color name=\"red\"]希卡族的小女孩[Color name=\"unset\"]……！\n"
 "\n"
 "[Size percent=\"80\"]没有啦……[Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"0\"]要是告诉你，我就当不成间谍了！[PauseLong]\n"
+"[Sound1 bytes=\"0800\"]要是告诉你，我就当不成间谍了！[PauseLong]\n"
 "我不会说的！"
 
 msgid "_ReadOnly_MsbtExtras"

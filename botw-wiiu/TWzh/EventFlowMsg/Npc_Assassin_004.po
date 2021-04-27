@@ -11,37 +11,37 @@ msgid "0004"
 msgstr "嗯？"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]嗚嗚……[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]嗚嗚……[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "……"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]嗚嗚……[PauseLong]\n"
-"我想要……[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"032A\"]嗚嗚……[PauseLong]\n"
+"我想要……[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]……烤[PauseLong]鮭魚。[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]……烤[PauseLong]鮭魚。[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]還有……"
+msgstr "[Sound1 bytes=\"0001\"]還有……"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]嗚嗚……[PauseLong]\n"
+"[Sound1 bytes=\"032A\"]嗚嗚……[PauseLong]\n"
 "我果然還是想要……"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]勇者的命！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]勇者的命！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]嗚嗚……[PauseMid]\n"
+"[Sound1 bytes=\"032A\"]嗚嗚……[PauseMid]\n"
 "我們不會再見面了……"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"40\"]嗚嗚……"

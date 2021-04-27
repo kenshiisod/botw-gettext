@@ -1,7 +1,7 @@
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]あなたって何者？\n"
+"[Sound1 bytes=\"0700\"]あなたって何者？\n"
 "ほんとに ありがとう！！\n"
 "こんな物じゃ 感謝しきれないけど…\n"
 "受け取って！"
@@ -9,23 +9,23 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]あぁ こわかった…\n"
+"[Sound1 bytes=\"0300\"]あぁ こわかった…\n"
 "ほんとに どうなることかと思ったわ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]これは お礼よ 受け取って"
+"[Sound1 bytes=\"0001\"]これは お礼よ 受け取って"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]あぁ あなたが来てくれなかったら\n"
+"[Sound1 bytes=\"0300\"]あぁ あなたが来てくれなかったら\n"
 "どうなっていたことか…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ありがとう これを受け取って"
+"[Sound1 bytes=\"0001\"]ありがとう これを受け取って"
 
 #, ruby
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]あぁ あんなところに魔物が…"
+msgstr "[Sound1 bytes=\"032A\"]あぁ あんなところに魔物が…"
 
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]どうしよう どうしよう…"
+msgstr "[Sound1 bytes=\"032A\"]どうしよう どうしよう…"
 
 #, ruby
 msgid "Near00"
@@ -38,14 +38,14 @@ msgstr "[Sound2 id=\"10\"]早く帰りたい…"
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]すすす… すごい！\n"
+"[Sound1 bytes=\"0700\"]すすす… すごい！\n"
 "あなたのおかげで 助かったわ！\n"
 "これは 気持ちよ 受け取って！"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"14\"]イッタアアァイ…\n"
+"[Sound1 bytes=\"090E\"]イッタアアァイ…\n"
 "\n"
 "お姉ちゃんが こんなところで\n"
 "キノコ狩りするなんて言うから いけないのよ…"
@@ -53,15 +53,15 @@ msgstr ""
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]なんてお礼を言ったらいいのか…\n"
+"[Sound1 bytes=\"0B00\"]なんてお礼を言ったらいいのか…\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]ほんとに ありがとう！\n"
+"[Sound1 bytes=\"0101\"]ほんとに ありがとう！\n"
 "これは ほんの気持ちよ 受け取って！"
 
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"14\"]アイタァ…\n"
+"[Sound1 bytes=\"090E\"]アイタァ…\n"
 "もう なんなの突然 あいつら…\n"
 "だから 私は キノコ狩りなんか \n"
 "いやだって言ったのよ…"
@@ -69,7 +69,7 @@ msgstr ""
 #, ruby
 msgid "After00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]私たち ここでキノコ狩りをしてたんだけど\n"
+"[Sound1 bytes=\"030C\"]私たち ここでキノコ狩りをしてたんだけど\n"
 "いきなり魔物に襲われちゃって…\n"
 "お姉ちゃんが マックストリュフが見つかるまで\n"
 "帰らないなんて言うからいけないのよ"
@@ -77,7 +77,7 @@ msgstr ""
 #, ruby
 msgid "Meeting00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]私は こんなところでキノコを採ってたら\n"
+"[Sound1 bytes=\"0900\"]私は こんなところでキノコを採ってたら\n"
 "命がいくつあっても足りないって言ってたのよ\n"
 "なのに お姉ちゃんたら すっかりキノコが\n"
 "お金に見えちゃってるみたいで…"
@@ -85,46 +85,46 @@ msgstr ""
 #, ruby
 msgid "Meeting01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]いいから 早く キノコを探しなさい！\n"
+"[Sound1 bytes=\"0800\"]いいから 早く キノコを探しなさい！\n"
 "\n"
 "マックストリュフが見つかるまでは\n"
 "帰らないからね！ メグ！"
 
 msgid "Meeting02"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ひえぇぇ…"
+msgstr "[Sound1 bytes=\"0900\"]ひえぇぇ…"
 
 #, ruby
 msgid "PairFailed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]あぁ お姉ちゃん… なんてこと…"
+msgstr "[Sound1 bytes=\"032A\"]あぁ お姉ちゃん… なんてこと…"
 
 #, ruby
 msgid "PairAtacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]お姉ちゃんがまだ… 魔物に…"
+msgstr "[Sound1 bytes=\"032A\"]お姉ちゃんがまだ… 魔物に…"
 
 #, ruby
 msgid "PairFailed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"22\"]いやーっ！ お姉ちゃーん！"
+msgstr "[Sound1 bytes=\"0316\"]いやーっ！ お姉ちゃーん！"
 
 #, ruby
 msgid "PairAtacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]お願い… お姉ちゃんを助けて！"
+msgstr "[Sound1 bytes=\"032A\"]お願い… お姉ちゃんを助けて！"
 
 #, ruby
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]お姉ちゃんが こんな所でキノコ狩りする\n"
+"[Sound1 bytes=\"0900\"]お姉ちゃんが こんな所でキノコ狩りする\n"
 "って言うから こんな目にあっちゃうんだよ…"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ありがとう！！\n"
+"[Sound1 bytes=\"0700\"]ありがとう！！\n"
 "あなたは 命の恩人よ！\n"
 "ぜひ お礼をさせてね！"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"9\" unk2=\"22\"]ガーディアンが 来るわよ！"
+msgstr "[Sound1 bytes=\"0916\"]ガーディアンが 来るわよ！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAGMAQAAAAAAABYAAAAEAAAAYAAAAGIAAABkAAAAZgAAAGgAAABqAAAAbAAAAG4AAABwAAAAcgAAAHQAAAB2AAAAeAAAAHoAAAB8AAAAngAAAMAAAADiAAAABAEAACYBAABIAQAAagEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA5AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAwADkAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA4AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAwADkAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMAA5AAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADAAOQAAAAAAAA=="

@@ -46,7 +46,7 @@ msgid "Talk13"
 msgstr ""
 "[Sound2 id=\"2\"]Сейчас моей силы хватит лишь\n"
 "на то, чтобы сделать твои вещи\n"
-"[Color name=\"red\"]чуть [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]чуть [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk30"
 msgstr "[Sound2 id=\"12\"]Мне жаль, но это улучшить нельзя."
@@ -54,7 +54,7 @@ msgstr "[Sound2 id=\"12\"]Мне жаль, но это улучшить нель
 msgid "Talk14"
 msgstr ""
 "[Sound2 id=\"2\"]Сейчас моей силы хватит на то, чтобы\n"
-"сделать твои вещи [Color name=\"red\"]немного [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"сделать твои вещи [Color name=\"red\"]немного [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk31"
 msgstr "[Sound2 id=\"10\"]Похоже, даже я не смогу это улучшить."
@@ -62,7 +62,7 @@ msgstr "[Sound2 id=\"10\"]Похоже, даже я не смогу это ул�
 msgid "Talk15"
 msgstr ""
 "[Sound2 id=\"2\"]Сейчас моей силы хватит на то, чтобы\n"
-"сделать твои вещи [Color name=\"red\"]намного [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"сделать твои вещи [Color name=\"red\"]намного [Color name=\"unset\"]лучше.[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk32"
 msgstr "[Sound2 id=\"10\"]Даже я не смогу улучшить эту вещь."
@@ -70,7 +70,7 @@ msgstr "[Sound2 id=\"10\"]Даже я не смогу улучшить эту в
 msgid "Talk16"
 msgstr ""
 "[Sound2 id=\"2\"]Сейчас моей силы хватит на то, чтобы\n"
-"улучшить твои вещи [Color name=\"red\"]до предела[Color name=\"unset\"].[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"улучшить твои вещи [Color name=\"red\"]до предела[Color name=\"unset\"].[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk33"
 msgstr ""
@@ -115,9 +115,9 @@ msgstr ""
 
 msgid "Talk53"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]Хм, кажется, у тебя нет вещей,\n"
+"[Sound1 bytes=\"0613\"]Хм, кажется, у тебя нет вещей,\n"
 "которые я могла бы улучшить.[PauseShort]\n"
-"Может, хочешь проверить?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"Может, хочешь проверить?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk37"
 msgstr ""
@@ -233,7 +233,7 @@ msgid "Talk22"
 msgstr "[Size percent=\"125\"]До встречи![Size percent=\"100\"]"
 
 msgid "Talk06"
-msgstr "Улучшим еще что-нибудь?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "Улучшим еще что-нибудь?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk23"
 msgstr "[Size percent=\"125\"]До свидания![Size percent=\"100\"]"
@@ -250,13 +250,13 @@ msgid "Talk24"
 msgstr "[Size percent=\"125\"]Еще увидимся![Size percent=\"100\"]"
 
 msgid "Talk41"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Size percent=\"80\"]Кхе-кхе...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0001\"][Size percent=\"80\"]Кхе-кхе...[Size percent=\"100\"]"
 
 msgid "Talk08"
 msgstr "Что ты хочешь улучшить?"
 
 msgid "Talk25"
-msgstr "[Sound2 id=\"2\"]Хочешь, чтобы я это улучшила?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"]Хочешь, чтобы я это улучшила?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk42"
 msgstr "[Size percent=\"80\"]Кха-кха...[Size percent=\"100\"]"
@@ -267,16 +267,16 @@ msgstr "Ладно, до встречи..."
 msgid "Talk26"
 msgstr ""
 "[Sound2 id=\"2\"]Ты действительно\n"
-"хочешь это улучшить?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"хочешь это улучшить?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk43"
 msgstr "[Size percent=\"80\"]Кхы...[Size percent=\"100\"]"
 
 msgid "Talk27"
-msgstr "[Sound2 id=\"2\"]Точно хочешь это улучшить?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"]Точно хочешь это улучшить?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk28"
-msgstr "[Sound2 id=\"2\"]Значит, вот что ты хочешь улучшить?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"2\"]Значит, вот что ты хочешь улучшить?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk45"
 msgstr "Ну что ты, не стесняйся."

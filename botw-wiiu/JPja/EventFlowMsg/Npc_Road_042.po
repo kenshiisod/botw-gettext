@@ -1,11 +1,11 @@
 #, ruby
 msgid "Failed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"16\"]イテテ… [PauseMid]頑丈な体なのに イテテ…"
+msgstr "[Sound1 bytes=\"0310\"]イテテ… [PauseMid]頑丈な体なのに イテテ…"
 
 #, ruby
 msgid "MSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]馬宿に着いたら 要らない物を売るといいゴロ！\n"
+"[Sound1 bytes=\"0004\"]馬宿に着いたら 要らない物を売るといいゴロ！\n"
 "\n"
 "要らない鉱石は おいらなら食べちゃうけど[PauseShort]\n"
 "[Color name=\"blue\"]ハイリア人[Color name=\"unset\"]なら… [PauseShort]売るゴロ？"
@@ -13,7 +13,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]なら\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]なら\n"
 "西の [Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]にあるゴロ！\n"
 "道中は熱くて大変だけど 一応お店もあるし…[PauseLong]\n"
 "一度 行ってみてほしいゴロ！"
@@ -21,49 +21,49 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]ゲルド地方から来たゲルド族…[PauseLong]\n"
+"[Sound1 bytes=\"000B\"]ゲルド地方から来たゲルド族…[PauseLong]\n"
 "美人だったゴロよ～！"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]ハイこれ [PauseShort]感謝の気持ちだゴロ！"
+msgstr "[Sound1 bytes=\"010A\"]ハイこれ [PauseShort]感謝の気持ちだゴロ！"
 
 #, ruby
 msgid "RetMSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ゴロン族は 岩が主食なんだけど[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]ゴロン族は 岩が主食なんだけど[PauseShort]\n"
 "珍しい鉱石は 食べるか売るか 迷っちゃうゴロ！"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]はぁ…[PauseShort] はぁ… [PauseMid]ぜぇ… [PauseShort]ぜぇ…[PauseMid]\n"
+"[Sound1 bytes=\"032A\"]はぁ…[PauseShort] はぁ… [PauseMid]ぜぇ… [PauseShort]ぜぇ…[PauseMid]\n"
 "ふぅ ノド乾いた"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]もう～ [PauseMid]魔物のやつめ～"
+msgstr "[Sound1 bytes=\"032A\"]もう～ [PauseMid]魔物のやつめ～"
 
 #, ruby
 msgid "SavedLv1_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]いやー[PauseShort] 助かったゴロ！"
+msgstr "[Sound1 bytes=\"0012\"]いやー[PauseShort] 助かったゴロ！"
 
 #, ruby
 msgid "RetMSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ゴロン族は 岩を食べて生活してるゴロ！\n"
+"[Sound1 bytes=\"0002\"]ゴロン族は 岩を食べて生活してるゴロ！\n"
 "\n"
 "でも 珍しい鉱石は 食べるか？ [PauseShort]売るか？[PauseLong]\n"
 "さすがに 迷ってしまうゴロ！"
 
 #, ruby
 msgid "SavedLv1_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]強いゴロねー！ [PauseShort]助かったゴロ！"
+msgstr "[Sound1 bytes=\"0012\"]強いゴロねー！ [PauseShort]助かったゴロ！"
 
 #, ruby
 msgid "RetMSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"][Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]の頂上に行くまでにある\n"
+"[Sound1 bytes=\"0002\"][Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]の頂上に行くまでにある\n"
 "[Color name=\"blue\"]ゴロン温泉[Color name=\"unset\"]を 知ってるゴロか？\n"
 "道は険しいが 温泉目的で訪れる旅人もいる…[PauseMid]\n"
 "っていう話を聞いたゴロ！\n"
@@ -72,7 +72,7 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]鉱石の中でも とても高価な物があるゴロ[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]鉱石の中でも とても高価な物があるゴロ[PauseLong]\n"
 "それらは 宝石って呼ばれてるゴロ\n"
 "宝石は宝箱や 鉱床から見つかる事があるけど…[PauseLong]\n"
 "食べてもマズいから 売る事にしてるゴロ"
@@ -80,54 +80,54 @@ msgstr ""
 #, ruby
 msgid "MSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]おいらの兄弟ボルドンも[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]おいらの兄弟ボルドンも[PauseShort]\n"
 "きっとどこかで 旅をしてるゴロ\n"
 "見かけたら 声かけてあげてほしいゴロ"
 
 #, ruby
 msgid "RetMSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]この前この街道で 南西のゲルド地方から来た[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]この前この街道で 南西のゲルド地方から来た[PauseShort]\n"
 "「ゲルド族」に 声をかけられたゴロ！！\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]美人だったゴロよ～！"
+"[Sound1 bytes=\"0109\"]美人だったゴロよ～！"
 
 #, ruby
 msgid "RetMSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]「[Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]」と「[Color name=\"blue\"]ミナッカレ馬宿[Color name=\"unset\"]」[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]「[Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]」と「[Color name=\"blue\"]ミナッカレ馬宿[Color name=\"unset\"]」[PauseMid]\n"
 "おいらも 時々 間違えるゴロ！\n"
 "こちらは えーっと… [PauseMid]どっちだったっけゴロ？"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]おいらはナッドン！[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]おいらはナッドン！[PauseLong]\n"
 "ボルドンという 兄弟がいるゴロ！\n"
 "彼は今頃 [Color name=\"blue\"]オルディン街道[Color name=\"unset\"]を旅しているゴロよ！"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]天気悪いゴロね…[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]天気悪いゴロね…[PauseLong]\n"
 "無理して 出歩かない方がいいゴロよ！"
 
 #, ruby
 msgid "RetMSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]「[Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]」と「[Color name=\"blue\"]ミナッカレ馬宿[Color name=\"unset\"]」…[PauseLong]\n"
+"[Sound1 bytes=\"0510\"]「[Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]」と「[Color name=\"blue\"]ミナッカレ馬宿[Color name=\"unset\"]」…[PauseLong]\n"
 "どっちが どっちだったっけゴロ？"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]ゴロゴロゴロ…！\n"
+"[Sound1 bytes=\"0510\"]ゴロゴロゴロ…！\n"
 "\n"
 "おいらじゃないゴロ！ [PauseShort]空が鳴ったゴロ…！"
 
 #, ruby
 msgid "MSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]鉱石持っているゴロ？[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]鉱石持っているゴロ？[PauseLong]\n"
 "持ってるなら お店で売っちゃうのがいいゴロ\n"
 "珍しい鉱石は 高く売れるゴロよ～！"
 
@@ -137,14 +137,14 @@ msgstr "おはゴロ…"
 #, ruby
 msgid "MSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]に 行ったことはあるゴロ？[PauseMid]\n"
+"[Sound1 bytes=\"0002\"][Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]に 行ったことはあるゴロ？[PauseMid]\n"
 "ここから西の [Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]にあるゴロ！\n"
 "ただ 道中はゴロン族以外は[PauseShort]\n"
 "熱くて大変だとも 聞いているゴロ！"
 
 #, ruby
 msgid "SavedLv2_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]いやー [PauseShort]ほんとうに助かったゴロ！"
+msgstr "[Sound1 bytes=\"000B\"]いやー [PauseShort]ほんとうに助かったゴロ！"
 
 #, ruby
 msgid "Near01"
@@ -153,7 +153,7 @@ msgstr "お昼ごろゴロ？"
 #, ruby
 msgid "MSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ボルドンというゴロン族を知っているゴロ？[PauseLong]\n"
+"[Sound1 bytes=\"0002\"]ボルドンというゴロン族を知っているゴロ？[PauseLong]\n"
 "彼は おいらの兄弟ゴロ！\n"
 "小さい事は気にしない 豪快なゴロン族だゴロ！[PauseLong]\n"
 "今頃 どこを旅しているゴロかね～？"
@@ -161,14 +161,14 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]にある[Color name=\"blue\"]ゴロン温泉[Color name=\"unset\"]は[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]にある[Color name=\"blue\"]ゴロン温泉[Color name=\"unset\"]は[PauseShort]\n"
 "知る人ぞ知る 名湯ゴロ\n"
 "でも 道は険しいし [Color name=\"blue\"]デスマウンテン[Color name=\"unset\"]は熱いし…[PauseLong]\n"
 "行くなら 命がけゴロよ"
 
 #, ruby
 msgid "SavedLv2_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]キミ 強いゴロね！[PauseMid] ありがとゴロ！"
+msgstr "[Sound1 bytes=\"000B\"]キミ 強いゴロね！[PauseMid] ありがとゴロ！"
 
 #, ruby
 msgid "Near02"
@@ -177,7 +177,7 @@ msgstr "岩食べたいゴロ…"
 #, ruby
 msgid "MSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]宝石は 高く売れるゴロよ！\n"
+"[Sound1 bytes=\"0002\"]宝石は 高く売れるゴロよ！\n"
 "\n"
 "旅の道中で 鉱床を見つけたら[PauseShort]\n"
 "採掘するクセをつける事を お勧めするゴロ！"
@@ -189,7 +189,7 @@ msgstr "岩のように眠いゴロ…"
 #, ruby
 msgid "MSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ここが [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]だゴロ！\n"
+"[Sound1 bytes=\"0002\"]ここが [Color name=\"blue\"]ヒガッカレ馬宿[Color name=\"unset\"]だゴロ！\n"
 "\n"
 "鉱石を持っているなら 食べないで[PauseShort]\n"
 "この馬宿で 売っちゃうのがいいゴロよ！\n"
@@ -202,38 +202,38 @@ msgstr "焼け石に水…"
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"31\"]早く 逃げるゴロ！[PauseMid]\n"
+"[Sound1 bytes=\"041F\"]早く 逃げるゴロ！[PauseMid]\n"
 "[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]が 来るゴロよー！"
 
 #, ruby
 msgid "MSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]道中で鉱床を見つけたら 採掘するゴロ！[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]道中で鉱床を見つけたら 採掘するゴロ！[PauseLong]\n"
 "出て来た宝石は 高く売れるしね！"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]命の恩人だゴロ！"
+msgstr "[Sound1 bytes=\"000B\"]命の恩人だゴロ！"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]ありがとう！ [PauseShort]危なかったゴロね！"
+msgstr "[Sound1 bytes=\"000B\"]ありがとう！ [PauseShort]危なかったゴロね！"
 
 #, ruby
 msgid "MSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]いらない鉱石は お店で売っちゃうのがいいゴロ[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]いらない鉱石は お店で売っちゃうのがいいゴロ[PauseLong]\n"
 "キラキラ光る宝石は 高く売れるゴロよ～！"
 
 #, ruby
 msgid "RetMSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]宝石は宝箱や 鉱床から見つかる事があるけど[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]宝石は宝箱や 鉱床から見つかる事があるけど[PauseShort]\n"
 "食べてもマズいから 売る事にしてるゴロ"
 
 #, ruby
 msgid "Failed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"16\"]危うく やられちゃうとこだったゴロよ…"
+msgstr "[Sound1 bytes=\"0310\"]危うく やられちゃうとこだったゴロよ…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "NQAAAAHQAQAAAAAAACgAAAAEAAAAqAAAAKoAAACsAAAArgAAALAAAACyAAAAtAAAALYAAAC4AAAAugAAALwAAADWAAAA2AAAAPIAAAAMAQAAJgEAAEABAABaAQAAXAEAAF4BAABgAQAAYgEAAGQBAABmAQAAaAEAAGoBAABsAQAAbgEAAHABAAByAQAAdAEAAHYBAAB4AQAAegEAAHwBAAB+AQAAgAEAAIIBAACcAQAAtgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADIAAAAAAE4AcABjAF8AUgBvAGEAZABfADAANAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMgAAAE4AcABjAF8AUgBvAGEAZABfADAANAAyAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBSAG8AYQBkAF8AMAA0ADIAAABOAHAAYwBfAFIAbwBhAGQAXwAwADQAMgAAAE4AcABjAF8AUgBvAGEAZABfADAANAAyAAAAAAAA"

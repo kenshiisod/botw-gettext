@@ -1,23 +1,23 @@
 msgid "NewText_09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Oh...[PauseShort] Das ist aber wirklich zu schade...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Wenn du deine Meinung änderst, ich\n"
+"[Sound1 bytes=\"0900\"]Oh...[PauseShort] Das ist aber wirklich zu schade...[PageBreak][Sound1 bytes=\"0000\"]Wenn du deine Meinung änderst, ich\n"
 "bin hier."
 
 msgid "NewText_01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"32\"]Was für eine Hitze..."
+msgstr "[Sound1 bytes=\"0320\"]Was für eine Hitze..."
 
 msgid "NewText_02"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"32\"]Abend...[PauseShort] Hier bleibt's sogar nachts heiß.[PauseShort]\n"
+"[Sound1 bytes=\"0320\"]Abend...[PauseShort] Hier bleibt's sogar nachts heiß.[PauseShort]\n"
 "Und die Goronen essen bei dieser Hitze\n"
 "auch noch heißen Eintopf..."
 
 msgid "NewText_04"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Oh, hallo!"
+msgstr "[Sound1 bytes=\"0704\"]Oh, hallo!"
 
 msgid "NewText_10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Wenn du noch mehr [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"] fängst,\n"
+"[Sound1 bytes=\"0101\"]Wenn du noch mehr [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"] fängst,\n"
 "zahle ich dir für jeweils [Color name=\"red\"]3[Color name=\"unset\"] Stück\n"
 "[Color name=\"red\"]20 Rubine[Color name=\"unset\"].[PageBreak]Und wenn du [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"] und\n"
 "[Color name=\"blue\"]Monsterzutaten[Color name=\"unset\"] vermischst, bekommst\n"
@@ -28,16 +28,16 @@ msgstr "Keine da...?"
 
 msgid "NewText_05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hast du noch mehr [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0000\"]Hast du noch mehr [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"]\n"
 "gefangen?"
 
 msgid "NewText_11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Für jeweils [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"] zahle ich dir\n"
+"[Sound1 bytes=\"0000\"]Für jeweils [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"] zahle ich dir\n"
 "[Color name=\"red\"]20 Rubine[Color name=\"unset\"]."
 
 msgid "NewText_06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]1...[PauseShort] 2...[PauseShort] [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"7\" unk2=\"0\"]Vielen Dank![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Verkaufst du sie mir für [Color name=\"red\"]20 Rubine[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]1...[PauseShort] 2...[PauseShort] [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"0700\"]Vielen Dank![PageBreak][Sound1 bytes=\"0101\"]Verkaufst du sie mir für [Color name=\"red\"]20 Rubine[Color name=\"unset\"]?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Aber ja!"
@@ -50,14 +50,14 @@ msgstr "Tut mir leid..."
 
 msgid "NewText_07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Wenn du [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"red\"][Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"red\"] [Color name=\"unset\"]gefangen hast,\n"
+"[Sound1 bytes=\"0000\"]Wenn du [Color name=\"red\"]3[Color name=\"unset\"] [Color name=\"red\"][Color name=\"blue\"][C9:00 bytes=\"02010100\"]Löschechsen[Color name=\"red\"] [Color name=\"unset\"]gefangen hast,\n"
 "bring sie mir, ja?"
 
 msgid "Near_03"
 msgstr "Puh..."
 
 msgid "NewText_08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Danke dir![PauseShort] Hier, bitte!"
+msgstr "[Sound1 bytes=\"0700\"]Danke dir![PauseShort] Hier, bitte!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAG4AgAAAAAAAA8AAAAEAAAARAAAAHQAAACkAAAA1AAAAAQBAAA0AQAANgEAADgBAABoAQAAmAEAAMgBAAD4AQAAKAIAAFgCAACIAgAATgBwAGMAXwBEAGUAYQB0AGgARQBhAHMAdABIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBEAGUAYQB0AGgARQBhAHMAdABIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBEAGUAYQB0AGgARQBhAHMAdABIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBEAGUAYQB0AGgARQBhAHMAdABIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBEAGUAYQB0AGgARQBhAHMAdABIAGEAdABhAGcAbwBfADAAMAAyAAAAAAAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8ARABlAGEAdABoAEUAYQBzAHQASABhAHQAYQBnAG8AXwAwADAAMgAAAAAAAA=="

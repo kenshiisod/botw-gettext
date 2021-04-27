@@ -1,23 +1,23 @@
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Materiali insufficienti!"
+msgstr "[Sound1 bytes=\"000E\"]Materiali insufficienti!"
 
 msgid "0002"
 msgstr "Scambia."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Rupie insufficienti!"
+msgstr "[Sound1 bytes=\"000E\"]Rupie insufficienti!"
 
 msgid "0003"
 msgstr "Cambia selezione."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]Hai troppa roba!"
+msgstr "[Sound1 bytes=\"000E\"]Hai troppa roba!"
 
 msgid "talk09"
 msgstr "Va bene."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Benvenuto.[PauseLong] BIP!"
+msgstr "[Sound1 bytes=\"0002\"]Benvenuto.[PauseLong] BIP!"
 
 msgid "talk10"
 msgstr "Salve! BIP! Grazie! BIP!"
@@ -35,7 +35,7 @@ msgstr "Inserire materiali."
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]Grazie per aver usufruito del servizio.[PauseShort]\n"
+"[Sound1 bytes=\"000B\"]Grazie per aver usufruito del servizio.[PauseShort]\n"
 "Torna presto.[PauseLong] BIP!"
 
 msgid "near02"
@@ -43,8 +43,8 @@ msgstr "Tutto pronto."
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]Scambiare per\n"
-"[C9:02][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0610\"]Scambiare per\n"
+"[C9:02][C9:04][02:0B name=\"Shop_SelectItemName\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "In funzione."
@@ -55,7 +55,7 @@ msgstr ""
 "Scambio in corso... [PauseShort][Size percent=\"80\"]Bip bip buup biiip![Size percent=\"100\"]"
 
 msgid "talk05"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"11\"]Operazione effettuata![PauseShort] BIP![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"000B\"]Operazione effettuata![PauseShort] BIP![Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEgAwAAAAAAABEAAAAEAAAATAAAAHwAAACsAAAA3AAAAAwBAAAOAQAAEAEAAEABAABwAQAAoAEAANABAAAAAgAAMAIAAGACAACQAgAAwAIAAPACAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAAAAAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAAAAA"

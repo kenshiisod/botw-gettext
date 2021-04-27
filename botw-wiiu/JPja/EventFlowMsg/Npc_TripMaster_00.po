@@ -1,24 +1,24 @@
 #, ruby
 msgid "talk_09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]オヤ？[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]オヤ？[PauseMid]\n"
 "あなたガ フトコロニ お持ちナノハ……？[PauseMid]\n"
-"[Sound1 unk1=\"10\" unk2=\"22\"]ソ ソレハ[Color name=\"blue\"]ガンバリカブト[Color name=\"unset\"]！ メッタニ\n"
+"[Sound1 bytes=\"0A16\"]ソ ソレハ[Color name=\"blue\"]ガンバリカブト[Color name=\"unset\"]！ メッタニ\n"
 "お目ニ カカレナイ レアなカブトデース！\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]オ お願いシマース！ [Color name=\"blue\"]ガンバリカブト[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0701\"]オ お願いシマース！ [Color name=\"blue\"]ガンバリカブト[Color name=\"unset\"]\n"
 "テリーに ゼヒ 譲ッテ イタダケマセンカー？！"
 
 #, ruby
 msgid "Com_Talk_05b"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]バンバン 売ッテクダサーイ！"
+msgstr "[Sound1 bytes=\"0601\"]バンバン 売ッテクダサーイ！"
 
 #, ruby
 msgid "Com_Talk_05c"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]ジャンジャン 買イ取リマース！"
+msgstr "[Sound1 bytes=\"0601\"]ジャンジャン 買イ取リマース！"
 
 #, ruby
 msgid "Com_Talk_05d"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]何デモ 売ッテクダサーイ！"
+msgstr "[Sound1 bytes=\"0601\"]何デモ 売ッテクダサーイ！"
 
 msgid "TerrorArrow"
 msgstr "ヤメテクダサーイ！"
@@ -30,7 +30,7 @@ msgstr "オオゥ！"
 msgid "Com_Talk_30"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]デスネー\n"
-"イクツ 買ッテ クダサイマスカー？[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+"イクツ 買ッテ クダサイマスカー？[Choice3 label1=\"5500\" label2=\"5507\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "TerrorGuardian"
 msgstr "ヒャァアーッ！"
@@ -39,49 +39,49 @@ msgstr "ヒャァアーッ！"
 msgid "Com_Talk_31"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ [02:0F name=\"Shop_TradeItemNum\"]個デ\n"
-"合計[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_30"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"3\"]ヤァヤァ イラッシャイマセー！[PauseMid]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0703\"]ヤァヤァ イラッシャイマセー！[PauseMid]\n"
 "先ホドハ [Color name=\"blue\"]カブト [Color name=\"unset\"]クレテ 感謝感激デース！[PauseMid]"
 
 msgid "Com_Talk_32"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ １ツデスネ？\n"
-"ソレナラ[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+"ソレナラ[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_31"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]マタ見ツケタラ 明日ニデモ お願いシマース！\n"
+"[Sound1 bytes=\"0101\"]マタ見ツケタラ 明日ニデモ お願いシマース！\n"
 "今日ハ コノ子ダケヲ ジット愛デテマース……[PauseMid]"
 
 msgid "Com_Talk_33"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ 1ツデスネ？\n"
-"ソレナラ[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"ソレナラ[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_talk_20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]ソンナあなたニ 感謝ノ気持ちヲ 込メテ\n"
+"[Sound1 bytes=\"0701\"]ソンナあなたニ 感謝ノ気持ちヲ 込メテ\n"
 "コレ [Color name=\"red\"]プレゼント[Color name=\"unset\"] デース！"
 
 #, ruby
 msgid "talk_32"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]イヤッホゥ！ [Color name=\"blue\"]テリー[Color name=\"unset\"]感激！デース\n"
+"[Sound1 bytes=\"070A\"]イヤッホゥ！ [Color name=\"blue\"]テリー[Color name=\"unset\"]感激！デース\n"
 "あなた イイ人デース！！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]今日ハ コノ[Color name=\"blue\"]カブト[Color name=\"unset\"]ヲ ネットリ愛デナガラ\n"
+"[Sound1 bytes=\"0101\"]今日ハ コノ[Color name=\"blue\"]カブト[Color name=\"unset\"]ヲ ネットリ愛デナガラ\n"
 "ハリキッテ商売シヨウト 思いマース！"
 
 #, ruby
 msgid "Com_Talk_34"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"4\" unk2=\"20\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ 全部デスカ？！[PauseShort]\n"
-"[02:0F name=\"Shop_TradeItemNum\"]個デ[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0414\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ 全部デスカ？！[PauseShort]\n"
+"[02:0F name=\"Shop_TradeItemNum\"]個デ[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "TerrorSword"
 msgstr "アウッ！"
@@ -92,14 +92,14 @@ msgstr "オォット！"
 #, ruby
 msgid "talk_33"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]イエェェイ！ 感謝 感激デース！！[PageBreak][Size percent=\"100\"]コレ ナカナカ 手ニ入ラナインデスヨー！\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]イエェェイ！ 感謝 感激デース！！[PageBreak][Size percent=\"100\"]コレ ナカナカ 手ニ入ラナインデスヨー！\n"
 "キット本日ハ 家内安全デース！！"
 
 #, ruby
 msgid "Com_Talk_35"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"4\" unk2=\"20\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ [02:0F name=\"Shop_TradeItemNum\"]個スベテ？！\n"
-"合計[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスガ 本当ニイイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0414\"][02:0B name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ [02:0F name=\"Shop_TradeItemNum\"]個スベテ？！\n"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー[Color name=\"unset\"]デスガ 本当ニイイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]コワカッタデース…"
@@ -107,58 +107,58 @@ msgstr "[Sound2 id=\"16\"]コワカッタデース…"
 #, ruby
 msgid "talk_34"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]モチロン タダデトハ 言イマセーン！\n"
-"[Color name=\"blue\"]カチコチ野菜オムレツ[Color name=\"unset\"]ト 交換デ ドウデスカー？[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]モチロン タダデトハ 言イマセーン！\n"
+"[Color name=\"blue\"]カチコチ野菜オムレツ[Color name=\"unset\"]ト 交換デ ドウデスカー？[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_36"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]本日ハ 完売デース！[PauseShort]タクサンノ お買い上げ\n"
+"[Sound1 bytes=\"010B\"]本日ハ 完売デース！[PauseShort]タクサンノ お買い上げ\n"
 "誠ニ アリガトウゴザイマース！"
 
 #, ruby
 msgid "talk_35"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]モチロン お返しアリマース！[PauseShort] 代ワリニ\n"
-"[Color name=\"blue\"]チカラ薬[Color name=\"unset\"] 差シ上ゲマース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]モチロン お返しアリマース！[PauseShort] 代ワリニ\n"
+"[Color name=\"blue\"]チカラ薬[Color name=\"unset\"] 差シ上ゲマース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_37"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]お陰様デ 本日ハ完売デース！\n"
+"[Sound1 bytes=\"010B\"]お陰様デ 本日ハ完売デース！\n"
 "お買い上げ アリガトウゴザイマース！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]入荷予定ノ品物ダケデモ ご覧ニナリマスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]入荷予定ノ品物ダケデモ ご覧ニナリマスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_36"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]毎度アリガトウゴザイマース！[PauseShort]\n"
-"他ニご用ハ アリマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0101\"]毎度アリガトウゴザイマース！[PauseShort]\n"
+"他ニご用ハ アリマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Com_Talk_11b"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]毎度 ドウモデース！"
+msgstr "[Sound1 bytes=\"0709\"]毎度 ドウモデース！"
 
 #, ruby
 msgid "talk_37"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]私 コノ大キナ[Color name=\"red\"]カブトムシ[Color name=\"unset\"]ノ リュックが\n"
+"[Sound1 bytes=\"0701\"]私 コノ大キナ[Color name=\"red\"]カブトムシ[Color name=\"unset\"]ノ リュックが\n"
 "トレードマークノ [Color name=\"blue\"]テリー[Color name=\"unset\"]と 申シマース！\n"
-"[Sound1 unk1=\"10\" unk2=\"20\"]コンナご時世ニモ 危険ヲ カエリミズ\n"
+"[Sound1 bytes=\"0A14\"]コンナご時世ニモ 危険ヲ カエリミズ\n"
 "旅シテラッシャル あなたノタメニ！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私 イチオシノ虫タチヤ\n"
+"[Sound1 bytes=\"0001\"]私 イチオシノ虫タチヤ\n"
 "旅ニ欠カセナイ 役立ツ商品ヲ 売ッテマース！\n"
 "モシ [Color name=\"blue\"]ルピー[Color name=\"unset\"]ニ お困りデシタラ お手元ニアル\n"
 "ご不要ナ品ノ 買イ取リモ イタシマース！\n"
-"[Sound1 unk1=\"7\" unk2=\"9\"][Color name=\"red\"]宝石[Color name=\"unset\"]トカハ イイ金額ニ ナリマスヨー！\n"
+"[Sound1 bytes=\"0709\"][Color name=\"red\"]宝石[Color name=\"unset\"]トカハ イイ金額ニ ナリマスヨー！\n"
 "お持ちデシタラ ガンガンお売りクダサーイ！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]サァサァ あなたハ ドチラニ ナサイマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0101\"][Animation name=\"CustomUrge\"]サァサァ あなたハ ドチラニ ナサイマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_11c"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]アリガトウ ゴザイマース！"
+msgstr "[Sound1 bytes=\"070B\"]アリガトウ ゴザイマース！"
 
 msgid "Com_Talk_11d"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]イツモ アリガトウ デース！"
+msgstr "[Sound1 bytes=\"070B\"]イツモ アリガトウ デース！"
 
 msgid "TerrorExplosion"
 msgstr "ウワァアッ！"
@@ -168,22 +168,22 @@ msgstr "[Sound2 id=\"16\"]フゥゥ…"
 
 msgid "talk_20"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]ヤヤ！[PauseShort] [Color name=\"blue\"]ツルギカブト [Color name=\"unset\"]ヤッパリ\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0714\"]ヤヤ！[PauseShort] [Color name=\"blue\"]ツルギカブト [Color name=\"unset\"]ヤッパリ\n"
 "テリーに クレマスカー？！[PauseMid]"
 
 #, ruby
 msgid "talk_21"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]アォ！[PauseShort] サテハ [Color name=\"blue\"]ヨロイカブト[PauseShort][Color name=\"unset\"]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"070B\"]アォ！[PauseShort] サテハ [Color name=\"blue\"]ヨロイカブト[PauseShort][Color name=\"unset\"]\n"
 "テリーに アゲル気ニ ナッタノデスネ？！[PauseMid]"
 
 #, ruby
 msgid "talk_22"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]モチロン タダデトハ 言イマセーン！\n"
+"[Sound1 bytes=\"0109\"]モチロン タダデトハ 言イマセーン！\n"
 "[Color name=\"blue\"]マックス薬[Color name=\"unset\"]ト 交換デ イカガデスカー？[Color name=\"green\"]\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"1\"]マックストカゲ[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
-"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0101\"]マックストカゲ[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
+"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "TerrorEnemy"
 msgstr "ノワアァーッ！"
@@ -191,10 +191,10 @@ msgstr "ノワアァーッ！"
 #, ruby
 msgid "talk_23"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]モチロン 否トハ 言ワセマセーン！\n"
+"[Sound1 bytes=\"0109\"]モチロン 否トハ 言ワセマセーン！\n"
 "[Color name=\"blue\"]がんばり薬[Color name=\"unset\"]ト 交換デ ドウデショウー？[Color name=\"green\"]\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"1\"]ガンバリガニ[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
-"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0101\"]ガンバリガニ[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
+"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Near"
@@ -203,37 +203,37 @@ msgstr "[Sound2 id=\"24\"]寄ッテ ラッシャーイ"
 #, ruby
 msgid "talk_24"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ココデ 迷ッチャウ あなたノタメニ！\n"
+"[Sound1 bytes=\"0101\"]ココデ 迷ッチャウ あなたノタメニ！\n"
 "[Color name=\"blue\"]妖精の力水[Color name=\"unset\"]ト 交換デ ドウデスカー？[Color name=\"green\"]\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"9\"]妖精[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
-"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0109\"]妖精[Color name=\"green\"][Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
+"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_02b"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]毎度 ドウモデース！[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]毎度 ドウモデース！[PauseShort]\n"
 "他ニモ何カ 売ッテクレマスカー？"
 
 #, ruby
 msgid "talk_25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]ソレデハ 改メマシテ……[PauseMid]"
+msgstr "[Sound1 bytes=\"0001\"]ソレデハ 改メマシテ……[PauseMid]"
 
 #, ruby
 msgid "Com_Talk_02c"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]アリガトウ ゴザイマース！[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]アリガトウ ゴザイマース！[PauseShort]\n"
 "何カ他ニハ アリマスカー？"
 
 #, ruby
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]オゥ！ マタあなたデスネー\n"
+"[Sound1 bytes=\"0702\"]オゥ！ マタあなたデスネー\n"
 "何カ 買い忘れデモ シマシタカー？"
 
 #, ruby
 msgid "Com_Talk_02d"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]毎度 ドウモデース！[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]毎度 ドウモデース！[PauseShort]\n"
 "何カ他ニハ アリマスカー？"
 
 msgid "TerrorBomb"
@@ -241,48 +241,48 @@ msgstr "ワォ！"
 
 #, ruby
 msgid "talk_27"
-msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"20\"]ワォ！[PauseShort] イツモ お世話ニ ナッテマー……？[PauseLong]"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0014\"]ワォ！[PauseShort] イツモ お世話ニ ナッテマー……？[PauseLong]"
 
 #, ruby
 msgid "talk_28"
-msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]オゥ！[PauseShort] 毎度ドウモー……？[PauseLong]"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0002\"]オゥ！[PauseShort] 毎度ドウモー……？[PauseLong]"
 
 #, ruby
 msgid "Com_Talk_10"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ\n"
-"買ッテイタダケマスカー？[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+"買ッテイタダケマスカー？[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_talk_17"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]ヤァ！[PauseShort] 毎度ドウモ デース！[PauseMid]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0002\"]ヤァ！[PauseShort] 毎度ドウモ デース！[PauseMid]\n"
 "イツモお世話ニ ナッテマース！[PauseMid]"
 
 #, ruby
 msgid "talk_29"
-msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]ヘィ！[PauseShort] 今日モ ご機嫌イカガデスカー……？[PauseLong]"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0002\"]ヘィ！[PauseShort] 今日モ ご機嫌イカガデスカー……？[PauseLong]"
 
 #, ruby
 msgid "Com_Talk_11"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]毎度 アリガトウ ゴザイマース！"
+msgstr "[Sound1 bytes=\"0709\"]毎度 アリガトウ ゴザイマース！"
 
 #, ruby
 msgid "Com_talk_18"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]ナント あの[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]に効くラシイ デスヨ！\n"
+"[Sound1 bytes=\"0A16\"]ナント あの[Color name=\"blue\"]ガーディアン[Color name=\"unset\"]に効くラシイ デスヨ！\n"
 "スゴイ デスネー！！\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"1\"]ガーディアン[Color name=\"unset\"]の 目玉ニ当テルト\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0101\"]ガーディアン[Color name=\"unset\"]の 目玉ニ当テルト\n"
 "ヨリ効果的ラシイ デース！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]コレ [Color name=\"blue\"]ロベリー[Color name=\"unset\"]ッテイウ おっさんカラ\n"
+"[Sound1 bytes=\"0001\"]コレ [Color name=\"blue\"]ロベリー[Color name=\"unset\"]ッテイウ おっさんカラ\n"
 "モライマシター\n"
 "[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]ヨリ ズットズット北ニアル\n"
 "[Color name=\"red\"]アッカレ古代研究所[Color name=\"unset\"]ッテイウ場所ニ イマース\n"
 "アノおっさん 他ニモイロイロ\n"
 "ケッタイナ武器トカ服トカ 作ッテマース\n"
-"[Sound1 unk1=\"5\" unk2=\"12\"]マサニ [Color name=\"blue\"]狂気の研究者[Color name=\"unset\"] デース[PauseShort]\n"
+"[Sound1 bytes=\"050C\"]マサニ [Color name=\"blue\"]狂気の研究者[Color name=\"unset\"] デース[PauseShort]\n"
 "コワイデスネー[PauseShort] オソロシイデスネー…[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ソレデモ 強イ武器トカ 欲シイナラ\n"
+"[Sound1 bytes=\"0001\"]ソレデモ 強イ武器トカ 欲シイナラ\n"
 "行ッテミルト イイデース"
 
 msgid "TerrorLightning"
@@ -291,82 +291,82 @@ msgstr "アァッ！"
 #, ruby
 msgid "talk_10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]モチロン お礼アリマース！\n"
+"[Sound1 bytes=\"0109\"]モチロン お礼アリマース！\n"
 "[Color name=\"blue\"]ゴーゴー薬[Color name=\"unset\"]デ イカガデスカー？\n"
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"1\"]ゴーゴーガエル[Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
-"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0101\"]ゴーゴーガエル[Color name=\"unset\"]ヲ 入レテ煎ジタ\n"
+"テリー特製ノ お薬デース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]キット お役ニ立ツモノ アリマース！\n"
+"[Sound1 bytes=\"0709\"]キット お役ニ立ツモノ アリマース！\n"
 "ジックリト ご覧クダサーイ！"
 
 #, ruby
 msgid "Com_talk_19"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]オゥ！ あなたモウ ロベリーニ 会ッテル？！\n"
+"[Sound1 bytes=\"0A16\"]オゥ！ あなたモウ ロベリーニ 会ッテル？！\n"
 "トンダ お節介 失礼シマシター！"
 
 msgid "talk_11"
-msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]ヤァ！[PauseShort] イラッシャイマセー……？[PauseLong]"
+msgstr "[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0002\"]ヤァ！[PauseShort] イラッシャイマセー……？[PauseLong]"
 
 #, ruby
 msgid "Com_Talk_13"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]デスネー\n"
-"イクツ 売ッテ クダサイマスカー？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+"イクツ 売ッテ クダサイマスカー？[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk_12"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]…………[PauseLong][PageBreak][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]ンー？ あなた意外ト ケチン坊デスネー\n"
+"[Sound1 bytes=\"0A01\"]…………[PauseLong][PageBreak][Sound1 bytes=\"0B01\"][Animation name=\"CustomBadThink\"]ンー？ あなた意外ト ケチン坊デスネー\n"
 "モット 気前ノイイ若者カト 思ッテマシタ……[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]イエ イイノデース\n"
+"[Sound1 bytes=\"0001\"]イエ イイノデース\n"
 "[Color name=\"blue\"]テリー[Color name=\"unset\"]の 人ヲ見ル目ガ ナカッタダケデース……[PauseMid]"
 
 #, ruby
 msgid "Com_Talk_14"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"][Color name=\"unset\"]ヲ [02:0F name=\"Shop_TradeItemNum\"]個デ\n"
-"合計[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"合計[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk_13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]ウオォ！ アリガトウ ゴザイマース！\n"
+"[Sound1 bytes=\"070A\"]ウオォ！ アリガトウ ゴザイマース！\n"
 "あなた 見込ンダ通りノ男 デース！！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]今日ハ 頂イタ[Color name=\"blue\"]カブト[Color name=\"unset\"]ヲ ジックリ愛デナガラ\n"
+"[Sound1 bytes=\"0101\"]今日ハ 頂イタ[Color name=\"blue\"]カブト[Color name=\"unset\"]ヲ ジックリ愛デナガラ\n"
 "商売サセテ イタダキマース！"
 
 #, ruby
 msgid "Com_Talk_15"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]ソレハ チョット 買イ取レナイデース\n"
+"[Sound1 bytes=\"0B10\"]ソレハ チョット 買イ取レナイデース\n"
 "ゴメンナサーイ"
 
 #, ruby
 msgid "talk_14"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]オゥ……[PauseShort] あなたノ [Color name=\"blue\"]ポーチ[Color name=\"unset\"]ガ いっぱいデース\n"
+"[Sound1 bytes=\"0900\"]オゥ……[PauseShort] あなたノ [Color name=\"blue\"]ポーチ[Color name=\"unset\"]ガ いっぱいデース\n"
 "残念デスガ アキラメマース……"
 
 #, ruby
 msgid "Com_Talk_16"
-msgstr "[Sound1 unk1=\"11\" unk2=\"16\"]マズ ソノ服 脱イデカラニ シテクダサーイ"
+msgstr "[Sound1 bytes=\"0B10\"]マズ ソノ服 脱イデカラニ シテクダサーイ"
 
 #, ruby
 msgid "talk_15"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]…………[PauseLong][PageBreak][Sound1 unk1=\"9\" unk2=\"12\"]ンー？ コンナお得ナ条件ナノニ……[PauseMid]\n"
+"[Sound1 bytes=\"0A01\"]…………[PauseLong][PageBreak][Sound1 bytes=\"090C\"]ンー？ コンナお得ナ条件ナノニ……[PauseMid]\n"
 "あなた 何 考エテルカ 分カリマセーン……[PauseMid]\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]…………[PauseLong][Size percent=\"80\"][PageBreak][Color name=\"Gray\"][Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"CustomBadThink\"]こうなったら 馬宿で寝込んでいるところをコッソリ……[PauseMid][PageBreak]いや 自ら手を汚さずともゴロツキでも雇う方が……[PauseMid][PageBreak][Animation name=\"CustomBadThink\"]ブツブツ……[PauseMid]ブツブツ……[PauseMid][PageBreak][Color name=\"unset\"][Size percent=\"100\"]…………[PauseLong][PageBreak][Sound1 unk1=\"0\" unk2=\"19\"]オゥ  失礼 何デモナイデース……[PauseMid]\n"
+"[Sound1 bytes=\"0901\"]…………[PauseLong][Size percent=\"80\"][PageBreak][Color name=\"gray\"][Sound1 bytes=\"0B01\"][Animation name=\"CustomBadThink\"]こうなったら 馬宿で寝込んでいるところをコッソリ……[PauseMid][PageBreak]いや 自ら手を汚さずともゴロツキでも雇う方が……[PauseMid][PageBreak][Animation name=\"CustomBadThink\"]ブツブツ……[PauseMid]ブツブツ……[PauseMid][PageBreak][Color name=\"unset\"][Size percent=\"100\"]…………[PauseLong][PageBreak][Sound1 bytes=\"0013\"]オゥ  失礼 何デモナイデース……[PauseMid]\n"
 "マタ 気ガ向イタラ ヨロシクお願いシマース"
 
 #, ruby
 msgid "talk_16"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]ウオォ！アリガトウ ゴザイマース！！[PageBreak][Size percent=\"100\"]コレ メッタニお目ニ カカレナインデスヨー！\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomBigHappy\"][Size percent=\"125\"]ウオォ！アリガトウ ゴザイマース！！[PageBreak][Size percent=\"100\"]コレ メッタニお目ニ カカレナインデスヨー！\n"
 "キット今日ハ 商売繁盛デース！！"
 
 #, ruby
@@ -379,8 +379,8 @@ msgstr "はい"
 #, ruby
 msgid "talk_17"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"CustomUrge\"]サァサァ 何ヲお求めニ ナリマスカー？\n"
-"ソレトモ 何カ売ッテ イタダケマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0101\"][Animation name=\"CustomUrge\"]サァサァ 何ヲお求めニ ナリマスカー？\n"
+"ソレトモ 何カ売ッテ イタダケマスカー？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -396,12 +396,12 @@ msgstr "来ナイデクダサーイ！"
 #, ruby
 msgid "talk_18"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"11\"]ワォ！ 毎度ドウモ デース！[PauseMid]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"070B\"]ワォ！ 毎度ドウモ デース！[PauseMid]\n"
 "先ホドハ [Color name=\"blue\"]カブト [Color name=\"unset\"]アリガトウ ゴザイマシター！[PauseMid]"
 
 #, ruby
 msgid "Com_Talk_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"4\"]何ヲ 売ッテ イタダケマスカー？"
+msgstr "[Sound1 bytes=\"0104\"]何ヲ 売ッテ イタダケマスカー？"
 
 msgid "0002"
 msgstr "やめとく"
@@ -412,13 +412,13 @@ msgstr "買う"
 #, ruby
 msgid "talk_19"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"7\" unk2=\"20\"]オゥ！[PauseShort] ヤッパリ [Color name=\"blue\"]ガンバリカブト[PauseShort][Color name=\"unset\"]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0714\"]オゥ！[PauseShort] ヤッパリ [Color name=\"blue\"]ガンバリカブト[PauseShort][Color name=\"unset\"]\n"
 "テリーに アゲル気ニ ナリマシタカー？！[PauseMid]"
 
 msgid "Com_Talk_01"
 msgstr ""
 "[Color name=\"blue\"][02:0C name=\"Shop_SelectItemName\"] [Color name=\"unset\"]デスネー\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"]ルピー [Color name=\"unset\"]デスケド イイデスカー？[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5503"
 msgstr "やっぱりやめる"
@@ -426,13 +426,13 @@ msgstr "やっぱりやめる"
 #, ruby
 msgid "talk_00"
 msgstr ""
-"[01:01 bytes=\"CDCC4C3F\"][Sound1 unk1=\"0\" unk2=\"2\"]ヤァ！ あなた 初メテ見ル顔デスネー[PauseMid]\n"
+"[01:01 bytes=\"CDCC4C3F\"][Sound1 bytes=\"0002\"]ヤァ！ あなた 初メテ見ル顔デスネー[PauseMid]\n"
 "初メマシテー！[PauseMid]"
 
 #, ruby
 msgid "Com_Talk_02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]アリガトウ ゴザイマース！[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]アリガトウ ゴザイマース！[PauseShort]\n"
 "他ニモ何カ 売ッテクレマスカー？"
 
 msgid "TerrorInsect"
@@ -441,26 +441,26 @@ msgstr "ハチはニガテデース！"
 #, ruby
 msgid "talk_01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]オゥ！ 残念デース……[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]オゥ！ 残念デース……[PauseMid]\n"
 "次ハ ヨロシクお願い致シマース……"
 
 #, ruby
 msgid "talk_02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]アリガトウ ゴザイマシター！\n"
+"[Sound1 bytes=\"0709\"]アリガトウ ゴザイマシター！\n"
 "次モ ヨロシクお願い致シマース！"
 
 #, ruby
 msgid "Com_Talk_04"
-msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]アララ……[PauseMid] 残念デース"
+msgstr "[Sound1 bytes=\"090C\"]アララ……[PauseMid] 残念デース"
 
 #, ruby
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"7\" unk2=\"2\"]ヤァ！ あなた マタお会いシマシタネー！"
+msgstr "[Sound1 bytes=\"0702\"]ヤァ！ あなた マタお会いシマシタネー！"
 
 #, ruby
 msgid "Com_Talk_05"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]何デモ 買イ取リマース！"
+msgstr "[Sound1 bytes=\"0601\"]何デモ 買イ取リマース！"
 
 #, ruby
 msgid "5507"
@@ -469,7 +469,7 @@ msgstr "ぜんぶ買う"
 #, ruby
 msgid "talk_04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]ヤァ！ マタあなたデスネー\n"
+"[Sound1 bytes=\"0702\"]ヤァ！ マタあなたデスネー\n"
 "[Color name=\"blue\"]テリー[Color name=\"unset\"] イツデモ 大歓迎デース！"
 
 #, ruby
@@ -483,41 +483,41 @@ msgstr "ぜんぶ売る"
 #, ruby
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]オゥ！ あなたガ フトコロニ お持ちナノハ……[PauseMid]\n"
+"[Sound1 bytes=\"0A00\"]オゥ！ あなたガ フトコロニ お持ちナノハ……[PauseMid]\n"
 "[Color name=\"blue\"]ツルギカブト[Color name=\"unset\"]！\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]テリー [Color name=\"blue\"]ツルギカブト[Color name=\"unset\"]ニ 目ガナイノデース！\n"
+"[Sound1 bytes=\"0701\"]テリー [Color name=\"blue\"]ツルギカブト[Color name=\"unset\"]ニ 目ガナイノデース！\n"
 "ヨカッタラ 譲ッテ イタダケマセンカー？"
 
 #, ruby
 msgid "Com_Talk_07"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]オゥ！ゴメンナサーイ……[PauseMid]\n"
+"[Sound1 bytes=\"090C\"]オゥ！ゴメンナサーイ……[PauseMid]\n"
 "ソチラハ今 売リ切レ中デース……"
 
 #, ruby
 msgid "talk_06"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ワォ！ あなたノ ポーチニ 入ッテイルノハ……[PauseMid]\n"
+"[Sound1 bytes=\"0A00\"]ワォ！ あなたノ ポーチニ 入ッテイルノハ……[PauseMid]\n"
 "[Color name=\"blue\"]ヨロイカブト[Color name=\"unset\"]！\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]テリー [Color name=\"blue\"]ヨロイカブト[Color name=\"unset\"]大好きナノデース！\n"
+"[Sound1 bytes=\"0701\"]テリー [Color name=\"blue\"]ヨロイカブト[Color name=\"unset\"]大好きナノデース！\n"
 "ヨカッタラ 譲ッテ ホシイデース！"
 
 #, ruby
 msgid "Com_Talk_08"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"14\"]オゥ！ [Color name=\"blue\"]ルピー[Color name=\"unset\"]ガ 足リナイヨウデース……[PauseMid]\n"
+"[Sound1 bytes=\"0A0E\"]オゥ！ [Color name=\"blue\"]ルピー[Color name=\"unset\"]ガ 足リナイヨウデース……[PauseMid]\n"
 "オトトイ キヤガレ デース！"
 
 #, ruby
 msgid "talk_07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]モチロン タダデトハ 言イマセーン！\n"
-"[Color name=\"blue\"]カチコチ薬[Color name=\"unset\"]ト 交換デ イカガデスカー？[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]モチロン タダデトハ 言イマセーン！\n"
+"[Color name=\"blue\"]カチコチ薬[Color name=\"unset\"]ト 交換デ イカガデスカー？[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Com_Talk_09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]オゥ！ [Color name=\"blue\"]ポーチ[Color name=\"unset\"]ガ いっぱいノヨウデース……[PauseMid]\n"
+"[Sound1 bytes=\"0910\"]オゥ！ [Color name=\"blue\"]ポーチ[Color name=\"unset\"]ガ いっぱいノヨウデース……[PauseMid]\n"
 "[Color name=\"blue\"]ポーチ[Color name=\"unset\"]ニ 空きヲ作ッテカラ マタ来テクダサーイ"
 
 #, ruby
@@ -527,8 +527,8 @@ msgstr "交換する！"
 #, ruby
 msgid "talk_08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]モチロン お返しアリマース！\n"
-"代ワリニ [Color name=\"blue\"]チカラケモノ肉丼[Color name=\"unset\"] 差シ上ゲマース！[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]モチロン お返しアリマース！\n"
+"代ワリニ [Color name=\"blue\"]チカラケモノ肉丼[Color name=\"unset\"] 差シ上ゲマース！[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1001"
 msgstr "やめとく"

@@ -4,7 +4,7 @@ pub mod cardboard;
 pub const MARKER_START: u16 = 0x0E;
 pub const MARKER_END: u16 = 0x0F;
 
-use crate::msbtw::{Tag, Node, Param, ParamKind};
+use crate::msbtw::{Tag, Node, Param, Value};
 use crate::game::botw as render;
 use std::io::{Read, BufRead, Seek};
 use regex::Regex;
@@ -39,7 +39,7 @@ pub fn bytes_to_nodes<R: std::io::Read + std::io::Seek>(reader: &mut R) -> Vec<N
 
                 let remain = expected_params_size - params_size;
                 if remain > 0 {
-                    let mut param = Param::new("bytes", ParamKind::Bytes(remain as u16));
+                    let mut param = Param::new("bytes", Value::Bytes(remain as u16, vec![]));
                     param.apply_bytes(&mut rdr);
                     tag.params.push(param);
                 }
@@ -134,8 +134,10 @@ pub fn bbcode_to_nodes<R: std::io::BufRead + std::io::Read + std::io::Seek>(read
             for cap in params_re.captures_iter(params_str) {
                 let pp = tag.params.iter_mut().find(|p| p.name == &cap[1]);
                 if let Some(p) = pp {
-                    p.value = cap[2].replace("\\\"", "\"")
-                        .replace("\\r", "\r").replace("\\t", "\t").to_string();
+                    if let Value::String(ref mut s) = p.value {
+                        *s = cap[2].replace("\\\"", "\"")
+                            .replace("\\r", "\r").replace("\\t", "\t").to_string();
+                    }
                 }
             }
             nodes.push(Node::Tag(tag));

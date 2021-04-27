@@ -1,7 +1,7 @@
 #, ruby
 msgid "Talk21"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]なのに 1羽しかいないなんて！！！[PauseLong]\n"
+"[Sound1 bytes=\"091F\"]なのに 1羽しかいないなんて！！！[PauseLong]\n"
 "\n"
 "きっと コッコちゃん達も[PauseShort]\n"
 "さみしい思いをしているはずです…\n"
@@ -11,41 +11,41 @@ msgstr ""
 
 #, ruby
 msgid "Talk22"
-msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]本当ですか？？[PauseLong]"
+msgstr "[Sound1 bytes=\"0A14\"]本当ですか？？[PauseLong]"
 
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃん達…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃん達…[PauseShort]\n"
 "怖い思いをしていないでしょうか…[PauseShort]\n"
 "[Size percent=\"80\"]はぁ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk23"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃん達…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃん達…[PauseShort]\n"
 "怖い思いをしていないでしょうか…[PauseShort]\n"
 "はぁ… しかし仕事には行かなくては…"
 
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]我々シーカー族は[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]我々シーカー族は[PauseShort]\n"
 "代々ハイラル王家に 仕えてまいりました\n"
-"[Sound1 unk1=\"5\" unk2=\"12\"]しかし あの大厄災後 王の死とともに[PauseShort]\n"
+"[Sound1 bytes=\"050C\"]しかし あの大厄災後 王の死とともに[PauseShort]\n"
 "シーカー族の和は乱れ\n"
 "長であるインパ様を狙い[PauseShort]\n"
 "[Color name=\"blue\"]イーガ団[Color name=\"unset\"]と化す 不届き者まででる始末…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]そのため我々は[PauseShort]\n"
-"日々 インパ様をお守りしているのです[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]そのため我々は[PauseShort]\n"
+"日々 インパ様をお守りしているのです[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Talk12"
-msgstr "[Sound1 unk1=\"9\" unk2=\"31\"]コッコ[Size percent=\"80\"]ちゃん…[PauseLong][Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"091F\"]コッコ[Size percent=\"80\"]ちゃん…[PauseLong][Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Size percent=\"125\"]ありがとうございます！[PauseLong][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0700\"][Size percent=\"125\"]ありがとうございます！[PauseLong][Size percent=\"100\"]\n"
 "\n"
 "コッコちゃん達は 全部で[Color name=\"red\"]10羽[Color name=\"unset\"]です！[PauseShort]\n"
 "\n"
@@ -53,12 +53,12 @@ msgstr ""
 
 #, ruby
 msgid "Talk01"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"3\" unk2=\"1\"]リ…[PauseShort] リンク殿…[PauseLong][Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0301\"]リ…[PauseShort] リンク殿…[PauseLong][Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]なのに 1羽もいないなんて…[PauseLong]\n"
+"[Sound1 bytes=\"091F\"]なのに 1羽もいないなんて…[PauseLong]\n"
 "\n"
 "きっとコッコちゃん達も[PauseShort]\n"
 "さみしい思いをしているはずです…\n"
@@ -69,7 +69,7 @@ msgstr ""
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃんは 全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃんは 全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
 "1羽かけても ダメなんです！"
 
 #, ruby
@@ -79,18 +79,18 @@ msgstr "なんて事だ…"
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"1\"]妻が帰ってこなくなった 今[PauseShort]\n"
+"[Sound1 bytes=\"0901\"]妻が帰ってこなくなった 今[PauseShort]\n"
 "コッコちゃん達だけが 心の支えだったのに…\n"
 "[Size percent=\"80\"]うううっ…[PauseLong][Size percent=\"100\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"10\" unk2=\"21\"][Size percent=\"125\"]えええっ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0A15\"][Size percent=\"125\"]えええっ！[Size percent=\"100\"]"
 
 msgid "Near01"
 msgstr "コッコちゃん…"
 
 msgid "Talk17"
-msgstr "[Sound1 unk1=\"9\" unk2=\"31\"][Size percent=\"125\"]うぉぉぉぉぅっ！！！！[Size percent=\"100\"][PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"091F\"][Size percent=\"125\"]うぉぉぉぉぅっ！！！！[Size percent=\"100\"][PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -99,14 +99,14 @@ msgstr "さ… 探してこようか？"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]ほ 本当ですか？？[PauseLong]\n"
+"[Sound1 bytes=\"0A01\"]ほ 本当ですか？？[PauseLong]\n"
 "\n"
 "[Size percent=\"80\"]は… 早く帰りたい…[Size percent=\"100\"]"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"1\"]コッコが…[PauseLong][Size percent=\"100\"]\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0901\"]コッコが…[PauseLong][Size percent=\"100\"]\n"
 "[Size percent=\"125\"][Size percent=\"100\"]\n"
 "コッコちゃん達が…[PauseLong]"
 
@@ -117,19 +117,19 @@ msgstr "いつか戻ってきますよ！"
 #, ruby
 msgid "Talk18"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃん…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃん…[PauseShort]\n"
 "寂しい思いをしてないでしょうか…[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]いや[PauseShort] いかんいかん[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]いや[PauseShort] いかんいかん[PauseLong]\n"
 "どんな時でも 職務を全うしなくては！"
 
 #, ruby
 msgid "Talk19"
-msgstr "[Sound1 unk1=\"9\" unk2=\"31\"][Size percent=\"125\"]帰ってこないのです[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"091F\"][Size percent=\"125\"]帰ってこないのです[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]はぁ… リンク殿…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]はぁ… リンク殿…[PauseLong]\n"
 "\n"
 "コッコちゃん達まで[PauseShort]\n"
 "私に 愛想を尽かしたのでしょうか…？\n"
@@ -144,7 +144,7 @@ msgstr "コッコちゃん捕まえたよ"
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃんは全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃんは全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
 "1羽かけても ダメなんです！"
 
 #, ruby
@@ -154,13 +154,13 @@ msgstr "お仕事頑張って"
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]コッコちゃんは 全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]コッコちゃんは 全部で[Color name=\"red\"]10羽[Color name=\"unset\"]なんです！[PauseShort]\n"
 "1羽かけても ダメなんです！"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そう思って 待っていた妻も…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]そう思って 待っていた妻も…[PauseShort]\n"
 "まだ 戻ってこないんですよね…\n"
 "はははっ…[PauseLong]\n"
 "\n"
@@ -169,7 +169,7 @@ msgstr ""
 #, ruby
 msgid "Talk20"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"31\"]なのに [02:0F name=\"Kakariko_Kokko_Counter\"]羽しかいないなんて！！[PauseLong]\n"
+"[Sound1 bytes=\"091F\"]なのに [02:0F name=\"Kakariko_Kokko_Counter\"]羽しかいないなんて！！[PauseLong]\n"
 "\n"
 "きっと コッコちゃん達も[PauseShort]\n"
 "さみしい思いをしているはずです…\n"

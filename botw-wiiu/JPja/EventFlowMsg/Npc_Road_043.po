@@ -1,13 +1,13 @@
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"32\"]あいたた… [PauseMid]ゲルド族としてだらしなかったね…[PauseMid]\n"
+"[Sound1 bytes=\"0320\"]あいたた… [PauseMid]ゲルド族としてだらしなかったね…[PauseMid]\n"
 "私は 魔物は苦手なんだよ"
 
 #, ruby
 msgid "MSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]戦うのか！ 逃げるのか！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]戦うのか！ 逃げるのか！[PauseShort]\n"
 "判断に迷ったら 武器の状態で決めるといい\n"
 "戦闘中に 矢が尽きたり武器が壊れたりしたら…[PauseMid]\n"
 "それはもう悲惨なことになるからな"
@@ -15,7 +15,7 @@ msgstr ""
 #, ruby
 msgid "MSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私は 南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から [Color name=\"blue\"]アッカレ地方[Color name=\"unset\"]まで[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]私は 南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から [Color name=\"blue\"]アッカレ地方[Color name=\"unset\"]まで[PauseShort]\n"
 "パートナー探しの旅を楽しんでる\n"
 "他の種族に出会えるのは とても刺激的で[PauseShort]\n"
 "新しい考え方に触れることも多いよ"
@@ -23,41 +23,41 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"18\"]恋のチャンスと戦いのピンチは\n"
+"[Sound1 bytes=\"0512\"]恋のチャンスと戦いのピンチは\n"
 "いつだって突然やってくるもの…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]いざというとき 矢が無いなんてことのないよう[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]いざというとき 矢が無いなんてことのないよう[PauseShort]\n"
 "本数は多めにあったほうがいいな"
 
 #, ruby
 msgid "Thanks00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]これは感謝の気持ちだよ！"
+msgstr "[Sound1 bytes=\"010B\"]これは感謝の気持ちだよ！"
 
 #, ruby
 msgid "RetMSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]地図があるなら 見てみたらいい[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]地図があるなら 見てみたらいい[PauseMid]\n"
 "ドクロに見える池が 北の方にあるだろう？\n"
 "夜に その池に行けば[PauseShort]\n"
 "[Color name=\"red\"]マモノ屋[Color name=\"unset\"]と呼ばれる何者かに 会えるらしい"
 
 #, ruby
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]はぁ…[PauseShort] 危なかった…"
+msgstr "[Sound1 bytes=\"032A\"]はぁ…[PauseShort] 危なかった…"
 
 #, ruby
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]緊張感で おなか痛くなってきた…"
+msgstr "[Sound1 bytes=\"032A\"]緊張感で おなか痛くなってきた…"
 
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ぼうやのおかげで助かったよ！[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]ぼうやのおかげで助かったよ！[PauseMid]\n"
 "ありがとう！"
 
 #, ruby
 msgid "RetMSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハーイ ぼうや！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ハーイ ぼうや！[PauseShort]\n"
 "[Color name=\"red\"]マモノ屋[Color name=\"unset\"]を知ってるかい？\n"
 "地図があるなら 見てみたらいい[PauseMid]\n"
 "ドクロに見える池が 北の方にあるだろう？\n"
@@ -67,108 +67,108 @@ msgstr ""
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ぼうや 意外と強いんだね！ [PauseShort]\n"
+"[Sound1 bytes=\"010B\"]ぼうや 意外と強いんだね！ [PauseShort]\n"
 "おかげで助かったよ！"
 
 #, ruby
 msgid "RetMSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハーイ！ [PauseShort]ハイリア人のぼうや！\n"
+"[Sound1 bytes=\"0002\"]ハーイ！ [PauseShort]ハイリア人のぼうや！\n"
 "\n"
 "他にも ゾーラ ゴロン ゲルド リト…[PauseMid]\n"
 "アッカレには さまざまな種族との出会いがある\n"
 "ぼうやが 大地の冒険家なら[PauseShort]\n"
 "私は 恋の冒険家と名乗ってみたい\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]もちろん ぼうやは私には若すぎる[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]もちろん ぼうやは私には若すぎる[PauseMid]\n"
 "そこについては 安心なさいな"
 
 #, ruby
 msgid "RetMSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハーイ ぼうや！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ハーイ ぼうや！[PauseShort]\n"
 "\n"
 "矢の種類と数ばかりじゃなくて\n"
 "弓の方も ときどきチェックしているかい？\n"
 "いざって時に バキッなんてことがないように[PauseShort]\n"
 "なるべく 丈夫な弓を蓄えておくように\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]私の場合は 恋の矢を撃つ弓が折れないように[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]私の場合は 恋の矢を撃つ弓が折れないように[PauseMid]\n"
 "つまり 心が折れないようにしてる…"
 
 #, ruby
 msgid "MSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ぼうやが腕を磨いて もし城に向かう日が来たら[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ぼうやが腕を磨いて もし城に向かう日が来たら[PauseShort]\n"
 "城に珍しい矢が眠ることを 思い出しておくれ"
 
 #, ruby
 msgid "RetMSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ハーイ ぼうや！ [PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ハーイ ぼうや！ [PauseShort]\n"
 "\n"
 "弓ばかり良いものを持っていても\n"
 "実際に敵に飛んでいくのは 矢の方だからな？\n"
-"[Sound1 unk1=\"5\" unk2=\"18\"]恋のチャンスと戦いのピンチは\n"
+"[Sound1 bytes=\"0512\"]恋のチャンスと戦いのピンチは\n"
 "いつだって突然やってくるもの…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]いざというとき 矢が無いなんてことのないよう[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]いざというとき 矢が無いなんてことのないよう[PauseShort]\n"
 "本数は多めにあったほうがいいな"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]サヴォッタ！"
 
 #, ruby
 msgid "RetMSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]やあ ヴォーイ！[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]やあ ヴォーイ！[PauseShort]\n"
 "\n"
 "ヴォーイというか[PauseShort]\n"
 "私にとってはまだ ぼうやね\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]この街道を行き来する ヴォーイたちは\n"
+"[Sound1 bytes=\"0109\"]この街道を行き来する ヴォーイたちは\n"
 "すべてが私の恋の的なのさ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]種族も年齢もさまざまで[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]種族も年齢もさまざまで[PauseShort]\n"
 "目移りがすごくて 挙動不審な私ではあるが…"
 
 #, ruby
 msgid "Rest_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私は はるか南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から\n"
+"[Sound1 bytes=\"0002\"]私は はるか南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から\n"
 "ヴォーイハントの旅でやってきたんだ\n"
 "どうせなら よりどりみどりがいいと思って[PauseShort]\n"
 "このアッカレ地方を選んだのさ"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]サヴァーク！"
 
 #, ruby
 msgid "Rest_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]心は晴れてるから この雨のこと[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]心は晴れてるから この雨のこと[PauseShort]\n"
 "素敵な演出として受け入れられるよ"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！"
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]サヴァサーバ！"
 
 #, ruby
 msgid "RetMSG_Akka_04_1"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]この街道を行き来する ヴォーイたちは\n"
+"[Sound1 bytes=\"0109\"]この街道を行き来する ヴォーイたちは\n"
 "すべてが私の恋の的なのさ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]種族も年齢もさまざまで[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]種族も年齢もさまざまで[PauseShort]\n"
 "目移りがすごくて 挙動不審な私ではあるが…"
 
 #, ruby
 msgid "Rest_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]雨は 熱くなりすぎた想いを冷ましてくれる[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]雨は 熱くなりすぎた想いを冷ましてくれる[PauseShort]\n"
 "私にはありがたい"
 
 #, ruby
 msgid "MSG_Akka_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハーイ ぼうや！[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]ハーイ ぼうや！[PauseMid]\n"
 "地図は持っているかい？[PauseMid]\n"
 "旅をするなら 目的地をしっかり決めて\n"
 "地図を頼りに移動することを ススメるよ\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]私は 素敵なパートナー探しの旅に出る！[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]私は 素敵なパートナー探しの旅に出る！[PauseMid]\n"
 "だからぼうやも がんばりな！"
 
 #, ruby
@@ -178,17 +178,17 @@ msgstr "ハイリア人はいいね…"
 #, ruby
 msgid "MSG_Akka_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]私は 南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から [Color name=\"blue\"]アッカレ地方[Color name=\"unset\"]まで[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]私は 南西の[Color name=\"blue\"]ゲルド砂漠[Color name=\"unset\"]から [Color name=\"blue\"]アッカレ地方[Color name=\"unset\"]まで[PauseShort]\n"
 "パートナー探しの旅をしている\n"
 "他の種族に出会えるのは とても刺激的で[PauseShort]\n"
 "新しい考え方に触れることも多いよ\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]ぼうやも 世界を回って\n"
+"[Sound1 bytes=\"0109\"]ぼうやも 世界を回って\n"
 "刺激的な出会いをたくさん経験しような！"
 
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]ぼうやに 助けてもらっちゃったね！[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]ぼうやに 助けてもらっちゃったね！[PauseMid]\n"
 "ほんとに！[PauseShort] 助かったよ！"
 
 #, ruby
@@ -198,7 +198,7 @@ msgstr "ゴロン族はいいね…"
 #, ruby
 msgid "MSG_Akka_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]旅の途中で 聞いた話だが…[PauseMid]\n"
+"[Sound1 bytes=\"0010\"]旅の途中で 聞いた話だが…[PauseMid]\n"
 "[Color name=\"blue\"]ハイラル城[Color name=\"unset\"]の奥には 珍しい矢があるらしい\n"
 "ぼうやが腕を磨いて もし城に向かう日が来たら[PauseShort]\n"
 "珍しい矢のことを思い出しておくれ"
@@ -206,14 +206,14 @@ msgstr ""
 #, ruby
 msgid "RetMSG_Akka_01_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハイリア ゾーラ ゴロン ゲルド リト…[PauseMid]\n"
+"[Sound1 bytes=\"0002\"]ハイリア ゾーラ ゴロン ゲルド リト…[PauseMid]\n"
 "アッカレには さまざまな種族との出会いがある\n"
 "ぼうやが 大地の冒険家なら[PauseShort]\n"
 "私は 恋の冒険家と名乗ってみたい…"
 
 #, ruby
 msgid "SavedLv2_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]ぼうや！ [PauseShort]助けてくれてありがとう！[PauseMid]"
+msgstr "[Sound1 bytes=\"010B\"]ぼうや！ [PauseShort]助けてくれてありがとう！[PauseMid]"
 
 #, ruby
 msgid "Near02"
@@ -222,13 +222,13 @@ msgstr "旅人はいいね…"
 #, ruby
 msgid "MSG_Akka_03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ぼうやは 弓の腕はどうなんだい？\n"
+"[Sound1 bytes=\"0002\"]ぼうやは 弓の腕はどうなんだい？\n"
 "\n"
 "弓矢で魔物を倒す時は 基本は頭を狙うこと\n"
 "ガーディアンの場合は 目を狙うといいぞ\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]ふだんから 練習をこなすことで…\n"
+"[Sound1 bytes=\"0109\"]ふだんから 練習をこなすことで…\n"
 "素敵な異性のハートを…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]いやいや 魔物を射止めることができるぞ"
+"[Sound1 bytes=\"0001\"]いやいや 魔物を射止めることができるぞ"
 
 #, ruby
 msgid "Near03"
@@ -237,11 +237,11 @@ msgstr "料理人はいいね…"
 #, ruby
 msgid "MSG_Akka_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ハーイ ぼうや！ [PauseShort]\n"
+"[Sound1 bytes=\"0002\"]ハーイ ぼうや！ [PauseShort]\n"
 "ぼうやは 巨大な敵に遭遇したことはあるかい？\n"
 "戦うのか！ 逃げるのか！[PauseShort]\n"
 "判断に迷ったら 武器の状態で決めるといい\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]戦闘中に 矢が尽きたり武器が壊れたりしたら…[PauseMid]\n"
+"[Sound1 bytes=\"0510\"]戦闘中に 矢が尽きたり武器が壊れたりしたら…[PauseMid]\n"
 "それはもう悲惨なことになるからな"
 
 #, ruby
@@ -250,38 +250,38 @@ msgstr "雨かぁ…"
 
 #, ruby
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"22\"]早く 逃げな！[PauseMid] [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]が 来るよ！"
+msgstr "[Sound1 bytes=\"0416\"]早く 逃げな！[PauseMid] [Color name=\"blue\"]ガーディアン[Color name=\"unset\"]が 来るよ！"
 
 #, ruby
 msgid "MSG_Akka_03_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]弓矢で魔物を倒す時は 基本は頭を狙うこと\n"
+"[Sound1 bytes=\"0002\"]弓矢で魔物を倒す時は 基本は頭を狙うこと\n"
 "ガーディアンの場合は 目を狙うといいぞ"
 
 #, ruby
 msgid "SavedLv3_00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]ぼうやは 命の恩人だよ！[PauseMid]"
+msgstr "[Sound1 bytes=\"010B\"]ぼうやは 命の恩人だよ！[PauseMid]"
 
 #, ruby
 msgid "SavedLv3_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]ぼうやには 頭が上がらないよ！"
+msgstr "[Sound1 bytes=\"010B\"]ぼうやには 頭が上がらないよ！"
 
 #, ruby
 msgid "MSG_Akka_00_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]旅をするなら 目的地をしっかり決めて[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]旅をするなら 目的地をしっかり決めて[PauseShort]\n"
 "地図を頼りに移動することを ススメるよ"
 
 #, ruby
 msgid "RetMSG_Akka_02_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]いざって時に バキッなんてことがないように[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]いざって時に バキッなんてことがないように[PauseShort]\n"
 "なるべく 丈夫な弓を蓄えておくようにな"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]あやうく 魔物の餌食になるところだったよ！[PauseMid]\n"
+"[Sound1 bytes=\"010B\"]あやうく 魔物の餌食になるところだったよ！[PauseMid]\n"
 "助けてくれてありがとう！"
 
 msgid "_ReadOnly_MsbtExtras"

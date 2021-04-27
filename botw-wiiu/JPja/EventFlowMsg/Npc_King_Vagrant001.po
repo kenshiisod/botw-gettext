@@ -1,23 +1,23 @@
 #, ruby
 msgid "GoodBye02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]むう…[PauseMid]\n"
+"[Sound1 bytes=\"0005\"]むう…[PauseMid]\n"
 "用もないのに 起こすでないぞ"
 
 #, ruby
 msgid "GoodBye03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "あったかくて 気持ちがいいわい"
 
 #, ruby
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]わしは しばらく ここにおるでな…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]わしは しばらく ここにおるでな…[PauseMid]\n"
 "何かあれば また訪ねるがいい"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]うん？ なんじゃ？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0002\"]うん？ なんじゃ？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1001"
 msgstr "ここは？"
@@ -25,20 +25,20 @@ msgstr "ここは？"
 #, ruby
 msgid "Takibi00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ちょっと 体が冷えてのう[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]ちょっと 体が冷えてのう[PauseMid]\n"
 "たき火にあたって 休んでおるのじゃ"
 
 #, ruby
 msgid "GoodBye05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]のう… お主[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]のう… お主[PauseMid]\n"
 "どこか行くところが あるんじゃないかの？"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"また会うたな[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"また会うたな[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "なにしてるの？"
@@ -46,7 +46,7 @@ msgstr "なにしてるの？"
 #, ruby
 msgid "Takibi01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ひまをつぶすには たき火が一番じゃ[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]ひまをつぶすには たき火が一番じゃ[PauseMid]\n"
 "炎を見ていると 時が経つのも忘れるからのう\n"
 "[Sound2 id=\"2\"]お主も どうじゃ？[PauseMid]\n"
 "好きなだけ ゆっくりしていくがいい"
@@ -54,8 +54,8 @@ msgstr ""
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]そんな格好じゃ寒かろう[PauseMid]\n"
-"たき火にでも あたっていかんか？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]そんな格好じゃ寒かろう[PauseMid]\n"
+"たき火にでも あたっていかんか？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "さようなら"
@@ -63,7 +63,7 @@ msgstr "さようなら"
 #, ruby
 msgid "Takibi02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ひまをつぶすには たき火が一番じゃ[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]ひまをつぶすには たき火が一番じゃ[PauseMid]\n"
 "好きなだけ ゆっくりしていくがいい"
 
 #, ruby
@@ -73,13 +73,13 @@ msgstr "何じゃ？"
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]夜は魔物も増えて 危ないぞ[PauseMid]\n"
-"朝まで ひまをつぶしていかんか？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]夜は魔物も増えて 危ないぞ[PauseMid]\n"
+"朝まで ひまをつぶしていかんか？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Takibi03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]たき火に ゆっくりあたって\n"
+"[Sound1 bytes=\"0004\"]たき火に ゆっくりあたって\n"
 "また 焼きリンゴでも こしらえるとするかのう\n"
 "食材は そのまま食うのもいいが\n"
 "あぶった方が栄養も増して美味いんじゃ"
@@ -87,8 +87,8 @@ msgstr ""
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]なんじゃ…[PauseMid]\n"
-"せっかく 寝てたというにのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]なんじゃ…[PauseMid]\n"
+"せっかく 寝てたというにのう[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "TerrorEnemy"
 msgstr "ひぃーっ！"
@@ -99,12 +99,12 @@ msgstr "……"
 #, ruby
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"そこのたき火に あたっていかんか？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"そこのたき火に あたっていかんか？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠のお宝は まだかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]祠のお宝は まだかの？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "TerrorArrow"
@@ -113,34 +113,34 @@ msgstr "何をする！"
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]祠探しのほうは どうじゃ？\n"
-"はかどっておるかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]祠探しのほうは どうじゃ？\n"
+"はかどっておるかの？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"わしに 何か用かの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"わしに 何か用かの？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Apple00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]こりゃ わしの焼きリンゴじゃぞ！"
+msgstr "[Sound1 bytes=\"000E\"]こりゃ わしの焼きリンゴじゃぞ！"
 
 #, ruby
 msgid "Apple01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]冗談じゃよ…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]冗談じゃよ…[PauseMid]\n"
 "リンゴは こんがり焼いたぐらいが美味いんじゃ"
 
 msgid "Torch00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"20\"]その たいまつ どうするつもりじゃ？[Choice3 label1=\"2000\" label2=\"2001\" label3=\"2002\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0014\"]その たいまつ どうするつもりじゃ？[Choice3 label1=\"2000\" label2=\"2001\" label3=\"2002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Torch01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]ぶっそうなヤツめ…[PauseMid]\n"
+"[Sound1 bytes=\"0005\"]ぶっそうなヤツめ…[PauseMid]\n"
 "そいつは 火をつけるのに使うもんじゃ\n"
 "この先には魔物もおる\n"
 "武器なら もっとマシなのにするんじゃな"
@@ -154,7 +154,7 @@ msgstr ""
 #, ruby
 msgid "Torch03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]あぶないヤツめ…[PauseMid]\n"
+"[Sound1 bytes=\"0005\"]あぶないヤツめ…[PauseMid]\n"
 "燃えやすい草の近くで 振り回すんじゃないぞ\n"
 "とはいえ この先には魔物もおるでな\n"
 "いざとなったら 武器として使うのもいいがな"
@@ -168,7 +168,7 @@ msgstr "ひぃーっ！"
 #, ruby
 msgid "Torch04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"14\"]ふん… 好きにするがいいわい\n"
+"[Sound1 bytes=\"000E\"]ふん… 好きにするがいいわい\n"
 "\n"
 "言っておくが この先には魔物がおるぞ\n"
 "いざとなったら 武器としてでも使うんじゃな"
@@ -176,7 +176,7 @@ msgstr ""
 #, ruby
 msgid "Torch05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]適当に振り回さずに 相手を向いて\n"
+"[Sound1 bytes=\"0009\"]適当に振り回さずに 相手を向いて\n"
 "しっかりと間合いをとることじゃ"
 
 #, ruby
@@ -197,8 +197,8 @@ msgstr "ぬわーっ！"
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"やっぱり 話がしとうなったようじゃの？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"やっぱり 話がしとうなったようじゃの？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near02"
 msgstr "Zzz... Zzz..."
@@ -214,10 +214,10 @@ msgid "TerrorFire"
 msgstr "あちゃっ"
 
 msgid "Talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]うん？ なんじゃ？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0002\"]うん？ なんじゃ？[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "TalkHub1_01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[Choice4Flags label1=\"65535\" label2=\"1001\" flag2=\"Npc_King_Common_Kokoha\" label3=\"1002\" flag3=\"Npc_King_Vagrant001_ChoiceExclude\" label4=\"1003\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near03"
 msgstr "……"
@@ -232,7 +232,7 @@ msgstr "火をつける！"
 
 #, ruby
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]祠のお宝 楽しみにしておるぞ"
+msgstr "[Sound1 bytes=\"0001\"]祠のお宝 楽しみにしておるぞ"
 
 msgid "2002"
 msgstr "ヒミツ"
@@ -240,7 +240,7 @@ msgstr "ヒミツ"
 #, ruby
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
 
 msgid "_ReadOnly_MsbtExtras"

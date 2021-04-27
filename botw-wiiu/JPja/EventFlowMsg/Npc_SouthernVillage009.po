@@ -1,48 +1,48 @@
 #, ruby
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]かあちゃんの ご飯は うまいなあ"
+msgstr "[Sound1 bytes=\"0100\"]かあちゃんの ご飯は うまいなあ"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]いせき[Color name=\"unset\"]はどうだった？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]いせき[Color name=\"unset\"]はどうだった？[PauseShort]\n"
 "ワクワクしたでしょ！"
 
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]雨 雨～[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]雨 雨～[PauseMid]\n"
 "雨の中 走ると きっもちいいよね～"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]今日は もう寝るんだ[PauseMid]\n"
+"[Sound1 bytes=\"0022\"]今日は もう寝るんだ[PauseMid]\n"
 "おやすみ"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ねえねえ 知ってる？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ねえねえ 知ってる？[PauseMid]\n"
 "[Color name=\"blue\"]ヤシノビーチ[Color name=\"unset\"]に おもしろい場所が あるんだ！\n"
 "前に リガニーのにいちゃんと\n"
 "一緒に行ったけど ワクワクしたなあ\n"
 "[Color name=\"red\"]いせき[Color name=\"unset\"]って 言ってたかな[PauseMid]\n"
-"おにいちゃん キョーミある？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"おにいちゃん キョーミある？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]じゃあ つれてってあげる[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]じゃあ つれてってあげる[PauseMid]\n"
 "ついてきて！"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]ええ～[PauseMid] 残念"
+msgstr "[Sound1 bytes=\"0900\"]ええ～[PauseMid] 残念"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]おくれずに ついてきてよ！"
+msgstr "[Sound1 bytes=\"0600\"]おくれずに ついてきてよ！"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]ゴール！"
+msgstr "[Sound1 bytes=\"0709\"]ゴール！"
 
 #, ruby
 msgid "Near00"
@@ -65,29 +65,29 @@ msgstr "ぐー ぐー"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]もうちょっとだから\n"
+"[Sound1 bytes=\"0000\"]もうちょっとだから\n"
 "ちゃんと ついてきてね！"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]あれが [Color name=\"red\"]いせき[Color name=\"unset\"]だよ！"
+msgstr "[Sound1 bytes=\"0000\"]あれが [Color name=\"red\"]いせき[Color name=\"unset\"]だよ！"
 
 msgid "Near06"
 msgstr "ごはん ごはん"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]じゃあね！"
+msgstr "[Sound1 bytes=\"0004\"]じゃあね！"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"26\"]これから ご飯なんだ[PauseMid]\n"
+"[Sound1 bytes=\"011A\"]これから ご飯なんだ[PauseMid]\n"
 "急いで 帰らなきゃ！"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]ぐーぐー"
+msgstr "[Sound1 bytes=\"0021\"]ぐーぐー"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]リガニーのにいちゃんに よろしくね！"
+msgstr "[Sound1 bytes=\"0000\"]リガニーのにいちゃんに よろしくね！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAH8AwAAAAAAABYAAAAEAAAAYAAAAI4AAAC8AAAA6gAAABgBAABGAQAAdAEAAKIBAADQAQAA/gEAACwCAABaAgAAiAIAALYCAADkAgAAEgMAABQDAAAWAwAARAMAAHIDAACgAwAAzgMAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAwADkAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMAA5AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADAAOQAAAAAAAA=="

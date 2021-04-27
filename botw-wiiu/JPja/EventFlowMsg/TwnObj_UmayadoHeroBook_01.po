@@ -16,7 +16,7 @@ msgstr ""
 "ただ 暴れん坊なのか 全身アザだらけ\n"
 "だから 治療をしてあげた\n"
 "治癒の力を見るのは初めてだったみたい\n"
-"目を丸くして見上げてくる彼の顔が 可愛かった[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"目を丸くして見上げてくる彼の顔が 可愛かった[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0004"
 msgstr "やめる"
@@ -31,7 +31,7 @@ msgstr ""
 "発掘に来ていたシーカー族の話だと\n"
 "神獣は人が操るものらしい\n"
 "昔 こんな大きなものを人が動かしていた…\n"
-"今度も 誰かが操ることになるのかな？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"今度も 誰かが操ることになるのかな？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -47,7 +47,7 @@ msgstr ""
 "「何かあったの？」って訊いても\n"
 "リンクは何も言わず ただ首を振るだけ\n"
 "…背が私より高くなったせいかな？\n"
-"リンクは 私の頭越しに遠くを見てる気がする…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"リンクは 私の頭越しに遠くを見てる気がする…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0006"
@@ -65,7 +65,7 @@ msgstr ""
 "私に出来る事なら やりたい\n"
 "皆を… 護りたい\n"
 "それに神獣は ガノンと戦う騎士を…\n"
-"リンクを助ける為の 存在だそうだから…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"リンクを助ける為の 存在だそうだから…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book05"
@@ -90,7 +90,7 @@ msgstr ""
 "リンクが…\n"
 "リンクが最後に見せた\n"
 "とても美しい技は 回転斬りっていうらしい\n"
-"…槍で真似してみようかな？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"…槍で真似してみようかな？[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book06"
@@ -106,7 +106,7 @@ msgstr ""
 "二人には申し訳ないけれど\n"
 "やっぱり リンクを助けたい…\n"
 "そういえば 鎧の材料がようやく揃った\n"
-"そろそろ 作り始めなきゃ…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"そろそろ 作り始めなきゃ…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book07"
@@ -121,7 +121,7 @@ msgstr ""
 "あの時の ダルケルさんに感謝…\n"
 "でも そんな嬉しい気持ちが 吹き飛んじゃう位\n"
 "びっくりする噂を聞いた\n"
-"リンクが 姫様御付の騎士に選ばれるらしい…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"リンクが 姫様御付の騎士に選ばれるらしい…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book08"
@@ -137,7 +137,7 @@ msgstr ""
 "そうだ…\n"
 "夕方 リンクと一緒にルッタに乗ろう\n"
 "昔々のゾーラの御姫様…\n"
-"私に勇気をください[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"1\"]"
+"私に勇気をください[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0001"
@@ -145,7 +145,7 @@ msgstr "読まない"
 
 #, ruby
 msgid "Book00"
-msgstr "[Color name=\"red\"][Color name=\"blue\"]ミファーの日記[Color name=\"red\"] [Color name=\"unset\"]を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"red\"][Color name=\"blue\"]ミファーの日記[Color name=\"red\"] [Color name=\"unset\"]を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"

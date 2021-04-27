@@ -1,19 +1,19 @@
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]少し前 ここに来た客の話によると 最近も\n"
+"[Sound1 bytes=\"0B10\"]少し前 ここに来た客の話によると 最近も\n"
 "[Color name=\"blue\"]サルファの丘[Color name=\"unset\"]で [Color name=\"red\"]白馬[Color name=\"unset\"]を見かけたそうなんじゃ…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ひょっとしたら おじいちゃんの言っておった\n"
+"[Sound1 bytes=\"0000\"]ひょっとしたら おじいちゃんの言っておった\n"
 "王家の[Color name=\"red\"]白馬[Color name=\"unset\"]の 子孫かもしれんのぅ\n"
 "そなた 旅の途中で もし[Color name=\"red\"]白馬[Color name=\"unset\"]を見つけたら[PauseMid]\n"
-"わしの所まで 連れてきてもらえんじゃろか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"わしの所まで 連れてきてもらえんじゃろか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"20\"]ありがとう…[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を見つけたら [Color name=\"blue\"]所有馬[Color name=\"unset\"]にして\n"
+"[Sound1 bytes=\"0714\"]ありがとう…[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を見つけたら [Color name=\"blue\"]所有馬[Color name=\"unset\"]にして\n"
 "わしの所に 連れてきて欲しいのじゃ…[PauseShort]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]サルファの丘[Color name=\"unset\"]にいるという[Color name=\"red\"]白馬[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]サルファの丘[Color name=\"unset\"]にいるという[Color name=\"red\"]白馬[Color name=\"unset\"]は\n"
 "毛並みにムラが無い 美しい真っ白な馬で…[PauseMid]\n"
 "いつも 他の馬の群れとは\n"
 "少し離れた所にいたそうじゃ\n"
@@ -22,41 +22,41 @@ msgstr ""
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]幼い頃 おじいちゃんから聞かされた\n"
+"[Sound1 bytes=\"0701\"]幼い頃 おじいちゃんから聞かされた\n"
 "あの[Color name=\"blue\"]ゼルダ姫様[Color name=\"unset\"]が 乗っていたという[Color name=\"red\"]白馬[Color name=\"unset\"]…\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"red\"]白馬[Color name=\"unset\"]を華麗に乗りこなす 姫様の姿は\n"
+"[Sound1 bytes=\"0101\"][Color name=\"red\"]白馬[Color name=\"unset\"]を華麗に乗りこなす 姫様の姿は\n"
 "この世のものとは思えぬ 美しさだったそうな…\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]この[Color name=\"red\"]白馬[Color name=\"unset\"]は きっとその子孫に違いないて…[PauseLong]\n"
+"[Sound1 bytes=\"0109\"]この[Color name=\"red\"]白馬[Color name=\"unset\"]は きっとその子孫に違いないて…[PauseLong]\n"
 "綺麗じゃのぉ…[PauseMid] 美しいのぉ…[PauseMid]"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]旅のお方…[PauseMid] そなたは[Color name=\"red\"]白馬[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0000\"]旅のお方…[PauseMid] そなたは[Color name=\"red\"]白馬[Color name=\"unset\"]を\n"
 "見たことは ありますかな？"
 
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ここの馬宿の受付でも[Color name=\"blue\"]所有馬[Color name=\"unset\"]に出来るぞ…！[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ここの馬宿の受付でも[Color name=\"blue\"]所有馬[Color name=\"unset\"]に出来るぞ…！[PauseMid]\n"
 "わしとの話は [Color name=\"red\"]白馬[Color name=\"unset\"]を[Color name=\"blue\"]所有馬[Color name=\"unset\"]にしてからじゃ！"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]おぉ そなた やっぱり\n"
+"[Sound1 bytes=\"0100\"]おぉ そなた やっぱり\n"
 "引き受けてくれる気に なったのかの？"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]わしのおじいちゃんの話は 本当だったのか…[PauseMid]\n"
+"[Sound1 bytes=\"070B\"]わしのおじいちゃんの話は 本当だったのか…[PauseMid]\n"
 "夢にまで見てきた[Color name=\"red\"]白馬[Color name=\"unset\"]が 目の前におる！"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]無理を言ってすまなかった…[PauseLong]\n"
+"[Sound1 bytes=\"090C\"]無理を言ってすまなかった…[PauseLong]\n"
 "気が変わったらまた話しかけておくれ…"
 
 #, ruby
@@ -77,9 +77,9 @@ msgstr "ゼルダ姫様の白馬…"
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]そなたに 授けたいものがある！\n"
+"[Sound1 bytes=\"070B\"]そなたに 授けたいものがある！\n"
 "ハイラル王家に伝わる くらと手綱じゃ！[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]王家のくらと手綱は\n"
+"[Sound1 bytes=\"0001\"]王家のくらと手綱は\n"
 "この[Color name=\"red\"]白馬[Color name=\"unset\"]にこそ ふさわしい！"
 
 #, ruby
@@ -89,13 +89,13 @@ msgstr "無理だと思う…"
 #, ruby
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]おぉ… そなた その[Color name=\"red\"]白馬[Color name=\"unset\"]は…！[PageBreak][Sound1 unk1=\"4\" unk2=\"1\"]ここの馬宿の受付で そいつを[Color name=\"blue\"]所有馬[Color name=\"unset\"]に出来る[PauseShort]\n"
+"[Sound1 bytes=\"0A15\"]おぉ… そなた その[Color name=\"red\"]白馬[Color name=\"unset\"]は…！[PageBreak][Sound1 bytes=\"0401\"]ここの馬宿の受付で そいつを[Color name=\"blue\"]所有馬[Color name=\"unset\"]に出来る[PauseShort]\n"
 "その[Color name=\"red\"]白馬[Color name=\"unset\"]を[Color name=\"blue\"]所有馬[Color name=\"unset\"]にして 連れてきておくれ！"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]サルファの丘[Color name=\"unset\"]にいるという[Color name=\"red\"]白馬[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]サルファの丘[Color name=\"unset\"]にいるという[Color name=\"red\"]白馬[Color name=\"unset\"]は\n"
 "毛並みにムラが無い 美しい真っ白な馬で…[PauseMid]\n"
 "いつも 他の馬の群れとは\n"
 "少し離れた所にいた[PauseShort] という話じゃ\n"
@@ -105,11 +105,11 @@ msgstr ""
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]なんと！[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を連れてきてくれたのか！[PauseMid]\n"
+"[Sound1 bytes=\"0A00\"]なんと！[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を連れてきてくれたのか！[PauseMid]\n"
 "本当におったんじゃな…\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]いやぁ 長生きはするもんじゃ…[PauseMid]\n"
+"[Sound1 bytes=\"0101\"]いやぁ 長生きはするもんじゃ…[PauseMid]\n"
 "ありがとうのぅ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では わしが おじいちゃんから譲り受けた\n"
+"[Sound1 bytes=\"0001\"]では わしが おじいちゃんから譲り受けた\n"
 "王家に伝わるくらと手綱を そなたに授けよう！[PauseMid]"
 
 #, ruby
@@ -121,12 +121,12 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]なんと！[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を捕まえてきてくれたのか！[PauseMid]\n"
+"[Sound1 bytes=\"0A00\"]なんと！[PauseMid] [Color name=\"red\"]白馬[Color name=\"unset\"]を捕まえてきてくれたのか！[PauseMid]\n"
 "[Color name=\"blue\"]所有馬[Color name=\"unset\"]にして わしの所に連れてきておくれ！"
 
 #, ruby
 msgid "talk01"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]おぉ… そなた その[Color name=\"red\"]白馬[Color name=\"unset\"]は…！"
+msgstr "[Sound1 bytes=\"0A00\"]おぉ… そなた その[Color name=\"red\"]白馬[Color name=\"unset\"]は…！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAHgAwAAAAAAABQAAAAEAAAAWAAAAIoAAAC8AAAA7gAAACABAAAiAQAAJAEAAFYBAACIAQAAugEAAOwBAAAeAgAAUAIAAIICAAC0AgAA5gIAABgDAABKAwAAfAMAAK4DAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADcAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAAAAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADcAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADcAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADcAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAATgBwAGMAXwBIAHkAcgB1AGwAZQBEAGUAcAB0AGgASABhAHQAYQBnAG8AMAAwADcAAABOAHAAYwBfAEgAeQByAHUAbABlAEQAZQBwAHQAaABIAGEAdABhAGcAbwAwADAANwAAAE4AcABjAF8ASAB5AHIAdQBsAGUARABlAHAAdABoAEgAYQB0AGEAZwBvADAAMAA3AAAAAAAA"

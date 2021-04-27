@@ -3,39 +3,39 @@ msgstr "不要緊的"
 
 msgid "talk40"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"][Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]的鏘隆怪，\n"
-"不知道在雨中要不要緊……[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0010\"][Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]的鏘隆怪，\n"
+"不知道在雨中要不要緊……[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk41"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"18\"]真的？真的不要緊嗎？？[PauseMid]\n"
+"[Sound1 bytes=\"0B12\"]真的？真的不要緊嗎？？[PauseMid]\n"
 "聽不到鏘隆鏘隆的聲音了，好擔心啊……[PauseMid]"
 
 msgid "talk50"
 msgstr "[Sound2 id=\"31\"][Size percent=\"80\"]鏘隆……呼嚕……[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]鏘鏘鏘！隆隆隆！！[Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"070B\"][Size percent=\"125\"]鏘鏘鏘！隆隆隆！！[Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "那是什麼？"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]大哥哥你不知道嗎！？\n"
+"[Sound1 bytes=\"0A00\"]大哥哥你不知道嗎！？\n"
 "那是[Color name=\"blue\"]塔邦撻大橋[Color name=\"unset\"]的鏘隆怪！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]牠是會從橋下……谷底……\n"
+"[Sound1 bytes=\"0001\"]牠是會從橋下……谷底……\n"
 "發出奇怪鏘隆鏘隆聲的妖怪喔！\n"
 "你聽，有吧？\n"
 "[PauseLong]……咦？沒有聲音耶……\n"
-"[Sound1 unk1=\"5\" unk2=\"19\"]是怎麼了？\n"
+"[Sound1 bytes=\"0513\"]是怎麼了？\n"
 "妖怪在睡覺嗎？"
 
 msgid "0001"
 msgstr "鏘隆～！"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Size percent=\"125\"]鏘隆～！鏘隆～！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0701\"][Size percent=\"125\"]鏘隆～！鏘隆～！！[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAESAgAAAAAAAAkAAAAEAAAALAAAAGIAAACYAAAAzgAAAAQBAAA6AQAAcAEAAKYBAADcAQAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"

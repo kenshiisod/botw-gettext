@@ -3,18 +3,18 @@ msgstr "Whoa!"
 
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]I look forward to seeing what type of\n"
+"[Sound1 bytes=\"0001\"]I look forward to seeing what type of\n"
 "treasure you secure out there."
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Oho ho![PauseMid] If you still wish to acquire the\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Oho ho![PauseMid] If you still wish to acquire the\n"
 "[Color name=\"blue\"]paraglider[Color name=\"unset\"], you must put in the effort.\n"
 "I will not simply give it away, you see."
 
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"23\"]You did well to make it this far without\n"
+"[Sound1 bytes=\"0517\"]You did well to make it this far without\n"
 "the proper clothing.\n"
 "\n"
 "[Sound2 id=\"7\"]Please take this warm doublet as a\n"
@@ -40,32 +40,32 @@ msgstr "Toasty..."
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Ahhh...[PauseMid] I enjoy gazing out at the world\n"
-"from here.[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Ahhh...[PauseMid] I enjoy gazing out at the world\n"
+"from here.[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "B-b-breathtaking view..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Oho ho![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Oho ho![Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "Bye."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]There are few things in life filled with\n"
+"[Sound1 bytes=\"0002\"]There are few things in life filled with\n"
 "as much mystery and wonder as the\n"
 "moments before a sunrise..."
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]The fierce cold atop these mountains can\n"
+"[Sound1 bytes=\"0002\"]The fierce cold atop these mountains can\n"
 "take quite a toll as the night sets in."
 
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]This may be the best place to get a full\n"
+"[Sound1 bytes=\"0004\"]This may be the best place to get a full\n"
 "view of the entire plateau."
 
 msgid "Nagameru01"
@@ -76,18 +76,18 @@ msgstr ""
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Have you procured the treasure from\n"
+"[Sound1 bytes=\"0000\"]Have you procured the treasure from\n"
 "the shrine yet?[PauseMid] I'm old, you know.\n"
 "Who knows how much longer I can wait..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Have you found the remaining shrines?"
+msgstr "[Sound1 bytes=\"0000\"]Have you found the remaining shrines?"
 
 msgid "TerrorArrow"
 msgstr "What is this?!"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Oho ho!"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Oho ho!"
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]Oho ho!"

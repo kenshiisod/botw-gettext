@@ -2,17 +2,17 @@ msgid "TerrorEnemy"
 msgstr "Iiih!"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Presto, portami quello che ti ho chiesto."
+msgstr "[Sound1 bytes=\"0001\"]Presto, portami quello che ti ho chiesto."
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Oh oh oh...[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Oh oh oh...[PauseMid]\n"
 "Se vuoi la [Color name=\"blue\"]paravela[Color name=\"unset\"], te la devi\n"
 "guadagnare..."
 
 msgid "GoodBye04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Eh!? [PauseMid]Come hai fatto a venire fin qui\n"
+"[Sound1 bytes=\"0001\"]Eh!? [PauseMid]Come hai fatto a venire fin qui\n"
 "senza una tunica antifreddo?\n"
 "\n"
 "[Sound2 id=\"7\"]Orbene...[PauseMid]\n"
@@ -39,27 +39,27 @@ msgstr "Ahi!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]Oh oh oh...[PauseMid]\n"
-"Che panorama![Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]Oh oh oh...[PauseMid]\n"
+"Che panorama![Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1002"
 msgstr "Che bella vista!"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Oh oh oh...[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Oh oh oh...[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1003"
 msgstr "Arrivederci."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Sta per spuntare il sole."
+msgstr "[Sound1 bytes=\"0002\"]Sta per spuntare il sole."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]In montagna di sera fa freschetto."
+msgstr "[Sound1 bytes=\"0002\"]In montagna di sera fa freschetto."
 
 msgid "Nagameru00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Da qui non c'è niente che ostacoli\n"
+"[Sound1 bytes=\"0004\"]Da qui non c'è niente che ostacoli\n"
 "la vista.[PauseMid] È il punto ideale per godersi\n"
 "il panorama di tutto l'altopiano."
 
@@ -71,17 +71,17 @@ msgstr ""
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Non hai trovato nessun tesoro?[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Non hai trovato nessun tesoro?[PauseMid]\n"
 "Non ne posso più di aspettare..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Allora, hai trovato gli altri sacrari?"
+msgstr "[Sound1 bytes=\"0000\"]Allora, hai trovato gli altri sacrari?"
 
 msgid "TerrorArrow"
 msgstr "Che vuoi fare?!"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Oh, oh, oh."
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Oh, oh, oh."
 
 msgid "Near00"
 msgstr "[Animation name=\"CustomLaugh\"]Oh oh oh..."

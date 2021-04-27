@@ -12,7 +12,7 @@ msgstr ""
 "王家の姫として気丈に振る舞うべしと\n"
 "繰り返し言い聞かせ 育てたからであろうか\n"
 "6歳にして立派な品行であった…これからは\n"
-"あれの母に代わって 儂が娘を育てていかねば[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"あれの母に代わって 儂が娘を育てていかねば[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0004"
 msgstr "やめる"
@@ -27,7 +27,7 @@ msgstr ""
 "厄災ガノン復活の予言が無ければ 焦らずとも…\n"
 "と思うが 今の状況では 悠長に構えていられない\n"
 "ゼルダには酷だが 泉での修行を増やす様に\n"
-"命令する必要がある[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"命令する必要がある[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -41,7 +41,7 @@ msgstr ""
 "修行の休み日を使っての調査だと\n"
 "言い訳を述べるが それを一喝する\n"
 "学者の真似事に感けているから力が得られぬのだ\n"
-"と もう何度目かも判らぬ説教を繰り返した[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"と もう何度目かも判らぬ説教を繰り返した[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0006"
@@ -57,7 +57,7 @@ msgstr ""
 "王宮の一部の者達に 陰口を叩かれ\n"
 "唯一の血縁である儂にも叱責を受ける\n"
 "好きな遺物研究に逃げるのも無理からぬ事だと\n"
-"思うが 王家の者として責務は果たさねばならぬ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"思うが 王家の者として責務は果たさねばならぬ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Diary_07"
@@ -73,13 +73,13 @@ msgstr ""
 "あれの好きな遺物や歴史の研究を進めさせれば\n"
 "そこで手掛かりが見つかる可能性も有ろう\n"
 "とにかく今は 父として娘が\n"
-"この城に戻って来るのを待とうと思う[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"1\"]"
+"この城に戻って来るのを待とうと思う[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Diary_00"
 msgstr ""
 "ローム・ボスフォレームス・ハイラルの手記を\n"
-"読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -91,7 +91,7 @@ msgstr ""
 "今日 明けの刻 娘が産まれた\n"
 "王家の習わしに従い ゼルダと名付ける\n"
 "極度の筆不精である儂だが これを機に\n"
-"備忘録代わりとして手記を認めようと思う[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"備忘録代わりとして手記を認めようと思う[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"
@@ -107,7 +107,7 @@ msgstr ""
 "全ての遺物を検分しなければならないが 巨大な\n"
 "神獣だけでも4体… かなり時間を要するだろう\n"
 "ゼルダに遺物の話をしてやると 瞳を輝かせて\n"
-"聞き入っていた…あれには学者の気質がある様だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"聞き入っていた…あれには学者の気質がある様だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAEcAgAAAAAAAA4AAAAEAAAAQAAAAEIAAABEAAAARgAAAEgAAABKAAAATAAAAIYAAADAAAAA+gAAADQBAABuAQAAqAEAAOIBAAAAAAAAAAAAAAAAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAAMQAAAFQAdwBuAE8AYgBqAF8ASAB5AHIAdQBsAGUAQwBhAHMAdABsAGUAQgBvAG8AawBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAAMQAAAFQAdwBuAE8AYgBqAF8ASAB5AHIAdQBsAGUAQwBhAHMAdABsAGUAQgBvAG8AawBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEgAeQByAHUAbABlAEMAYQBzAHQAbABlAEIAbwBvAGsAXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBIAHkAcgB1AGwAZQBDAGEAcwB0AGwAZQBCAG8AbwBrAF8AQQBfADAAMQAAAAAAAA=="

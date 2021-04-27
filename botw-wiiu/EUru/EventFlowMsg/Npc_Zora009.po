@@ -1,43 +1,43 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Ой, как поздно ты гуляешь!"
+msgstr "[Sound1 bytes=\"0102\"]Ой, как поздно ты гуляешь!"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]Или ты что-то хотел спросить?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0704\"]Или ты что-то хотел спросить?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]Добро пожаловать!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Добро пожаловать в «Маромарт»!♪"
+msgstr "[Sound1 bytes=\"0101\"]Добро пожаловать в «Маромарт»!♪"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Входи![PauseShort] В первом зале у нас магазин\n"
+"[Sound1 bytes=\"0101\"]Входи![PauseShort] В первом зале у нас магазин\n"
 "«Коралловый риф», а во втором — \n"
 "мастерская «Рыба-молот»!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет!"
+msgstr "[Sound1 bytes=\"0000\"]Привет!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Чем могу помочь?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0701\"]Чем могу помочь?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]До свидания!"
+msgstr "[Sound1 bytes=\"010A\"]До свидания!"
 
 msgid "0010"
 msgstr "«Маромарт»?"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Ага!♪[PageBreak]Магазин плюс мастерская![PauseShort]\n"
+"[Sound1 bytes=\"0709\"]Ага!♪[PageBreak]Магазин плюс мастерская![PauseShort]\n"
 "Вместе — «Маромарт»!♪"
 
 msgid "0011"
 msgstr "Магазин..."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_00\"]Маромарт![PauseShort] Маромарт![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Humming_01\"]Маромарт![PauseShort] Ля-ля-ля...♪[PageBreak][Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]ЛЯ-А-А!♪[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0101\"][Animation name=\"Humming_00\"]Маромарт![PauseShort] Маромарт![PageBreak][Sound1 bytes=\"0101\"][Animation name=\"Humming_01\"]Маромарт![PauseShort] Ля-ля-ля...♪[PageBreak][Sound1 bytes=\"070B\"][Size percent=\"125\"]ЛЯ-А-А!♪[Size percent=\"100\"]"
 
 msgid "0012"
 msgstr "Мастерская..."
@@ -47,35 +47,35 @@ msgstr "Пока"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]Я сама эту песню сочинила![PauseShort]\n"
+"[Sound1 bytes=\"0701\"]Я сама эту песню сочинила![PauseShort]\n"
 "Правда, она замечательная?"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]В мастерской работает\n"
+"[Sound1 bytes=\"0009\"]В мастерской работает\n"
 "мой дедушка Денто![PageBreak]Это он раньше всегда чинил\n"
 "[Color name=\"blue\"]трезубец Чешуи Света[Color name=\"unset\"] для\n"
 "госпожи Мифы!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Этому магазину больше ста лет,\n"
+"[Sound1 bytes=\"0104\"]Этому магазину больше ста лет,\n"
 "поэтому покупатели нам доверяют![PageBreak]Продавца зовут Клефф, он очень\n"
 "ответственный.[PauseShort] Кстати, его сестра\n"
 "Тона без ума от принца Сидона!"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Доброе утро!"
+msgstr "[Sound1 bytes=\"0102\"]Доброе утро!"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"1\" unk2=\"6\"]Чем еще могу помочь?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0106\"]Чем еще могу помочь?[Choice4Flags label1=\"10\" label2=\"11\" label3=\"12\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Здравствуй!"
+msgstr "[Sound1 bytes=\"0102\"]Здравствуй!"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]Хочешь еще раз послушать\n"
+"[Sound1 bytes=\"0704\"]Хочешь еще раз послушать\n"
 "мою песню?[PauseShort] Хорошо!♪"
 
 msgid "_ReadOnly_MsbtExtras"

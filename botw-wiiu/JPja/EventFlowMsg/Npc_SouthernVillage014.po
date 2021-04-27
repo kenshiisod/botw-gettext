@@ -1,23 +1,23 @@
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]祠が輝いてるさ～！\n"
+"[Sound1 bytes=\"0100\"]祠が輝いてるさ～！\n"
 "きれいさね～\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]それにしても あんた\n"
+"[Sound1 bytes=\"0B01\"]それにしても あんた\n"
 "タダモノじゃ なさそうだわいさ…[PauseMid]\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]けど オレは謎が解けただけで 満足わいさ！[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]けど オレは謎が解けただけで 満足わいさ！[PauseShort]\n"
 "余計な詮索は しないわいさ！"
 
 #, ruby
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]地面から ゴゴゴ～って！[PauseMid]\n"
+"[Sound1 bytes=\"0A0B\"]地面から ゴゴゴ～って！[PauseMid]\n"
 "は～ [PauseShort]びっくりしたさ～！"
 
 #, ruby
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ふたつの命が あんたとオレで…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ふたつの命が あんたとオレで…[PauseShort]\n"
 "なるほど [PauseShort]なるほど…\n"
 "あんた よくこの謎がわかったさね！\n"
 "感心するさ～"
@@ -25,7 +25,7 @@ msgstr ""
 #, ruby
 msgid "Talk_05"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"19\"]ん？ [PauseShort]出てきた祠が気になるさね？[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]すまんすまん [PauseShort]長話してしまったさね\n"
+"[Sound1 bytes=\"0513\"]ん？ [PauseShort]出てきた祠が気になるさね？[PageBreak][Sound1 bytes=\"0000\"]すまんすまん [PauseShort]長話してしまったさね\n"
 "行ってらっしゃいさ～"
 
 msgid "LookPicture"
@@ -37,9 +37,9 @@ msgstr "ふむふむ…"
 #, ruby
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]それにしても あんた\n"
+"[Sound1 bytes=\"0B00\"]それにしても あんた\n"
 "タダモノじゃ なさそうだわいさ…\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]けど オレは謎が解けただけで 満足わいさ！[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]けど オレは謎が解けただけで 満足わいさ！[PauseShort]\n"
 "余計な詮索は しないわいさ！"
 
 msgid "LookPicture_01"
@@ -48,12 +48,12 @@ msgstr "すごいじゃないさ～！"
 #, ruby
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]うーん…[PauseMid] いったい この石碑には\n"
+"[Sound1 bytes=\"0B06\"]うーん…[PauseMid] いったい この石碑には\n"
 "何て 書かれていたわいさ…？"
 
 #, ruby
 msgid "Talk_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]今日も 祠は美しいさ～！"
+msgstr "[Sound1 bytes=\"0100\"]今日も 祠は美しいさ～！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAH8AQAAAAAAAAoAAAAEAAAAMAAAAF4AAACMAAAAugAAAOgAAAAWAQAARAEAAHIBAACgAQAAzgEAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAABOAHAAYwBfAFMAbwB1AHQAaABlAHIAbgBWAGkAbABsAGEAZwBlADAAMQA0AAAATgBwAGMAXwBTAG8AdQB0AGgAZQByAG4AVgBpAGwAbABhAGcAZQAwADEANAAAAE4AcABjAF8AUwBvAHUAdABoAGUAcgBuAFYAaQBsAGwAYQBnAGUAMAAxADQAAAAAAAA="

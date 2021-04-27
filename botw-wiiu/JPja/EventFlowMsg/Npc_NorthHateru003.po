@@ -1,7 +1,7 @@
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]フフフ… [PauseShort]疑うのも無理はない[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]フフフ… [PauseShort]疑うのも無理はない[PauseLong]\n"
 "だが 目の前にあるのだよ！"
 
 msgid "near00"
@@ -10,11 +10,11 @@ msgstr "はっ！ ほっ！"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]その名も…\n"
+"[Sound1 bytes=\"0000\"]その名も…\n"
 "\n"
-"[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"10\"]たいまつの剣！！[Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"070A\"]たいまつの剣！！[Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ちょっと自信無いけど[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ちょっと自信無いけど[PauseShort]\n"
 "タイマーだか たいまつだか 確かそんな名前だ！\n"
 "分かったら行け！ [PauseShort]練習の邪魔だっ！"
 
@@ -24,7 +24,7 @@ msgstr "せいっ！"
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"10\"]ははは！ [PauseLong]すばらしい剣だよ[PauseShort]\n"
+"[Sound1 bytes=\"000A\"]ははは！ [PauseLong]すばらしい剣だよ[PauseShort]\n"
 "たいまつの剣は！"
 
 msgid "near02"
@@ -33,7 +33,7 @@ msgstr "たぁーっ！"
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ははは！ 邪魔だ邪魔だ！\n"
+"[Sound1 bytes=\"0000\"]ははは！ 邪魔だ邪魔だ！\n"
 "\n"
 "この伝説の…[PauseShort]\n"
 "たいまつの剣の 餌食になりたいか？！"
@@ -47,19 +47,19 @@ msgstr "練習練習！"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ヒュー！ [PauseLong]旅の人か？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]ヒュー！ [PauseLong]旅の人か？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]そういえば君も[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]そういえば君も[PauseShort]\n"
 "なかなかの業物を 持ってるんじゃないか？\n"
-"その剣の名前は 何て名前だい？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"その剣の名前は 何て名前だい？[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]何？ [PauseLong]たいま… [PauseShort]たいまつの剣？\n"
+"[Sound1 bytes=\"0006\"]何？ [PauseLong]たいま… [PauseShort]たいまつの剣？\n"
 "\n"
 "ハハッ！[PauseLong]\n"
 "たいまつの剣なら オレが持ってるじゃないか！\n"
@@ -82,7 +82,7 @@ msgstr "違います"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]だろうねぇ！\n"
+"[Sound1 bytes=\"0000\"]だろうねぇ！\n"
 "\n"
 "このたいまつの剣の前には[PauseShort]\n"
 "凡百の剣なんぞ 霞んで見えるぜ！"
@@ -94,26 +94,26 @@ msgstr "退魔の剣"
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]分かったら そこをどいてくれないか？[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]分かったら そこをどいてくれないか？[PauseLong]\n"
 "練習の邪魔だ！"
 
 #, ruby
 msgid "0005"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]語るほどの物では…"
+msgstr "[Sound1 bytes=\"0000\"]語るほどの物では…"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]もう誰だっていいさ！[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]もう誰だっていいさ！[PauseLong]\n"
 "だから ちょっと聞いてくれよ！\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]オレはついに手に入れたんだ！ 伝説の剣を！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0700\"]オレはついに手に入れたんだ！ 伝説の剣を！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ハハハ！ うらやむがいい！[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]ハハハ！ うらやむがいい！[PauseLong]\n"
 "キミも聞いたことくらい あるだろう？\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]噂の…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]噂の…[PauseShort]\n"
 "選ばれし者だけが 持てる剣…"
 
 msgid "_ReadOnly_MsbtExtras"

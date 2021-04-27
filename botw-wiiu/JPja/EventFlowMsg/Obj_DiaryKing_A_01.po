@@ -4,7 +4,7 @@ msgstr ""
 "[01:02]今度こそ 忘れないよう\n"
 "レシピを 書き留めておこう\n"
 "[01:02]ケモノ肉と ポカポカ草の実\n"
-"そして ハイラルバスを 鍋で豪快に焼くのだ[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"そして ハイラルバスを 鍋で豪快に焼くのだ[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0008"
@@ -16,7 +16,7 @@ msgstr ""
 "[01:02]この料理を食えば 寒い雪山でも動き回れるが\n"
 "効能に 時間制限があることを忘れておった\n"
 "[01:02][Color name=\"blue\"]防寒着[Color name=\"unset\"]なら ずっと寒さを凌ぐこともできたが\n"
-"少し惜しいことをした[Choice4Flags label1=\"8\" label2=\"0\" label3=\"1\" flag3=\"Npc_King_ChoiceExclude_Finish\" label4=\"5\" selectednum=\"3\" cancelnum=\"3\"]"
+"少し惜しいことをした[Choice4Flags label1=\"8\" label2=\"0\" label3=\"1\" flag3=\"Npc_King_ChoiceExclude_Finish\" label4=\"5\" select_idx=\"3\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Diary07"
@@ -26,7 +26,7 @@ msgstr ""
 "[01:02]薄々 気づいておったかも知れぬが\n"
 "わしの素性を隠していて すまなかった\n"
 "[01:02]回生の眠りから目覚めた お主に事を伝えるには\n"
-"他に方法が思いつかなかったのだ[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"他に方法が思いつかなかったのだ[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Diary08a"
@@ -40,7 +40,7 @@ msgstr ""
 "[01:02]簡単ではないことは わかっておる\n"
 "だが お主にはできる\n"
 "[01:02]そう わしは確信しておる\n"
-"100年前と変わらぬ いい眼をしておったぞ[Choice4Flags label1=\"8\" label2=\"4\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"5\" selectednum=\"3\" cancelnum=\"3\"]"
+"100年前と変わらぬ いい眼をしておったぞ[Choice4Flags label1=\"8\" label2=\"4\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"5\" select_idx=\"3\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Diary08b"
@@ -54,7 +54,7 @@ msgstr ""
 "[01:02]簡単ではないことは わかっておる\n"
 "だが お主にはできる\n"
 "[01:02]そう わしは確信しておる\n"
-"100年前と変わらぬ いい眼をしておったぞ[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"100年前と変わらぬ いい眼をしておったぞ[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Diary09"
@@ -63,15 +63,15 @@ msgstr ""
 "これから先 きっと お主の役に立つだろう\n"
 "[01:02]料理や暖を取って 寒さをしのぐのもいいが\n"
 "無茶は いかん\n"
-"[01:02]では 頼んだぞ[Choice4Flags label1=\"65535\" label2=\"8\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"5\" selectednum=\"3\" cancelnum=\"3\"]"
+"[01:02]では 頼んだぞ[Choice4Flags label1=\"65535\" label2=\"8\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"5\" select_idx=\"3\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "DiaryFirst00"
-msgstr "老人の日記のようだ…[Choice2 label1=\"6\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "老人の日記のようだ…[Choice2 label1=\"6\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "DiaryFirst01"
-msgstr "老人の日記のようだ…[Choice3 label1=\"6\" label2=\"0\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "老人の日記のようだ…[Choice3 label1=\"6\" label2=\"0\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -79,7 +79,7 @@ msgstr "最初のページへ"
 
 #, ruby
 msgid "DiaryFirst02"
-msgstr "老人の日記のようだ…[Choice4Flags label1=\"6\" label2=\"4\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "老人の日記のようだ…[Choice4Flags label1=\"6\" label2=\"4\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"0\" flag3=\"Npc_King_ChoiceExclude_Diary\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0001"
@@ -107,7 +107,7 @@ msgstr ""
 "[01:02]この料理の凄いところは 体力回復はもちろん\n"
 "寒い雪山でもポカポカで 動き回れるという事だ\n"
 "[01:02]これさえあれば\n"
-"あの窮屈な [Color name=\"blue\"]防寒着[Color name=\"unset\"]など もういらん[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"あの窮屈な [Color name=\"blue\"]防寒着[Color name=\"unset\"]など もういらん[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0004"
@@ -121,7 +121,7 @@ msgstr ""
 "[01:02]ケモノ肉と ポカポカ草の実を使ったのは\n"
 "覚えているのだが\n"
 "[01:02]他に何を使ったのか どうしても思い出せない\n"
-"わしも 歳を取ったものだ[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"わしも 歳を取ったものだ[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0005"
@@ -134,7 +134,7 @@ msgstr ""
 "誰かの知恵を あてにすることもできないが\n"
 "[01:02]もし その食材を教えてくれる者が現れたら\n"
 "礼に わしの[Color name=\"blue\"]防寒着[Color name=\"unset\"]を進呈してやろう\n"
-"[01:02]むなしい願いだとは思うが…[Choice4Flags label1=\"8\" label2=\"3\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"1\" flag3=\"Npc_King_ChoiceExclude_Finish\" label4=\"5\" selectednum=\"3\" cancelnum=\"3\"]"
+"[01:02]むなしい願いだとは思うが…[Choice4Flags label1=\"8\" label2=\"3\" flag2=\"Npc_King_ChoiceExclude_Recipe\" label3=\"1\" flag3=\"Npc_King_ChoiceExclude_Finish\" label4=\"5\" select_idx=\"3\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0006"
@@ -146,7 +146,7 @@ msgstr ""
 "[01:02]驚いた事に わしの考案した究極の料理\n"
 "ピリ辛山海焼きを 再現する者が現れた\n"
 "[01:02]わしの[Color name=\"blue\"]防寒着[Color name=\"unset\"]を与えるに ふさわしい\n"
-"なかなか見どころのあるヤツだ[Choice2 label1=\"7\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"なかなか見どころのあるヤツだ[Choice2 label1=\"7\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0007"

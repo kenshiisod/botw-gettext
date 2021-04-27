@@ -6,7 +6,7 @@ msgstr ""
 "母様から ナボリスは\n"
 "ゲルドの民の守り神様だと聞いていたが\n"
 "本当にそうなのだろうか…\n"
-"明日 調べにいこう[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"明日 調べにいこう[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0003"
@@ -28,7 +28,7 @@ msgstr ""
 "わらわの記憶はそこで途切れた…\n"
 "\n"
 "めざめたらビューラが心配そうに\n"
-"わらわの顔を のぞきこんでいた[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"わらわの顔を のぞきこんでいた[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk10"
@@ -46,7 +46,7 @@ msgstr ""
 "最近は 毎日が楽しくて仕方がない\n"
 "\n"
 "いつか共に スナザラシラリーで\n"
-"手合わせ願いたいものだ…[Choice2 label1=\"4\" label2=\"5\" selectednum=\"1\" cancelnum=\"1\"]"
+"手合わせ願いたいものだ…[Choice2 label1=\"4\" label2=\"5\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0004"
@@ -65,7 +65,7 @@ msgstr ""
 "一番の原因だ…\n"
 "皆はそんなことを\n"
 "一言もいわず 宝の捜索にはげんでくれているが\n"
-"無力な族長だと思われているに違いない…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"無力な族長だと思われているに違いない…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "やめる"
@@ -81,7 +81,7 @@ msgstr ""
 "\n"
 "母様…\n"
 "ウルボザ様…\n"
-"どうか わらわをお導きください[Choice2 label1=\"4\" label2=\"5\" selectednum=\"1\" cancelnum=\"1\"]"
+"どうか わらわをお導きください[Choice2 label1=\"4\" label2=\"5\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk07"
@@ -99,7 +99,7 @@ msgstr ""
 "…いや 忘れたふりをしているだけか\n"
 "\n"
 "ふふっ あの堅物のビューラが\n"
-"ヴォーイに 心を許すとはな…[Choice2 label1=\"4\" label2=\"5\" selectednum=\"1\" cancelnum=\"1\"]"
+"ヴォーイに 心を許すとはな…[Choice2 label1=\"4\" label2=\"5\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk08"
@@ -112,7 +112,7 @@ msgstr ""
 "\n"
 "母様…\n"
 "ウルボザ様…\n"
-"どうか わらわをお導きください[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"どうか わらわをお導きください[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk09"
@@ -130,13 +130,13 @@ msgstr ""
 "…いや 忘れたふりをしているだけか\n"
 "\n"
 "ふふっ あの堅物のビューラが\n"
-"ヴォーイに 心を許すとはな…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"ヴォーイに 心を許すとはな…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "DiaryFirst"
 msgstr ""
 "『族長日記』\n"
-"マキ・ア・ルージュ[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"マキ・ア・ルージュ[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -152,7 +152,7 @@ msgstr ""
 "母様が神になったのは\n"
 "喜ばしいことだとわかっているが\n"
 "神様ではなく 母様として\n"
-"ずっとわらわの側に いてほしかった[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"ずっとわらわの側に いてほしかった[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0001"
@@ -168,7 +168,7 @@ msgstr ""
 "母様…\n"
 "\n"
 "ルージュは 母様のような立派な族長に\n"
-"なれるのでしょうか…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"なれるのでしょうか…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"

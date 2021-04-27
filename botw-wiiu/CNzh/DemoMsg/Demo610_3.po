@@ -15,22 +15,22 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_000"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]哎呀？竟然会在这样的\n"
+"[Sound1 bytes=\"0B06\"]哎呀？竟然会在这样的\n"
 "高地上遇到其他人……[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]诗歌中的英杰向我诉说，\n"
+"[Sound1 bytes=\"030C\"]诗歌中的英杰向我诉说，\n"
 "希望我能完成此诗……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_002"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]哎呀，让你见笑了。\n"
+"[Sound1 bytes=\"0300\"]哎呀，让你见笑了。\n"
 "在边境地区旅行，我经常会自言自语……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]所幸从[Color name=\"blue\"]格鲁德[Color name=\"unset\"]族族长[Color name=\"blue\"]璐菊[Color name=\"unset\"]和护卫[Color name=\"blue\"]碧优拉[Color name=\"unset\"]那里……\n"
+"[Sound1 bytes=\"0000\"]所幸从[Color name=\"blue\"]格鲁德[Color name=\"unset\"]族族长[Color name=\"blue\"]璐菊[Color name=\"unset\"]和护卫[Color name=\"blue\"]碧优拉[Color name=\"unset\"]那里……\n"
 "我听到了不少有关英杰的宝贵故事。"
 
 msgid "Npc_DungeonPriest_HeroGerudoRelief_001"
@@ -43,17 +43,17 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]啊……能在[Color name=\"blue\"]神兽[Color name=\"unset\"]守望之地吟诗一首，\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]啊……能在[Color name=\"blue\"]神兽[Color name=\"unset\"]守望之地吟诗一首，\n"
 "实在大快人心……"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_205"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]为了进入[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]，我吃了不少\n"
+"[Sound1 bytes=\"0601\"]为了进入[Color name=\"blue\"]格鲁德小镇[Color name=\"unset\"]，我吃了不少\n"
 "难以启齿的苦头，但这一切都是值得的。"
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]那么，我来为你朗诵一下\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]那么，我来为你朗诵一下\n"
 "我师父所写下的……\n"
 "[PauseAuto frames=\"40\"]挑战试练的[Color name=\"blue\"]英杰乌尔波扎的篇章[Color name=\"unset\"]吧。"
 
@@ -65,7 +65,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroGerudoRelief_206"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]为此，我需要更多地\n"
+"[Sound1 bytes=\"0000\"]为此，我需要更多地\n"
 "了解英杰们的事迹……"
 
 msgid "_ReadOnly_MsbtExtras"

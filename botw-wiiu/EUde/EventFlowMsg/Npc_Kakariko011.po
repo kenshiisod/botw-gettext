@@ -1,9 +1,9 @@
 msgid "Talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Dabei ist es hier...[PauseShort] so gemütlich..."
+msgstr "[Sound1 bytes=\"0004\"]Dabei ist es hier...[PauseShort] so gemütlich..."
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Mittags...[PauseShort] Gut...\n"
+"[Sound1 bytes=\"0010\"]Mittags...[PauseShort] Gut...\n"
 "[Size percent=\"80\"]Wenn ich zufällig... [PauseShort]wach bin...[Size percent=\"100\"]"
 
 msgid "Near01"
@@ -11,7 +11,7 @@ msgstr "Zzz..."
 
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Abends...[PauseShort] Gut...\n"
+"[Sound1 bytes=\"0010\"]Abends...[PauseShort] Gut...\n"
 "[Size percent=\"80\"]Hoffentlich... [PauseShort]denke ich dran...[Size percent=\"100\"]"
 
 msgid "0000"
@@ -19,7 +19,7 @@ msgstr "Normales Bett"
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Äh... [PauseShort]Guten Morgen...[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Äh... [PauseShort]Guten Morgen...[PauseShort]\n"
 "Beziehungsweise...[PauseShort] Mittag."
 
 msgid "0001"
@@ -27,27 +27,27 @@ msgstr "Luxusbett"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Äh... [PauseShort]Guten Morgen...[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Äh... [PauseShort]Guten Morgen...[PauseShort]\n"
 "Beziehungsweise...[PauseShort] Abend."
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Also... [PauseShort]Normales Bett [Color name=\"red\"]20 Rubine[Color name=\"unset\"].[PauseShort]\n"
-"[PauseShort]Luxusbett [Color name=\"red\"]40 Rubine[Color name=\"unset\"]...[PauseShort] glaub ich.[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]Also... [PauseShort]Normales Bett [Color name=\"red\"]20 Rubine[Color name=\"unset\"].[PauseShort]\n"
+"[PauseShort]Luxusbett [Color name=\"red\"]40 Rubine[Color name=\"unset\"]...[PauseShort] glaub ich.[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "Unterschied?"
 
 msgid "Talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Wann willst du...[PauseShort] aufstehen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]Wann willst du...[PauseShort] aufstehen?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0003"
 msgstr "Morgens, bitte!"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]In Ordnung...[PauseShort]\n"
-"Wecken... also... wann?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]In Ordnung...[PauseShort]\n"
+"Wecken... also... wann?[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "Mittags, bitte!"
@@ -57,7 +57,7 @@ msgstr "Abends, bitte!"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Nun... [PauseShort]denn.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Nun... [PauseShort]denn.[PauseShort]\n"
 "Gute Nacht... [PauseShort]und so."
 
 msgid "0006"
@@ -65,11 +65,11 @@ msgstr "Doch nicht."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Morgens...[PauseShort] Gut...\n"
+"[Sound1 bytes=\"0010\"]Morgens...[PauseShort] Gut...\n"
 "[Size percent=\"80\"]Ob ich wohl... [PauseShort]dran denke...?[Size percent=\"100\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Ähm... [PauseShort]Geld...[PauseShort] Hast du keins?"
+msgstr "[Sound1 bytes=\"0004\"]Ähm... [PauseShort]Geld...[PauseShort] Hast du keins?"
 
 msgid "0007"
 msgstr "Vielen Dank!"
@@ -79,27 +79,27 @@ msgstr "Lieber nicht."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Nicht?[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Nicht?[PauseShort]\n"
 "In Ordnung... [PauseShort]Mir egal..."
 
 msgid "0009"
 msgstr "Wiedersehen."
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Äh... [PauseShort]Guten Morgen..."
+msgstr "[Sound1 bytes=\"0004\"]Äh... [PauseShort]Guten Morgen..."
 
 msgid "Talk10"
-msgstr "[Sound1 unk1=\"10\" unk2=\"45\"]Bist du... [PauseShort]äh... [PauseShort]ein Gast?[PageBreak][Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"0\" unk2=\"0\"]Du hast mich erschreckt...[Color name=\"unset\"][Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0A2D\"]Bist du... [PauseShort]äh... [PauseShort]ein Gast?[PageBreak][Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0000\"]Du hast mich erschreckt...[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Hm, aber...[PauseShort] in Ordnung...[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]Hm, aber...[PauseShort] in Ordnung...[PauseShort]\n"
 "Bist ja... [PauseShort]zum ersten Mal hier.\n"
-"Heute schläfst du hier... [PauseShort]umsonst.[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+"Heute schläfst du hier... [PauseShort]umsonst.[Choice2 label1=\"7\" label2=\"8\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Das Luxusbett...[PauseShort] ist mit echten\n"
+"[Sound1 bytes=\"0010\"]Das Luxusbett...[PauseShort] ist mit echten\n"
 "Hühnerfedern... [PauseShort]glaub ich.[PageBreak]Wenn du...[PauseShort] äh...[PauseShort] darin schläfst...[PauseShort]\n"
 "wachst du erholter auf...[PauseShort] als sonst."
 

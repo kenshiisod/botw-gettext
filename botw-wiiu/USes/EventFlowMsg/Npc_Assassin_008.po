@@ -1,55 +1,55 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]¡Qué desfachatez! ¡Cómo osas olvidar\n"
+"[Sound1 bytes=\"0800\"]¡Qué desfachatez! ¡Cómo osas olvidar\n"
 "su nombre! Tú, que derrotaste al líder\n"
 "del clan Yiga."
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]¿Cómo que... nada adorable?"
+msgstr "[Sound1 bytes=\"0401\"]¿Cómo que... nada adorable?"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]No entiendes de arte. No entiendes\n"
+"[Sound1 bytes=\"020E\"]No entiendes de arte. No entiendes\n"
 "de belleza. ¡No entiendes nada!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Así que no contento con derrotar\n"
+"[Sound1 bytes=\"0800\"]Así que no contento con derrotar\n"
 "a nuestro bienamado líder... ¿ahora\n"
 "te ríes de él? ¡Eres un grosero!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]¿Quieres volver a hablar\n"
+"[Sound1 bytes=\"070A\"]¿Quieres volver a hablar\n"
 "de lo superadorable que\n"
-"es el [C9:00 bytes=\"01000000\"]maestro Kogg?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"es el [C9:00 bytes=\"01000000\"]maestro Kogg?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Pagarás con tu vida![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Pagarás con tu vida![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]¿No crees que el [C9:00 bytes=\"01000000\"]maestro Kogg\n"
+"[Sound1 bytes=\"070A\"]¿No crees que el [C9:00 bytes=\"01000000\"]maestro Kogg\n"
 "es superadorable? El movimiento\n"
-"de su barriga es tan hipnótico...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"de su barriga es tan hipnótico...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "¿El [C9:00 bytes=\"01000000\"]maestro Kogg?"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Por nuestro superadorable líder![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Por nuestro superadorable líder![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "No es nada adorable"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]¡No puede ser! ¿No lo conoces?[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Bueno, pues te diré lo que deberías\n"
+"[Sound1 bytes=\"0414\"]¡No puede ser! ¿No lo conoces?[PageBreak][Sound1 bytes=\"0001\"]Bueno, pues te diré lo que deberías\n"
 "saber sobre el [C9:00 bytes=\"01000000\"]maestro Kogg..."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"8\"]Conoce innumerables secretos\n"
+"[Sound1 bytes=\"0708\"]Conoce innumerables secretos\n"
 "de los Sheikah y es el líder del clan Yiga.\n"
 "¡Y conseguirá derrotar al héroe!"
 

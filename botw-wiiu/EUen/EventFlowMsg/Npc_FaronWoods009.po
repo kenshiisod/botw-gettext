@@ -4,10 +4,10 @@ msgstr ""
 "Take your time!"
 
 msgid "Com_Talk_13"
-msgstr "How many do you want to sell?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5501\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "How many do you want to sell?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5501\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_14"
-msgstr "I'll give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. OK?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "I'll give you [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. OK?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5500"
 msgstr "OK."
@@ -43,8 +43,8 @@ msgstr "[Sound2 id=\"9\"]Thanks a lot! Anything else?"
 
 msgid "Com_Talk_56"
 msgstr ""
-"Only one?[PauseShort] That'll be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
-"That OK?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+"Only one?[PauseShort] That'll be [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
+"That OK?[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_02c"
 msgstr "[Sound2 id=\"2\"]Thanks a bunch! Anything else?"
@@ -63,8 +63,8 @@ msgstr "I'm still game to buy stuff!"
 
 msgid "Com_Talk_01"
 msgstr ""
-"I'll give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]...\n"
-"That OK?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"I'll give you [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]...\n"
+"That OK?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_05d"
 msgstr "I'll buy all kinds of things if ya let me!"
@@ -73,7 +73,7 @@ msgid "Com_Talk_11b"
 msgstr "[Sound2 id=\"2\"]Thanks a ton!"
 
 msgid "Com_Talk_30"
-msgstr "That'd be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. Sound OK?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "That'd be [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. Sound OK?[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_02"
 msgstr "[Sound2 id=\"9\"]Thank you much![PauseShort] Anything else?"
@@ -82,7 +82,7 @@ msgid "Com_Talk_11c"
 msgstr "[Sound2 id=\"9\"]Thanks so much!"
 
 msgid "Com_Talk_31"
-msgstr "How many were you thinking?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "How many were you thinking?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_11d"
 msgstr "[Sound2 id=\"2\"]That's a huge help! Thanks!"
@@ -91,15 +91,15 @@ msgid "Com_Talk_04"
 msgstr "[Sound2 id=\"10\"]Hrmm[Size percent=\"80\"].[Size percent=\"100\"][PauseMid] Too bad."
 
 msgid "Com_Talk_33"
-msgstr "Only one?[PauseShort] I'll give you [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "Only one?[PauseShort] I'll give you [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]![Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_05"
 msgstr "I'll buy anything!"
 
 msgid "Com_Talk_34"
 msgstr ""
-"All of them?[PauseShort] That will be [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
-"That OK?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"All of them?[PauseShort] That will be [Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"].\n"
+"That OK?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_06"
 msgstr "What do you need?"
@@ -107,7 +107,7 @@ msgstr "What do you need?"
 msgid "Com_Talk_35"
 msgstr ""
 "So all of them, yeah? I can pay you\n"
-"[Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. That OK?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:12 name=\"ShopTradePrice\"] rupees[Color name=\"unset\"]. That OK?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_07"
 msgstr "[Sound2 id=\"10\"]Sorry! [PauseShort]I'm all out right now."
@@ -127,7 +127,7 @@ msgid "Com_Talk_37"
 msgstr ""
 "[Sound2 id=\"10\"]Sorry, I'm all out of arrows for today.\n"
 "Do you want to look at the list of stuff\n"
-"I plan to stock up on?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"I plan to stock up on?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_09"
 msgstr ""
@@ -135,10 +135,10 @@ msgstr ""
 "stuff to make room."
 
 msgid "Com_Talk_10"
-msgstr "You want that, then?[Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "You want that, then?[Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_11"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"]Thanks a million!"
+msgstr "[Sound1 bytes=\"070B\"]Thanks a million!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAE0AQAAAAAAACgAAAAEAAAAqAAAAKoAAACsAAAArgAAALAAAACyAAAAtAAAALYAAAC4AAAAugAAALwAAAC+AAAAwAAAAMIAAADEAAAAxgAAAMgAAADKAAAAzAAAAM4AAADQAAAA0gAAANQAAADWAAAA2AAAANoAAADcAAAA3gAAAOAAAADiAAAA5AAAAOYAAADoAAAACAEAACgBAAAqAQAALAEAAC4BAAAwAQAAMgEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEsAYQBrAGEAcgBpAGsAbwAwADEAMAAAAE4AcABjAF8ASwBhAGsAYQByAGkAawBvADAAMQAwAAAAAAAAAAAAAAAAAAAAAAAA"

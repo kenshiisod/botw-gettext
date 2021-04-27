@@ -1,23 +1,23 @@
 msgid "talk06"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Я на работу! Не ходи за мной!"
+msgstr "[Sound1 bytes=\"0800\"]Я на работу! Не ходи за мной!"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Не надо за мной ходить!"
+msgstr "[Sound1 bytes=\"0800\"]Не надо за мной ходить!"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"6\"]Я, вообще-то, хотела поболтать...[PauseShort]\n"
+"[Sound1 bytes=\"0206\"]Я, вообще-то, хотела поболтать...[PauseShort]\n"
 "точнее, обсудить кое-что очень\n"
 "важное.[PauseShort] Не вздумай [Color name=\"red\"]подслушивать[Color name=\"unset\"]!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Опять [Color name=\"blue\"]синий огонь[Color name=\"unset\"]![PauseShort]\n"
+"[Sound1 bytes=\"0800\"]Опять [Color name=\"blue\"]синий огонь[Color name=\"unset\"]![PauseShort]\n"
 "Это тебе не игрушка!"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]Ага, понятно.[PauseShort] А мне дочка недавно\n"
+"[Sound1 bytes=\"0019\"]Ага, понятно.[PauseShort] А мне дочка недавно\n"
 "сказала, что в [Color name=\"blue\"]Хатенском институте[Color name=\"unset\"]\n"
 "живет какая-то [Color name=\"red\"]девочка[Color name=\"unset\"]."
 
@@ -25,44 +25,44 @@ msgid "near00"
 msgstr "Слышала уже?"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]А?[PauseLong] Показалось, наверное..."
+msgstr "[Sound1 bytes=\"0B06\"]А?[PauseLong] Показалось, наверное..."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Правда?[PauseShort] Может, приемная?"
+msgstr "[Sound1 bytes=\"0010\"]Правда?[PauseShort] Может, приемная?"
 
 msgid "near01"
 msgstr "М-м-н-н..."
 
 msgid "talk02"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"33\"]Хр-р-р![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0021\"]Хр-р-р![Size percent=\"100\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Даже не знаю.[PauseShort] Зачем [Color name=\"blue\"]профессору[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0B06\"]Даже не знаю.[PauseShort] Зачем [Color name=\"blue\"]профессору[Color name=\"unset\"]\n"
 "в таком возрасте брать ребенка?[PauseShort]\n"
-"Слу-ушай, а может...[PageBreak][Sound1 unk1=\"6\" unk2=\"18\"]Да нет, вряд ли."
+"Слу-ушай, а может...[PageBreak][Sound1 bytes=\"0612\"]Да нет, вряд ли."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Хр-р-р..."
+msgstr "[Sound1 bytes=\"0021\"]Хр-р-р..."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]В чем дело?![PauseShort] Ты что,\n"
+"[Sound1 bytes=\"0800\"]В чем дело?![PauseShort] Ты что,\n"
 "[Color name=\"red\"]подслушиваешь[Color name=\"unset\"]?[PauseShort] Нахал!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Хочу как следует выспаться.[PauseShort]\n"
+"[Sound1 bytes=\"000C\"]Хочу как следует выспаться.[PauseShort]\n"
 "Устала...[PauseShort] Не приставай ко мне."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ну и молодежь пошла![PauseShort] Разве\n"
+"[Sound1 bytes=\"0000\"]Ну и молодежь пошла![PauseShort] Разве\n"
 "можно так нагло [Color name=\"red\"]подслушивать[Color name=\"unset\"]?[PauseShort]\n"
 "Родителям-то все расскажу!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]Я устала...[PauseShort] Иди по своим делам."
+msgstr "[Sound1 bytes=\"0012\"]Я устала...[PauseShort] Иди по своим делам."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAHoAgAAAAAAABAAAAAEAAAASAAAAHIAAACcAAAAxgAAAPAAAAAaAQAARAEAAG4BAACYAQAAwgEAAOwBAAAWAgAAQAIAAGoCAACUAgAAvgIAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAMAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADAANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAMAAAAAAAAA=="

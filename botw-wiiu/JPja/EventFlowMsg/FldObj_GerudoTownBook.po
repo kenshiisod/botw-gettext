@@ -15,16 +15,16 @@ msgstr ""
 "ちなみに 私 ラ・タームは\n"
 "妖精さんに憧れ 清い身を守り続けて35年\n"
 "そろそろ妖精さんからのお迎えが\n"
-"来てもおかしくないのである[Choice3 label1=\"4\" label2=\"5\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"来てもおかしくないのである[Choice3 label1=\"4\" label2=\"5\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk07"
-msgstr "[01:02]『ラ・タームの料理手帳①』[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[01:02]『ラ・タームの料理手帳①』[Choice4 label1=\"4\" label2=\"5\" label3=\"6\" label4=\"7\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]特別上手にできた料理を\n"
+"[Sound1 bytes=\"0000\"]特別上手にできた料理を\n"
 "我々は『大成功料理』と呼んでいるのだ\n"
 "大成功した料理は 効果のレベルと効果時間が\n"
 "通常よりも増すことが わかっているのである\n"
@@ -33,12 +33,12 @@ msgstr ""
 "赤い月の 不思議な光と共に作った料理は\n"
 "必ず 大成功するらしいのである\n"
 "ちなみに私ラ・タームは 夕方には眠くなるため\n"
-"未だに 赤い月を 見たことがないのである[Choice3 label1=\"9\" label2=\"10\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"未だに 赤い月を 見たことがないのである[Choice3 label1=\"9\" label2=\"10\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]マモノエキス[Color name=\"unset\"]はどんな料理に入れても\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"]マモノエキス[Color name=\"unset\"]はどんな料理に入れても\n"
 "効果を発揮する 特殊な素材なのである\n"
 "[Color name=\"blue\"]マモノエキス[Color name=\"unset\"]1つあれば\n"
 "効果のレベル 効果時間を増幅できるのである\n"
@@ -47,7 +47,7 @@ msgstr ""
 "大きな効果が発揮されることもあれば\n"
 "ろくでもない料理ができてしまうこともある\n"
 "ちなみに私ラ・タームは\n"
-"迷った時は運任せ なのである[Choice3 label1=\"8\" label2=\"10\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"迷った時は運任せ なのである[Choice3 label1=\"8\" label2=\"10\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0004"
@@ -76,7 +76,7 @@ msgstr "大成功料理"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]料理は商人に\n"
+"[Sound1 bytes=\"0000\"]料理は商人に\n"
 "買い取ってもらえるのである\n"
 "素材そのままよりも\n"
 "料理したほうが高く売れ\n"
@@ -86,22 +86,22 @@ msgstr ""
 "そんなことを知ってるのかって？\n"
 "それは… 友人が金を工面するために\n"
 "よく買い取ってもらっていたからなのだ\n"
-"あくまで 哀れな友人の話なのである[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"あくまで 哀れな友人の話なのである[Choice3 label1=\"8\" label2=\"9\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]その本は今は亡き天才シェフの\n"
+"[Sound1 bytes=\"0002\"]その本は今は亡き天才シェフの\n"
 "ラ・ターム氏が執筆した本だ\n"
 "[Size percent=\"80\"]ここだけの話…\n"
 "かつて先生が愛したヴォーイだそうだ…[Size percent=\"100\"]\n"
 "届かないなら\n"
-"私が読んでやろうか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"私が読んでやろうか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]さすが ラ・タームシェフだな\n"
+"[Sound1 bytes=\"0004\"]さすが ラ・タームシェフだな\n"
 "何度読んでも 勉強になるよ"
 
 msgid "0009"
@@ -109,24 +109,24 @@ msgstr "マモノエキス"
 
 #, ruby
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]『ラ・タームの料理手帳②』[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]『ラ・タームの料理手帳②』[Choice4 label1=\"8\" label2=\"9\" label3=\"10\" label4=\"11\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]さすが ラ・タームシェフ…\n"
+"[Sound1 bytes=\"0004\"]さすが ラ・タームシェフ…\n"
 "名言ばかりで感動するよ"
 
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]なんだ？\n"
+"[Sound1 bytes=\"0006\"]なんだ？\n"
 "読みたいんじゃなかったのか？"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ふふっ ゲルド用の家具は\n"
+"[Sound1 bytes=\"0709\"]ふふっ ゲルド用の家具は\n"
 "お前にはちょっと大きいようだな"
 
 #, ruby
@@ -147,7 +147,7 @@ msgstr ""
 "ちなみに 私ラ・タームと同じく\n"
 "せっかちな御仁には\n"
 "移動速度が上がる[Color name=\"blue\"]ゴーゴー素材[Color name=\"unset\"]を使った料理が\n"
-"おススメである[Choice3 label1=\"5\" label2=\"6\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"おススメである[Choice3 label1=\"5\" label2=\"6\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -168,7 +168,7 @@ msgstr ""
 "ちなみに 私ラ・タームと同じく\n"
 "虫が怖くて触れないというご婦人方\n"
 "薬と同じ効果を発揮する\n"
-"料理もありますので ご安心あれ[Choice3 label1=\"4\" label2=\"6\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"料理もありますので ご安心あれ[Choice3 label1=\"4\" label2=\"6\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAG2AgAAAAAAABgAAAAEAAAAaAAAAJQAAAC6AAAAvAAAAL4AAADkAAAACgEAADABAABWAQAAWAEAAFoBAABcAQAAXgEAAIQBAACqAQAA0AEAAPYBAAAkAgAAJgIAACgCAAAqAgAALAIAAFoCAACIAgAARgBsAGQATwBiAGoAXwBHAGUAcgB1AGQAbwBUAG8AdwBuAEIAbwBvAGsAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAAAAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAAAAAAAAAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABOAHAAYwBfAE8AYQBzAGkAcwBTAHQAdQBkAGUAbgB0AF8AQwAAAE4AcABjAF8ATwBhAHMAaQBzAFMAdAB1AGQAZQBuAHQAXwBDAAAATgBwAGMAXwBPAGEAcwBpAHMAUwB0AHUAZABlAG4AdABfAEMAAABGAGwAZABPAGIAagBfAEcAZQByAHUAZABvAFQAbwB3AG4AQgBvAG8AawAyAAAAAAAAAAAAAABGAGwAZABPAGIAagBfAEcAZQByAHUAZABvAFQAbwB3AG4AQgBvAG8AawAyAAAARgBsAGQATwBiAGoAXwBHAGUAcgB1AGQAbwBUAG8AdwBuAEIAbwBvAGsAMgAAAEYAbABkAE8AYgBqAF8ARwBlAHIAdQBkAG8AVABvAHcAbgBCAG8AbwBrADIAAAAAAAA="

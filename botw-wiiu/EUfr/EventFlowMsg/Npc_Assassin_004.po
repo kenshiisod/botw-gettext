@@ -11,36 +11,36 @@ msgid "0004"
 msgstr "Hein ?"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Snif, snif...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Snif, snif...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Snif, snif...[PauseLong] Je veux... Je veux...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Snif, snif...[PauseLong] Je veux... Je veux...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Du saumon...[PauseLong] grillé...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Du saumon...[PauseLong] grillé...[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Et aussi..."
+msgstr "[Sound1 bytes=\"0001\"]Et aussi..."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Snif, snif...[PauseLong] En fait, ce que je veux...\n"
+"[Sound1 bytes=\"032A\"]Snif, snif...[PauseLong] En fait, ce que je veux...\n"
 "c'est..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]La vie du Héros ![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]La vie du Héros ![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Snif, snif...[PauseMid] Plus jamais je ne le reverrai...\n"
+"[Sound1 bytes=\"032A\"]Snif, snif...[PauseMid] Plus jamais je ne le reverrai...\n"
 "Plus jamais..."
 
 msgid "Henshin01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger [C9:00 bytes=\"01000000\"]le grand Kohga ![Size percent=\"100\"][PauseAuto frames=\"60\"]\n"
+"[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je vais venger [C9:00 bytes=\"01000000\"]le grand Kohga ![Size percent=\"100\"][PauseAuto frames=\"60\"]\n"
 ""
 
 msgid "Near00"

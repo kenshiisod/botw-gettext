@@ -6,16 +6,16 @@ msgstr "[Sound2 id=\"18\"]Новый р-рекорд?!"
 
 msgid "Npc_oasis038_Demo330_1_030"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Легенда об этой награде передается\n"
+"[Sound1 bytes=\"0000\"]Легенда об этой награде передается\n"
 "у нас из поколения в поколение вот\n"
 "уже десять тысяч лет."
 
 msgid "Npc_oasis038_Demo330_1_031"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]«Когда священная сфера займет\n"
+"[Sound1 bytes=\"0000\"]«Когда священная сфера займет\n"
 "свое место на пьедестале, новая\n"
 "сила придет к Избранному...»[PageBreak]До сих пор эта самая сила\n"
-"ни к кому не приходила.[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"][Sound2 id=\"10\"]Даже ко мне...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Но в тебе есть что-то особенное.[PauseShort]\n"
+"ни к кому не приходила.[PageBreak][Sound1 bytes=\"0B00\"][Sound2 id=\"10\"]Даже ко мне...[PageBreak][Sound1 bytes=\"0000\"]Но в тебе есть что-то особенное.[PauseShort]\n"
 "Я чувствую.[PauseShort] Тебе нужно попытаться."
 
 msgid "NPC_GodVoice_Demo330_1_020"
@@ -24,10 +24,10 @@ msgstr ""
 "Но тебе еще учиться и учиться!"
 
 msgid "Npc_oasis038_Demo330_1_010"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]...[PageBreak][Sound2 id=\"9\"]Невероятно!"
+msgstr "[Sound1 bytes=\"0701\"]...[PageBreak][Sound2 id=\"9\"]Невероятно!"
 
 msgid "Npc_oasis038_Demo330_1_040"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"][Sound2 id=\"7\"]У нас новый чемпион!"
+msgstr "[Sound1 bytes=\"0700\"][Sound2 id=\"7\"]У нас новый чемпион!"
 
 msgid "NPC_GodVoice_Demo330_1_030"
 msgstr ""
@@ -38,7 +38,7 @@ msgid "NPC_GodVoice_Demo330_1_031"
 msgstr "Гонка окончена."
 
 msgid "Npc_oasis038_Demo330_1_020"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Думаю...[PauseLong] это твое по праву.[Pause frames=\"90\"]"
+msgstr "[Sound1 bytes=\"0000\"]Думаю...[PauseLong] это твое по праву.[Pause frames=\"90\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAEIAAAAAAAAAAoAAAAAAAAAAAAA"

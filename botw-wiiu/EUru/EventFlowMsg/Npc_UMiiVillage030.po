@@ -1,8 +1,8 @@
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ну у тебя и вид..."
+msgstr "[Sound1 bytes=\"0000\"]Ну у тебя и вид..."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хр-р-р..."
+msgstr "[Sound1 bytes=\"0000\"]Хр-р-р..."
 
 msgid "0000"
 msgstr "Видел!"
@@ -12,96 +12,96 @@ msgstr "Еще нет"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Хорошая была свадьба.[PageBreak][Sound1 unk1=\"1\" unk2=\"9\"]Только начальник не сдержался![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Кстати, Топорда хотел с тобой\n"
+"[Sound1 bytes=\"0001\"]Хорошая была свадьба.[PageBreak][Sound1 bytes=\"0109\"]Только начальник не сдержался![PageBreak][Sound1 bytes=\"0001\"]Кстати, Топорда хотел с тобой\n"
 "о чем-то поговорить."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Топорда хотел с тобой\n"
+"[Sound1 bytes=\"0000\"]Топорда хотел с тобой\n"
 "о чем-то поговорить."
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ты наверняка хочешь его поздравить,\n"
+"[Sound1 bytes=\"0000\"]Ты наверняка хочешь его поздравить,\n"
 "вот заодно и узнаешь, что ему нужно."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хс-с..."
+msgstr "[Sound1 bytes=\"0000\"]Хс-с..."
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ты очень помог Топорде при\n"
+"[Sound1 bytes=\"0000\"]Ты очень помог Топорде при\n"
 "строительстве деревни.[PauseShort] Он\n"
-"тебе благодарен.[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Ты хороший парень: успеваешь\n"
+"тебе благодарен.[PageBreak][Sound1 bytes=\"0B00\"]Ты хороший парень: успеваешь\n"
 "и тут помочь, и в Хатено."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Давай завтра поговорим."
+msgstr "[Sound1 bytes=\"0000\"]Давай завтра поговорим."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]В другой раз поговорим."
+msgstr "[Sound1 bytes=\"0000\"]В другой раз поговорим."
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Моя девушка тоже работает в магазине\n"
+"[Sound1 bytes=\"0000\"]Моя девушка тоже работает в магазине\n"
 "одежды, только товар делает ее отец,\n"
 "а не она сама.[PauseShort] Но это неважно..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро!"
+msgstr "[Sound1 bytes=\"0000\"]Доброе утро!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Я поговорил с Топордой,\n"
-"теперь можно расслабиться.[PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]Ты видел его избранницу?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]Я поговорил с Топордой,\n"
+"теперь можно расслабиться.[PageBreak][Sound1 bytes=\"0B00\"]Ты видел его избранницу?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"LaughL_00\"]Она для него слишком хороша!"
+msgstr "[Sound1 bytes=\"0101\"][Animation name=\"LaughL_00\"]Она для него слишком хороша!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет!"
+msgstr "[Sound1 bytes=\"0000\"]Привет!"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Настоящая красавица, да?"
+msgstr "[Sound1 bytes=\"0000\"]Настоящая красавица, да?"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Что же Герде понравилось в Топорде?"
+msgstr "[Sound1 bytes=\"0001\"]Что же Герде понравилось в Топорде?"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Не спится?"
+msgstr "[Sound1 bytes=\"0000\"]Не спится?"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]Она настоящая красавица!"
+msgstr "[Sound1 bytes=\"0A00\"]Она настоящая красавица!"
 
 msgid "talk28"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Может, его роскошная копна волос?"
+msgstr "[Sound1 bytes=\"0109\"]Может, его роскошная копна волос?"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Еще и шьет так, что закачаешься![PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]Еще и шьет так, что закачаешься![PauseShort]\n"
 "Кстати, она сама делает снаряжение,\n"
 "которое продает."
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Может, его мускулистые руки?"
+msgstr "[Sound1 bytes=\"0109\"]Может, его мускулистые руки?"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]В другой раз поговорим."
+msgstr "[Sound1 bytes=\"0000\"]В другой раз поговорим."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Избранница Топорды —\n"
+"[Sound1 bytes=\"0000\"]Избранница Топорды —\n"
 "настоящая красавица..."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет!"
+msgstr "[Sound1 bytes=\"0000\"]Привет!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]Спать хочу..."
+msgstr "[Sound1 bytes=\"0922\"]Спать хочу..."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Скорее бы церемония\n"
+"[Sound1 bytes=\"0000\"]Скорее бы церемония\n"
 "началась.[PauseShort] Не терпится."
 
 msgid "_ReadOnly_MsbtExtras"

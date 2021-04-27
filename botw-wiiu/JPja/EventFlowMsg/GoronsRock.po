@@ -17,7 +17,7 @@ msgstr ""
 #, ruby
 msgid "Goron_Father_Talk09"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]弟に力を貸してくれて\n"
+"[Sound1 bytes=\"0700\"]弟に力を貸してくれて\n"
 "ありがとうでゴロス\n"
 "さあ 立派になった弟と\n"
 "ゴロンシティへ帰るでゴロス"
@@ -25,19 +25,19 @@ msgstr ""
 #, ruby
 msgid "Goron_Father_Talk10"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]弟はいつになったら\n"
+"[Sound1 bytes=\"0800\"]弟はいつになったら\n"
 "帰ってくるでゴロス？！\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]まさか… 弟は… [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]の奥にある\n"
-"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を…？！[Choice3 label1=\"5\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0B01\"]まさか… 弟は… [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]の奥にある\n"
+"[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を…？！[Choice3 label1=\"5\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Goron_Father_Talk11"
 msgstr ""
-"[Color name=\"red\"][Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]マルゴ坑道[Color name=\"red\"][Color name=\"unset\"]は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
+"[Color name=\"red\"][Sound1 bytes=\"0004\"][Color name=\"blue\"]マルゴ坑道[Color name=\"red\"][Color name=\"unset\"]は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
 "捨てられた坑道だゴロス\n"
 "奥に硬い岩盤があって ずいぶん昔に\n"
 "掘るのをやめた 坑道なんだゴロス\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]その岩盤の先には\n"
+"[Sound1 bytes=\"0B00\"]その岩盤の先には\n"
 "[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]が隠されているらしいゴロスが…"
 
 #, ruby
@@ -51,16 +51,16 @@ msgstr "どこ行ったゴロス？！"
 #, ruby
 msgid "Goron_Father_Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ここから出た[Color name=\"red\"]坂の下[Color name=\"unset\"]にある トロコ崖に\n"
+"[Sound1 bytes=\"0000\"]ここから出た[Color name=\"red\"]坂の下[Color name=\"unset\"]にある トロコ崖に\n"
 "[Color name=\"red\"]ロース岩[Color name=\"unset\"]が ゴロンゴロンしてるんでゴロス\n"
 "それを取ってきてほしいんでゴロス"
 
 #, ruby
 msgid "Goron_Father_Talk13"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]自分で行きたいのは やまやまでゴロスが…\n"
+"[Sound1 bytes=\"0910\"]自分で行きたいのは やまやまでゴロスが…\n"
 "持病のゴロン肩が ヒドイんでゴロス\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]あんたを見込んで お願いするでゴロス！！"
+"[Sound1 bytes=\"0000\"]あんたを見込んで お願いするでゴロス！！"
 
 msgid "Goron_Son_Near01"
 msgstr "勇者の秘密だゴロン！"
@@ -68,11 +68,11 @@ msgstr "勇者の秘密だゴロン！"
 #, ruby
 msgid "Goron_Father_Talk14"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]オレの自慢の弟…[PauseShort] ゴングロンだゴロス！\n"
+"[Sound1 bytes=\"0800\"]オレの自慢の弟…[PauseShort] ゴングロンだゴロス！\n"
 "\n"
-"[Sound1 unk1=\"2\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる… なんて言って\n"
+"[Sound1 bytes=\"0200\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる… なんて言って\n"
 "飛び出していったんだゴロス！\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0901\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Goron_Son_Near02"
 msgstr "早く食べたいゴロン"
@@ -80,41 +80,41 @@ msgstr "早く食べたいゴロン"
 #, ruby
 msgid "Goron_Son_Talk04_1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]んっ…？！\n"
+"[Sound1 bytes=\"0006\"]んっ…？！\n"
 "これは [Color name=\"red\"]デリシャス焼きロース岩[Color name=\"unset\"]の香り…"
 
 #, ruby
 msgid "Goron_Father_Talk15"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]家出するなら [Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる…\n"
+"[Sound1 bytes=\"0800\"]家出するなら [Color name=\"red\"]勇者の秘密[Color name=\"unset\"]を掘り当てる…\n"
 "なんて言って 飛び出さないでゴロス！\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0901\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Goron_Son_Talk04_2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]おおこれは！！ うまそうだゴロン！\n"
+"[Sound1 bytes=\"000B\"]おおこれは！！ うまそうだゴロン！\n"
 "早速いただきますゴロン！！"
 
 #, ruby
 msgid "Goron_Father_Talk16"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]弟は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
+"[Sound1 bytes=\"0B00\"]弟は [Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西にある\n"
 "[Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]に向かったはずゴロス\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]硬い岩盤があって ずいぶん昔に\n"
+"[Sound1 bytes=\"0000\"]硬い岩盤があって ずいぶん昔に\n"
 "掘るのをやめた 坑道なんだゴロス"
 
 #, ruby
 msgid "Goron_Son_Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"10\"]あ ほって ほって ほりぬいて！\n"
+"[Sound1 bytes=\"000A\"]あ ほって ほって ほりぬいて！\n"
 "[Color name=\"red\"]秘密[Color name=\"unset\"]を見つけるゴロン！ ゴロン！\n"
 "何をほっているかゴロン？！\n"
 "[Color name=\"red\"]秘密[Color name=\"unset\"]だゴロン！！！"
 
 #, ruby
 msgid "Goron_Son_Talk02b"
-msgstr "[Sound1 unk1=\"9\" unk2=\"43\"]もう腕が上がらないゴロン…"
+msgstr "[Sound1 bytes=\"092B\"]もう腕が上がらないゴロン…"
 
 #, ruby
 msgid "Goron_Son_Talk04_3"
@@ -123,13 +123,13 @@ msgstr "[Sound2 id=\"9\"]兄ちゃんの料理は最高でゴロン！！"
 #, ruby
 msgid "Goron_Father_Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ロース岩[Color name=\"unset\"]を持ってきたら\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]ロース岩[Color name=\"unset\"]を持ってきたら\n"
 "この鍋の中に ドーンするゴロス"
 
 #, ruby
 msgid "Goron_Son_Talk02"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"43\"]ゼェゼェ…[PauseMid] もうダメだゴロン…\n"
+"[Sound1 bytes=\"092B\"]ゼェゼェ…[PauseMid] もうダメだゴロン…\n"
 "\n"
 "この岩の奥に\n"
 "[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]があるんだゴロン…\n"
@@ -140,13 +140,13 @@ msgstr ""
 
 msgid "Goron_Son_Talk04_4"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]おなかいっぱいになったゴロン\n"
+"[Sound1 bytes=\"0012\"]おなかいっぱいになったゴロン\n"
 "さあ！ やるゴロン！"
 
 #, ruby
 msgid "Goron_Father_Talk18"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]でもきっとサボりの言い訳ゴロス！！[PauseShort]\n"
+"[Sound1 bytes=\"0800\"]でもきっとサボりの言い訳ゴロス！！[PauseShort]\n"
 "弟にはもっとしっかりして欲しいでゴロス…！！"
 
 #, ruby
@@ -164,17 +164,17 @@ msgstr ""
 #, ruby
 msgid "Goron_Father_Talk20"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西に [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]という\n"
+"[Sound1 bytes=\"0B00\"][Color name=\"blue\"]マルゴ池[Color name=\"unset\"]の南西に [Color name=\"blue\"]マルゴ坑道[Color name=\"unset\"]という\n"
 "捨てられた坑道があるんでゴロス\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]奥にある硬い岩盤の先には\n"
+"[Sound1 bytes=\"0601\"]奥にある硬い岩盤の先には\n"
 "鉱石じゃなくて [Color name=\"red\"]勇者の秘密[Color name=\"unset\"]が隠されている！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]…という\n"
+"[Sound1 bytes=\"0000\"]…という\n"
 "ホントかウソかわからない話でゴロス\n"
 "オヤジの いとこの はとこの\n"
 "お隣さんから 聞いたんだゴロス"
 
 msgid "Goron_Son_Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"][Size percent=\"125\"]フオオオォォ！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0010\"][Size percent=\"125\"]フオオオォォ！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Goron_Father_Talk06_2"
@@ -185,13 +185,13 @@ msgstr ""
 #, ruby
 msgid "Goron_Father_Talk21"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]待ってたゴロス！\n"
+"[Sound1 bytes=\"0700\"]待ってたゴロス！\n"
 "早速鍋に置くでゴロス！"
 
 #, ruby
 msgid "Goron_Son_Talk06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"Happy_00\"]デタァァァ！！ ゴロン！！\n"
+"[Sound1 bytes=\"0101\"][Animation name=\"Happy_00\"]デタァァァ！！ ゴロン！！\n"
 "[Color name=\"red\"]勇者の秘密[Color name=\"unset\"]ゴロン！\n"
 "[Sound2 id=\"4\"][Size percent=\"80\"]…ん？ ゴロンシティでも\n"
 "見たことあるような……[Size percent=\"100\"]"
@@ -203,7 +203,7 @@ msgstr "弟？"
 #, ruby
 msgid "Goron_Father_Talk22"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0B00\"][Color name=\"red\"]勇者の秘密[Color name=\"unset\"]は\n"
 "古くからうちに伝わる おとぎ話だゴロス\n"
 "オレのオヤジの いとこの はとこの…\n"
 "お隣さんから 聞いたんだゴロス"
@@ -211,7 +211,7 @@ msgstr ""
 #, ruby
 msgid "Goron_Son_Talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]アリガトゴロン！\n"
+"[Sound1 bytes=\"0100\"]アリガトゴロン！\n"
 "ゴロンシティへ帰って みんなに報告だゴロン！"
 
 #, ruby
@@ -221,9 +221,9 @@ msgstr "家出？"
 #, ruby
 msgid "Goron_Father_Talk23"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]わ…[PauseShort] わかったって\n"
+"[Sound1 bytes=\"0A00\"]わ…[PauseShort] わかったって\n"
 "弟が何を考えてるのか わかったゴロスか？！\n"
-"[Size percent=\"80\"][Sound1 unk1=\"9\" unk2=\"1\"]オレには弟の心は わからないでゴロス…\n"
+"[Size percent=\"80\"][Sound1 bytes=\"0901\"]オレには弟の心は わからないでゴロス…\n"
 "兄として さびしいでゴロス…[Size percent=\"100\"]"
 
 #, ruby
@@ -233,7 +233,7 @@ msgstr "どこへ行ったの？"
 #, ruby
 msgid "Goron_Father_Talk24"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]夢を追うより 現実を見て\n"
+"[Sound1 bytes=\"0900\"]夢を追うより 現実を見て\n"
 "みんなの仕事を 手伝ってほしいでゴロス…"
 
 #, ruby
@@ -248,14 +248,14 @@ msgid "0005"
 msgstr "マルゴ坑道って？"
 
 msgid "Goron_Son_Talk05_2"
-msgstr "[Sound1 unk1=\"0\" unk2=\"10\"][Size percent=\"125\"]ゴロンアターーーーック！！！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"000A\"][Size percent=\"125\"]ゴロンアターーーーック！！！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Goron_Father_Talk01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ムボーな弟が 帰ってこないでゴロス！！\n"
+"[Sound1 bytes=\"0800\"]ムボーな弟が 帰ってこないでゴロス！！\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"0\" label2=\"1\" label3=\"4\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0901\"]弟は一体 何を考えてるでゴロス…[Choice3 label1=\"0\" label2=\"1\" label3=\"4\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Goron_Father_Talk02"
@@ -266,25 +266,25 @@ msgstr ""
 #, ruby
 msgid "Goron_Father_Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]弟なりに考えて\n"
+"[Sound1 bytes=\"0000\"]弟なりに考えて\n"
 "行動していたんだゴロスな…"
 
 #, ruby
 msgid "Goron_Father_Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]お願いがあるでゴロス！\n"
+"[Sound1 bytes=\"0004\"]お願いがあるでゴロス！\n"
 "弟に力を貸してやりたい兄心でゴロス！"
 
 #, ruby
 msgid "Goron_Father_Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]オレはここで料理の準備をしながら\n"
+"[Sound1 bytes=\"0000\"]オレはここで料理の準備をしながら\n"
 "待っているでゴロスよ"
 
 #, ruby
 msgid "Goron_Father_Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]！！[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]！！[PauseLong]\n"
 "すばらしいゴロス！\n"
 "最高級の[Color name=\"red\"]ロース岩[Color name=\"unset\"]でゴロス！\n"
 "すぐに料理するでゴロス！"

@@ -3,7 +3,7 @@ msgstr "Bis mittags."
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Verstehe...[PauseShort] Na ja, vielleicht ergibt sich\n"
+"[Sound1 bytes=\"0006\"]Verstehe...[PauseShort] Na ja, vielleicht ergibt sich\n"
 "ja mal eine Gelegenheit!"
 
 msgid "0004"
@@ -11,7 +11,7 @@ msgstr "Bis abends."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Du hast nicht genug Rubine dabei.[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]Du hast nicht genug Rubine dabei.[PauseShort]\n"
 "Komm doch ein andermal wieder..."
 
 msgid "0005"
@@ -19,27 +19,27 @@ msgstr "Doch nicht."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Na, hast du dich gut erholt?[PauseShort][PageBreak]Als unser Gast kannst du das [Color name=\"red\"]Floß[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0104\"]Na, hast du dich gut erholt?[PauseShort][PageBreak]Als unser Gast kannst du das [Color name=\"red\"]Floß[Color name=\"unset\"]\n"
 "draußen am Kai kostenlos benutzen.[PauseShort]\n"
 "Bis zum nächsten Mal!"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Bis wann möchtest du schlafen?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Bis wann möchtest du schlafen?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0007"
 msgstr "Nichts."
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Im normalen Bett macht das [Color name=\"red\"]20 Rubine[Color name=\"unset\"],[PauseShort]\n"
-"im Luxusbett wären es [Color name=\"red\"]40 Rubine[Color name=\"unset\"].[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]Im normalen Bett macht das [Color name=\"red\"]20 Rubine[Color name=\"unset\"],[PauseShort]\n"
+"im Luxusbett wären es [Color name=\"red\"]40 Rubine[Color name=\"unset\"].[Choice3 label1=\"0\" label2=\"1\" label3=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0000"
 msgstr "Normales Bett."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hallo![PauseMid]\n"
+"[Sound1 bytes=\"0102\"]Hallo![PauseMid]\n"
 "Eine Übernachtung?[PageBreak]Du bist sicher erschöpft von deiner\n"
 "Reise."
 
@@ -51,7 +51,7 @@ msgstr "Bis morgens."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Dann bitte schön![PauseShort]\n"
+"[Sound1 bytes=\"0104\"]Dann bitte schön![PauseShort]\n"
 "Gute Nacht!"
 
 msgid "Near00"

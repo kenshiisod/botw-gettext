@@ -12,7 +12,7 @@ msgstr "Inderdaad."
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Ongeveer een jaar geleden liep ik hier\n"
+"[Sound1 bytes=\"0B00\"]Ongeveer een jaar geleden liep ik hier\n"
 "langs dit pad, toen ik ineens een licht\n"
 "zag...\n"
 "Ik keek omhoog, en zag een felverlicht\n"
@@ -24,11 +24,11 @@ msgid "0005"
 msgstr "..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Wat denk jij ervan?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]Wat denk jij ervan?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"13\"]Aha...[PauseLong] Nou ja, een tijdje geleden dacht ik\n"
+"[Sound1 bytes=\"0B0D\"]Aha...[PauseLong] Nou ja, een tijdje geleden dacht ik\n"
 "dat iemand me riep, en toen ik mijn \n"
 "ogen opende...\n"
 "...lag ik op een vreemd bed in een lege\n"
@@ -39,31 +39,31 @@ msgstr ""
 "ontwaakte, was ik ineens hier..."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Wat denk je ervan?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]Wat denk je ervan?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]Ja, ik heb het over jou...[PauseLong] Hyliaanse\n"
+"[Sound1 bytes=\"0100\"]Ja, ik heb het over jou...[PauseLong] Hyliaanse\n"
 "Uitverkorene."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je laatste uur heeft geslagen![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Je laatste uur heeft geslagen![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dus... Hyliaanse Uitverkorene..."
+msgstr "[Sound1 bytes=\"0000\"]Dus... Hyliaanse Uitverkorene..."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Dit is voor Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Dit is voor Kohga![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"14\"]Hmm..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]Wat een heerlijk weer...[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0019\"]Wat een heerlijk weer...[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Ik hoop dat het op je netvlies staat\n"
+"[Sound1 bytes=\"0101\"]Ik hoop dat het op je netvlies staat\n"
 "gebrand...[PageBreak]...want dit is het laatste wat je zult zien!"
 
 msgid "0000"

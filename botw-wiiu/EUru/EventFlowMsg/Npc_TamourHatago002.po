@@ -1,58 +1,58 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Доброе утро."
+msgstr "[Sound1 bytes=\"0004\"]Доброе утро."
 
 msgid "near00"
 msgstr "Священная реликвия..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Здравствуй."
+msgstr "[Sound1 bytes=\"0004\"]Здравствуй."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Извини, я ведь даже не представилась."
+msgstr "[Sound1 bytes=\"0301\"]Извини, я ведь даже не представилась."
 
 msgid "near01"
 msgstr "Источник Силы..."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Доброй ночи."
+msgstr "[Sound1 bytes=\"0004\"]Доброй ночи."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]Слушаю?"
+msgstr "[Sound1 bytes=\"0312\"]Слушаю?"
 
 msgid "near02"
 msgstr "Ритуал принцессы..."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Я раньше тоже путешествовала,\n"
+"[Sound1 bytes=\"0001\"]Я раньше тоже путешествовала,\n"
 "пока не осела в [Color name=\"blue\"]Аккале[Color name=\"unset\"].[PauseShort] Знаешь,\n"
 "мне здесь нравится."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Да ничего особенного.[PauseShort]\n"
-"Разве что старый [Color name=\"red\"]маяк[Color name=\"unset\"]...[PageBreak][Sound1 unk1=\"5\" unk2=\"16\"]Я ходила туда однажды: было видно,\n"
+"[Sound1 bytes=\"0001\"]Да ничего особенного.[PauseShort]\n"
+"Разве что старый [Color name=\"red\"]маяк[Color name=\"unset\"]...[PageBreak][Sound1 bytes=\"0510\"]Я ходила туда однажды: было видно,\n"
 "что там живут, но я никого не застала."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]Зачем разбудил?[PauseLong] Ну ладно, я не злюсь."
+msgstr "[Sound1 bytes=\"0922\"]Зачем разбудил?[PauseLong] Ну ладно, я не злюсь."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]Честно говоря, не знаю.[PauseShort] Но\n"
+"[Sound1 bytes=\"0610\"]Честно говоря, не знаю.[PauseShort] Но\n"
 "я слышала какой-то стук со\n"
-"стороны [Color name=\"blue\"]Аккальского озера[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Оно к [Color name=\"red\"]югу [Color name=\"unset\"]от конюшни.[PauseShort] Можешь\n"
+"стороны [Color name=\"blue\"]Аккальского озера[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0001\"]Оно к [Color name=\"red\"]югу [Color name=\"unset\"]от конюшни.[PauseShort] Можешь\n"
 "сходить туда сам и посмотреть."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Кстати, я хорошо знаю окрестности."
+msgstr "[Sound1 bytes=\"0001\"]Кстати, я хорошо знаю окрестности."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Подсказать тебе что-нибудь?[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0601\"]Подсказать тебе что-нибудь?[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"25\"]К [Color name=\"red\"]западу [Color name=\"unset\"]отсюда находится\n"
+"[Sound1 bytes=\"0619\"]К [Color name=\"red\"]западу [Color name=\"unset\"]отсюда находится\n"
 "священный [Color name=\"red\"]Источник Силы[Color name=\"unset\"].[PageBreak]О нем даже в одной легенде говорится:\n"
 "«Опусти в Источник Силы священную\n"
 "[Color name=\"red\"]реликвию[Color name=\"unset\"]».[PageBreak][Animation name=\"Think_00\"]Думаю, это часть ритуала, который\n"
@@ -63,7 +63,7 @@ msgstr "Знаешь Топорду?"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"25\"]К [Color name=\"red\"]западу [Color name=\"unset\"]отсюда находится\n"
+"[Sound1 bytes=\"0619\"]К [Color name=\"red\"]западу [Color name=\"unset\"]отсюда находится\n"
 "священный [Color name=\"red\"]Источник Силы[Color name=\"unset\"].[PageBreak]О нем даже в одной легенде говорится:\n"
 "«Опусти в Источник Силы священную\n"
 "[Color name=\"red\"]реликвию[Color name=\"unset\"]».[PageBreak]Говорят, на этом источнике совершала\n"
@@ -75,8 +75,8 @@ msgstr "Окрестности..."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]К западу отсюда...[PageBreak][Sound1 unk1=\"10\" unk2=\"20\"]Что?![PauseShort] Ты уже побывал\n"
-"на [Color name=\"blue\"]Источнике Силы[Color name=\"unset\"]?[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]А я там еще ни разу не была.[PauseShort] Если\n"
+"[Sound1 bytes=\"0601\"]К западу отсюда...[PageBreak][Sound1 bytes=\"0A14\"]Что?![PauseShort] Ты уже побывал\n"
+"на [Color name=\"blue\"]Источнике Силы[Color name=\"unset\"]?[PageBreak][Sound1 bytes=\"0601\"]А я там еще ни разу не была.[PauseShort] Если\n"
 "что-то близко, думаешь: «Всегда\n"
 "успею сходить»."
 
@@ -87,31 +87,31 @@ msgid "0003"
 msgstr "Пока"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Пока!"
+msgstr "[Sound1 bytes=\"0109\"]Пока!"
 
 msgid "0004"
 msgstr "Что на севере?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Меня зовут Нобо."
+msgstr "[Sound1 bytes=\"0009\"]Меня зовут Нобо."
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Что такое?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0601\"]Что такое?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"19\"]Привет."
+msgstr "[Sound1 bytes=\"0613\"]Привет."
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"5\" unk2=\"6\"]Топорду?[PauseLong] Кто это?[PauseShort] Плотник, что ли?"
+msgstr "[Sound1 bytes=\"0506\"]Топорду?[PauseLong] Кто это?[PauseShort] Плотник, что ли?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]Хм, ты путешественник?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]В наших краях редко увидишь таких,\n"
+"[Sound1 bytes=\"0B13\"]Хм, ты путешественник?[PageBreak][Sound1 bytes=\"0000\"]В наших краях редко увидишь таких,\n"
 "как ты.[PauseShort] Оно и понятно: смотреть\n"
-"в [Color name=\"blue\"]Аккале [Color name=\"unset\"]не на что...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"в [Color name=\"blue\"]Аккале [Color name=\"unset\"]не на что...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Хочешь узнать еще что-нибудь?[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0601\"]Хочешь узнать еще что-нибудь?[Choice4Flags label1=\"0\" flag1=\"MinakkareHatago_NPC002_Ichikara\" label2=\"1\" label3=\"4\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAFGBAAAAAAAAB0AAAAEAAAAfAAAAKQAAADMAAAA9AAAAPYAAAD4AAAA+gAAAPwAAAD+AAAAJgEAAE4BAAB2AQAAngEAAMYBAADuAQAAFgIAAD4CAABmAgAAjgIAALYCAADeAgAABgMAAC4DAABWAwAAfgMAAKYDAADOAwAA9gMAAB4EAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBIAGEAdABhAGcAbwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIASABhAHQAYQBnAG8AMAAwADIAAABOAHAAYwBfAFQAYQBtAG8AdQByAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"

@@ -3,7 +3,7 @@ msgstr "드릴게요!"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]그런데[PauseMid] [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를\n"
+"[Sound1 bytes=\"0013\"]그런데[PauseMid] [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를\n"
 "또 손에 넣은 겐가…?"
 
 msgid "0003"
@@ -11,48 +11,48 @@ msgstr "죄송해요…"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"32\"]너무 조급해 말게…[PauseMid] 조급해 하지 마…[PauseMid]\n"
+"[Sound1 bytes=\"0020\"]너무 조급해 말게…[PauseMid] 조급해 하지 마…[PauseMid]\n"
 "이야기는 앉아서 합세"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를 손에 넣으면\n"
+"[Sound1 bytes=\"0001\"][Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를 손에 넣으면\n"
 "다시 와 주지 않겠나…?"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"2\"]음음…[PauseShort]… 호오 호오…[PauseLong]\n"
+"[Sound1 bytes=\"0602\"]음음…[PauseShort]… 호오 호오…[PauseLong]\n"
 "궂은 날씨에도 여행을 계속하고 있구먼…"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]이런 한밤중에…[PauseMid] 숙박하실 겐가…?"
+msgstr "[Sound1 bytes=\"0022\"]이런 한밤중에…[PauseMid] 숙박하실 겐가…?"
 
 msgid "talk_11"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]음…? [PauseMid]무슨 일인가…?[PauseMid]\n"
+"[Sound1 bytes=\"0413\"]음…? [PauseMid]무슨 일인가…?[PauseMid]\n"
 "또 [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를 가져온 겐가…?"
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"][Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]와 [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]로 만든\n"
+"[Sound1 bytes=\"0702\"][Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]와 [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]로 만든\n"
 "[Color name=\"blue\"]카레라이스[Color name=\"unset\"]는 참 맛있었지…!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]그 [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를[PauseShort]\n"
-"[Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]과 교환해 주지 않을텐가…?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]그 [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]를[PauseShort]\n"
+"[Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]과 교환해 주지 않을텐가…?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]고맙네! [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]와 [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]로\n"
+"[Sound1 bytes=\"070B\"]고맙네! [Color name=\"blue\"]고론의 향신료[Color name=\"unset\"]와 [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]로\n"
 "또 [Color name=\"blue\"]카레라이스[Color name=\"unset\"]를 만들 수 있겠군…!"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]자[PauseShort] [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]일세!"
+msgstr "[Sound1 bytes=\"0701\"]자[PauseShort] [Color name=\"blue\"]하이랄 쌀[Color name=\"unset\"]일세!"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]억지로 달라고는 안 하겠네…[PauseMid]\n"
+"[Sound1 bytes=\"090D\"]억지로 달라고는 안 하겠네…[PauseMid]\n"
 "여행에 필요한 식재료니…"
 
 msgid "_ReadOnly_MsbtExtras"

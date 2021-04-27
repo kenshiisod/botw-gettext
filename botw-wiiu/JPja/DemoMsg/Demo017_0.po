@@ -1,7 +1,7 @@
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]アッ そうそう ボクの仲間は\n"
+"[Sound1 bytes=\"0000\"]アッ そうそう ボクの仲間は\n"
 "いろんなところに 隠れているヨ\n"
 "あやしいところがあったら 探してみてネ"
 
@@ -11,21 +11,21 @@ msgstr "隠れているコログを全て発見した！"
 
 #, ruby
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]ウワッ！ 見つかっタァ！"
+msgstr "[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]ウワッ！ 見つかっタァ！"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]またネェ～"
+msgstr "[Sound1 bytes=\"0700\"]またネェ～"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]ウワッ！ 見つかっタァ！\n"
+"[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]ウワッ！ 見つかっタァ！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]アレ？[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]アレ？[PauseShort]\n"
 "ボックリンかと思って ビックリしちゃったヨ\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]キミ ボクが見えるノ？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]キミ ボクが見えるノ？[PauseMid]\n"
 "ボクはコログ[PauseMid] 森の妖精サ！\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]あっ そうダ[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]あっ そうダ[PauseShort]\n"
 "ボックリンに会ったら コレ返しといテ"
 
 #, ruby

@@ -9,7 +9,7 @@ msgstr ""
 
 msgid "Talk_016"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Tú que pareces tan listo... ¿no crees\n"
+"[Sound1 bytes=\"0009\"]Tú que pareces tan listo... ¿no crees\n"
 "que tengo razón?[PageBreak]Ojalá pudiera ir allí a comprobarlo\n"
 "por mí mismo..."
 
@@ -18,8 +18,8 @@ msgstr "Vaya, vaya, aquí tenemos al listillo."
 
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]¿Eh? ¿Qué pasa, sabelotodo?\n"
-"¿Querías algo?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]¿Eh? ¿Qué pasa, sabelotodo?\n"
+"¿Querías algo?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_018"
 msgstr ""
@@ -28,11 +28,11 @@ msgstr ""
 "por alguien?"
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]¿Y ahora qué?"
+msgstr "[Sound1 bytes=\"0004\"]¿Y ahora qué?"
 
 msgid "Talk_019"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Si aún fuera joven y estuviera lleno de\n"
+"[Sound1 bytes=\"0009\"]Si aún fuera joven y estuviera lleno de\n"
 "energía, sin duda me lanzaría a escalar\n"
 "el risco para ver qué hay."
 
@@ -55,7 +55,7 @@ msgstr "No, nada"
 
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Nos preocupa más resolver el misterio\n"
+"[Sound1 bytes=\"0009\"]Nos preocupa más resolver el misterio\n"
 "que dedicarnos a trabajar en el rancho.\n"
 "Es importante aprender, ¿no crees?"
 

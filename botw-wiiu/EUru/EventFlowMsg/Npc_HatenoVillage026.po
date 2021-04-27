@@ -2,16 +2,16 @@ msgid "near02"
 msgstr "..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ой, дядя, слушай![Choice2 label1=\"0\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Ой, дядя, слушай![Choice2 label1=\"0\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "Хс-с-с..."
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Это же танец Стройды!"
+msgstr "[Sound1 bytes=\"070A\"]Это же танец Стройды!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Так и думала![PauseShort] Все умеют."
+msgstr "[Sound1 bytes=\"0009\"]Так и думала![PauseShort] Все умеют."
 
 msgid "0000"
 msgstr "Чего?"
@@ -21,7 +21,7 @@ msgstr "Умею"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Стройда — это наш плотник.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Стройда — это наш плотник.[PauseShort]\n"
 "Ты его за магазином видел?"
 
 msgid "0002"
@@ -29,14 +29,14 @@ msgstr "Не умею"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Давай я тебя научу.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Давай я тебя научу.[PauseShort]\n"
 "Смотри внимательно!"
 
 msgid "0003"
 msgstr "Пока"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Или он не плотник, а дизайнер?..[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Или он не плотник, а дизайнер?..[Size percent=\"100\"]"
 
 msgid "0004"
 msgstr "Стройда?"
@@ -45,57 +45,57 @@ msgid "talk10"
 msgstr "[Size percent=\"125\"][Sound2 id=\"39\"]Хоп![Size percent=\"100\"]"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Или он не плотник, а визионер?..[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Или он не плотник, а визионер?..[Size percent=\"100\"]"
 
 msgid "0005"
 msgstr "Что за танец?"
 
 msgid "talk11"
-msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Хоп![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound2 id=\"39\"][Size percent=\"125\"]Хоп![Size percent=\"100\"][Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Или он не плотник, а начальник?..[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Или он не плотник, а начальник?..[Size percent=\"100\"]"
 
 msgid "0006"
 msgstr "Отстань"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"1\" unk2=\"1\"]Ну?[PauseShort] Просто ведь!"
+msgstr "[Sound1 bytes=\"0101\"]Ну?[PauseShort] Просто ведь!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]Или он не плотник, а строитель?..[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0B00\"][Size percent=\"80\"]Или он не плотник, а строитель?..[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Дурак!"
+msgstr "[Sound1 bytes=\"0800\"]Дурак!"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Не умеешь, значит..."
+msgstr "[Sound1 bytes=\"030C\"]Не умеешь, значит..."
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]В общем, если увидишь\n"
+"[Sound1 bytes=\"0601\"]В общем, если увидишь\n"
 "его, попроси станцевать."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]Это что у тебя?"
+msgstr "[Sound1 bytes=\"0414\"]Это что у тебя?"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]А ты так умеешь?"
+msgstr "[Sound1 bytes=\"0000\"]А ты так умеешь?"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Как красиво!"
+msgstr "[Sound1 bytes=\"0700\"]Как красиво!"
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Мама...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Мама...[Size percent=\"100\"]"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Поздно уже — пора спать."
+msgstr "[Sound1 bytes=\"0900\"]Поздно уже — пора спать."
 
 msgid "talk16"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]М-м-н-н...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]М-м-н-н...[Size percent=\"100\"]"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Нельзя гулять так поздно."
+msgstr "[Sound1 bytes=\"0900\"]Нельзя гулять так поздно."
 
 msgid "talk17"
 msgstr ""
@@ -106,7 +106,7 @@ msgid "near00"
 msgstr "Ха-ха-ха!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Пока-пока!"
+msgstr "[Sound1 bytes=\"0000\"]Пока-пока!"
 
 msgid "talk18"
 msgstr "[Sound2 id=\"38\"]Хва-хва!"
@@ -116,11 +116,11 @@ msgstr "Что это?"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Дядя, ты умеешь танцевать\n"
-"танец Стройды?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]Дядя, ты умеешь танцевать\n"
+"танец Стройды?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Умеешь танцевать танец Стройды?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Умеешь танцевать танец Стройды?[Choice4Flags label1=\"65535\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAHEBQAAAAAAACYAAAAEAAAAoAAAAMoAAAD0AAAAHgEAAEgBAABKAQAATAEAAE4BAABQAQAAUgEAAFQBAABWAQAAgAEAAKoBAADUAQAA/gEAACgCAABSAgAAfAIAAKYCAADQAgAA+gIAACQDAABOAwAAeAMAAKIDAADMAwAA9gMAACAEAABKBAAAdAQAAJ4EAADIBAAA8gQAABwFAABGBQAAcAUAAJoFAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAyADYAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIANgAAAAAAAA=="

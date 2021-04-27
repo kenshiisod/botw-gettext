@@ -1,17 +1,17 @@
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Salut...[PauseLong] J'suis encore fatigué, moé...!\n"
+"[Sound1 bytes=\"0600\"]Salut...[PauseLong] J'suis encore fatigué, moé...!\n"
 "Mais bon, t'es mon disciple, alors m'a\n"
 "t'aider si t'as des questions."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Il fait toujours aussi chaud aujourd'hui...[PauseLong]\n"
+"[Sound1 bytes=\"0600\"]Il fait toujours aussi chaud aujourd'hui...[PauseLong]\n"
 "À propos, mon cher disciple..."
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]J'ai un p'tit peu sommeil, mais j'vais\n"
+"[Sound1 bytes=\"0022\"]J'ai un p'tit peu sommeil, mais j'vais\n"
 "répondre à tes questions. J'suis fin\n"
 "comme maître, hein!"
 
@@ -22,14 +22,14 @@ msgid "0001"
 msgstr "À plus!"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Pas pantoute!"
+msgstr "[Sound1 bytes=\"0004\"]Pas pantoute!"
 
 msgid "0002"
 msgstr "Qui t'es?"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Mais bon, si ça t'intéresse...[PauseShort] Buldo, le\n"
+"[Sound1 bytes=\"0B01\"]Mais bon, si ça t'intéresse...[PauseShort] Buldo, le\n"
 "patron, a dit qu'y'avait mal aux reins."
 
 msgid "0003"
@@ -37,96 +37,96 @@ msgstr "On est où?"
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hé, on m'a dit que Buldo, le [Color name=\"blue\"]patron[Color name=\"unset\"], ben,\n"
+"[Sound1 bytes=\"0000\"]Hé, on m'a dit que Buldo, le [Color name=\"blue\"]patron[Color name=\"unset\"], ben,\n"
 "y'avait p'us mal aux reins![PauseShort] Tant mieux."
 
 msgid "0004"
 msgstr "T'habites où?"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux savoir quoi?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Tu veux savoir quoi?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "T'as un souci?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Hmm..."
+msgstr "[Sound1 bytes=\"0600\"]Hmm..."
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]M'en allais m'coucher..."
+msgstr "[Sound1 bytes=\"0322\"]M'en allais m'coucher..."
 
 msgid "0006"
 msgstr "Tu fais quoi?"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]J'rentre chez nous, là..."
+msgstr "[Sound1 bytes=\"030C\"]J'rentre chez nous, là..."
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tu veux encore savoir des affaires?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Tu veux encore savoir des affaires?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Qu'est-ce tu m'veux, toé?![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]Qu'est-ce tu m'veux, toé?![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ron...[PauseLong] Ron..."
+msgstr "[Sound1 bytes=\"0001\"]Ron...[PauseLong] Ron..."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Pff..."
+msgstr "[Sound1 bytes=\"000C\"]Pff..."
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Encore toé...?[PauseLong]\n"
-"Mais qu'est-ce tu m'veux?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0010\"]Encore toé...?[PauseLong]\n"
+"Mais qu'est-ce tu m'veux?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]...[PauseShort] Hé ben bravo!\n"
+"[Sound1 bytes=\"0700\"]...[PauseShort] Hé ben bravo!\n"
 "\n"
 "\n"
 "Tu viens m'parler, pis après, tu t'en vas?\n"
 "Faudrait tu t'décides!!!\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]... Tu m'plais.[PauseLong] M'a t'faire l'honneur\n"
+"[Sound1 bytes=\"0000\"]... Tu m'plais.[PauseLong] M'a t'faire l'honneur\n"
 "de faire de toé mon disciple."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Autre chose?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Autre chose?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Bon, on dit que j'suis ton maître, OK?[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Bon, on dit que j'suis ton maître, OK?[PauseShort]\n"
 "Bon, les disciples, y comprennent jamais\n"
-"rien.[PauseShort] Alors, d'mande-moi c'que tu veux.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+"rien.[PauseShort] Alors, d'mande-moi c'que tu veux.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]T'sais...[PauseShort] J'suis content d'avoir\n"
+"[Sound1 bytes=\"0004\"]T'sais...[PauseShort] J'suis content d'avoir\n"
 "un disciple aussi curieux qu'toé!\n"
 "\n"
 "D'mande-moé tout c'que tu veux."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]Tokach[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0004\"][Color name=\"blue\"]Tokach[Color name=\"unset\"]."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Cher disciple...[PauseLong] Moé, ton maître,\n"
-"j'vais répondre à toutes tes questions.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]Cher disciple...[PauseLong] Moé, ton maître,\n"
+"j'vais répondre à toutes tes questions.[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "Lala... ♪"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Au village Goron."
+msgstr "[Sound1 bytes=\"0004\"]Au village Goron."
 
 msgid "talk18"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Rrron...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0001\"]Rrron...[Size percent=\"100\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Chez le [Color name=\"blue\"]forgeron[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0004\"]Chez le [Color name=\"blue\"]forgeron[Color name=\"unset\"]."
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ben, j'réponds à tes questions!"
+msgstr "[Sound1 bytes=\"0800\"]Ben, j'réponds à tes questions!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAE+AwAAAAAAACEAAAAEAAAAjAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAAzgAAAOgAAAACAQAAHAEAADYBAABQAQAAagEAAIQBAACeAQAAuAEAANIBAADsAQAABgIAACACAAA6AgAAVAIAAG4CAACIAgAAogIAALwCAADWAgAA8AIAAAoDAAAkAwAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAAAAAA"

@@ -5,7 +5,7 @@ msgstr "今はちょっと…"
 #, ruby
 msgid "Npc_kokiri012_F_Talk000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ワタシが見たいのは\n"
+"[Sound1 bytes=\"0000\"]ワタシが見たいのは\n"
 "[Color name=\"red\"]こおりの杖[Color name=\"unset\"]を手にした ゆうしゃサマ！\n"
 "[Color name=\"red\"]こおりの杖[Color name=\"unset\"]は [Color name=\"blue\"]アイスウィズローブ[Color name=\"unset\"]が\n"
 "持っているって 森のウワサで聞いたワ！"
@@ -13,54 +13,54 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri012_F_Talk010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]アイスウィズローブ[Color name=\"unset\"]は きっと…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]アイスウィズローブ[Color name=\"unset\"]は きっと…[PauseMid]\n"
 "寒い所に いるんじゃないかしラ？"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk020"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"19\"]アララ？！\n"
+"[Sound1 bytes=\"0713\"]アララ？！\n"
 "[Color name=\"red\"]こおりの杖[Color name=\"unset\"] 持ってるのネ！\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]でも… [PauseShort]持ってるだけじゃ…\n"
+"[Sound1 bytes=\"0B01\"]でも… [PauseShort]持ってるだけじゃ…\n"
 "装備して 見せて見せテ！"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk030"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]しゅるりーん！ [PauseShort]きらきら！\n"
+"[Sound1 bytes=\"0700\"]しゅるりーん！ [PauseShort]きらきら！\n"
 "思ったとおり ステキだワ！！"
 
 msgid "Npc_kokiri012_F_Talk040"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"]それは もしや [Color name=\"blue\"]フリーズロッド[Color name=\"unset\"]？！\n"
+"[Sound1 bytes=\"0A01\"]それは もしや [Color name=\"blue\"]フリーズロッド[Color name=\"unset\"]？！\n"
 "それって ものスゴクしゅるるん！ [PauseShort]きららん！！"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk050"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]ありがとう ゆうしゃサマ\n"
+"[Sound1 bytes=\"0701\"]ありがとう ゆうしゃサマ\n"
 "とっても きらきら かっこよかったワ！\n"
 "見せてくれたお礼 ふんぱつしちゃウ！"
 
 msgid "Npc_kokiri012_F_Talk060"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]しゅるりーん！ [PauseShort]きらきら…"
+msgstr "[Sound1 bytes=\"0700\"]しゅるりーん！ [PauseShort]きらきら…"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk031"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]背中にあるのは… [Color name=\"red\"]アイスロッド[Color name=\"unset\"]！\n"
+"[Sound1 bytes=\"0B00\"]背中にあるのは… [Color name=\"red\"]アイスロッド[Color name=\"unset\"]！\n"
 "見せて見せテ！ ゆうしゃサマ！"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk041"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]背中にあるのは [Color name=\"red\"]こおりの杖[Color name=\"unset\"][PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]背中にあるのは [Color name=\"red\"]こおりの杖[Color name=\"unset\"][PauseMid]\n"
 "……アラアラアラ？！"
 
 #, ruby
 msgid "Npc_kokiri012_F_Talk061"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]背中にあるのは… [Color name=\"blue\"]アイスロッド[Color name=\"unset\"]！[PageBreak][Sound1 unk1=\"10\" unk2=\"1\"]アララ？ [PauseMid]もっと強そうなの 持ってるじゃなイ！\n"
+"[Sound1 bytes=\"0B00\"]背中にあるのは… [Color name=\"blue\"]アイスロッド[Color name=\"unset\"]！[PageBreak][Sound1 bytes=\"0A01\"]アララ？ [PauseMid]もっと強そうなの 持ってるじゃなイ！\n"
 "そっちを装備して 見せて見せテ！"
 
 msgid "Npc_kokiri012_R_Near000"
@@ -69,52 +69,52 @@ msgstr "ゆうしゃサマ…"
 #, ruby
 msgid "Npc_kokiri012_R_Talk000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ねえねえ ゆうしゃサマ！[PauseShort] ワタシ\n"
+"[Sound1 bytes=\"0700\"]ねえねえ ゆうしゃサマ！[PauseShort] ワタシ\n"
 "ゆうしゃサマのために [Color name=\"red\"]しれん[Color name=\"unset\"]用意したの！\n"
 "ゆうしゃサマに もっと強くなってほしいかラ…[PauseMid]\n"
-"ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_kokiri012_R_Talk010"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]ゆうしゃサマに もっと強くなってほしいかラ…[PauseMid]\n"
-"ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0609\"]ゆうしゃサマに もっと強くなってほしいかラ…[PauseMid]\n"
+"ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_kokiri012_R_Talk020"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]ヤッた ヤッた！ 嬉しいワ！[PauseShort]\n"
+"[Sound1 bytes=\"070A\"]ヤッた ヤッた！ 嬉しいワ！[PauseShort]\n"
 "それじゃワタシに [Color name=\"red\"]こおりの杖[Color name=\"unset\"]を 見せテ！\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]その杖をふったら こおりの ちカラで[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]その杖をふったら こおりの ちカラで[PauseShort]\n"
 "マモノも かちこち！[PauseShort] ってなるノ！！\n"
 "[Color name=\"blue\"]アイスウィズローブ[Color name=\"unset\"]っていう マモノが\n"
 "よく その杖で 悪さをしてるらしいけド…[PauseMid]\n"
-"[Sound1 unk1=\"11\" unk2=\"9\"]ゆうしゃサマが [Color name=\"red\"]こおりの杖[Color name=\"unset\"]を手にしたら[PauseShort]\n"
+"[Sound1 bytes=\"0B09\"]ゆうしゃサマが [Color name=\"red\"]こおりの杖[Color name=\"unset\"]を手にしたら[PauseShort]\n"
 "とっても つよくて かっこいいに違いないワ！"
 
 #, ruby
 msgid "Npc_kokiri012_R_Talk030"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そう… [PauseShort]ざんねんだワ…\n"
+"[Sound1 bytes=\"0900\"]そう… [PauseShort]ざんねんだワ…\n"
 "でも 気がかわったラ またきてね！"
 
 #, ruby
 msgid "Npc_kokiri012_R_Talk040"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]アラ…？[PauseMid]\n"
+"[Sound1 bytes=\"0A00\"]アラ…？[PauseMid]\n"
 "ゆうしゃサマが持ってる それ…？！"
 
 #, ruby
 msgid "Npc_kokiri012_R_Talk001"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]わぁ！[PauseShort] アナタひょっとして ゆうしゃサマ？[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]わぁ！[PauseShort] アナタひょっとして ゆうしゃサマ？[PauseMid]\n"
 "ようこそコログの森へ！！\n"
 "ワタシが思ってたより ずっとずっと…[PauseMid]\n"
 "ゆうしゃサマって[PauseShort] かっこいい！\n"
-"[Sound1 unk1=\"6\" unk2=\"9\"]そんな ゆうしゃサマに もっともっと\n"
+"[Sound1 bytes=\"0609\"]そんな ゆうしゃサマに もっともっと\n"
 "強くなってほしいから…[PauseMid]\n"
 "ワタシから [Color name=\"red\"]しれん[Color name=\"unset\"]を出しちゃいます！[PauseShort]\n"
-"どうどう？ ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"どうどう？ ワタシからの[Color name=\"red\"]しれん[Color name=\"unset\"] 受けてみる？！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0000"

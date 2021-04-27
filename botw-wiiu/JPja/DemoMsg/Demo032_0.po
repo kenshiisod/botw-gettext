@@ -43,7 +43,7 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]修復を完了しました"
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]チェッキー！"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]チェッキー！"
 
 #, ruby
 msgid "Demo032_0_Text018"
@@ -52,7 +52,7 @@ msgstr "[Animation name=\"Activate\"]シーカーセンサーの機能を拡張�
 #, ruby
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]んむむ～… [PauseLong]ちょっと元気ないけど[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]んむむ～… [PauseLong]ちょっと元気ないけど[PauseShort]\n"
 "まあ いっか"
 
 #, ruby
@@ -60,15 +60,15 @@ msgid "Demo032_0_Text019"
 msgstr "[Animation name=\"Activate\"]ビタロックの機能を拡張しました"
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]はいほ～い！ [PauseShort]いただきました～！"
+msgstr "[Sound1 bytes=\"0709\"]はいほ～い！ [PauseShort]いただきました～！"
 
 #, ruby
 msgid "Demo032_0_Text008"
-msgstr "[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"1\"]勇導石[Color name=\"unset\"] ロック解除！"
+msgstr "[Color name=\"blue\"][Sound1 bytes=\"0001\"]勇導石[Color name=\"unset\"] ロック解除！"
 
 #, ruby
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]はい 例のアレ… [PauseShort]いってみよ～！"
+msgstr "[Sound1 bytes=\"010B\"]はい 例のアレ… [PauseShort]いってみよ～！"
 
 #, ruby
 msgid "Demo032_0_Text020"
@@ -90,7 +90,7 @@ msgstr ""
 #, ruby
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]ではでは [Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の修復作業を[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]ではでは [Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の修復作業を[PauseShort]\n"
 "開始しま～す！"
 
 #, ruby
@@ -100,7 +100,7 @@ msgstr "[Animation name=\"Activate\"]アイテムが追加されました"
 #, ruby
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ではでは [Color name=\"blue\"]シーカーセンサー[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]ではでは [Color name=\"blue\"]シーカーセンサー[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
 "開始しますね～！"
 
 #, ruby
@@ -110,7 +110,7 @@ msgstr "[Animation name=\"Activate\"]シーカーセンサーとハイラル図�
 #, ruby
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ではでは [Color name=\"blue\"]リモコンバクダン[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]ではでは [Color name=\"blue\"]リモコンバクダン[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
 "開始しま～す！"
 
 #, ruby
@@ -120,7 +120,7 @@ msgstr "[Animation name=\"Activate\"]シーカーストーン認証"
 #, ruby
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ではでは [Color name=\"blue\"]ビタロック[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
+"[Sound1 bytes=\"0101\"]ではでは [Color name=\"blue\"]ビタロック[Color name=\"unset\"]のパワーアップを[PauseShort]\n"
 "開始しますですよ～！"
 
 msgid "_ReadOnly_MsbtExtras"

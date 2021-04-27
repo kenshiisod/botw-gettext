@@ -1,50 +1,50 @@
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Ага![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Я нашла в книжке с кахтинками\n"
+"[Sound1 bytes=\"0101\"]Ага![PageBreak][Sound1 bytes=\"0000\"]Я нашла в книжке с кахтинками\n"
 "[Color name=\"blue\"]мохозную[Color name=\"unset\"], [Color name=\"blue\"]гхозовую [Color name=\"unset\"]и [Color name=\"blue\"]жах-стьекозу[Color name=\"unset\"]...[PageBreak]И показала их [Color name=\"blue\"]Яне[Color name=\"unset\"], а она сказала,\n"
 "что у стьекоз очень стхашные глаза."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Но [Color name=\"blue\"]стьекозы [Color name=\"unset\"]ей не понхавились,\n"
+"[Sound1 bytes=\"0001\"]Но [Color name=\"blue\"]стьекозы [Color name=\"unset\"]ей не понхавились,\n"
 "потому что кахтинки были плохие.[PageBreak]У настоящих [Color name=\"blue\"]стьекоз[Color name=\"unset\"], навехное,\n"
-"очень кхасивые глаза.[PageBreak][Sound1 unk1=\"7\" unk2=\"1\"]Вот выхасту, буду путешествовать\n"
+"очень кхасивые глаза.[PageBreak][Sound1 bytes=\"0701\"]Вот выхасту, буду путешествовать\n"
 "и найду настоящих [Color name=\"blue\"]стьекоз[Color name=\"unset\"]!♪"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Ты что-то хотел?[Choice1 label=\"6\"]"
+msgstr "[Sound1 bytes=\"0006\"]Ты что-то хотел?[Choice1 label=\"6\"]"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Пхавда?![PauseShort] А что это? Что это?[PageBreak]...[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]Уха-а-а-а! [Color name=\"blue\"]Стьекозочки[Color name=\"unset\"]![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Можно я их себе возьму?"
+msgstr "[Sound1 bytes=\"0001\"]Пхавда?![PauseShort] А что это? Что это?[PageBreak]...[PageBreak][Sound1 bytes=\"0A00\"][Size percent=\"125\"]Уха-а-а-а! [Color name=\"blue\"]Стьекозочки[Color name=\"unset\"]![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0000\"]Можно я их себе возьму?"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Сестьенка! Смотьи! Смотьи![PauseShort] Настоящие\n"
+"[Sound1 bytes=\"0700\"]Сестьенка! Смотьи! Смотьи![PauseShort] Настоящие\n"
 "[Color name=\"blue\"]мохозная[Color name=\"unset\"], [Color name=\"blue\"]гхозовая [Color name=\"unset\"]и [Color name=\"blue\"]жах-стьекоза[Color name=\"unset\"]![PageBreak]Сейчас покажу!"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"10\"]Спасибо за [Color name=\"blue\"]стьекоз[Color name=\"unset\"]!♪"
+msgstr "[Sound1 bytes=\"000A\"]Спасибо за [Color name=\"blue\"]стьекоз[Color name=\"unset\"]!♪"
 
 msgid "talk21"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"20\"]Ай![PauseShort] Убери![Size percent=\"100\"][PauseAuto frames=\"90\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0A14\"]Ай![PauseShort] Убери![Size percent=\"100\"][PauseAuto frames=\"90\"]"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"6\" unk2=\"6\"]А ты любишь [Color name=\"blue\"]стьекоз[Color name=\"unset\"]?[Choice2 label1=\"7\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0606\"]А ты любишь [Color name=\"blue\"]стьекоз[Color name=\"unset\"]?[Choice2 label1=\"7\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"26\"]Ура-а-а!♪[PauseShort] Пхавда ведь,\n"
-"у них кхасивые глаза?♪[PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]Но [Color name=\"blue\"]стьекозы [Color name=\"unset\"]так далеко живут, что\n"
+"[Sound1 bytes=\"061A\"]Ура-а-а!♪[PauseShort] Пхавда ведь,\n"
+"у них кхасивые глаза?♪[PageBreak][Sound1 bytes=\"0301\"]Но [Color name=\"blue\"]стьекозы [Color name=\"unset\"]так далеко живут, что\n"
 "я еще ни одной ни хазу в жизни не\n"
-"встьечала...[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Вот почему, когда выхасту, я буду\n"
+"встьечала...[PageBreak][Sound1 bytes=\"0101\"]Вот почему, когда выхасту, я буду\n"
 "путешествовать и найду много-много\n"
 "[Color name=\"blue\"]стьекоз[Color name=\"unset\"]!♪"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Пьивет, дядя-[Color name=\"blue\"]стьекозядя[Color name=\"unset\"]!♪"
+msgstr "[Sound1 bytes=\"0600\"]Пьивет, дядя-[Color name=\"blue\"]стьекозядя[Color name=\"unset\"]!♪"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"6\" unk2=\"9\"]А мою сестху Яну?[Choice2 label1=\"8\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0609\"]А мою сестху Яну?[Choice2 label1=\"8\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "near00"
 msgstr "Хс-с-с..."
@@ -53,22 +53,22 @@ msgid "near01"
 msgstr "Ля-ля!♪ Ля-ля!♪"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"7\" unk2=\"26\"]Вхуша, вхуша![PauseShort] Скушал гхушу!♪"
+msgstr "[Sound1 bytes=\"071A\"]Вхуша, вхуша![PauseShort] Скушал гхушу!♪"
 
 msgid "near02"
 msgstr "..."
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Ты же подаил ей [Color name=\"blue\"]латноцвет[Color name=\"unset\"].[PauseShort] Это очень\n"
+"[Sound1 bytes=\"0601\"]Ты же подаил ей [Color name=\"blue\"]латноцвет[Color name=\"unset\"].[PauseShort] Это очень\n"
 "мило.♪[PauseShort] Вот бы мне подаили [Color name=\"blue\"]стьекоз[Color name=\"unset\"]!♪"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Пьивет, дядя!♪[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0600\"]Пьивет, дядя!♪[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"1\"]Не надо было говоить, что моя\n"
+"[Sound1 bytes=\"0901\"]Не надо было говоить, что моя\n"
 "сестха Яна техпеть не может\n"
 "[Color name=\"blue\"]стьекоз[Color name=\"unset\"]..."
 
@@ -76,42 +76,42 @@ msgid "0000"
 msgstr "Привет"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Пф-ф..."
+msgstr "[Sound1 bytes=\"0001\"]Пф-ф..."
 
 msgid "talk30"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"31\"]А-а-а-а![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0A1F\"]А-а-а-а![Size percent=\"100\"]"
 
 msgid "0001"
 msgstr "Пока!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]Я сплю..."
+msgstr "[Sound1 bytes=\"0021\"]Я сплю..."
 
 msgid "talk31"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]У нас с сестьенкой\n"
+"[Sound1 bytes=\"0001\"]У нас с сестьенкой\n"
 "и овцами все хохошо!♪"
 
 msgid "0002"
 msgstr "Да!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]А знаешь что?[PauseShort] У меня есть секьет![PageBreak]Хочешь узнать?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]А знаешь что?[PauseShort] У меня есть секьет![PageBreak]Хочешь узнать?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Какая лошадка!♪[PauseShort] Мой папа\n"
+"[Sound1 bytes=\"0109\"]Какая лошадка!♪[PauseShort] Мой папа\n"
 "может ее захехистьиховать!"
 
 msgid "0003"
 msgstr "Нет"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"9\" unk2=\"37\"]Ну почему!.."
+msgstr "[Sound1 bytes=\"0925\"]Ну почему!.."
 
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Кхасивая лошадка![PauseShort] Мой папа\n"
+"[Sound1 bytes=\"0109\"]Кхасивая лошадка![PauseShort] Мой папа\n"
 "для тебе ее захехистьиует!"
 
 msgid "0004"
@@ -119,53 +119,53 @@ msgstr "Стрекоз?"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Хи-хи-хи!♪[PauseShort] Сейчас хасскажу![PauseShort]\n"
+"[Sound1 bytes=\"0009\"]Хи-хи-хи!♪[PauseShort] Сейчас хасскажу![PauseShort]\n"
 "Пьиготовься![PageBreak]Пьиготовился?"
 
 msgid "0005"
 msgstr "Вот это да!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"11\" unk2=\"34\"]Хочу байки...[PauseShort] Потом поболтаем..."
+msgstr "[Sound1 bytes=\"0B22\"]Хочу байки...[PauseShort] Потом поболтаем..."
 
 msgid "0006"
 msgstr "Это тебе"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"11\" unk2=\"34\"]Дядя, я хочу спать..."
+msgstr "[Sound1 bytes=\"0B22\"]Дядя, я хочу спать..."
 
 msgid "0007"
 msgstr "Обожаю!"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"1\"]Не надо было говоить, что моя\n"
+"[Sound1 bytes=\"0901\"]Не надо было говоить, что моя\n"
 "сестха Яна очень любит [Color name=\"blue\"]латноцветы[Color name=\"unset\"]..."
 
 msgid "0008"
 msgstr "Э-э..."
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"9\" unk2=\"1\"]Яна опять хазозлится..."
+msgstr "[Sound1 bytes=\"0901\"]Яна опять хазозлится..."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Эх..."
+msgstr "[Sound1 bytes=\"0900\"]Эх..."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"]Моя сестха Яна очень\n"
+"[Sound1 bytes=\"0701\"]Моя сестха Яна очень\n"
 "любит [Color name=\"blue\"]латноцветы[Color name=\"unset\"]!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Пьивет, дядя!♪"
+msgstr "[Sound1 bytes=\"0000\"]Пьивет, дядя!♪"
 
 msgid "talk13"
-msgstr "...[PageBreak][Sound1 unk1=\"10\" unk2=\"19\"]Ой, это же был секьет!"
+msgstr "...[PageBreak][Sound1 bytes=\"0A13\"]Ой, это же был секьет!"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Моя сестха Яна техпеть\n"
-"не может [Color name=\"blue\"]стьекоз[Color name=\"unset\"]![Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0700\"]Моя сестха Яна техпеть\n"
+"не может [Color name=\"blue\"]стьекоз[Color name=\"unset\"]![Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAEeCAAAAAAAAC0AAAAEAAAAvAAAAPAAAAAkAQAAWAEAAFoBAABcAQAAXgEAAGABAABiAQAAZAEAAGYBAABoAQAAagEAAJ4BAADSAQAABgIAADoCAABuAgAAogIAANYCAAAKAwAAPgMAAHIDAACmAwAA2gMAAA4EAABCBAAAdgQAAKoEAADeBAAAEgUAAEYFAAB6BQAArgUAAOIFAAAWBgAASgYAAH4GAACyBgAA5gYAABoHAABOBwAAggcAALYHAADqBwAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMgAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAyAAAATgBwAGMAXwBUAGEAbQBvAHUAcgBQAGwAYQBpAG4ASABhAHQAYQBnAG8AXwAwADAAMwAAAE4AcABjAF8AVABhAG0AbwB1AHIAUABsAGEAaQBuAEgAYQB0AGEAZwBvAF8AMAAwADMAAABOAHAAYwBfAFQAYQBtAG8AdQByAFAAbABhAGkAbgBIAGEAdABhAGcAbwBfADAAMAAzAAAAAAAA"

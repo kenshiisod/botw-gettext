@@ -3,56 +3,56 @@ msgstr "Бери!"
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]Кстати, у тебя есть еще\n"
+"[Sound1 bytes=\"0013\"]Кстати, у тебя есть еще\n"
 "[Color name=\"blue\"]приправа горонов[Color name=\"unset\"]?"
 
 msgid "0003"
 msgstr "Нет"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"32\"]Погоди.[PauseShort] Вот присяду — поговорим."
+msgstr "[Sound1 bytes=\"0020\"]Погоди.[PauseShort] Вот присяду — поговорим."
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Если вдруг будет лишняя, приноси."
+msgstr "[Sound1 bytes=\"0001\"]Если вдруг будет лишняя, приноси."
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"2\"]Привет.[PauseShort] Вижу, ты любишь\n"
+"[Sound1 bytes=\"0602\"]Привет.[PauseShort] Вижу, ты любишь\n"
 "гулять в плохую погоду."
 
 msgid "talk_10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]Что-то ты поздно...[PauseShort]\n"
+"[Sound1 bytes=\"0022\"]Что-то ты поздно...[PauseShort]\n"
 "Хочешь здесь остановиться?"
 
 msgid "talk_11"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]Слушай, а может, ты...[PauseMid]\n"
+"[Sound1 bytes=\"0413\"]Слушай, а может, ты...[PauseMid]\n"
 "принес [Color name=\"blue\"]приправу горонов[Color name=\"unset\"]?!"
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]Чтобы приготовить [Color name=\"blue\"]рис с соусом[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0702\"]Чтобы приготовить [Color name=\"blue\"]рис с соусом[Color name=\"unset\"],\n"
 "нужен [Color name=\"blue\"]хайрульский рис[Color name=\"unset\"] и [Color name=\"blue\"]приправа\n"
 "горонов[Color name=\"unset\"].[PageBreak]Это очень вкусное блюдо!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]А ты не дашь мне этой [Color name=\"blue\"]приправы[Color name=\"unset\"]\n"
-"в обмен на [Color name=\"blue\"]хайрульский рис[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]А ты не дашь мне этой [Color name=\"blue\"]приправы[Color name=\"unset\"]\n"
+"в обмен на [Color name=\"blue\"]хайрульский рис[Color name=\"unset\"]?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]Спасибо![PauseShort] Теперь можно приготовить\n"
+"[Sound1 bytes=\"070B\"]Спасибо![PauseShort] Теперь можно приготовить\n"
 "ее с [Color name=\"blue\"]хайрульским рисом[Color name=\"unset\"], и получится\n"
 "[Color name=\"blue\"]рис с соусом[Color name=\"unset\"]!"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]Вот тебе [Color name=\"blue\"]хайрульский рис[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0701\"]Вот тебе [Color name=\"blue\"]хайрульский рис[Color name=\"unset\"]!"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]На нет и суда нет.[PauseShort] Тебе\n"
+"[Sound1 bytes=\"090D\"]На нет и суда нет.[PauseShort] Тебе\n"
 "она, наверное, нужнее..."
 
 msgid "_ReadOnly_MsbtExtras"

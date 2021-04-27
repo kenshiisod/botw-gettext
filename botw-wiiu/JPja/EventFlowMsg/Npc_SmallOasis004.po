@@ -32,15 +32,15 @@ msgstr ""
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"12\"]まったく… 砂漠に[Color name=\"blue\"]神獣[Color name=\"unset\"]が現れたせいで\n"
+"[Sound1 bytes=\"0B0C\"]まったく… 砂漠に[Color name=\"blue\"]神獣[Color name=\"unset\"]が現れたせいで\n"
 "すっかり客が減っちまってねぇ…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ちょっと 足音がうるさいけど\n"
+"[Sound1 bytes=\"0000\"]ちょっと 足音がうるさいけど\n"
 "休んでいくかい？"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]神獣[Color name=\"unset\"]もいなくなったことだし\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]神獣[Color name=\"unset\"]もいなくなったことだし\n"
 "安心して休んでっとくれ"
 
 msgid "Talk02"
@@ -49,7 +49,7 @@ msgstr "サヴォーク！"
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]は\n"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]は\n"
 "コッコの羽毛で作ってる 特別なベッドでね\n"
 "一晩寝ると 寝る前よりも\n"
 "元気になること 間違いなしだよ"
@@ -58,12 +58,12 @@ msgstr ""
 msgid "Talk16"
 msgstr ""
 "どうする？\n"
-"休んでくかい？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+"休んでくかい？[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"7\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]なんだい… [PauseShort]お代が足りないじゃないか！[PauseLong]\n"
+"[Sound1 bytes=\"0006\"]なんだい… [PauseShort]お代が足りないじゃないか！[PauseLong]\n"
 "それじゃあ 泊まらせる事はできないねぇ"
 
 msgid "0000"
@@ -72,7 +72,7 @@ msgstr "ふつうのベッド"
 #, ruby
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]それにしても\n"
+"[Sound1 bytes=\"0700\"]それにしても\n"
 "その服 よく似合ってるじゃないか\n"
 "どこからどうみても\n"
 "立派なゲルドのヴァーイだねぇ"
@@ -80,13 +80,13 @@ msgstr ""
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ふつうのベッド[Color name=\"unset\"]だね\n"
-"それで いつ起きてくるんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ふつうのベッド[Color name=\"unset\"]だね\n"
+"それで いつ起きてくるんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ちょっと 足音はうるさいけど ベッドは快適だよ\n"
+"[Sound1 bytes=\"0000\"]ちょっと 足音はうるさいけど ベッドは快適だよ\n"
 "休んでいかないかい？"
 
 msgid "0001"
@@ -95,8 +95,8 @@ msgstr "ふかふかのベッド"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]だね まいどあり！\n"
-"それで いつ起きてくるんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"][Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]だね まいどあり！\n"
+"それで いつ起きてくるんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "ふかふか？"
@@ -109,8 +109,8 @@ msgstr ""
 
 msgid "Talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ふつうのベッド[Color name=\"unset\"]なら[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"[Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]なら[Color name=\"red\"]40ルピー[Color name=\"unset\"]だよ[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"7\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]ふつうのベッド[Color name=\"unset\"]なら[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
+"[Color name=\"blue\"]ふかふかのベッド[Color name=\"unset\"]なら[Color name=\"red\"]40ルピー[Color name=\"unset\"]だよ[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"7\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0003"

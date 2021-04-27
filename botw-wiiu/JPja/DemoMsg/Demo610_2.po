@@ -16,7 +16,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]おや？ あなたは…[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]おや？ あなたは…[PauseShort]\n"
 "ここで何を？[PauseMid]"
 
 #, ruby
@@ -28,12 +28,12 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]私の師匠も おそらくこの地で\n"
+"[Sound1 bytes=\"030C\"]私の師匠も おそらくこの地で\n"
 "先ほどの章を 詠ってみたはずです…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]まあ 旅の目的は人それぞれですね"
+msgstr "[Sound1 bytes=\"0001\"]まあ 旅の目的は人それぞれですね"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
@@ -44,7 +44,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]ああ… 師匠の遺志を継いで 詩を完成させ\n"
+"[Sound1 bytes=\"0101\"]ああ… 師匠の遺志を継いで 詩を完成させ\n"
 "晴れて詠う事ができたなら…"
 
 #, ruby
@@ -56,32 +56,32 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]そのためにも私は 英傑たちの事を\n"
+"[Sound1 bytes=\"0001\"]そのためにも私は 英傑たちの事を\n"
 "よく知っておきたい…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]ああ… 詩に登場する まさにその地で\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]ああ… 詩に登場する まさにその地で\n"
 "詠えるという贅沢…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ありがたい事に[Color name=\"blue\"] ゾーラの里[Color name=\"unset\"]の[Color name=\"blue\"]王[Color name=\"unset\"]と[Color name=\"blue\"]王子[Color name=\"unset\"]から\n"
+"[Sound1 bytes=\"0000\"]ありがたい事に[Color name=\"blue\"] ゾーラの里[Color name=\"unset\"]の[Color name=\"blue\"]王[Color name=\"unset\"]と[Color name=\"blue\"]王子[Color name=\"unset\"]から\n"
 "英傑の逸話をお聞きする事ができました"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]師匠が完成させていた…\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]師匠が完成させていた…\n"
 "試練に挑みし[Color name=\"blue\"]英傑ミファーの章[Color name=\"unset\"]\n"
 "[PauseAuto frames=\"40\"]お聴きください"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]完成させた詩を この空の下で詠う事…\n"
+"[Sound1 bytes=\"0018\"]完成させた詩を この空の下で詠う事…\n"
 "それが 私の旅の目的です"
 
 msgid "_ReadOnly_MsbtExtras"

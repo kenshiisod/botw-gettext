@@ -17,7 +17,7 @@ msgstr ""
 
 msgid "Ready_Intro2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]J'ai planté des fleurs tout autour du\n"
+"[Sound1 bytes=\"0008\"]J'ai planté des fleurs tout autour du\n"
 "sanctuaire. Fais attention à ne pas les\n"
 "piétiner."
 
@@ -26,27 +26,27 @@ msgstr "[Sound2 id=\"29\"][Size percent=\"125\"]J'EN AI ASSEEEEEEZ !!![Size perc
 
 msgid "Fail_1"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]N'abîme pas mes fleurs [Color name=\"unset\"]![PauseShort] Tu leur fais mal,\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]N'abîme pas mes fleurs [Color name=\"unset\"]![PauseShort] Tu leur fais mal,\n"
 "je les entends pleurer !"
 
 msgid "Fail_2"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Combien de fois devrai-je te le répéter ?!\n"
+"[Sound1 bytes=\"080E\"]Combien de fois devrai-je te le répéter ?!\n"
 "[Color name=\"red\"]Fais attention à mes fleurs [Color name=\"unset\"]! Ce sont des\n"
 "êtres vivants !"
 
 msgid "Ready_Intro"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"19\"]Regarde, c'est joli, non ?[PauseShort] J'ai planté des\n"
+"[Sound1 bytes=\"0113\"]Regarde, c'est joli, non ?[PauseShort] J'ai planté des\n"
 "fleurs tout autour du sanctuaire.\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Tu peux les admirer autant que tu veux,\n"
+"[Sound1 bytes=\"0001\"]Tu peux les admirer autant que tu veux,\n"
 "bien sûr... [PauseMid]mais gare à toi si tu marches\n"
 "dessus !"
 
 msgid "Game_Intro"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"8\"]J'ai planté ces fleurs avec tout mon\n"
+"[Sound1 bytes=\"0008\"]J'ai planté ces fleurs avec tout mon\n"
 "amour. Prends le temps de les admirer !"
 
 msgid "Fail_3"
@@ -60,7 +60,7 @@ msgstr ""
 
 msgid "Fail_4"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]Dis donc ! Qu'est-ce que tu fais, là ?!\n"
+"[Sound1 bytes=\"080E\"]Dis donc ! Qu'est-ce que tu fais, là ?!\n"
 "[Color name=\"red\"]N'abîme pas mes fleurs [Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"

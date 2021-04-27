@@ -10,7 +10,7 @@ msgstr ""
 #, ruby
 msgid "Talk_016"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]聡明な若者にも見えるか？\n"
+"[Sound1 bytes=\"0009\"]聡明な若者にも見えるか？\n"
 "\n"
 "行けるものなら\n"
 "近くまで行って確かめたいものだ…"
@@ -24,10 +24,10 @@ msgstr ""
 #, ruby
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]ん…？\n"
+"[Sound1 bytes=\"0006\"]ん…？\n"
 "\n"
 "何だい？\n"
-"聡明な若者よ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"聡明な若者よ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_018"
@@ -36,12 +36,12 @@ msgstr ""
 "やはり人工的な作りに見えないか？"
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]いや なに…"
+msgstr "[Sound1 bytes=\"0004\"]いや なに…"
 
 #, ruby
 msgid "Talk_019"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]わしが血気盛んな 冒険者であったなら\n"
+"[Sound1 bytes=\"0009\"]わしが血気盛んな 冒険者であったなら\n"
 "あの絶壁を登ってでも 確かめに行くだろうな"
 
 #, ruby
@@ -73,7 +73,7 @@ msgstr "何でもないです"
 #, ruby
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]若者よ…\n"
+"[Sound1 bytes=\"0009\"]若者よ…\n"
 "\n"
 "わしら兄弟は 馬宿の仕事よりも\n"
 "謎を解明するほうが 大切なのだ…"

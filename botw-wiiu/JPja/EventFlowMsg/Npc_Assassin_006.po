@@ -4,41 +4,41 @@ msgstr "りんく"
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]私 怒ってます！\n"
+"[Sound1 bytes=\"080E\"]私 怒ってます！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]って… それは立腹[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]って… それは立腹[PauseMid]\n"
 "他にないですか？"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"8\"]そうそう…\n"
+"[Sound1 bytes=\"0108\"]そうそう…\n"
 "ハイリアの英傑だった人らしいですよね\n"
 "って… あなたのことですよ[PauseMid]\n"
 "リンクさん"
 
 #, ruby
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"10\"]また会えましたね リンクさん"
+msgstr "[Sound1 bytes=\"010A\"]また会えましたね リンクさん"
 
 #, ruby
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]お命 ちょうだい！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]お命 ちょうだい！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]うーん…[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]うーん…[PauseMid]\n"
 "アレ… なんて言うんだっけ…\n"
 "「り」で始まって\n"
-"「く」で終わるんだけどな…[Choice4Flags label1=\"0\" flag1=\"Npc_Assassin_006_Choice0\" label2=\"1\" flag2=\"Npc_Assassin_006_Choice1\" label3=\"2\" flag3=\"Npc_Assassin_006_Choice2\" label4=\"3\" selectednum=\"0\" cancelnum=\"4\"]"
+"「く」で終わるんだけどな…[Choice4Flags label1=\"0\" flag1=\"Npc_Assassin_006_Choice0\" label2=\"1\" flag2=\"Npc_Assassin_006_Choice1\" label3=\"2\" flag3=\"Npc_Assassin_006_Choice2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0000"
 msgstr "りゅうぼく"
 
 #, ruby
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]コーガ様の仇！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "りっしょく"
@@ -46,7 +46,7 @@ msgstr "りっしょく"
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]そうそう…\n"
+"[Sound1 bytes=\"0019\"]そうそう…\n"
 "川の上から どんぶらこと流れてくる…\n"
 "って それは流木[PauseMid]\n"
 "それじゃないんですよね"
@@ -57,7 +57,7 @@ msgstr "りっぷく"
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]そうそう…\n"
+"[Sound1 bytes=\"0019\"]そうそう…\n"
 "立ちながら ご飯を食べるんですよね\n"
 "って… それは立食[PauseMid]\n"
 "違うんですよね"

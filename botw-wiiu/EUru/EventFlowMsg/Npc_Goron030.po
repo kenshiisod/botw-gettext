@@ -1,9 +1,9 @@
 msgid "talk08"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Ты же не местный.[PauseShort] Зачем тебе Юнобо?[Choice2 label1=\"6\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]Ты же не местный.[PauseShort] Зачем тебе Юнобо?[Choice2 label1=\"6\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Юнобо пошел к [Color name=\"blue\"]мосту Элдина[Color name=\"unset\"].[PageBreak]Это далеко: сначала [Color name=\"blue\"]Горонский мост[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0004\"]Юнобо пошел к [Color name=\"blue\"]мосту Элдина[Color name=\"unset\"].[PageBreak]Это далеко: сначала [Color name=\"blue\"]Горонский мост[Color name=\"unset\"],\n"
 "потом [Color name=\"blue\"]Горонские ключи[Color name=\"unset\"], а потом еще\n"
 "топать..."
 
@@ -15,7 +15,7 @@ msgstr "Что это за место?"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Охраняю рудник — мне\n"
+"[Sound1 bytes=\"0000\"]Охраняю рудник — мне\n"
 "сам шеф Брудо велел.[PageBreak]Просто из-за [Color name=\"blue\"]Чудища Ва-Рудании[Color name=\"unset\"] тут\n"
 "теперь опасно: лавы прибавилось,\n"
 "жарко стало, монстры набежали..."
@@ -25,86 +25,86 @@ msgstr "Пока"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Охраняю рудник.[PauseShort] Меня сам\n"
+"[Sound1 bytes=\"0000\"]Охраняю рудник.[PauseShort] Меня сам\n"
 "шеф Брудо сюда поставил."
 
 msgid "0003"
 msgstr "Где Юнобо?"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ну ладно, скажу еще раз..."
+msgstr "[Sound1 bytes=\"0000\"]Ну ладно, скажу еще раз..."
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Парень, я тебя по-хорошему\n"
-"прошу: не трогай [Color name=\"red\"]пушки шефа[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"]И не клади в них взрывчатку![Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0900\"]Парень, я тебя по-хорошему\n"
+"прошу: не трогай [Color name=\"red\"]пушки шефа[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0201\"]И не клади в них взрывчатку![Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0006"
 msgstr "Его шеф ищет"
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Он убежал в Горонград.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Он убежал в Горонград.[PauseShort]\n"
 "Сказал, что очень торопится."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Чем еще могу помочь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Чем еще могу помочь?[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"][Size percent=\"125\"]Сам [Color name=\"blue\"]шеф[Color name=\"unset\"]?![Size percent=\"100\"][PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Я все скажу![PauseShort] Я все скажу!"
+msgstr "[Sound1 bytes=\"0A00\"][Size percent=\"125\"]Сам [Color name=\"blue\"]шеф[Color name=\"unset\"]?![Size percent=\"100\"][PageBreak][Sound1 bytes=\"0000\"]Я все скажу![PauseShort] Я все скажу!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Я-то?"
+msgstr "[Sound1 bytes=\"0B00\"]Я-то?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Юнобо пошел на [Color name=\"blue\"]склад [Color name=\"unset\"]за лекарством.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Юнобо пошел на [Color name=\"blue\"]склад [Color name=\"unset\"]за лекарством.[PauseShort]\n"
 "Только что-то его долго нет..."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Счастливо."
+msgstr "[Sound1 bytes=\"0004\"]Счастливо."
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Там опасно.[PauseShort] Не советую\n"
+"[Sound1 bytes=\"0000\"]Там опасно.[PauseShort] Не советую\n"
 "тебе за ним ходить."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Приветствую.[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]Приветствую.[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Эй![PauseShort] Это [Color name=\"red\"]пушка шефа[Color name=\"unset\"]![PauseShort] Не трогай\n"
+"[Sound1 bytes=\"0A00\"]Эй![PauseShort] Это [Color name=\"red\"]пушка шефа[Color name=\"unset\"]![PauseShort] Не трогай\n"
 "там ничего![PauseShort] Особенно рычаг!"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Это [Color name=\"blue\"]северный рудник[Color name=\"unset\"].[PageBreak]Слышал песню «Громко [Color name=\"red\"]бомбы[Color name=\"unset\"] мы\n"
+"[Sound1 bytes=\"0004\"]Это [Color name=\"blue\"]северный рудник[Color name=\"unset\"].[PageBreak]Слышал песню «Громко [Color name=\"red\"]бомбы[Color name=\"unset\"] мы\n"
 "взрываем — самоцветы добываем»?[PauseShort]\n"
 "Это как раз про [Color name=\"blue\"]северный рудник[Color name=\"unset\"].[PageBreak]Только сейчас добыча остановлена —\n"
 "все из-за [Color name=\"blue\"]Чудища Ва-Рудании[Color name=\"unset\"].[PageBreak]Опасно: лава мешает, температура\n"
 "поднялась и монстров прибавилось..."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Я ведь уже говорил!"
+msgstr "[Sound1 bytes=\"0B00\"]Я ведь уже говорил!"
 
 msgid "near00"
 msgstr "Хм..."
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]О-хо-хо, и что сегодня\n"
-"все туда-сюда ходят...[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Слушай, дальше для тебя слишком\n"
-"жарко.[PauseShort] И монстров много.[PauseShort] Не ходи.[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0900\"]О-хо-хо, и что сегодня\n"
+"все туда-сюда ходят...[PageBreak][Sound1 bytes=\"0000\"]Слушай, дальше для тебя слишком\n"
+"жарко.[PauseShort] И монстров много.[PauseShort] Не ходи.[Choice4Flags label1=\"3\" flag1=\"NPC_Goron030_Yunbo\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Юнобо побежал в Горонград.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Юнобо побежал в Горонград.[PauseShort]\n"
 "Наверное, хочет доложить\n"
 "[Color name=\"blue\"]шефу[Color name=\"unset\"] о [Color name=\"blue\"]Рудании[Color name=\"unset\"]."
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Я [Color name=\"blue\"]Драк[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0700\"]Я [Color name=\"blue\"]Драк[Color name=\"unset\"]!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAGcAgAAAAAAABoAAAAEAAAAcAAAAIoAAACMAAAAjgAAAJAAAACSAAAAlAAAAK4AAADIAAAA4gAAAPwAAAAWAQAAMAEAAEoBAABkAQAAfgEAAJgBAACyAQAAzAEAAOYBAAAAAgAAGgIAADQCAABOAgAAaAIAAIICAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAAAAAAAAAAAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAzADAAAABOAHAAYwBfAEcAbwByAG8AbgAwADMAMAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMwAwAAAAAAAA"

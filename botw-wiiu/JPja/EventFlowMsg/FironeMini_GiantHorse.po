@@ -1,38 +1,38 @@
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"6\"]どうだい？ [Color name=\"red\"]巨大馬[Color name=\"unset\"]の調査\n"
-"協力してくれる気になったかい？[PauseLong][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0606\"]どうだい？ [Color name=\"red\"]巨大馬[Color name=\"unset\"]の調査\n"
+"協力してくれる気になったかい？[PauseLong][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]すまないが その馬を\n"
+"[Sound1 bytes=\"0000\"]すまないが その馬を\n"
 "じっくり調べさせてくれないか？[Choice1 label=\"4\"]"
 
 #, ruby
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ 失礼するよ"
+msgstr "[Sound1 bytes=\"0000\"]じゃあ 失礼するよ"
 
 #, ruby
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]これは 調査に協力してくれたお礼だ！"
+msgstr "[Sound1 bytes=\"0004\"]これは 調査に協力してくれたお礼だ！"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それはもう 大きな馬だって話だ[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]それはもう 大きな馬だって話だ[PauseShort]\n"
 "他の地方にはいない 固有種の可能性が高い\n"
 "しかし この先は 魔物が多くてね…[PauseMid]\n"
 "なかなか 調査が進まずに 困っているのさ[Choice1 label=\"3\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]ふむふむ[PauseLong] これはすごい[PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0006\"]ふむふむ[PauseLong] これはすごい[PauseAuto frames=\"60\"]"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"0\"]いやあ これだけ調べられれば十分だ\n"
+"[Sound1 bytes=\"0100\"]いやあ これだけ調べられれば十分だ\n"
 "必要な情報は しっかり取れた\n"
 "やはり 直接この目で確認できると違うね\n"
 "全て君のおかげだよ！"
@@ -40,21 +40,21 @@ msgstr ""
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"0\"]こんなに 大きな馬がいるとはね\n"
+"[Sound1 bytes=\"0400\"]こんなに 大きな馬がいるとはね\n"
 "驚きだよ！"
 
 #, ruby
 msgid "talk06"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]助かるよ！"
+msgstr "[Sound1 bytes=\"0700\"]助かるよ！"
 
 #, ruby
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]ほほ～ 実に興味深い[PauseAuto frames=\"90\"]"
+msgstr "[Sound1 bytes=\"000B\"]ほほ～ 実に興味深い[PauseAuto frames=\"90\"]"
 
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]そうか 仕方ないな…[PauseMid]\n"
+"[Sound1 bytes=\"030C\"]そうか 仕方ないな…[PauseMid]\n"
 "\n"
 "まあ 気が向いたら\n"
 "また 声をかけてくれよ！"
@@ -62,13 +62,13 @@ msgstr ""
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]どうだい？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]どうだい？[PauseShort]\n"
 "[Color name=\"red\"]巨大馬[Color name=\"unset\"]の調査は 進んでいるかい？"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]巨大馬[Color name=\"unset\"]は ここから西に向かって 奥に行った\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]巨大馬[Color name=\"unset\"]は ここから西に向かって 奥に行った\n"
 "[Color name=\"blue\"]オブババ草地[Color name=\"unset\"] あたりに生息しているって話だ"
 
 #, ruby
@@ -98,7 +98,7 @@ msgstr "巨大な馬？"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]じゃあ 捕まえて ここに連れてきてくれるか[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]じゃあ 捕まえて ここに連れてきてくれるか[PauseShort]\n"
 "無理はせずにな！"
 
 #, ruby
@@ -107,7 +107,7 @@ msgstr "魔物？"
 
 #, ruby
 msgid "talk11"
-msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]なんだ こんな夜中に…[PauseMid]"
+msgstr "[Sound1 bytes=\"0510\"]なんだ こんな夜中に…[PauseMid]"
 
 msgid "0004"
 msgstr "どうぞ"
@@ -115,13 +115,13 @@ msgstr "どうぞ"
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]今日は もう遅い[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]今日は もう遅い[PauseShort]\n"
 "今晩は ここで休んでいったら どうだい？"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]やあやあ！[PauseMid]\n"
+"[Sound1 bytes=\"0102\"]やあやあ！[PauseMid]\n"
 "こんなところで 人に会うなんて 珍しいな\n"
 "僕たちは\n"
 "野生動物の 生態調査をしているものでね\n"
@@ -132,19 +132,19 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]そう…[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]そう…[PauseShort]\n"
 "特に 馬の化け物みたいなのが いてね…[PauseShort]\n"
 "最初は そいつが 探している巨大馬だと思って\n"
 "近づいたら ひどい目にあったよ\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]見たところ 君は 冒険者だろう？[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]見たところ 君は 冒険者だろう？[PauseShort]\n"
 "なかなか 強そうだ\n"
 "どうだろう 僕たちの代わりに\n"
-"[Color name=\"red\"]巨大馬[Color name=\"unset\"]を 捕まえてきてくれないかな？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]巨大馬[Color name=\"unset\"]を 捕まえてきてくれないかな？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]その馬は…[PauseShort] でかいな…[PauseShort]\n"
+"[Sound1 bytes=\"0A00\"]その馬は…[PauseShort] でかいな…[PauseShort]\n"
 "\n"
 "見たことのない大きさだよ！\n"
 "これは 完全に固有種だね"
@@ -152,11 +152,11 @@ msgstr ""
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]いやあ[PauseShort] 僕たちは\n"
+"[Sound1 bytes=\"0004\"]いやあ[PauseShort] 僕たちは\n"
 "野生動物の 生態調査をしているものでね\n"
 "まさに この巨大馬の調査のために\n"
 "ここまで来たのさ\n"
-"[Sound1 unk1=\"1\" unk2=\"0\"]しかし 助かったよ！[PauseMid]\n"
+"[Sound1 bytes=\"0100\"]しかし 助かったよ！[PauseMid]\n"
 "君のおかげで 苦労せず 巨大馬に会えた"
 
 msgid "_ReadOnly_MsbtExtras"

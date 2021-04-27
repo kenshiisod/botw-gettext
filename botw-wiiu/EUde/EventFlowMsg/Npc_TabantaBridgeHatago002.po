@@ -3,13 +3,13 @@ msgstr "Keine Sorge."
 
 msgid "talk40"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Hoffentlich wird bei diesem Regen der\n"
+"[Sound1 bytes=\"0010\"]Hoffentlich wird bei diesem Regen der\n"
 "Geist der [Color name=\"blue\"]Tabanta-Brücke[Color name=\"unset\"] nicht allzu\n"
-"nass...[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"nass...[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk41"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"18\"]Denkst du?[PauseShort] Es macht mir wirklich\n"
+"[Sound1 bytes=\"0B12\"]Denkst du?[PauseShort] Es macht mir wirklich\n"
 "Sorgen, dass gar nichts mehr zu\n"
 "hören ist."
 
@@ -17,23 +17,23 @@ msgid "talk50"
 msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]Bumm... Zzz...[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"11\"][Size percent=\"125\"]BUMM![PauseShort] BAMM![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"070B\"][Size percent=\"125\"]BUMM![PauseShort] BAMM![Size percent=\"100\"][Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Wie bitte?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Weißt du das nicht? Das ist der\n"
-"Geist der [Color name=\"blue\"]Tabanta-Brücke[Color name=\"unset\"]![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Unten im Tal, unter der Brücke spukt\n"
+"[Sound1 bytes=\"0A00\"]Weißt du das nicht? Das ist der\n"
+"Geist der [Color name=\"blue\"]Tabanta-Brücke[Color name=\"unset\"]![PageBreak][Sound1 bytes=\"0001\"]Unten im Tal, unter der Brücke spukt\n"
 "ein Geist, der seltsame Geräusche macht![PageBreak]Hörst du's?[PauseLong]\n"
-"...Oh. Es hat aufgehört.[PageBreak][Sound1 unk1=\"5\" unk2=\"19\"]Hm, schläft der Geist vielleicht?"
+"...Oh. Es hat aufgehört.[PageBreak][Sound1 bytes=\"0513\"]Hm, schläft der Geist vielleicht?"
 
 msgid "0001"
 msgstr "BUMM!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Size percent=\"125\"]BUMM![PauseShort] BUMM![Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0701\"][Size percent=\"125\"]BUMM![PauseShort] BUMM![Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAESAgAAAAAAAAkAAAAEAAAALAAAAGIAAACYAAAAzgAAAAQBAAA6AQAAcAEAAKYBAADcAQAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAATgBwAGMAXwBUAGEAYgBhAG4AdABhAEIAcgBpAGQAZwBlAEgAYQB0AGEAZwBvADAAMAAyAAAAAAAA"

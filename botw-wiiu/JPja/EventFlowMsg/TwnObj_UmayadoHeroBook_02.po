@@ -10,7 +10,7 @@ msgstr ""
 "まあゴロン族は 毎日 代り映えしねえ生活だ\n"
 "ちっとの違いでも書いとく事は 悪くねえだろう\n"
 "という訳で 今日のニッキは… そうだな\n"
-"デスマウンテン山頂のロース岩が美味かった！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"デスマウンテン山頂のロース岩が美味かった！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0004"
 msgstr "やめる"
@@ -27,7 +27,7 @@ msgstr ""
 "あの頃… 喰えもしねえ遺物なんぞ\n"
 "ゴロン族は誰一人 見向きもしなかったもんだが\n"
 "喰いもんの事 考えてたら腹減って来たな…\n"
-"今日の晩飯は 上ロース岩にするか！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"今日の晩飯は 上ロース岩にするか！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -47,7 +47,7 @@ msgstr ""
 "…まさか このダルケル様が ハイリア人の\n"
 "小僧に助けられるとは 思ってもみなかったぜ\n"
 "あいつの剣捌きに 見とれてたときの俺は\n"
-"すげえマヌケ面をしてたんだろうな…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"すげえマヌケ面をしてたんだろうな…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0006"
@@ -72,7 +72,7 @@ msgstr ""
 "\n"
 "このダルケル様が 背中を預け\n"
 "共に飯を喰らうに相応しい男だ\n"
-"よし！ リンクを 俺の相棒にしよう！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"よし！ リンクを 俺の相棒にしよう！[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book05"
@@ -87,7 +87,7 @@ msgstr ""
 "今から そいつらと飯を喰うのが楽しみだな\n"
 "まずは姫さんに 特上リブロース岩を渡したら\n"
 "喜んで受け取ってくれた\n"
-"なんか 笑顔がひきつってたみてえだったが…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"なんか 笑顔がひきつってたみてえだったが…[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book06"
@@ -103,7 +103,7 @@ msgstr ""
 "それを相棒が 落ちてたナベのフタで跳ね返し\n"
 "急所に命中させて 暴走を止めたんだと\n"
 "その活躍が 王の目に留まっての大抜擢！\n"
-"さすが 俺の相棒だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"さすが 俺の相棒だ[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book07"
@@ -117,7 +117,7 @@ msgstr ""
 "なるほど 習うより慣れろだ\n"
 "相棒の強さは こういう努力の賜物なんだな\n"
 "今日のお礼に 極上サーロイン岩を\n"
-"御馳走してやろう[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" selectednum=\"0\" cancelnum=\"2\"]"
+"御馳走してやろう[Choice3 label1=\"2\" label2=\"3\" label3=\"4\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Book08"
@@ -134,7 +134,7 @@ msgstr ""
 "同じってことなんだろうな\n"
 "ところで最近 分かってきたことがある…\n"
 "\n"
-"ニッキを書くと 腹が減る！[Choice2 label1=\"3\" label2=\"4\" selectednum=\"1\" cancelnum=\"1\"]"
+"ニッキを書くと 腹が減る！[Choice2 label1=\"3\" label2=\"4\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0001"
@@ -142,7 +142,7 @@ msgstr "読まない"
 
 #, ruby
 msgid "Book00"
-msgstr "[Color name=\"red\"][Color name=\"blue\"]ダルケルの日記[Color name=\"red\"] [Color name=\"unset\"]を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Color name=\"red\"][Color name=\"blue\"]ダルケルの日記[Color name=\"red\"] [Color name=\"unset\"]を読みますか？[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"

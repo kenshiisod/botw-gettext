@@ -1,6 +1,6 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]Draußen wirst du nur nass.[PauseMid] Komm doch\n"
+"[Sound1 bytes=\"0300\"]Draußen wirst du nur nass.[PauseMid] Komm doch\n"
 "in den Stall!"
 
 msgid "Near01"
@@ -8,7 +8,7 @@ msgstr "[Sound2 id=\"1\"]Essenszeit!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]Bei dem Regen ist der Kochtopf nicht\n"
+"[Sound1 bytes=\"0312\"]Bei dem Regen ist der Kochtopf nicht\n"
 "benutzbar, aber du kannst gern die\n"
 "Nacht hierbleiben."
 
@@ -19,14 +19,14 @@ msgid "Near_Sleep00"
 msgstr "Zzz..."
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]Tut mir leid, aber ich will jetzt schlafen..."
+msgstr "[Sound1 bytes=\"0312\"]Tut mir leid, aber ich will jetzt schlafen..."
 
 msgid "Near_Sleep01"
 msgstr "[Sound2 id=\"32\"]Schon Zeit..."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Iss schön viel Gemüse...[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Iss schön viel Gemüse...[PauseMid]\n"
 "Hrm hrm..."
 
 msgid "Near_RunRain00"
@@ -36,7 +36,7 @@ msgid "Near_RunRain01"
 msgstr "Regen..."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Möchtest du den Kochtopf benutzen?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]Möchtest du den Kochtopf benutzen?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Kochtopf?"
@@ -46,13 +46,13 @@ msgstr "Nein, danke."
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hier im Stall musst du dein Essen selbst\n"
+"[Sound1 bytes=\"0000\"]Hier im Stall musst du dein Essen selbst\n"
 "kochen.[PauseMid] Dazu kannst du gern den\n"
 "Kochtopf hier benutzen."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Wenn du was brauchst, frag Imbri,\n"
+"[Sound1 bytes=\"0000\"]Wenn du was brauchst, frag Imbri,\n"
 "unseren Meister.[PageBreak]Und wenn du nach dem Weg fragen\n"
 "willst, wende dich am besten an unseren\n"
 "Stallburschen Trond."

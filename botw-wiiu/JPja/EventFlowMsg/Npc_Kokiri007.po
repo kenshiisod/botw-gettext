@@ -1,35 +1,35 @@
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk004"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ネェネェ ゆうしゃサマ！ ピーカンの友だちの\n"
+"[Sound1 bytes=\"0000\"]ネェネェ ゆうしゃサマ！ ピーカンの友だちの\n"
 "[Color name=\"red\"]ボックリン[Color name=\"unset\"] どこかで 見たことなイ？\n"
 "コログのミ 探してくるって\n"
 "出かけたっきり 帰ってこないんダ\n"
 "たしか カカリコ村 っていうところに\n"
 "行くって 言ってたけド…\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]ボックリン この森でも すぐ道を忘れちゃうし…[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]ボックリン この森でも すぐ道を忘れちゃうし…[PauseMid]\n"
 "とちゅうで迷子に なってないかナ…？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]もし見かけたら はやく帰ってくるように\n"
+"[Sound1 bytes=\"0001\"]もし見かけたら はやく帰ってくるように\n"
 "いっといてネ！"
 
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk100"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ピーカン 何かあったら ゆうしゃサマを\n"
+"[Sound1 bytes=\"0000\"]ピーカン 何かあったら ゆうしゃサマを\n"
 "たよりにするから よろしくネ！"
 
 #, ruby
 msgid "Npc_Kokiri007_Talk000"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"blue\"]ルミー[Color name=\"unset\"]って\n"
+"[Sound1 bytes=\"0600\"][Color name=\"blue\"]ルミー[Color name=\"unset\"]って\n"
 "ルピーをいっぱい持ってるから 光るのかナ～\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]…どうしてルピーいっぱい 持ってるのかナ～？\n"
+"[Sound1 bytes=\"0B01\"]…どうしてルピーいっぱい 持ってるのかナ～？\n"
 "ルピー屋さんなのかナ～？"
 
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]ヤッホー！ [PauseShort]ゆうしゃサマ！げんき～？\n"
+"[Sound1 bytes=\"0700\"]ヤッホー！ [PauseShort]ゆうしゃサマ！げんき～？\n"
 "ピーカンは 悩みもなくて ゴキゲンだよ～\n"
 "もし なにか悩みができたら ゆうしゃサマを\n"
 "たよりにするから よろしくネ～"
@@ -37,17 +37,17 @@ msgstr ""
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]うーん ボックリン\n"
+"[Sound1 bytes=\"0B00\"]うーん ボックリン\n"
 "まだ帰ってこないのかナ…\n"
-"[Sound1 unk1=\"10\" unk2=\"1\"]あ！ゆうしゃサマ\n"
+"[Sound1 bytes=\"0A01\"]あ！ゆうしゃサマ\n"
 "ボックリン どこかで見なかった？\n"
 "コログのミ 探してくるって\n"
 "出かけたっきり 帰ってこないんダ\n"
 "たしか カカリコ村 っていうところに\n"
 "行くって 言ってたけド…\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]ボックリン この森でも すぐ道を忘れちゃうし…[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]ボックリン この森でも すぐ道を忘れちゃうし…[PauseMid]\n"
 "とちゅうで迷子に なってないかナ…？\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]もし見かけたら はやく帰ってくるように\n"
+"[Sound1 bytes=\"0601\"]もし見かけたら はやく帰ってくるように\n"
 "いっといてネ！"
 
 #, ruby
@@ -57,27 +57,27 @@ msgstr "[Sound2 id=\"19\"]わ…[PauseShort] わわ…[PauseShort] わわわわ�
 #, ruby
 msgid "Npc_Kokiri007_FirstTalk000"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]わ…[PauseShort] わわ…[PauseShort] わわわわわ…！！[PauseShort]\n"
+"[Sound1 bytes=\"0A00\"]わ…[PauseShort] わわ…[PauseShort] わわわわわ…！！[PauseShort]\n"
 "もしかしてもしなくても ゆうしゃサマ？！\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]わわ～い！\n"
+"[Sound1 bytes=\"0701\"]わわ～い！\n"
 "ゆうしゃサマが森に来てくれタ～！"
 
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゆうしゃサマ！何かあったら\n"
+"[Sound1 bytes=\"0000\"]ゆうしゃサマ！何かあったら\n"
 "ゆうしゃサマを たよりにするから よろしくネ～"
 
 #, ruby
 msgid "Npc_Kokiri007_FirstTalk001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]すぐそこに ゆうしゃサマの[Color name=\"red\"]剣[Color name=\"unset\"]があるヨ～\n"
+"[Sound1 bytes=\"0000\"]すぐそこに ゆうしゃサマの[Color name=\"red\"]剣[Color name=\"unset\"]があるヨ～\n"
 "ほらほら 行って行っテ！"
 
 #, ruby
 msgid "Npc_Kokiri007_Before_Talk003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゆうしゃサマ！ もしボックリンを見かけたら\n"
+"[Sound1 bytes=\"0000\"]ゆうしゃサマ！ もしボックリンを見かけたら\n"
 "はやく帰ってきてって いっといてネ！\n"
 "カカリコ村に行くって言ってたけド…\n"
 "どこかで 迷子になってないかナ…？"

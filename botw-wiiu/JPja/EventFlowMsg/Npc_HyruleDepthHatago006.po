@@ -9,14 +9,14 @@ msgstr "いやーん"
 
 #, ruby
 msgid "FirstTalk00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]やっと来たのね…"
+msgstr "[Sound1 bytes=\"0701\"]やっと来たのね…"
 
 #, ruby
 msgid "NomalSword00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]うそっ…！\n"
+"[Sound1 bytes=\"0A00\"]うそっ…！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]…って 言われてみれば\n"
+"[Sound1 bytes=\"0B01\"]…って 言われてみれば\n"
 "\n"
 "勇者様は [Color name=\"red\"]伝説の剣[Color name=\"unset\"]を持ってるって聞いてたし…\n"
 "やっぱり 人違いね"
@@ -24,30 +24,30 @@ msgstr ""
 #, ruby
 msgid "FirstTalk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]この樹の下で 勇者様に会えるってウワサ\n"
-"本当だったんだわ！[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"070A\"]この樹の下で 勇者様に会えるってウワサ\n"
+"本当だったんだわ！[Choice3 label1=\"1000\" label2=\"1001\" label3=\"1002\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "NoSword00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]うそっ…！\n"
+"[Sound1 bytes=\"0A00\"]うそっ…！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]…って 言われてみれば 剣も持ってないし\n"
+"[Sound1 bytes=\"0B01\"]…って 言われてみれば 剣も持ってないし\n"
 "みすぼらしい男ね…"
 
 #, ruby
 msgid "NomalSword01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]やっぱり あなたなのね！\n"
+"[Sound1 bytes=\"0700\"]やっぱり あなたなのね！\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"15\"]…って 騙されないわよ！\n"
+"[Sound1 bytes=\"080F\"]…って 騙されないわよ！\n"
 "\n"
 "勇者様は [Color name=\"red\"]伝説の剣[Color name=\"unset\"]を持ってるって話 知ってる？\n"
 "あなた 持ってないじゃない！"
 
 #, ruby
 msgid "FirstGoodBye00"
-msgstr "[Sound1 unk1=\"4\" unk2=\"2\"]待って！"
+msgstr "[Sound1 bytes=\"0402\"]待って！"
 
 #, ruby
 msgid "0000"
@@ -55,14 +55,14 @@ msgstr "勇者様って？"
 
 #, ruby
 msgid "Run_Rain00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]ここじゃ 雨にぬれちゃうわ…"
+msgstr "[Sound1 bytes=\"030C\"]ここじゃ 雨にぬれちゃうわ…"
 
 #, ruby
 msgid "NoSword01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]やっぱり あなたなのね！\n"
+"[Sound1 bytes=\"0700\"]やっぱり あなたなのね！\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"15\"]…って よく見たら 剣を持ってないじゃない！\n"
+"[Sound1 bytes=\"080F\"]…って よく見たら 剣を持ってないじゃない！\n"
 "\n"
 "勇者様は [Color name=\"red\"]伝説の剣[Color name=\"unset\"]を持ってるって話 知ってる？\n"
 "あなた 偽物ね"
@@ -70,9 +70,9 @@ msgstr ""
 #, ruby
 msgid "FirstGoodBye01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]旅の途中で\n"
+"[Sound1 bytes=\"0001\"]旅の途中で\n"
 "[Color name=\"red\"]伝説の剣[Color name=\"unset\"]を持つという勇者様に出会ったら…\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]わたしは ここで待ってる って伝えてね"
+"[Sound1 bytes=\"0109\"]わたしは ここで待ってる って伝えてね"
 
 #, ruby
 msgid "0001"
@@ -81,8 +81,8 @@ msgstr "伝説の剣って？"
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]あら？\n"
-"わたしの勇者様には 会えたかしら？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0704\"]あら？\n"
+"わたしの勇者様には 会えたかしら？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0002"
 msgstr "さようなら"
@@ -90,11 +90,11 @@ msgstr "さようなら"
 #, ruby
 msgid "MasterTalk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"4\"]あら？\n"
-"わたしの勇者様には 会えたかしら？[Choice2 label1=\"3\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0704\"]あら？\n"
+"わたしの勇者様には 会えたかしら？[Choice2 label1=\"3\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]うふふ…[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"070A\"]うふふ…[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0003"
@@ -103,9 +103,9 @@ msgstr "わたしが勇者です"
 #, ruby
 msgid "MasterTalk01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]うそっ…！\n"
+"[Sound1 bytes=\"0A00\"]うそっ…！\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]あなた… だったのね！\n"
+"[Sound1 bytes=\"0101\"]あなた… だったのね！\n"
 "\n"
 "その剣が 何よりの証拠…\n"
 "会えて うれしいわ！"
@@ -113,60 +113,60 @@ msgstr ""
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]このハイラルに厄災が降りかかった時に\n"
+"[Sound1 bytes=\"0B00\"]このハイラルに厄災が降りかかった時に\n"
 "世界を救ってくれるヒーローよ\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]その背には [Color name=\"red\"]伝説の剣[Color name=\"unset\"]が携えられていて\n"
+"[Sound1 bytes=\"0101\"]その背には [Color name=\"red\"]伝説の剣[Color name=\"unset\"]が携えられていて\n"
 "そりゃもう かっこいいに決まってるわ"
 
 #, ruby
 msgid "MasterTalk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]これ… わたしの気持ちです\n"
+"[Sound1 bytes=\"070A\"]これ… わたしの気持ちです\n"
 "受け取ってください！"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]どこかの森に眠っていて\n"
+"[Sound1 bytes=\"0B00\"]どこかの森に眠っていて\n"
 "勇者様にしか引き抜けないそうよ\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]あー\n"
+"[Sound1 bytes=\"0101\"]あー\n"
 "早く 会いたいなぁ…"
 
 #, ruby
 msgid "MasterTalk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]あー すっきりしたー！\n"
+"[Sound1 bytes=\"000D\"]あー すっきりしたー！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]何か… 会えたら会えたで\n"
+"[Sound1 bytes=\"0B00\"]何か… 会えたら会えたで\n"
 "どうでもよくなってきたわね…\n"
 "よく見たら 全然タイプじゃないし…"
 
 #, ruby
 msgid "MasterTalk02_PorchFull"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]何か わたしの気持ちの品を あげたいけど…\n"
+"[Sound1 bytes=\"0B00\"]何か わたしの気持ちの品を あげたいけど…\n"
 "さすがは勇者様 ポーチがいっぱいなのね！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]また 空きができたら 会いに来てね\n"
+"[Sound1 bytes=\"0101\"]また 空きができたら 会いに来てね\n"
 "わたし 待ってるから！"
 
 msgid "MasterTalk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ごめんなさい！\n"
+"[Sound1 bytes=\"0709\"]ごめんなさい！\n"
 "\n"
 "じゃ そういうことでー！"
 
 #, ruby
 msgid "MasterTalk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]勇者様は お忙しいのでしょう？\n"
+"[Sound1 bytes=\"0B00\"]勇者様は お忙しいのでしょう？\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]こんなところで 油を売ってないで\n"
+"[Sound1 bytes=\"0701\"]こんなところで 油を売ってないで\n"
 "世界を お救いくださいませ"
 
 #, ruby
 msgid "MasterSword00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]うそっ…！\n"
+"[Sound1 bytes=\"0A00\"]うそっ…！\n"
 "\n"
 "その剣が 何よりの証拠…\n"
 "あなたが わたしの勇者様なんでしょ！"
@@ -174,14 +174,14 @@ msgstr ""
 #, ruby
 msgid "MasterSword01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]やっぱり あなたなのね！\n"
+"[Sound1 bytes=\"0700\"]やっぱり あなたなのね！\n"
 "\n"
 "その剣が 何よりの証拠…\n"
 "会えて うれしいわ！"
 
 #, ruby
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]早く わたしの勇者様を見つけて来てね"
+msgstr "[Sound1 bytes=\"0709\"]早く わたしの勇者様を見つけて来てね"
 
 #, ruby
 msgid "1000"

@@ -12,13 +12,13 @@ msgstr "読むのを止める"
 
 #, ruby
 msgid "DiaryFirst"
-msgstr "雪山の日誌を読みますか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "雪山の日誌を読みますか？[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk00"
 msgstr ""
 "ゲルドの雪山に眠る [Color name=\"red\"]勇者の試練[Color name=\"unset\"]\n"
-"その調査の記録を ここに記す[Choice2 label1=\"3\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"その調査の記録を ここに記す[Choice2 label1=\"3\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk01"
@@ -34,7 +34,7 @@ msgstr ""
 "『ゲルドの 雪山の台座に\n"
 "　[Color name=\"red\"]勇者の試練[Color name=\"unset\"]が 眠る』\n"
 "私はついに 文献に書かれていた\n"
-"[Color name=\"red\"]台座[Color name=\"unset\"]の元へ 辿り着いた[PauseShort][Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"red\"]台座[Color name=\"unset\"]の元へ 辿り着いた[PauseShort][Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -54,7 +54,7 @@ msgstr ""
 "この七日間の調査で [Color name=\"red\"]台座[Color name=\"unset\"]が特定の時間だけ\n"
 "淡い光を放つ事は すでに気づいていたが\n"
 "「闇の塊を灯せ」 という事が 何を指すのか\n"
-"全く 見当がついていない[PauseShort][Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"全く 見当がついていない[PauseShort][Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -69,7 +69,7 @@ msgstr ""
 "あと一歩の所まで 迫っているようだ\n"
 "しかし 食糧が底をついてしまった今\n"
 "これ以上 調査を続ける事は 不可能だ\n"
-"「[Color name=\"red\"]闇[Color name=\"unset\"]」とは「[Color name=\"red\"]影[Color name=\"unset\"]」……[Choice2 label1=\"4\" label2=\"5\" selectednum=\"1\" cancelnum=\"1\"]"
+"「[Color name=\"red\"]闇[Color name=\"unset\"]」とは「[Color name=\"red\"]影[Color name=\"unset\"]」……[Choice2 label1=\"4\" label2=\"5\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "やめておこう"

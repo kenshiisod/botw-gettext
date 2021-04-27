@@ -1,30 +1,30 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро.[PauseShort] Доброе, правда ведь?"
+msgstr "[Sound1 bytes=\"0000\"]Доброе утро.[PauseShort] Доброе, правда ведь?"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Здравствуй."
+msgstr "[Sound1 bytes=\"0000\"]Здравствуй."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Добрый вечер.[PauseShort] Или уже ночь?"
+msgstr "[Sound1 bytes=\"0000\"]Добрый вечер.[PauseShort] Или уже ночь?"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Со [Color name=\"blue\"]стражами [Color name=\"unset\"]я сейчас\n"
+"[Sound1 bytes=\"0000\"]Со [Color name=\"blue\"]стражами [Color name=\"unset\"]я сейчас\n"
 "ничего сделать не могу.[PageBreak]Но Черри с удовольствием изготовит\n"
 "тебе древнее снаряжение — в обмен\n"
 "на детали [Color name=\"blue\"]стражей[Color name=\"unset\"]."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Как дела?[PauseShort] Как жизнь?"
+msgstr "[Sound1 bytes=\"0000\"]Как дела?[PauseShort] Как жизнь?"
 
 msgid "TerrorArrow"
 msgstr "Прекрати!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хочешь что-то спросить?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Хочешь что-то спросить?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Добрый день.[PauseShort] Или еще утро?"
+msgstr "[Sound1 bytes=\"0000\"]Добрый день.[PauseShort] Или еще утро?"
 
 msgid "0000"
 msgstr "Кто вы?"
@@ -46,19 +46,19 @@ msgstr "Ох ты ж!"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Это автоматические боевые машины,\n"
+"[Sound1 bytes=\"0601\"]Это автоматические боевые машины,\n"
 "созданные шиика в древности для\n"
-"борьбы с [Color name=\"red\"]Ганоном[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]Они долго хранились под замком\n"
+"борьбы с [Color name=\"red\"]Ганоном[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0900\"]Они долго хранились под замком\n"
 "Хайрул, но сто лет назад [Color name=\"red\"]Ганон[Color name=\"unset\"]\n"
-"взял их под свой контроль.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Я пытаюсь разобраться, как вернуть\n"
+"взял их под свой контроль.[PageBreak][Sound1 bytes=\"0601\"]Я пытаюсь разобраться, как вернуть\n"
 "[Color name=\"blue\"]стражей[Color name=\"unset\"] на нашу сторону."
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Еще вопросы есть?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Еще вопросы есть?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Шрамы, как у тебя, остаются не только\n"
+"[Sound1 bytes=\"0000\"]Шрамы, как у тебя, остаются не только\n"
 "на теле, но и глубоко в сердце..."
 
 msgid "NakedPlayer"
@@ -69,11 +69,11 @@ msgstr "Эй!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"][Color name=\"blue\"]Черри[Color name=\"unset\"] снова работает.[PauseShort] Тебе осталось\n"
+"[Sound1 bytes=\"0009\"][Color name=\"blue\"]Черри[Color name=\"unset\"] снова работает.[PauseShort] Тебе осталось\n"
 "всего лишь уничтожить [Color name=\"red\"]Бедствие[Color name=\"unset\"]."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Счастливо."
+msgstr "[Sound1 bytes=\"0000\"]Счастливо."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAHGAgAAAAAAABUAAAAEAAAAXAAAAF4AAABgAAAAYgAAAGQAAABmAAAAaAAAAGoAAABsAAAAbgAAAKAAAADSAAAABAEAADYBAABoAQAAmgEAAMwBAAD+AQAAMAIAAGICAACUAgAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAATgBwAGMAXwBBAG4AYwBpAGUAbgB0AEQAbwBjAHQAbwByAF8ASABhAHQAZQBuAG8AAABOAHAAYwBfAEEAbgBjAGkAZQBuAHQARABvAGMAdABvAHIAXwBIAGEAdABlAG4AbwAAAE4AcABjAF8AQQBuAGMAaQBlAG4AdABEAG8AYwB0AG8AcgBfAEgAYQB0AGUAbgBvAAAAAAAA"

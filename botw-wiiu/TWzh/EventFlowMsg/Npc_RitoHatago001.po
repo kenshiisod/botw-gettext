@@ -2,55 +2,55 @@ msgid "0002"
 msgstr "就讓給你吧！"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]話說回來，[PauseMid]你又拿到[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]了嗎……？"
+msgstr "[Sound1 bytes=\"0013\"]話說回來，[PauseMid]你又拿到[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]了嗎……？"
 
 msgid "0003"
 msgstr "抱歉……"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"32\"]別急……[PauseMid]別急啦……[PauseMid]\n"
+"[Sound1 bytes=\"0020\"]別急……[PauseMid]別急啦……[PauseMid]\n"
 "先坐下來再說吧。"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]如果還有拿到[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]，\n"
+"[Sound1 bytes=\"0001\"]如果還有拿到[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]，\n"
 "能再拿給老夫嗎……？"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"2\"]嗯嗯……[PauseShort]哦哦……[PauseLong]\n"
+"[Sound1 bytes=\"0602\"]嗯嗯……[PauseShort]哦哦……[PauseLong]\n"
 "就算天候不佳，你還是繼續旅行呢……"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"34\"]這麼大半夜的……[PauseMid]是要過夜嗎……？"
+msgstr "[Sound1 bytes=\"0022\"]這麼大半夜的……[PauseMid]是要過夜嗎……？"
 
 msgid "talk_11"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]嗯……？[PauseMid]怎麼了……？[PauseMid]\n"
+"[Sound1 bytes=\"0413\"]嗯……？[PauseMid]怎麼了……？[PauseMid]\n"
 "你又拿到[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]了嗎……？"
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"2\"]用[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]和[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]煮出的\n"
+"[Sound1 bytes=\"0702\"]用[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]和[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]煮出的\n"
 "[Color name=\"blue\"]咖哩飯[Color name=\"unset\"]真是美味呀……！"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]你願意用[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"][PauseShort]\n"
-"跟我交換[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]嗎……？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]你願意用[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"][PauseShort]\n"
+"跟我交換[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]嗎……？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]謝謝！有了[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]和[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]，\n"
+"[Sound1 bytes=\"070B\"]謝謝！有了[Color name=\"blue\"]鼓隆的調味粉[Color name=\"unset\"]和[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]，\n"
 "又能煮出[Color name=\"blue\"]咖哩飯[Color name=\"unset\"]了……！"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"]來，[PauseShort]這是[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]！"
+msgstr "[Sound1 bytes=\"0701\"]來，[PauseShort]這是[Color name=\"blue\"]海拉魯米[Color name=\"unset\"]！"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]我不會強人所難……[PauseMid]\n"
+"[Sound1 bytes=\"090D\"]我不會強人所難……[PauseMid]\n"
 "畢竟那是旅途中的必備食材……"
 
 msgid "_ReadOnly_MsbtExtras"

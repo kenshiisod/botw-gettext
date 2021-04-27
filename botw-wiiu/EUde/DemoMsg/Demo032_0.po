@@ -41,7 +41,7 @@ msgid "Demo032_0_Text017"
 msgstr "[Animation name=\"Activate\"]Reparaturvorgang abgeschlossen."
 
 msgid "Demo032_0_Text005"
-msgstr "[Animation name=\"CustomGreeting\"][Sound1 unk1=\"0\" unk2=\"1\"]Ka-Tschikka!"
+msgstr "[Animation name=\"CustomGreeting\"][Sound1 bytes=\"0001\"]Ka-Tschikka!"
 
 msgid "Demo032_0_Text018"
 msgstr ""
@@ -50,7 +50,7 @@ msgstr ""
 
 msgid "Demo032_0_Text006"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Hmm...[PauseLong] Irgendwie scheint dir ein wenig\n"
+"[Sound1 bytes=\"0010\"]Hmm...[PauseLong] Irgendwie scheint dir ein wenig\n"
 "die Begeisterung zu fehlen..."
 
 msgid "Demo032_0_Text019"
@@ -59,13 +59,13 @@ msgstr ""
 "abgeschlossen."
 
 msgid "Demo032_0_Text007"
-msgstr "[Sound1 unk1=\"7\" unk2=\"9\"]Hey-ya! [PauseShort]Erledigt!"
+msgstr "[Sound1 bytes=\"0709\"]Hey-ya! [PauseShort]Erledigt!"
 
 msgid "Demo032_0_Text008"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]Leitstein[Color name=\"unset\"]-Sperre aufgehoben!"
+msgstr "[Sound1 bytes=\"0001\"][Color name=\"blue\"]Leitstein[Color name=\"unset\"]-Sperre aufgehoben!"
 
 msgid "Demo032_0_Text009"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Packen wir's an!"
+msgstr "[Sound1 bytes=\"010B\"]Packen wir's an!"
 
 msgid "Demo032_0_Text020"
 msgstr ""
@@ -82,7 +82,7 @@ msgstr ""
 
 msgid "Demo032_0_Text010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Alles klärchen, die Reparatur des\n"
+"[Sound1 bytes=\"0001\"]Alles klärchen, die Reparatur des\n"
 "[Color name=\"blue\"]Shiekah-Steins[Color name=\"unset\"] kann losgehen!"
 
 msgid "Demo032_0_Text023"
@@ -90,7 +90,7 @@ msgstr "[Animation name=\"Activate\"]Du hast ein Modul erhalten."
 
 msgid "Demo032_0_Text011"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Verbesserung des [Color name=\"blue\"]Shiekah-Sensors[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0101\"]Verbesserung des [Color name=\"blue\"]Shiekah-Sensors[Color name=\"unset\"]\n"
 "beginnt...[PauseShort] jetzt!"
 
 msgid "Demo032_0_Text024"
@@ -100,7 +100,7 @@ msgstr ""
 
 msgid "Demo032_0_Text012"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Verbesserung des [Color name=\"blue\"]Bombenmoduls[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0101\"]Verbesserung des [Color name=\"blue\"]Bombenmoduls[Color name=\"unset\"]\n"
 "beginnt...[PauseShort] jetzt!"
 
 msgid "Demo032_0_Text000"
@@ -108,7 +108,7 @@ msgstr "[Animation name=\"Activate\"]Shiekah-Stein erkannt."
 
 msgid "Demo032_0_Text013"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Verbesserung des [Color name=\"blue\"]Stasismoduls[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0101\"]Verbesserung des [Color name=\"blue\"]Stasismoduls[Color name=\"unset\"]\n"
 "beginnt...[PauseShort] jetzt!"
 
 msgid "_ReadOnly_MsbtExtras"

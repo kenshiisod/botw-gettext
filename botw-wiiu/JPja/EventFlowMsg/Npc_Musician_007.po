@@ -5,7 +5,7 @@ msgstr "危ないっ！"
 #, ruby
 msgid "Challenge000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]やぁ またお会いできましたね[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]やぁ またお会いできましたね[PauseShort]\n"
 "海を見に来られたのですか？"
 
 msgid "TerrorFire"
@@ -21,11 +21,11 @@ msgstr "うわーっ！"
 #, ruby
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]えっ？[PauseShort] 勇者の蓄えとは \n"
+"[Sound1 bytes=\"0A14\"]えっ？[PauseShort] 勇者の蓄えとは \n"
 "[Color name=\"blue\"]金ルピー[Color name=\"unset\"]1つ でしたか……[PauseMid]\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]うーん[PauseShort] 勇者といえども \n"
+"[Sound1 bytes=\"0510\"]うーん[PauseShort] 勇者といえども \n"
 "大金持ちでは なかったみたいですね……[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]でも 大金には違いありません[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]でも 大金には違いありません[PauseShort]\n"
 "どうぞ 大事に使ってください"
 
 msgid "_ReadOnly_MsbtExtras"

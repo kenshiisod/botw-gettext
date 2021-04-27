@@ -1,39 +1,39 @@
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]我肚子餓了！"
+msgstr "[Sound1 bytes=\"0900\"]我肚子餓了！"
 
 msgid "Near01"
 msgstr "吃飯了～"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]我敢吃蔬菜喔！\n"
+"[Sound1 bytes=\"0700\"]我敢吃蔬菜喔！\n"
 "很棒吧～？"
 
 msgid "Near_Sleep00"
 msgstr "呼……呼……"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]溼答答的～"
+msgstr "[Sound1 bytes=\"0900\"]溼答答的～"
 
 msgid "Near_Sleep01"
 msgstr "[Sound2 id=\"32\"]呼啊……"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]雨能快點停嗎～"
+msgstr "[Sound1 bytes=\"0000\"]雨能快點停嗎～"
 
 msgid "Near_RunRain00"
 msgstr "下雨了～"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]我要睡了～"
+msgstr "[Sound1 bytes=\"0922\"]我要睡了～"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]吃得好飽……[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]吃得好飽……[PauseMid]\n"
 "唔嗯唔嗯……"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]什麼事？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B00\"]什麼事？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "妳在做什麼？"
@@ -43,11 +43,11 @@ msgstr "沒事"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]賽跑！\n"
+"[Sound1 bytes=\"0700\"]賽跑！\n"
 "大哥哥也要加入嗎？"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]討厭！"
+msgstr "[Sound1 bytes=\"0800\"]討厭！"
 
 msgid "Near00"
 msgstr "呀～呀～"

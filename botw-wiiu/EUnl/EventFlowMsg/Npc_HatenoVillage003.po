@@ -1,64 +1,64 @@
 msgid "talk02"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Goedenavond."
+msgstr "[Sound1 bytes=\"0102\"]Goedenavond."
 
 msgid "talk15"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]Welkom... [PauseShort]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]Welkom... [PauseShort]Zzz...[Size percent=\"100\"]"
 
 msgid "near00"
 msgstr "[Sound2 id=\"1\"]Hé, jongeman!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ik ga naar bed,[PauseShort] maar de winkel blijft\n"
+"[Sound1 bytes=\"0002\"]Ik ga naar bed,[PauseShort] maar de winkel blijft\n"
 "open. Neem dus gerust een kijkje."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]O... [PauseShort]De [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]![PauseLong] Het [Color name=\"blue\"]hoofd [Color name=\"unset\"]van het\n"
+"[Sound1 bytes=\"0414\"]O... [PauseShort]De [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]![PauseLong] Het [Color name=\"blue\"]hoofd [Color name=\"unset\"]van het\n"
 "[Color name=\"blue\"]instituut [Color name=\"unset\"]liep er ook vaak mee rond."
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]O...[PauseShort] De [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]![PauseLong] Daar liep oma\n"
+"[Sound1 bytes=\"0413\"]O...[PauseShort] De [Color name=\"blue\"]blauwe vlam[Color name=\"unset\"]![PauseLong] Daar liep oma\n"
 "Purah vroeger heel vaak mee rond."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]Ja, die [Color name=\"blue\"]vlam [Color name=\"unset\"]ken ik.[PauseLong] Oma Purah liep er\n"
+"[Sound1 bytes=\"0019\"]Ja, die [Color name=\"blue\"]vlam [Color name=\"unset\"]ken ik.[PauseLong] Oma Purah liep er\n"
 "vaak mee rond!"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Wat een weer..."
+msgstr "[Sound1 bytes=\"0301\"]Wat een weer..."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]Ja, die [Color name=\"blue\"]vlam[Color name=\"unset\"] ken ik wel.[PauseLong] Het [Color name=\"blue\"]hoofd [Color name=\"unset\"]van het\n"
+"[Sound1 bytes=\"0019\"]Ja, die [Color name=\"blue\"]vlam[Color name=\"unset\"] ken ik wel.[PauseLong] Het [Color name=\"blue\"]hoofd [Color name=\"unset\"]van het\n"
 "[Color name=\"blue\"]instituut [Color name=\"unset\"]liep er vaak mee rond."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]De [Color name=\"blue\"]Oostenwind [Color name=\"unset\"]is vandaag ook geopend!"
+msgstr "[Sound1 bytes=\"0009\"]De [Color name=\"blue\"]Oostenwind [Color name=\"unset\"]is vandaag ook geopend!"
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ik ga naar bed![PauseLong] Als je wilt praten, kan dat\n"
+"[Sound1 bytes=\"0002\"]Ik ga naar bed![PauseLong] Als je wilt praten, kan dat\n"
 "best tot later wachten."
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Maar de [Color name=\"blue\"]Oostenwind [Color name=\"unset\"]is ook vandaag weer\n"
+"[Sound1 bytes=\"0009\"]Maar de [Color name=\"blue\"]Oostenwind [Color name=\"unset\"]is ook vandaag weer\n"
 "open!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Neem gerust de tijd om rond te kijken!"
+msgstr "[Sound1 bytes=\"0001\"]Neem gerust de tijd om rond te kijken!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Wat een prachtig weer!"
+msgstr "[Sound1 bytes=\"0001\"]Wat een prachtig weer!"
 
 msgid "0000"
 msgstr "Wat voor zaak is dit?"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Kan ik iets voor je doen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Kan ik iets voor je doen?[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0001"
 msgstr "Wie ben jij?"
@@ -67,19 +67,19 @@ msgid "0002"
 msgstr "Tot ziens."
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]I-... [PauseShort]Ik?"
+msgstr "[Sound1 bytes=\"0A00\"]I-... [PauseShort]Ik?"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Ja![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0002\"]Ja![Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Ja, [PauseShort]ik zal mezelf zo vaak voorstellen als\n"
+"[Sound1 bytes=\"0600\"]Ja, [PauseShort]ik zal mezelf zo vaak voorstellen als\n"
 "nodig!"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"9\"]Dit is de [Color name=\"blue\"]Oostenwind[Color name=\"unset\"]![PauseShort] We zijn vandaag\n"
+"[Sound1 bytes=\"0609\"]Dit is de [Color name=\"blue\"]Oostenwind[Color name=\"unset\"]![PauseShort] We zijn vandaag\n"
 "open, dus wees welkom![PageBreak]We verkopen hier van alles! Van groente\n"
 "en fruit tot mijn vaders zelfgemaakte\n"
 "wapens!\n"
@@ -89,26 +89,26 @@ msgstr ""
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Aangenaam kennis te... nemen?[PauseLong] Of is het\n"
-"'maken'?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Hoe dan ook... Hallo!"
+"[Sound1 bytes=\"0B01\"]Aangenaam kennis te... nemen?[PauseLong] Of is het\n"
+"'maken'?[PageBreak][Sound1 bytes=\"0101\"]Hoe dan ook... Hallo!"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Tot ziens!"
+msgstr "[Sound1 bytes=\"0000\"]Tot ziens!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Aangenaam... kennis te maken![PageBreak][Sound1 unk1=\"1\" unk2=\"10\"]Zo, het is eruit!"
+msgstr "[Sound1 bytes=\"0601\"]Aangenaam... kennis te maken![PageBreak][Sound1 bytes=\"010A\"]Zo, het is eruit!"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Goedemorgen!"
+msgstr "[Sound1 bytes=\"0102\"]Goedemorgen!"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ik...[PauseShort] ik heet Ivee!"
+msgstr "[Sound1 bytes=\"0001\"]Ik...[PauseShort] ik heet Ivee!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Hallo!"
+msgstr "[Sound1 bytes=\"0102\"]Hallo!"
 
 msgid "talk14"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"33\"]De winkel is... [PauseShort]open... [PauseShort]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0021\"]De winkel is... [PauseShort]open... [PauseShort]Zzz...[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "EQAAAAHGBAAAAAAAAB0AAAAEAAAAfAAAAKYAAACoAAAAqgAAAKwAAADWAAAAAAEAACoBAABUAQAAfgEAAKgBAADSAQAA/AEAACYCAABQAgAAegIAAKQCAADOAgAA+AIAACIDAABMAwAAdgMAAKADAADKAwAA9AMAAB4EAABIBAAAcgQAAJwEAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAAAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAEgAYQB0AGUAbgBvAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAA="

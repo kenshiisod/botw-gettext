@@ -1,5 +1,5 @@
 msgid "talk_09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Sei strambo come un pesce su una duna."
+msgstr "[Sound1 bytes=\"0000\"]Sei strambo come un pesce su una duna."
 
 msgid "0001"
 msgstr "Deserto?"
@@ -12,63 +12,63 @@ msgstr "Da dove vieni?"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ah, il clima qui è davvero perfetto, non\n"
+"[Sound1 bytes=\"0000\"]Ah, il clima qui è davvero perfetto, non\n"
 "credi? È completamente diverso da\n"
 "quello del deserto!\n"
-"Sei qui in vacanza?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"Sei qui in vacanza?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]Savotta."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]Savotta."
 
 msgid "talk_11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]Savaaq."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]Savaaq."
 
 msgid "talk_01"
 msgstr "Zzz..."
 
 msgid "talk_12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]Sav'saaba."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]Sav'saaba."
 
 msgid "talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]La vedi quell'isola laggiù? Si chiama \n"
+"[Sound1 bytes=\"0000\"]La vedi quell'isola laggiù? Si chiama \n"
 "[Color name=\"blue\"]isola di Terrafinita[Color name=\"unset\"].[PauseShort] Sono venuta fin qui\n"
 "per cercare un modo di arrivarci."
 
 msgid "talk_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Io sono venuta fin qui perché\n"
+"[Sound1 bytes=\"0000\"]Io sono venuta fin qui perché\n"
 "voglio andare sull'isola a est.\n"
 "\n"
 "Si chiama [Color name=\"blue\"]isola di Terrafinita[Color name=\"unset\"]."
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Ah, se solo avessi le [Color name=\"red\"]ali[Color name=\"unset\"]...[PauseShort]"
+msgstr "[Sound1 bytes=\"0B00\"]Ah, se solo avessi le [Color name=\"red\"]ali[Color name=\"unset\"]...[PauseShort]"
 
 msgid "talk_04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Sembra molto difficile da raggiungere via\n"
+"[Sound1 bytes=\"0B00\"]Sembra molto difficile da raggiungere via\n"
 "mare.[PauseShort] Da quello che ho capito, si fa\n"
 "prima a farsi crescere delle [Color name=\"red\"]ali[Color name=\"unset\"]!"
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Uffa, io odio la pioggia.\n"
+"[Sound1 bytes=\"0900\"]Uffa, io odio la pioggia.\n"
 "Quanto mi manca il confortevole\n"
-"clima secco del deserto![Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"clima secco del deserto![Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near00"
 msgstr "È così lontana..."
 
 msgid "talk_06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]Ah, capisco. Io...[PauseShort]"
+msgstr "[Sound1 bytes=\"0604\"]Ah, capisco. Io...[PauseShort]"
 
 msgid "Near01"
 msgstr "No! Piove ancora!"
 
 msgid "talk_07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"4\"]Io vengo dalla cittadella Gerudo.\n"
+"[Sound1 bytes=\"0604\"]Io vengo dalla cittadella Gerudo.\n"
 "È un insediamento che si trova nel\n"
 "bel mezzo del deserto."
 
@@ -77,7 +77,7 @@ msgstr "Uff..."
 
 msgid "talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Provengo dalla cittadella Gerudo.\n"
+"[Sound1 bytes=\"0000\"]Provengo dalla cittadella Gerudo.\n"
 "È un posto circondato dal deserto\n"
 "e lì non piove mai.\n"
 "Qui all'inizio mi piaceva, ma da quando\n"

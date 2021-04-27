@@ -1,6 +1,6 @@
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Ach, probier's doch einfach mal aus![PauseMid]\n"
+"[Sound1 bytes=\"0109\"]Ach, probier's doch einfach mal aus![PauseMid]\n"
 "Macht Laune! Wirst schon sehen!"
 
 msgid "0003"
@@ -8,34 +8,34 @@ msgstr "Nicht mein Fall."
 
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Mein Kollege steht da drüben unter dem\n"
+"[Sound1 bytes=\"0601\"]Mein Kollege steht da drüben unter dem\n"
 "Baum![PauseShort] Lass dir von ihm alles erklären!"
 
 msgid "Talk_03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Und los geht's![Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0601\"]Und los geht's![Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Was ist denn los?[PauseShort] Jetzt sei mal nicht so.[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]Was ist denn los?[PauseShort] Jetzt sei mal nicht so.[PauseShort]\n"
 "Na gut, lass es mich wissen, wenn du in\n"
 "der Stimmung für etwas Spaß bist!"
 
 msgid "Talk_05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Ja![PauseShort] Das wollte ich hören!"
+msgstr "[Sound1 bytes=\"010B\"]Ja![PauseShort] Das wollte ich hören!"
 
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Ahoi, Kumpel![PauseShort]\n"
+"[Sound1 bytes=\"0102\"]Ahoi, Kumpel![PauseShort]\n"
 "Du willst noch etwas [Color name=\"red\"]Schildschlittern[Color name=\"unset\"]?"
 
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Ahoi, Kumpel![PauseShort] Jetzt willst du aber\n"
-"[Color name=\"red\"]Schildschlittern[Color name=\"unset\"], oder?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Ahoi, Kumpel![PauseShort] Jetzt willst du aber\n"
+"[Color name=\"red\"]Schildschlittern[Color name=\"unset\"], oder?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Mein Kollege steht unter dem Baum da\n"
+"[Sound1 bytes=\"0601\"]Mein Kollege steht unter dem Baum da\n"
 "drüben!"
 
 msgid "0000"
@@ -43,7 +43,7 @@ msgstr "Was soll das sein?"
 
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Ahoi, Kumpel![PauseShort] \n"
+"[Sound1 bytes=\"0102\"]Ahoi, Kumpel![PauseShort] \n"
 "Ich hab's schon von [Color name=\"blue\"]Russel[Color name=\"unset\"] gehört.[PauseShort]\n"
 "Du willst weiter [Color name=\"red\"]Schildschlittern[Color name=\"unset\"], oder?"
 
@@ -55,8 +55,8 @@ msgstr "Ich doch nicht."
 
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Ahoi, Kumpel![PauseShort] Bist du zufällig zum\n"
-"[Color name=\"red\"]Schildschlittern [Color name=\"unset\"]hier?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Ahoi, Kumpel![PauseShort] Bist du zufällig zum\n"
+"[Color name=\"red\"]Schildschlittern [Color name=\"unset\"]hier?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Alles klar!"

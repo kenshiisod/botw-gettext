@@ -1,6 +1,6 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]안녕! 또 만났네용~![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]이 차림으로 이 추위는 솔직히 힘들어용……[PauseMid]\n"
+"[Sound1 bytes=\"0102\"]안녕! 또 만났네용~![PageBreak][Sound1 bytes=\"0001\"]이 차림으로 이 추위는 솔직히 힘들어용……[PauseMid]\n"
 "하지만! 여행자 가는 곳에 테리도 간다! 에용!"
 
 msgid "TerrorArrow"
@@ -43,7 +43,7 @@ msgid "ClearTerrorGuardian"
 msgstr "무서웠어용…"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]추워용……"
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]추워용……"
 
 msgid "TerrorImpulse"
 msgstr "오오우!"

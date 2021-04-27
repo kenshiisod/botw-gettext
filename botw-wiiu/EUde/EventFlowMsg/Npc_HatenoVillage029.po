@@ -1,42 +1,42 @@
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Ich hab gedacht, du bist einer von den\n"
+"[Sound1 bytes=\"0001\"]Ich hab gedacht, du bist einer von den\n"
 "Jungs, die Spion spielen...[PageBreak]Aber hör mir trotzdem zu!"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Im [Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"] wohnt ein junges\n"
+"[Sound1 bytes=\"0001\"]Im [Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"] wohnt ein junges\n"
 "[Color name=\"red\"]Mädchen[Color name=\"unset\"]![PageBreak]Ich habe dort ein [Color name=\"red\"]Mädchen[Color name=\"unset\"] rauskommen\n"
-"sehen![PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]Die Erwachsenen wollen mir nicht\n"
+"sehen![PageBreak][Sound1 bytes=\"0900\"]Die Erwachsenen wollen mir nicht\n"
 "glauben...[PauseShort] Aber ich habe da wirklich\n"
 "ein [Color name=\"red\"]Mädchen [Color name=\"unset\"]gesehen!\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Alle sagen, dass dort nur ein alter Mann\n"
-"und eine alte Frau leben...[PageBreak][Sound1 unk1=\"9\" unk2=\"0\"]Und dass ich mir das [Color name=\"red\"]Shiekah-Mädchen[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0001\"]Alle sagen, dass dort nur ein alter Mann\n"
+"und eine alte Frau leben...[PageBreak][Sound1 bytes=\"0900\"]Und dass ich mir das [Color name=\"red\"]Shiekah-Mädchen[Color name=\"unset\"]\n"
 "nur einbilde... Keiner glaubt mir!"
 
 msgid "near00"
 msgstr "Oh..."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]Ich werde langsam müde..."
+msgstr "[Sound1 bytes=\"0322\"]Ich werde langsam müde..."
 
 msgid "near01"
 msgstr "Wie schön..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]Bis morgen..."
+msgstr "[Sound1 bytes=\"0322\"]Bis morgen..."
 
 msgid "near02"
 msgstr "..."
 
 msgid "talk08"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]Im [Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"]... ein [Color name=\"red\"]Mädchen[Color name=\"unset\"]...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"]Im [Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"]... ein [Color name=\"red\"]Mädchen[Color name=\"unset\"]...[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "Ach..."
 
 msgid "talk09"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]Zzz...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"]Zzz...[Size percent=\"100\"]"
 
 msgid "near04"
 msgstr "Zzz...Zzz..."
@@ -46,8 +46,8 @@ msgstr "Hah!"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]Ich wäre gern mit dem [Color name=\"red\"]Mädchen[Color name=\"unset\"] aus dem\n"
-"[Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"] befreundet.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Die Jungs, die Spion spielen, halten mich\n"
+"[Sound1 bytes=\"0500\"]Ich wäre gern mit dem [Color name=\"red\"]Mädchen[Color name=\"unset\"] aus dem\n"
+"[Color name=\"blue\"]Hateno-Institut[Color name=\"unset\"] befreundet.[PageBreak][Sound1 bytes=\"0001\"]Die Jungs, die Spion spielen, halten mich\n"
 "auf dem Laufenden, aber bisher ist sie\n"
 "noch nicht herausgekommen..."
 
@@ -56,7 +56,7 @@ msgstr "Wen?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"6\"]Sag mal, wo kriegt man so ein blaues\n"
+"[Sound1 bytes=\"0506\"]Sag mal, wo kriegt man so ein blaues\n"
 "Ding?"
 
 msgid "0001"
@@ -64,11 +64,11 @@ msgstr "Redest du mit mir?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Wie du so damit rumläufst...\n"
+"[Sound1 bytes=\"0700\"]Wie du so damit rumläufst...\n"
 "Sieht fast aus wie ein Stern..."
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Es ist wahr! Ich hab sie gesehen![PageBreak]...[PageBreak][Sound1 unk1=\"10\" unk2=\"0\"]Ah, tut mir leid...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0800\"]Es ist wahr! Ich hab sie gesehen![PageBreak]...[PageBreak][Sound1 bytes=\"0A00\"]Ah, tut mir leid...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAH0AgAAAAAAABIAAAAEAAAAUAAAAHoAAACkAAAAzgAAAPgAAAAiAQAATAEAAE4BAABQAQAAegEAAKQBAADOAQAA+AEAACICAABMAgAAdgIAAKACAADKAgAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAAAAAA=="

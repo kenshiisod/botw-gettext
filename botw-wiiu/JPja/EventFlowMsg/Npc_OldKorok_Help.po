@@ -4,7 +4,7 @@ msgstr "さようなら"
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]マラカス 取り返してくれて ありがとう♪\n"
+"[Sound1 bytes=\"0000\"]マラカス 取り返してくれて ありがとう♪\n"
 "\n"
 "キミちんを見送ったら[PauseShort]\n"
 "コログの森に 帰るとするよ～"
@@ -12,7 +12,7 @@ msgstr ""
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]コログの森はぁ…[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]コログの森はぁ…[PauseShort]\n"
 "とにかく北にあるよぉ～\n"
 "[Color name=\"red\"]お爺ちゃん[Color name=\"unset\"]が[PauseShort]\n"
 "「迷子になったら [Color name=\"blue\"]ハイリア川[Color name=\"unset\"]沿いに北に進め」\n"
@@ -24,7 +24,7 @@ msgstr "キュン…"
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ボクちん [PauseLong]ボックリ～ン♪\n"
+"[Sound1 bytes=\"0000\"]ボクちん [PauseLong]ボックリ～ン♪\n"
 "\n"
 "コログの森の 音楽家さぁ～♪\n"
 "\n"
@@ -33,28 +33,28 @@ msgstr ""
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]あらっ？ [PauseShort]あらあらっ？[PauseLong] そういえば\n"
+"[Sound1 bytes=\"0013\"]あらっ？ [PauseShort]あらあらっ？[PauseLong] そういえば\n"
 "ちゃんと 自己紹介してなかったねぇ～？"
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"26\"]ふ～わっ [PauseShort]ふ～わっ[PauseLong]\n"
+"[Sound1 bytes=\"071A\"]ふ～わっ [PauseShort]ふ～わっ[PauseLong]\n"
 "ふわふわっ ふぅ～♪"
 
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]コログのミ[Color name=\"unset\"]ってのはぁ～[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]コログのミ[Color name=\"unset\"]ってのはぁ～[PauseShort]\n"
 "コログの子供達のぉ… [PauseShort]ちょっと硬いぃ…\n"
 "…\n"
 "\n"
-"[Animation name=\"CustomSurpriseS\"][Sound1 unk1=\"0\" unk2=\"1\"]これ以上は 大きい声では言えないかなぁ～"
+"[Animation name=\"CustomSurpriseS\"][Sound1 bytes=\"0001\"]これ以上は 大きい声では言えないかなぁ～"
 
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]そ れ と もぉ～…[PauseShort]\n"
-"もうちょっとお話 する？[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0601\"]そ れ と もぉ～…[PauseShort]\n"
+"もうちょっとお話 する？[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0000"
@@ -62,7 +62,7 @@ msgstr "コログの森って？"
 
 #, ruby
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]キュルン♪ [PauseLong]まだまだ お話しちゃう？[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]キュルン♪ [PauseLong]まだまだ お話しちゃう？[Choice4Flags label1=\"0\" label2=\"1\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0001"
 msgstr "あなたは？"
@@ -70,14 +70,14 @@ msgstr "あなたは？"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"2\"]コログのミ[Color name=\"unset\"] 集めて[PauseShort]\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0002\"]コログのミ[Color name=\"unset\"] 集めて[PauseShort]\n"
 "コログの森まで 会いに来てね♪"
 
 msgid "0002"
 msgstr "コログのミって？"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]バイ バァ～～～イ♪"
+msgstr "[Sound1 bytes=\"0000\"]バイ バァ～～～イ♪"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAHYAQAAAAAAAA8AAAAEAAAARAAAAGgAAABqAAAAbAAAAG4AAABwAAAAlAAAALgAAADcAAAAAAEAACQBAABIAQAAbAEAAJABAAC0AQAATgBwAGMAXwBPAGwAZABLAG8AcgBvAGsAXwBIAGUAbABwAAAAAAAAAAAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAABOAHAAYwBfAE8AbABkAEsAbwByAG8AawBfAEgAZQBsAHAAAAAAAAA="

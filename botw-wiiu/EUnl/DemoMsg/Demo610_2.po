@@ -16,7 +16,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]Hm? Medereiziger...[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]Hm? Medereiziger...[PauseShort]\n"
 "Wat brengt jou hier?[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
@@ -27,12 +27,12 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Ik kan het voelen... Mijn meester heeft\n"
+"[Sound1 bytes=\"030C\"]Ik kan het voelen... Mijn meester heeft\n"
 "ditzelfde lied op deze plek gezongen..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Tja, ik denk dat iedereen zijn eigen\n"
+"[Sound1 bytes=\"0001\"]Tja, ik denk dat iedereen zijn eigen\n"
 "redenen heeft om te reizen..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
@@ -42,7 +42,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]O, kon ik maar in de voetsporen van mijn\n"
+"[Sound1 bytes=\"0101\"]O, kon ik maar in de voetsporen van mijn\n"
 "meester treden en het voltooide lied\n"
 "zingen."
 
@@ -56,30 +56,30 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Daarvoor moet ik meer te weten komen\n"
+"[Sound1 bytes=\"0001\"]Daarvoor moet ik meer te weten komen\n"
 "over de Uitverkorenen..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]Ah, wat een vreugde! Wat heerlijk om\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]Ah, wat een vreugde! Wat heerlijk om\n"
 "dit lied te zingen in het land zelf..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Gelukkig hebben de [Color name=\"blue\"]koning [Color name=\"unset\"]en de [Color name=\"blue\"]prins\n"
+"[Sound1 bytes=\"0000\"]Gelukkig hebben de [Color name=\"blue\"]koning [Color name=\"unset\"]en de [Color name=\"blue\"]prins\n"
 "van de Zora's[Color name=\"unset\"] me iets interessants over\n"
 "de Uitverkorene verteld."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]Ik ken een lied dat mijn meester me\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]Ik ken een lied dat mijn meester me\n"
 "heeft geleerd... Het is een vers ter ere\n"
 "van de [Color name=\"blue\"]Uitverkorene Mipha[Color name=\"unset\"]...\n"
 "[PauseAuto frames=\"40\"]Ik zal het voor je zingen."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]Het doel van mijn reis is het voltooide\n"
+"[Sound1 bytes=\"0018\"]Het doel van mijn reis is het voltooide\n"
 "lied te kunnen zingen."
 
 msgid "_ReadOnly_MsbtExtras"

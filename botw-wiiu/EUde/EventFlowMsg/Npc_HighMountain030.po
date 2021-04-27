@@ -18,40 +18,40 @@ msgstr "Der Orni-Dorn"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Wenn ich ein geübter Krieger wäre,\n"
+"[Sound1 bytes=\"0B00\"]Wenn ich ein geübter Krieger wäre,\n"
 "würde ich das Ding einfach frontal\n"
 "angreifen..."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"6\"]Wie bitte?![PauseShort]\n"
+"[Sound1 bytes=\"0406\"]Wie bitte?![PauseShort]\n"
 "Ich rede doch von dir!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]Sag bloß, dieses riesige Monster\n"
+"[Sound1 bytes=\"0201\"]Sag bloß, dieses riesige Monster\n"
 "am Himmel, [Color name=\"blue\"]Vah Medoh[Color name=\"unset\"], ist dir nicht\n"
 "aufgefallen!?\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Dem haben wir es zu verdanken, dass\n"
+"[Sound1 bytes=\"0001\"]Dem haben wir es zu verdanken, dass\n"
 "hier alle ausflippen."
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]ZZZzzz..."
+msgstr "[Sound1 bytes=\"0021\"]ZZZzzz..."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hmpf..."
+msgstr "[Sound1 bytes=\"0004\"]Hmpf..."
 
 msgid "0030"
 msgstr "die Mittagssonn'"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]Bella hat dir also gesagt, du sollst mich\n"
+"[Sound1 bytes=\"0414\"]Bella hat dir also gesagt, du sollst mich\n"
 "nach der zweiten Hälfte dieses alten\n"
 "Orni-Lieds fragen?\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Die hat wirklich ein Spatzenhirn...[PageBreak]Na gut, ich sing's dir vor...\n"
-"[PauseLong]Unter einer Bedingung![PageBreak][Sound1 unk1=\"0\" unk2=\"9\"]Du musst mir die erste Hälfte fehlerfrei\n"
-"vortragen. Auswendig![Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Die hat wirklich ein Spatzenhirn...[PageBreak]Na gut, ich sing's dir vor...\n"
+"[PauseLong]Unter einer Bedingung![PageBreak][Sound1 bytes=\"0009\"]Du musst mir die erste Hälfte fehlerfrei\n"
+"vortragen. Auswendig![Choice2 label1=\"44\" label2=\"45\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near01"
 msgstr "Puh..."
@@ -61,9 +61,9 @@ msgstr "die Abendsonn'"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Du willst wissen, wie dieses Lied\n"
+"[Sound1 bytes=\"0000\"]Du willst wissen, wie dieses Lied\n"
 "weitergeht?[PageBreak]Dann sing mir erst mal die erste\n"
-"Hälfte vor.[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+"Hälfte vor.[Choice2 label1=\"44\" label2=\"45\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near02"
 msgstr "Tuuurm... ♪"
@@ -72,7 +72,7 @@ msgid "0032"
 msgstr "die Morgensonn'"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Du bist nicht sehr musikalisch, was?"
+msgstr "[Sound1 bytes=\"030C\"]Du bist nicht sehr musikalisch, was?"
 
 msgid "near03"
 msgstr "..."
@@ -81,72 +81,72 @@ msgid "0033"
 msgstr "die Finstersonn'"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Gut, dann los![Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]Gut, dann los![Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "near04"
 msgstr "ZZZzzz..."
 
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Du bist sicher nicht zum Spaß hier, oder?\n"
+"[Sound1 bytes=\"0006\"]Du bist sicher nicht zum Spaß hier, oder?\n"
 "Du willst wissen, wie das alte Orni-Lied\n"
-"weitergeht?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"weitergeht?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Ja."
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]Soll ich dir das alte Orni-Lied vorsingen?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0013\"]Soll ich dir das alte Orni-Lied vorsingen?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "Nein."
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Du drängst mich so, dass ich fast aus\n"
+"[Sound1 bytes=\"0001\"]Du drängst mich so, dass ich fast aus\n"
 "Trotz Nein sagen will...[PauseLong]\n"
 "Aber gut, bin ich mal nicht so."
 
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]Der Orni-Turm, [Pause frames=\"20\"]schlank und schwarz,[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0001\"][01:01 bytes=\"9A99993E\"]Der Orni-Turm, [Pause frames=\"20\"]schlank und schwarz,[Pause frames=\"20\"]\n"
 "die Mittagssonn' enthüllt sein Herz.[Pause frames=\"5\"]"
 
 msgid "talk34"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]...Das ist das ganze Lied.[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]...Das ist das ganze Lied.[PauseMid]\n"
 "Klingt bedeutungsschwanger, was?"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]...Morgen."
+msgstr "[Sound1 bytes=\"0000\"]...Morgen."
 
 msgid "0005"
 msgstr "Wovon redest du?"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hallo."
+msgstr "[Sound1 bytes=\"0000\"]Hallo."
 
 msgid "0006"
 msgstr "Total verrückt."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]'n Abend."
+msgstr "[Sound1 bytes=\"0000\"]'n Abend."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Verstehe..."
+msgstr "[Sound1 bytes=\"0000\"]Verstehe..."
 
 msgid "0020"
 msgstr "alt und grün"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"10\" unk2=\"22\"]Du bist ja fast nackig![PageBreak]Wenn du näher kommst,[PauseShort] schreie ich!"
+msgstr "[Sound1 bytes=\"0A16\"]Du bist ja fast nackig![PageBreak]Wenn du näher kommst,[PauseShort] schreie ich!"
 
 msgid "0021"
 msgstr "hoch und blau"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]Ich schlafe schon halb.[PauseLong]\n"
+"[Sound1 bytes=\"000C\"]Ich schlafe schon halb.[PauseLong]\n"
 "Sprich mich morgen noch mal an."
 
 msgid "0022"
@@ -154,59 +154,59 @@ msgstr "dick und drall"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Um in Zeiten von Ungeheuern wie\n"
+"[Sound1 bytes=\"0001\"]Um in Zeiten von Ungeheuern wie\n"
 "Vah Medoh auf Abenteuersuche zu\n"
-"gehen, muss man doch verrückt sein![Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+"gehen, muss man doch verrückt sein![Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0023"
 msgstr "schlank und schwarz"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]Wovon ich rede?"
+msgstr "[Sound1 bytes=\"0406\"]Wovon ich rede?"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Dank dieses [Color name=\"blue\"]Vah Medoh[Color name=\"unset\"] ist das ganze\n"
+"[Sound1 bytes=\"0001\"]Dank dieses [Color name=\"blue\"]Vah Medoh[Color name=\"unset\"] ist das ganze\n"
 "Dorf in Aufruhr."
 
 msgid "talk20"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"1\" unk2=\"1\"]Vah Medoh[Color name=\"unset\"] hat sich beruhigt, und in\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0101\"]Vah Medoh[Color name=\"unset\"] hat sich beruhigt, und in\n"
 "unserem Dorf ist wieder Frieden\n"
 "eingekehrt."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]Jetzt, wo wir das Dorf endlich wieder\n"
+"[Sound1 bytes=\"010B\"]Jetzt, wo wir das Dorf endlich wieder\n"
 "verlassen können, planen viele schon\n"
 "ihre nächsten Ausflüge."
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Das war falsch.[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]Das war falsch.[PauseLong]\n"
 "Merk dir erst mal den Anfang, bevor\n"
 "du mich nach dem Rest fragst."
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Richtig.[PauseLong] Und weiter?[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]Richtig.[PauseLong] Und weiter?[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Hm.[PauseShort] Korrekt.[PauseLong]\n"
-"Und dann?[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" selectednum=\"0\" cancelnum=\"4\"]"
+"[Sound1 bytes=\"0001\"]Hm.[PauseShort] Korrekt.[PauseLong]\n"
+"Und dann?[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0040"
 msgstr "entzündet seine Kerz'"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Richtig![PauseLong] Und die letzte Zeile?[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]Richtig![PauseLong] Und die letzte Zeile?[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0041"
 msgstr "enthüllt sein Herz"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hm...[PauseShort] Das war alles richtig.[PageBreak][Sound1 unk1=\"0\" unk2=\"4\"]Gut![PauseLong] Dann werde ich dir wie versprochen\n"
+"[Sound1 bytes=\"0000\"]Hm...[PauseShort] Das war alles richtig.[PageBreak][Sound1 bytes=\"0004\"]Gut![PauseLong] Dann werde ich dir wie versprochen\n"
 "den Rest des Lieds beibringen."
 
 msgid "0042"
@@ -214,7 +214,7 @@ msgstr "zeigt seinen Schmerz"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]Das Herz des Turms, [Pause frames=\"20\"]es schläft so fest,[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0001\"][01:01 bytes=\"9A99993E\"]Das Herz des Turms, [Pause frames=\"20\"]es schläft so fest,[Pause frames=\"20\"]\n"
 "dass nur Feuer es erwachen lässt.[Pause frames=\"5\"]"
 
 msgid "0043"
@@ -222,7 +222,7 @@ msgstr "verbrennt sein Erz"
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Das ist die zweite Hälfte des alten\n"
+"[Sound1 bytes=\"0001\"]Das ist die zweite Hälfte des alten\n"
 "Orni-Lieds.[PauseMid][PageBreak]Klingt sehr bedeutungsschwanger, was?"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -1,32 +1,32 @@
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"23\"]いったい 兄ちゃん 何者なんだい？\n"
+"[Sound1 bytes=\"0417\"]いったい 兄ちゃん 何者なんだい？\n"
 "ぜひ これを受け取ってくれ！"
 
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]いやー 兄ちゃん強いんだねえ\n"
+"[Sound1 bytes=\"0104\"]いやー 兄ちゃん強いんだねえ\n"
 "ほんの気持ちだけど 受け取ってくれ"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]やるねえ 兄ちゃん\n"
+"[Sound1 bytes=\"0104\"]やるねえ 兄ちゃん\n"
 "助かったよ\n"
 "ほんの気持ちだけど 受け取ってくれ"
 
 #, ruby
 msgid "Atacked00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]くそっ なんでこんなところに魔物が？！[PauseMid]\n"
+"[Sound1 bytes=\"030D\"]くそっ なんでこんなところに魔物が？！[PauseMid]\n"
 "やっぱり 最近の異変のせいなのか！"
 
 #, ruby
 msgid "Atacked01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]ふう…[PauseMid]\n"
+"[Sound1 bytes=\"000D\"]ふう…[PauseMid]\n"
 "危ない 危ない"
 
 #, ruby
@@ -36,14 +36,14 @@ msgstr "[Sound2 id=\"15\"]ゲルドの街 どこだ…"
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]いやー 兄ちゃん強いんだねえ\n"
+"[Sound1 bytes=\"010B\"]いやー 兄ちゃん強いんだねえ\n"
 "ほんとに 助かったよ\n"
 "お礼をさせてもらうよ"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"13\"]まったく 誰だよ…[PauseMid]\n"
+"[Sound1 bytes=\"090D\"]まったく 誰だよ…[PauseMid]\n"
 "砂漠は魔物も住めない環境だ って言ってたのは\n"
 "そこらじゅう うようよしてやがるじゃねぇか…[PauseShort]\n"
 "これも 最近の異変のせいかねぇ"
@@ -51,81 +51,81 @@ msgstr ""
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]兄ちゃんのおかげで 助かったよ\n"
+"[Sound1 bytes=\"010B\"]兄ちゃんのおかげで 助かったよ\n"
 "ほんとに ありがとう\n"
 "お礼をさせてもらうよ"
 
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]ああぁ… いててて…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]ああぁ… いててて…[PauseMid]\n"
 "なんだよ 砂漠にも普通に魔物いるじゃないか"
 
 #, ruby
 msgid "After00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"35\"]いざ ゲルドの街へ！\n"
+"[Sound1 bytes=\"0723\"]いざ ゲルドの街へ！\n"
 "待ってろよ！ 未来のオレの妻よ！"
 
 #, ruby
 msgid "Meeting00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]えっ？！\n"
+"[Sound1 bytes=\"0A00\"]えっ？！\n"
 "お前が知ってるんじゃないのかよ…"
 
 #, ruby
 msgid "Meeting02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]オレたちは ゲルドの街を目指して\n"
+"[Sound1 bytes=\"0109\"]オレたちは ゲルドの街を目指して\n"
 "旅をしてるんだ\n"
-"[Sound1 unk1=\"3\" unk2=\"1\"]まあ その前に こんな広い砂漠で迷ったら\n"
+"[Sound1 bytes=\"0301\"]まあ その前に こんな広い砂漠で迷ったら\n"
 "ひとたまりもないが…\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]街までたどり着いたら 人生変わるってもんよ！\n"
+"[Sound1 bytes=\"0101\"]街までたどり着いたら 人生変わるってもんよ！\n"
 "ディルが 場所を知っていてよかったぜ！"
 
 #, ruby
 msgid "Meeting03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]いや… オレは街の場所は知らないぜ\n"
+"[Sound1 bytes=\"0013\"]いや… オレは街の場所は知らないぜ\n"
 "相棒が案内してくれるんだろ？"
 
 #, ruby
 msgid "PairFailed00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]ディル… 無事でいてくれ…"
+msgstr "[Sound1 bytes=\"030C\"]ディル… 無事でいてくれ…"
 
 #, ruby
 msgid "PairAtacked00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]仲間がまだ… 魔物に…"
+msgstr "[Sound1 bytes=\"030C\"]仲間がまだ… 魔物に…"
 
 msgid "PairFailed01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]なんてこった… ディルが…"
+msgstr "[Sound1 bytes=\"030C\"]なんてこった… ディルが…"
 
 #, ruby
 msgid "PairAtacked01"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]オレはいいから\n"
+"[Sound1 bytes=\"020E\"]オレはいいから\n"
 "ディルを助けてやってくれ！"
 
 #, ruby
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]オレたちは ゲルドの街を目指して\n"
+"[Sound1 bytes=\"0002\"]オレたちは ゲルドの街を目指して\n"
 "旅をしてるんだ\n"
 "ほら オレたちって イケてるだろ？\n"
 "そこに行けば きっとモテモテだぜ！\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]いくら 兄ちゃんが剣に長けているといっても\n"
+"[Sound1 bytes=\"0109\"]いくら 兄ちゃんが剣に長けているといっても\n"
 "その顔じゃ モテるのは難しいだろうな…"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]兄ちゃんは 命の恩人だ！\n"
+"[Sound1 bytes=\"0109\"]兄ちゃんは 命の恩人だ！\n"
 "ぜひ お礼をさせてくれ！"
 
 #, ruby
 msgid "Guardian00"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"32\"]早く 逃げろ！\n"
+"[Sound1 bytes=\"0220\"]早く 逃げろ！\n"
 "ガーディアンが 来るぞ！"
 
 msgid "_ReadOnly_MsbtExtras"

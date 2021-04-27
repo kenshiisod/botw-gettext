@@ -9,7 +9,7 @@ msgstr ""
 
 msgid "Talk_016"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]My smart man, tell me... You can see it\n"
+"[Sound1 bytes=\"0009\"]My smart man, tell me... You can see it\n"
 "too, yes? I would take a closer look\n"
 "if I could get there on my own."
 
@@ -18,8 +18,8 @@ msgstr "Ah, well if it isn't my smart man."
 
 msgid "Talk_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Hmm?\n"
-"What is it, my smart man?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]Hmm?\n"
+"What is it, my smart man?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_018"
 msgstr ""
@@ -27,11 +27,11 @@ msgstr ""
 "It almost looks man-made, no?"
 
 msgid "Talk_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Hmm... What could it be?"
+msgstr "[Sound1 bytes=\"0004\"]Hmm... What could it be?"
 
 msgid "Talk_019"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]If I was as chock-full of energy as an\n"
+"[Sound1 bytes=\"0009\"]If I was as chock-full of energy as an\n"
 "adventurer, I would climb that cliff\n"
 "and take a closer look in a heartbeat."
 
@@ -58,7 +58,7 @@ msgstr "You look busy."
 
 msgid "Talk_101"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]My smart man...[PauseMid] For inquisitive minds\n"
+"[Sound1 bytes=\"0009\"]My smart man...[PauseMid] For inquisitive minds\n"
 "such as ours, solving a mystery is\n"
 "more important than stable work."
 

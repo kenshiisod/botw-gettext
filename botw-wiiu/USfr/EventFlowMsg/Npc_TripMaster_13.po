@@ -1,9 +1,9 @@
 msgid "talk_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Hé! Comme on s'retrouve!\n"
+"[Sound1 bytes=\"0102\"]Hé! Comme on s'retrouve!\n"
 "\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]Brr, j'ai bien froid dans cette tenue![PauseMid]\n"
+"[Sound1 bytes=\"0001\"]Brr, j'ai bien froid dans cette tenue![PauseMid]\n"
 "Mais Beedle n'est pas du genre à fuir!\n"
 "Toujours au rendez-vous!"
 
@@ -47,7 +47,7 @@ msgid "ClearTerrorGuardian"
 msgstr "[Sound2 id=\"16\"]Ouh, j'ai eu peur..."
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomCold\"]C'qu'il fait froid..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomCold\"]C'qu'il fait froid..."
 
 msgid "TerrorImpulse"
 msgstr "Oh là là!"

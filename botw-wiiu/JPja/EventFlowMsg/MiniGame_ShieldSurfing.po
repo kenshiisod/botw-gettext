@@ -1,7 +1,7 @@
 #, ruby
 msgid "Initial_SunShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "七宝の盾！！[PauseShort] ゲレンデが溶けるほど\n"
 "焦がれた銘品が 今 目の前に…！！"
@@ -12,7 +12,7 @@ msgstr "あ！ さては…！"
 #, ruby
 msgid "Initial_SunShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "七宝の盾！！[PauseShort] ゲレンデが溶けるほど\n"
 "焦がれた銘品が 今 目の前に…！！"
@@ -24,7 +24,7 @@ msgstr "あら こんな山奥に何の用？"
 #, ruby
 msgid "Goal_BadTime_Expert_rupi_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]あらいけない！[PauseShort] この盾は前回\n"
+"[Sound1 bytes=\"0013\"]あらいけない！[PauseShort] この盾は前回\n"
 "あなたに譲ったんだったわね\n"
 "代わりといってはなんだけど\n"
 "このルピーを受け取って頂戴"
@@ -32,15 +32,15 @@ msgstr ""
 #, ruby
 msgid "Goal_BadTime_Expert_rupi_02"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]そんな！ [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
+"[Sound1 bytes=\"0A15\"]そんな！ [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
 "なんて盾サーフィンテクニックなの？！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私以上の逸材だわ…！ あなた！！[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]私以上の逸材だわ…！ あなた！！[PauseShort]\n"
 "プロ盾サーファーを名乗っても良いかもね！"
 
 #, ruby
 msgid "Initial_MoonlightShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "幻の盾… 太陽の盾じゃない！[PauseShort]\n"
 "滅多にお目にかかれない逸品よ…！"
@@ -50,12 +50,12 @@ msgid "AskAboutShieldSurfing_Beginner"
 msgstr ""
 "分かったわ… [PauseShort]じゃあ試験の代わりに\n"
 "あなたに一つ 意気込みを聞かせてもらうわね！\n"
-"[01:01 bytes=\"0000003F\"]あなたにとって [Size percent=\"125\"]盾サーフィン[Size percent=\"100\"]とは？[Choice2 label1=\"12\" label2=\"13\" selectednum=\"0\" cancelnum=\"2\"]"
+"[01:01 bytes=\"0000003F\"]あなたにとって [Size percent=\"125\"]盾サーフィン[Size percent=\"100\"]とは？[Choice2 label1=\"12\" label2=\"13\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Goal_BadTime_Expert_rupi_03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね\n"
+"[Sound1 bytes=\"0109\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね\n"
 "私とほぼ同タイム！ 自慢していい腕前だわ！\n"
 "こんなタイムを出せたのは 他にはリト族だけよ[PauseShort]\n"
 "彼らは [Color name=\"red\"]飛んで[Color name=\"unset\"]近道でもしたんでしょうけどね"
@@ -63,7 +63,7 @@ msgstr ""
 #, ruby
 msgid "AboutGame_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]あら 意外と慎重派なのね[PauseShort]\n"
+"[Sound1 bytes=\"0013\"]あら 意外と慎重派なのね[PauseShort]\n"
 "じゃあ簡単に説明するわよ\n"
 "ここからゴールまでいかに早く滑り降りるか？[PauseShort]\n"
 "いわゆる タイムアタックという競技ね！\n"
@@ -81,7 +81,7 @@ msgstr ""
 #, ruby
 msgid "IfSelectExpertCourse_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]分かったわ 日頃の練習の成果がどれ程のものか[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]分かったわ 日頃の練習の成果がどれ程のものか[PauseShort]\n"
 "しっかりと見せていただこうじゃないの\n"
 "ちなみに上級コースをクリアした暁には\n"
 "クリアタイムごとに記念の盾を贈呈するわよ\n"
@@ -90,7 +90,7 @@ msgstr ""
 #, ruby
 msgid "Goal_BadTime_Expert_rupi_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0006\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "まぁまぁ 並ってところかしら\n"
 "まだコース取りが 甘いんじゃないかしら？[PauseShort]\n"
 "出来るだけスピードに乗ったまま 曲がるのよ"
@@ -98,13 +98,13 @@ msgstr ""
 #, ruby
 msgid "TalkForPay_Beginner"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"25\"]自分の将来に対して投資が出来る[PauseShort]\n"
+"[Sound1 bytes=\"0119\"]自分の将来に対して投資が出来る[PauseShort]\n"
 "アスリートとしての第一歩 [PauseShort]クリアね！"
 
 #, ruby
 msgid "Goal_BadTime_Expert_rupi_05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0010\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "はっきり言って まだまだね\n"
 "雪や砂なんかの上では 盾は[Color name=\"red\"]傷付かない[Color name=\"unset\"]から\n"
 "安物でも 思う存分 練習していけばいいわ"
@@ -112,7 +112,7 @@ msgstr ""
 #, ruby
 msgid "ChangeBeginnerToExpert_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]それじゃ 上級コースでの滑りを見るわね[PauseMid]\n"
+"[Sound1 bytes=\"0019\"]それじゃ 上級コースでの滑りを見るわね[PauseMid]\n"
 "今までよりコースが長いけど 頑張ってね！\n"
 "ちなみに上級コースをクリアした暁には[PauseShort]\n"
 "クリアタイムごとに記念の盾を贈呈するわよ"
@@ -126,15 +126,15 @@ msgstr ""
 #, ruby
 msgid "TellRupee_Beginner"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]ふふふ… [PauseShort]今のあなたの情熱\n"
+"[Sound1 bytes=\"0109\"]ふふふ… [PauseShort]今のあなたの情熱\n"
 "昔の私を思い出すわ！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ただし！ [PauseShort]元・プロの指導なんだから\n"
+"[Sound1 bytes=\"0001\"]ただし！ [PauseShort]元・プロの指導なんだから\n"
 "モチロン タダじゃあないわよ？"
 
 #, ruby
 msgid "ChangeExpertToBeginner_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]それじゃ 初級コースでの滑りを見るわね[PauseMid]\n"
+"[Sound1 bytes=\"0019\"]それじゃ 初級コースでの滑りを見るわね[PauseMid]\n"
 "初心を忘れていないか チェックさせて貰うわよ"
 
 #, ruby
@@ -153,12 +153,12 @@ msgstr ""
 msgid "AskPurpose_Expert"
 msgstr ""
 "今日はどうしたの？ [PauseShort]日頃の練習の成果を\n"
-"私に見せに来てくれたのかしら？[Choice2 label1=\"2\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"私に見せに来てくれたのかしら？[Choice2 label1=\"2\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "GoalBeginnerCourse_BadTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
 "あなたなら もっと上を目指せるハズよ？\n"
 "少しの差かもしれないけど その積み重ねが\n"
 "いつかに繋がるの [PauseShort]取りこぼしちゃダメよ！"
@@ -166,13 +166,13 @@ msgstr ""
 #, ruby
 msgid "Failed_00_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]頑張って… [PauseShort]あなたなら もう少しいけるわよ！[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]頑張って… [PauseShort]あなたなら もう少しいけるわよ！[PauseShort]\n"
 "今の半分ぐらいの時間でゴールできるはずよ？"
 
 #, ruby
 msgid "Goal_CommonTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0006\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "まぁまぁ 並ってところかしら\n"
 "まだコース取りが 甘いんじゃないかしら？[PauseShort]\n"
 "出来るだけスピードに乗ったまま 曲がるのよ"
@@ -190,20 +190,20 @@ msgstr "この盾を使って もっと練習しなさい"
 #, ruby
 msgid "Goal_CommonTime_Expert1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0004\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "一般的には 早いって言われるタイムよ！\n"
 "自信を持って 上を目指してね！"
 
 #, ruby
 msgid "Check_Money00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]モチロン 上級コースの指導もタダじゃないわ！\n"
-"[Color name=\"red\"]20ルピー[Color name=\"unset\"]で引き受けてあげる！[Choice3 label1=\"2\" label2=\"15\" label3=\"16\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]モチロン 上級コースの指導もタダじゃないわ！\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]で引き受けてあげる！[Choice3 label1=\"2\" label2=\"15\" label3=\"16\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "NotHadEnoughRupee"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]授業料が足りないみたいね…！[PauseShort]\n"
+"[Sound1 bytes=\"0B13\"]授業料が足りないみたいね…！[PauseShort]\n"
 "[Color name=\"red\"]20ルピー[Color name=\"unset\"]用意してから 出直してらっしゃい"
 
 #, ruby
@@ -215,7 +215,7 @@ msgstr ""
 #, ruby
 msgid "Goal_CommonTime_Expert2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]！\n"
+"[Sound1 bytes=\"0004\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]！\n"
 "私の記録に 近いタイムだわ！\n"
 "ふふ… なかなかの腕前ね\n"
 "褒めてあげるわ"
@@ -229,17 +229,17 @@ msgstr ""
 #, ruby
 msgid "IfAnswerSurface_Beginner"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]そう… [PauseShort]人生 ねぇ…[PauseMid]\n"
+"[Sound1 bytes=\"0B10\"]そう… [PauseShort]人生 ねぇ…[PauseMid]\n"
 "あなたは 盾サーフィンの上辺しか見てないのね\n"
 "滑って [Pause frames=\"4\"]転んで [Pause frames=\"4\"]ぶつかって…[PauseShort]\n"
 "そんな人生は 私だけで充分よ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]そんな心構えで先に進ませる訳にはいかないわ[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]そんな心構えで先に進ませる訳にはいかないわ[PauseMid]\n"
 "あなたには残念だけど もう一度やり直しね"
 
 #, ruby
 msgid "Goal_BadTime_Expert_dame"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"030C\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "腕が落ちたんじゃないの？\n"
 "もう一度初級コースで\n"
 "練習したほうがいいわね…"
@@ -247,13 +247,13 @@ msgstr ""
 #, ruby
 msgid "Check_Money02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]モチロン 授業料として\n"
-"[Color name=\"red\"]20ルピー[Color name=\"unset\"]は 頂くけど[Choice2 label1=\"2\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]モチロン 授業料として\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]は 頂くけど[Choice2 label1=\"2\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "RefusePay_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]あら残念ね！[PauseShort] 元・プロに見てもらう\n"
+"[Sound1 bytes=\"0012\"]あら残念ね！[PauseShort] 元・プロに見てもらう\n"
 "チャンスなんてなかなかないわよ！"
 
 #, ruby
@@ -271,7 +271,7 @@ msgstr ""
 #, ruby
 msgid "Goal_BadTime_Expert_dame1"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"25\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0319\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "ようやく初心者脱出 ってところかしら\n"
 "私もこのタイムだったころは\n"
 "段々調子が良くなってきて 楽しい時期だったわ\n"
@@ -279,7 +279,7 @@ msgstr ""
 
 #, ruby
 msgid "AskRetry_Expert"
-msgstr "さてと もう一度 腕を見てあげましょうか？[Choice3 label1=\"15\" label2=\"14\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "さてと もう一度 腕を見てあげましょうか？[Choice3 label1=\"15\" label2=\"14\" label3=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Goal_CommonTime_Expert_Present"
@@ -290,7 +290,7 @@ msgstr ""
 #, ruby
 msgid "IfSelectBeginnerCourse_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]あら そっちでいいの？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]あら そっちでいいの？[PauseMid]\n"
 "まぁ 初心に帰るのもたまには大事よね"
 
 msgid "0000"
@@ -302,17 +302,17 @@ msgstr "いいえ！"
 #, ruby
 msgid "Goal_GoodTime_Beginner"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]！[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]！[PauseMid]\n"
 "才能を感じさせる いい滑りだったわよ\n"
 "これなら次のステップに進んでも\n"
 "いい滑りを見せてくれそうね [PauseShort]期待してるわ！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]ということで [Color name=\"red\"]上級コース[Color name=\"unset\"]を解禁するわ[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]ということで [Color name=\"red\"]上級コース[Color name=\"unset\"]を解禁するわ[PauseMid]\n"
 "私の期待を裏切らないように頑張ってね？"
 
 #, ruby
 msgid "Initial_GlassShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "近衛の盾じゃない… [PauseShort]私にとっては\n"
 "壊れやすい盾なんて 何の価値もないわ…"
@@ -328,13 +328,13 @@ msgstr "進みたい！"
 #, ruby
 msgid "AskCourse_Expert"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]良い心がけね いい弟子を持ったものだわ[PauseMid]\n"
-"どっちのコースで腕を見せてくれるの？[Choice3 label1=\"15\" label2=\"14\" label3=\"16\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0109\"]良い心がけね いい弟子を持ったものだわ[PauseMid]\n"
+"どっちのコースで腕を見せてくれるの？[Choice3 label1=\"15\" label2=\"14\" label3=\"16\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Initial_GlassShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "近衛の盾じゃない… [PauseShort]私にとっては\n"
 "壊れやすい盾なんて 何の価値もないわ…"
@@ -342,7 +342,7 @@ msgstr ""
 #, ruby
 msgid "Initial_RoyalShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "…王家の盾じゃない！ [PauseShort]\n"
 "ここの小屋にも飾ってるんだけど\n"
@@ -380,13 +380,13 @@ msgstr "上級コースで"
 #, ruby
 msgid "CautionBigDoor_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]あ あと！ [PauseShort]間違っても変な方に行っちゃダメよ！[PageBreak]道を間違うと [Color name=\"red\"]大きな石の扉[Color name=\"unset\"]があるんだけど\n"
+"[Sound1 bytes=\"000C\"]あ あと！ [PauseShort]間違っても変な方に行っちゃダメよ！[PageBreak]道を間違うと [Color name=\"red\"]大きな石の扉[Color name=\"unset\"]があるんだけど\n"
 "あんなのにぶつかったら大ケガするわよ"
 
 #, ruby
 msgid "Failed_01_02_00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"18\"]謝るぐらいなら 最初からしないでちょうだい？[PauseShort]\n"
+"[Sound1 bytes=\"0912\"]謝るぐらいなら 最初からしないでちょうだい？[PauseShort]\n"
 "…あなたが無事でよかったわ"
 
 msgid "0007"
@@ -397,12 +397,12 @@ msgid "0015"
 msgstr "初級コースで"
 
 msgid "Stop_00"
-msgstr "あら どうしたの？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "あら どうしたの？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Failed_01_02_01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"18\"][PauseShort]…あなた 私を凍死させるつもり？[PauseShort]\n"
+"[Sound1 bytes=\"0912\"][PauseShort]…あなた 私を凍死させるつもり？[PauseShort]\n"
 "寒いのは雪山だけで充分よ 勘弁して…"
 
 msgid "0008"
@@ -420,16 +420,16 @@ msgstr ""
 #, ruby
 msgid "Goal_BadTime_Beginner"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
+"[Sound1 bytes=\"0312\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
 "冷たいようだけど まだまだ練習が必要ね！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]次に進みたいのなら コースの先を見る事よ！[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]次に進みたいのなら コースの先を見る事よ！[PauseMid]\n"
 "一見 平らに見えても 意外と凹凸があるものよ"
 
 #, ruby
 msgid "Stop_01"
 msgstr ""
 "あら… [PauseShort]もし途中でやめても\n"
-"受け取ったルピーは 返せないわよ？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+"受け取ったルピーは 返せないわよ？[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0009"
@@ -438,13 +438,13 @@ msgstr "やっぱり続ける！"
 #, ruby
 msgid "Pouch_Check00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ポーチの整理ができたみたいね！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]ポーチの整理ができたみたいね！[PauseShort]\n"
 "はい！ 約束の盾よ！"
 
 #, ruby
 msgid "Stop_02"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]中途半端で投げ出すのはもったいないけど…[PauseShort]\n"
+"[Sound1 bytes=\"030C\"]中途半端で投げ出すのはもったいないけど…[PauseShort]\n"
 "また次回 頑張って頂戴ね！"
 
 msgid "0018"
@@ -453,15 +453,15 @@ msgstr "ごめんなさい…"
 #, ruby
 msgid "Goal_CommonTime_Beginner"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…[PauseMid]\n"
 "これといって言うことは何もないわ 平凡よ\n"
 "このレベルで次のステップに進むには\n"
-"少し不安が残るけど… [PauseShort]あなたに任せるわ？[Choice2 label1=\"10\" label2=\"11\" selectednum=\"0\" cancelnum=\"1\"]"
+"少し不安が残るけど… [PauseShort]あなたに任せるわ？[Choice2 label1=\"10\" label2=\"11\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Pouch_Check01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]上級コース ゴール記念の盾を\n"
+"[Sound1 bytes=\"0006\"]上級コース ゴール記念の盾を\n"
 "あげたいんだけど…[PauseMid]"
 
 #, ruby
@@ -480,14 +480,14 @@ msgstr ""
 #, ruby
 msgid "Pouch_Check02"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"]まだ ポーチの整理ができていないみたいね…[PauseMid]\n"
+"[Sound1 bytes=\"0500\"]まだ ポーチの整理ができていないみたいね…[PauseMid]\n"
 "渡すまで 次の練習はお預けよ！"
 
 #, ruby
 msgid "AskPurpose_Beginner"
 msgstr ""
 "元・プロ盾サーファーの私に\n"
-"会いに来たのね？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"会いに来たのね？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Goal_GoodTime_Expert_Present2"
@@ -497,12 +497,12 @@ msgstr ""
 
 #, ruby
 msgid "Pouch_Check03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それじゃあ 小屋へ戻りましょうか"
+msgstr "[Sound1 bytes=\"0000\"]それじゃあ 小屋へ戻りましょうか"
 
 #, ruby
 msgid "Initial_RoyalShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "王家の盾じゃない！ [PauseShort]私が出会った盾の中では\n"
 "最高峰のデザインと滑りやすさよ！"
@@ -511,11 +511,11 @@ msgstr ""
 msgid "AskRetry_Beginner"
 msgstr ""
 "さてと… [PauseShort]もう一度滑ってみる？\n"
-"モチロン 授業料として [Color name=\"red\"]20ルピー[Color name=\"unset\"]頂くけど[Choice2 label1=\"2\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"モチロン 授業料として [Color name=\"red\"]20ルピー[Color name=\"unset\"]頂くけど[Choice2 label1=\"2\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Pouch_Check04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ポーチの整理ができたら 声をかけてね！"
+msgstr "[Sound1 bytes=\"0000\"]ポーチの整理ができたら 声をかけてね！"
 
 #, ruby
 msgid "LetsStart_01"
@@ -526,31 +526,31 @@ msgstr ""
 #, ruby
 msgid "IfAnswerRetry_Beginner"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]そうね！[PauseMid] 地道に練習するのが一番よ！[PauseMid]\n"
+"[Sound1 bytes=\"0009\"]そうね！[PauseMid] 地道に練習するのが一番よ！[PauseMid]\n"
 "そういう真面目なところ…[PauseShort] 嫌いじゃないわ"
 
 #, ruby
 msgid "Pouch_Check05"
 msgstr ""
 "渡した盾を使った滑り…[PauseMid]\n"
-"さっそく見せてくれるのね！[Choice3 label1=\"15\" label2=\"14\" label3=\"16\" selectednum=\"0\" cancelnum=\"2\"]"
+"さっそく見せてくれるのね！[Choice3 label1=\"15\" label2=\"14\" label3=\"16\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Initial_MoonlightShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "幻の盾… 太陽の盾じゃない！[PauseShort]\n"
 "滅多にお目にかかれない逸品よ…！"
 
 #, ruby
 msgid "LetsStart_02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]さて… 競技内容の説明を聞いていく？[Choice2 label1=\"2\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]さて… 競技内容の説明を聞いていく？[Choice2 label1=\"2\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Initial_GoldenShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "ゲルド名産 ゲルドの盾じゃない！[PauseShort]\n"
 "滑りやすさを きちんと考えてあるのよね！"
@@ -564,33 +564,33 @@ msgstr ""
 #, ruby
 msgid "LetsStart_04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それじゃ いい滑りを期待してるわ[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]それじゃ いい滑りを期待してるわ[PauseMid]\n"
 "準備はいいかしら？[PauseMid] 位置について！"
 
 #, ruby
 msgid "AskTraining_Beginner"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]やっぱりね！ [PauseShort]でも私はもう引退した身…[PauseShort]\n"
+"[Sound1 bytes=\"0104\"]やっぱりね！ [PauseShort]でも私はもう引退した身…[PauseShort]\n"
 "雪の女王と呼ばれたのも 随分と昔の話よ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]でも そんな私でよければ[PauseShort]\n"
-"あなたの滑りを 見てあげるわよ？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]でも そんな私でよければ[PauseShort]\n"
+"あなたの滑りを 見てあげるわよ？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "AskRupee_Expert"
 msgstr ""
 "それじゃ いつも通りだけど[PauseShort]\n"
-"授業料の[Color name=\"red\"]20ルピー[Color name=\"unset\"]を頂くわよ？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"授業料の[Color name=\"red\"]20ルピー[Color name=\"unset\"]を頂くわよ？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "AskRupee_Beginner"
 msgstr ""
 "そうね… 一回につき[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"ってトコかしらね？[Choice2 label1=\"2\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"ってトコかしらね？[Choice2 label1=\"2\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Goal_GoodTime_Expert1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"21\"]タイムは… [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
+"[Sound1 bytes=\"0415\"]タイムは… [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
 "私の記録を抜いたわね… 負けたわ…\n"
 "私から教えられることは もう無いわ\n"
 "より高みを目指して がんばりなさい！"
@@ -604,7 +604,7 @@ msgstr ""
 #, ruby
 msgid "Initial_GoldenShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "ゲルド名産 ゲルドの盾じゃない！[PauseShort]\n"
 "滑りやすさを きちんと考えてあるのよね！"
@@ -618,9 +618,9 @@ msgstr ""
 #, ruby
 msgid "Goal_WonderfulTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"21\"]そんな！ [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
+"[Sound1 bytes=\"0A15\"]そんな！ [Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]？！\n"
 "なんて盾サーフィンテクニックなの？！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私以上の逸材だわ…！ あなた！！[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]私以上の逸材だわ…！ あなた！！[PauseShort]\n"
 "プロ盾サーファーを名乗っても良いかもね！"
 
 #, ruby
@@ -636,7 +636,7 @@ msgstr ""
 #, ruby
 msgid "ChangeBeginnerToExpert_Expert1"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"25\"]それじゃ 上級コースでの滑りを見るわね[PauseMid]\n"
+"[Sound1 bytes=\"0019\"]それじゃ 上級コースでの滑りを見るわね[PauseMid]\n"
 "今までよりコースが長いけど 頑張ってね！\n"
 "あなたには 盾を全て渡したから…[PauseMid]\n"
 "クリアタイムに応じた額の ルピーをあげるわ"
@@ -654,20 +654,20 @@ msgstr "これは卒業の記念よ 遠慮せず受け取ってね"
 #, ruby
 msgid "suremi_fire_shield1"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]ちょっと！ [PauseShort]何してるの？！[PauseShort]\n"
+"[Sound1 bytes=\"0800\"]ちょっと！ [PauseShort]何してるの？！[PauseShort]\n"
 "やめてちょうだい！"
 
 #, ruby
 msgid "EntranceTalk_Beginner_Default_01"
 msgstr ""
 "授業料として 一回につき[Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"いただくけど[Choice2 label1=\"2\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"いただくけど[Choice2 label1=\"2\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "EntranceTalk_Beginner_Default_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]さてと… [PauseShort]授業料として\n"
-"[Color name=\"red\"]20ルピー[Color name=\"unset\"]いただくけど いいかしら？[Choice2 label1=\"2\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]さてと… [PauseShort]授業料として\n"
+"[Color name=\"red\"]20ルピー[Color name=\"unset\"]いただくけど いいかしら？[Choice2 label1=\"2\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "HintNextStep_Beginner"
@@ -678,7 +678,7 @@ msgstr ""
 #, ruby
 msgid "NoPlay_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"16\"]そうよね… [PauseShort]現役の時はみんな あんなに\n"
+"[Sound1 bytes=\"0310\"]そうよね… [PauseShort]現役の時はみんな あんなに\n"
 "チヤホヤしてたのに 世間って厳しいわね…"
 
 #, ruby
@@ -704,19 +704,19 @@ msgstr ""
 #, ruby
 msgid "IfAnswerFact_Beginner"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]あなた [PauseShort]ふざけているのかしら？[PauseMid]\n"
+"[Sound1 bytes=\"0006\"]あなた [PauseShort]ふざけているのかしら？[PauseMid]\n"
 "でも… [PauseShort]その気持ち よく分かるわ\n"
 "言葉に出来ない何かがそこにあるから\n"
 "私達はこんなにも熱くなれるんですものね\n"
 "弟子のあなたに教えられるとは思わなかったわ[PauseMid]\n"
 "あなたなら 次に進んでも上手くやれそうね\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]合格よ [Color name=\"red\"]上級コース[Color name=\"unset\"]の使用を許可するわ[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]合格よ [Color name=\"red\"]上級コース[Color name=\"unset\"]の使用を許可するわ[PauseMid]\n"
 "期待しているんだから ガッカリさせないでよ？"
 
 #, ruby
 msgid "Goal_BadTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
+"[Sound1 bytes=\"0010\"]さてと… タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね…\n"
 "はっきり言って まだまだね\n"
 "雪や砂なんかの上では 盾は[Color name=\"red\"]傷付かない[Color name=\"unset\"]から\n"
 "安物でも 思う存分 練習していけばいいわ"
@@ -735,7 +735,7 @@ msgstr ""
 #, ruby
 msgid "Initial_SpikeShield1"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "鋼鉄リザルシールドじゃない！[PauseShort] そのトゲが\n"
 "エッジの効いた滑りには最適なのよ！"
@@ -743,7 +743,7 @@ msgstr ""
 #, ruby
 msgid "GoalBeginnerCourse_GoodTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね[PauseMid]\n"
 "まぁ… こんなもんだろうとは思ってたわよ\n"
 "そりゃあ私が上級者と認めたんですもの[PauseShort]\n"
 "これぐらいのタイムは当然よね？"
@@ -751,17 +751,17 @@ msgstr ""
 #, ruby
 msgid "EntranceTalk_No_Shield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"1\"][Animation name=\"Notice_00\"]…あら？[PauseMid]\n"
+"[Sound1 bytes=\"0401\"][Animation name=\"Notice_00\"]…あら？[PauseMid]\n"
 "あなた 盾をひとつも持ってないじゃない！\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]盾サーファーの基本は 自給自足…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]盾サーファーの基本は 自給自足…[PauseMid]\n"
 "自分の盾は 自分で探してくるのよ！"
 
 #, ruby
 msgid "Goal_BadTime_Expert_rupi"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]…あなた途中で盾を拾ったの？\n"
+"[Sound1 bytes=\"0013\"]…あなた途中で盾を拾ったの？\n"
 "さっきまではポーチに余裕があったようだけど…\n"
-"[Sound1 unk1=\"5\" unk2=\"1\"]この盾 あなたにもらってほしいから\n"
+"[Sound1 bytes=\"0501\"]この盾 あなたにもらってほしいから\n"
 "ポーチを整理するまで 次の滑りはお預けよ"
 
 #, ruby
@@ -780,18 +780,18 @@ msgstr ""
 msgid "Failed_01_01"
 msgstr ""
 "まったく… どこに行こうとしてたのかしら？[PauseShort]\n"
-"危うく遭難するところだったのよ？[Choice2 label1=\"18\" label2=\"19\" selectednum=\"0\" cancelnum=\"2\"]"
+"危うく遭難するところだったのよ？[Choice2 label1=\"18\" label2=\"19\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "NG_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"6\"]え 違うの？ 紛らわしい…[PauseShort]\n"
+"[Sound1 bytes=\"0306\"]え 違うの？ 紛らわしい…[PauseShort]\n"
 "べ 別に期待してたわけじゃないんだからね？"
 
 #, ruby
 msgid "Goal_GoodTime_Expert"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね\n"
+"[Sound1 bytes=\"0109\"]タイムは[Color name=\"red\"][02:0E name=\"MiniGame_ShieldSurfing_ResultMinute\"]分[02:0E name=\"MiniGame_ShieldSurfing_ResultSecond\"]秒[02:0E name=\"MiniGame_ShieldSurfing_ResultMilliSecond\"][Color name=\"unset\"]ね\n"
 "私とほぼ同タイム！ 自慢していい腕前だわ！\n"
 "こんなタイムを出せたのは 他にはリト族だけよ[PauseShort]\n"
 "彼らは [Color name=\"red\"]飛んで[Color name=\"unset\"]近道でもしたんでしょうけどね\n"
@@ -800,7 +800,7 @@ msgstr ""
 #, ruby
 msgid "Initial_SpikeShield"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"19\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
+"[Sound1 bytes=\"0413\"]…[Pause frames=\"30\"]…[Pause frames=\"50\"]\n"
 "その背中のモノは！\n"
 "鋼鉄リザルシールドじゃない！[PauseShort] そのトゲが\n"
 "エッジの効いた滑りには最適なのよ！"

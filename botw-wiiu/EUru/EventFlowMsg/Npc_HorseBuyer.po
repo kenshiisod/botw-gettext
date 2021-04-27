@@ -1,13 +1,13 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Цок![PauseShort] Это ведь ты мне [Color name=\"red\"]лошадь[Color name=\"unset\"]\n"
-"продал![PauseShort] Выручил! Спасибо![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Благодаря тебе я выбрался из глуши![PauseShort]\n"
-"А [Color name=\"red\"]лошадь [Color name=\"unset\"]я в конюшню продал...[PageBreak][Sound1 unk1=\"4\" unk2=\"19\"]Ой! То есть в конюшню отдал!\n"
-"О ней хорошо заботятся, кстати![PageBreak][Color name=\"Gray\"][Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Уф, надо быть аккуратнее.[Size percent=\"100\"][Color name=\"unset\"]"
+"[Sound1 bytes=\"0004\"]Цок![PauseShort] Это ведь ты мне [Color name=\"red\"]лошадь[Color name=\"unset\"]\n"
+"продал![PauseShort] Выручил! Спасибо![PageBreak][Sound1 bytes=\"0101\"]Благодаря тебе я выбрался из глуши![PauseShort]\n"
+"А [Color name=\"red\"]лошадь [Color name=\"unset\"]я в конюшню продал...[PageBreak][Sound1 bytes=\"0413\"]Ой! То есть в конюшню отдал!\n"
+"О ней хорошо заботятся, кстати![PageBreak][Color name=\"gray\"][Size percent=\"80\"][Sound1 bytes=\"0001\"]Уф, надо быть аккуратнее.[Size percent=\"100\"][Color name=\"unset\"]"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Буду рад, если мы с тобой\n"
+"[Sound1 bytes=\"0004\"]Буду рад, если мы с тобой\n"
 "еще когда-нибудь встретимся!"
 
 msgid "_ReadOnly_MsbtExtras"

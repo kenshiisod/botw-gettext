@@ -3,32 +3,32 @@ msgstr "[Size percent=\"80\"][Sound2 id=\"31\"]Пры...[PauseShort] пры...[S
 
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]На тебя всегда можно положиться.[PageBreak]Но скажи, неужели это все?[PauseShort]\n"
-"Может, у тебя еще есть?[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0109\"]На тебя всегда можно положиться.[PageBreak]Но скажи, неужели это все?[PauseShort]\n"
+"Может, у тебя еще есть?[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0009"
 msgstr "Больше нет"
 
 msgid "Talk_21"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Хе-хе.[PageBreak]У нас тут много кто бывает.[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]Хе-хе.[PageBreak]У нас тут много кто бывает.[PauseShort]\n"
 "Я научился видеть людей\n"
 "насквозь.[PageBreak]Даже не пытайся что-то от меня\n"
 "скрыть.[PauseShort] Давай, показывай товар."
 
 msgid "Talk_22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Мне нужно [Color name=\"blue\"]55[Color name=\"unset\"] штук.[PageBreak]Это немало, зато я заплачу вдвое\n"
+"[Sound1 bytes=\"0004\"]Мне нужно [Color name=\"blue\"]55[Color name=\"unset\"] штук.[PageBreak]Это немало, зато я заплачу вдвое\n"
 "больше, чем тебе дадут в магазине.[PageBreak]Хе-хе![PauseShort] Жду тебя здесь."
 
 msgid "Talk_0001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Я знал, что ты вернешься...[PageBreak]Я заведую конюшней и встречаю\n"
+"[Sound1 bytes=\"0000\"]Я знал, что ты вернешься...[PageBreak]Я заведую конюшней и встречаю\n"
 "самых разных людей, поэтому вижу\n"
-"всех насквозь.[PageBreak]Грибы принес?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"всех насквозь.[PageBreak]Грибы принес?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет..."
+msgstr "[Sound1 bytes=\"0000\"]Привет..."
 
 msgid "0000"
 msgstr "Принес!"

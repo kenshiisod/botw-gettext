@@ -1,58 +1,58 @@
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Ты, случайно, в [Color name=\"blue\"]Аккалу[Color name=\"unset\"]\n"
-"не собираешься?[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Если встретишь Топорду,\n"
+"[Sound1 bytes=\"0B00\"]Ты, случайно, в [Color name=\"blue\"]Аккалу[Color name=\"unset\"]\n"
+"не собираешься?[PageBreak][Sound1 bytes=\"0000\"]Если встретишь Топорду,\n"
 "передай ему от меня привет."
 
 msgid "talk40"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Мы только недавно вернулись.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]Мы только недавно вернулись.[PauseShort]\n"
 "Хорошая вышла свадьба, да?[PauseShort]\n"
-"Герда — настоящая красавица.[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"][Animation name=\"LaughL_00\"]Вот бы и мне поскорее жениться!"
+"Герда — настоящая красавица.[PageBreak][Sound1 bytes=\"0101\"][Animation name=\"LaughL_00\"]Вот бы и мне поскорее жениться!"
 
 msgid "0010"
 msgstr "Ага"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Работаю, как видишь.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Это старый дом, в котором никто\n"
+"[Sound1 bytes=\"0000\"]Работаю, как видишь.[PageBreak][Sound1 bytes=\"0000\"]Это старый дом, в котором никто\n"
 "не живет.[PauseShort] По решению хатенцев он\n"
 "будет снесен.[PageBreak]Прежний владелец подался на\n"
-"службу в [Color name=\"blue\"]замок[Color name=\"unset\"] и не вернулся.[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"службу в [Color name=\"blue\"]замок[Color name=\"unset\"] и не вернулся.[Choice3 label1=\"3\" label2=\"4\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]Ага, тяжелая, но я стараюсь!"
+msgstr "[Sound1 bytes=\"070A\"]Ага, тяжелая, но я стараюсь!"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]Тогда ты не с тем разговариваешь.[PageBreak][Sound1 unk1=\"6\" unk2=\"1\"]Насчет покупки узнавай\n"
+"[Sound1 bytes=\"0414\"]Тогда ты не с тем разговариваешь.[PageBreak][Sound1 bytes=\"0601\"]Насчет покупки узнавай\n"
 "у нашего [Color name=\"blue\"]начальника[Color name=\"unset\"]."
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Начальник сказал, что\n"
-"снос дома отменяется.[Choice3 label1=\"5\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]Начальник сказал, что\n"
+"снос дома отменяется.[Choice3 label1=\"5\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"]Работа, работа...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0301\"]Работа, работа...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk49"
-msgstr "[Sound1 unk1=\"0\" unk2=\"19\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"]...[PauseShort] Неси его в [Color name=\"blue\"]институт[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0013\"][Color name=\"blue\"]Синий огонь[Color name=\"unset\"]...[PauseShort] Неси его в [Color name=\"blue\"]институт[Color name=\"unset\"]."
 
 msgid "near00"
 msgstr "Э-э-эх!"
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"3\" unk2=\"18\"]Какой же упрямый этот дом...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0312\"]Какой же упрямый этот дом...[Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "near01"
 msgstr "Уф..."
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Поздравляю с покупкой дома![PageBreak][Sound1 unk1=\"4\" unk2=\"1\"]Побольше бы таких путешественников![PauseShort]\n"
+"[Sound1 bytes=\"0700\"]Поздравляю с покупкой дома![PageBreak][Sound1 bytes=\"0401\"]Побольше бы таких путешественников![PauseShort]\n"
 "Даже не знаю, откуда у тебя столько\n"
-"денег...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Благодаря тебе в этом месяце мне\n"
+"денег...[PageBreak][Sound1 bytes=\"0001\"]Благодаря тебе в этом месяце мне\n"
 "дадут премию.[PauseShort] Приглашу подругу\n"
 "на романтический ужин..."
 
@@ -60,54 +60,54 @@ msgid "near02"
 msgstr "Хр-р-р..."
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Наконец-то можно отдохнуть.[Choice3 label1=\"5\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"000C\"]Наконец-то можно отдохнуть.[Choice3 label1=\"5\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Ох, намучился я с этим домом...[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]А Топорда работает —\n"
+"[Sound1 bytes=\"030C\"]Ох, намучился я с этим домом...[PageBreak][Sound1 bytes=\"0001\"]А Топорда работает —\n"
 "и ему хоть бы хны.[PageBreak]Кстати, я слышал, как ты\n"
-"говорил с начальником.[PageBreak][Sound1 unk1=\"11\" unk2=\"1\"]В самом деле будешь\n"
-"покупать этот дом?[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"говорил с начальником.[PageBreak][Sound1 bytes=\"0B01\"]В самом деле будешь\n"
+"покупать этот дом?[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хочу спать.[PauseShort] До завтра."
+msgstr "[Sound1 bytes=\"0000\"]Хочу спать.[PauseShort] До завтра."
 
 msgid "talk30"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хр-р-р..."
+msgstr "[Sound1 bytes=\"0000\"]Хр-р-р..."
 
 msgid "0000"
 msgstr "Чем занимаешься?"
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хс-с..."
+msgstr "[Sound1 bytes=\"0000\"]Хс-с..."
 
 msgid "0001"
 msgstr "Кто ты?"
 
 msgid "talk32"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Что же Герде понравилось в Топорде?"
+msgstr "[Sound1 bytes=\"0000\"]Что же Герде понравилось в Топорде?"
 
 msgid "0002"
 msgstr "Пока"
 
 msgid "talk33"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Может, его роскошная копна волос?"
+msgstr "[Sound1 bytes=\"0109\"]Может, его роскошная копна волос?"
 
 msgid "0003"
 msgstr "Работа тяжелая?"
 
 msgid "talk34"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Может, его мускулистые руки?"
+msgstr "[Sound1 bytes=\"0109\"]Может, его мускулистые руки?"
 
 msgid "0004"
 msgstr "Я куплю этот дом"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Доброе утро!"
+msgstr "[Sound1 bytes=\"0000\"]Доброе утро!"
 
 msgid "talk35"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Топорда получил повышение и уехал\n"
+"[Sound1 bytes=\"0000\"]Топорда получил повышение и уехал\n"
 "в [Color name=\"blue\"]Аккалу[Color name=\"unset\"], мол, бизнес расширять.[PauseShort] Он\n"
 "должен быть на [Color name=\"blue\"]Аккальском озере[Color name=\"unset\"].[PageBreak]Если будешь в тех краях и встретишь\n"
 "Топорду, передавай от меня привет."
@@ -116,11 +116,11 @@ msgid "0005"
 msgstr "Здорово"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет!"
+msgstr "[Sound1 bytes=\"0000\"]Привет!"
 
 msgid "talk36"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Прости, я слышал, ты\n"
+"[Sound1 bytes=\"0000\"]Прости, я слышал, ты\n"
 "говорил с [Color name=\"blue\"]начальником[Color name=\"unset\"].[PageBreak]Топорда на самом деле\n"
 "собрался жениться?[Choice1 label=\"10\"]"
 
@@ -128,22 +128,22 @@ msgid "0006"
 msgstr "Ага!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Не спится?"
+msgstr "[Sound1 bytes=\"0000\"]Не спится?"
 
 msgid "talk37"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"1\"]И откуда у тебя столько денег?[PauseShort]\n"
+"[Sound1 bytes=\"0401\"]И откуда у тебя столько денег?[PauseShort]\n"
 "Ты ведь даже моложе меня..."
 
 msgid "0007"
 msgstr "Нет, не буду"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ну и погодка..."
+msgstr "[Sound1 bytes=\"0000\"]Ну и погодка..."
 
 msgid "talk38"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Топорда такой молодец![PageBreak][Sound1 unk1=\"1\" unk2=\"10\"]Интересно, кто его избранница![PauseShort]\n"
+"[Sound1 bytes=\"0101\"]Топорда такой молодец![PageBreak][Sound1 bytes=\"010A\"]Интересно, кто его избранница![PauseShort]\n"
 "Хотелось бы взглянуть на нее хоть\n"
 "одним глазком!"
 
@@ -151,77 +151,77 @@ msgid "0008"
 msgstr "«Да»?"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Надо поспать."
+msgstr "[Sound1 bytes=\"0000\"]Надо поспать."
 
 msgid "talk39"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Говорят, Топорда вовсю трудится\n"
+"[Sound1 bytes=\"0001\"]Говорят, Топорда вовсю трудится\n"
 "на новом месте.[PauseShort] Еще и невесту себе\n"
 "нашел.[PageBreak]Надо хорошо работать, чтобы\n"
 "тоже были деньги на свадьбу."
 
 msgid "talk50"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Несешь куда-то [Color name=\"blue\"]синий огонь[Color name=\"unset\"]?[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]Несешь куда-то [Color name=\"blue\"]синий огонь[Color name=\"unset\"]?[PauseShort]\n"
 "Поосторожнее с ним."
 
 msgid "0009"
 msgstr "А где он?"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Привет!"
+msgstr "[Sound1 bytes=\"0000\"]Привет!"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"9\" unk2=\"34\"]Устал я..."
+msgstr "[Sound1 bytes=\"0922\"]Устал я..."
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Пока!"
+msgstr "[Sound1 bytes=\"0000\"]Пока!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ну у тебя и вид..."
+msgstr "[Sound1 bytes=\"0000\"]Ну у тебя и вид..."
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Я Зубилда.[PageBreak]Сегодня у меня первый настоящий\n"
-"рабочий день в «СтройдаСтрое».[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Испытательный период кончился,\n"
+"[Sound1 bytes=\"0006\"]Я Зубилда.[PageBreak]Сегодня у меня первый настоящий\n"
+"рабочий день в «СтройдаСтрое».[PageBreak][Sound1 bytes=\"0101\"]Испытательный период кончился,\n"
 "и теперь я полноценный член\n"
-"коллектива Стройды![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Повезло, что мое имя\n"
-"кончается на «да».[Choice2 label1=\"8\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"коллектива Стройды![PageBreak][Sound1 bytes=\"0000\"]Повезло, что мое имя\n"
+"кончается на «да».[Choice2 label1=\"8\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk20"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"22\"]Вот это да![Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"0A16\"]Вот это да![Size percent=\"100\"]"
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]Понятно![PauseShort] А то я подумал, откуда\n"
+"[Sound1 bytes=\"0009\"]Понятно![PauseShort] А то я подумал, откуда\n"
 "у тебя столько денег.[PauseShort] Я вот коплю,\n"
 "коплю — а денег все нет."
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Ну да ладно, буду прилежно\n"
+"[Sound1 bytes=\"070A\"]Ну да ладно, буду прилежно\n"
 "работать — тоже разбогатею!"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Да!"
+msgstr "[Sound1 bytes=\"0000\"]Да!"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Да, здорово."
+msgstr "[Sound1 bytes=\"0000\"]Да, здорово."
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]В «СтройдаСтрой» берут только\n"
-"тех, чье [Color name=\"red\"]имя кончается на «да»[Color name=\"unset\"].[PageBreak][Sound1 unk1=\"0\" unk2=\"19\"]Начальник сказал, что пора\n"
+"[Sound1 bytes=\"0000\"]В «СтройдаСтрой» берут только\n"
+"тех, чье [Color name=\"red\"]имя кончается на «да»[Color name=\"unset\"].[PageBreak][Sound1 bytes=\"0013\"]Начальник сказал, что пора\n"
 "«расширять бизнес».[PageBreak]Так что скоро нашей компании\n"
 "понадобится больше сотрудников\n"
 "с именами [Color name=\"red\"]на «да»[Color name=\"unset\"]."
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"9\" unk2=\"0\"]Без Топорды скучно...[Choice3 label1=\"9\" label2=\"10\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0900\"]Без Топорды скучно...[Choice3 label1=\"9\" label2=\"10\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Его в [Color name=\"blue\"]Аккалу [Color name=\"unset\"]работать отправили,\n"
+"[Sound1 bytes=\"0000\"]Его в [Color name=\"blue\"]Аккалу [Color name=\"unset\"]работать отправили,\n"
 "на [Color name=\"blue\"]Аккальское озеро[Color name=\"unset\"], кажется.[PageBreak]Начальник сказал, что «бизнес\n"
 "расширяется».[PauseShort] Вот бы меня туда\n"
 "тоже послали, но я ведь новичок...[PageBreak]Надо прилежно работать, тогда\n"
@@ -229,7 +229,7 @@ msgstr ""
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Я столькому мог у него научиться...[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]Я столькому мог у него научиться...[PauseShort]\n"
 "Жаль, что его перевели в другое\n"
 "место."
 

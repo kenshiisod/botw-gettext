@@ -1,31 +1,31 @@
 #, ruby
 msgid "CarryingBlueFireEXMini02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]ほほぅ…[PauseLong]\n"
+"[Sound1 bytes=\"0018\"]ほほぅ…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]プルアに振り回されておると聞いたが\n"
+"[Sound1 bytes=\"0701\"]プルアに振り回されておると聞いたが\n"
 "意外と元気そうじゃのう"
 
 #, ruby
 msgid "Talk_19_ch3"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]すでに其方は彼奴と戦う力を身に着けておるはず[PauseMid]\n"
-"姫様を頼んだぞ[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]すでに其方は彼奴と戦う力を身に着けておるはず[PauseMid]\n"
+"姫様を頼んだぞ[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "CarryingBlueFireEXMini03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]どれ…[PauseMid] 見せてみよ"
+msgstr "[Sound1 bytes=\"0000\"]どれ…[PauseMid] 見せてみよ"
 
 #, ruby
 msgid "Talk_19_ch4"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]すでに其方は彼奴と戦う力を身に着けておるはず[PauseMid]\n"
-"姫様を頼んだぞ[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]すでに其方は彼奴と戦う力を身に着けておるはず[PauseMid]\n"
+"姫様を頼んだぞ[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]100年前…\n"
+"[Sound1 bytes=\"0000\"]100年前…\n"
 "姫様と其方は 共にあった…\n"
 "日々 己の運命に立ち向かう姫様にとって\n"
 "其方の存在は 癒しであり励みであった…"
@@ -33,31 +33,31 @@ msgstr ""
 #, ruby
 msgid "Give_ChampionShirt_10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]これは姫様から預かっておった\n"
+"[Sound1 bytes=\"0000\"]これは姫様から預かっておった\n"
 "其方の衣じゃ\n"
 "英傑となった其方のために誂えられた特別な代物\n"
 "手荒く扱うでないぞ"
 
 #, ruby
 msgid "Talk_00_ch3"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]しっかりと 身支度を整えねばならんぞ[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]しっかりと 身支度を整えねばならんぞ[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "CarryingBlueFireEXMini05"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]おお…[PauseMid] これは 間違いなく\n"
+"[Sound1 bytes=\"0A16\"]おお…[PauseMid] これは 間違いなく\n"
 "100年前 ゼルダ様が お撮りになった[Color name=\"red\"]写し絵[Color name=\"unset\"]"
 
 #, ruby
 msgid "Connective_Comp_Find_4Relic"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ところで…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]ところで…[PauseLong]\n"
 "もしやと思ったが…[PauseLong]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]だからこそ 姫様は其方を信じ\n"
+"[Sound1 bytes=\"0000\"]だからこそ 姫様は其方を信じ\n"
 "お1人で [Color name=\"red\"]ガノン[Color name=\"unset\"]と戦っておられるのじゃ…"
 
 #, ruby
@@ -66,18 +66,18 @@ msgstr "服ぐらい着とかぬか！"
 
 #, ruby
 msgid "Talk_00_ch4"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]しっかりと 身支度を整えねばならんぞ[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]しっかりと 身支度を整えねばならんぞ[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "CarryingBlueFireEXMini06"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]…[PauseMid]…[PauseLong][PageBreak][Sound1 unk1=\"1\" unk2=\"24\"]姫様の想い出である この[Color name=\"red\"]写し絵[Color name=\"unset\"]の地を巡れば\n"
+"[Sound1 bytes=\"0B01\"]…[PauseMid]…[PauseLong][PageBreak][Sound1 bytes=\"0118\"]姫様の想い出である この[Color name=\"red\"]写し絵[Color name=\"unset\"]の地を巡れば\n"
 "其方の記憶 取り戻すことができるやも知れんの[PauseLong]"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]リンクよ…\n"
+"[Sound1 bytes=\"0900\"]リンクよ…\n"
 "\n"
 "姫様を…\n"
 "\n"
@@ -86,14 +86,14 @@ msgstr ""
 
 #, ruby
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"24\"]すべてを 見てきたようじゃの…[PauseLong]"
+msgstr "[Sound1 bytes=\"0118\"]すべてを 見てきたようじゃの…[PauseLong]"
 
 #, ruby
 msgid "Sayonara00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"24\"]ほぅ… [PauseMid]以前の其方であれば\n"
+"[Sound1 bytes=\"0A18\"]ほぅ… [PauseMid]以前の其方であれば\n"
 "我が聞くまでもなく 突き進んでおったが…[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]まぁよい… 其方の覚悟が決まったら\n"
+"[Sound1 bytes=\"0000\"]まぁよい… 其方の覚悟が決まったら\n"
 "また我の元へ 来るがよい"
 
 #, ruby
@@ -103,31 +103,31 @@ msgstr "ここで騒ぐでない"
 #, ruby
 msgid "Sayonara01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]100年待つことのできた この我が[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]100年待つことのできた この我が[PauseShort]\n"
 "一時も待てんと言うとでも思うかの？[PauseLong]\n"
 "大事な決断じゃ[PauseShort]\n"
 "ゆっくりと考えるがいい[PauseLong]"
 
 #, ruby
 msgid "Talk_18_ch3"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]姫様を… [PauseMid]ゼルダ様を頼んだぞ[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]姫様を… [PauseMid]ゼルダ様を頼んだぞ[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk_18_ch4"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]姫様を… [PauseMid]ゼルダ様を頼んだぞ[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]姫様を… [PauseMid]ゼルダ様を頼んだぞ[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_12_ch3"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]我は 語ることしかできぬが\n"
-"語れることは 何でも語ろうぞ[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]我は 語ることしかできぬが\n"
+"語れることは 何でも語ろうぞ[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "SecondTalk01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]…まだ このようなところにおるとは\n"
+"[Sound1 bytes=\"0910\"]…まだ このようなところにおるとは\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]は ゼルダ様が其方に託した[PauseShort]\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]は ゼルダ様が其方に託した[PauseShort]\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]に通ずる 唯一の道しるべ\n"
 "今のままでは その力を十分に発揮することは\n"
 "できんじゃろう…"
@@ -135,33 +135,33 @@ msgstr ""
 #, ruby
 msgid "Talk_12_ch4"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]我は 語ることしかできぬが\n"
-"語れることは 何でも語ろうぞ[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0001\"]我は 語ることしかできぬが\n"
+"語れることは 何でも語ろうぞ[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてからというもの\n"
+"[Sound1 bytes=\"0900\"][Color name=\"blue\"]宝珠[Color name=\"unset\"]が盗まれてからというもの\n"
 "パーヤは ずっとあの調子じゃ\n"
 "しかし…[PauseShort]\n"
 "まさか[Color name=\"blue\"]宝珠[Color name=\"unset\"]が 盗まれてしまうとはのう…\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]力を借りたいところじゃが\n"
+"[Sound1 bytes=\"0B00\"]力を借りたいところじゃが\n"
 "其方には 使命がある…"
 
 #, ruby
 msgid "Talk_07_2"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ダルケル…[PauseShort] ウルボザ…[PauseShort] リーバル…[PauseShort] ミファー…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]ダルケル…[PauseShort] ウルボザ…[PauseShort] リーバル…[PauseShort] ミファー…[PauseLong]\n"
 "\n"
 "100年前… 我も 命を懸けて戦ったのじゃ…\n"
 "皆とともにな…[PauseLong]\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]しかし我は… 皆を守ることは できなんだ…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]しかし我は… 皆を守ることは できなんだ…[PauseLong]\n"
 "\n"
 "志半ばで命を失い きっと無念であっただろうと\n"
 "思って過ごしておった…[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]しかし この清々しいまでの気配…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]しかし この清々しいまでの気配…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"24\"]皆 あきらめては おらんかったんじゃのぅ…\n"
+"[Sound1 bytes=\"0718\"]皆 あきらめては おらんかったんじゃのぅ…\n"
 "\n"
 "皆も 其方に再会でき\n"
 "さぞ 嬉しかったことであろうのぅ…[PauseLong]"
@@ -169,7 +169,7 @@ msgstr ""
 #, ruby
 msgid "Shinju_05_noko_Fire"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]残る神獣は ゴロン族 ダルケルが操った\n"
+"[Sound1 bytes=\"0000\"]残る神獣は ゴロン族 ダルケルが操った\n"
 "[Color name=\"red\"]神獣 ヴァ・ルーダニア[Color name=\"unset\"]"
 
 #, ruby
@@ -177,12 +177,12 @@ msgid "TerrorFire"
 msgstr "冗談が過ぎるぞ！"
 
 msgid "Shinju_01"
-msgstr "[Sound1 unk1=\"1\" unk2=\"24\"]ほほぅ…"
+msgstr "[Sound1 bytes=\"0118\"]ほほぅ…"
 
 #, ruby
 msgid "Give_ChampionShirt_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]姫様の記憶に触れ\n"
+"[Sound1 bytes=\"0000\"]姫様の記憶に触れ\n"
 "其方も少しは昔の事を思い出したじゃろう…\n"
 "忘れんうちに\n"
 "これを其方に渡しておかねばの"
@@ -190,7 +190,7 @@ msgstr ""
 #, ruby
 msgid "Shinju00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]四神獣[Color name=\"unset\"]…[PauseMid] それは 厄災ガノンに倒された\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]四神獣[Color name=\"unset\"]…[PauseMid] それは 厄災ガノンに倒された\n"
 "四人の英傑が操った 古代シーカーの兵器のこと\n"
 "ゴロン族 [Color name=\"blue\"]ダルケル[Color name=\"unset\"]が操った\n"
 "[Color name=\"red\"]神獣 ヴァ・ルーダニア[Color name=\"unset\"][PauseShort]\n"
@@ -204,54 +204,54 @@ msgstr ""
 #, ruby
 msgid "Shinju01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"4\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の力なくして\n"
+"[Sound1 bytes=\"0904\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の力なくして\n"
 "[Color name=\"red\"]ガノン[Color name=\"unset\"]に立ち向かうのは困難を極めるじゃろう…\n"
 "100年前 [Color name=\"red\"]ガノン[Color name=\"unset\"]に奪われてしまった\n"
 "[Color name=\"blue\"]神獣[Color name=\"unset\"]に乗り込み 再び我らの手に取り戻すのじゃ\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の手がかりは\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の手がかりは\n"
 "ハイラルの各地に住む [Color name=\"red\"]四つの部族[Color name=\"unset\"]の元にあろう"
 
 #, ruby
 msgid "Shinju_03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"23\"]まだ一体とはいえ [Color name=\"blue\"]神獣[Color name=\"unset\"]を[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の手より\n"
+"[Sound1 bytes=\"0B17\"]まだ一体とはいえ [Color name=\"blue\"]神獣[Color name=\"unset\"]を[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の手より\n"
 "取り戻してくれたこと… 礼を言うぞ"
 
 #, ruby
 msgid "Shinju_04_Electric"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ウルボザの力[Color name=\"unset\"]は雷の力…\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]ウルボザの力[Color name=\"unset\"]は雷の力…\n"
 "邪悪な力から其方を護ってくれよう[PauseLong]"
 
 #, ruby
 msgid "Shinju_04_Water"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ミファーの力[Color name=\"unset\"]は癒しの力…\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]ミファーの力[Color name=\"unset\"]は癒しの力…\n"
 "力尽きた其方を 救ってくれよう[PauseLong]"
 
 #, ruby
 msgid "Shinju02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]しかし 其方…\n"
+"[Sound1 bytes=\"0009\"]しかし 其方…\n"
 "すでに あやつ等に会たようだの\n"
 "その体からみなぎる 皆の力…\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]ホッホッ…\n"
+"[Sound1 bytes=\"0701\"]ホッホッ…\n"
 "いらん心配だったようじゃな[PauseLong]"
 
 #, ruby
 msgid "Shinju4"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]写し絵の地[Color name=\"unset\"]を 一か所でも\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]写し絵の地[Color name=\"unset\"]を 一か所でも\n"
 "訪れることができたなら\n"
 "またここへ 戻ってくるがよい\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]其方に 渡したいものがあるでのぅ"
+"[Sound1 bytes=\"010B\"]其方に 渡したいものがあるでのぅ"
 
 #, ruby
 msgid "hime00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]これはこれは！[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]これはこれは！[PauseLong]\n"
 "\n"
 "記憶を失おうとも 其方は変わらぬな[PauseLong]\n"
 "\n"
@@ -261,17 +261,17 @@ msgstr ""
 #, ruby
 msgid "Connective_CarryingBlueFireEXMini"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]すまんの…\n"
+"[Sound1 bytes=\"0001\"]すまんの…\n"
 "話がそれてしまったが…[PauseLong]"
 
 #, ruby
 msgid "FirstTalk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]…やっと 目覚めおったか[Pause frames=\"102\"]"
+msgstr "[Sound1 bytes=\"0001\"]…やっと 目覚めおったか[Pause frames=\"102\"]"
 
 #, ruby
 msgid "FirstTalk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][PauseAuto frames=\"120\"]久しいのう リンク…\n"
+"[Sound1 bytes=\"0701\"][PauseAuto frames=\"120\"]久しいのう リンク…\n"
 "\n"
 "[PauseAuto frames=\"200\"]すっかり年をとってしまったが\n"
 "覚えておるじゃろ？"
@@ -279,9 +279,9 @@ msgstr ""
 #, ruby
 msgid "FirstTalk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]姫様が命を懸け 其方に残した言葉…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]姫様が命を懸け 其方に残した言葉…[PauseShort]\n"
 "生半可な覚悟の者に 伝えることはできん\n"
-"其方… 命を懸ける覚悟はできたか？[Choice2 label1=\"0\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"其方… 命を懸ける覚悟はできたか？[Choice2 label1=\"0\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_10"
@@ -290,7 +290,7 @@ msgstr "[Sound2 id=\"20\"][Color name=\"red\"]厄災ガノン[Color name=\"unset
 #, ruby
 msgid "FirstTalk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]よかろう…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]よかろう…[PauseLong]\n"
 "\n"
 "其方は 記憶を失うておるでのう[PauseShort]\n"
 "順を追って 話していくとしようかの…[PauseLong]"
@@ -298,7 +298,7 @@ msgstr ""
 #, ruby
 msgid "FirstTalk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]よかろう…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]よかろう…[PauseLong]\n"
 "\n"
 "其方は記憶を 失うておるでのう[PauseShort]\n"
 "何度でも 語ろうぞ…[PauseLong]"
@@ -306,45 +306,45 @@ msgstr ""
 #, ruby
 msgid "ChottoMatte00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"4\"]ゼルダ様は 未だお1人で\n"
+"[Sound1 bytes=\"0904\"]ゼルダ様は 未だお1人で\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]と戦われておる[PauseMid]\n"
-"[Sound1 unk1=\"8\" unk2=\"1\"]ゼルダ様を… このハイラルを救えるのは\n"
+"[Sound1 bytes=\"0801\"]ゼルダ様を… このハイラルを救えるのは\n"
 "其方だけ… さあ はよう向かうのだ"
 
 #, ruby
 msgid "Talk_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゼルダ様の記憶は\n"
+"[Sound1 bytes=\"0000\"]ゼルダ様の記憶は\n"
 "其方の記憶でもある…[PauseMid]\n"
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の場所を訪れれば\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の場所を訪れれば\n"
 "記憶を 取り戻すことができるやもしれん…\n"
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]すべてを巡ることができたら\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"][Color name=\"unset\"]すべてを巡ることができたら\n"
 "また 戻ってくるがよい"
 
 #, ruby
 msgid "FirstTalk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]…そして 100年前[PauseMid]\n"
+"[Sound1 bytes=\"0004\"]…そして 100年前[PauseMid]\n"
 "\n"
 "予言された[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の復活に備えるべく[PauseMid]\n"
 "1万年前の伝説に倣い [PauseShort]我々は準備を急いだ[PauseShort]\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]しかし 結果は…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]しかし 結果は…[PauseLong]\n"
 "\n"
 "我らは彼奴を 侮っておった…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]そして 二度と同じことを繰り返さぬよう[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]そして 二度と同じことを繰り返さぬよう[PauseMid]\n"
 "姫様は其方に この言葉を託されたのじゃ…"
 
 #, ruby
 msgid "Talk_14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]…ん[PauseLong]\n"
+"[Sound1 bytes=\"0013\"]…ん[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"10\" unk2=\"22\"]おお…[PauseLong]\n"
+"[Sound1 bytes=\"0A16\"]おお…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"7\" unk2=\"24\"]やっと その剣も主の元へ戻ったか[PauseMid]\n"
+"[Sound1 bytes=\"0718\"]やっと その剣も主の元へ戻ったか[PauseMid]\n"
 "ほっほ… やはり其方は そうでなくてはのぅ[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]その[Color name=\"blue\"]退魔の剣[Color name=\"unset\"]は 其方と対をなす物…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]その[Color name=\"blue\"]退魔の剣[Color name=\"unset\"]は 其方と対をなす物…[PauseLong]\n"
 "\n"
 "互いがあってこそ\n"
 "力を発揮できるというものじゃ\n"
@@ -354,15 +354,15 @@ msgstr ""
 #, ruby
 msgid "FirstTalk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]…そして 100年前[PauseMid]\n"
+"[Sound1 bytes=\"0010\"]…そして 100年前[PauseMid]\n"
 "\n"
 "予言された[Color name=\"red\"]ガノン[Color name=\"unset\"]の復活に備えるべく[PauseMid]\n"
 "1万年前の伝説に倣い [PauseShort]我々は準備を急いだ[PauseShort]\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]しかし 結果は…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]しかし 結果は…[PauseLong]\n"
 "\n"
 "我らは彼奴を 侮っておった…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]我らは二度と\n"
+"[Sound1 bytes=\"0000\"]我らは二度と\n"
 "同じことを 繰り返してはならぬ\n"
 "[Color name=\"blue\"]姫様[Color name=\"unset\"]は 其方に\n"
 "このハイラルの未来を託されたのじゃ"
@@ -370,94 +370,94 @@ msgstr ""
 #, ruby
 msgid "Talk_15"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]ふぁっふぁっふぁ…[PauseLong]\n"
+"[Sound1 bytes=\"0709\"]ふぁっふぁっふぁ…[PauseLong]\n"
 "懐かしいのぅ\n"
 "100年前も 其方は その[Color name=\"red\"]英傑の服[Color name=\"unset\"]を\n"
 "毎日 着ておったでのぅ[PauseLong]\n"
 "まるで あの頃に戻ったようだわい…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]リンクよ… [PauseLong]\n"
+"[Sound1 bytes=\"0000\"]リンクよ… [PauseLong]\n"
 "[Color name=\"blue\"]姫様[Color name=\"unset\"]を… [PauseLong]ゼルダ様を頼んだぞ…"
 
 #, ruby
 msgid "Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゼルダ様の記憶は 其方の記憶でもある…[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]ゼルダ様の記憶は 其方の記憶でもある…[PauseMid]\n"
 "\n"
 "思い出さずとも 何か感じるものはあろう…"
 
 #, ruby
 msgid "Sukuitai00_ch3"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ともかく 先を見失ったときは\n"
-"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の導きに 従うことじゃな…[Choice3 label1=\"5\" label2=\"13\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]ともかく 先を見失ったときは\n"
+"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の導きに 従うことじゃな…[Choice3 label1=\"5\" label2=\"13\" label3=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Talk_17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]最後のゼルダ様の 想い出の地…\n"
+"[Sound1 bytes=\"0000\"]最後のゼルダ様の 想い出の地…\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"17\"]その場所がどこかは 我にもわからぬ…\n"
+"[Sound1 bytes=\"0911\"]その場所がどこかは 我にもわからぬ…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]しかし 記憶はなくとも ゼルダ様と共に過ごした\n"
+"[Sound1 bytes=\"0000\"]しかし 記憶はなくとも ゼルダ様と共に過ごした\n"
 "其方であれば きっとたどり着けるじゃろう"
 
 #, ruby
 msgid "Sukuitai00_ch4"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ともかく 先を見失ったときは\n"
-"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の導きに 従うことじゃな…[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]ともかく 先を見失ったときは\n"
+"[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]の導きに 従うことじゃな…[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_18"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"][Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の力が 弱まっているとはいえ\n"
+"[Sound1 bytes=\"0900\"][Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の力が 弱まっているとはいえ\n"
 "姫様のお力が いつまで持つか…"
 
 #, ruby
 msgid "Talk_19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゼルダ様の記憶は\n"
+"[Sound1 bytes=\"0000\"]ゼルダ様の記憶は\n"
 "其方の記憶でもある…[PauseMid]\n"
-"[Sound1 unk1=\"11\" unk2=\"17\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の場所を訪れれば\n"
+"[Sound1 bytes=\"0B11\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の場所を訪れれば\n"
 "記憶を 取り戻すことができるやもしれん…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の地を 一か所でも\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]写し絵[Color name=\"unset\"]の地を 一か所でも\n"
 "訪れることができたなら\n"
 "またここへ 戻ってくるがよい\n"
 "\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]其方に 渡したいものがあるでのぅ"
+"[Sound1 bytes=\"010B\"]其方に 渡したいものがあるでのぅ"
 
 #, ruby
 msgid "Shinju_05_Water"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ゾーラ族 ミファーが操った[Color name=\"red\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]"
+msgstr "[Sound1 bytes=\"0000\"]ゾーラ族 ミファーが操った[Color name=\"red\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]"
 
 #, ruby
 msgid "Shinju_02_Fire"
-msgstr "[Color name=\"red\"][Sound1 unk1=\"0\" unk2=\"0\"]ダルケルの力[Color name=\"unset\"]を 手に入れたか…"
+msgstr "[Color name=\"red\"][Sound1 bytes=\"0000\"]ダルケルの力[Color name=\"unset\"]を 手に入れたか…"
 
 #, ruby
 msgid "SecondTalk01_ch3"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]急ぎ [Color name=\"red\"]ハテノ村[Color name=\"unset\"]に向かうのじゃ[Choice3 label1=\"5\" label2=\"13\" label3=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]急ぎ [Color name=\"red\"]ハテノ村[Color name=\"unset\"]に向かうのじゃ[Choice3 label1=\"5\" label2=\"13\" label3=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "SecondTalk01_ch4"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]急ぎ [Color name=\"red\"]ハテノ村[Color name=\"unset\"]に向かうのじゃ[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]急ぎ [Color name=\"red\"]ハテノ村[Color name=\"unset\"]に向かうのじゃ[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Shinju_04_Fire"
 msgstr ""
-"[Color name=\"red\"][Sound1 unk1=\"0\" unk2=\"0\"]ダルケルの力[Color name=\"unset\"]は守りの力…\n"
+"[Color name=\"red\"][Sound1 bytes=\"0000\"]ダルケルの力[Color name=\"unset\"]は守りの力…\n"
 "邪悪な力から其方を護ってくれよう[PauseLong]"
 
 #, ruby
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"17\"]記憶は 戻っておらんかもしれんが\n"
+"[Sound1 bytes=\"0011\"]記憶は 戻っておらんかもしれんが\n"
 "其方は一度 彼奴に敗れておる…"
 
 #, ruby
 msgid "Shinju_02_Wind"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]リーバルの力[Color name=\"unset\"]を 手に入れたか…"
+msgstr "[Sound1 bytes=\"0000\"][Color name=\"red\"]リーバルの力[Color name=\"unset\"]を 手に入れたか…"
 
 #, ruby
 msgid "ThirdKioku02"
@@ -468,7 +468,7 @@ msgstr ""
 #, ruby
 msgid "Shinju_04_Wind"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]リーバルの力[Color name=\"unset\"]は風の力…\n"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]リーバルの力[Color name=\"unset\"]は風の力…\n"
 "邪悪な力から其方を護ってくれよう[PauseLong]"
 
 #, ruby
@@ -478,15 +478,15 @@ msgstr "[Sound2 id=\"2\"]残る神獣の手がかりは ここにあろう…"
 #, ruby
 msgid "ThirdKioku03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]其方はゼルダ様の…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]其方はゼルダ様の…[PauseLong]\n"
 "このハイラルの 希望なのじゃ\n"
-"[Sound1 unk1=\"10\" unk2=\"1\"]さあ もう後戻りはできん[PauseShort]\n"
+"[Sound1 bytes=\"0A01\"]さあ もう後戻りはできん[PauseShort]\n"
 "己の心に従い 突き進むがよい！[PauseLong]"
 
 #, ruby
 msgid "Shinju_05_Wind"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]残る神獣は リト族 リーバルが操った\n"
+"[Sound1 bytes=\"0000\"]残る神獣は リト族 リーバルが操った\n"
 "[Color name=\"red\"]神獣 ヴァ・メドー[Color name=\"unset\"]"
 
 #, ruby
@@ -500,7 +500,7 @@ msgstr "どこに行けばいい？"
 #, ruby
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"24\"]しっかりと 姫様のお言葉に\n"
+"[Sound1 bytes=\"0118\"]しっかりと 姫様のお言葉に\n"
 "従っておるようじゃの…[PauseShort]\n"
 "神獣達の魂が鎮まり\n"
 "邪悪な力も弱まっておる\n"
@@ -509,24 +509,24 @@ msgstr ""
 #, ruby
 msgid "Shinju_05_Electric"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゲルド族 ウルボザが操った\n"
+"[Sound1 bytes=\"0000\"]ゲルド族 ウルボザが操った\n"
 "[Color name=\"red\"]神獣 ヴァ・ナボリス[Color name=\"unset\"]"
 
 #, ruby
 msgid "Shinju_05_noko_Water"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]残る神獣は ゾーラ族 ミファーが操った\n"
+"[Sound1 bytes=\"0000\"]残る神獣は ゾーラ族 ミファーが操った\n"
 "[Color name=\"red\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]"
 
 #, ruby
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"24\"]感じるんじゃ…[PauseLong]\n"
+"[Sound1 bytes=\"0918\"]感じるんじゃ…[PauseLong]\n"
 "\n"
 "あやつらの存在を…[PauseLong]"
 
 msgid "Connective_PictureMemory_All"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それはそうと…[PauseLong]"
+msgstr "[Sound1 bytes=\"0000\"]それはそうと…[PauseLong]"
 
 #, ruby
 msgid "0013"
@@ -535,25 +535,25 @@ msgstr "1万年前のこと"
 #, ruby
 msgid "Talk_08"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]さあ 皆の志は1つ！\n"
+"[Sound1 bytes=\"0A16\"]さあ 皆の志は1つ！\n"
 "\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の力が弱まっておる 今こそ機なり！[PauseShort]\n"
 "姫様の元へ向かうんじゃ！"
 
 #, ruby
 msgid "Talk_20_ch4a"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]我は其方を 姫様の元に導くまでじゃ…[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]我は其方を 姫様の元に導くまでじゃ…[Choice4 label1=\"8\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の 加護があろうが\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]神獣達[Color name=\"unset\"]の 加護があろうが\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]の守りは 強固…\n"
 "其方も 心して行くのだぞ"
 
 #, ruby
 msgid "Talk_20_ch4b"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]我は其方を 姫様の元に導くまでじゃ…[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]我は其方を 姫様の元に導くまでじゃ…[Choice4 label1=\"11\" label2=\"9\" label3=\"13\" label4=\"10\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "TerrorBomb"
@@ -561,14 +561,14 @@ msgstr "ここで騒ぐでない"
 
 #, ruby
 msgid "Shinju_02_Water"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ミファーの力[Color name=\"unset\"]を 手に入れたか…"
+msgstr "[Sound1 bytes=\"0000\"][Color name=\"red\"]ミファーの力[Color name=\"unset\"]を 手に入れたか…"
 
 msgid "TerrorArrow"
 msgstr "落ち着くのじゃ！"
 
 #, ruby
 msgid "Shinju_02_Electric"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ウルボザの力[Color name=\"unset\"]を 手に入れたか…"
+msgstr "[Sound1 bytes=\"0000\"][Color name=\"red\"]ウルボザの力[Color name=\"unset\"]を 手に入れたか…"
 
 msgid "0000"
 msgstr "はい"
@@ -576,7 +576,7 @@ msgstr "はい"
 #, ruby
 msgid "Anataha00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"20\"]どうした？\n"
+"[Sound1 bytes=\"0014\"]どうした？\n"
 "\n"
 "この我を初めて見るかのような\n"
 "その眼…\n"
@@ -584,7 +584,7 @@ msgstr ""
 "インパの名くらいは 覚えておるじゃろう？[PauseLong]"
 
 msgid "Anataha01"
-msgstr "[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]しかしじゃ！[Size percent=\"100\"][PauseLong]"
+msgstr "[Sound1 bytes=\"0A16\"][Size percent=\"125\"]しかしじゃ！[Size percent=\"100\"][PauseLong]"
 
 #, ruby
 msgid "0002"
@@ -593,38 +593,38 @@ msgstr "ちょっと考えます…"
 #, ruby
 msgid "Anataha02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]姫様が命を懸け 其方に残した言葉…[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]姫様が命を懸け 其方に残した言葉…[PauseShort]\n"
 "そのお言葉を賜うこと… それすなわち\n"
-"[Sound1 unk1=\"8\" unk2=\"14\"]其方も 命を懸ける覚悟を決めるということ[PauseLong][PauseLong]\n"
+"[Sound1 bytes=\"080E\"]其方も 命を懸ける覚悟を決めるということ[PauseLong][PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"1\"]とは言え 記憶を失った今の其方に\n"
+"[Sound1 bytes=\"0901\"]とは言え 記憶を失った今の其方に\n"
 "押し付けることはできん[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]姫様のお言葉を賜う覚悟ができたら\n"
+"[Sound1 bytes=\"0000\"]姫様のお言葉を賜う覚悟ができたら\n"
 "また ここへ来るがよかろう"
 
 #, ruby
 msgid "Anataha03"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]其方… [PauseShort]やはり記憶が…[PauseLong][PauseLong]\n"
+"[Sound1 bytes=\"0A16\"]其方… [PauseShort]やはり記憶が…[PauseLong][PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"9\" unk2=\"16\"]まあ [PauseShort]今はむしろ それが救いかもしれん\n"
+"[Sound1 bytes=\"0910\"]まあ [PauseShort]今はむしろ それが救いかもしれん\n"
 "\n"
 "リンクよ…[PauseLong]\n"
 "もそっと近くへ"
 
 #, ruby
 msgid "Talk_20_ch3a"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]我は其方を 姫様の元に導くまでじゃ…[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]我は其方を 姫様の元に導くまでじゃ…[Choice3 label1=\"8\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "Shinju_05_noko_Electric"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]残る神獣は\n"
+"[Sound1 bytes=\"0000\"]残る神獣は\n"
 "ゲルド族 ウルボザが操った[Color name=\"red\"]神獣 ヴァ・ナボリス[Color name=\"unset\"]"
 
 #, ruby
 msgid "Talk_20_ch3b"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]我は其方を 姫様の元に導くまでじゃ…[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]我は其方を 姫様の元に導くまでじゃ…[Choice3 label1=\"11\" label2=\"13\" label3=\"10\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -633,12 +633,12 @@ msgstr "ハテノ村って？"
 #, ruby
 msgid "Connective_Find_4Relic_One"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ところで…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]ところで…[PauseLong]\n"
 "もしやと思ったが…[PauseLong]"
 
 msgid "Connective_Give_ChampionShirt"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"20\"]おおっ\n"
+"[Sound1 bytes=\"0A14\"]おおっ\n"
 "そうじゃった そうじゃった"
 
 msgid "TerrorExplosion"
@@ -647,21 +647,21 @@ msgstr "なんということを！"
 #, ruby
 msgid "kioku_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"17\"]しかし…\n"
+"[Sound1 bytes=\"0011\"]しかし…\n"
 "その[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]は まだ完全ではない…[PauseMid]"
 
 msgid "0006"
 msgstr "わかった"
 
 msgid "Connective_Find_4Relic_TwoOrMore"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]ところで…[PauseLong]"
+msgstr "[Sound1 bytes=\"0000\"]ところで…[PauseLong]"
 
 msgid "Connective_Demo309_0"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それはそうと…[PauseLong]"
+msgstr "[Sound1 bytes=\"0000\"]それはそうと…[PauseLong]"
 
 #, ruby
 msgid "Anataha06"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]100年前…[PauseLong]"
+msgstr "[Sound1 bytes=\"080E\"]100年前…[PauseLong]"
 
 #, ruby
 msgid "0007"
@@ -670,14 +670,14 @@ msgstr "四体の神獣？"
 #, ruby
 msgid "kioku_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゼルダ様が残されたそれは 道しるべ…[PauseLong]\n"
+"[Sound1 bytes=\"0000\"]ゼルダ様が残されたそれは 道しるべ…[PauseLong]\n"
 "そして 其方の記憶そのものじゃ[PauseLong]\n"
-"[Sound1 unk1=\"11\" unk2=\"17\"]そうだのう…[PauseLong]"
+"[Sound1 bytes=\"0B11\"]そうだのう…[PauseLong]"
 
 #, ruby
 msgid "Anataha07"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]そう…[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]そう…[PauseShort]\n"
 "ハイラル王国が滅びた 100年前のあの時…\n"
 "ゼルダ様は 最後の希望として\n"
 "倒れた其方を 聖なる眠りにつかせ…\n"
@@ -687,8 +687,8 @@ msgstr ""
 #, ruby
 msgid "kioku_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"red\"]ハテノ村の古代研究所[Color name=\"unset\"]なら\n"
-"力になってくれるかもしれんぞ？[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"][Color name=\"red\"]ハテノ村の古代研究所[Color name=\"unset\"]なら\n"
+"力になってくれるかもしれんぞ？[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0008"
@@ -697,15 +697,15 @@ msgstr "四神獣のこと教えて"
 #, ruby
 msgid "Shinju_05_Fire"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]ゴロン族 ダルケルが操った\n"
+"[Sound1 bytes=\"0000\"]ゴロン族 ダルケルが操った\n"
 "[Color name=\"red\"]神獣 ヴァ・ルーダニア[Color name=\"unset\"]"
 
 #, ruby
 msgid "Anataha08"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]そのゼルダ姫…\n"
+"[Sound1 bytes=\"0501\"]そのゼルダ姫…\n"
 "其方に向けた[Color name=\"red\"]ある言葉[Color name=\"unset\"]を この我に残された\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]そのお言葉を其方に伝える日を\n"
+"[Sound1 bytes=\"0000\"]そのお言葉を其方に伝える日を\n"
 "我は100年… [PauseShort]待っておったというわけじゃ"
 
 #, ruby
@@ -715,19 +715,19 @@ msgstr "記憶を取り戻したい"
 #, ruby
 msgid "FirstTalk_consecutive"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"20\"]…どうした[PauseLong]\n"
+"[Sound1 bytes=\"0014\"]…どうした[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"10\" unk2=\"1\"]もしかして 決心が鈍ったわけではあるまいな！\n"
+"[Sound1 bytes=\"0A01\"]もしかして 決心が鈍ったわけではあるまいな！\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]お前は目覚めたばかり…\n"
+"[Sound1 bytes=\"0B01\"]お前は目覚めたばかり…\n"
 "すぐに[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]を倒せとは言わん\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]まずは\n"
+"[Sound1 bytes=\"0000\"]まずは\n"
 "その壊れた[Color name=\"blue\"]シーカーストーン[Color name=\"unset\"]を直さんとな\n"
-"急ぎ [Color name=\"red\"]ハテノ村の古代研究所[Color name=\"unset\"]に向かうがよい[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"急ぎ [Color name=\"red\"]ハテノ村の古代研究所[Color name=\"unset\"]に向かうがよい[Choice4 label1=\"5\" label2=\"8\" label3=\"13\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Kotoba00"
-msgstr "[Sound1 unk1=\"10\" unk2=\"22\"]『[Color name=\"red\"]四体の神獣[Color name=\"unset\"]を 解放せよ』[PauseMid]と…[Choice2 label1=\"7\" label2=\"6\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0A16\"]『[Color name=\"red\"]四体の神獣[Color name=\"unset\"]を 解放せよ』[PauseMid]と…[Choice2 label1=\"7\" label2=\"6\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "ThirdShinju02"

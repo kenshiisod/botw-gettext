@@ -1,23 +1,23 @@
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]スパイごっこしてる男の子と[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]スパイごっこしてる男の子と[PauseShort]\n"
 "間違えちゃった…\n"
 "でもね 聞いて！"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]に [Color name=\"red\"]女の子[Color name=\"unset\"]いたの！\n"
+"[Sound1 bytes=\"0001\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]に [Color name=\"red\"]女の子[Color name=\"unset\"]いたの！\n"
 "\n"
 "あたし あそこから[Color name=\"red\"]女の子[Color name=\"unset\"]が\n"
 "出てくるとこ 見たもん！\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]大人に話しても信じてくれないけど[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]大人に話しても信じてくれないけど[PauseShort]\n"
 "ホントに[Color name=\"red\"]女の子[Color name=\"unset\"] いたもん！\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]なのに あそこには昔から[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]なのに あそこには昔から[PauseShort]\n"
 "お爺さんとお婆さんしか いないって…\n"
 "[Color name=\"red\"]シーカーの女の子[Color name=\"unset\"]が\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]村に入った形跡はないんだって言うの…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]村に入った形跡はないんだって言うの…[PauseMid]\n"
 "誰も信じてくれないの…"
 
 msgid "near00"
@@ -25,27 +25,27 @@ msgstr "わぁ…"
 
 #, ruby
 msgid "talk06"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]眠くなってきちゃった…"
+msgstr "[Sound1 bytes=\"0322\"]眠くなってきちゃった…"
 
 msgid "near01"
 msgstr "きれい…"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]また明日…"
+msgstr "[Sound1 bytes=\"0322\"]また明日…"
 
 msgid "near02"
 msgstr "……"
 
 #, ruby
 msgid "talk08"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]に [Color name=\"red\"]女の子[Color name=\"unset\"]… [PauseMid]いたもん[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]に [Color name=\"red\"]女の子[Color name=\"unset\"]… [PauseMid]いたもん[Size percent=\"100\"]"
 
 msgid "near03"
 msgstr "ふわぁ…"
 
 msgid "talk09"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"0\"]むにゃ…[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0000\"]むにゃ…[Size percent=\"100\"]"
 
 msgid "near04"
 msgstr "すぅ… すぅ…"
@@ -56,9 +56,9 @@ msgstr "ひゃあ！"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"0\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]の[Color name=\"red\"]女の子[Color name=\"unset\"]と[PauseShort]\n"
+"[Sound1 bytes=\"0500\"][Color name=\"blue\"]ハテノ古代研究所[Color name=\"unset\"]の[Color name=\"red\"]女の子[Color name=\"unset\"]と[PauseShort]\n"
 "お友達になりたいの\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]スパイしてる男の子が 見張ってくれてるけど[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]スパイしてる男の子が 見張ってくれてるけど[PauseShort]\n"
 "全然 出て来てくれないの…"
 
 #, ruby
@@ -67,7 +67,7 @@ msgstr "何を見たの？"
 
 #, ruby
 msgid "talk01"
-msgstr "[Sound1 unk1=\"5\" unk2=\"6\"]ねぇねぇ [PauseShort]その青いの どこでもらえるの？"
+msgstr "[Sound1 bytes=\"0506\"]ねぇねぇ [PauseShort]その青いの どこでもらえるの？"
 
 #, ruby
 msgid "0001"
@@ -76,17 +76,17 @@ msgstr "人違い？"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]わー…[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]わー…[PauseLong]\n"
 "近くで見ると お星様みたい～"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]あたし 本当に見たんだもん！\n"
+"[Sound1 bytes=\"0800\"]あたし 本当に見たんだもん！\n"
 "\n"
 "…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"10\" unk2=\"0\"]あっ… [PauseLong]えっと ごめんなさい…[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0A00\"]あっ… [PauseLong]えっと ごめんなさい…[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAH0AgAAAAAAABIAAAAEAAAAUAAAAHoAAACkAAAAzgAAAPgAAAAiAQAATAEAAE4BAABQAQAAegEAAKQBAADOAQAA+AEAACICAABMAgAAdgIAAKACAADKAgAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAATgBwAGMAXwBIAGEAdABlAG4AbwBWAGkAbABsAGEAZwBlADAAMgA5AAAAAAAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAE4AcABjAF8ASABhAHQAZQBuAG8AVgBpAGwAbABhAGcAZQAwADIAOQAAAAAAAA=="

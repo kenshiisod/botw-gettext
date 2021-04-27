@@ -1,76 +1,76 @@
 msgid "talk15"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ik wil niet slapen! [PauseShort]Ik ben niet eens moe!"
+msgstr "[Sound1 bytes=\"0800\"]Ik wil niet slapen! [PauseShort]Ik ben niet eens moe!"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Vertel me een verhaaltje![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Vertel me een verhaaltje![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Ik voel me goed!"
+msgstr "[Sound1 bytes=\"0009\"]Ik voel me goed!"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]Ik haat het tot op het bot!"
+msgstr "[Sound1 bytes=\"080E\"]Ik haat het tot op het bot!"
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]...[PageBreak]... ..."
+msgstr "[Sound1 bytes=\"0001\"]...[PageBreak]... ..."
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Vertel me iets anders![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0001\"]Vertel me iets anders![Choice4Flags label1=\"6\" label2=\"7\" label3=\"8\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ik zei toch al dat ik me goed voel!"
+msgstr "[Sound1 bytes=\"020E\"]Ik zei toch al dat ik me goed voel!"
 
 msgid "talk22"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ik haat het, ik haat het, ik haat het!"
+msgstr "[Sound1 bytes=\"020E\"]Ik haat het, ik haat het, ik haat het!"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]...Maar ik zou wel een stukje cake lusten!"
+msgstr "[Sound1 bytes=\"0000\"]...Maar ik zou wel een stukje cake lusten!"
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Wie is dat? [PauseShort]Ken ik niet!"
+msgstr "[Sound1 bytes=\"020E\"]Wie is dat? [PauseShort]Ken ik niet!"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ik wil niet dat je nog eens langskomt!"
+msgstr "[Sound1 bytes=\"0000\"]Ik wil niet dat je nog eens langskomt!"
 
 msgid "near00"
 msgstr "Zzz... Mmm..."
 
 msgid "talk26"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]Het is de reiziger![PauseLong] Zeg het eens..."
+msgstr "[Sound1 bytes=\"0700\"]Het is de reiziger![PauseLong] Zeg het eens..."
 
 msgid "near01"
 msgstr "Pomptiedom!♪"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Wat? Dat is saai!"
+msgstr "[Sound1 bytes=\"020E\"]Wat? Dat is saai!"
 
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Ik ga slapen![PauseLong] Dat moet van mama..."
+msgstr "[Sound1 bytes=\"000C\"]Ik ga slapen![PauseLong] Dat moet van mama..."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"][Size percent=\"80\"]ZZZzzz...[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0021\"][Size percent=\"80\"]ZZZzzz...[Size percent=\"100\"]"
 
 msgid "talk29"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Ik ga slapen.[PauseLong] Kom maar een andere keer\n"
+"[Sound1 bytes=\"0002\"]Ik ga slapen.[PauseLong] Kom maar een andere keer\n"
 "terug om te praten."
 
 msgid "0000"
 msgstr "Klopt."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Goeiemorgen!"
+msgstr "[Sound1 bytes=\"0000\"]Goeiemorgen!"
 
 msgid "0001"
 msgstr "Tot ziens."
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hoi!"
+msgstr "[Sound1 bytes=\"0000\"]Hoi!"
 
 msgid "0002"
 msgstr "Best leuk!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Goeienavond!"
+msgstr "[Sound1 bytes=\"0000\"]Goeienavond!"
 
 msgid "0003"
 msgstr "Het is best moeilijk."
@@ -79,13 +79,13 @@ msgid "0004"
 msgstr "Absoluut."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ben je een reiziger?[Choice2 label1=\"0\" label2=\"9\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Ben je een reiziger?[Choice2 label1=\"0\" label2=\"9\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "M-monsters...?"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Is het leuk?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0010\"]Is het leuk?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0006"
 msgstr "Hoe voel je je?"
@@ -94,44 +94,44 @@ msgid "0007"
 msgstr "Wat eet je graag?"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]O!"
+msgstr "[Sound1 bytes=\"0000\"]O!"
 
 msgid "0008"
 msgstr "Ken je Ganon?"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]Als ik later groot ben,[PauseShort] wil ik zelf de wijde\n"
+"[Sound1 bytes=\"010A\"]Als ik later groot ben,[PauseShort] wil ik zelf de wijde\n"
 "wereld intrekken."
 
 msgid "0009"
 msgstr "Precies."
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Aha!"
+msgstr "[Sound1 bytes=\"010B\"]Aha!"
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Heb je weleens van [Color name=\"blue\"]monstertaart[Color name=\"unset\"]\n"
-"gehoord?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0B00\"]Heb je weleens van [Color name=\"blue\"]monstertaart[Color name=\"unset\"]\n"
+"gehoord?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Mama had er eentje voor me gekocht...[PauseShort]\n"
-"Hij was heel vies![PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Maar toen ik de [Color name=\"blue\"]monstertaart [Color name=\"unset\"]at, [PauseShort]werd ik\n"
+"[Sound1 bytes=\"070A\"]Mama had er eentje voor me gekocht...[PauseShort]\n"
+"Hij was heel vies![PageBreak][Sound1 bytes=\"0101\"]Maar toen ik de [Color name=\"blue\"]monstertaart [Color name=\"unset\"]at, [PauseShort]werd ik\n"
 "heel erg sterk! Je zou ook eens een\n"
 "stukje moeten proberen!"
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Vies, hè?[PageBreak][Sound1 unk1=\"1\" unk2=\"1\"]Ik weet niet of het door de [Color name=\"blue\"]monstertaart[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"070A\"]Vies, hè?[PageBreak][Sound1 bytes=\"0101\"]Ik weet niet of het door de [Color name=\"blue\"]monstertaart[Color name=\"unset\"]\n"
 "komt, [PauseShort]maar ik heb ineens heel veel\n"
 "energie.\n"
 "Als je een keer geen energie hebt,[PauseShort] moet\n"
 "je ook eens een stukje proberen."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Ik wil niet slapen!"
+msgstr "[Sound1 bytes=\"0800\"]Ik wil niet slapen!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAEwBQAAAAAAACgAAAAEAAAAqAAAAM4AAAD0AAAA9gAAAPgAAAD6AAAA/AAAAP4AAAAAAQAAAgEAAAQBAAAGAQAACAEAAC4BAABUAQAAegEAAKABAADGAQAA7AEAABICAAA4AgAAXgIAAIQCAACqAgAA0AIAAPYCAAAcAwAAQgMAAGgDAACOAwAAtAMAANoDAAAABAAAJgQAAEwEAAByBAAAmAQAAL4EAADkBAAACgUAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAATgBwAGMAXwBVAE0AaQBpAFYAaQBsAGwAYQBnAGUAMAAwADMAAABOAHAAYwBfAFUATQBpAGkAVgBpAGwAbABhAGcAZQAwADAAMwAAAE4AcABjAF8AVQBNAGkAaQBWAGkAbABsAGEAZwBlADAAMAAzAAAAAAAA"

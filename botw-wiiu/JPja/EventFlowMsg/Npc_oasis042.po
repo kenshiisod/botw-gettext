@@ -1,10 +1,10 @@
 msgid "Npc_oasis042_003"
-msgstr "[Sound1 unk1=\"0\" unk2=\"27\"]サヴォッタ！[PauseLong]"
+msgstr "[Sound1 bytes=\"001B\"]サヴォッタ！[PauseLong]"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]バレッタから聞いている\n"
+"[Sound1 bytes=\"0700\"]バレッタから聞いている\n"
 "色々と世話になったようだな\n"
 "しかし 賊を倒したとはいえ\n"
 "我々は まだ油断はできない\n"
@@ -12,19 +12,19 @@ msgstr ""
 "警備を怠らんようにしないとな"
 
 msgid "Npc_oasis042_004"
-msgstr "[Sound1 unk1=\"0\" unk2=\"28\"]サヴァーク！[PauseLong]"
+msgstr "[Sound1 bytes=\"001C\"]サヴァーク！[PauseLong]"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]わかったなら [PauseShort]\n"
+"[Sound1 bytes=\"0004\"]わかったなら [PauseShort]\n"
 "さっさとここから離れるんだな"
 
 msgid "TerrorArrow"
 msgstr "や やめろ！"
 
 msgid "Npc_oasis042_005"
-msgstr "[Sound1 unk1=\"0\" unk2=\"29\"]サヴァサーバ！[PauseLong]"
+msgstr "[Sound1 bytes=\"001D\"]サヴァサーバ！[PauseLong]"
 
 #, ruby
 msgid "TerrorBomb"
@@ -36,13 +36,13 @@ msgstr "や やめい！"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それはな…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]それはな…[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"8\" unk2=\"0\"]ってお前みたいな一般人に\n"
+"[Sound1 bytes=\"0800\"]ってお前みたいな一般人に\n"
 "いう訳ないだろ！\n"
 "国家の機密事項だぞ！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"blue\"]チーク隊長[Color name=\"unset\"]からの\n"
+"[Sound1 bytes=\"0000\"][Color name=\"blue\"]チーク隊長[Color name=\"unset\"]からの\n"
 "許可でもでれば別だけどな"
 
 msgid "TerrorExplosion"
@@ -55,21 +55,21 @@ msgstr "何かあったの？"
 #, ruby
 msgid "Raimei_CK_001"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ぬぉっ！\n"
+"[Sound1 bytes=\"0A00\"]ぬぉっ！\n"
 "\n"
 "それは[Color name=\"blue\"]雷鳴の兜[Color name=\"unset\"]ではないか！\n"
 "なぜお前が被っているんだ！！\n"
 "私など 触れるどころか\n"
 "近付く事さえ ままならなかったというのに…[PauseLong]\n"
-"[Sound1 unk1=\"9\" unk2=\"0\"]うう…[PauseLong]\n"
+"[Sound1 bytes=\"0900\"]うう…[PauseLong]\n"
 "こいつらさえ 私の足を引っ張らなければ\n"
 "お前の代わりに 私が賊を倒し\n"
 "族長様のお供をしたものを…\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]とはいえ こいつらとも\n"
+"[Sound1 bytes=\"0000\"]とはいえ こいつらとも\n"
 "もう長い付き合いでな\n"
 "出来の悪いヤツほど\n"
 "かわいく見えてくるんだよなぁ\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]でもなぁ… こいつらがいる限りは\n"
+"[Sound1 bytes=\"0510\"]でもなぁ… こいつらがいる限りは\n"
 "やっぱり 出世は見込めないだろうなぁ… "
 
 #, ruby
@@ -79,10 +79,10 @@ msgstr "や やる気か！"
 #, ruby
 msgid "Npc_oasis042_001"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]一般人が何の用だ？\n"
+"[Sound1 bytes=\"0006\"]一般人が何の用だ？\n"
 "ここは兵舎だぞ！\n"
 "今 ここは厳戒態勢中なんだ\n"
-"観光なら市場にでも行くんだな[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"観光なら市場にでも行くんだな[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "わかった"
@@ -90,13 +90,13 @@ msgstr "わかった"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]さっきの褒美で\n"
+"[Sound1 bytes=\"0700\"]さっきの褒美で\n"
 "街を楽しんでくるといいぞ"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]お前…\n"
+"[Sound1 bytes=\"0709\"]お前…\n"
 "なかなか見どころがあるな"
 
 msgid "_ReadOnly_MsbtExtras"

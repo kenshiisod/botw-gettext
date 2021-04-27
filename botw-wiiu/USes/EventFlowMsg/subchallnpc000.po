@@ -1,34 +1,34 @@
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]Ya casi lo tengo...[PauseMid] Un poquito más\n"
+"[Sound1 bytes=\"0B01\"]Ya casi lo tengo...[PauseMid] Un poquito más\n"
 "y lo habré resuelto."
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Verdad, Dondak?"
+msgstr "[Sound1 bytes=\"0000\"]¿Verdad, Dondak?"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]¡Eres el mejor, Dondak! ¡Solo alguien\n"
-"con tu intelecto podría conseguirlo![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0700\"]¡Eres el mejor, Dondak! ¡Solo alguien\n"
+"con tu intelecto podría conseguirlo![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Sí, sí...[PauseLong] Ajá."
+msgstr "[Sound1 bytes=\"0B01\"]Sí, sí...[PauseLong] Ajá."
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]¿Tú? No seas mentiroso."
+msgstr "[Sound1 bytes=\"0800\"]¿Tú? No seas mentiroso."
 
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]\"El puente que no está sostenido cruza\n"
+"[Sound1 bytes=\"0B00\"]\"El puente que no está sostenido cruza\n"
 "el río.[PauseShort] Al remontar el curso acecha una\n"
 "cortina de agua que no cesa\"."
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"4\" unk2=\"20\"]No intentes engañarnos, chico."
+msgstr "[Sound1 bytes=\"0414\"]No intentes engañarnos, chico."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"1\"]Nadie en el mundo es capaz de resolver\n"
+"[Sound1 bytes=\"0801\"]Nadie en el mundo es capaz de resolver\n"
 "acertijos más rápido que mi hermano."
 
 msgid "0000"
@@ -36,14 +36,14 @@ msgstr "Yo ya lo resolví"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]Eh, graciosillo. ¿Por qué no te haces\n"
+"[Sound1 bytes=\"020E\"]Eh, graciosillo. ¿Por qué no te haces\n"
 "a un lado y dejas de molestar?"
 
 msgid "0001"
 msgstr "Suerte..."
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]Sí, sí...[PauseLong] Ya casi está."
+msgstr "[Sound1 bytes=\"0B01\"]Sí, sí...[PauseLong] Ya casi está."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "BwAAAAGaAQAAAAAAAAwAAAAEAAAAOAAAAFYAAAB+AAAAgAAAAIIAAACqAAAAyAAAAPAAAAAYAQAAQAEAAF4BAAB8AQAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAF8AdAB3AGkAbgAAAAAAAABzAHUAYgBjAGgAYQBsAGwAbgBwAGMAMAAwADAAXwB0AHcAaQBuAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAF8AdAB3AGkAbgAAAHMAdQBiAGMAaABhAGwAbABuAHAAYwAwADAAMABfAHQAdwBpAG4AAABzAHUAYgBjAGgAYQBsAGwAbgBwAGMAMAAwADAAXwB0AHcAaQBuAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAAAAcwB1AGIAYwBoAGEAbABsAG4AcABjADAAMAAwAAAAAAAA"

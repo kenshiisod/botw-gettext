@@ -1,38 +1,38 @@
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]おかあさんの ごはん\n"
+"[Sound1 bytes=\"0700\"]おかあさんの ごはん\n"
 "おいしいんだよ！"
 
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]もう ねるの…[PauseMid]\n"
+"[Sound1 bytes=\"0022\"]もう ねるの…[PauseMid]\n"
 "おやすみ"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]これから 晩ごはんなんだ[PauseMid]\n"
+"[Sound1 bytes=\"0709\"]これから 晩ごはんなんだ[PauseMid]\n"
 "今日は [Color name=\"blue\"]海鮮パエリア[Color name=\"unset\"]なんだ うれしいな！"
 
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]今日の晩ごはんは [Color name=\"blue\"]海鮮パエリア[Color name=\"unset\"]がいいなあ[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]今日の晩ごはんは [Color name=\"blue\"]海鮮パエリア[Color name=\"unset\"]がいいなあ[PauseMid]\n"
 "あれ おいしいんだよね"
 
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]おかあさん おなかすいたよ～[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]おかあさん おなかすいたよ～[PauseMid]\n"
 "ごはん まだ～？"
 
 #, ruby
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]今日の晩ごはんは [Color name=\"blue\"]海鮮パエリア[Color name=\"unset\"]だって！[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]今日の晩ごはんは [Color name=\"blue\"]海鮮パエリア[Color name=\"unset\"]だって！[PauseMid]\n"
 "あれ おいしいんだよね"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]すーすー"
+msgstr "[Sound1 bytes=\"0021\"]すーすー"
 
 msgid "Near00"
 msgstr "はーい"
@@ -40,7 +40,7 @@ msgstr "はーい"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]これから 晩ごはんなんだ[PauseMid]\n"
+"[Sound1 bytes=\"0109\"]これから 晩ごはんなんだ[PauseMid]\n"
 "今日は なにかな"
 
 msgid "Near01"

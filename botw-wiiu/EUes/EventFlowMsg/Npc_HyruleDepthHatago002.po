@@ -1,6 +1,6 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]Haz el favor de entrar aquí dentro,\n"
+"[Sound1 bytes=\"0300\"]Haz el favor de entrar aquí dentro,\n"
 "chico.[PauseMid] Vas a pillar un resfriado de\n"
 "aúpa."
 
@@ -9,7 +9,7 @@ msgstr "[Sound2 id=\"1\"]¡A comer!"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]Lo siento, es imposible usar la cacerola\n"
+"[Sound1 bytes=\"0312\"]Lo siento, es imposible usar la cacerola\n"
 "cuando está lloviendo.[PauseMid] ¿Por qué no te\n"
 "quedas a pasar la noche?"
 
@@ -21,7 +21,7 @@ msgstr "Zzz... Zzz..."
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"18\"]Perdona,[PauseMid] pero estoy descansando.\n"
+"[Sound1 bytes=\"0312\"]Perdona,[PauseMid] pero estoy descansando.\n"
 "Hablamos en otro momento, si te\n"
 "parece bien."
 
@@ -30,7 +30,7 @@ msgstr "[Sound2 id=\"32\"]Qué tarde es."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hay que comer muchas verduras...[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]Hay que comer muchas verduras...[PauseMid]\n"
 "Ñam, ñam... ¡Que son sanas!"
 
 msgid "Near_RunRain00"
@@ -40,7 +40,7 @@ msgid "Near_RunRain01"
 msgstr "Llueve sin parar..."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]¿Quieres usar la cacerola?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0000\"]¿Quieres usar la cacerola?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "¿La cacerola?"
@@ -50,13 +50,13 @@ msgstr "No, gracias"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]En las postas no servimos comida, chico,\n"
+"[Sound1 bytes=\"0000\"]En las postas no servimos comida, chico,\n"
 "pero hay cacerolas disponibles para que\n"
 "las usen los viajeros."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Habla con el jefe Imbren si\n"
+"[Sound1 bytes=\"0000\"]Habla con el jefe Imbren si\n"
 "necesitas algo.[PageBreak]Si quieres indicaciones para llegar\n"
 "a algún lugar, entonces te recomiendo\n"
 "que preguntes a Trott, el aprendiz."

@@ -1,6 +1,6 @@
 #, ruby
 msgid "Talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠のお宝は まだかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]祠のお宝は まだかの？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "NakedPlayer"
@@ -12,7 +12,7 @@ msgstr "何じゃ？"
 
 #, ruby
 msgid "Talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]祠の探索 はかどっておるかの？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]祠の探索 はかどっておるかの？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0001"
@@ -38,13 +38,13 @@ msgstr "さようなら"
 #, ruby
 msgid "Takibi00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]腰が痛うて たまらんのでな…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]腰が痛うて たまらんのでな…[PauseMid]\n"
 "休憩中じゃ"
 
 #, ruby
 msgid "Takibi01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]して お主… 腹は減っておらんか？[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]して お主… 腹は減っておらんか？[PauseMid]\n"
 "わしの料理鍋 好きに使うてもいいぞ"
 
 msgid "Near00"
@@ -56,8 +56,8 @@ msgstr "ひぃーっ！"
 #, ruby
 msgid "Takibi02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]料理がしたいなら\n"
-"わしの料理鍋 好きに使うてもいいぞ[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]料理がしたいなら\n"
+"わしの料理鍋 好きに使うてもいいぞ[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Near01"
@@ -69,13 +69,13 @@ msgstr "あちゃっ"
 #, ruby
 msgid "Takibi03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]わしの料理鍋なら 好きに使うてもいいぞ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]わしの料理鍋なら 好きに使うてもいいぞ[PauseMid]\n"
 "また センスのいい料理を作るがいい"
 
 #, ruby
 msgid "Sleep00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]明日も 早い…[PauseMid]\n"
+"[Sound1 bytes=\"0009\"]明日も 早い…[PauseMid]\n"
 "お主も ここで休んでいくがいい"
 
 #, ruby
@@ -95,7 +95,7 @@ msgstr "Zzz... Zzz..."
 msgid "Takibi05"
 msgstr ""
 "火なら そっちの たき火から\n"
-"移してくれたらいいからのう[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"移してくれたらいいからのう[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near04"
 msgstr "……"
@@ -109,7 +109,7 @@ msgstr "むう…"
 #, ruby
 msgid "Sleep03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]獲物が 獲れんかったら\n"
+"[Sound1 bytes=\"000D\"]獲物が 獲れんかったら\n"
 "寝るしかないじゃろう？"
 
 #, ruby
@@ -119,7 +119,7 @@ msgstr "何をする！"
 #, ruby
 msgid "Kari00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]見てわからんか？\n"
+"[Sound1 bytes=\"0013\"]見てわからんか？\n"
 "わしは 狩りを しとるんじゃ…\n"
 "そんなところに立たれたら 獲物に気づかれるわ\n"
 "しゃがんで 静かにしてくれないか"
@@ -136,8 +136,8 @@ msgstr ""
 #, ruby
 msgid "TalkBokangi00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]なんじゃ…[PauseMid]\n"
-"せっかく 寝てたというにのう[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"000C\"]なんじゃ…[PauseMid]\n"
+"せっかく 寝てたというにのう[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Kari02"
@@ -158,13 +158,13 @@ msgstr "ひぃーっ！"
 
 #, ruby
 msgid "TalkBokangi01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"13\"]寝てたというに しつこいのう…[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"000D\"]寝てたというに しつこいのう…[Choice4Flags label1=\"65535\" label2=\"1\" flag2=\"Npc_King_Vagrant004_Have_Dish\" label3=\"2\" label4=\"3\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Kari03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]狩りじゃと言ったろう…[PauseMid]\n"
-"しゃがみ過ぎて 腰が痛うなってきたわ[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000D\"]狩りじゃと言ったろう…[PauseMid]\n"
+"しゃがみ過ぎて 腰が痛うなってきたわ[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "KariKotsu02"
@@ -175,112 +175,112 @@ msgstr ""
 #, ruby
 msgid "Kari04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]静かにせいと言うに…[PauseMid]\n"
-"狩りをしとると言ったろう[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]静かにせいと言うに…[PauseMid]\n"
+"狩りをしとると言ったろう[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "KariKotsu03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]わしは ちょっと疲れたのでな…[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]わしは ちょっと疲れたのでな…[PauseMid]\n"
 "少し休むとしよう"
 
 #, ruby
 msgid "KariKotsu04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]腰が痛うなってきたのでな…[PauseMid]\n"
+"[Sound1 bytes=\"000C\"]腰が痛うなってきたのでな…[PauseMid]\n"
 "今日の狩りは しまいじゃよ"
 
 #, ruby
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]祠のお宝 楽しみにしておるぞ"
+msgstr "[Sound1 bytes=\"0001\"]祠のお宝 楽しみにしておるぞ"
 
 #, ruby
 msgid "GoodBye01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"[Sound1 bytes=\"0701\"][Sound2 id=\"8\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
 "[Color name=\"blue\"]パラセール[Color name=\"unset\"]が欲しかったら がんばることじゃ"
 
 #, ruby
 msgid "GoodBye02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]むう…[PauseMid]\n"
+"[Sound1 bytes=\"0005\"]むう…[PauseMid]\n"
 "用もないのに 起こすでないぞ"
 
 msgid "1002"
 msgstr "なにしてるの？"
 
 msgid "Hadaka00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]え…[PauseMid] わしか？！"
+msgstr "[Sound1 bytes=\"0001\"]え…[PauseMid] わしか？！"
 
 msgid "1003"
 msgstr "さようなら"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]うん？ なんじゃ？[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0002\"]うん？ なんじゃ？[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"また会うたな[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"また会うたな[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]のう お主…[PauseMid]\n"
-"いつまで そんな格好でおるつもりじゃ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]のう お主…[PauseMid]\n"
+"いつまで そんな格好でおるつもりじゃ[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]どいた どいた[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"000E\"]どいた どいた[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
-"また 獲物に逃げられてしもうたわい[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ[PauseMid]\n"
+"また 獲物に逃げられてしもうたわい[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]お主に 狩場を荒らされたおかげで\n"
-"何も 獲れんかったわい…[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]お主に 狩場を荒らされたおかげで\n"
+"何も 獲れんかったわい…[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "TerrorInsect"
 msgstr "ひぃーっ！"
 
 #, ruby
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]静かじゃのう…[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0004\"]静かじゃのう…[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]なんじゃ…[PauseMid]\n"
-"せっかく 寝てたというにのう[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]なんじゃ…[PauseMid]\n"
+"せっかく 寝てたというにのう[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"15\"]しっ…[PauseMid]\n"
-"静かにせい[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000F\"]しっ…[PauseMid]\n"
+"静かにせい[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]木を切るなら よそでしてくれ…[PauseMid]\n"
-"獲物が 逃げてしまうわ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000D\"]木を切るなら よそでしてくれ…[PauseMid]\n"
+"獲物が 逃げてしまうわ[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]静かにせんか…[PauseMid]\n"
-"獲物が 逃げてしまうわ[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"000C\"]静かにせんか…[PauseMid]\n"
+"獲物が 逃げてしまうわ[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]夜は魔物も増えて 危ないぞ[PauseMid]\n"
-"朝まで ここで休んで行くがいい[Choice2 label1=\"1002\" label2=\"1003\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]夜は魔物も増えて 危ないぞ[PauseMid]\n"
+"朝まで ここで休んで行くがいい[Choice2 label1=\"1002\" label2=\"1003\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "KwAAAAGmBwAAAAAAADsAAAAEAAAA9AAAABwBAABEAQAAbAEAAJQBAAC8AQAA5AEAAAwCAAA0AgAAXAIAAIQCAACsAgAA1AIAAPwCAAAkAwAAJgMAACgDAABQAwAAeAMAAKADAADIAwAA8AMAABgEAABABAAAQgQAAEQEAABsBAAAlAQAALwEAADkBAAADAUAADQFAABcBQAAhAUAAKwFAACuBQAAsAUAALIFAADaBQAAAgYAACoGAABSBgAAegYAAKIGAADKBgAA8gYAABoHAABCBwAAagcAAJIHAACUBwAAlgcAAJgHAACaBwAAnAcAAJ4HAACgBwAAogcAAKQHAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAE4AcABjAF8ASwBpAG4AZwBfAFYAYQBnAHIAYQBuAHQAMAAwADUAAABOAHAAYwBfAEsAaQBuAGcAXwBWAGEAZwByAGEAbgB0ADAAMAA1AAAATgBwAGMAXwBLAGkAbgBnAF8AVgBhAGcAcgBhAG4AdAAwADAANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

@@ -1,7 +1,7 @@
 #, ruby
 msgid "Npc_kokiri002_S020_Talk500"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]暑いところにある [PauseShort][Color name=\"red\"]料理すると\n"
+"[Sound1 bytes=\"0700\"]暑いところにある [PauseShort][Color name=\"red\"]料理すると\n"
 "ポカポカするダケのもの[PauseMid] [Color name=\"unset\"]なーんゾナ？"
 
 msgid "Npc_kokiri002_R_Near000"
@@ -10,7 +10,7 @@ msgstr "[Sound2 id=\"31\"]むにゃゾナ…"
 #, ruby
 msgid "Npc_kokiri002_R_Talk040"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]わかったゾナ？[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]わかったゾナ？[PauseMid]\n"
 "わからないゾナ？\n"
 "正解を 葉の上に置いたら\n"
 "踊ってやるゾナ！"
@@ -18,7 +18,7 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri002_F_Talk010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]答えのものを 持ってきたら\n"
+"[Sound1 bytes=\"0000\"]答えのものを 持ってきたら\n"
 "そこの[Color name=\"red\"]葉[Color name=\"unset\"]の上に置くゾナ\n"
 "正しいものを置いたら\n"
 "踊ってやるゾナ\n"
@@ -31,7 +31,7 @@ msgstr "挑戦する"
 #, ruby
 msgid "Npc_kokiri002_S030_Talk500"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]ビリビリに強くなっちゃいマス！[PauseMid][Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0700\"][Color name=\"red\"]ビリビリに強くなっちゃいマス！[PauseMid][Color name=\"unset\"]\n"
 "なーんゾナ？"
 
 #, ruby
@@ -41,20 +41,20 @@ msgstr "今はちょっと…"
 #, ruby
 msgid "Npc_kokiri002_F_Talk030"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]さすが ゆうしゃサマ ゾナ！\n"
+"[Sound1 bytes=\"070A\"]さすが ゆうしゃサマ ゾナ！\n"
 "ほれ ご褒美をあげるゾナ"
 
 msgid "Npc_kokiri002_S040_Talk500"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]ツメはツメでも ヒのついたツメ[Color name=\"unset\"]は[PauseMid]\n"
+"[Sound1 bytes=\"0700\"][Color name=\"red\"]ツメはツメでも ヒのついたツメ[Color name=\"unset\"]は[PauseMid]\n"
 "なーんゾナ？"
 
 #, ruby
 msgid "Npc_kokiri002_F_Talk031"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"][Animation name=\"Think_01\"]ゾナ…？[PauseMid]\n"
+"[Sound1 bytes=\"0B01\"][Animation name=\"Think_01\"]ゾナ…？[PauseMid]\n"
 "ゆうしゃサマ ダイヤモンドいっぱいゾナ\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]ナゾナゾのご褒美に ダイヤモンドを\n"
+"[Sound1 bytes=\"0000\"]ナゾナゾのご褒美に ダイヤモンドを\n"
 "あげようと 思ってたゾナ…\n"
 "受け取れるようになったら 起こしてゾナ[PauseLong]\n"
 "……ぐう"
@@ -62,8 +62,8 @@ msgstr ""
 #, ruby
 msgid "Npc_kokiri002_R_Talk010"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]ふぁ～あ…[PauseShort]\n"
-"[Color name=\"red\"]究極のしれん[Color name=\"unset\"]に 挑戦してみるゾナ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0022\"]ふぁ～あ…[PauseShort]\n"
+"[Color name=\"red\"]究極のしれん[Color name=\"unset\"]に 挑戦してみるゾナ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Npc_kokiri002_F_Talk050"
 msgstr "[Size percent=\"125\"][Sound2 id=\"9\"][Color name=\"red\"]リンゴ[Color name=\"unset\"]ゾナ！ [PauseMid][Color name=\"red\"]リンゴ[Color name=\"unset\"]ゾナ！！[Size percent=\"100\"]"
@@ -73,18 +73,18 @@ msgstr "[Size percent=\"125\"][Sound2 id=\"9\"][Color name=\"red\"]ヨロイカ�
 
 msgid "Npc_kokiri002_R_Talk030"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]ふぁふぁふぁ\n"
+"[Sound1 bytes=\"070A\"]ふぁふぁふぁ\n"
 "おじけづいたか！"
 
 #, ruby
 msgid "Npc_kokiri002_S010_Talk500"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]カカリコ村名産！\n"
+"[Sound1 bytes=\"0700\"]カカリコ村名産！\n"
 "[Color name=\"red\"]カッチコチの野菜[Color name=\"unset\"]って なーんゾナ？"
 
 msgid "Npc_kokiri002_F_Talk000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]………………ゾ？[PauseShort]\n"
+"[Sound1 bytes=\"0022\"]………………ゾ？[PauseShort]\n"
 "ふぁ～あ…"
 
 msgid "Npc_kokiri002_F_Talk052"
@@ -96,7 +96,7 @@ msgstr "[Sound2 id=\"9\"][Size percent=\"125\"][Color name=\"red\"]ビリビリ�
 #, ruby
 msgid "Npc_kokiri002_R_Talk500"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"][Color name=\"red\"]小さくて [PauseShort]赤くて [PauseShort]まあるくて [PauseShort]シャリっとした[PauseShort]\n"
+"[Sound1 bytes=\"0700\"][Color name=\"red\"]小さくて [PauseShort]赤くて [PauseShort]まあるくて [PauseShort]シャリっとした[PauseShort]\n"
 "あまーい[Color name=\"unset\"]の [PauseMid]なーんゾナ？"
 
 msgid "Npc_kokiri002_F_Talk054"
@@ -104,38 +104,38 @@ msgstr "[Size percent=\"125\"][Sound2 id=\"9\"][Color name=\"red\"]ライネル�
 
 #, ruby
 msgid "Npc_kokiri002_F_Talk020"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"7\" unk2=\"26\"]それゾナ！ [PauseShort]それゾナ！[PageBreak][Sound2 id=\"8\"]正解ゾナ！ [PauseShort]踊るゾナ！[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"071A\"]それゾナ！ [PauseShort]それゾナ！[PageBreak][Sound2 id=\"8\"]正解ゾナ！ [PauseShort]踊るゾナ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_kokiri002_F_Talk021"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…コホン[PauseMid]\n"
+"[Sound1 bytes=\"0000\"]…コホン[PauseMid]\n"
 "では 次のお題を出すゾナ！"
 
 #, ruby
 msgid "Npc_kokiri002_R_Talk000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]……[PauseShort]……[PauseShort]……ゾ？[PageBreak][Sound2 id=\"32\"]ふぁ～あ…[PauseShort]\n"
+"[Sound1 bytes=\"0013\"]……[PauseShort]……[PauseShort]……ゾ？[PageBreak][Sound2 id=\"32\"]ふぁ～あ…[PauseShort]\n"
 "ついつい寝てしまいましたですゾ…\n"
-"[Sound1 unk1=\"11\" unk2=\"25\"]このわしを 見つけたということは…[PauseMid]\n"
-"[Color name=\"red\"]究極のしれん[Color name=\"unset\"]に 挑戦するのですゾナ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B19\"]このわしを 見つけたということは…[PauseMid]\n"
+"[Color name=\"red\"]究極のしれん[Color name=\"unset\"]に 挑戦するのですゾナ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_kokiri002_F_Talk022"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]これが 最後のお題ゾナ！[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]これが 最後のお題ゾナ！[PauseShort]\n"
 "心して かかるゾナ！"
 
 #, ruby
 msgid "Npc_kokiri002_F_Talk040"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"32\"]もう なぞなぞは出し尽くしてしまったゾナ…[PauseShort]\n"
+"[Sound1 bytes=\"0620\"]もう なぞなぞは出し尽くしてしまったゾナ…[PauseShort]\n"
 "ワシの負けゾナ 大したモンだゾナ"
 
 #, ruby
 msgid "Npc_kokiri002_R_Talk020"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"18\"]ゾナゾナ… [PauseShort]コホン\n"
+"[Sound1 bytes=\"0612\"]ゾナゾナ… [PauseShort]コホン\n"
 "では [Color name=\"red\"]究極のしれん[Color name=\"unset\"]… [PauseShort]はじめるゾナ！\n"
 "わしがいう 手がかりを元に\n"
 "現物を ここへ持ってくるゾナ"

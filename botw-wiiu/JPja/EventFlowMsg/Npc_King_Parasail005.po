@@ -7,16 +7,16 @@ msgstr ""
 #, ruby
 msgid "Appear01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]これで この台地にある全ての祠で\n"
+"[Sound1 bytes=\"0001\"]これで この台地にある全ての祠で\n"
 "[Color name=\"blue\"]克服の証[Color name=\"unset\"]を 手に入れたことになるのう…"
 
 msgid "Appear02"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]ふぉっ ふぉっ ふぉっ"
 
 #, ruby
 msgid "Appear03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]時が来たな\n"
+"[Sound1 bytes=\"0009\"]時が来たな\n"
 "\n"
 "リンク…[PauseLong]\n"
 "お主に 全てを話す時が"

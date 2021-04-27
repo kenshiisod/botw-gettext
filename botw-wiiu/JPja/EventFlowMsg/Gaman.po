@@ -7,14 +7,14 @@ msgstr ""
 #, ruby
 msgid "Event_S1_002_03_01"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]ボク達の先祖が修行した地…\n"
+"[Sound1 bytes=\"0610\"]ボク達の先祖が修行した地…\n"
 "その中でも 特別キッツい ガマンの場だゴロ…"
 
 #, ruby
 msgid "Npc_Gaman01_S2_002"
 msgstr ""
 "よく戻って来たゴロ！\n"
-"特別な[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]に挑戦するゴロか？！[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"特別な[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]に挑戦するゴロか？！[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Event_S1_002_03_02"
@@ -23,7 +23,7 @@ msgstr "特別な修行の場は この土俵の上ゴロよ…"
 #, ruby
 msgid "Npc_Gaman01_S2_003"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"4\"]よし！ よく言ったゴロ！\n"
+"[Sound1 bytes=\"0204\"]よし！ よく言ったゴロ！\n"
 "では土俵の上に乗るゴロ！"
 
 #, ruby
@@ -33,13 +33,13 @@ msgstr "[Sound2 id=\"9\"]もっと熱くゴロ！"
 #, ruby
 msgid "Event_S1_003_03_01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"16\"]今回は残念ゴロけど\n"
+"[Sound1 bytes=\"0910\"]今回は残念ゴロけど\n"
 "[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は ここまでゴロよ…"
 
 #, ruby
 msgid "Npc_Gaman01_S2_004"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]土俵の上に乗ったら\n"
+"[Sound1 bytes=\"0201\"]土俵の上に乗ったら\n"
 "特別な[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]の始まりゴロ！"
 
 #, ruby
@@ -49,7 +49,7 @@ msgstr "熱く！ 熱くゴロ！"
 #, ruby
 msgid "Npc_Gaman01_S2_005"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"8\"]なんだゴロ！ 無理なのかゴロ！\n"
+"[Sound1 bytes=\"0A08\"]なんだゴロ！ 無理なのかゴロ！\n"
 "せっかく盛り上がったのに ビックリだゴロ！"
 
 #, ruby
@@ -57,26 +57,26 @@ msgid "Event_S2_001_01_03"
 msgstr "[Sound2 id=\"1\"]溶岩のごとくゴロ！"
 
 msgid "Event_S2_002_01_01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"21\"][Size percent=\"125\"]んぬぅおおおおおお！！[PageBreak][Sound1 unk1=\"1\" unk2=\"10\"]マーヴェラァアアアアス！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0815\"][Size percent=\"125\"]んぬぅおおおおおお！！[PageBreak][Sound1 bytes=\"010A\"]マーヴェラァアアアアス！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Gaman01_S2_006"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]今度のガマンくらべは\n"
+"[Sound1 bytes=\"0800\"]今度のガマンくらべは\n"
 "「暑さ」ではなく「熱さ」ゴロ！\n"
-"[Sound1 unk1=\"2\" unk2=\"1\"]気を抜くと [Color name=\"red\"]身体が燃えてしまう[Color name=\"unset\"]ゴロ！\n"
+"[Sound1 bytes=\"0201\"]気を抜くと [Color name=\"red\"]身体が燃えてしまう[Color name=\"unset\"]ゴロ！\n"
 "万全の準備を整えるゴロ！"
 
 #, ruby
 msgid "Event_S2_002_01_02"
-msgstr "[Sound1 unk1=\"8\" unk2=\"11\"][Size percent=\"125\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]はオマエが一番だゴロ！[PageBreak][Sound1 unk1=\"7\" unk2=\"10\"]最ッ高ゴロォオオオ！！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"080B\"][Size percent=\"125\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]はオマエが一番だゴロ！[PageBreak][Sound1 bytes=\"070A\"]最ッ高ゴロォオオオ！！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Event_S2_001"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]その上に立つという事は…[PauseMid] やる気だな！[PageBreak][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]のルールは同じゴロ！[PageBreak]その土俵の上から降りたり 飛んでいったり\n"
+"[Sound1 bytes=\"0800\"]その上に立つという事は…[PauseMid] やる気だな！[PageBreak][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]のルールは同じゴロ！[PageBreak]その土俵の上から降りたり 飛んでいったり\n"
 "倒れたりしたらそこで終わりゴロ！\n"
-"[Sound1 unk1=\"8\" unk2=\"3\"]では 特別なガマンくらべぇえええ！！[PauseShort]\n"
+"[Sound1 bytes=\"0803\"]では 特別なガマンくらべぇえええ！！[PauseShort]\n"
 "ンスタァートゴロォオオーー！！"
 
 msgid "Npc_Gaman03_R_Near"
@@ -100,7 +100,7 @@ msgstr "[Sound2 id=\"1\"]無敵のオトコゴロ！"
 #, ruby
 msgid "Event_S2_002_02_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]オトコだゴロ！ オトコの中のオトコだゴロ！\n"
+"[Sound1 bytes=\"010A\"]オトコだゴロ！ オトコの中のオトコだゴロ！\n"
 "素晴らしいゴロォオオ！！"
 
 msgid "Event_S1_001_01_01"
@@ -117,7 +117,7 @@ msgstr "熱いゴロ！ 熱いゴロ！"
 #, ruby
 msgid "Event_S1_002_01_01"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]オマエはすごいゴロ！\n"
+"[Sound1 bytes=\"020E\"]オマエはすごいゴロ！\n"
 "まさかオレ達 ド根性三兄弟が負けるなんて！"
 
 #, ruby
@@ -129,21 +129,21 @@ msgstr ""
 #, ruby
 msgid "Event_S1_002_01_03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]この土俵の上で 限界までガマンすると\n"
+"[Sound1 bytes=\"0800\"]この土俵の上で 限界までガマンすると\n"
 "[Color name=\"red\"]勇者の試練[Color name=\"unset\"]が現れる と伝えられているゴロ！\n"
-"[Sound1 unk1=\"2\" unk2=\"1\"]準備が出来たら この土俵に乗るゴロ！\n"
+"[Sound1 bytes=\"0201\"]準備が出来たら この土俵に乗るゴロ！\n"
 "特別なガマンくらべを 始めるゴロ！"
 
 #, ruby
 msgid "Event_S1_003_01_01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]おお…… なんという事ゴロ！\n"
+"[Sound1 bytes=\"0900\"]おお…… なんという事ゴロ！\n"
 "土俵から降りてしまったゴロ！"
 
 #, ruby
 msgid "Event_S1_003_01_02"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]おお…… なんという事ゴロ！\n"
+"[Sound1 bytes=\"0900\"]おお…… なんという事ゴロ！\n"
 "土俵から飛んでいこうとしたゴロ！"
 
 #, ruby
@@ -164,7 +164,7 @@ msgstr "[Sound2 id=\"0\"]燃え尽きるまでゴロ…"
 #, ruby
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]おお！ オマエはド根性ガケのトレーニングを\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]おお！ オマエはド根性ガケのトレーニングを\n"
 "達成した 四人目の兄弟！\n"
 "ここは先祖代々 伝わる修行の場ゴロ！\n"
 "オレ達はここで[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]をしているゴロ！"
@@ -175,7 +175,7 @@ msgstr "してみてもいい"
 #, ruby
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]もっと強いオトコになるための\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]もっと強いオトコになるための\n"
 "挑戦をするゴロ？！\n"
 "ここでは どれだけの[Color name=\"red\"]暑さに耐えられるか[Color name=\"unset\"]\n"
 "競っているゴロ！"
@@ -187,7 +187,7 @@ msgstr "勘弁してください"
 #, ruby
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]さすが ド根性ガケのトレーニングを\n"
+"[Sound1 bytes=\"0610\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]さすが ド根性ガケのトレーニングを\n"
 "達成しただけあるゴロ…\n"
 "ボク達は ゴロン族だけど暑さに弱いゴロ…[PageBreak]そんなんじゃゴロンシティでやっていけないから\n"
 "ここまで修行に来てるんだゴロ…"
@@ -199,7 +199,7 @@ msgstr "挑戦する"
 #, ruby
 msgid "Talk_03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]オマエはド根性ガケのトレーニングを\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]オマエはド根性ガケのトレーニングを\n"
 "達成した 四人目の兄弟！"
 
 msgid "Npc_Gaman01_R_Near"
@@ -216,7 +216,7 @@ msgstr "やっぱり無理です"
 #, ruby
 msgid "Talk_10"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]ん？！ オマエはド根性ガケのトレーニングを\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]ん？！ オマエはド根性ガケのトレーニングを\n"
 "受けている最中のオトコ！\n"
 "ここは先祖代々 伝わる修行の場ゴロ！\n"
 "オレ達はここで[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]をしているゴロ！"
@@ -227,13 +227,13 @@ msgstr "[Sound2 id=\"16\"]あ… じいちゃん…？"
 #, ruby
 msgid "Talk_11"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]ド根性ガケを 途中で投げ出したオトコは\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]ド根性ガケを 途中で投げ出したオトコは\n"
 "ここの[Color name=\"red\"]暑さに耐えられるか[Color name=\"unset\"]ゴロ？！"
 
 #, ruby
 msgid "Event_S1_002_02_01"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]オマエには最高レベルの\n"
+"[Sound1 bytes=\"020E\"]オマエには最高レベルの\n"
 "[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]の挑戦権をやるゴロ！"
 
 #, ruby
@@ -245,7 +245,7 @@ msgstr ""
 #, ruby
 msgid "Talk_12"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"18\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]ここで鍛えて\n"
+"[Sound1 bytes=\"0612\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]ここで鍛えて\n"
 "ド根性ガケに そなえるといいゴロ…\n"
 "ボク達は ゴロン族だけど暑さに弱いゴロ…[PageBreak]そんなんじゃゴロンシティでやっていけないから\n"
 "ここまで修行に来てるんだゴロ…"
@@ -257,25 +257,25 @@ msgstr "オマエの予感はすこぶる正しいゴロ！"
 #, ruby
 msgid "Event_S1_003_02_01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は土俵の上で行うのがルールゴロ！\n"
+"[Sound1 bytes=\"090C\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は土俵の上で行うのがルールゴロ！\n"
 "降りてしまうとルール違反ゴロ！"
 
 #, ruby
 msgid "Talk_20"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]ド根性ガケも ガマンくらべも\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]ド根性ガケも ガマンくらべも\n"
 "途中のオトコ！"
 
 #, ruby
 msgid "Event_S1_003_02_02"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は土俵の上で行うのがルールゴロ！\n"
+"[Sound1 bytes=\"090C\"][Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は土俵の上で行うのがルールゴロ！\n"
 "飛んでいくのは ルール違反ゴロ！"
 
 #, ruby
 msgid "Talk_21"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"6\"]ムムッ？！[PauseMid]\n"
+"[Sound1 bytes=\"0806\"]ムムッ？！[PauseMid]\n"
 "オマエ 耐火の装備を持ってるゴロ？\n"
 "オトコなら そんなものに頼ってはダメゴロ！[PauseShort]\n"
 "己の体だけで 挑めゴロ！！"
@@ -289,26 +289,26 @@ msgstr ""
 #, ruby
 msgid "Talk_22"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]おお… [PauseMid]なんという事ゴロ！[PauseShort]\n"
+"[Sound1 bytes=\"0900\"]おお… [PauseMid]なんという事ゴロ！[PauseShort]\n"
 "いつの間にか 耐火の装備を身に着けてるゴロ！"
 
 #, ruby
 msgid "Npc_Gaman01_R_001"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]ここは先祖代々 伝わる修行の場ゴロ！[PageBreak]オレ達 ド根性三兄弟は\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]ここは先祖代々 伝わる修行の場ゴロ！[PageBreak]オレ達 ド根性三兄弟は\n"
 "ここで[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]をしているゴロ！"
 
 #, ruby
 msgid "Event_S2_002_03_01"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"42\"]ああ！ [Color name=\"red\"]勇者の試練[Color name=\"unset\"]が…\n"
+"[Sound1 bytes=\"0A2A\"]ああ！ [Color name=\"red\"]勇者の試練[Color name=\"unset\"]が…\n"
 "ほ 祠が現れたゴロ！！\n"
-"[Sound1 unk1=\"1\" unk2=\"1\"]言い伝えは 本当だったんだゴロ！！"
+"[Sound1 bytes=\"0101\"]言い伝えは 本当だったんだゴロ！！"
 
 #, ruby
 msgid "Talk_23"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"12\"]特別な[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は オトコを試す試練ゴロ！[PauseShort]\n"
+"[Sound1 bytes=\"080C\"]特別な[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]は オトコを試す試練ゴロ！[PauseShort]\n"
 "耐火の装備に頼るのは 失格だゴロ！！"
 
 msgid "Npc_Gaman01_R_002"
@@ -317,12 +317,12 @@ msgstr "どうだ オマエも！"
 #, ruby
 msgid "Npc_Gaman02_R_001"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]強いオトコになるためのトレーニングゴロ！\n"
+"[Sound1 bytes=\"080E\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]強いオトコになるためのトレーニングゴロ！\n"
 "どれだけの[Color name=\"red\"]暑さに耐えられるか[Color name=\"unset\"]競っているゴロ！"
 
 #, ruby
 msgid "Npc_Gaman01_R_003"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]オマエは以前にも来たオトコ！"
+msgstr "[Sound1 bytes=\"080E\"][Size percent=\"125\"]マッスル！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]オマエは以前にも来たオトコ！"
 
 #, ruby
 msgid "Npc_Gaman02_R_002"
@@ -335,12 +335,12 @@ msgstr "いい返事ゴロ！"
 #, ruby
 msgid "Npc_Gaman03_R_001"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"43\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]ボク達は ゴロン族だけど暑さに弱いゴロ…[PageBreak]そんなんじゃゴロンシティでやっていけないから\n"
+"[Sound1 bytes=\"062B\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]ボク達は ゴロン族だけど暑さに弱いゴロ…[PageBreak]そんなんじゃゴロンシティでやっていけないから\n"
 "ここまで修行に来たんだゴロ…"
 
 #, ruby
 msgid "Npc_Gaman02_R_003"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 unk1=\"2\" unk2=\"1\"][Size percent=\"100\"]もう一度ここに来たという事は！"
+msgstr "[Sound1 bytes=\"080E\"][Size percent=\"125\"]ホット！[PageBreak][Sound1 bytes=\"0201\"][Size percent=\"100\"]もう一度ここに来たという事は！"
 
 #, ruby
 msgid "Npc_Gaman01_R_005"
@@ -352,7 +352,7 @@ msgid "Event_S1_001_03_01"
 msgstr "[Sound2 id=\"41\"]ヒィー… ヒィー…"
 
 msgid "Npc_Gaman03_R_002"
-msgstr "[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]をしてみないかゴロ…？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Color name=\"red\"]ガマンくらべ[Color name=\"unset\"]をしてみないかゴロ…？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Gaman02_R_004"
@@ -360,7 +360,7 @@ msgstr "オマエの事は！"
 
 #, ruby
 msgid "Npc_Gaman01_R_006"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]なんとなんと弱気な発言！"
+msgstr "[Sound1 bytes=\"0A00\"]なんとなんと弱気な発言！"
 
 #, ruby
 msgid "Event_S1_001_03_02"
@@ -368,15 +368,15 @@ msgstr "[Sound2 id=\"32\"]無理… ゴロォ…"
 
 #, ruby
 msgid "Npc_Gaman03_R_003"
-msgstr "[Sound1 unk1=\"6\" unk2=\"43\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]挑戦する気になったゴロ…？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"062B\"][Size percent=\"80\"]ス スウェット…！[Size percent=\"100\"][Size percent=\"125\"][PageBreak][Size percent=\"100\"]挑戦する気になったゴロ…？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Gaman02_R_005"
-msgstr "[Sound1 unk1=\"10\" unk2=\"0\"]熱いオトコと見込んだのに！"
+msgstr "[Sound1 bytes=\"0A00\"]熱いオトコと見込んだのに！"
 
 #, ruby
 msgid "Npc_Gaman01_R_007"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]気が変わったらいつでも来い！"
+msgstr "[Sound1 bytes=\"0801\"]気が変わったらいつでも来い！"
 
 #, ruby
 msgid "Npc_Gaman03_R_004"
@@ -384,7 +384,7 @@ msgstr "熱いオトコと呼ぶゴロよ…"
 
 #, ruby
 msgid "Npc_Gaman02_R_006"
-msgstr "[Sound1 unk1=\"8\" unk2=\"1\"]オレ達はオマエの挑戦を！"
+msgstr "[Sound1 bytes=\"0801\"]オレ達はオマエの挑戦を！"
 
 #, ruby
 msgid "Event_S1_001"
@@ -396,17 +396,17 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Gaman03_R_005"
-msgstr "[Sound1 unk1=\"6\" unk2=\"12\"]ボク達の勘違いだったゴロ…？"
+msgstr "[Sound1 bytes=\"060C\"]ボク達の勘違いだったゴロ…？"
 
 msgid "Npc_Gaman02_R_007"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"][Size percent=\"125\"]マッチョ！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"020E\"][Size percent=\"125\"]マッチョ！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Gaman03_R_006"
 msgstr "ずっと待っているゴロ…！"
 
 msgid "Npc_Gaman03_R_007"
-msgstr "[Sound1 unk1=\"6\" unk2=\"16\"][Size percent=\"80\"]ム ムッシュ…！[Size percent=\"100\"]"
+msgstr "[Sound1 bytes=\"0610\"][Size percent=\"80\"]ム ムッシュ…！[Size percent=\"100\"]"
 
 #, ruby
 msgid "Npc_Gaman02_S2_001"

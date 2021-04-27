@@ -1,9 +1,9 @@
 msgid "Talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]明明睡得……[PauseMid]很熟……"
+msgstr "[Sound1 bytes=\"0004\"]明明睡得……[PauseMid]很熟……"
 
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]中午……[PauseShort]是吧……[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]中午……[PauseShort]是吧……[PauseShort]\n"
 "知道了……\n"
 "[Size percent=\"80\"]爬……[PauseShort]爬得起来吗……[Size percent=\"100\"]"
 
@@ -12,7 +12,7 @@ msgstr "Zzz……"
 
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]晚上……[PauseShort]是吧……[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]晚上……[PauseShort]是吧……[PauseShort]\n"
 "知道了……\n"
 "[Size percent=\"80\"]爬……[PauseShort]爬得起来吗……[Size percent=\"100\"]"
 
@@ -21,7 +21,7 @@ msgstr "一般的床"
 
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]早、[PauseShort]早上好……[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]早、[PauseShort]早上好……[PauseShort]\n"
 "啊……该说……[PauseShort]你好吧……"
 
 msgid "0001"
@@ -29,27 +29,27 @@ msgstr "松软的床"
 
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]早、[PauseShort]早上好……[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]早、[PauseShort]早上好……[PauseShort]\n"
 "啊……该说……[PauseShort]晚上好吧。"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]一、[PauseShort]一般的床是[Color name=\"red\"]20卢比[Color name=\"unset\"]……[PauseLong]\n"
-"松、[PauseMid]松软的床是[Color name=\"red\"]40卢比[Color name=\"unset\"]……[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]一、[PauseShort]一般的床是[Color name=\"red\"]20卢比[Color name=\"unset\"]……[PauseLong]\n"
+"松、[PauseMid]松软的床是[Color name=\"red\"]40卢比[Color name=\"unset\"]……[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"9\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0002"
 msgstr "有什么差别？"
 
 msgid "Talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]请问……[PauseShort]要、[PauseShort]要何时叫你起床？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0004\"]请问……[PauseShort]要、[PauseShort]要何时叫你起床？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0003"
 msgstr "早上"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]谢、谢谢……[PauseShort]\n"
-"请问……[PauseShort]要何时叫你起床？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]谢、谢谢……[PauseShort]\n"
+"请问……[PauseShort]要何时叫你起床？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "0004"
 msgstr "中午"
@@ -59,7 +59,7 @@ msgstr "晚上"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]欢迎……[PauseShort]再来。[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]欢迎……[PauseShort]再来。[PauseShort]\n"
 "晚、[PauseShort]晚安……"
 
 msgid "0006"
@@ -67,12 +67,12 @@ msgstr "还是算了"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]早上……[PauseShort]是吧……[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]早上……[PauseShort]是吧……[PauseShort]\n"
 "知道了……\n"
 "[Size percent=\"80\"]我……[PauseShort]爬得起来吗……[Size percent=\"100\"]"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]啊……[PauseShort]你没钱……[PauseShort]呢。"
+msgstr "[Sound1 bytes=\"0004\"]啊……[PauseShort]你没钱……[PauseShort]呢。"
 
 msgid "0007"
 msgstr "谢谢你"
@@ -82,30 +82,30 @@ msgstr "算了"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]咦……[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]咦……[PauseShort]\n"
 "嗯……[PauseShort]无所谓啦……"
 
 msgid "0009"
 msgstr "再见"
 
 msgid "Talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]早、[PauseShort]早上好……"
+msgstr "[Sound1 bytes=\"0004\"]早、[PauseShort]早上好……"
 
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"45\"]哇哇……[PauseLong]\n"
+"[Sound1 bytes=\"0A2D\"]哇哇……[PauseLong]\n"
 "是、[PauseShort]是客人……[PauseShort]吗？[PauseLong]\n"
-"[Size percent=\"80\"][Color name=\"Gray\"][Sound1 unk1=\"0\" unk2=\"0\"]吓、吓死我了……[Color name=\"unset\"][Size percent=\"100\"]"
+"[Size percent=\"80\"][Color name=\"gray\"][Sound1 bytes=\"0000\"]吓、吓死我了……[Color name=\"unset\"][Size percent=\"100\"]"
 
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]唔……[PauseShort]不过……[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]唔……[PauseShort]不过……[PauseShort]\n"
 "你第一次来……[PauseShort]\n"
-"这次就不收钱……[PauseShort]也没关系……[Choice2 label1=\"7\" label2=\"8\" selectednum=\"0\" cancelnum=\"1\"]"
+"这次就不收钱……[PauseShort]也没关系……[Choice2 label1=\"7\" label2=\"8\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]松软的床好像是用……咕咕鸡的羽毛[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]松软的床好像是用……咕咕鸡的羽毛[PauseShort]\n"
 "做成的吧……[PauseShort]记得是这样……\n"
 "跟、[PauseShort]跟一般的床……不同……[PauseShort]\n"
 "睡醒好像……会比平常……[PauseShort]更有精神……"

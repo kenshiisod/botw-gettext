@@ -1,54 +1,54 @@
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Si direbbe che tu non abbia\n"
+"[Sound1 bytes=\"0000\"]Si direbbe che tu non abbia\n"
 "un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce[Color name=\"unset\"]."
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Non hai nessun [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]..."
+msgstr "[Sound1 bytes=\"0000\"]Non hai nessun [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]..."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Non hai né un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce [Color name=\"unset\"]né\n"
+"[Sound1 bytes=\"0000\"]Non hai né un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce [Color name=\"unset\"]né\n"
 "un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]..."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Non hai abbastanza pezzi\n"
+"[Sound1 bytes=\"0000\"]Non hai abbastanza pezzi\n"
 "di [Color name=\"blue\"][C9:00 bytes=\"02020200\"]pietra focaia[Color name=\"unset\"]."
 
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Senti, non hai un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce [Color name=\"unset\"]né\n"
+"[Sound1 bytes=\"0000\"]Senti, non hai un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce [Color name=\"unset\"]né\n"
 "abbastanza pezzi di [Color name=\"blue\"][C9:00 bytes=\"02020200\"]pietra focaia[Color name=\"unset\"]."
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Non hai nessun [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"] né abbastanza\n"
+"[Sound1 bytes=\"0000\"]Non hai nessun [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"] né abbastanza\n"
 "pezzi di [Color name=\"blue\"][C9:00 bytes=\"02020200\"]pietra focaia[Color name=\"unset\"]."
 
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Se non mi porti tutto ciò che ti ho detto,\n"
+"[Sound1 bytes=\"0800\"]Se non mi porti tutto ciò che ti ho detto,\n"
 "[PauseShort]non posso aiutarti.\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]Se vuoi che ti crei un altro [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0000\"]Se vuoi che ti crei un altro [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"],\n"
 "portami un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce[Color name=\"unset\"], [Color name=\"red\"]cinque pezzi [Color name=\"unset\"]di\n"
 "[Color name=\"blue\"][C9:00 bytes=\"02020200\"]pietra focaia [Color name=\"unset\"]e un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante[Color name=\"unset\"]."
 
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]Il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante [Color name=\"unset\"]è una pietra preziosa che\n"
+"[Sound1 bytes=\"0006\"]Il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]diamante [Color name=\"unset\"]è una pietra preziosa che\n"
 "non si trova tanto facilmente in giro.\n"
-"[PauseLong]Sicuro che lo posso usare?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[PauseLong]Sicuro che lo posso usare?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Umpf...[PauseLong] Torna pure quando vuoi che te\n"
+"[Sound1 bytes=\"0800\"]Umpf...[PauseLong] Torna pure quando vuoi che te\n"
 "ne forgi uno nuovo."
 
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Allora inizierò con la forgiatura![PauseLong]\n"
+"[Sound1 bytes=\"0600\"]Allora inizierò con la forgiatura![PauseLong]\n"
 "Aspetta là."
 
 msgid "near00"
@@ -56,56 +56,56 @@ msgstr "Umpf! Umpf!"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Umpf...[PauseShort] Devo complimentarmi con me\n"
+"[Sound1 bytes=\"0600\"]Umpf...[PauseShort] Devo complimentarmi con me\n"
 "stesso per l'ottimo lavoro! Ecco, prendi!"
 
 msgid "near01"
 msgstr "Bene..."
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ehi...[Choice1 label=\"6\"]"
+msgstr "[Sound1 bytes=\"020E\"]Ehi...[Choice1 label=\"6\"]"
 
 msgid "near02"
 msgstr "Fiii..."
 
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Vado a lavorare... [PauseShort]Uff..."
+msgstr "[Sound1 bytes=\"0004\"]Vado a lavorare... [PauseShort]Uff..."
 
 msgid "near03"
 msgstr "[Size percent=\"80\"]Ugh...[Size percent=\"100\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Che hai da guardare?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0206\"]Che hai da guardare?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Lo vuoi?[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0000\"]Lo vuoi?[Choice1 label=\"0\"]"
 
 msgid "0000"
 msgstr "Scusa!"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]Oggi devo lavorare! Non mi disturbare!"
+msgstr "[Sound1 bytes=\"0206\"]Oggi devo lavorare! Non mi disturbare!"
 
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Questo mi è riuscito male...[PauseShort] Prendilo\n"
+"[Sound1 bytes=\"0004\"]Questo mi è riuscito male...[PauseShort] Prendilo\n"
 "pure, se vuoi."
 
 msgid "0001"
 msgstr "Arrivederci!"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Hmpf..."
+msgstr "[Sound1 bytes=\"020E\"]Hmpf..."
 
 msgid "0002"
 msgstr "Per favore!"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"2\" unk2=\"4\"]Oh![Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0204\"]Oh![Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Tu sei l'erede del [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"], vero?\n"
+"[Sound1 bytes=\"0002\"]Tu sei l'erede del [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"], vero?\n"
 "\n"
 "\n"
 "Credi veramente che un sassetto come\n"
@@ -117,38 +117,38 @@ msgid "0003"
 msgstr "Niente, grazie."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Io vado a dormire..."
+msgstr "[Sound1 bytes=\"0600\"]Io vado a dormire..."
 
 msgid "0004"
 msgstr "Sì."
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ugh..."
+msgstr "[Sound1 bytes=\"0000\"]Ugh..."
 
 msgid "0005"
 msgstr "No."
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Mi distrai!"
+msgstr "[Sound1 bytes=\"020E\"]Mi distrai!"
 
 msgid "0006"
 msgstr "Sì?"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Se non ti serve niente, levati di torno!"
+msgstr "[Sound1 bytes=\"020E\"]Se non ti serve niente, levati di torno!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Ancora?[PauseShort] Che scocciatura!"
+msgstr "[Sound1 bytes=\"020E\"]Ancora?[PauseShort] Che scocciatura!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Non ho tempo di occuparmi di te!"
+msgstr "[Sound1 bytes=\"020E\"]Non ho tempo di occuparmi di te!"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Perché non ti dai un po' da fare?"
+msgstr "[Sound1 bytes=\"020E\"]Perché non ti dai un po' da fare?"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Se perdi o rompi il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"][PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Se perdi o rompi il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"][PauseShort]\n"
 "e vuoi che te ne costruisca uno nuovo...\n"
 "\n"
 "... mi servono un [Color name=\"blue\"][C9:00 bytes=\"01000000\"]battirocce[Color name=\"unset\"], [Color name=\"red\"]cinque\n"
@@ -156,13 +156,13 @@ msgstr ""
 
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Sembra che tu non abbia il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"].\n"
+"[Sound1 bytes=\"0004\"]Sembra che tu non abbia il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"].\n"
 "Perché non dai un'occhiata in giro e\n"
 "controlli se ti è caduto da qualche parte?"
 
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]Sembra che tu non abbia il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"].\n"
+"[Sound1 bytes=\"0010\"]Sembra che tu non abbia il [Color name=\"blue\"][C9:00 bytes=\"01000000\"]fendimacigni[Color name=\"unset\"].\n"
 "\n"
 "\n"
 "Se vuoi che te ne faccia uno nuovo,\n"

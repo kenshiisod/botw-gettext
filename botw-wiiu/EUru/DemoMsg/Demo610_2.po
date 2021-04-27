@@ -10,7 +10,7 @@ msgstr ""
 "кроткого[PauseMid] ей ниспослали»."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]О![PauseShort] Я тебя не заметил!"
+msgstr "[Sound1 bytes=\"0B06\"]О![PauseShort] Я тебя не заметил!"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
 msgstr ""
@@ -20,12 +20,12 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Я чувствую, что он исполнял\n"
+"[Sound1 bytes=\"030C\"]Я чувствую, что он исполнял\n"
 "ее на этом самом месте..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Интересно, зачем ты здесь?[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]Интересно, зачем ты здесь?[PauseShort]\n"
 "Хотя какое мое дело..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]Я обязательно закончу эту песню\n"
+"[Sound1 bytes=\"0101\"]Я обязательно закончу эту песню\n"
 "и буду петь ее повсюду!"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_103"
@@ -46,28 +46,28 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Но прежде мне нужно узнать\n"
+"[Sound1 bytes=\"0001\"]Но прежде мне нужно узнать\n"
 "как можно больше о Воинах."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]Даже не верится, что это одно из тех\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]Даже не верится, что это одно из тех\n"
 "мест. Меня переполняют чувства."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]К счастью, [Color name=\"blue\"]король[Color name=\"unset\"] и [Color name=\"blue\"]принц[Color name=\"unset\"] зора\n"
+"[Sound1 bytes=\"0000\"]К счастью, [Color name=\"blue\"]король[Color name=\"unset\"] и [Color name=\"blue\"]принц[Color name=\"unset\"] зора\n"
 "рассказали мне много чудесных\n"
 "историй о Мифе."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]Позволь спеть тебе об испытаниях,\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]Позволь спеть тебе об испытаниях,\n"
 "что проходила [Color name=\"blue\"]Воин зора Мифа[Color name=\"unset\"]![PageBreak][PauseAuto frames=\"40\"]Кхм-кхм..."
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]Мечта всей моей жизни — завершить\n"
+"[Sound1 bytes=\"0018\"]Мечта всей моей жизни — завершить\n"
 "песню учителя — скоро исполнится."
 
 msgid "_ReadOnly_MsbtExtras"

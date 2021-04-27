@@ -1,6 +1,6 @@
 msgid "Talk_01"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Mais si, mais si ! [PauseShort]T'inquiète, c'est moi\n"
+"[Sound1 bytes=\"0109\"]Mais si, mais si ! [PauseShort]T'inquiète, c'est moi\n"
 "qui gère les détails !"
 
 msgid "0003"
@@ -8,35 +8,35 @@ msgstr "Non, merci."
 
 msgid "Talk_02"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Tu vois cet arbre, là-bas ? Y a mon\n"
+"[Sound1 bytes=\"0601\"]Tu vois cet arbre, là-bas ? Y a mon\n"
 "pote qu'est juste en-dessous. [PauseShort]Il va\n"
 "t'expliquer !"
 
 msgid "Talk_03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"1\"]Allez hop, va le voir ![Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0601\"]Allez hop, va le voir ![Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_04"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]Ben alors ?[PauseShort] T'es pas marrant, toi...\n"
+"[Sound1 bytes=\"030C\"]Ben alors ?[PauseShort] T'es pas marrant, toi...\n"
 "[PauseShort]Vis ta vie et reviens me parler quand\n"
 "tu seras un peu plus motivé !"
 
 msgid "Talk_05"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]Haha ![PauseShort] Ça m'fait plaisir !"
+msgstr "[Sound1 bytes=\"010B\"]Haha ![PauseShort] Ça m'fait plaisir !"
 
 msgid "Talk_06"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Yo ! [PauseShort]T'es revenu faire de la [Color name=\"red\"]glisse\n"
+"[Sound1 bytes=\"0102\"]Yo ! [PauseShort]T'es revenu faire de la [Color name=\"red\"]glisse\n"
 "sur bouclier[Color name=\"unset\"], hein ?"
 
 msgid "Talk_07"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Yo ![PauseShort] Alors, t'as envie de faire de la\n"
-"[Color name=\"red\"]glisse sur bouclier[Color name=\"unset\"], finalement ?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Yo ![PauseShort] Alors, t'as envie de faire de la\n"
+"[Color name=\"red\"]glisse sur bouclier[Color name=\"unset\"], finalement ?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk_08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"]Y a mon pote juste sous cet arbre,\n"
+"[Sound1 bytes=\"0601\"]Y a mon pote juste sous cet arbre,\n"
 "là-bas !"
 
 msgid "0000"
@@ -44,7 +44,7 @@ msgstr "C'est quoi, ça ?"
 
 msgid "Talk_09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Yo ! [PauseShort][Color name=\"blue\"]Russel[Color name=\"unset\"] m'a tout raconté, t'sais !\n"
+"[Sound1 bytes=\"0102\"]Yo ! [PauseShort][Color name=\"blue\"]Russel[Color name=\"unset\"] m'a tout raconté, t'sais !\n"
 "[PauseShort]T'es revenu faire de la [Color name=\"red\"]glisse sur\n"
 "bouclier[Color name=\"unset\"], c'est ça ?"
 
@@ -56,8 +56,8 @@ msgstr "Pas du tout."
 
 msgid "Talk_00"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]Yo ![PauseShort] T'es venu faire de la [Color name=\"red\"]glisse sur\n"
-"bouclier[Color name=\"unset\"], c'est ça ?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0102\"]Yo ![PauseShort] T'es venu faire de la [Color name=\"red\"]glisse sur\n"
+"bouclier[Color name=\"unset\"], c'est ça ?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Bon, d'accord !"

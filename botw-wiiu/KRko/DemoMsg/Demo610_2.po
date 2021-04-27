@@ -13,7 +13,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]음? 당신은…[PauseShort]\n"
+"[Sound1 bytes=\"0B06\"]음? 당신은…[PauseShort]\n"
 "이곳엔 무슨 일로?[PauseMid]"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_101"
@@ -23,11 +23,11 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]제 스승님도 아마 이 땅에서\n"
+"[Sound1 bytes=\"030C\"]제 스승님도 아마 이 땅에서\n"
 "방금 전의 그 장을 불러 보셨을 겁니다…"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_002"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]뭐, 여행의 목적은 제각각이니까요"
+msgstr "[Sound1 bytes=\"0001\"]뭐, 여행의 목적은 제각각이니까요"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_102"
 msgstr ""
@@ -36,7 +36,7 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_202"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]아아… 스승님의 뜻을 이어받아 노래를 완성시켜\n"
+"[Sound1 bytes=\"0101\"]아아… 스승님의 뜻을 이어받아 노래를 완성시켜\n"
 "멋지게 노래할 수만 있다면…"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_103"
@@ -46,28 +46,28 @@ msgstr ""
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]그것을 위해서라도 저는\n"
+"[Sound1 bytes=\"0001\"]그것을 위해서라도 저는\n"
 "영걸들에 대해 잘 알고 싶습니다…"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]아아… 노래에 등장하는 바로 그 땅에서\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]아아… 노래에 등장하는 바로 그 땅에서\n"
 "노래할 수 있다는 기쁨…"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]감사하게도[Color name=\"blue\"] 조라의 마을[Color name=\"unset\"]의 [Color name=\"blue\"]왕[Color name=\"unset\"]과 [Color name=\"blue\"]왕자[Color name=\"unset\"]로부터\n"
+"[Sound1 bytes=\"0000\"]감사하게도[Color name=\"blue\"] 조라의 마을[Color name=\"unset\"]의 [Color name=\"blue\"]왕[Color name=\"unset\"]과 [Color name=\"blue\"]왕자[Color name=\"unset\"]로부터\n"
 "영걸의 일화를 들을 수 있었습니다"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]스승님께서 완성시키셨던…\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]스승님께서 완성시키셨던…\n"
 "시련에 도전하는 [Color name=\"blue\"]영걸 미파의 장[Color name=\"unset\"]\n"
 "[PauseAuto frames=\"40\"]들어 주십시오"
 
 msgid "Npc_Musician_AoC_HeroZoraRelief_205"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]완성시킨 노래를 이 하늘 아래에서 부르는 것…\n"
+"[Sound1 bytes=\"0018\"]완성시킨 노래를 이 하늘 아래에서 부르는 것…\n"
 "그게 바로 제 여행의 목적입니다"
 
 msgid "_ReadOnly_MsbtExtras"

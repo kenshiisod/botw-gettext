@@ -7,11 +7,11 @@ msgstr ""
 #, ruby
 msgid "Text005"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]輪とはここの岩の事でしょうか[PauseShort]\n"
+"[Sound1 bytes=\"0501\"]輪とはここの岩の事でしょうか[PauseShort]\n"
 "[Color name=\"red\"]勇者の試練[Color name=\"unset\"]とは一体どういう物なのでしょう？\n"
-"[Sound1 unk1=\"5\" unk2=\"16\"]きっと私には思いもよらない\n"
+"[Sound1 bytes=\"0510\"]きっと私には思いもよらない\n"
 "秘密が隠されているのでしょうね\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]では あなたの旅路に光がありますように……[PauseMid]"
+"[Sound1 bytes=\"0001\"]では あなたの旅路に光がありますように……[PauseMid]"
 
 msgid "Npc_Musician_001_R_Near"
 msgstr "……"
@@ -22,14 +22,14 @@ msgstr ""
 "……[PauseMid]"
 
 msgid "Text007"
-msgstr "[Sound1 unk1=\"10\" unk2=\"20\"]んん？[PauseMid]"
+msgstr "[Sound1 bytes=\"0A14\"]んん？[PauseMid]"
 
 #, ruby
 msgid "Text008"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"1\"]これは 失礼しました[PauseShort]\n"
+"[Sound1 bytes=\"0301\"]これは 失礼しました[PauseShort]\n"
 "詩に夢中になってしまいました……[PauseMid]\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]この詩は 今は亡き私の師匠が 作ったものです[PageBreak]師匠は数年前に亡くなりましたが 一番最後に\n"
+"[Sound1 bytes=\"0001\"]この詩は 今は亡き私の師匠が 作ったものです[PageBreak]師匠は数年前に亡くなりましたが 一番最後に\n"
 "師匠から教わったのが この詩でした…[PauseMid]"
 
 msgid "_ReadOnly_MsbtExtras"

@@ -1,24 +1,24 @@
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]A las criaturas del bosque nos gusta\n"
-"ocultarnos en todo tipo de lugares.[PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]¡No dudes en investigar cualquier rincón\n"
+"[Sound1 bytes=\"0000\"]A las criaturas del bosque nos gusta\n"
+"ocultarnos en todo tipo de lugares.[PageBreak][Sound1 bytes=\"0000\"]¡No dudes en investigar cualquier rincón\n"
 "que te llame la atención!"
 
 msgid "CompTalk02"
 msgstr "¡Encontraste a todos los kolog!"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]¡Oooh! ¡Me descubriste!"
+msgstr "[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]¡Oooh! ¡Me descubriste!"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"7\" unk2=\"0\"]¡Hasta lueguito!"
+msgstr "[Sound1 bytes=\"0700\"]¡Hasta lueguito!"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"1\"][Animation name=\"HiddenKorok_Appear\"]¡Uoooh! ¡Me descubriste![PageBreak][Sound1 unk1=\"11\" unk2=\"0\"]¿Eh?[PauseShort] ¡Pensaba que eras Obab![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Pero...[PauseShort] ¿de verdad puedes verme?\n"
+"[Sound1 bytes=\"0A01\"][Animation name=\"HiddenKorok_Appear\"]¡Uoooh! ¡Me descubriste![PageBreak][Sound1 bytes=\"0B00\"]¿Eh?[PauseShort] ¡Pensaba que eras Obab![PageBreak][Sound1 bytes=\"0000\"]Pero...[PauseShort] ¿de verdad puedes verme?\n"
 "¡Qué ilusión![PauseMid] No sabía que los de tu tribu\n"
 "podían vernos a los kolog.\n"
-"[Sound1 unk1=\"7\" unk2=\"0\"]Si ves a Obab, ¿podrías devolverle esto?"
+"[Sound1 bytes=\"0700\"]Si ves a Obab, ¿podrías devolverle esto?"
 
 msgid "CompTalk01"
 msgstr ""

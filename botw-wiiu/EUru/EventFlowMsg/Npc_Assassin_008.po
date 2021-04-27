@@ -1,52 +1,52 @@
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Да как ты посмел забыть его имя![PauseShort]\n"
+"[Sound1 bytes=\"0800\"]Да как ты посмел забыть его имя![PauseShort]\n"
 "Это ты отнял у нас господина Когу!"
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"4\" unk2=\"1\"]Пузо?"
+msgstr "[Sound1 bytes=\"0401\"]Пузо?"
 
 msgid "Talk05"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]Да что ты понимаешь в красоте!"
+msgstr "[Sound1 bytes=\"020E\"]Да что ты понимаешь в красоте!"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]Ты погубил господина Когу, а теперь\n"
+"[Sound1 bytes=\"0800\"]Ты погубил господина Когу, а теперь\n"
 "еще и насмехаешься над ним?![PauseShort] Не смей\n"
 "порочить его доброе имя!"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Я тебя снова спрошу: господин\n"
-"Кога замечательный, ведь правда?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"070A\"]Я тебя снова спрошу: господин\n"
+"Кога замечательный, ведь правда?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе конец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Тебе конец![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Господин Кога замечательный, ведь\n"
+"[Sound1 bytes=\"070A\"]Господин Кога замечательный, ведь\n"
 "правда?[PauseShort] У него такой пухленький\n"
-"животик.[PauseShort] Так и хочется помять...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"животик.[PauseShort] Так и хочется помять...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Господин Кога?"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Это тебе за господина![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]Это тебе за господина![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "0001"
 msgstr "Да у него пузо!"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]Так ты его даже не знаешь?![PauseShort]\n"
+"[Sound1 bytes=\"0414\"]Так ты его даже не знаешь?![PauseShort]\n"
 "Не волнуйся, сейчас я тебе\n"
-"о нем расскажу.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Господин Кога..."
+"о нем расскажу.[PageBreak][Sound1 bytes=\"0001\"]Господин Кога..."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"8\"]Он главарь клана Ига и знает много\n"
+"[Sound1 bytes=\"0708\"]Он главарь клана Ига и знает много\n"
 "секретов шиика, с помощью которых\n"
 "можно уничтожить Героя!"
 

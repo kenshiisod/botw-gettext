@@ -1,33 +1,33 @@
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]リンクさん 雨が止みましたね…\n"
+"[Sound1 bytes=\"0001\"]リンクさん 雨が止みましたね…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"16\"]という事は… [PauseShort][Color name=\"blue\"]ルッタ[Color name=\"unset\"]の動きが\n"
+"[Sound1 bytes=\"0010\"]という事は… [PauseShort][Color name=\"blue\"]ルッタ[Color name=\"unset\"]の動きが\n"
 "止まったという事でしょうか？"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]…こんにちは"
+msgstr "[Sound1 bytes=\"0602\"]…こんにちは"
 
 #, ruby
 msgid "0000"
 msgstr "この像は？"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]…こんばんは"
+msgstr "[Sound1 bytes=\"0602\"]…こんばんは"
 
 msgid "0001"
 msgstr "またね"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]…はい"
+msgstr "[Sound1 bytes=\"0602\"]…はい"
 
 msgid "0002"
 msgstr "そうです"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]また分かりやすい嘘を…"
+msgstr "[Sound1 bytes=\"0010\"]また分かりやすい嘘を…"
 
 #, ruby
 msgid "0003"
@@ -36,7 +36,7 @@ msgstr "違います"
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]申し遅れました [PauseLong]私はフララット[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]申し遅れました [PauseLong]私はフララット[PauseLong]\n"
 "王室直属の 書記官をしております\n"
 "…"
 
@@ -46,26 +46,26 @@ msgstr "気になる"
 
 #, ruby
 msgid "talk15"
-msgstr "[Sound1 unk1=\"11\" unk2=\"6\"]このミファー様の像が 気になりますか？[Choice2 label1=\"4\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B06\"]このミファー様の像が 気になりますか？[Choice2 label1=\"4\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]それでは…"
+msgstr "[Sound1 bytes=\"0012\"]それでは…"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]どうかしましたか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]どうかしましたか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]あなたは… [PauseShort]ハイリア人ですか？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0006\"]あなたは… [PauseShort]ハイリア人ですか？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それでは僭越ながら…[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]それでは僭越ながら…[PauseShort]\n"
 "説明させていただきますね\n"
 "この像は かつてのゾーラの英傑[PauseShort]\n"
 "ミファー様の像に ございます\n"
-"[Sound1 unk1=\"0\" unk2=\"11\"]とても お美しく お優しい方だったとか…\n"
+"[Sound1 bytes=\"000B\"]とても お美しく お優しい方だったとか…\n"
 "\n"
 "その お手で 里の戦士達の傷を癒やした[PauseShort]\n"
 "と聞きます"
@@ -76,7 +76,7 @@ msgstr "さて…"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"][Color name=\"red\"]ライネル[Color name=\"unset\"]の恐ろしさは[PauseShort]\n"
+"[Sound1 bytes=\"0004\"][Color name=\"red\"]ライネル[Color name=\"unset\"]の恐ろしさは[PauseShort]\n"
 "私から伝えていきましょう\n"
 "これで 無謀なゾーラの若者が[PauseShort]\n"
 "減ればいいのですが…"
@@ -84,7 +84,7 @@ msgstr ""
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]そんな戦士達も[PauseShort]\n"
+"[Sound1 bytes=\"0010\"]そんな戦士達も[PauseShort]\n"
 "今や腰の曲がった お爺様達ばかり\n"
 "なので この里のお年寄りは[PauseShort]\n"
 "皆 ミファー様を慕っています\n"
@@ -97,7 +97,7 @@ msgstr "次は っと…"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]リンクさん！[PauseLong]\n"
+"[Sound1 bytes=\"000B\"]リンクさん！[PauseLong]\n"
 "[Color name=\"blue\"]ルッタ[Color name=\"unset\"]を 鎮めたんですって？\n"
 "これで[Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]は 救われました[PauseLong]\n"
 "ミファー様の魂も 浮かばれましょう…"
@@ -105,13 +105,13 @@ msgstr ""
 #, ruby
 msgid "LookPicture"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"][Size percent=\"125\"]ふゃっ？！[Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0A16\"][Size percent=\"125\"]ふゃっ？！[Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"16\"]ああっ… [PauseLong]変な声が…\n"
+"[Sound1 bytes=\"0010\"]ああっ… [PauseLong]変な声が…\n"
 "\n"
 "し 失礼しました… [PauseShort]大丈夫です…[PauseLong]\n"
 "これが[Color name=\"red\"]ライネル[Color name=\"unset\"]… [PauseShort]なんとも恐ろしい…\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]これを見たら [Color name=\"blue\"]雷獣山[Color name=\"unset\"]に行こうだなんて[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]これを見たら [Color name=\"blue\"]雷獣山[Color name=\"unset\"]に行こうだなんて[PauseShort]\n"
 "無謀な考えは 起きませんね"
 
 #, ruby
@@ -120,25 +120,25 @@ msgstr "損傷具合は…"
 
 #, ruby
 msgid "talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]私達は ミファー様の魂と共に…"
+msgstr "[Sound1 bytes=\"0001\"]私達は ミファー様の魂と共に…"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]感謝しています [PauseShort]リンクさん"
+msgstr "[Sound1 bytes=\"0009\"]感謝しています [PauseShort]リンクさん"
 
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]あなたが [Color name=\"red\"]シド王子[Color name=\"unset\"]が連れてきたという[PauseShort]\n"
-"[Color name=\"blue\"]ハイリア人[Color name=\"unset\"]ですか？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0006\"]あなたが [Color name=\"red\"]シド王子[Color name=\"unset\"]が連れてきたという[PauseShort]\n"
+"[Color name=\"blue\"]ハイリア人[Color name=\"unset\"]ですか？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]…おはようございます"
+msgstr "[Sound1 bytes=\"0602\"]…おはようございます"
 
 #, ruby
 msgid "talk23"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]…ごめんなさい[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]…ごめんなさい[PauseShort]\n"
 "今 ちょっと考え事をしていて…\n"
 "[Size percent=\"80\"][Color name=\"blue\"]雷獣山[Color name=\"unset\"]の… [PauseShort]ぶつぶつ…[Size percent=\"100\"]"
 

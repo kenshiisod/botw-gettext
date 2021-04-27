@@ -1,14 +1,14 @@
 msgid "Challenge04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]Hm...[PauseShort] Dieser Geruch...[PauseMid]\n"
-"Rieche ich da etwa Wild?[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Ich liebe Wild, am liebsten ganz frisch..."
+"[Sound1 bytes=\"0B13\"]Hm...[PauseShort] Dieser Geruch...[PauseMid]\n"
+"Rieche ich da etwa Wild?[PageBreak][Sound1 bytes=\"0300\"]Ich liebe Wild, am liebsten ganz frisch..."
 
 msgid "2002"
 msgstr "Wer bist du?"
 
 msgid "Challenge05"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]Meinst du das ernst?![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Dann will ich mich nicht lumpen lassen\n"
+"[Sound1 bytes=\"0A00\"]Meinst du das ernst?![PageBreak][Sound1 bytes=\"0001\"]Dann will ich mich nicht lumpen lassen\n"
 "und gebe dir [Color name=\"red\"]100 Rubine[Color name=\"unset\"]! [PauseShort]Hier draußen\n"
 "kann man sie sowieso kaum ausgeben..."
 
@@ -20,7 +20,7 @@ msgstr "Und es regnet..."
 
 msgid "Challenge06"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"12\"]Aaah...[PauseShort] Ich will so gern Fleisch, dass\n"
+"[Sound1 bytes=\"090C\"]Aaah...[PauseShort] Ich will so gern Fleisch, dass\n"
 "ich mir schon einbilde, es riechen zu\n"
 "können..."
 
@@ -29,29 +29,29 @@ msgstr "[C9:00 bytes=\"03040400\"]Luxuswild?"
 
 msgid "Challenge07"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]Danke, jetzt geht's mir besser.[PauseShort] Jetzt\n"
+"[Sound1 bytes=\"070B\"]Danke, jetzt geht's mir besser.[PauseShort] Jetzt\n"
 "kann ich mich bei meiner Arbeit auch\n"
 "wieder richtig reinhängen![PageBreak]Wenn du wieder frisches [C9:00 bytes=\"03040400\"]Luxuswild hast,\n"
 "komm vorbei!"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]Auf Wiedersehen!"
+msgstr "[Sound1 bytes=\"0109\"]Auf Wiedersehen!"
 
 msgid "GoodBye01"
 msgstr ""
-"[Sound2 id=\"0\"][Sound1 unk1=\"1\" unk2=\"9\"]Wiedersehen! [PauseMid]Und verrate keinem, dass\n"
+"[Sound2 id=\"0\"][Sound1 bytes=\"0109\"]Wiedersehen! [PauseMid]Und verrate keinem, dass\n"
 "ich Pause mache, ja?"
 
 msgid "NearChallenge00"
 msgstr "[Sound2 id=\"11\"]Hah..."
 
 msgid "FirstTalk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"13\"]Willkommen...[PauseShort] und so...[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"030D\"]Willkommen...[PauseShort] und so...[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Answer00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Danke![PauseShort]\n"
-"He, du hast gar kein [C9:00 bytes=\"03040400\"]Luxuswild![PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Und ich hatte mich schon gefreut...[PauseShort]\n"
+"[Sound1 bytes=\"0709\"]Danke![PauseShort]\n"
+"He, du hast gar kein [C9:00 bytes=\"03040400\"]Luxuswild![PageBreak][Sound1 bytes=\"0300\"]Und ich hatte mich schon gefreut...[PauseShort]\n"
 "Na ja, wenn du doch mal frisches\n"
 "[C9:00 bytes=\"03040400\"]Luxuswild hast, komm zu mir."
 
@@ -63,15 +63,15 @@ msgstr ""
 "Nirgendwo postiert. [PauseShort]Kann ich auch prima\n"
 "mit leben, aber...[PageBreak][Sound2 id=\"15\"]Ich darf Tag und Nacht schuften und\n"
 "schlafe deswegen fast schon im Stehen\n"
-"ein...[Choice2 label1=\"1002\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"ein...[Choice2 label1=\"1002\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Ask00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Kann man was helfen?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Kann man was helfen?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Answer01"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Danke![PauseShort] Moment, dieses [C9:00 bytes=\"03040400\"]Luxuswild ist ja\n"
-"gegrillt.[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Ich mag mein [C9:00 bytes=\"03040400\"]Luxuswild lieber ganz,\n"
+"[Sound1 bytes=\"0709\"]Danke![PauseShort] Moment, dieses [C9:00 bytes=\"03040400\"]Luxuswild ist ja\n"
+"gegrillt.[PageBreak][Sound1 bytes=\"0300\"]Ich mag mein [C9:00 bytes=\"03040400\"]Luxuswild lieber ganz,\n"
 "ganz frisch, gegrillt will ich es nicht."
 
 msgid "1000"
@@ -87,12 +87,12 @@ msgid "FirstGoodBye00"
 msgstr "[Sound2 id=\"10\"]Vielen Dank...[PauseShort] fürs...[PauseShort] Vorbeikommen..."
 
 msgid "Ask01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Noch was?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Noch was?[Choice4 label1=\"0\" label2=\"1\" label3=\"2\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Answer02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Danke! [Color name=\"red\"]100 Rubine[Color name=\"unset\"] sind wieder in\n"
-"Ordnung?[Choice2 label1=\"3\" label2=\"4\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0709\"]Danke! [Color name=\"red\"]100 Rubine[Color name=\"unset\"] sind wieder in\n"
+"Ordnung?[Choice2 label1=\"3\" label2=\"4\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "1001"
 msgstr "Wiedersehen."
@@ -118,7 +118,7 @@ msgstr ""
 
 msgid "Talk00"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Dank dir geht es mir besser![PauseShort] Wenn du\n"
+"[Sound1 bytes=\"0709\"]Dank dir geht es mir besser![PauseShort] Wenn du\n"
 "wieder [C9:00 bytes=\"03040400\"]Luxuswild hast, komm vorbei!"
 
 msgid "0000"
@@ -126,7 +126,7 @@ msgstr "Bitte sehr, [C9:00 bytes=\"03040400\"]Luxuswild."
 
 msgid "Answer04"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"4\"]Das reicht mir für heute.[PauseShort] Wenn du\n"
+"[Sound1 bytes=\"0104\"]Das reicht mir für heute.[PauseShort] Wenn du\n"
 "[C9:00 bytes=\"03040400\"]Luxuswild für mich hast, komm\n"
 "morgen wieder."
 
@@ -140,25 +140,25 @@ msgstr ""
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]Ich mach nur 'n kleines Päuschen.[PauseShort]\n"
+"[Sound1 bytes=\"0012\"]Ich mach nur 'n kleines Päuschen.[PauseShort]\n"
 "Das bleibt aber unter uns, in Ordnung?"
 
 msgid "0001"
 msgstr "Wo bin ich hier?"
 
 msgid "Answer05"
-msgstr "[Sound1 unk1=\"9\" unk2=\"12\"]Nein... Wirklich?"
+msgstr "[Sound1 bytes=\"090C\"]Nein... Wirklich?"
 
 msgid "ChallengeAnswer02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]Oooh... [C9:00 bytes=\"03040400\"]Luxuswild...[PageBreak]Wenn ich nur am [Color name=\"blue\"]Satori-Berg[Color name=\"unset\"] im\n"
-"Hyrule-Gebirge jagen gehen könnte...[PageBreak][Sound1 unk1=\"3\" unk2=\"1\"]Normalerweise ist da nicht viel los, doch\n"
+"[Sound1 bytes=\"0709\"]Oooh... [C9:00 bytes=\"03040400\"]Luxuswild...[PageBreak]Wenn ich nur am [Color name=\"blue\"]Satori-Berg[Color name=\"unset\"] im\n"
+"Hyrule-Gebirge jagen gehen könnte...[PageBreak][Sound1 bytes=\"0301\"]Normalerweise ist da nicht viel los, doch\n"
 "manchmal [Color name=\"red\"]wimmelt es von Tieren[Color name=\"unset\"].[PageBreak]Aber ich habe so viel zu tun, dass ich\n"
 "nicht zum Jagen komme."
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Draußen wirst du ganz nass.[PauseShort]\n"
+"[Sound1 bytes=\"0002\"]Draußen wirst du ganz nass.[PauseShort]\n"
 "Bleib lieber drin im Stall."
 
 msgid "0002"
@@ -177,7 +177,7 @@ msgstr "Natürlich!"
 
 msgid "Answer07"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Kurz vor dem Hyrule-Gebirge, in der\n"
+"[Sound1 bytes=\"0B00\"]Kurz vor dem Hyrule-Gebirge, in der\n"
 "Nähe vom [Color name=\"blue\"]Satori-Berg[Color name=\"unset\"], [Color name=\"red\"]wimmelt es\n"
 "manchmal nur so von Wild[Color name=\"unset\"].[PageBreak]Dort soll der Herr der Wildnis leben...[PauseShort]\n"
 "Ob der wohl nach was schmeckt?"
@@ -187,38 +187,38 @@ msgstr "Lieber nicht..."
 
 msgid "Challenge00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Willkommen und so...[PageBreak]Ach, was gäbe ich nicht für richtig schön\n"
+"[Sound1 bytes=\"030D\"]Willkommen und so...[PageBreak]Ach, was gäbe ich nicht für richtig schön\n"
 "frisches [C9:00 bytes=\"03040400\"]Luxuswild."
 
 msgid "ChallengeAsk00"
-msgstr "[Sound2 id=\"10\"]Äh, kann ich helfen?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound2 id=\"10\"]Äh, kann ich helfen?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"1\"]Willkommen..."
 
 msgid "Challenge01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]Was würde ich nicht für etwas frisches\n"
+"[Sound1 bytes=\"030D\"]Was würde ich nicht für etwas frisches\n"
 "[C9:00 bytes=\"03040400\"]Luxuswild geben..."
 
 msgid "ChallengeAsk01"
-msgstr "Darf's sonst noch was sein?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "Darf's sonst noch was sein?[Choice4 label1=\"2002\" label2=\"2003\" label3=\"2004\" label4=\"1001\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near01"
 msgstr "[Sound2 id=\"16\"]Puh..."
 
 msgid "Challenge02"
-msgstr "[Sound1 unk1=\"11\" unk2=\"19\"]Hm...[PauseShort] Dieser Geruch...[PageBreak]Rieche ich da etwa frisches [C9:00 bytes=\"03040400\"]Luxuswild?[PageBreak][Sound1 unk1=\"3\" unk2=\"0\"]Verkaufst du's mir?[Choice2 label1=\"2000\" label2=\"2001\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0B13\"]Hm...[PauseShort] Dieser Geruch...[PageBreak]Rieche ich da etwa frisches [C9:00 bytes=\"03040400\"]Luxuswild?[PageBreak][Sound1 bytes=\"0300\"]Verkaufst du's mir?[Choice2 label1=\"2000\" label2=\"2001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "2000"
 msgstr "Na klar!"
 
 msgid "Challenge03"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"19\"]Hm...[PauseShort] Dieser Geruch...[PauseMid]\n"
+"[Sound1 bytes=\"0B13\"]Hm...[PauseShort] Dieser Geruch...[PauseMid]\n"
 "Rieche ich etwa [C9:00 bytes=\"03040400\"]Luxuswild?[PauseShort]\n"
 "Oh, aber es ist gebraten...\n"
-"[Sound1 unk1=\"3\" unk2=\"0\"]Schade...[PauseShort] Ich mag [C9:00 bytes=\"03040400\"]Luxuswild am liebsten\n"
+"[Sound1 bytes=\"0300\"]Schade...[PauseShort] Ich mag [C9:00 bytes=\"03040400\"]Luxuswild am liebsten\n"
 "ganz, äh, frisch..."
 
 msgid "2001"

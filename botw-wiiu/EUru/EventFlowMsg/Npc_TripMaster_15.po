@@ -20,13 +20,13 @@ msgid "TerrorInsect"
 msgstr "Фу, пчелы!"
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]Эй! Вот мы и встретились снова!"
+msgstr "[Sound1 bytes=\"0102\"]Эй! Вот мы и встретились снова!"
 
 msgid "TerrorAnimal"
 msgstr "Брысь!"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomHot\"]Ну и жара..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomHot\"]Ну и жара..."
 
 msgid "TerrorBomb"
 msgstr "Ай!"
@@ -36,7 +36,7 @@ msgstr "[Sound2 id=\"16\"]Ну и перепугался же я..."
 
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Здесь легко можно получить\n"
+"[Sound1 bytes=\"0001\"]Здесь легко можно получить\n"
 "солнечный удар, но я готов\n"
 "на такой риск ради клиентов!"
 

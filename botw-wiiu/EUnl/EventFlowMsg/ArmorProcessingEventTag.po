@@ -1,5 +1,5 @@
 msgid "Talk00"
-msgstr "[Sound2 id=\"0\"][Size percent=\"80\"]Jongeman...[PageBreak][Size percent=\"100\"]Hé, jongeman...[PageBreak]Luister eens naar mijn verhaal...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"0\"][Size percent=\"80\"]Jongeman...[PageBreak][Size percent=\"100\"]Hé, jongeman...[PageBreak]Luister eens naar mijn verhaal...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
 msgstr ""
@@ -66,7 +66,7 @@ msgstr "Ik sla even over."
 msgid "Talk03_05B"
 msgstr ""
 "[Sound2 id=\"2\"]Om mijn krachten terug te krijgen heb ik\n"
-"nog [Color name=\"red\"]1000 rupees [Color name=\"unset\"]nodig.[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"nog [Color name=\"red\"]1000 rupees [Color name=\"unset\"]nodig.[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk26"
 msgstr ""
@@ -109,7 +109,7 @@ msgstr "[Color name=\"red\"][Sound2 id=\"2\"][Color name=\"unset\"]Ik heb maar [
 msgid "Talk03_01B"
 msgstr ""
 "[Sound2 id=\"2\"]Om mijn krachten terug te krijgen heb ik\n"
-"[Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"] [Color name=\"unset\"]nodig.[Choice2 label1=\"14\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"][02:11 name=\"AmountRupeeForNextRevivalFountain\"][SPSwitch singular=\" rupee\" plural=\" rupees\" plural2=\" rupee\"] [Color name=\"unset\"]nodig.[Choice2 label1=\"14\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03_m"
 msgstr ""

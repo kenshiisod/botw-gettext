@@ -1,34 +1,34 @@
 #, ruby
 msgid "Talk_1012"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]おや？ [PauseShort][Color name=\"red\"]コログのしれん武器セット[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0A00\"]おや？ [PauseShort][Color name=\"red\"]コログのしれん武器セット[Color name=\"unset\"]を\n"
 "全部借りなくても 大丈夫そうだな\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]貸し出し料金を 割引きして…[PauseShort]\n"
+"[Sound1 bytes=\"0601\"]貸し出し料金を 割引きして…[PauseShort]\n"
 "[Color name=\"red\"]10ルピー[Color name=\"unset\"]でいいよ"
 
 #, ruby
 msgid "Talk_1106"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"12\"]残念だったね ゆうしゃサマ…[PauseShort]\n"
+"[Sound1 bytes=\"0B0C\"]残念だったね ゆうしゃサマ…[PauseShort]\n"
 "まあ [PauseShort]こりずにまた挑戦してみてよ"
 
 #, ruby
 msgid "Talk_1013"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"red\"]コログのしれん武器セット[Color name=\"unset\"]で\n"
+"[Sound1 bytes=\"0600\"][Color name=\"red\"]コログのしれん武器セット[Color name=\"unset\"]で\n"
 "持っていないものは 貸し出しだからな！\n"
 "終わったら 返してもらうぞ"
 
 #, ruby
 msgid "Talk_1107"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]また挑戦したくなったら\n"
+"[Sound1 bytes=\"0000\"]また挑戦したくなったら\n"
 "ルピーためて来てねー"
 
 #, ruby
 msgid "Talk_1014"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"0\"]ゆうしゃサマ！\n"
+"[Sound1 bytes=\"0A00\"]ゆうしゃサマ！\n"
 "ルピーが足りないぞ！"
 
 msgid "0000"
@@ -36,7 +36,7 @@ msgstr "やってみたい"
 
 #, ruby
 msgid "Talk_0002_1"
-msgstr "[Sound1 unk1=\"6\" unk2=\"2\"]それじゃあ 準備するぞ"
+msgstr "[Sound1 bytes=\"0602\"]それじゃあ 準備するぞ"
 
 #, ruby
 msgid "0001"
@@ -45,17 +45,17 @@ msgstr "また今度"
 #, ruby
 msgid "Talk_0002_2"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"][Color name=\"red\"][02:0E name=\"ShieldofKolog_mini_BestTime_L\"]分[02:0E name=\"ShieldofKolog_mini_BestTime_M\"]秒[02:0E name=\"ShieldofKolog_mini_BestTime_S\"][Color name=\"unset\"]より早く\n"
+"[Sound1 bytes=\"0600\"][Color name=\"red\"][02:0E name=\"ShieldofKolog_mini_BestTime_L\"]分[02:0E name=\"ShieldofKolog_mini_BestTime_M\"]秒[02:0E name=\"ShieldofKolog_mini_BestTime_S\"][Color name=\"unset\"]より早く\n"
 "到着したら ご褒美が待ってるぞ"
 
 #, ruby
 msgid "Talk_0000"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"6\"]やあ ゆうしゃサマ！\n"
+"[Sound1 bytes=\"0706\"]やあ ゆうしゃサマ！\n"
 "[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"] 達成おめでとう\n"
-"ハラハラドキドキ 楽しかっただろ？[PageBreak][Sound1 unk1=\"11\" unk2=\"19\"]さらなる高みを目指す\n"
+"ハラハラドキドキ 楽しかっただろ？[PageBreak][Sound1 bytes=\"0B13\"]さらなる高みを目指す\n"
 "しれんをやってみるかい？\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]なーに やることは同じさ[PageBreak]ただ ゴールまでの時間がどれだけかかるか\n"
+"[Sound1 bytes=\"0601\"]なーに やることは同じさ[PageBreak]ただ ゴールまでの時間がどれだけかかるか\n"
 "数えているだけ！\n"
 "[Color name=\"red\"]5分まで[Color name=\"unset\"]にゴールできたら\n"
 "ご褒美が待ってるぞ"
@@ -66,7 +66,7 @@ msgstr "やる！"
 #, ruby
 msgid "Talk_0001"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"16\"]そうか…\n"
+"[Sound1 bytes=\"0610\"]そうか…\n"
 "ま [PauseShort]気が向いたら ここに来てくれよ"
 
 #, ruby
@@ -79,31 +79,31 @@ msgstr "やめておく"
 #, ruby
 msgid "Talk_0002"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]よろしい[PageBreak]ルールは わかってるよな\n"
+"[Sound1 bytes=\"0600\"]よろしい[PageBreak]ルールは わかってるよな\n"
 "[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]と 一緒だ\n"
 "[Color name=\"red\"]剣[Color name=\"unset\"]と[Color name=\"red\"]弓[Color name=\"unset\"]と[Color name=\"red\"]盾[Color name=\"unset\"]を装備して\n"
 "奥の祠へ到着するんだ"
 
 #, ruby
 msgid "Talk_1001"
-msgstr "[Sound1 unk1=\"7\" unk2=\"10\"]おめでとう！ [PauseMid]新記録だ！"
+msgstr "[Sound1 bytes=\"070A\"]おめでとう！ [PauseMid]新記録だ！"
 
 #, ruby
 msgid "Talk_1001_1"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]さてさて [PauseShort][Color name=\"red\"]5分まで[Color name=\"unset\"]にゴールできたから\n"
+"[Sound1 bytes=\"0600\"]さてさて [PauseShort][Color name=\"red\"]5分まで[Color name=\"unset\"]にゴールできたから\n"
 "ご褒美を…"
 
 #, ruby
 msgid "Talk_1002"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]じゃーん！\n"
+"[Sound1 bytes=\"0700\"]じゃーん！\n"
 "ありがたく受け取れよ"
 
 #, ruby
 msgid "Talk_0004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]やあ ゆうしゃサマ！[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]やあ ゆうしゃサマ！[PauseShort]\n"
 "[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]へ ようこそ！\n"
 "[Color name=\"red\"]5分まで[Color name=\"unset\"]にゴールして\n"
 "ご褒美ゲットを目指してみるかい？"
@@ -111,19 +111,19 @@ msgstr ""
 #, ruby
 msgid "Talk_1001_2"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]さてさて [PauseShort]前の記録より早くゴールできたから\n"
+"[Sound1 bytes=\"0600\"]さてさて [PauseShort]前の記録より早くゴールできたから\n"
 "ご褒美を…"
 
 #, ruby
 msgid "Talk_1003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]自分の限界に挑戦したかったら\n"
+"[Sound1 bytes=\"0000\"]自分の限界に挑戦したかったら\n"
 "また声かけてくれ"
 
 #, ruby
 msgid "Talk_0005"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]やあ ゆうしゃサマ！[PauseShort]\n"
+"[Sound1 bytes=\"0700\"]やあ ゆうしゃサマ！[PauseShort]\n"
 "[Color name=\"red\"]燃えずのしれん[Color name=\"unset\"]へ ようこそ！\n"
 "今の最高記録は [Color name=\"red\"][02:0E name=\"ShieldofKolog_mini_BestTime_L\"]分[02:0E name=\"ShieldofKolog_mini_BestTime_M\"]秒[02:0E name=\"ShieldofKolog_mini_BestTime_S\"][Color name=\"unset\"]だ\n"
 "もっと早くゴールできるか 挑戦するかい？"
@@ -134,7 +134,7 @@ msgstr "しれんあるよ～"
 #, ruby
 msgid "Talk_1100"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]置き去りにされると思った？\n"
+"[Sound1 bytes=\"0000\"]置き去りにされると思った？\n"
 "ゆうしゃサマに そんなことしないよー\n"
 "そんじゃ [PauseShort]貸したものは 返してもらって…[PageBreak]始めた場所へ戻るぞー[PauseShort]\n"
 "えいやっほ～い！"
@@ -142,14 +142,14 @@ msgstr ""
 #, ruby
 msgid "Talk_1008"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]記録更新ならず！\n"
+"[Sound1 bytes=\"0600\"]記録更新ならず！\n"
 "でもまあ いいタイムだったから オマケだ！"
 
 #, ruby
 msgid "Talk_1101"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]あ！ [PauseMid]もしかして 今すぐ再挑戦したい？[PauseShort]\n"
-"もちろん [Color name=\"red\"]20ルピー[Color name=\"unset\"]払ってもらうけど[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]あ！ [PauseMid]もしかして 今すぐ再挑戦したい？[PauseShort]\n"
+"もちろん [Color name=\"red\"]20ルピー[Color name=\"unset\"]払ってもらうけど[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_1009"
@@ -160,34 +160,34 @@ msgstr ""
 #, ruby
 msgid "Talk_1102"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]あ！ [PauseMid]もしかして 今すぐ再挑戦したい？[PageBreak]武器セットの 貸し出し料金を割引きして…\n"
-"[Color name=\"red\"]10ルピー[Color name=\"unset\"]でいいぞ[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]あ！ [PauseMid]もしかして 今すぐ再挑戦したい？[PageBreak]武器セットの 貸し出し料金を割引きして…\n"
+"[Color name=\"red\"]10ルピー[Color name=\"unset\"]でいいぞ[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_1103"
-msgstr "[Sound1 unk1=\"0\" unk2=\"11\"]じゃあ [PauseShort]スタートに戻るから…[PageBreak]えいやっほ～い！"
+msgstr "[Sound1 bytes=\"000B\"]じゃあ [PauseShort]スタートに戻るから…[PageBreak]えいやっほ～い！"
 
 #, ruby
 msgid "Talk_1010"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]あらら [PauseMid]記録更新ならずだ[PageBreak]ご褒美はお預け！\n"
+"[Sound1 bytes=\"0900\"]あらら [PauseMid]記録更新ならずだ[PageBreak]ご褒美はお預け！\n"
 "次はもっと頑張れよ"
 
 msgid "Talk_1104"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あ [PauseShort]そう[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]あ [PauseShort]そう[PauseShort]\n"
 "それじゃーねー"
 
 #, ruby
 msgid "Talk_1011"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]挑戦するには [Color name=\"red\"]20ルピー[Color name=\"unset\"]払ってもらうけど[PauseMid]\n"
-"いいかな？ [PauseMid]いいよね？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]挑戦するには [Color name=\"red\"]20ルピー[Color name=\"unset\"]払ってもらうけど[PauseMid]\n"
+"いいかな？ [PauseMid]いいよね？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk_1105"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]置き去りにされると思った？\n"
+"[Sound1 bytes=\"0000\"]置き去りにされると思った？\n"
 "ゆうしゃサマに そんなことしないよー\n"
 "そんじゃ [PauseShort]始めた場所へ戻るぞー\n"
 "えいやっほ～い！"

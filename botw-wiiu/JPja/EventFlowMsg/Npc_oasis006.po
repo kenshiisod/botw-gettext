@@ -1,7 +1,7 @@
 #, ruby
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"27\"]サヴァサーバ！[PauseLong]\n"
 "よく眠れたかい？ \n"
 "それにしても 今からお出かけかい？[PauseLong]\n"
 "夜は危険なんだから 無理するんじゃないよ"
@@ -9,19 +9,19 @@ msgstr ""
 #, ruby
 msgid "Talk11"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！ ふふ… よく眠れただろ？[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"25\"]サヴォッタ！ ふふ… よく眠れただろ？[PauseLong]\n"
 "砂漠は危険だ 気を付けるんだよ！"
 
 #, ruby
 msgid "Talk12"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！ ふふ… よく眠れただろ？[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"26\"]サヴァーク！ ふふ… よく眠れただろ？[PauseLong]\n"
 "砂漠は危険だ 気を付けるんだよ！"
 
 #, ruby
 msgid "Talk13"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"27\"]サヴァサーバ！\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"27\"]サヴァサーバ！\n"
 "ふふ… よく眠れただろ？\n"
 "それにしても今からお出かけかい？[PauseLong]\n"
 "夜は危険なんだから無理するんじゃないよ"
@@ -29,17 +29,17 @@ msgstr ""
 #, ruby
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
+"[Sound1 bytes=\"0001\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
 "遠慮なく休んでいっとくれ！"
 
 #, ruby
 msgid "Talk14"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"25\"]おや お客さん\n"
+"[Sound1 bytes=\"0419\"]おや お客さん\n"
 "アローマのエステを 知らないのかい？[PauseMid]\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"][Size percent=\"80\"]けっこう 人気だと\n"
+"[Sound1 bytes=\"0B00\"][Size percent=\"80\"]けっこう 人気だと\n"
 "思ってたんだけどねぇ…[PauseLong][Size percent=\"100\"]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]アタシの フィンガーテクを受けると\n"
+"[Sound1 bytes=\"0000\"]アタシの フィンガーテクを受けると\n"
 "色々 元気になっちゃうらしくてね\n"
 "目覚めたら いつもよりも体は強くなって\n"
 "手足の力も増すって 評判なんだ\n"
@@ -47,29 +47,29 @@ msgstr ""
 "ヴァーイなら 受けなきゃ損だよ！"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"24\"]サヴォーク！"
+msgstr "[Sound1 bytes=\"0018\"]サヴォーク！"
 
 #, ruby
 msgid "Talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]それで どうする？\n"
+"[Sound1 bytes=\"0004\"]それで どうする？\n"
 "泊まっていくのかい？\n"
 "通常のプランなら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"19\"]なんだい… お代が足りないじゃないか！[PauseLong]\n"
+"[Sound1 bytes=\"0213\"]なんだい… お代が足りないじゃないか！[PauseLong]\n"
 "それじゃあ 泊まらせる事はできないね"
 
 #, ruby
 msgid "Talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]別のプランにするのかい？\n"
+"[Sound1 bytes=\"0004\"]別のプランにするのかい？\n"
 "\n"
 "通常のプランなら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "Near01"
 msgstr "エステはどうだい？"
@@ -81,22 +81,22 @@ msgstr "通常のプラン"
 #, ruby
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"19\"]おや… 通常のプランでいいのかい？\n"
+"[Sound1 bytes=\"0013\"]おや… 通常のプランでいいのかい？\n"
 "\n"
 "アタシのフィンガーテクなら\n"
 "天国行き間違いなしだったのに 残念だね…\n"
-"それで いつ起こせばいいんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"それで いつ起こせばいいんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]通常のプランなら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
-"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0000\"]通常のプランなら [Color name=\"red\"]20ルピー[Color name=\"unset\"]\n"
+"美肌エステプランなら [Color name=\"red\"]80ルピー[Color name=\"unset\"]だよ！[Choice4 label1=\"0\" label2=\"1\" label3=\"7\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
+"[Sound1 bytes=\"0001\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
 "\n"
 "[Color name=\"blue\"]神獣[Color name=\"unset\"]が暴れるのをやめてくれたから\n"
 "これからウチも忙しくなるよ\n"
@@ -109,16 +109,16 @@ msgstr "美肌エステプラン"
 #, ruby
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]エステプランだね！\n"
+"[Sound1 bytes=\"0109\"]エステプランだね！\n"
 "ふふっ 指がなるねぇ…[PauseLong]\n"
-"それで いつ起こせばいいんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" selectednum=\"0\" cancelnum=\"3\"]"
+"それで いつ起こせばいいんだい？[Choice4 label1=\"3\" label2=\"4\" label3=\"5\" label4=\"6\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "Talk19"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"28\"]ヴァーサーク！[PauseLong]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]おや エステしがいのある\n"
+"[Sound1 bytes=\"0004\"]おや エステしがいのある\n"
 "かわいいヴァーイだねぇ\n"
 "ウチは宿屋だけど\n"
 "特別な[Color name=\"blue\"]エステプラン[Color name=\"unset\"]もあるんだ\n"
@@ -128,23 +128,23 @@ msgstr ""
 "後を絶たないんだよ\n"
 "でもお客さんは 特別にいつでも\n"
 "エステしたげるよ\n"
-"[Sound1 unk1=\"11\" unk2=\"0\"]なんだろうねぇ [PauseShort]お客さんには\n"
+"[Sound1 bytes=\"0B00\"]なんだろうねぇ [PauseShort]お客さんには\n"
 "特別な何かを感じるんだよ[PauseLong]\n"
-"[Sound1 unk1=\"0\" unk2=\"0\"]さぁ 長話しちまったけど\n"
+"[Sound1 bytes=\"0000\"]さぁ 長話しちまったけど\n"
 "どうだい？ 泊まってくかい？"
 
 msgid "0002"
 msgstr "さよなら"
 
 msgid "Talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"23\"]サヴォール！"
+msgstr "[Sound1 bytes=\"0017\"]サヴォール！"
 
 #, ruby
 msgid "0003"
 msgstr "朝まで"
 
 msgid "Talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"23\"]サヴォール！！"
+msgstr "[Sound1 bytes=\"0017\"]サヴォール！！"
 
 #, ruby
 msgid "0004"
@@ -153,7 +153,7 @@ msgstr "昼まで"
 #, ruby
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"25\"]サヴォッタ！ よく眠れたかい？[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"25\"]サヴォッタ！ よく眠れたかい？[PauseLong]\n"
 "砂漠は危険だ 気を付けるんだよ！"
 
 #, ruby
@@ -163,7 +163,7 @@ msgstr "夜まで"
 #, ruby
 msgid "Talk09"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Sound2 id=\"26\"]サヴァーク！ よく眠れたかい？[PauseLong]\n"
+"[Sound1 bytes=\"0101\"][Sound2 id=\"26\"]サヴァーク！ よく眠れたかい？[PauseLong]\n"
 "砂漠は危険だ 気を付けるんだよ！"
 
 msgid "0006"

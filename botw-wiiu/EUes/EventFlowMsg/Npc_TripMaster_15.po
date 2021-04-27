@@ -20,13 +20,13 @@ msgid "TerrorInsect"
 msgstr "¡Dichoso bicho!"
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"1\" unk2=\"2\"]¡Tíiio! ¡Volvemos a vernos!"
+msgstr "[Sound1 bytes=\"0102\"]¡Tíiio! ¡Volvemos a vernos!"
 
 msgid "TerrorAnimal"
 msgstr "¡No me comas!"
 
 msgid "Near"
-msgstr "[Sound1 unk1=\"3\" unk2=\"1\"][Animation name=\"CustomHot\"]Buf, qué calorazo..."
+msgstr "[Sound1 bytes=\"0301\"][Animation name=\"CustomHot\"]Buf, qué calorazo..."
 
 msgid "TerrorBomb"
 msgstr "¡Tíiio, ten cuidado!"
@@ -36,7 +36,7 @@ msgstr "[Sound2 id=\"16\"]Casi no salgo vivo..."
 
 msgid "talk_26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Aquí hay que tener un cuidado que\n"
+"[Sound1 bytes=\"0001\"]Aquí hay que tener un cuidado que\n"
 "no veas. ¡Te puedes achicharrar\n"
 "en un pispás!"
 

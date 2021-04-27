@@ -22,7 +22,7 @@ msgstr ""
 "いずれにせよ この子達は\n"
 "いづれ目覚めし 天才剣士クンに託すつもりだ\n"
 "そして ゼルダ姫を飲み込んだ厄災…\n"
-"ガノン討伐の助力になればと 切に願う[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"ガノン討伐の助力になればと 切に願う[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk10"
@@ -39,7 +39,7 @@ msgstr ""
 "勇導石を 再稼働してもらったし\n"
 "おかげで 研究くらいはできるようになった\n"
 "流石 ハイラルの天才剣士♪\n"
-"これを機に また色々お願いしようと画策中[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"これを機に また色々お願いしようと画策中[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0004"
@@ -78,13 +78,13 @@ msgstr ""
 "天才剣士クンを 回生の祠まで担ぎ込み\n"
 "詳細な臨床実験もできていない\n"
 "回生の眠りを その天才剣士クンに施した\n"
-"それが当時の私にできた事の 全てだった[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"それが当時の私にできた事の 全てだった[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk11"
 msgstr ""
 "このままだと 研究もできないどころか\n"
-"ガス灯しか つけられないし どうしよ……[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"ガス灯しか つけられないし どうしよ……[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0005"
@@ -108,7 +108,7 @@ msgstr ""
 "しかし 今後の実験はどうしようかな\n"
 "\n"
 "外のかまどの青い炎も 弱まってきたし\n"
-"このまま勇導石が ストップしなきゃいいけど…[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"このまま勇導石が ストップしなきゃいいけど…[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk07"
@@ -128,7 +128,7 @@ msgstr ""
 "リンクを叩き起こしに 行きたいケド\n"
 "シモンは 頼りになんないし……\n"
 "6歳の体では 色々面倒だから\n"
-"年齢を進めるアイテムを 開発しよっと[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"年齢を進めるアイテムを 開発しよっと[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk08"
@@ -154,13 +154,13 @@ msgstr ""
 msgid "talk09"
 msgstr ""
 "このままだと 研究もできないどころか\n"
-"ガス灯しか つけられないし どうしよ……[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"ガス灯しか つけられないし どうしよ……[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "talk00"
 msgstr ""
 "古代技術アイテム 「アンチエイジ」 開発日記\n"
-"絶対見ちゃダメ！ by プルア[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"1\" label4=\"2\" selectednum=\"0\" cancelnum=\"3\"]"
+"絶対見ちゃダメ！ by プルア[Choice4Flags label1=\"65535\" label2=\"0\" label3=\"1\" label4=\"2\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0000"
@@ -178,7 +178,7 @@ msgstr ""
 "厄災ガノンが復活した際には\n"
 "強大な防衛力と なりえるだろう\n"
 "軍人だけでなく 労働力の増加も期待できる\n"
-"是非 平和的利用に役立てたい[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"3\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"是非 平和的利用に役立てたい[Choice4Flags label1=\"65535\" label2=\"65535\" label3=\"3\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0001"
@@ -196,7 +196,7 @@ msgstr ""
 "照射20秒後 全身に倦怠感と発熱を感じたので\n"
 "実験は中止\n"
 "猛烈な眠気もあり 今日は早めに就寝\n"
-"明日からアンチエイジの解析をやり直す事にする[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"明日からアンチエイジの解析をやり直す事にする[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 #, ruby
 msgid "0002"
@@ -218,7 +218,7 @@ msgstr ""
 "ここでできる限りの 全ての検査の結果\n"
 "シーカー族の50代女性の値が 出ている事が判明\n"
 "と言う訳で 一晩で70歳以上の若返りに成功か\n"
-"明日目覚めたら 胎児になってなければよいが[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" selectednum=\"0\" cancelnum=\"3\"]"
+"明日目覚めたら 胎児になってなければよいが[Choice4Flags label1=\"65535\" label2=\"3\" label3=\"4\" label4=\"5\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAE8AgAAAAAAABIAAAAEAAAAUAAAAFIAAABUAAAAVgAAAFgAAABaAAAAXAAAAIQAAACsAAAA1AAAAPwAAAAkAQAATAEAAHQBAACcAQAAxAEAAOwBAAAUAgAAAAAAAAAAAAAAAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkAVABhAG0AdQBsAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AFQAYQBtAHUAbABfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBUAGEAbQB1AGwAXwBBAF8AMAAxAAAAAAAA"

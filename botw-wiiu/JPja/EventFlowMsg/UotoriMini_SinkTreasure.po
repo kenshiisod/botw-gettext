@@ -1,7 +1,7 @@
 #, ruby
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"6\"]どうさ？ 見つかったかいさ？[PauseShort]\n"
+"[Sound1 bytes=\"0606\"]どうさ？ 見つかったかいさ？[PauseShort]\n"
 "『[Color name=\"red\"]財宝は 黄金三角の中央に眠る[Color name=\"unset\"]』 さぁ\n"
 "見つけたら 話を聞かせておくれよし"
 
@@ -15,21 +15,21 @@ msgstr "忙しいんだ"
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]どうさ？ オヌシ[PauseShort]\n"
+"[Sound1 bytes=\"0006\"]どうさ？ オヌシ[PauseShort]\n"
 "その気になったかいさ？\n"
 "ワシの代わりに 海に沈んだ[Color name=\"red\"]財宝[Color name=\"unset\"]\n"
-"探してみんかいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"探してみんかいさ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]そうかいさ その気になったら\n"
+"[Sound1 bytes=\"0004\"]そうかいさ その気になったら\n"
 "また来るがいいさぁ"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]そうこなくてはな[PauseShort]\n"
+"[Sound1 bytes=\"070B\"]そうこなくてはな[PauseShort]\n"
 "言い伝えではな…\n"
 "『[Color name=\"red\"]財宝は 黄金三角の中央に眠る[Color name=\"unset\"]』[PauseMid]\n"
 "らしいわいさ…\n"
@@ -41,7 +41,7 @@ msgstr ""
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]オヌシ 見つけたのかいさ[PauseMid]\n"
+"[Sound1 bytes=\"0414\"]オヌシ 見つけたのかいさ[PauseMid]\n"
 "ほっほっ すごいの\n"
 "この海には\n"
 "まだまだ[Color name=\"red\"]財宝[Color name=\"unset\"]が眠ってるかもしれんの"
@@ -49,7 +49,7 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]今日は もう寝るところさぁ\n"
+"[Sound1 bytes=\"0022\"]今日は もう寝るところさぁ\n"
 "用があるなら また明日くるさ～"
 
 msgid "Near01"
@@ -61,7 +61,7 @@ msgstr "Zzz"
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]でも こんな雨の日には\n"
+"[Sound1 bytes=\"0000\"]でも こんな雨の日には\n"
 "海には出ぬ方がよいわいさ\n"
 "自然は厳しいさぁ…[PauseMid]\n"
 "無理せずにな"
@@ -73,12 +73,12 @@ msgstr "いい風じゃ"
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]この近くの海には\n"
+"[Sound1 bytes=\"0B10\"]この近くの海には\n"
 "[Color name=\"red\"]財宝[Color name=\"unset\"]が沈んでいるという言い伝えがあるわいさ…\n"
 "ワシも もう少し若ければ 探してもみるさぁ\n"
 "もう 年さぁ…\n"
-"[Sound1 unk1=\"6\" unk2=\"1\"]どうさ？ オヌシ\n"
-"ワシの代わりに 探してみんかいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0601\"]どうさ？ オヌシ\n"
+"ワシの代わりに 探してみんかいさ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Near03"

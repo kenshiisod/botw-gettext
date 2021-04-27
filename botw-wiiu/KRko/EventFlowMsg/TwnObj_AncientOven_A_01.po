@@ -1,23 +1,23 @@
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]소재 부족합 니다!"
+msgstr "[Sound1 bytes=\"000E\"]소재 부족합 니다!"
 
 msgid "0002"
 msgstr "변환하기"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]돈 부족합 니다!"
+msgstr "[Sound1 bytes=\"000E\"]돈 부족합 니다!"
 
 msgid "0003"
 msgstr "다른 것으로"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"14\"]너무 빵빵해서 안 들어갑 니다!"
+msgstr "[Sound1 bytes=\"000E\"]너무 빵빵해서 안 들어갑 니다!"
 
 msgid "talk09"
 msgstr "알겠습니다~"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]어서 오세요, [PauseLong]손님"
+msgstr "[Sound1 bytes=\"0002\"]어서 오세요, [PauseLong]손님"
 
 msgid "talk10"
 msgstr "감사합니다!"
@@ -35,14 +35,14 @@ msgstr "소재 를 넣어 주세요"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"11\"]항상 감사합니다[PauseShort]\n"
+"[Sound1 bytes=\"000B\"]항상 감사합니다[PauseShort]\n"
 "또 오세요, [PauseLong]손님"
 
 msgid "near02"
 msgstr "이상 없음"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"6\" unk2=\"16\"][02:0B name=\"Shop_SelectItemName\"][C9:08 bytes=\"04003CC75CB802005CB8\"] 변환하시겠어요?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0610\"][02:0B name=\"Shop_SelectItemName\"][C9:08 bytes=\"04003CC75CB802005CB8\"] 변환하시겠어요?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near03"
 msgstr "영업 중"
@@ -53,7 +53,7 @@ msgstr ""
 "변환 중… [PauseShort][Size percent=\"80\"]삐비비비빅~[Size percent=\"100\"]"
 
 msgid "talk05"
-msgstr "[Size percent=\"125\"][Sound1 unk1=\"0\" unk2=\"11\"]완성입니 다~! [PauseShort]다음 갑니다~[Size percent=\"100\"]"
+msgstr "[Size percent=\"125\"][Sound1 bytes=\"000B\"]완성입니 다~! [PauseShort]다음 갑니다~[Size percent=\"100\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEgAwAAAAAAABEAAAAEAAAATAAAAHwAAACsAAAA3AAAAAwBAAAOAQAAEAEAAEABAABwAQAAoAEAANABAAAAAgAAMAIAAGACAACQAgAAwAIAAPACAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAABUAHcAbgBPAGIAagBfAEEAbgBjAGkAZQBuAHQATwB2AGUAbgBfAEEAXwAwADEAAAAAAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAVAB3AG4ATwBiAGoAXwBBAG4AYwBpAGUAbgB0AE8AdgBlAG4AXwBBAF8AMAAxAAAAAAAA"

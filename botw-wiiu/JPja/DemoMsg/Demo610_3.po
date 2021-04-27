@@ -19,25 +19,25 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_000"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"6\"]おや？\n"
+"[Sound1 bytes=\"0B06\"]おや？\n"
 "こんな高地で 人に会うとは…[PauseMid]"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_201"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]詩の中の英傑が 私に語りかけてきます\n"
+"[Sound1 bytes=\"030C\"]詩の中の英傑が 私に語りかけてきます\n"
 "この詩を ぜひ完成させてほしいと…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_002"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"0\"]いや お恥ずかしい\n"
+"[Sound1 bytes=\"0300\"]いや お恥ずかしい\n"
 "辺境の地を旅していると 独り言ばかりで…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]幸い [Color name=\"blue\"]ゲルド[Color name=\"unset\"]の族長[Color name=\"blue\"]ルージュ[Color name=\"unset\"]と護衛の[Color name=\"blue\"]ビューラ[Color name=\"unset\"]…\n"
+"[Sound1 bytes=\"0000\"]幸い [Color name=\"blue\"]ゲルド[Color name=\"unset\"]の族長[Color name=\"blue\"]ルージュ[Color name=\"unset\"]と護衛の[Color name=\"blue\"]ビューラ[Color name=\"unset\"]…\n"
 "お二方に 貴重なお話を伺う事ができました"
 
 #, ruby
@@ -52,19 +52,19 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_004"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]ああ… [Color name=\"blue\"]神獣[Color name=\"unset\"]の見守るこの場所で\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]ああ… [Color name=\"blue\"]神獣[Color name=\"unset\"]の見守るこの場所で\n"
 "奏でる事の喜び…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_205"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"1\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]に入るために 人には言いにくい\n"
+"[Sound1 bytes=\"0601\"][Color name=\"blue\"]ゲルドの街[Color name=\"unset\"]に入るために 人には言いにくい\n"
 "苦労をした甲斐がありましたよ"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_005"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"1\"]師匠が完成させていた…\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0101\"]師匠が完成させていた…\n"
 "試練に挑みし[Color name=\"blue\"]英傑ウルボザの章[Color name=\"unset\"]\n"
 "[PauseAuto frames=\"40\"]お聴きください"
 
@@ -77,7 +77,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGerudoRelief_206"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そのためにも私は 英傑たちの事を\n"
+"[Sound1 bytes=\"0000\"]そのためにも私は 英傑たちの事を\n"
 "さらに知っておく必要がありまして…"
 
 msgid "_ReadOnly_MsbtExtras"

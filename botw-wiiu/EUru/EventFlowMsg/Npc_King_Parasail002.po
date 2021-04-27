@@ -1,6 +1,6 @@
 msgid "Appear16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Но мы с тобой на высоком плато,\n"
+"[Sound1 bytes=\"0001\"]Но мы с тобой на высоком плато,\n"
 "с которого непросто спуститься."
 
 msgid "Appear17"
@@ -10,31 +10,31 @@ msgstr ""
 
 msgid "Appear18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Вот если бы у тебя был\n"
-"[Color name=\"blue\"]планер[Color name=\"unset\"], как у меня...[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0004\"]Вот если бы у тебя был\n"
+"[Color name=\"blue\"]планер[Color name=\"unset\"], как у меня...[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "1000"
 msgstr "Кто вы?"
 
 msgid "Appear19"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Хо-хо-хо![PauseMid] С радостью![PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Но в этом мире ничего\n"
+"[Sound1 bytes=\"070A\"]Хо-хо-хо![PauseMid] С радостью![PageBreak][Sound1 bytes=\"0001\"]Но в этом мире ничего\n"
 "не достается просто так."
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"9\"]Это рядом.[PauseShort] Иди за мной."
+msgstr "[Sound1 bytes=\"0009\"]Это рядом.[PauseShort] Иди за мной."
 
 msgid "1001"
 msgstr "До свидания"
 
 msgid "Talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Взгляни туда, на святилище.[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]Взгляни туда, на святилище.[PauseShort]\n"
 "Видишь, как светится?"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Оно вспыхнуло в тот момент,\n"
+"[Sound1 bytes=\"0001\"]Оно вспыхнуло в тот момент,\n"
 "когда появились башни."
 
 msgid "TerrorBomb"
@@ -42,12 +42,12 @@ msgstr "Чего?"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Уверен, там лежит\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Уверен, там лежит\n"
 "какое-нибудь сокровище."
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Принеси мне сокровище\n"
+"[Sound1 bytes=\"0002\"]Принеси мне сокровище\n"
 "из того святилища."
 
 msgid "TerrorEnemy"
@@ -55,20 +55,20 @@ msgstr "Ох!"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]Принеси мне сокровище\n"
-"из того святилища.[Choice2 label1=\"1000\" label2=\"1001\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0002\"]Принеси мне сокровище\n"
+"из того святилища.[Choice2 label1=\"1000\" label2=\"1001\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ну и ну...[PauseShort] Вот так дела."
+msgstr "[Sound1 bytes=\"0001\"]Ну и ну...[PauseShort] Вот так дела."
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Принеси мне сокровище\n"
+"[Sound1 bytes=\"0004\"]Принеси мне сокровище\n"
 "из того святилища."
 
 msgid "Appear02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]Высокие башни, одна за другой,\n"
+"[Sound1 bytes=\"000D\"]Высокие башни, одна за другой,\n"
 "выросли из земли прямо на глазах.[PageBreak]Похоже, силы, дремавшие в земле\n"
 "королевства Хайрул, пробуждаются."
 
@@ -77,8 +77,8 @@ msgstr "Ты что делаешь?!"
 
 msgid "Appear03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Позволь спросить: что\n"
-"произошло на башне?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]Позволь спросить: что\n"
+"произошло на башне?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear04"
 msgstr "[Sound2 id=\"9\"]А-а![PauseShort] Голос, значит..."
@@ -103,7 +103,7 @@ msgid "0001"
 msgstr "..."
 
 msgid "Appear08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ты узнал этот голос?[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Ты узнал этот голос?[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "Нет"
@@ -113,8 +113,8 @@ msgstr "[Sound2 id=\"11\"]Хм...[PauseShort] Очень жаль."
 
 msgid "Appear20"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"10\"]Хо-хо-хо![PauseMid] Видел, на чем я сюда\n"
-"спустился?[PauseShort] Это и был планер.[PageBreak][Sound1 unk1=\"0\" unk2=\"1\"]Не бойся, я отдам его тебе,\n"
+"[Sound1 bytes=\"070A\"]Хо-хо-хо![PauseMid] Видел, на чем я сюда\n"
+"спустился?[PauseShort] Это и был планер.[PageBreak][Sound1 bytes=\"0001\"]Не бойся, я отдам его тебе,\n"
 "но...[PauseMid] при одном условии."
 
 msgid "0003"
@@ -183,7 +183,7 @@ msgstr ""
 
 msgid "Appear12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"5\"]Это...[PauseLong] [Color name=\"red\"]Бедствие Ганон[Color name=\"unset\"],\n"
+"[Sound1 bytes=\"0005\"]Это...[PauseLong] [Color name=\"red\"]Бедствие Ганон[Color name=\"unset\"],\n"
 "воплощение древнего Зла.[PageBreak]Сто лет назад он превратил\n"
 "[Color name=\"blue\"]королевство Хайрул [Color name=\"unset\"]в руины.[PageBreak]Он появился из ниоткуда, сжигал\n"
 "селения, губил все живое на своем\n"
@@ -193,22 +193,22 @@ msgstr ""
 
 msgid "Appear13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Мне кажется, ты хочешь\n"
-"пойти в замок.[PauseShort] Я прав?[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0004\"]Мне кажется, ты хочешь\n"
+"пойти в замок.[PauseShort] Я прав?[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Appear14"
-msgstr "[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseShort] Я так и знал!"
+msgstr "[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseShort] Я так и знал!"
 
 msgid "GoodBye00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Ты мне — сокровище, а я тебе [Color name=\"blue\"]планер[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0001\"]Ты мне — сокровище, а я тебе [Color name=\"blue\"]планер[Color name=\"unset\"]."
 
 msgid "Appear15"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Я вижу, что хочешь.[PauseShort]\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"CustomLaugh\"]Хо-хо-хо![PauseMid] Я вижу, что хочешь.[PauseShort]\n"
 "Твой взгляд яснее любых слов."
 
 msgid "GoodBye01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Я тебя жду."
+msgstr "[Sound1 bytes=\"0001\"]Я тебя жду."
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "JQAAAAFuBgAAAAAAADUAAAAEAAAA3AAAAAYBAAAwAQAAWgEAAFwBAABeAQAAiAEAALIBAADcAQAABgIAADACAAAyAgAANAIAAF4CAACIAgAAsgIAANwCAAAGAwAACAMAAAoDAAA0AwAAXgMAAIgDAACyAwAA3AMAAN4DAADgAwAACgQAADQEAABeBAAAiAQAALIEAADcBAAABgUAADAFAABaBQAAhAUAAIYFAACIBQAAsgUAANwFAAAGBgAAMAYAAFoGAABcBgAAXgYAAGAGAABiBgAAZAYAAGYGAABoBgAAagYAAGwGAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAABOAHAAYwBfAEsAaQBuAGcAXwBQAGEAcgBhAHMAYQBpAGwAMAAwADIAAAAAAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAATgBwAGMAXwBLAGkAbgBnAF8AUABhAHIAYQBzAGEAaQBsADAAMAAyAAAAAAAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAE4AcABjAF8ASwBpAG4AZwBfAFAAYQByAGEAcwBhAGkAbAAwADAAMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"

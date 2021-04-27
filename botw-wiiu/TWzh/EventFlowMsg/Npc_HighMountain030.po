@@ -18,37 +18,37 @@ msgstr "利特之巨岩"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]如果我是訓練有素的戰士，[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]如果我是訓練有素的戰士，[PauseShort]\n"
 "早就衝去打倒那傢伙了……"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]什麼就是說啊……[PauseShort]我是在說你耶。"
+msgstr "[Sound1 bytes=\"0406\"]什麼就是說啊……[PauseShort]我是在說你耶。"
 
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"1\"]沒看到飛在天上的\n"
+"[Sound1 bytes=\"0201\"]沒看到飛在天上的\n"
 "[Color name=\"blue\"]神獸瓦‧梅德[Color name=\"unset\"]嗎？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]都是那傢伙害得村裡雞犬不寧。"
+"[Sound1 bytes=\"0001\"]都是那傢伙害得村裡雞犬不寧。"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]呼……呼……"
+msgstr "[Sound1 bytes=\"0021\"]呼……呼……"
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]唔嗯……"
+msgstr "[Sound1 bytes=\"0004\"]唔嗯……"
 
 msgid "0030"
 msgstr "日頭高掛時"
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]蓓拉說想知道利特古詩的後半段，[PauseShort]\n"
+"[Sound1 bytes=\"0414\"]蓓拉說想知道利特古詩的後半段，[PauseShort]\n"
 "就來問我？\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]她喔……真的很健忘呢。\n"
+"[Sound1 bytes=\"0001\"]她喔……真的很健忘呢。\n"
 "\n"
 "好吧……[PauseLong]只不過！\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]如果你能不看任何提示就說出前半段，[PauseShort]\n"
-"我就教你後半段……[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0009\"]如果你能不看任何提示就說出前半段，[PauseShort]\n"
+"我就教你後半段……[Choice2 label1=\"44\" label2=\"45\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near01"
 msgstr "呼……"
@@ -58,9 +58,9 @@ msgstr "月頭高掛時"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]希望我能教你古詩的後半段？\n"
+"[Sound1 bytes=\"0000\"]希望我能教你古詩的後半段？\n"
 "\n"
-"那樣就試著說出正確的前半段吧。[Choice2 label1=\"44\" label2=\"45\" selectednum=\"0\" cancelnum=\"1\"]"
+"那樣就試著說出正確的前半段吧。[Choice2 label1=\"44\" label2=\"45\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "near02"
 msgstr "巨塔的～～"
@@ -69,7 +69,7 @@ msgid "0032"
 msgstr "空頭高掛時"
 
 msgid "talk17"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]真是不配合耶……"
+msgstr "[Sound1 bytes=\"030C\"]真是不配合耶……"
 
 msgid "near03"
 msgstr "……"
@@ -78,64 +78,64 @@ msgid "0033"
 msgstr "山頭高掛時"
 
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]好，請說。[Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]好，請說。[Choice4 label1=\"10\" label2=\"11\" label3=\"12\" label4=\"13\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "near04"
 msgstr "呼……呼……"
 
 msgid "talk30"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"]……特地來找我，\n"
-"是想聽利特古詩吧？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"]……特地來找我，\n"
+"是想聽利特古詩吧？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "是"
 
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"19\"]想聽利特古詩嗎？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0013\"]想聽利特古詩嗎？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "不是"
 
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]一旦被人拜託就很想拒絕……[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]一旦被人拜託就很想拒絕……[PauseLong]\n"
 "但還是答應你吧。"
 
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]利特之巨塔，漆黑之身影，[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0001\"][01:01 bytes=\"9A99993E\"]利特之巨塔，漆黑之身影，[Pause frames=\"20\"]\n"
 "日頭高掛時，[Pause frames=\"20\"]真心始現形。[Pause frames=\"5\"]"
 
 msgid "talk34"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]……這就是完整的利特古詩。[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]……這就是完整的利特古詩。[PauseLong]\n"
 "內容還是一樣涵義深遠呢。"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]……早安。"
+msgstr "[Sound1 bytes=\"0000\"]……早安。"
 
 msgid "0005"
 msgstr "你說什麼？"
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]嗨。"
+msgstr "[Sound1 bytes=\"0000\"]嗨。"
 
 msgid "0006"
 msgstr "就是說啊"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]晚安。"
+msgstr "[Sound1 bytes=\"0000\"]晚安。"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]這樣啊。"
+msgstr "[Sound1 bytes=\"0000\"]這樣啊。"
 
 msgid "0020"
 msgstr "紅色之身影"
 
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"22\"]打赤膊……？\n"
+"[Sound1 bytes=\"0A16\"]打赤膊……？\n"
 "\n"
 "不准再靠近，[PauseShort]否則我要叫人來囉？"
 
@@ -144,7 +144,7 @@ msgstr "藍色之身影"
 
 msgid "talk06"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"12\"]我現在要睡了。[PauseLong]\n"
+"[Sound1 bytes=\"000C\"]我現在要睡了。[PauseLong]\n"
 "明天再來找我吧。"
 
 msgid "0022"
@@ -152,55 +152,55 @@ msgstr "白色之身影"
 
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]竟然挑這種時候……[PauseShort]\n"
-"世上也有如此瘋狂的旅行者呢。[Choice2 label1=\"5\" label2=\"6\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0001\"]竟然挑這種時候……[PauseShort]\n"
+"世上也有如此瘋狂的旅行者呢。[Choice2 label1=\"5\" label2=\"6\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0023"
 msgstr "漆黑之身影"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"4\" unk2=\"6\"]還問我在說什麼……"
+msgstr "[Sound1 bytes=\"0406\"]還問我在說什麼……"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]那個[Color name=\"blue\"]神獸瓦‧梅德[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0001\"]那個[Color name=\"blue\"]神獸瓦‧梅德[Color name=\"unset\"]\n"
 "搞得村裡雞犬不寧。"
 
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"][Color name=\"blue\"]神獸瓦‧梅德[Color name=\"unset\"]變得安分許多，[PauseShort]\n"
+"[Sound1 bytes=\"0101\"][Color name=\"blue\"]神獸瓦‧梅德[Color name=\"unset\"]變得安分許多，[PauseShort]\n"
 "這個村莊終於能回歸和平生活了。"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"1\" unk2=\"11\"]村民似乎都雀躍不已呢。"
+msgstr "[Sound1 bytes=\"010B\"]村民似乎都雀躍不已呢。"
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]……真可惜，答錯了。[PauseLong]\n"
+"[Sound1 bytes=\"0009\"]……真可惜，答錯了。[PauseLong]\n"
 "等牢牢記住前半段再來吧。"
 
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]答對了。[PauseLong]接著是？[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]答對了。[PauseLong]接著是？[Choice4 label1=\"20\" label2=\"21\" label3=\"22\" label4=\"23\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]嗯，[PauseShort]答對了。[PauseLong]\n"
-"接著是……？[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" selectednum=\"0\" cancelnum=\"4\"]"
+"[Sound1 bytes=\"0001\"]嗯，[PauseShort]答對了。[PauseLong]\n"
+"接著是……？[Choice4 label1=\"30\" label2=\"31\" label3=\"32\" label4=\"33\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0040"
 msgstr "真頭始現形"
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]答對了。[PauseLong]最後一句是……[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" selectednum=\"0\" cancelnum=\"4\"]"
+msgstr "[Sound1 bytes=\"0001\"]答對了。[PauseLong]最後一句是……[Choice4 label1=\"40\" label2=\"41\" label3=\"42\" label4=\"43\" select_idx=\"0\" cancel_idx=\"4\"]"
 
 msgid "0041"
 msgstr "真心始現形"
 
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]嗯……[PauseShort]全都答對了。\n"
+"[Sound1 bytes=\"0000\"]嗯……[PauseShort]全都答對了。\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"4\"]好，既然都講好了，[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]好，既然都講好了，[PauseLong]\n"
 "我就教你古詩的後半段吧。"
 
 msgid "0042"
@@ -208,7 +208,7 @@ msgstr "真身始現形"
 
 msgid "talk27"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"][01:01 bytes=\"9A99993E\"]其沉眠之際，[Pause frames=\"20\"]\n"
+"[Sound1 bytes=\"0001\"][01:01 bytes=\"9A99993E\"]其沉眠之際，[Pause frames=\"20\"]\n"
 "炙焰[Pause frames=\"20\"]喚魂醒。[Pause frames=\"5\"]"
 
 msgid "0043"
@@ -216,7 +216,7 @@ msgstr "真尾始現形"
 
 msgid "talk28"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]這是利特古詩的後半段。[PauseMid]\n"
+"[Sound1 bytes=\"0001\"]這是利特古詩的後半段。[PauseMid]\n"
 "\n"
 "每次聽都覺得涵義很深遠，[PauseShort]\n"
 "有股獨特的迴響呢。"

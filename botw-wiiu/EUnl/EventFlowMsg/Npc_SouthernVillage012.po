@@ -1,5 +1,5 @@
 msgid "talk_09"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Jij bent een vreemde vogel..."
+msgstr "[Sound1 bytes=\"0000\"]Jij bent een vreemde vogel..."
 
 msgid "0001"
 msgstr "Woestijn?"
@@ -12,59 +12,59 @@ msgstr "Thuis?"
 
 msgid "talk_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Hmm, het is hier lekker warm. Heel\n"
-"anders dan in de woestijn.[PageBreak]Ben je hier op vakantie?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]Hmm, het is hier lekker warm. Heel\n"
+"anders dan in de woestijn.[PageBreak]Ben je hier op vakantie?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk_10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"25\"]Savotta."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"25\"]Savotta."
 
 msgid "talk_11"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"26\"]Savaaq."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"26\"]Savaaq."
 
 msgid "talk_01"
 msgstr "Zzz..."
 
 msgid "talk_12"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"][Sound2 id=\"27\"]Sav'saaba."
+msgstr "[Sound1 bytes=\"0001\"][Sound2 id=\"27\"]Sav'saaba."
 
 msgid "talk_02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Dat eiland daar heet [Color name=\"blue\"]Schemereiland[Color name=\"unset\"].[PauseShort] \n"
+"[Sound1 bytes=\"0000\"]Dat eiland daar heet [Color name=\"blue\"]Schemereiland[Color name=\"unset\"].[PauseShort] \n"
 "Ik ben helemaal hierheen gekomen om \n"
 "het te bezoeken."
 
 msgid "talk_13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Dat eiland ten oosten van hier heet het\n"
+"[Sound1 bytes=\"0000\"]Dat eiland ten oosten van hier heet het\n"
 "[Color name=\"blue\"]Schemereiland[Color name=\"unset\"]. Ik ben helemaal hierheen\n"
 "gereisd om dat eiland te bezoeken."
 
 msgid "talk_03"
-msgstr "[Sound1 unk1=\"11\" unk2=\"0\"]Had ik maar [Color name=\"red\"]vleugels[Color name=\"unset\"]...[PauseShort]"
+msgstr "[Sound1 bytes=\"0B00\"]Had ik maar [Color name=\"red\"]vleugels[Color name=\"unset\"]...[PauseShort]"
 
 msgid "talk_04"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Met een boot is het echter moeilijk te\n"
+"[Sound1 bytes=\"0B00\"]Met een boot is het echter moeilijk te\n"
 "bereiken.[PauseShort] Je hebt waarschijnlijk [Color name=\"red\"]vleugels[Color name=\"unset\"]\n"
 "nodig om er te komen..."
 
 msgid "talk_05"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]Bah, regen is verschrikkelijk. Ik mis mijn\n"
-"thuis.[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0900\"]Bah, regen is verschrikkelijk. Ik mis mijn\n"
+"thuis.[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Near00"
 msgstr "Zo ver weg..."
 
 msgid "talk_06"
-msgstr "[Sound1 unk1=\"6\" unk2=\"4\"]Aha, ik ben..."
+msgstr "[Sound1 bytes=\"0604\"]Aha, ik ben..."
 
 msgid "Near01"
 msgstr "Het gaat regenen..."
 
 msgid "talk_07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"4\"]Ik kom uit het Gerudo-fort, midden in de\n"
+"[Sound1 bytes=\"0604\"]Ik kom uit het Gerudo-fort, midden in de\n"
 "woestijn."
 
 msgid "Near02"
@@ -72,7 +72,7 @@ msgstr "Hmmm..."
 
 msgid "talk_08"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ik kom uit het Gerudo-fort, midden in de\n"
+"[Sound1 bytes=\"0000\"]Ik kom uit het Gerudo-fort, midden in de\n"
 "woestijn. Het regent daar nooit.[PageBreak]In het begin vond ik het nog wel fijn,\n"
 "maar als het zo vaak regent..."
 

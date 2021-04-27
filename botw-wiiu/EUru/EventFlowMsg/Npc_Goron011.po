@@ -1,17 +1,17 @@
 msgid "talk07"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Доброе утро.[PauseShort] Я еще немного сплю, но\n"
+"[Sound1 bytes=\"0600\"]Доброе утро.[PauseShort] Я еще немного сплю, но\n"
 "для ученика у меня всегда найдется\n"
 "минутка."
 
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]Хорошо сегодня, жарко.[PauseShort]\n"
+"[Sound1 bytes=\"0600\"]Хорошо сегодня, жарко.[PauseShort]\n"
 "А у тебя как дела, ученик?"
 
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]Спать хочется. Но для тебя, ученик,\n"
+"[Sound1 bytes=\"0022\"]Спать хочется. Но для тебя, ученик,\n"
 "у меня всегда найдется минутка."
 
 msgid "0000"
@@ -21,101 +21,101 @@ msgid "0001"
 msgstr "Пока"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Я в порядке."
+msgstr "[Sound1 bytes=\"0004\"]Я в порядке."
 
 msgid "0002"
 msgstr "Кто ты?"
 
 msgid "talk21"
-msgstr "[Sound1 unk1=\"11\" unk2=\"1\"]А вот у шефа Брудо спина болит."
+msgstr "[Sound1 bytes=\"0B01\"]А вот у шефа Брудо спина болит."
 
 msgid "0003"
 msgstr "Что это за место?"
 
 msgid "talk22"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]И шефу Брудо, кажется, легче стало.[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]И шефу Брудо, кажется, легче стало.[PauseShort]\n"
 "Теперь у нас снова все хорошо."
 
 msgid "0004"
 msgstr "Где ты живешь?"
 
 msgid "talk10"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Хочешь о чем-то спросить?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Хочешь о чем-то спросить?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "0005"
 msgstr "Ты в порядке?"
 
 msgid "talk11"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]Хм..."
+msgstr "[Sound1 bytes=\"0600\"]Хм..."
 
 msgid "talk24"
-msgstr "[Sound1 unk1=\"3\" unk2=\"34\"]Я спать хочу..."
+msgstr "[Sound1 bytes=\"0322\"]Я спать хочу..."
 
 msgid "0006"
 msgstr "Чем занимаешься?"
 
 msgid "talk12"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]Я домой."
+msgstr "[Sound1 bytes=\"030C\"]Я домой."
 
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Еще вопросы?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0000\"]Еще вопросы?[Choice3 label1=\"5\" label2=\"6\" label3=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]Ты кто?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]Ты кто?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Хмн-н..."
+msgstr "[Sound1 bytes=\"0001\"]Хмн-н..."
 
 msgid "talk01"
-msgstr "[Sound1 unk1=\"0\" unk2=\"12\"]Хм..."
+msgstr "[Sound1 bytes=\"000C\"]Хм..."
 
 msgid "talk14"
-msgstr "[Sound1 unk1=\"0\" unk2=\"16\"]Снова ты...[PauseShort] А ты кто?[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0010\"]Снова ты...[PauseShort] А ты кто?[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]Чего?[PageBreak]Как «пока»? Ты же еще ничего\n"
-"толком не сказал![PageBreak][Sound1 unk1=\"0\" unk2=\"0\"]Но ты мне нравишься.[PauseLong]\n"
+"[Sound1 bytes=\"0700\"]Чего?[PageBreak]Как «пока»? Ты же еще ничего\n"
+"толком не сказал![PageBreak][Sound1 bytes=\"0000\"]Но ты мне нравишься.[PauseLong]\n"
 "Возьму тебя в ученики."
 
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Еще вопросы?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+msgstr "[Sound1 bytes=\"0000\"]Еще вопросы?[Choice4 label1=\"2\" label2=\"3\" label3=\"4\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Понял?[PauseShort] Можешь называть меня\n"
+"[Sound1 bytes=\"0000\"]Понял?[PauseShort] Можешь называть меня\n"
 "просто «учитель».[PauseShort] Итак, ученик,\n"
-"чем могу помочь?[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+"чем могу помочь?[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Какой мне любознательный ученик\n"
+"[Sound1 bytes=\"0004\"]Какой мне любознательный ученик\n"
 "попался![PauseShort] Если будут еще вопросы,\n"
 "я с радостью на них отвечу."
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Я [Color name=\"blue\"]Слерго[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0004\"]Я [Color name=\"blue\"]Слерго[Color name=\"unset\"]."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Ученик, ты о чем-то хочешь\n"
-"спросить своего учителя?[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" selectednum=\"0\" cancelnum=\"3\"]"
+"[Sound1 bytes=\"0004\"]Ученик, ты о чем-то хочешь\n"
+"спросить своего учителя?[Choice4Flags label1=\"2\" flag1=\"NPC_Goron011_You\" label2=\"3\" flag2=\"NPC_Goron011_Hear\" label3=\"4\" flag3=\"NPC_Goron011_Home\" label4=\"1\" select_idx=\"0\" cancel_idx=\"3\"]"
 
 msgid "near00"
 msgstr "М-м-м...♪"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]Горонград."
+msgstr "[Sound1 bytes=\"0004\"]Горонград."
 
 msgid "talk18"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]Хр-р-рум...[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0001\"]Хр-р-рум...[Size percent=\"100\"]"
 
 msgid "talk06"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]В [Color name=\"blue\"]кузнице[Color name=\"unset\"]."
+msgstr "[Sound1 bytes=\"0004\"]В [Color name=\"blue\"]кузнице[Color name=\"unset\"]."
 
 msgid "talk19"
-msgstr "[Sound1 unk1=\"8\" unk2=\"0\"]Я говорю со своим учеником!"
+msgstr "[Sound1 bytes=\"0800\"]Я говорю со своим учеником!"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "FwAAAAE+AwAAAAAAACEAAAAEAAAAjAAAAKYAAACoAAAAqgAAAKwAAACuAAAAsAAAALIAAAC0AAAAzgAAAOgAAAACAQAAHAEAADYBAABQAQAAagEAAIQBAACeAQAAuAEAANIBAADsAQAABgIAACACAAA6AgAAVAIAAG4CAACIAgAAogIAALwCAADWAgAA8AIAAAoDAAAkAwAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAAAAAAAAAAAAAAAAAAAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAATgBwAGMAXwBHAG8AcgBvAG4AMAAxADEAAABOAHAAYwBfAEcAbwByAG8AbgAwADEAMQAAAE4AcABjAF8ARwBvAHIAbwBuADAAMQAxAAAAAAAA"

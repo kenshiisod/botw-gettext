@@ -5,13 +5,13 @@ msgid "5507"
 msgstr "Alles kopen."
 
 msgid "Com_Talk_00"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wat wil je verkopen?"
+msgstr "[Sound1 bytes=\"0000\"]Wat wil je verkopen?"
 
 msgid "5508"
 msgstr "Alles verkopen."
 
 msgid "Com_Talk_01"
-msgstr "Daar geef ik je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor, oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "Daar geef ik je [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor, oké?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_02"
 msgstr "[Sound2 id=\"7\"]Hartelijk bedankt!"
@@ -23,60 +23,60 @@ msgid "0002"
 msgstr "Wat is dit?"
 
 msgid "Com_Talk_04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Dat is jammer."
+msgstr "[Sound1 bytes=\"0000\"]Dat is jammer."
 
 msgid "0003"
 msgstr "Tot ziens."
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Hallo! [PauseShort]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0103\"]Hallo! [PauseShort]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]!"
 
 msgid "Com_Talk_05"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Heb je nog andere dingen die je aan mij\n"
+"[Sound1 bytes=\"0000\"]Heb je nog andere dingen die je aan mij\n"
 "zou willen verkopen?"
 
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"9\"]We verkopen zo ongeveer alles, van\n"
+"[Sound1 bytes=\"0009\"]We verkopen zo ongeveer alles, van\n"
 "zelfverdedigingsartikelen tot alledaagse\n"
 "levensmiddelen."
 
 msgid "Com_Talk_05b"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Wil je nog iets anders verkopen?"
+msgstr "[Sound1 bytes=\"0000\"]Wil je nog iets anders verkopen?"
 
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"3\"]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]! Jij bent laat\n"
+"[Sound1 bytes=\"0103\"]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]! Jij bent laat\n"
 "op! Hard aan het werk?"
 
 msgid "Com_Talk_05c"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Kies wat je aan mij wilt verkopen!"
+msgstr "[Sound1 bytes=\"0000\"]Kies wat je aan mij wilt verkopen!"
 
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"3\"]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]![PauseShort] Wat een\n"
+"[Sound1 bytes=\"0103\"]Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]![PauseShort] Wat een\n"
 "vervelend weer, vind je niet?"
 
 msgid "Com_Talk_05d"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Zijn er nog andere dingen die je kwijt\n"
+"[Sound1 bytes=\"0000\"]Zijn er nog andere dingen die je kwijt\n"
 "wilt?"
 
 msgid "talk04"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Hoe kan ik je helpen?[Choice3 label1=\"1\" label2=\"2\" label3=\"3\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "[Sound1 bytes=\"0001\"]Hoe kan ik je helpen?[Choice3 label1=\"1\" label2=\"2\" label3=\"3\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"2\"]Geen probleem! [PauseShort]Wat wil je verkopen?"
+msgstr "[Sound1 bytes=\"0002\"]Geen probleem! [PauseShort]Wat wil je verkopen?"
 
 msgid "talk07"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hartelijk bedankt!"
+msgstr "[Sound1 bytes=\"0000\"]Hartelijk bedankt!"
 
 msgid "talk08"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Hopelijk tot snel!"
+msgstr "[Sound1 bytes=\"0000\"]Hopelijk tot snel!"
 
 msgid "talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]Hallo! Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]!"
+msgstr "[Sound1 bytes=\"0103\"]Hallo! Welkom in [Color name=\"blue\"]De Sluwe Valk[Color name=\"unset\"]!"
 
 msgid "Com_Talk_02b"
 msgstr "[Sound2 id=\"7\"]Heel erg bedankt!"
@@ -93,77 +93,77 @@ msgstr "[Sound2 id=\"2\"]Prima!"
 msgid "Com_Talk_13"
 msgstr ""
 "Dit wil je kwijt? Je hebt er meerdere, dus\n"
-"hoeveel precies?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+"hoeveel precies?[Choice3 label1=\"5500\" label2=\"5508\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_14"
 msgstr ""
 "Uitstekende keus! En je wilt er [02:0F name=\"Shop_TradeItemNum\"]\n"
-"verkopen? Daar geef ik je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]\n"
-"voor. Is dat oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"verkopen? Daar geef ik je [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]\n"
+"voor. Is dat oké?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]In het [Color name=\"blue\"]receptenboek[Color name=\"unset\"] daarachter staan\n"
+"[Sound1 bytes=\"0001\"]In het [Color name=\"blue\"]receptenboek[Color name=\"unset\"] daarachter staan\n"
 "recepten die je kunt maken met de\n"
 "ingrediënten die we hier verkopen."
 
 msgid "Com_Talk_15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Ik ben bang dat ik dat niet kan kopen..."
+msgstr "[Sound1 bytes=\"0000\"]Ik ben bang dat ik dat niet kan kopen..."
 
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]Kijk eens in het [Color name=\"blue\"]receptenboek [Color name=\"unset\"]daarachter\n"
+"[Sound1 bytes=\"0001\"]Kijk eens in het [Color name=\"blue\"]receptenboek [Color name=\"unset\"]daarachter\n"
 "en koop een paar van onze ingrediënten!"
 
 msgid "Com_Talk_16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Zou je de kleren die je wilt verkopen,\n"
+"[Sound1 bytes=\"0000\"]Zou je de kleren die je wilt verkopen,\n"
 "eerst uit kunnen trekken? Bedankt!"
 
 msgid "Com_Talk_33"
-msgstr "Eén hiervan levert je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] op![Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "Eén hiervan levert je [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"] op![Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_50"
 msgstr ""
-"Dat kost [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Heb je dat\n"
-"ervoor over?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"Dat kost [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]. Heb je dat\n"
+"ervoor over?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_34"
 msgstr ""
 "Je wilt ze allemaal? Dus [02:0F name=\"Shop_TradeItemNum\"] stuks? Dat\n"
-"wordt dan [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"wordt dan [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"].[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_51"
-msgstr "Hoeveel wil je er?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" selectednum=\"0\" cancelnum=\"2\"]"
+msgstr "Hoeveel wil je er?[Choice3 label1=\"5502\" label2=\"5507\" label3=\"5503\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "Com_Talk_35"
 msgstr ""
 "Je wilt ze allemaal kwijt? Het zijn er [02:0F name=\"Shop_TradeItemNum\"]\n"
-"dus ik kan je er [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor\n"
-"geven.[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"dus ik kan je er [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"] [Color name=\"unset\"]voor\n"
+"geven.[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_52"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Je wilt er [02:0F name=\"Shop_TradeItemNum\"]? Dat kost [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"],\n"
-"is dat oké?[Choice2 label1=\"5500\" label2=\"5501\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0000\"]Je wilt er [02:0F name=\"Shop_TradeItemNum\"]? Dat kost [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"],\n"
+"is dat oké?[Choice2 label1=\"5500\" label2=\"5501\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Com_Talk_53"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]Nee? Wat jammer."
+msgstr "[Sound1 bytes=\"0000\"]Nee? Wat jammer."
 
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]Bedankt.[PauseLong] Helaas is dat product daarmee\n"
+"[Sound1 bytes=\"0109\"]Bedankt.[PauseLong] Helaas is dat product daarmee\n"
 "uitverkocht."
 
 msgid "Com_Talk_54"
-msgstr "[Sound1 unk1=\"0\" unk2=\"25\"]Sorry,[PauseShort] maar je hebt niet genoeg rupees."
+msgstr "[Sound1 bytes=\"0019\"]Sorry,[PauseShort] maar je hebt niet genoeg rupees."
 
 msgid "near00"
 msgstr "Welkom!"
 
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]Dank je wel.[PauseLong] Ik zal er zo snel mogelijk\n"
+"[Sound1 bytes=\"010B\"]Dank je wel.[PauseLong] Ik zal er zo snel mogelijk\n"
 "meer van bestellen."
 
 msgid "Com_Talk_11b"
@@ -171,7 +171,7 @@ msgstr "[Sound2 id=\"7\"]Dank je wel!"
 
 msgid "Com_Talk_55"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Daar heb je geen plaats meer voor.[PauseLong] Kom\n"
+"[Sound1 bytes=\"0000\"]Daar heb je geen plaats meer voor.[PauseLong] Kom\n"
 "terug nadat je daar wat aan hebt gedaan."
 
 msgid "5500"
@@ -179,21 +179,21 @@ msgstr "Ja."
 
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]Bedankt![PauseLong] We vullen onze voorraad zo\n"
+"[Sound1 bytes=\"010B\"]Bedankt![PauseLong] We vullen onze voorraad zo\n"
 "snel mogelijk weer aan."
 
 msgid "Com_Talk_11c"
 msgstr "[Sound2 id=\"7\"]Enorm bedankt."
 
 msgid "Com_Talk_56"
-msgstr "Eentje kost je [Color name=\"red\"][MoneyVar name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "Eentje kost je [Color name=\"red\"][02:12 name=\"ShopTradePrice\"][SPSwitch singular=\" rupee\" plural=\" rupees\"][Color name=\"unset\"]![Choice2 label1=\"5502\" label2=\"5503\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "5501"
 msgstr "Nee."
 
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"23\"]Oeps,[PauseShort] daar hebben we nu niets meer van\n"
+"[Sound1 bytes=\"0017\"]Oeps,[PauseShort] daar hebben we nu niets meer van\n"
 "op voorraad...[PauseLong] Eh, bedankt voor je\n"
 "aankopen!"
 

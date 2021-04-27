@@ -1,39 +1,39 @@
 #, ruby
 msgid "talk15"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]を持ってないようゴロ"
+msgstr "[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]を持ってないようゴロ"
 
 #, ruby
 msgid "talk16"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を持ってないようゴロ"
+msgstr "[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を持ってないようゴロ"
 
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]と[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]と[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を\n"
 "持ってないようゴロ"
 
 #, ruby
 msgid "talk18"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]火打ち石[Color name=\"unset\"]が足りてないようゴロ"
+msgstr "[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]火打ち石[Color name=\"unset\"]が足りてないようゴロ"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]を持ってないし\n"
+"[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]石打ち[Color name=\"unset\"]を持ってないし\n"
 "[Color name=\"blue\"]火打ち石[Color name=\"unset\"]も足りてないようゴロ"
 
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]…[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を持ってないし\n"
+"[Sound1 bytes=\"0000\"]…[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を持ってないし\n"
 "[Color name=\"blue\"]火打ち石[Color name=\"unset\"]も足りてないようゴロ"
 
 #, ruby
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]…全部持ってないとは[PauseShort] 話になんねぇゴロ\n"
+"[Sound1 bytes=\"0800\"]…全部持ってないとは[PauseShort] 話になんねぇゴロ\n"
 "\n"
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"]巨岩砕き[Color name=\"unset\"]を作り直して欲しいなら\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"]巨岩砕き[Color name=\"unset\"]を作り直して欲しいなら\n"
 "\n"
 "[Color name=\"blue\"]石打ち[Color name=\"unset\"]と[Color name=\"blue\"]火打ち石[Color name=\"red\"]5個[Color name=\"blue\"] [Color name=\"unset\"]それと\n"
 "[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を ワシの所まで持って来るゴロ"
@@ -41,19 +41,19 @@ msgstr ""
 #, ruby
 msgid "talk23"
 msgstr ""
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"6\"]ダイヤモンド[Color name=\"unset\"]は この辺でもなかなか採れない\n"
-"貴重な鉱石ゴロ[PauseLong] ほんとにやるゴロ？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"blue\"][Sound1 bytes=\"0006\"]ダイヤモンド[Color name=\"unset\"]は この辺でもなかなか採れない\n"
+"貴重な鉱石ゴロ[PauseLong] ほんとにやるゴロ？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk24"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]フン…[PauseLong]\n"
+"[Sound1 bytes=\"0800\"]フン…[PauseLong]\n"
 "作り直したくなったら また来るゴロ"
 
 #, ruby
 msgid "talk25"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]じゃ 作業に取り掛かるゴロ[PauseLong]\n"
+"[Sound1 bytes=\"0600\"]じゃ 作業に取り掛かるゴロ[PauseLong]\n"
 "そこで 待つゴロ"
 
 msgid "near00"
@@ -62,61 +62,61 @@ msgstr "フンッ！ フンッ！"
 #, ruby
 msgid "talk26"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]フン…[PauseShort] 我ながら なかなかの出来ゴロ[PauseLong]\n"
+"[Sound1 bytes=\"0600\"]フン…[PauseShort] 我ながら なかなかの出来ゴロ[PauseLong]\n"
 "受け取るゴロ"
 
 msgid "near01"
 msgstr "さて…"
 
 msgid "talk27"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]…おい[Choice1 label=\"6\"]"
+msgstr "[Sound1 bytes=\"020E\"]…おい[Choice1 label=\"6\"]"
 
 msgid "near02"
 msgstr "ふぅ…"
 
 #, ruby
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]今から仕事ゴロ… [PauseShort]どくゴロ"
+msgstr "[Sound1 bytes=\"0004\"]今から仕事ゴロ… [PauseShort]どくゴロ"
 
 msgid "near03"
 msgstr "[Size percent=\"80\"]ンゴゴゴゴ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk00"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]…何を見ているゴロ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0206\"]…何を見ているゴロ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]欲しいのか？[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0000\"]欲しいのか？[Choice1 label=\"0\"]"
 
 msgid "0000"
 msgstr "ごめんなさい"
 
 #, ruby
 msgid "talk01"
-msgstr "[Sound1 unk1=\"2\" unk2=\"6\"]…仕事の邪魔すんなゴロ"
+msgstr "[Sound1 bytes=\"0206\"]…仕事の邪魔すんなゴロ"
 
 #, ruby
 msgid "talk30"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]失敗作ゴロ… [PauseShort]持ってけ"
+msgstr "[Sound1 bytes=\"0004\"]失敗作ゴロ… [PauseShort]持ってけ"
 
 msgid "0001"
 msgstr "さようなら"
 
 msgid "talk02"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]…フン"
+msgstr "[Sound1 bytes=\"020E\"]…フン"
 
 #, ruby
 msgid "0002"
 msgstr "お願いします"
 
 msgid "talk03"
-msgstr "[Sound1 unk1=\"2\" unk2=\"4\"]…おい[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0204\"]…おい[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk32"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]…オメェが[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]の 継承者ゴロか\n"
+"[Sound1 bytes=\"0002\"]…オメェが[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]の 継承者ゴロか\n"
 "\n"
 "オメェみたいなチビ助に\n"
 "本当にダルケル様の剣が使えるゴロ？\n"
@@ -128,44 +128,44 @@ msgstr "結構です"
 
 #, ruby
 msgid "talk04"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]…寝るゴロ"
+msgstr "[Sound1 bytes=\"0600\"]…寝るゴロ"
 
 msgid "0004"
 msgstr "はい"
 
 msgid "talk05"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]…ンゴッ"
+msgstr "[Sound1 bytes=\"0000\"]…ンゴッ"
 
 msgid "0005"
 msgstr "いいえ"
 
 #, ruby
 msgid "talk06"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]気が散るゴロ"
+msgstr "[Sound1 bytes=\"020E\"]気が散るゴロ"
 
 msgid "0006"
 msgstr "はい？"
 
 #, ruby
 msgid "talk07"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]用が無いなら あっち行けゴロ"
+msgstr "[Sound1 bytes=\"020E\"]用が無いなら あっち行けゴロ"
 
 #, ruby
 msgid "talk08"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]何度も…[PauseShort] うっとうしいゴロ"
+msgstr "[Sound1 bytes=\"020E\"]何度も…[PauseShort] うっとうしいゴロ"
 
 #, ruby
 msgid "talk09"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]こちとら かまってるヒマは無いゴロ"
+msgstr "[Sound1 bytes=\"020E\"]こちとら かまってるヒマは無いゴロ"
 
 #, ruby
 msgid "talk10"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]いい加減にするゴロ"
+msgstr "[Sound1 bytes=\"020E\"]いい加減にするゴロ"
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]もし [Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を壊したり無くしたりして[PauseShort]\n"
+"[Sound1 bytes=\"0004\"]もし [Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を壊したり無くしたりして[PauseShort]\n"
 "作り直して欲しくなったなら\n"
 "[Color name=\"blue\"]石打ち[Color name=\"unset\"]と[Color name=\"blue\"]火打ち石[Color name=\"red\"]5個[Color name=\"blue\"] [Color name=\"unset\"]それと[PauseShort]\n"
 "[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を ワシの所まで持って来るゴロ"
@@ -173,14 +173,14 @@ msgstr ""
 #, ruby
 msgid "talk13"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]…[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を持ってないようゴロね\n"
+"[Sound1 bytes=\"0004\"]…[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を持ってないようゴロね\n"
 "\n"
 "その辺に落ちてないか よく探すゴロ"
 
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]…[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を持ってないようゴロね\n"
+"[Sound1 bytes=\"0010\"]…[Color name=\"blue\"]巨岩砕き[Color name=\"unset\"]を持ってないようゴロね\n"
 "\n"
 "作り直すには[Color name=\"blue\"]石打ち[Color name=\"unset\"]と [Color name=\"blue\"]火打ち石[Color name=\"unset\"]が[Color name=\"red\"]5個[Color name=\"unset\"]…[PauseLong]\n"
 "それと[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]が必要ゴロが"

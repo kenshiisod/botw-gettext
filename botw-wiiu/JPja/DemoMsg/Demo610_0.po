@@ -1,13 +1,13 @@
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_102"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"16\"]もしや あなたも…\n"
-"私と同様 [Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を塗っているのですか？[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0510\"]もしや あなたも…\n"
+"私と同様 [Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を塗っているのですか？[Choice2 label1=\"1\" label2=\"2\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_202"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]師匠が言っていました\n"
+"[Sound1 bytes=\"0018\"]師匠が言っていました\n"
 "よい詩を作るには 旅に出て人に会いなさいと"
 
 #, ruby
@@ -17,7 +17,7 @@ msgstr "塗ってます"
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_103"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]なんと… あなたは[Color name=\"blue\"]ゴロン族[Color name=\"unset\"]のように\n"
+"[Sound1 bytes=\"0A0B\"]なんと… あなたは[Color name=\"blue\"]ゴロン族[Color name=\"unset\"]のように\n"
 "熱さに強いのですね！\n"
 "私などは [Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を塗らなければ\n"
 "たちまち 焼きと…"
@@ -25,7 +25,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_203"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]私はそれに倣い 今こうして\n"
+"[Sound1 bytes=\"0000\"]私はそれに倣い 今こうして\n"
 "様々な人たちに会って 話を聞いています\n"
 "[Color name=\"blue\"]ゴロンシティ[Color name=\"unset\"]では 英傑にお詳しい\n"
 "[Color name=\"blue\"]ユン坊[Color name=\"unset\"]と[Color name=\"blue\"]ブルドー[Color name=\"unset\"]という方に会えました\n"
@@ -39,7 +39,7 @@ msgstr "塗ってません"
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_104"
 msgstr ""
-"[Sound1 unk1=\"10\" unk2=\"11\"]やはり そうでしたか！\n"
+"[Sound1 bytes=\"0A0B\"]やはり そうでしたか！\n"
 "\n"
 "私などは もし[Color name=\"blue\"]燃えず薬[Color name=\"unset\"]を塗らなければ\n"
 "たちまち 焼きと…"
@@ -47,19 +47,19 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_204"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]彼らから聞いた話は\n"
+"[Sound1 bytes=\"0004\"]彼らから聞いた話は\n"
 "[Color name=\"blue\"]重要な章[Color name=\"unset\"]の詩作りに 大いに役立つでしょう"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_105"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"1\"][Animation name=\"Ease_00\"]ああ…  師匠もこの場所で\n"
+"[Sound1 bytes=\"0701\"][Animation name=\"Ease_00\"]ああ…  師匠もこの場所で\n"
 "詩を思索したのでしょうか…"
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_106"
 msgstr ""
-"[PauseAuto frames=\"140\"][Sound1 unk1=\"1\" unk2=\"0\"]師匠が完成させていた…\n"
+"[PauseAuto frames=\"140\"][Sound1 bytes=\"0100\"]師匠が完成させていた…\n"
 "試練に挑みし[Color name=\"blue\"]英傑ダルケルの章[Color name=\"unset\"]\n"
 "[PauseAuto frames=\"40\"]お聴きください"
 
@@ -75,7 +75,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_107"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]この熱さは大丈夫なのですか？\n"
+"[Sound1 bytes=\"0501\"]この熱さは大丈夫なのですか？\n"
 "他人事ながら 少し心配です"
 
 #, ruby
@@ -93,7 +93,7 @@ msgstr ""
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_000"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"20\"]なんと！\n"
+"[Sound1 bytes=\"0414\"]なんと！\n"
 "この灼熱の地で 人にお会いするとは…[PauseMid]"
 
 #, ruby
@@ -110,7 +110,7 @@ msgstr ""
 
 #, ruby
 msgid "Npc_Musician_AoC_HeroGoronRelief_201"
-msgstr "[Sound1 unk1=\"1\" unk2=\"0\"]100年前の英傑たちの勇姿が目に浮かびます…"
+msgstr "[Sound1 bytes=\"0100\"]100年前の英傑たちの勇姿が目に浮かびます…"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAEIAAAAAAAAABIAAAAAAAAAAAAA"

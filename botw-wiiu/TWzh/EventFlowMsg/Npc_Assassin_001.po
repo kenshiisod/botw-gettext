@@ -1,26 +1,26 @@
 msgid "Talk10"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]咦～～～你不記得我了嗎……[PauseMid]\n"
+"[Sound1 bytes=\"030D\"]咦～～～你不記得我了嗎……[PauseMid]\n"
 "你可是勇者大人耶……"
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]納命來～～～！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]納命來～～～！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵～～～！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"080E\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]可蓋大人的仇敵～～～！[Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"1\" unk2=\"3\"]在那邊的你～～～！[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0103\"]在那邊的你～～～！[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"7\" unk2=\"4\"]沒錯～～～！[PauseMid]我就是再叫你～～～！"
+msgstr "[Sound1 bytes=\"0704\"]沒錯～～～！[PauseMid]我就是再叫你～～～！"
 
 msgid "TerrorArrow"
 msgstr "喂喂～～～！"
 
 msgid "Talk02"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"0\"]等等～～～！[PauseMid]\n"
+"[Sound1 bytes=\"0800\"]等等～～～！[PauseMid]\n"
 "可以別無視我嗎～～～？"
 
 msgid "Near00"
@@ -28,35 +28,35 @@ msgstr "[Sound2 id=\"1\"]等等～～～！"
 
 msgid "Talk03"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"1\"]我啊～～～不是什麼奇怪的傢伙啦～～～[PauseMid]\n"
-"可以跟你～～～說幾句話嗎～～～？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0101\"]我啊～～～不是什麼奇怪的傢伙啦～～～[PauseMid]\n"
+"可以跟你～～～說幾句話嗎～～～？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "有什麼事？"
 
 msgid "Talk04"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"0\"]謝謝你～～～！[PauseMid]\n"
+"[Sound1 bytes=\"0700\"]謝謝你～～～！[PauseMid]\n"
 "那麼～～～我問你……\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]掛在你腰上的……[PauseMid]\n"
-"是[Color name=\"blue\"]希卡之石[Color name=\"unset\"]嗎～～～？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]掛在你腰上的……[PauseMid]\n"
+"是[Color name=\"blue\"]希卡之石[Color name=\"unset\"]嗎～～～？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "……"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]咦～～～？為什麼要拒絕我呢～～～？[PauseMid]\n"
+"[Sound1 bytes=\"0B00\"]咦～～～？為什麼要拒絕我呢～～～？[PauseMid]\n"
 "你好可疑啊……\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]掛在你腰上的……[PauseMid]\n"
-"是[Color name=\"blue\"]希卡之石[Color name=\"unset\"]對吧～～～？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0001\"]掛在你腰上的……[PauseMid]\n"
+"是[Color name=\"blue\"]希卡之石[Color name=\"unset\"]對吧～～～？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0002"
 msgstr "好啊"
 
 msgid "Talk06"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"9\"]果然～～～是這樣沒錯～～～！[PauseMid]\n"
+"[Sound1 bytes=\"0709\"]果然～～～是這樣沒錯～～～！[PauseMid]\n"
 "那麼……"
 
 msgid "0003"
@@ -64,7 +64,7 @@ msgstr "我拒絕！"
 
 msgid "Talk07"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"6\"]咦～～～不是嗎……[PauseMid]\n"
+"[Sound1 bytes=\"0406\"]咦～～～不是嗎……[PauseMid]\n"
 "可是……"
 
 msgid "0004"
@@ -72,15 +72,15 @@ msgstr "沒錯喔"
 
 msgid "Talk08"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]好久不見了～～～\n"
+"[Sound1 bytes=\"0102\"]好久不見了～～～\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"1\"]你還記得我嗎～～～？[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B01\"]你還記得我嗎～～～？[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "不是喔"
 
 msgid "Talk09"
-msgstr "[Sound1 unk1=\"1\" unk2=\"9\"]真不愧～～～是勇者大人……"
+msgstr "[Sound1 bytes=\"0109\"]真不愧～～～是勇者大人……"
 
 msgid "0006"
 msgstr "你是！？"

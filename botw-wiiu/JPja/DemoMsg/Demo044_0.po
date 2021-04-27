@@ -121,7 +121,7 @@ msgid "Demo044_0_Text040"
 msgstr ""
 "[Animation name=\"Activate\"]メイン制御装置を起動すると\n"
 "神獣内部に戻れなくなります\n"
-"[Animation name=\"Activate\"]本当に起動させますか？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"1\" cancelnum=\"1\"]"
+"[Animation name=\"Activate\"]本当に起動させますか？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"1\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Demo044_0_Text043"

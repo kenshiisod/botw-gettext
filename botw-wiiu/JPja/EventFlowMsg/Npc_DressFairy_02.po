@@ -87,13 +87,13 @@ msgstr "じゃ [PauseShort]またね ♪"
 
 #, ruby
 msgid "Talk20"
-msgstr "[Sound2 id=\"4\"][02:0B name=\"Shop_SelectItemName\"]を 強くしちゃう？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"4\"][02:0B name=\"Shop_SelectItemName\"]を 強くしちゃう？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk21"
 msgstr ""
 "[Sound2 id=\"2\"]お姉さん [02:0B name=\"Shop_SelectItemName\"]を強く[PauseShort]\n"
-"しちゃうわね？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"しちゃうわね？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Revival00_1"
@@ -180,10 +180,10 @@ msgstr "焦らすなんて… [PauseLong]イ・[PauseShort]ジ・[PauseShort]ワ
 #, ruby
 msgid "Talk42"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"19\"]…あらん？ [PauseLong]でもでも[PauseShort]\n"
+"[Sound1 bytes=\"0613\"]…あらん？ [PauseLong]でもでも[PauseShort]\n"
 "あたしが 強くできそうな服 持ってないかも？\n"
 "一応 確認した方がいい？[PauseLong]\n"
-"だったら 手持ちの服 見せて？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"だったら 手持ちの服 見せて？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk43"
@@ -211,7 +211,7 @@ msgstr ""
 
 #, ruby
 msgid "Talk46"
-msgstr "他の服も… [PauseShort]どうかしら？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "他の服も… [PauseShort]どうかしら？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk11"
@@ -225,7 +225,7 @@ msgstr ""
 msgid "Talk12"
 msgstr ""
 "[Sound2 id=\"2\"]今のあたしなら 坊やの服[PauseShort]\n"
-"[Color name=\"red\"]少しだけ[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]少しだけ[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk47"
 msgstr "[Size percent=\"125\"]バァアア～～～イ！！[Size percent=\"100\"]"
@@ -234,7 +234,7 @@ msgstr "[Size percent=\"125\"]バァアア～～～イ！！[Size percent=\"100\
 msgid "Talk13"
 msgstr ""
 "[Sound2 id=\"2\"]今のあたしなら 坊やの服[PauseShort]\n"
-"[Color name=\"red\"]だいぶ[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]だいぶ[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk48"
 msgstr "[Size percent=\"125\"]ハァアアア～～～ン！！[Size percent=\"100\"]"
@@ -243,7 +243,7 @@ msgstr "[Size percent=\"125\"]ハァアアア～～～ン！！[Size percent=\"1
 msgid "Talk14"
 msgstr ""
 "[Sound2 id=\"2\"]今のあたしなら 坊やの服[PauseShort]\n"
-"[Color name=\"red\"]かなり[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]かなり[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk49"
 msgstr "[Size percent=\"125\"]アッ ハァアア～～～ン！！[Size percent=\"100\"]"
@@ -252,7 +252,7 @@ msgstr "[Size percent=\"125\"]アッ ハァアア～～～ン！！[Size percent
 msgid "Talk15"
 msgstr ""
 "[Sound2 id=\"2\"]今のあたしなら 坊やの服[PauseShort]\n"
-"[Color name=\"red\"]最大まで[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Color name=\"red\"]最大まで[Color name=\"unset\"] 強くできるわ[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk16"
@@ -272,11 +272,11 @@ msgstr ""
 msgid "Talk18"
 msgstr ""
 "[Sound2 id=\"4\"][02:0B name=\"Shop_SelectItemName\"]を強くすれば[PauseShort]\n"
-"いいのかしら？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+"いいのかしら？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk19"
-msgstr "[Sound2 id=\"4\"][02:0B name=\"Shop_SelectItemName\"]を 強くするのね？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound2 id=\"4\"][02:0B name=\"Shop_SelectItemName\"]を 強くするのね？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "Talk30"

@@ -1,93 +1,93 @@
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ふむ… [PauseShort]リンクか\n"
+"[Sound1 bytes=\"0004\"]ふむ… [PauseShort]リンクか\n"
 ""
 
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]老い先短いワシの役目は[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]老い先短いワシの役目は[PauseShort]\n"
 "ゾーラの歴史を 後世に伝える事… [PauseLong]\n"
 "ぜひ 協力してほしいゾラ"
 
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ハイリアの英傑 リンク…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]ハイリアの英傑 リンク…[PauseLong]\n"
 "ワシの願いを聞いてくれんゾラか？"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"1\"]どうした？ [PauseLong]石碑が見つからないゾラ？\n"
+"[Sound1 bytes=\"0501\"]どうした？ [PauseLong]石碑が見つからないゾラ？\n"
 "\n"
-"[Sound1 unk1=\"11\" unk2=\"12\"]オヌシがまだ[Color name=\"red\"]調べていない石碑[Color name=\"unset\"]の[PauseShort]\n"
-"だいたいの場所なら 教えてやれるゾラが…[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0B0C\"]オヌシがまだ[Color name=\"red\"]調べていない石碑[Color name=\"unset\"]の[PauseShort]\n"
+"だいたいの場所なら 教えてやれるゾラが…[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk19"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]ふむ… [PauseLong]残りの石碑は[Color name=\"red\"][02:0F name=\"ZoraMini_ReliefSearch_Count\"]基[Color name=\"unset\"]…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]ふむ… [PauseLong]残りの石碑は[Color name=\"red\"][02:0F name=\"ZoraMini_ReliefSearch_Count\"]基[Color name=\"unset\"]…[PauseLong]\n"
 "頼んだゾラ"
 
 #, ruby
 msgid "talk20"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]分かった… [PauseLong]今思い出すゾラ\n"
+"[Sound1 bytes=\"0004\"]分かった… [PauseLong]今思い出すゾラ\n"
 "\n"
-"[Sound1 unk1=\"3\" unk2=\"1\"][Size percent=\"80\"][Color name=\"Gray\"]サイコロ コロコロ [PauseShort]ポーイ[Color name=\"unset\"][Size percent=\"100\"]\n"
+"[Sound1 bytes=\"0301\"][Size percent=\"80\"][Color name=\"gray\"]サイコロ コロコロ [PauseShort]ポーイ[Color name=\"unset\"][Size percent=\"100\"]\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]よし [PauseLong]ならば この辺り…"
+"[Sound1 bytes=\"0001\"]よし [PauseLong]ならば この辺り…"
 
 #, ruby
 msgid "talk21"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"1\"]心のサイコロを振るまでもなく[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]心のサイコロを振るまでもなく[PauseShort]\n"
 "残りは ここゾラ"
 
 #, ruby
 msgid "talk22"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ラルス池[Color name=\"unset\"] 南の崖下付近」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ラルス池[Color name=\"unset\"] 南の崖下付近」"
 
 #, ruby
 msgid "talk23"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]オーレン橋[Color name=\"unset\"]の 北の崖」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]オーレン橋[Color name=\"unset\"]の 北の崖」"
 
 #, ruby
 msgid "talk24"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ルト湖[Color name=\"unset\"] 西岸」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ルト湖[Color name=\"unset\"] 西岸」"
 
 #, ruby
 msgid "talk25"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ラルート大橋[Color name=\"unset\"] 南の眼下」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ラルート大橋[Color name=\"unset\"] 南の眼下」"
 
 msgid "near00"
 msgstr "ぶつぶつ…"
 
 #, ruby
 msgid "talk26"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ド・ボン山脈[Color name=\"unset\"]の 東の林」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ド・ボン山脈[Color name=\"unset\"]の 東の林」"
 
 msgid "near01"
 msgstr "ぬぅ…"
 
 #, ruby
 msgid "talk27"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ルテラーダム[Color name=\"unset\"] 西の山道」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ルテラーダム[Color name=\"unset\"] 西の山道」"
 
 msgid "near02"
 msgstr "ふむふむ…"
 
 #, ruby
 msgid "talk28"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ルト山[Color name=\"unset\"] 山頂付近」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ルト山[Color name=\"unset\"] 山頂付近」"
 
 msgid "talk00"
-msgstr "[Sound1 unk1=\"5\" unk2=\"16\"]むむむ… [PauseLong]むむ… [PauseShort]むぅ…[Choice1 label=\"0\"]"
+msgstr "[Sound1 bytes=\"0510\"]むむむ… [PauseLong]むむ… [PauseShort]むぅ…[Choice1 label=\"0\"]"
 
 #, ruby
 msgid "talk29"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ルト湖[Color name=\"unset\"]石橋 南付近」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ルト湖[Color name=\"unset\"]石橋 南付近」"
 
 msgid "0000"
 msgstr "どうしたの？"
@@ -95,16 +95,16 @@ msgstr "どうしたの？"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"2\"]ふむ… [PauseShort]旅の人か…\n"
+"[Sound1 bytes=\"0002\"]ふむ… [PauseShort]旅の人か…\n"
 "\n"
 "この石碑には 過去にドレファン王がしたためた[PauseShort]\n"
 "ゾーラの歴史が書かれておるゾラ\n"
-"[Sound1 unk1=\"0\" unk2=\"9\"]此度 一冊の本にしようかと思うて[PauseShort]\n"
+"[Sound1 bytes=\"0009\"]此度 一冊の本にしようかと思うて[PauseShort]\n"
 "読み返しておるゾラよ[Choice1 label=\"3\"]"
 
 #, ruby
 msgid "talk30"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ルル湖[Color name=\"unset\"] 付近」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ルル湖[Color name=\"unset\"] 付近」"
 
 #, ruby
 msgid "0001"
@@ -113,21 +113,21 @@ msgstr "何の事だか…"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"1\"]…\n"
+"[Sound1 bytes=\"0B01\"]…\n"
 "\n"
 "……\n"
 "\n"
-"[Size percent=\"125\"][Sound1 unk1=\"10\" unk2=\"21\"]リンク！！[Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"0A15\"]リンク！！[Size percent=\"100\"]\n"
 "\n"
-"[Size percent=\"125\"][Sound1 unk1=\"8\" unk2=\"14\"]よく見たら リンクではないか！[Size percent=\"100\"]\n"
+"[Size percent=\"125\"][Sound1 bytes=\"080E\"]よく見たら リンクではないか！[Size percent=\"100\"]\n"
 "\n"
 "我らがミファー様を奪いし ハイリア人…[PauseShort]\n"
 "更にその英傑…\n"
-"[Sound1 unk1=\"2\" unk2=\"16\"]ゆ… [PauseShort]許すまじ！ [PauseLong]断じて！[Choice2 label1=\"1\" label2=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0210\"]ゆ… [PauseShort]許すまじ！ [PauseLong]断じて！[Choice2 label1=\"1\" label2=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk31"
-msgstr "[Sound1 unk1=\"0\" unk2=\"4\"]「[Color name=\"blue\"]ゾラ台地[Color name=\"unset\"] 南東の崖」"
+msgstr "[Sound1 bytes=\"0004\"]「[Color name=\"blue\"]ゾラ台地[Color name=\"unset\"] 南東の崖」"
 
 msgid "0002"
 msgstr "ごめんなさい"
@@ -135,30 +135,30 @@ msgstr "ごめんなさい"
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"8\" unk2=\"14\"]それで許されると思うたかーッ？！\n"
+"[Sound1 bytes=\"080E\"]それで許されると思うたかーッ？！\n"
 "\n"
-"[Color name=\"blue\"][Sound1 unk1=\"0\" unk2=\"0\"][Color name=\"unset\"]オヌシらハイリア人は[PauseShort] 100年前\n"
+"[Color name=\"blue\"][Sound1 bytes=\"0000\"][Color name=\"unset\"]オヌシらハイリア人は[PauseShort] 100年前\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]を 止められなかっただけでなく\n"
 "ワシらからミファー様を 奪ったゾラ！\n"
 "\n"
-"[Sound1 unk1=\"2\" unk2=\"16\"]ワシは絶対に お前らハイリア人を許さんゾラ！[PauseLong]\n"
+"[Sound1 bytes=\"0210\"]ワシは絶対に お前らハイリア人を許さんゾラ！[PauseLong]\n"
 "絶対に！"
 
 #, ruby
 msgid "talk32"
-msgstr "[Sound1 unk1=\"0\" unk2=\"6\"]もう一度 やってみるゾラ？[Choice2 label1=\"8\" label2=\"9\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0006\"]もう一度 やってみるゾラ？[Choice2 label1=\"8\" label2=\"9\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0003"
 msgstr "大変ですね"
 
 msgid "talk04"
-msgstr "[Size percent=\"80\"][Sound1 unk1=\"0\" unk2=\"1\"]ぶつぶつ…[Size percent=\"100\"]"
+msgstr "[Size percent=\"80\"][Sound1 bytes=\"0001\"]ぶつぶつ…[Size percent=\"100\"]"
 
 #, ruby
 msgid "talk33"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]リンク…[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]リンク…[PauseLong]\n"
 "全ての石碑を調べ 戻ってくれたゾラか\n"
 "さっそく 石碑の内容を教えてほしい…"
 
@@ -169,17 +169,17 @@ msgstr "分かりました"
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"2\" unk2=\"14\"]顔も見とうない！[PauseLong]\n"
+"[Sound1 bytes=\"020E\"]顔も見とうない！[PauseLong]\n"
 "さっさと立ち去れゾラ！"
 
 #, ruby
 msgid "talk34"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]ふむふむ… [PauseShort]ゾーラの歴史 文明 英雄譚…[PauseLong]\n"
+"[Sound1 bytes=\"0B10\"]ふむふむ… [PauseShort]ゾーラの歴史 文明 英雄譚…[PauseLong]\n"
 "どれも 鮮明に記録されておるゾラ\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]うむ！ [PauseLong]オヌシのお陰で[PauseShort]\n"
+"[Sound1 bytes=\"0701\"]うむ！ [PauseLong]オヌシのお陰で[PauseShort]\n"
 "石碑の内容を まとめられそうゾラ！\n"
-"[Sound1 unk1=\"7\" unk2=\"10\"]リンクよ ご苦労であった！[PauseLong]\n"
+"[Sound1 bytes=\"070A\"]リンクよ ご苦労であった！[PauseLong]\n"
 "これは気持ちゾラ！"
 
 #, ruby
@@ -189,11 +189,11 @@ msgstr "今は忙しい"
 #, ruby
 msgid "talk35"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"10\"]この度は 助かったゾラ！[PauseLong]\n"
+"[Sound1 bytes=\"010A\"]この度は 助かったゾラ！[PauseLong]\n"
 "ヒレを畳み 謹んで礼を申し上げるゾラ\n"
 "ドレファン王の碑文 [PauseShort]\n"
 "このジアートが責任を持って 後世に残す！\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]そしてリンク… [PauseShort]オヌシの活躍も[PauseShort]\n"
+"[Sound1 bytes=\"010B\"]そしてリンク… [PauseShort]オヌシの活躍も[PauseShort]\n"
 "記述に加えておくことにするゾラ"
 
 #, ruby
@@ -203,9 +203,9 @@ msgstr "教えて"
 #, ruby
 msgid "talk36"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]と 思ったがオヌシ[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]と 思ったがオヌシ[PauseShort]\n"
 "ずいぶんと[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を ため込んどるゾラ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]これ以上 持てないなら[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]これ以上 持てないなら[PauseShort]\n"
 "1個減らして また来るゾラ"
 
 #, ruby
@@ -215,9 +215,9 @@ msgstr "大丈夫"
 #, ruby
 msgid "talk37"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"16\"]オヌシに礼をしたいが[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]オヌシに礼をしたいが[PauseShort]\n"
 "ずいぶんと[Color name=\"blue\"]ダイヤモンド[Color name=\"unset\"]を ため込んどるゾラ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]これ以上 持てないなら[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]これ以上 持てないなら[PauseShort]\n"
 "1個減らして また来るゾラ"
 
 #, ruby
@@ -227,13 +227,13 @@ msgstr "お願いします"
 #, ruby
 msgid "talk09"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]リンク…[PauseLong]\n"
+"[Sound1 bytes=\"0004\"]リンク…[PauseLong]\n"
 "ワシはオヌシを 誤解しとったようゾラ\n"
 "[Color name=\"blue\"]神獣 ヴァ・ルッタ[Color name=\"unset\"]のあの姿…\n"
 "\n"
 "主であるミファー様を失うても[PauseShort]\n"
 "[Color name=\"red\"]厄災ガノン[Color name=\"unset\"]と 戦うておるというのか…\n"
-"[Sound1 unk1=\"1\" unk2=\"11\"]申し遅れた[PauseShort] ワシはジアート[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]申し遅れた[PauseShort] ワシはジアート[PauseLong]\n"
 "\n"
 "ゾーラの過去を研究し[PauseShort]\n"
 "未来へと伝える 歴史学者だゾラ"
@@ -241,11 +241,11 @@ msgstr ""
 #, ruby
 msgid "talk38"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"11\"]リンク 戻ったか[PauseLong]\n"
+"[Sound1 bytes=\"010B\"]リンク 戻ったか[PauseLong]\n"
 "では あらためて…\n"
-"[Sound1 unk1=\"7\" unk2=\"1\"]オヌシのお陰で[PauseShort]\n"
+"[Sound1 bytes=\"0701\"]オヌシのお陰で[PauseShort]\n"
 "石碑の内容を まとめられそうゾラ！\n"
-"[Sound1 unk1=\"7\" unk2=\"10\"]リンクよ ご苦労であった！[PauseLong]\n"
+"[Sound1 bytes=\"070A\"]リンクよ ご苦労であった！[PauseLong]\n"
 "これは気持ちゾラ！"
 
 #, ruby
@@ -255,42 +255,42 @@ msgstr "結構です…"
 #, ruby
 msgid "talk10"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"12\"]それにしても ドレファン王がしたためた\n"
+"[Sound1 bytes=\"050C\"]それにしても ドレファン王がしたためた\n"
 "と言われる この石碑は もうボロボロ…\n"
 "おそらく里の外の[Color name=\"red\"]10基の石碑[Color name=\"unset\"]も[PauseShort]\n"
 "同じ状態である事は 間違いないゾラ\n"
-"[Sound1 unk1=\"11\" unk2=\"16\"]そこでワシは 全ての石碑の内容をまとめ[PauseShort]\n"
+"[Sound1 bytes=\"0B10\"]そこでワシは 全ての石碑の内容をまとめ[PauseShort]\n"
 "一冊の本にしようと 思うとるゾラが\n"
-"[Sound1 unk1=\"9\" unk2=\"12\"]この老いた足腰ヒレでは [Color name=\"red\"]10基全ての石碑[Color name=\"unset\"]を\n"
+"[Sound1 bytes=\"090C\"]この老いた足腰ヒレでは [Color name=\"red\"]10基全ての石碑[Color name=\"unset\"]を\n"
 "見て回るには [PauseShort]時間がかかり過ぎるゾラ"
 
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]なので リンク… [PauseShort]お願いじゃ\n"
+"[Sound1 bytes=\"0004\"]なので リンク… [PauseShort]お願いじゃ\n"
 ""
 
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"6\"][Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]の周辺にある[Color name=\"red\"]10基全ての石碑[Color name=\"unset\"]を探し[PauseShort]\n"
-"その内容を教えて欲しいゾラ[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0006\"][Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]の周辺にある[Color name=\"red\"]10基全ての石碑[Color name=\"unset\"]を探し[PauseShort]\n"
+"その内容を教えて欲しいゾラ[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"18\"]ふむ… [PauseShort]仕方あるまい"
+msgstr "[Sound1 bytes=\"0012\"]ふむ… [PauseShort]仕方あるまい"
 
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"7\" unk2=\"11\"]おお！ [PauseShort]助かるゾラ！[PauseLong]\n"
+"[Sound1 bytes=\"070B\"]おお！ [PauseShort]助かるゾラ！[PauseLong]\n"
 "英傑 自らが探してくれるとは 心強い！\n"
-"[Sound1 unk1=\"11\" unk2=\"4\"]石碑の中には なにやらお宝の在処が[PauseShort]\n"
+"[Sound1 bytes=\"0B04\"]石碑の中には なにやらお宝の在処が[PauseShort]\n"
 "書かれているものも あった気がするゾラ\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]そのお宝 見つけられたらオヌシのもの[PauseLong]\n"
+"[Sound1 bytes=\"0001\"]そのお宝 見つけられたらオヌシのもの[PauseLong]\n"
 "おそらく ゾーラには必要ないものじゃろうて\n"
 "いいか  [Color name=\"blue\"]ゾーラの里[Color name=\"unset\"]の周辺の[Color name=\"red\"]10基の石碑[Color name=\"unset\"]ゾラ[PauseLong]\n"
-"[Sound1 unk1=\"1\" unk2=\"9\"]それでは 頼んだ！"
+"[Sound1 bytes=\"0109\"]それでは 頼んだ！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "HQAAAAGIBAAAAAAAADEAAAAEAAAAzAAAAOQAAAD8AAAAFAEAABYBAAAYAQAAGgEAABwBAAAeAQAAIAEAACIBAAAkAQAAJgEAACgBAABAAQAAWAEAAHABAACIAQAAoAEAALgBAADQAQAA6AEAAAACAAAYAgAAMAIAAEgCAABgAgAAeAIAAJACAACoAgAAwAIAANgCAADwAgAACAMAACADAAA4AwAAUAMAAGgDAACAAwAAmAMAALADAADIAwAA4AMAAPgDAAAQBAAAKAQAAEAEAABYBAAAcAQAAE4AcABjAF8AWgBvAHIAYQAwADMANQAAAE4AcABjAF8AWgBvAHIAYQAwADMANQAAAE4AcABjAF8AWgBvAHIAYQAwADMANQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAATgBwAGMAXwBaAG8AcgBhADAAMwA1AAAAAAAA"

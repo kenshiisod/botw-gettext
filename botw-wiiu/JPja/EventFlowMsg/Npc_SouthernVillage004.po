@@ -13,7 +13,7 @@ msgstr "ねるさ～"
 
 #, ruby
 msgid "talk10"
-msgstr "[Sound1 unk1=\"6\" unk2=\"0\"]あんた 魚好きなのかいさ？[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0600\"]あんた 魚好きなのかいさ？[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Near02"
 msgstr "むにゃむにゃ"
@@ -21,7 +21,7 @@ msgstr "むにゃむにゃ"
 #, ruby
 msgid "talk11"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]この辺で獲れた魚は それはそれは 旨いのさ～[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]この辺で獲れた魚は それはそれは 旨いのさ～[PauseShort]\n"
 "食べたら きっと 魚が好きになるさ\n"
 "好きなだけ 持って行っていいから\n"
 "試しに 食べてみるさ～"
@@ -32,15 +32,15 @@ msgstr "ないよ"
 #, ruby
 msgid "talk12"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]どうだい 魚食べたかいさ？[PauseShort]\n"
-"旨かっただろう？[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0600\"]どうだい 魚食べたかいさ？[PauseShort]\n"
+"旨かっただろう？[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0001"
 msgstr "あるよ"
 
 #, ruby
 msgid "talk13"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]はやく食べると いいさ～"
+msgstr "[Sound1 bytes=\"0000\"]はやく食べると いいさ～"
 
 #, ruby
 msgid "0002"
@@ -49,7 +49,7 @@ msgstr "好き"
 #, ruby
 msgid "talk14"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]旨かっただろう！[PauseShort]\n"
+"[Sound1 bytes=\"0109\"]旨かっただろう！[PauseShort]\n"
 "村の自慢の魚さ～"
 
 #, ruby
@@ -59,7 +59,7 @@ msgstr "嫌い"
 #, ruby
 msgid "talk15"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"2\"]よう 旨そうな魚だろ！[PauseShort]\n"
+"[Sound1 bytes=\"0102\"]よう 旨そうな魚だろ！[PauseShort]\n"
 "俺が 獲ってきた魚さ～"
 
 msgid "0004"
@@ -68,10 +68,10 @@ msgstr "食べた"
 #, ruby
 msgid "talk16"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]雨だねえ…[PauseShort]\n"
+"[Sound1 bytes=\"0B00\"]雨だねえ…[PauseShort]\n"
 "\n"
 "こんな日には チョウハンの店で\n"
-"賭けでもするに 限るさね～[Choice2 label1=\"6\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"賭けでもするに 限るさね～[Choice2 label1=\"6\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "まだ"
@@ -79,8 +79,8 @@ msgstr "まだ"
 #, ruby
 msgid "talk17"
 msgstr ""
-"[Sound1 unk1=\"1\" unk2=\"9\"]そう 賭け事なのさ～[PauseShort]\n"
-"隣のチョウハンの店で できるぜ[Choice2 label1=\"8\" label2=\"7\" selectednum=\"0\" cancelnum=\"1\"]"
+"[Sound1 bytes=\"0109\"]そう 賭け事なのさ～[PauseShort]\n"
+"隣のチョウハンの店で できるぜ[Choice2 label1=\"8\" label2=\"7\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0006"
 msgstr "賭け？"
@@ -88,13 +88,13 @@ msgstr "賭け？"
 #, ruby
 msgid "talk00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]よう あんた[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]よう あんた[PauseShort]\n"
 "はじめて見る顔だな！"
 
 #, ruby
 msgid "talk18"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]雨の日は 漁に出れないから\n"
+"[Sound1 bytes=\"030D\"]雨の日は 漁に出れないから\n"
 "商売あがったりなのさ～"
 
 msgid "0007"
@@ -103,12 +103,12 @@ msgstr "仕事は？"
 #, ruby
 msgid "talk01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]あんた [Color name=\"red\"]筏[Color name=\"unset\"]に乗って\n"
-"海に出たことはあるかいさ？[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Sound1 bytes=\"0000\"]あんた [Color name=\"red\"]筏[Color name=\"unset\"]に乗って\n"
+"海に出たことはあるかいさ？[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk19"
-msgstr "[Sound1 unk1=\"0\" unk2=\"0\"]それは 運しだいなのさ"
+msgstr "[Sound1 bytes=\"0000\"]それは 運しだいなのさ"
 
 msgid "0008"
 msgstr "もうかるの？"
@@ -116,28 +116,28 @@ msgstr "もうかるの？"
 #, ruby
 msgid "talk02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"34\"]明日も 朝が早いから もう寝るさ～[PauseShort]\n"
+"[Sound1 bytes=\"0022\"]明日も 朝が早いから もう寝るさ～[PauseShort]\n"
 "あんたも 早く寝なよ！"
 
 #, ruby
 msgid "talk03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]そうかい じゃあ 教えてやろう[PauseShort]\n"
+"[Sound1 bytes=\"0000\"]そうかい じゃあ 教えてやろう[PauseShort]\n"
 "海では 風にうまく乗ることが大切さ～[PauseShort]\n"
 "俺たち 漁師は\n"
 "長年の経験で 風を読んで 船を操る\n"
-"[Sound1 unk1=\"0\" unk2=\"24\"]でもな 世間には [Color name=\"blue\"]コログのうちわ[Color name=\"unset\"]ってえ\n"
+"[Sound1 bytes=\"0018\"]でもな 世間には [Color name=\"blue\"]コログのうちわ[Color name=\"unset\"]ってえ\n"
 "便利な道具があるらしいのさ\n"
 "これを使えば \n"
 "[Color name=\"red\"]風[Color name=\"unset\"]を 自由に操れるってえ話さ～"
 
 msgid "talk20"
-msgstr "[Sound1 unk1=\"0\" unk2=\"33\"]むにゃむにゃ"
+msgstr "[Sound1 bytes=\"0021\"]むにゃむにゃ"
 
 #, ruby
 msgid "talk04"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"23\"]そうかい 見かけによらないな[PauseShort]\n"
+"[Sound1 bytes=\"0417\"]そうかい 見かけによらないな[PauseShort]\n"
 "\n"
 "海に出るには 長い経験が必要さ！[PauseShort]\n"
 "うかつに 出れば 風に流され遭難しちまうさぁ！"
@@ -145,7 +145,7 @@ msgstr ""
 #, ruby
 msgid "talk05"
 msgstr ""
-"[Sound1 unk1=\"5\" unk2=\"17\"]雨の日に 海に出るのは\n"
+"[Sound1 bytes=\"0511\"]雨の日に 海に出るのは\n"
 "危ないのさ～！[PauseShort]\n"
 "風も強いし 船を操るのは至難のわざだ！\n"
 "生きては 帰ってこれないぜ！"
@@ -153,7 +153,7 @@ msgstr ""
 #, ruby
 msgid "talk08"
 msgstr ""
-"[Sound1 unk1=\"6\" unk2=\"0\"]その魚 旨そうだろ？[PauseShort]\n"
+"[Sound1 bytes=\"0600\"]その魚 旨そうだろ？[PauseShort]\n"
 "この近くの海で 獲れたものさぁ～\n"
 "欲しかったら 好きなだけ 持っていくさ～\n"
 "多めに 焼きすぎてしまったのさぁ"

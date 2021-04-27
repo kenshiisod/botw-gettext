@@ -1,42 +1,42 @@
 #, ruby
 msgid "GoodBye00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"12\"]私は この砦を目指して ここまで来たんだ\n"
+"[Sound1 bytes=\"030C\"]私は この砦を目指して ここまで来たんだ\n"
 "せっかく ここまで来たというのに…"
 
 msgid "Guardian00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"14\"]くそぉ ガーディアンめ！"
+msgstr "[Sound1 bytes=\"080E\"]くそぉ ガーディアンめ！"
 
 #, ruby
 msgid "After00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"13\"]おまえは あの城のような建造物が\n"
+"[Sound1 bytes=\"000D\"]おまえは あの城のような建造物が\n"
 "何なのか 知っているのか？"
 
 #, ruby
 msgid "Failed00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]私としたことが…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]私としたことが…[PauseMid]\n"
 "かっこ悪い姿を 見せてしまったな\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]同じ旅の者として おまえに忠告するが[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]同じ旅の者として おまえに忠告するが[PauseShort]\n"
 "魔物を甘く見るんじゃないぞ"
 
 #, ruby
 msgid "After01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"12\"]私の力では ここまでか…"
+msgstr "[Sound1 bytes=\"030C\"]私の力では ここまでか…"
 
 #, ruby
 msgid "Failed01"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]私としたことが 油断した…\n"
+"[Sound1 bytes=\"0900\"]私としたことが 油断した…\n"
 "\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]城に見とれていたら やられてしまったよ[PauseShort]\n"
+"[Sound1 bytes=\"0001\"]城に見とれていたら やられてしまったよ[PauseShort]\n"
 "おまえも 背後には気をつけるんだぞ"
 
 #, ruby
 msgid "After02"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"24\"]あれは [Color name=\"red\"]アッカレ砦[Color name=\"unset\"]といって\n"
+"[Sound1 bytes=\"0018\"]あれは [Color name=\"red\"]アッカレ砦[Color name=\"unset\"]といって\n"
 "大昔 ハイラル王国がまだ健在だったころ…\n"
 "このアッカレ地方を守るために建設されたもので\n"
 "難攻不落の砦と言われていた\n"
@@ -52,11 +52,11 @@ msgstr ""
 #, ruby
 msgid "After02_2"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"17\"]私の先祖も ここで死んだと聞いてな \n"
+"[Sound1 bytes=\"0311\"]私の先祖も ここで死んだと聞いてな \n"
 "一度は弔いをしたいと 足を運んだのだが…\n"
 "ガーディアンが まだ動いているとなると\n"
 "ここまでのようだな… \n"
-"[Sound1 unk1=\"0\" unk2=\"12\"]ガーディアンに立ち向かって\n"
+"[Sound1 bytes=\"000C\"]ガーディアンに立ち向かって\n"
 "生き残った人間は いないそうだ… \n"
 "おまえは そんな無謀なやつには見えないが\n"
 "もし砦に向かうのなら 十分注意するんだぞ！"
@@ -64,17 +64,17 @@ msgstr ""
 #, ruby
 msgid "After03"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"16\"]こんな巨大な建造物や \n"
+"[Sound1 bytes=\"0010\"]こんな巨大な建造物や \n"
 "廃墟になった街を見ていると…\n"
 "いかに 昔のハイラル王国が\n"
 "栄華を誇っていたというのが 見て取れるな\n"
-"[Sound1 unk1=\"3\" unk2=\"13\"]本当は もっと近くに行ってみたいところだが…[PauseMid]\n"
+"[Sound1 bytes=\"030D\"]本当は もっと近くに行ってみたいところだが…[PauseMid]\n"
 "砦に向かうのなら 十分注意するんだぞ！"
 
 #, ruby
 msgid "SavedLv1_00"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"17\"]ふん…[PauseMid]\n"
+"[Sound1 bytes=\"0011\"]ふん…[PauseMid]\n"
 "手間をかけたな…\n"
 "あんなやつなら 私だけで十分倒せたが\n"
 "まあ これは礼だ 取っておけ"
@@ -82,31 +82,31 @@ msgstr ""
 #, ruby
 msgid "SavedLv2_00"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"13\"]くっ…[PauseMid]\n"
+"[Sound1 bytes=\"030D\"]くっ…[PauseMid]\n"
 "助けられたようだな…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]まあ 今の魔物ぐらいなら なんとかなったが\n"
+"[Sound1 bytes=\"0001\"]まあ 今の魔物ぐらいなら なんとかなったが\n"
 "一応 礼は しておこう"
 
 #, ruby
 msgid "SavedLv3_00"
 msgstr ""
-"[Sound1 unk1=\"9\" unk2=\"0\"]す… すまない…[PauseMid]\n"
+"[Sound1 bytes=\"0900\"]す… すまない…[PauseMid]\n"
 "はっきり言って 今の魔物は やばかった\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]私も 剣には自信があったのだが…\n"
+"[Sound1 bytes=\"0001\"]私も 剣には自信があったのだが…\n"
 "これは 礼だ 取っておいてくれ！"
 
 #, ruby
 msgid "SavedLv1_01"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"15\"]ちっ…[PauseMid]\n"
+"[Sound1 bytes=\"030F\"]ちっ…[PauseMid]\n"
 "余計なことを…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]あんなやつなら 私だけで十分倒せたが\n"
+"[Sound1 bytes=\"0001\"]あんなやつなら 私だけで十分倒せたが\n"
 "まあ 礼はせねばな！ 取っておけ"
 
 #, ruby
 msgid "SavedLv2_01"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"18\"]……[PauseMid]\n"
+"[Sound1 bytes=\"0012\"]……[PauseMid]\n"
 "助かったぞ…\n"
 "今の魔物は なかなか手ごわかった\n"
 "礼をさせてもらうぞ"
@@ -114,9 +114,9 @@ msgstr ""
 #, ruby
 msgid "SavedLv3_01"
 msgstr ""
-"[Sound1 unk1=\"4\" unk2=\"8\"]強いんだな…[PauseMid]\n"
+"[Sound1 bytes=\"0408\"]強いんだな…[PauseMid]\n"
 "私が苦戦した魔物を こうもやすやすと…\n"
-"[Sound1 unk1=\"0\" unk2=\"1\"]おまえは ただ者ではないな？\n"
+"[Sound1 bytes=\"0001\"]おまえは ただ者ではないな？\n"
 "礼をさせてもらうぞ"
 
 msgid "Near00"
@@ -124,10 +124,10 @@ msgstr "[Sound2 id=\"13\"]くそ… ここまでか"
 
 #, ruby
 msgid "Atacked00"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]くそぉ こんなところで魔物か！"
+msgstr "[Sound1 bytes=\"020E\"]くそぉ こんなところで魔物か！"
 
 msgid "Atacked01"
-msgstr "[Sound1 unk1=\"2\" unk2=\"14\"]どうした かかってこい！"
+msgstr "[Sound1 bytes=\"020E\"]どうした かかってこい！"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "DQAAAAF0AQAAAAAAABIAAAAEAAAAUAAAAFIAAABUAAAAVgAAAFgAAABaAAAAXAAAAF4AAABgAAAAYgAAAGQAAACGAAAAqAAAAMoAAADsAAAADgEAADABAABSAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMQAyAAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADEAMgAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAxADIAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMQAyAAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADEAMgAAAE4AcABjAF8AQQB0AHQAYQBjAGsAZQBkAF8AMAAxADIAAABOAHAAYwBfAEEAdAB0AGEAYwBrAGUAZABfADAAMQAyAAAATgBwAGMAXwBBAHQAdABhAGMAawBlAGQAXwAwADEAMgAAAAAAAA=="

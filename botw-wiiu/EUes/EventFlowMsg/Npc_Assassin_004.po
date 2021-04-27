@@ -11,33 +11,33 @@ msgid "0004"
 msgstr "¡¿Qué?!"
 
 msgid "Talk00"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Ay, jo...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Ay, jo...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0005"
 msgstr "Eh..."
 
 msgid "Talk01"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Jooo...[PauseLong] Quiero...[Choice2 label1=\"2\" label2=\"3\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"032A\"]Jooo...[PauseLong] Quiero...[Choice2 label1=\"2\" label2=\"3\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk02"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Salmón[PauseLong] asado.[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+msgstr "[Sound1 bytes=\"0001\"]Salmón[PauseLong] asado.[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "Talk03"
-msgstr "[Sound1 unk1=\"0\" unk2=\"1\"]Y también..."
+msgstr "[Sound1 bytes=\"0001\"]Y también..."
 
 msgid "Talk04"
-msgstr "[Sound1 unk1=\"3\" unk2=\"42\"]Jooo...[PauseLong] Yo solo quiero..."
+msgstr "[Sound1 bytes=\"032A\"]Jooo...[PauseLong] Yo solo quiero..."
 
 msgid "Henshin00"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡La vida del elegido hyliano![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡La vida del elegido hyliano![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Talk05"
 msgstr ""
-"[Sound1 unk1=\"3\" unk2=\"42\"]Jooo...[PauseMid] Seguro que no vuelvo\n"
+"[Sound1 bytes=\"032A\"]Jooo...[PauseMid] Seguro que no vuelvo\n"
 "a verlo nunca jamás."
 
 msgid "Henshin01"
-msgstr "[Sound1 unk1=\"8\" unk2=\"35\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Va por el [C9:00 bytes=\"01000000\"]maestro Kogg![Size percent=\"100\"][PauseAuto frames=\"60\"]"
+msgstr "[Sound1 bytes=\"0823\"][01:01 bytes=\"00004040\"][Size percent=\"125\"]¡Va por el [C9:00 bytes=\"01000000\"]maestro Kogg![Size percent=\"100\"][PauseAuto frames=\"60\"]"
 
 msgid "Near00"
 msgstr "[Sound2 id=\"40\"]Jooo..."

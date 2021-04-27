@@ -1,16 +1,16 @@
 msgid "talk_0001"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Bah... Waarom dromen mannen altijd van\n"
+"[Sound1 bytes=\"0B00\"]Bah... Waarom dromen mannen altijd van\n"
 "macht?[PageBreak]Natuurlijk kun je met dat zwaard alle\n"
 "monsters wegjagen, maar dat maakt je\n"
-"nog niet meteen een goed persoon...[Choice2 label1=\"0\" label2=\"1\" selectednum=\"0\" cancelnum=\"1\"]"
+"nog niet meteen een goed persoon...[Choice2 label1=\"0\" label2=\"1\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 msgid "0000"
 msgstr "Elke man wil macht!"
 
 msgid "talk_0002"
 msgstr ""
-"[Sound1 unk1=\"11\" unk2=\"0\"]Dat dacht ik al... Je bent tenslotte\n"
+"[Sound1 bytes=\"0B00\"]Dat dacht ik al... Je bent tenslotte\n"
 "helemaal naar de stal in de bergen\n"
 "gekomen..."
 
@@ -19,24 +19,24 @@ msgstr "Je hebt gelijk."
 
 msgid "talk_0003"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"4\"]Als dat [Color name=\"red\"]zwaard dat het onheil verdrijft[Color name=\"unset\"]\n"
+"[Sound1 bytes=\"0004\"]Als dat [Color name=\"red\"]zwaard dat het onheil verdrijft[Color name=\"unset\"]\n"
 "echt bestaat, hoop ik dat een aardig\n"
 "persoon als jij het vindt..."
 
 msgid "talk_5000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ik hoorde je praten met Danton.[PageBreak]Ik ben bang dat ik je niet kan helpen.\n"
+"[Sound1 bytes=\"0000\"]Ik hoorde je praten met Danton.[PageBreak]Ik ben bang dat ik je niet kan helpen.\n"
 "Maar ik zal de stal schoonhouden, dus je\n"
 "kunt hier altijd komen uitrusten."
 
 msgid "talk_1000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Ik moet nog snel schoonmaken voordat\n"
+"[Sound1 bytes=\"0000\"]Ik moet nog snel schoonmaken voordat\n"
 "de dag aanbreekt..."
 
 msgid "talk_2000"
 msgstr ""
-"[Sound1 unk1=\"0\" unk2=\"0\"]Welkom in de [Color name=\"blue\"]sneeuwvlaktestal[Color name=\"unset\"].[PageBreak]Als je dieper de sneeuw in wilt, raad ik je\n"
+"[Sound1 bytes=\"0000\"]Welkom in de [Color name=\"blue\"]sneeuwvlaktestal[Color name=\"unset\"].[PageBreak]Als je dieper de sneeuw in wilt, raad ik je\n"
 "aan om eerst goed uit te rusten in een\n"
 "van onze zachte bedden."
 

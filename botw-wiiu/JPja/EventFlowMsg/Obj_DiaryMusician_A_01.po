@@ -12,7 +12,7 @@ msgstr ""
 "[Color name=\"blue\"]ゲルドの塔[Color name=\"unset\"] がどこにあるのか 分からなかったが\n"
 "つい最近 世界各地に 謎の塔が出現した\n"
 "おそらく ゲルド地方に出現した塔が\n"
-"[Color name=\"blue\"]ゲルドの塔[Color name=\"unset\"]だと思われる[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"blue\"]ゲルドの塔[Color name=\"unset\"]だと思われる[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk10"
@@ -22,7 +22,7 @@ msgstr ""
 "今は亡き 師匠との約束を ようやく果たせた…\n"
 "きっと師匠も 喜んでくださっているだろう\n"
 "家族たちには 寂しい思いをさせてしまった…\n"
-"一度 [Color name=\"blue\"]リトの村[Color name=\"unset\"]に 帰ることにする[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"一度 [Color name=\"blue\"]リトの村[Color name=\"unset\"]に 帰ることにする[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "0004"
@@ -36,7 +36,7 @@ msgstr ""
 "フィローネ地方の [Color name=\"blue\"]コーラル湖[Color name=\"unset\"]にある巨岩に\n"
 "古の詩の言い伝えが あるようだ\n"
 "あの辺りは 激しい雷雨になることが多いらしい\n"
-"調べに行くときには 万全の準備をしなければ…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"調べに行くときには 万全の準備をしなければ…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0005"
@@ -50,7 +50,7 @@ msgstr ""
 "ラネール地方の [Color name=\"blue\"]ホロン湾[Color name=\"unset\"]には\n"
 "風にまつわる 古の詩があるそうだ\n"
 "[Color name=\"blue\"]ホロン湾[Color name=\"unset\"]では 常に強い風が吹いているという\n"
-"行く際には 十分注意しなくては…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"行く際には 十分注意しなくては…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk07"
@@ -62,7 +62,7 @@ msgstr ""
 "何でも 古の勇者が いずれまた復活するであろう\n"
 "厄災に備え 蓄えを隠したそうだ\n"
 "古の勇者の蓄え… 一体どのくらい\n"
-"巨万の富が 隠されているのだろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"巨万の富が 隠されているのだろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk08"
@@ -72,7 +72,7 @@ msgstr ""
 "そして この[Color name=\"blue\"]ワシュアの丘[Color name=\"unset\"]にも\n"
 "赤い月の夜にまつわる 古の詩がある\n"
 "いつ起こるか分からない 赤い月の夜…\n"
-"あの短い夜の間に 何かが起こるのだろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"あの短い夜の間に 何かが起こるのだろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "talk09"
@@ -80,13 +80,13 @@ msgstr ""
 "これらが 私が発見した\n"
 "古の詩のすべてである\n"
 "これらをすべて 現世の勇者に伝えられる日が\n"
-"来ることを願いつつ 旅を続けることにする[Choice2 label1=\"4\" label2=\"5\" selectednum=\"0\" cancelnum=\"1\"]"
+"来ることを願いつつ 旅を続けることにする[Choice2 label1=\"4\" label2=\"5\" select_idx=\"0\" cancel_idx=\"1\"]"
 
 #, ruby
 msgid "talk00"
 msgstr ""
 "「古の詩を求める 旅の記録をここに残す」\n"
-"[Color name=\"blue\"]カッシーワ[Color name=\"unset\"][Choice3 label1=\"0\" label2=\"1\" label3=\"2\" selectednum=\"0\" cancelnum=\"2\"]"
+"[Color name=\"blue\"]カッシーワ[Color name=\"unset\"][Choice3 label1=\"0\" label2=\"1\" label3=\"2\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0000"
@@ -100,7 +100,7 @@ msgstr ""
 "フィローネ地方の [Color name=\"blue\"]樹海スグラント[Color name=\"unset\"]には\n"
 "その土地に 古くから伝わる詩があるようだ\n"
 "その詩の中には 龍や大蛇も出てくるらしい\n"
-"果たして 今でも龍や大蛇など いるのだろうか…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"果たして 今でも龍や大蛇など いるのだろうか…[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0001"
@@ -114,7 +114,7 @@ msgstr ""
 "西ハイラル平原の 南側にある[Color name=\"blue\"]ジェド橋[Color name=\"unset\"]\n"
 "その近くには 輪の形をした 無数の岩がある\n"
 "その岩にまつわる 古の詩があるらしい\n"
-"いったい どのような詩だろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"いったい どのような詩だろうか…？[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 #, ruby
 msgid "0002"
@@ -128,7 +128,7 @@ msgstr ""
 "ラネール地方の南 [Color name=\"blue\"]アラブー平野[Color name=\"unset\"]には\n"
 "獣にまつわる 古の詩があるそうだ\n"
 "アラブー平野は [Color name=\"blue\"]カカリコ村[Color name=\"unset\"]の北東にある\n"
-"村で休憩してから 調べに行くことにしよう[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" selectednum=\"0\" cancelnum=\"2\"]"
+"村で休憩してから 調べに行くことにしよう[Choice3 label1=\"3\" label2=\"4\" label3=\"5\" select_idx=\"0\" cancel_idx=\"2\"]"
 
 msgid "_ReadOnly_MsbtExtras"
 msgstr "CwAAAAFSAgAAAAAAABEAAAAEAAAATAAAAE4AAABQAAAAUgAAAFQAAABWAAAAWAAAAIYAAAC0AAAA4gAAABABAAA+AQAAbAEAAJoBAADIAQAA9gEAACQCAAAAAAAAAAAAAAAAAABPAGIAagBfAEQAaQBhAHIAeQBNAHUAcwBpAGMAaQBhAG4AXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkATQB1AHMAaQBjAGkAYQBuAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AE0AdQBzAGkAYwBpAGEAbgBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBNAHUAcwBpAGMAaQBhAG4AXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkATQB1AHMAaQBjAGkAYQBuAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AE0AdQBzAGkAYwBpAGEAbgBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBNAHUAcwBpAGMAaQBhAG4AXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkATQB1AHMAaQBjAGkAYQBuAF8AQQBfADAAMQAAAE8AYgBqAF8ARABpAGEAcgB5AE0AdQBzAGkAYwBpAGEAbgBfAEEAXwAwADEAAABPAGIAagBfAEQAaQBhAHIAeQBNAHUAcwBpAGMAaQBhAG4AXwBBAF8AMAAxAAAATwBiAGoAXwBEAGkAYQByAHkATQB1AHMAaQBjAGkAYQBuAF8AQQBfADAAMQAAAAAAAA=="
