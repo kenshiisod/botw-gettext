@@ -1,4 +1,4 @@
-use msbt::Msbt;
+use msbt::{Msbt, Encoding};
 use potty::PotMessage;
 use msbt::section::txt2::Token;
 use std::io::{Read, Seek, BufRead, Write};
@@ -319,8 +319,16 @@ pub fn tokens_to_string(msbt: &Msbt, message: &mut PotMessage, value: &[Token]) 
                 }
                 format!("[{} {}]", name, params.iter().map(|p| p.to_string()).collect::<String>())
             },
-            Token::Text(b) => String::from_utf16_lossy(&b.chunks(2)
-                .map(|bs| u16::from_le_bytes([bs[0], bs[1]])).collect::<Vec<u16>>()),
+            Token::Text(b) => {
+                match msbt.header().encoding() {
+                    Encoding::Utf16 => String::from_utf16_lossy(
+                        &b.chunks(2)
+                            .map(|bs| u16::from_le_bytes([bs[0], bs[1]]))
+                            .collect::<Vec<u16>>()
+                    ),
+                    _ => String::from_utf8_lossy(b).to_string()
+                }
+            },
             Token::TagEnd => format!("[/{} ]", name),
             _ => "".to_string()
         }
@@ -348,7 +356,7 @@ pub fn string_to_tokens<R: std::io::BufRead + std::io::Read + std::io::Seek>(rea
         }
 
         if !prev_bytes.is_empty() {
-            tokens.push(Token::Text(String::from_utf8_lossy(&prev_bytes).to_string()));
+            tokens.push(Token::Text(prev_bytes));
             prev_bytes = Vec::new();
         }
 
@@ -362,7 +370,7 @@ pub fn string_to_tokens<R: std::io::BufRead + std::io::Read + std::io::Seek>(rea
         if is_closing {
             tokens.push(Token::TagEnd);
         } else {
-            let mut codes = match tag_name_to_codes(&tag_name) {
+            let codes = match tag_name_to_codes(&tag_name) {
                 Some(t) => t,
                 _ => {
                     prev_bytes.push(b'[');
@@ -386,6 +394,6 @@ pub fn string_to_tokens<R: std::io::BufRead + std::io::Read + std::io::Seek>(rea
         }
     }
 
-    tokens.push(Token::Text(String::from_utf8_lossy(&prev_bytes).to_string()));
+    tokens.push(Token::Text(prev_bytes));
     tokens
 }
