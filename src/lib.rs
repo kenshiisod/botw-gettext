@@ -1,5 +1,5 @@
 mod model;
-pub mod game;
+pub mod helper;
 
 use byteordered::{Endianness};
 use potty::{Pot, PotMessage};
@@ -10,7 +10,7 @@ use std::io::{Read, Seek};
 const EXTRAS_ID: &str = "_ReadOnly_MsbtExtras";
 const VERSION_ID: &str = "_ReadOnly_Version";
 
-pub fn po_from_msbt<R: Read + Seek>(reader: &mut R, parse_fn: fn (&Msbt, &mut PotMessage, &[Token]) -> String) -> Pot {
+pub fn po_from_msbt<R: Read + Seek>(reader: &mut R, parse_fn: fn (&Msbt, &mut PotMessage, &[Token])) -> Pot {
     let msbt = Msbt::from_reader(reader);
     let msbt = msbt.unwrap();
     let lbl1 = msbt.lbl1().unwrap();
@@ -19,9 +19,8 @@ pub fn po_from_msbt<R: Read + Seek>(reader: &mut R, parse_fn: fn (&Msbt, &mut Po
 
     for (i, label) in lbl1.labels().iter().enumerate() {
         let mut message = PotMessage::new();
-        let value = parse_fn(&msbt, &mut message, &txt2.values()[i]);
+        parse_fn(&msbt, &mut message, &txt2.values()[i]);
         message.id = Some(label.name().to_string());
-        message.strings.push(value);
         pot.messages.push(message);
     }
 
@@ -56,11 +55,14 @@ pub fn msbt_from_po<R: Read + Seek>(mut reader: &mut R, parse_fn: fn (&PotMessag
     let mut _potty_version = "";
 
     for message in &pot.messages {
-        let context = message.context.clone().unwrap_or_default();
+        let id = match message.id {
+            Some(ref id) => id,
+            _ => continue
+        };
         let value: String = message.strings[0].clone();
-        if context == EXTRAS_ID {
-            msbt_extras = Some(bincode::deserialize(value.as_bytes()).unwrap());
-        } else if context == VERSION_ID {
+        if id == EXTRAS_ID {
+            msbt_extras = Some(bincode::deserialize(&base64::decode(value).unwrap()).unwrap());
+        } else if id == VERSION_ID {
             _potty_version = &value;
         }
     }
@@ -80,9 +82,9 @@ pub fn msbt_from_po<R: Read + Seek>(mut reader: &mut R, parse_fn: fn (&PotMessag
         builder = builder.nli1(msbt::section::Nli1::new_unlinked(nli1.id_count, nli1.global_ids));
     }
     for message in &pot.messages {
-        let context = message.context.clone().unwrap_or_default();
-        if context != EXTRAS_ID && context != VERSION_ID {
-            builder = builder.add_label(context, parse_fn(&message));
+        let id = message.id.clone().unwrap_or_default();
+        if id != EXTRAS_ID && id != VERSION_ID {
+            builder = builder.add_label(id, parse_fn(&message));
         }
     }
 
